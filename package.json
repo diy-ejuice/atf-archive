@@ -1,15 +1,15 @@
 {
-  "name": "flavor-safety",
+  "name": "atf-archive",
   "private": true,
-  "description": "A repository of vaping flavor safety information.",
+  "description": "A repository of ATF recipes and flavors.",
   "version": "0.1.0",
   "author": "ayan4m1 <andrew@bulletlogic.com>",
-  "homepage": "https://safety.diyejuice.org",
+  "homepage": "https://atf-archive.diyejuice.org",
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ayan4m1/flavor-safety.git"
+    "url": "git@github.com:ayan4m1/atf-archive.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -61,7 +61,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.0",
-    "husky": "^4.2.5",
+    "husky": "^4.3.5",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0",
