@@ -1,5 +1,5 @@
 import { formatRelative, parseISO } from 'date-fns';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
 import {
@@ -16,6 +16,7 @@ import {
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import Reviews from '~components/Reviews';
+import { getMixerSlug } from '~utils';
 
 export default function RecipePage({ data }) {
   const recipe = data.recipesJson;
@@ -49,11 +50,18 @@ export default function RecipePage({ data }) {
             <Card.Title>
               <Row>
                 <Col xs={3}>
-                  <img src={recipe.image_url} alt="recipe" />
+                  {recipe.image_url && (
+                    <img src={recipe.image_url} alt="recipe" />
+                  )}
                 </Col>
                 <Col xs={9}>
                   <h1>{recipe.name}</h1>
-                  <h2>by {recipe.author}</h2>
+                  <h2>
+                    by{' '}
+                    <Link to={getMixerSlug({ name: recipe.author })}>
+                      {recipe.author}
+                    </Link>
+                  </h2>
                   <h4>{recipe.views} views</h4>
                   <Row className="atf-recipe-review-info">
                     <Col xs={4}>

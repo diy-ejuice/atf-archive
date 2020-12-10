@@ -3,7 +3,11 @@ import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Navbar, Nav } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEyeDropper, faList } from '@fortawesome/free-solid-svg-icons';
+import {
+  faEyeDropper,
+  faList,
+  faUser
+} from '@fortawesome/free-solid-svg-icons';
 import {
   faDiscord,
   faRedditAlien,
@@ -25,6 +29,9 @@ const Header = ({ siteTitle }) => (
         </Nav.Link>
         <Nav.Link as={Link} to="/recipes">
           <FontAwesomeIcon icon={faList} /> Recipes
+        </Nav.Link>
+        <Nav.Link as={Link} to="/mixers">
+          <FontAwesomeIcon icon={faUser} /> Mixers
         </Nav.Link>
       </Nav>
       <Nav className="ml-auto">
