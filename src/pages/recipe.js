@@ -10,7 +10,8 @@ import {
   Table,
   Button,
   Accordion,
-  ProgressBar
+  ProgressBar,
+  Image
 } from 'react-bootstrap';
 
 import Layout from '~components/Layout';
@@ -49,19 +50,19 @@ export default function RecipePage({ data }) {
           <Card.Header>
             <Card.Title>
               <Row>
-                <Col xs={3}>
+                <Col xs={12} md={3}>
                   {recipe.image_url && (
-                    <img src={recipe.image_url} alt="recipe" />
+                    <Image src={recipe.image_url} alt="recipe" fluid />
                   )}
                 </Col>
-                <Col xs={9}>
-                  <h1>{recipe.name}</h1>
-                  <h2>
+                <Col xs={12} md={9}>
+                  <h2>{recipe.name}</h2>
+                  <h3>
                     by{' '}
                     <Link to={getMixerSlug({ name: recipe.author })}>
                       {recipe.author}
                     </Link>
-                  </h2>
+                  </h3>
                   <h4>{recipe.views} views</h4>
                   <Row className="atf-recipe-review-info">
                     <Col xs={4}>
