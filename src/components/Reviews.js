@@ -5,15 +5,18 @@ import { Card } from 'react-bootstrap';
 export default function Reviews({ recipe }) {
   const { reviews } = recipe;
 
-  return reviews.map((review) => (
-    <Card key={review.user}>
-      <Card.Header>
-        <Card.Title>{review.user}</Card.Title>
-        <p>Score: {review.score}/5</p>
-      </Card.Header>
-      <Card.Body>{review.text}</Card.Body>
-    </Card>
-  ));
+  return (
+    reviews &&
+    reviews.map((review) => (
+      <Card key={review.user}>
+        <Card.Header>
+          <Card.Title>{review.user}</Card.Title>
+          <p>Score: {review.score}/5</p>
+        </Card.Header>
+        <Card.Body>{review.text}</Card.Body>
+      </Card>
+    ))
+  );
 }
 
 Reviews.propTypes = {
