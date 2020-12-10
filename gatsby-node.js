@@ -1,5 +1,5 @@
 const { resolve } = require('path');
-const { getRecipeSlug } = require('./src/utils');
+const { getFlavorSlug, getRecipeSlug } = require('./src/utils');
 
 const createPages = async (
   pageName,
@@ -45,25 +45,26 @@ const createRecipePages = (options) =>
     options
   );
 
-// const createFlavorPages = (options) =>
-//   createPages(
-//     'flavor',
-//     `
-// {
-//   pageJson: allFlavorsJson {
-//     nodes {
-//       id
-//       name
-//     }
-//   }
-// }
-// `,
-//     getFlavorSlug,
-//     options
-//   );
+const createFlavorPages = (options) =>
+  createPages(
+    'flavor',
+    `
+{
+  pageJson: allFlavorsJson {
+    nodes {
+      id
+      name
+      vendor
+    }
+  }
+}
+`,
+    getFlavorSlug,
+    options
+  );
 
 exports.createPages = async (options) => {
-  // await createFlavorPages(options);
+  await createFlavorPages(options);
   await createRecipePages(options);
 };
 
