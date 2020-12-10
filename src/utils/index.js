@@ -1,7 +1,7 @@
 const getSlug = (slug) =>
   slug
     .replace(/\s+/g, '-')
-    .replace(/[*"?|:#\\<>(),.]/g, '')
+    .replace(/[*"?|:#\\<>(),.%']/g, '')
     .toLowerCase();
 
 const getFlavorSlug = (flavor) =>
