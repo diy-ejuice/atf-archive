@@ -1,3 +1,4 @@
+import { formatRelative, parseISO } from 'date-fns';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
@@ -20,6 +21,25 @@ export default function RecipePage({ data }) {
   const recipe = data.recipesJson;
   const flavors = recipe.recipe_flavors;
 
+  let progressClass;
+
+  switch (Math.floor(recipe.recipe_score)) {
+    case 5:
+    case 4:
+      progressClass = 'success';
+      break;
+    case 3:
+    case 2:
+      progressClass = 'warning';
+      break;
+    case 1:
+      progressClass = 'danger';
+      break;
+    default:
+      progressClass = 'primary';
+      break;
+  }
+
   return (
     <Layout>
       <SEO title={`${recipe.name} by ${recipe.author}`} />
@@ -34,11 +54,25 @@ export default function RecipePage({ data }) {
                 <Col xs={9}>
                   <h1>{recipe.name}</h1>
                   <h2>by {recipe.author}</h2>
-                  <h3>{recipe.total_reviews} reviews</h3>
-                  <ProgressBar
-                    now={(recipe.recipe_score / 5.0) * 1e2}
-                    label={recipe.recipe_score}
-                  />
+                  <h4>{recipe.views} views</h4>
+                  <Row className="atf-recipe-review-info">
+                    <Col xs={4}>
+                      <h4>{recipe.total_reviews} reviews</h4>
+                    </Col>
+                    <Col>
+                      <ProgressBar
+                        variant={progressClass}
+                        now={(recipe.recipe_score / 5.0) * 1e2}
+                        label={`${recipe.recipe_score} / 5`}
+                      />
+                    </Col>
+                  </Row>
+                  {recipe.updated_at && (
+                    <h4>
+                      Last edited{' '}
+                      {formatRelative(parseISO(recipe.updated_at), Date.now())}
+                    </h4>
+                  )}
                 </Col>
               </Row>
             </Card.Title>
@@ -48,16 +82,16 @@ export default function RecipePage({ data }) {
             <Table striped>
               <thead>
                 <tr>
-                  <th>%</th>
-                  <th>Vendor</th>
+                  <th className="text-right">%</th>
+                  <th className="text-right">Vendor</th>
                   <th>Flavor</th>
                 </tr>
               </thead>
               <tbody>
                 {flavors.map((flavor) => (
                   <tr key={`${flavor.vendor}-${flavor.name}`}>
-                    <td>{flavor.millipercent / 1e3}</td>
-                    <td>{flavor.vendor}</td>
+                    <td className="text-right">{flavor.millipercent / 1e3}</td>
+                    <td className="text-right">{flavor.vendor}</td>
                     <td>{flavor.name}</td>
                   </tr>
                 ))}
@@ -70,6 +104,12 @@ export default function RecipePage({ data }) {
                 <Fragment>
                   <dt>Temperature</dt>
                   <dd>{recipe.temperature}</dd>
+                </Fragment>
+              )}
+              {recipe.best_vg !== '0%' && (
+                <Fragment>
+                  <dt>Ideal VG %</dt>
+                  <dd>{recipe.best_vg}</dd>
                 </Fragment>
               )}
             </dl>
@@ -103,6 +143,9 @@ export const pageQuery = graphql`
       temperature
       recipe_score
       total_reviews
+      updated_at
+      best_vg
+      views
       recipe_flavors {
         name
         vendor
