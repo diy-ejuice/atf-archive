@@ -1,3 +1,8 @@
+const fs = require('fs');
+const gracefulFs = require('graceful-fs');
+
+gracefulFs.gracefulify(fs);
+
 module.exports = {
   siteMetadata: {
     title: 'ATF Archive',
