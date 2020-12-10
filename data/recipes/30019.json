@@ -1,0 +1,50 @@
+{
+  "name": "Cherry Moya",
+  "description": "A bright tropical blend of Cherimoya, Guanabana, Mango, and Cherries in a delicate whipped cream.\r\n\r\nINW Mango: I started originally with FLV Mango but found it to stand out too much and take on a syrupy tone when combined with the others. At 2% the mango is straightforward and present, with a mild \"green\" note freshly mixed. This helps create a strong tropical base for the Guanabana and Cherimoya flavors to work their magic.\r\n\r\nFLV Guanabana: My first attempts used this much higher, but I found it to also take on a sort of syrupy texture when I used it too high, so over a few revisions I dialed it back to 1.5%. At this percentage, in conjunction with Cheriymoya, we get a nice authentic Soursop that's both tangy and bright.\r\n\r\nINW Cherimoya: This stuff is potent as hell, but authentic. Freshly mixed it'll overpower the Guanabana but after a steep they blend well to create a singular Soursop flavor. It has a bit of a peel flavor to it that I feel adds to the authenticity without overtly affecting the final profile.\r\n\r\nINW Cherries: Anything less than 2% and you can't taste them in this mix at all. Initially I feared this would cause some unwanted medicinal flavors, but I found that when combined with other strong bodied flavors they did exactly the opposite. A bright, but not overpowering cherry note to sweeten the final mix. Initially I used a few strawberry variations in the place of this, but found the INW Cherries to do a much better job at sweetening the mix while adding a little more tartness to the final profile.\r\n\r\nCAP Vanilla Whipped Cream: All original versions of this contained FA Whipped Cream, but as it's been discontinued I reformulated to use CAP. This final touch adds a light, but sweet cream base to smooth over some of the green/tart notes while creating a nice sweet finish that doesn't take away from the authenticity of the fruits or add a granulated sugar type flavor. At 2.5% it's perceptibly present, but not overly so.",
+  "id": 30019,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30019/SB_Palm_Trees_for_HomePage_Crop.png",
+  "updated_at": "2020-12-07T23:35:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mango",
+      "flavor_id": 664,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Guanabana",
+      "flavor_id": 4427,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cherimoya (yc)",
+      "flavor_id": 738,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cherries",
+      "flavor_id": 757,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Kopel",
+  "views": "2914",
+  "slug": "cherry_moya",
+  "total_flavoring": "9.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "40",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Lemon Cheesecake",
+  "description": "Not sure how this will be. I will update after it steeps and I get to taste it.",
+  "id": 130430,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:32:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 408,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 1335,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "chris_walker_ffl",
+  "views": "1065",
+  "slug": "lemon_cheesecake",
+  "total_flavoring": "15.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "60",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "cbunker35",
+      "score": "none",
+      "text": "It's been over a year. Have you tasted it yet?"
+    }
+  ]
+}

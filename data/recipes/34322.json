@@ -1,0 +1,56 @@
+{
+  "name": "Chowdahead",
+  "description": "This is one of those recipes that I truly love. I'm a huge bakery/cream guy, and this hits all the notes for me\r\n\r\n\r\nCAP Boston Cream Pie v2 is the only version I was able to find at the time I formulated this recipe. I haven't looked for the original version, but the v2 does the job. When I made the recipe, I got a little influence from our good buddy Wayne. One of the first recipes I mixed was Bronuts. Now, I wasn't a fan, but I'm not knocking it by any means. It actually helped me out a lot, though. It gave me the idea to take a single flavor that was already decent or good (BCPv2) and add to it to make it better, like Wayne did with CAP Chocolate Glazed Doughnut. So. CAP BCPv2 at 7% gives us a solid foundation to build off of.\r\n\r\nFrom the base, I felt the first addition needed to be more custard, because, if you didn't know, Boston Cream Pie is actually two chunks of yellow cake slapped together with some vanilla custard used as mortar, slathered with delicious chocolate frosting or ganache. CAP Vanilla Custard v1, the all-star, at 2% was just enough to add in an excellent base for that mortar we need. I used CAP NY Cheesecake at 0.5% to tone down the sweetness of the the custard, and TFA VBIC at 1% to lighten it up just a bit and add in some more vanilla goodness. \r\n\r\nFinally, and this is the questionable ingredient, FW Yellow Cake at 0.75% is used to add in, well, cake. I felt that we needed a little more cakey goodness here. At first I tried 1.5%, and it was a little too much. The mix came out very sweet, due to the sucrose, so I lowered it down a bit. Less cancer. More yum. Win win.\r\n\r\nI do mix this recipe strictly at MAX VG, but that's just personal preference. There's no real reason for it, I just prefer this one to be silky smooth. ",
+  "id": 34322,
+  "image_url": null,
+  "updated_at": "2020-12-05T17:42:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Boston Cream Pie V2",
+      "flavor_id": 2154,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SleepersDemon",
+  "views": "1193",
+  "slug": "chowdahead",
+  "total_flavoring": "11.5%",
+  "steep_days": "5",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

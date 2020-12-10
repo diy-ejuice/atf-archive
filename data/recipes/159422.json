@@ -1,0 +1,50 @@
+{
+  "name": "A Creme Brulee",
+  "description": "A friend asked for a full creme brulee recipe so here is my take on it. \r\n\r\nCreme brulee is just cream, vanilla, eggs and sugar.  \r\n\r\nThe VT Creme Brulee is a great flavor but I felt it was best to make it a bit creamer with FLV Cream and it does add cream body.  The FLV Vanilla Bean in the mix adds the vanilla bean note that would be in a traditional creme brulee. \r\n\r\nVT Honeycomb adds a nice, uncomplicated sweetness in place of a burnt sugar topping.  TPA Vanilla Custard of course adds the eggy feel to the mix. ",
+  "id": 159422,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/159422/creme_brulee.JPG",
+  "updated_at": "2020-12-07T17:35:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Creme Brulee",
+      "flavor_id": 8864,
+      "millipercent": 4000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeycomb",
+      "flavor_id": 8901,
+      "millipercent": 250,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Bean",
+      "flavor_id": 8573,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 750,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Aritria",
+  "views": "1001",
+  "slug": "a_creme_brulee",
+  "total_flavoring": "8.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

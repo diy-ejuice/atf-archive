@@ -1,0 +1,50 @@
+{
+  "name": "Snake Bite",
+  "description": "An improvement on a Seduce Juice vape, with a little more bite to the apple. Give the coconuts and cream a week to combine",
+  "id": 9162,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9162/bite_me.jpg",
+  "updated_at": "2020-12-08T00:48:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple",
+      "flavor_id": 207,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 317,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 7000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ID10-T",
+  "views": "2248",
+  "slug": "snake_bite",
+  "total_flavoring": "14.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

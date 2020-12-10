@@ -1,0 +1,38 @@
+{
+  "name": "Purple Gum",
+  "description": "This is a basic bubblegum flavor\r\n\r\ninw grape is like a grape soda flavor minus the carbonation.\r\nla bubblegum is the basic pink bubblegum flavor, the base for this recipe\r\ncap marshmallow makes up the mouthfeel in the recipe ",
+  "id": 34162,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34162/prof-gum-purple-700x700.jpg",
+  "updated_at": "2020-12-07T22:31:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bubble Gum",
+      "flavor_id": 923,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Grape",
+      "flavor_id": 784,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marshmallow (new)",
+      "flavor_id": 6675,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "falon1000",
+  "views": "1665",
+  "slug": "purple_gum",
+  "total_flavoring": "6.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

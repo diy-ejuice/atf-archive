@@ -1,0 +1,62 @@
+{
+  "name": "Lawson Bar",
+  "description": "I borrowed fairly heavily from Mechmod RN's Yogi and Sejouced's Granola Bay with a few twists.\r\n\r\nThe Maple syrup actually cooks the apple in the cran apple a bit, which is quite nice.\r\n\r\nThe pudding base is the majority of the AP in the recipe along with the cereal 27, along with a lovely buttery note.",
+  "id": 180975,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/180975/usapple_apple-cran-granola-bar-670x405.jpg",
+  "updated_at": "2020-12-07T17:36:08.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Granola",
+      "flavor_id": 8555,
+      "millipercent": 1300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pudding Base",
+      "flavor_id": 8948,
+      "millipercent": 400,
+      "vendor": "VT"
+    },
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Honey SC",
+      "flavor_id": 10408,
+      "millipercent": 400,
+      "vendor": "WF"
+    },
+    {
+      "name": "Apple Cranberry",
+      "flavor_id": 4372,
+      "millipercent": 800,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 200,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "702",
+  "slug": "lawson_bar",
+  "total_flavoring": "5.1%",
+  "steep_days": "14 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Cigarillo doce",
+  "description": "straight tobacco-cigarillo taste with a touch of vanilla and nuts.good company for your morning coffee or late night drink.enjoy!",
+  "id": 74961,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:26:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Madagascar Bourbon Vanilla Flavor",
+      "flavor_id": 4193,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "nks",
+  "views": "1305",
+  "slug": "cigarillo_doce",
+  "total_flavoring": "8.5%",
+  "steep_days": "15",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

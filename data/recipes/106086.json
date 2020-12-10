@@ -1,0 +1,62 @@
+{
+  "name": "Purplesaurus Rex (Low Voltage)",
+  "description": "This is a grape lemonade recipe designed for low voltage pod systems using nic salts. \r\n\r\nChildren of the eighties know that before Barney, there was the OG purple dinosaur.  Purplesaurus Rex didn't show you he loved you with a great big hug; he crashed through your wall with his pal Koolaid Man in a face-melting blast of super fruity flavor.  This was one of my favorite summertime drinks as a kid, second only to Hi-C Ecto Cooler.  This mix hits the flavor profile perfectly.  \r\n\r\nFLV Grape has an artificial/candy grape flavor, like grape bubblegum or grape Kool-Aid.  An obvious choice here.\r\n\r\nThanks to Botboy's original INW Lemonade combo (and to ID10-T for pointing it out in the r/DIY_eJuice FOTW Lemonade thread), I used INW Lemon Concentrate and INW Lemon Mix at a 3:1 ratio for a great lemonade base. The Lemon Concentrate is a sweet candy lemon flavor, and the Lemon Mix adds a touch of tart lemon zest. This is actually a more authentic lemonade than is probably called for in a Koolaid flavor profile, but with the FLV Grape on top, I think it still works best here.  If it's too lemony for you, try leaving out the Lemon Mix.\r\n\r\nYou can adapt the recipe for sub-ohm vaping by reducing the fruit flavors by 30% and the coolant by 50% (FLV Grape 1%, INW Lemon Concentrate 2%, INW Lemon Mix 0.7%, Cap Super Sweet 0.25%, WS-23 1%).",
+  "id": 106086,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106086/rex.jpeg",
+  "updated_at": "2020-12-08T00:50:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape",
+      "flavor_id": 2593,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 660,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 2000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "BravesFan",
+  "views": "2219",
+  "slug": "purplesaurus_rex_low_voltage",
+  "total_flavoring": "7.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "gravi-tea",
+      "score": "4",
+      "text": "this was a good interpretation that we enjoyed. the contrast between the grape and lemon isn't one I would have had at the top of my list but it's definitely enjoyable."
+    },
+    {
+      "user": "kindground",
+      "score": "5",
+      "text": "This is so delicious, and simple, and unique. I love it! The candy FLV Grape up next to my favorite candy lemon/real lemon combo is just genius. I used the Subohm recipe and lowered the coolant a bit more. "
+    }
+  ]
+}

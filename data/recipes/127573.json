@@ -1,0 +1,74 @@
+{
+  "name": "Mama's Pie",
+  "description": "A homemade delicious butterscotch and ice cream pie.Yummy and ready to vape from the first day.\r\nIf you like a hint of chocolate,use vta's vanilla ice cream @ 1.5% and add vta devon cream @ 1.3%",
+  "id": 127573,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127573/butterscotch-cream-pie2.jpg",
+  "updated_at": "2020-12-07T17:35:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Breakfast Cereals",
+      "flavor_id": 8810,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Butter Pecan",
+      "flavor_id": 1212,
+      "millipercent": 800,
+      "vendor": "FW"
+    },
+    {
+      "name": "Butterscotch Cream Pie",
+      "flavor_id": 6045,
+      "millipercent": 1500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 1500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 8993,
+      "millipercent": 2000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "nks",
+  "views": "1702",
+  "slug": "mamas_pie",
+  "total_flavoring": "9.1%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

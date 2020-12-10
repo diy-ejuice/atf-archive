@@ -1,0 +1,56 @@
+{
+  "name": "Gin & Tonic",
+  "description": "A tasty little vape but please share any changes you think it may benefit from. \r\n\r\nCAP Cucumber as a sub at 2% is ok, could then probably omit the cactus. I prefer FLV as it's more earthy - as it should be for a G&T but it's a tad too earthy at 1% which is the right amount for the flavour I want so a drop of sweetner sorts that out, I use two or three drops of SS per 50ml. Was hoping the blood orange would provide all the sweetness needed but it just doesn't. \r\nFor that slice of lemon Lemon Mix is what you're after.\r\nA touch of WS-23 if you wish. I like it without. \r\nMay try a tiny amount of mint too but not sure about it working with the blood orange. ",
+  "id": 162179,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162179/32523617600_0ddbafb5a6_c.jpg",
+  "updated_at": "2020-11-28T13:02:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cucumber",
+      "flavor_id": 4384,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 7698,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Botanical Gin",
+      "flavor_id": 9887,
+      "millipercent": 4500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Tonic Water",
+      "flavor_id": 9900,
+      "millipercent": 4000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 750,
+      "vendor": "INW"
+    }
+  ],
+  "author": "twodollaregg",
+  "views": "765",
+  "slug": "gin_tonic",
+  "total_flavoring": "12.25%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "45",
+  "recipe_score": 0,
+  "reviews": []
+}

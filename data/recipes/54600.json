@@ -1,0 +1,56 @@
+{
+  "name": "Neapolitan Ice Cream",
+  "description": "Has a good base layer of vanilla ice cream with a chocolate side note and a mixture of strawberries and strawberry syrup. I tried to make each layer of the ice cream noticeable and I feel that it works in this recipe.",
+  "id": 54600,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54600/neo.jpg",
+  "updated_at": "2020-12-07T12:46:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate",
+      "flavor_id": 489,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cocoa",
+      "flavor_id": 496,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "MopHead",
+  "views": "1412",
+  "slug": "neapolitan_ice_cream",
+  "total_flavoring": "12.0%",
+  "steep_days": "21",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

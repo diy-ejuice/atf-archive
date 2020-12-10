@@ -1,0 +1,50 @@
+{
+  "name": "Red Dragon",
+  "description": "Tart lychee and dragon fruit on the inhale followed up by a gooey strawberry syrup on the exhale",
+  "id": 146495,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146495/29295020-japanese-dragon.jpg",
+  "updated_at": "2020-12-07T23:37:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dragon Fruit - Pitaya",
+      "flavor_id": 652,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lychee",
+      "flavor_id": 246,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Lychee",
+      "flavor_id": 119,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Foment_life",
+  "views": "1921",
+  "slug": "red_dragon",
+  "total_flavoring": "5.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

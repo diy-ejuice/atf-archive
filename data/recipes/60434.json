@@ -1,0 +1,56 @@
+{
+  "name": "SIN",
+  "description": "A sinful taste\r\nFresh citrus fruit\r\nWith the frost of a frozen mountain",
+  "id": 60434,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/60434/1152g96g89.jpg",
+  "updated_at": "2020-12-02T10:28:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cucumber",
+      "flavor_id": 558,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 900,
+      "vendor": "FA"
+    },
+    {
+      "name": "Orange",
+      "flavor_id": 500,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Absinthe",
+      "flavor_id": 341,
+      "millipercent": 200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 700,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Pmnb",
+  "views": "1579",
+  "slug": "sin",
+  "total_flavoring": "4.8%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

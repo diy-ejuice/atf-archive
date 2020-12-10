@@ -1,0 +1,80 @@
+{
+  "name": "Lovely Breakfast ",
+  "description": "A cereal bowl with creamy yogurt and berries. It can be easy an adv recipe. ",
+  "id": 144331,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/144331/35e10da5-9e6f-4c82-9f6d-33bae93682eb.jpg",
+  "updated_at": "2020-12-06T12:56:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 173,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lucky Leprechaun Cereal",
+      "flavor_id": 141,
+      "millipercent": 2750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry Jam",
+      "flavor_id": 18,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Nickinthemix",
+  "views": "1376",
+  "slug": "lovely_breakfast",
+  "total_flavoring": "11.75%",
+  "steep_days": "10",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

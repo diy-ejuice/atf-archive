@@ -1,0 +1,32 @@
+{
+  "name": "Noted Milk",
+  "description": "It's like Mustard Malk but in some ways better, Some ways worse.\r\nIt's good.\r\n",
+  "id": 129088,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:35:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Shisha Raspberry",
+      "flavor_id": 8967,
+      "millipercent": 5000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Toffee Ice Cream",
+      "flavor_id": 8987,
+      "millipercent": 8000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "Jerrysnaps",
+  "views": "973",
+  "slug": "noted_milk",
+  "total_flavoring": "13.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

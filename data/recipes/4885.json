@@ -1,0 +1,80 @@
+{
+  "name": "P'eye Candy",
+  "description": "A delicious caramel apple pie topped with a touch of powdered sugar.",
+  "id": 4885,
+  "image_url": null,
+  "updated_at": "2020-11-30T04:41:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Pie",
+      "flavor_id": 8,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Caramel (original)",
+      "flavor_id": 149,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Torrone",
+      "flavor_id": 550,
+      "millipercent": 300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Mts Vape Wizard",
+      "flavor_id": 482,
+      "millipercent": 150,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Bilic",
+  "views": "1101",
+  "slug": "peye_candy",
+  "total_flavoring": "9.95%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

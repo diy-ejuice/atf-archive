@@ -1,0 +1,51 @@
+{
+  "name": "Ginger Zinger",
+  "description": "My take on a Ginger Ale with Rum -- The TFA Ginger Ale tastes like the syrup of what would be a mix between Vernor's and store brand Ginger Ale, and the TFA Champagne does a good job of watering down the syrup a bit and providing an essence of effervescence ",
+  "id": 10037,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/10037/Capture.JPG",
+  "updated_at": "2020-12-08T00:48:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ginger Ale",
+      "flavor_id": 354,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "CheebaSteeba",
+  "views": "1686",
+  "slug": "ginger_zinger",
+  "total_flavoring": "9.0%",
+  "steep_days": "1",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Thadentman",
+      "score": "5",
+      "text": "This tastes very close to a dark and stormy. Goslings black rum and ginger beer. Very good recipe!"
+    }
+  ]
+}

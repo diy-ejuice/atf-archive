@@ -1,0 +1,50 @@
+{
+  "name": "Fruit bowl ade",
+  "description": "Going a nice fruity citrus lemonade \r\nI am open to suggestions as this is my first attempt at my own recioe.\r\nPlease be honest.",
+  "id": 160746,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160746/received_1345277555637563.jpeg",
+  "updated_at": "2020-12-05T15:44:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Rainbow Sherbet",
+      "flavor_id": 1390,
+      "millipercent": 750,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Surtees00",
+  "views": "797",
+  "slug": "fruit_bowl_ade",
+  "total_flavoring": "9.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

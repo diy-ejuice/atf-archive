@@ -1,0 +1,57 @@
+{
+  "name": "happy halloween candy",
+  "description": "just a simple Halloween candy since its right around the corner",
+  "id": 70238,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Candy Corn",
+      "flavor_id": 1225,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Jelly Candy",
+      "flavor_id": 2170,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 1351,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Pumpkin Spice",
+      "flavor_id": 1387,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Conradvape",
+  "views": "1306",
+  "slug": "happy_halloween_candy",
+  "total_flavoring": "8.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "95",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Germ",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

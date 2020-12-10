@@ -1,0 +1,63 @@
+{
+  "name": "Albatross",
+  "description": "This is my summer ADV. Im not much of an Adv guy, but having a newborn has forced me to enjoy a single recipe for an extended period and put mixing on hold.  These are all flavors that everyone should have, and are very useful for all kinds of recipes out there. Please try not to sub out the VT banana custard, it works amazingly here and other bananas suck.",
+  "id": 201303,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201303/images.jpeg",
+  "updated_at": "2020-12-08T00:51:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Double Apple",
+      "flavor_id": 45,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DumHed",
+  "views": "845",
+  "slug": "albatross",
+  "total_flavoring": "10.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "420%",
+  "temperature": "420",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "AutomaticFailure",
+      "score": "5",
+      "text": "This is such a weird but addicting mix. Why does this work so oddly but so satisfying? 5 stars!"
+    }
+  ]
+}

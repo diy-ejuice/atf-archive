@@ -1,0 +1,44 @@
+{
+  "name": "Watermelon Coconut",
+  "description": "One of my first mixes and it was good but needs more .. Im going to try a new coconut when i get one",
+  "id": 92560,
+  "image_url": null,
+  "updated_at": "2020-11-30T20:55:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Watermelon",
+      "flavor_id": 276,
+      "millipercent": 10000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dx Coconut Candy",
+      "flavor_id": 229,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "llisahere",
+  "views": "269",
+  "slug": "watermelon_coconut",
+  "total_flavoring": "20.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

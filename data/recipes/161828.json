@@ -1,0 +1,57 @@
+{
+  "name": "Idris Melba",
+  "description": "Idris Melba\r\n\r\nRich Vanilla Ice-Cream with juicy peaches and sweet raspberry sauce.\r\n\r\nLB vanilla ice cream and FA custard premium make up the ice cream, everything else is self explanatory... MB nectar peach is really good peach, hints of nectarine present really bring out the best of the peach.\r\n\r\nIf you like this recipe and what I do then please rate and review accordingly :)\r\n",
+  "id": 161828,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/161828/E76EF9D8-7BB5-42D7-BBF9-79C4FB2FB9F4.png",
+  "updated_at": "2020-12-08T00:51:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 4500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Nectar Peach",
+      "flavor_id": 1528,
+      "millipercent": 4500,
+      "vendor": "MB"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 5500,
+      "vendor": "LB"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Nickevz",
+  "views": "1243",
+  "slug": "idris_melba",
+  "total_flavoring": "16.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "AAP-DAAP-DERP",
+      "score": "5",
+      "text": "Another great one! Thanks!"
+    }
+  ]
+}

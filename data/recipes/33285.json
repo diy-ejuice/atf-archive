@@ -1,0 +1,63 @@
+{
+  "name": "Mtn Dew Livewire",
+  "description": "I tried too look up tfa max dew but nobody has used so I had too type citrus punch for the mtn dew flavor \r\nTFA orange cream is the main flavor in this and will the creamy orange soda\r\nCAP it will help brighten up the orange cream and make it feel like a better orange flavor\r\nKoolada will give it the chill factor and make it seem like there is fizz in the soda\r\nguys mix this up its a perfect S&V and it taste just like sodalicious orange cream soda",
+  "id": 33285,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:08.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 4500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Juicy Orange",
+      "flavor_id": 80,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 7698,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Conradvape",
+  "views": "1454",
+  "slug": "mtn_dew_livewire",
+  "total_flavoring": "13.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "110",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "TheGothicSkunk",
+      "score": "5",
+      "text": "This has to be one of my favorite recipes at the moment. Great work!"
+    }
+  ]
+}

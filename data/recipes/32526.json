@@ -1,0 +1,69 @@
+{
+  "name": "Strawberry ice and cream",
+  "description": "My take on a strawberry ice cream. Must steep for one week.",
+  "id": 32526,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32526/small-20170414-11497-1iv8d2m.jpg",
+  "updated_at": "2020-12-08T00:49:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Moggle33",
+  "views": "1631",
+  "slug": "strawberry_ice_and_cream",
+  "total_flavoring": "14.0%",
+  "steep_days": "7",
+  "best_vg": "75%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "LaJuanaPipa",
+      "score": "4",
+      "text": "I have made almost the same recipe this week, I have not test it yet but now I am possitive it gonna work.&#xD;\n"
+    }
+  ]
+}

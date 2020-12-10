@@ -1,0 +1,56 @@
+{
+  "name": "Peach Vanilla",
+  "description": "",
+  "id": 25044,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:39:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Nectar Peach",
+      "flavor_id": 1528,
+      "millipercent": 1500,
+      "vendor": "MB"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 750,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Larsson",
+  "views": "958",
+  "slug": "peach_vanilla",
+  "total_flavoring": "9.25%",
+  "steep_days": "12",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Blueberry Pancake",
+  "description": "I am very new to this. I am trying to make a blueberry pancake so i tried it with the cake but I have ordered the waffle flavor waiting on it to try it with that. Still need to try it yet",
+  "id": 92592,
+  "image_url": null,
+  "updated_at": "2020-11-19T17:30:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry Extra",
+      "flavor_id": 8739,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 5854,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 331,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 400,
+      "vendor": "FW"
+    }
+  ],
+  "author": "llisahere",
+  "views": "273",
+  "slug": "blueberry_pancake",
+  "total_flavoring": "3.2%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

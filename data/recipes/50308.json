@@ -1,0 +1,50 @@
+{
+  "name": "Fried Nana Base",
+  "description": "Simple no-frills base for a fried banana ice cream treat, for the DoD weekend mixing assignment.\r\n\r\nTFA Banana cream / FW white chocolate - these two combine to create a sugary cooked banana flavour. \r\nThis creates an effect like the natural caramelisation of the sugars in the banana when fried. \r\nNeeds a couple of days for this effect to blossom.\r\n\r\nVBIC/Meringue - the ice cream base. Meringue adds some nice additional sweetness and texture.\r\n\r\nStrawberry Ripe - contributes a jammy quality to the cooked banana and is also used in place of sweetener.\r\n\r\nI could see some caramels or nuts (almond, peanut butter, walnut) as well as spices like cinnamon being nice additions to the base.\r\n\r\n",
+  "id": 50308,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50308/fried.jpg",
+  "updated_at": "2020-12-07T05:57:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 1462,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "method1",
+  "views": "1449",
+  "slug": "fried_nana_base",
+  "total_flavoring": "12.0%",
+  "steep_days": "4 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

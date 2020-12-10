@@ -1,0 +1,56 @@
+{
+  "name": "Dirty Foster",
+  "description": "*A tobacco take on Bananas Foster.*\r\n\r\nBananas Foster is a traditional New Orleans dessert made from bananas and vanilla ice cream, with a sauce made from butter, brown sugar, cream, cinnamon, dark rum, and banana liqueur. The butter, sugar, cream, pinch of cinnamon, and bananas are cooked, and then alcohol is added and ignited. The bananas and sauce are then served over the ice cream.\r\n\r\nFA Soho's warm, soft, caramel flavor fills out much of the caramelized brown sugar sauce, while its light tobacco notes replace the traditional cinnamon spice and put the \"dirty\" in Dirty Foster. TFA Banana Cream is pushed about as far as it can go here without starting to push back in a banana candy sort of way. It gives a nice banana flavor with creamy banana volume, but not enough real banana. FA Banana is thin and one-dimensional by itself, but boosts Banana Cream, creating a bolder, more authentic banana. TFA Vanilla Bean Ice Cream fills two roles; it gives it that buttery goodness of the rich sauce and provides the scoop of vanilla ice cream that everything is served on. JF Bavarian also does double duty, creamifying the sauce and making the otherwise solid TFA VBIC seem to start to melt under the heat of hot bananas. FA Jamaica Special's very dark, molassesy, brown sugar and rum flavor really comes to purpose here. It cooks the banana, gives us that distinctive liquor flavor that makes Bananas Foster a dessert for grownups, and finishes the sauce like a tableside flambe.  ",
+  "id": 21364,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/21364/banana.jpg",
+  "updated_at": "2020-12-07T17:33:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banò (banana)",
+      "flavor_id": 501,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Soho",
+      "flavor_id": 413,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 4466,
+      "millipercent": 1500,
+      "vendor": "JF"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ID10-T",
+  "views": "3209",
+  "slug": "dirty_foster",
+  "total_flavoring": "16.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

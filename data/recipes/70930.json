@@ -1,0 +1,56 @@
+{
+  "name": "Peanut Butter Base flavor concentrate",
+  "description": "Base mix for homemade PB. Slightly modified HIC's peanut butter. Needs a bit of steeping, then it should smell exactly like TPA PB.",
+  "id": 70930,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:54:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 2,
+  "recipe_flavors": [
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 35294,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 23529,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 11765,
+      "vendor": "FA"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 8824,
+      "vendor": "FA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 8824,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peanuts",
+      "flavor_id": 805,
+      "millipercent": 11765,
+      "vendor": "INW"
+    }
+  ],
+  "author": "cexshun",
+  "views": "1191",
+  "slug": "peanut_butter_base_flavor_concentrate",
+  "total_flavoring": "100.001%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

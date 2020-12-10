@@ -1,0 +1,50 @@
+{
+  "name": "Iced Green Tea Latte",
+  "description": "A nice refreshing profile. Pretty straightforward and simple formula. Nice floral green tea with a splash of cream and a touch of lemon. Super chilled with the ws-23 without the menthol like taste of ice flavors. This is an awesome recipe that’s perfect for a warm day!",
+  "id": 191470,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191470/F179BDFE-61EE-425A-BED2-7FFFA4382A8A.jpeg",
+  "updated_at": "2020-12-07T23:38:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Tea Green",
+      "flavor_id": 549,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon (water Soluble)",
+      "flavor_id": 243,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "enzonik",
+  "views": "365",
+  "slug": "iced_green_tea_latte",
+  "total_flavoring": "7.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

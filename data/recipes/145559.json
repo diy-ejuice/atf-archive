@@ -1,0 +1,50 @@
+{
+  "name": "Minty Blowfish",
+  "description": "An African Horned Cucumber gin cocktail inspired by this recipe:  http://fruitmaven.com/2010/02/minty-blowfish-kiwano-cocktail/\r\n\r\nAfter my first experiment with African Horned Cucumber, I was determined to tame the beast, and researched how the fruit was used in cooking.  This recipe was intriguing.  The mint and gin are strong enough to balance the African Horned Cucumber, and it takes its place as a team player.  \r\n\r\nTested on Digiflavor Siren 2 with 1 ohm ss316 at 16 watts",
+  "id": 145559,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145559/kiwano-cocktail.jpg",
+  "updated_at": "2020-12-07T20:32:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "African Horned Cucumber SC",
+      "flavor_id": 9012,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Botanical Gin",
+      "flavor_id": 9887,
+      "millipercent": 500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lemon Juicy",
+      "flavor_id": 4743,
+      "millipercent": 1500,
+      "vendor": "JF"
+    },
+    {
+      "name": "Spearmint",
+      "flavor_id": 284,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Wine Champagne",
+      "flavor_id": 457,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "goosegirl",
+  "views": "930",
+  "slug": "minty_blowfish",
+  "total_flavoring": "7.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

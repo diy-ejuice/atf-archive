@@ -1,0 +1,62 @@
+{
+  "name": "Banana Butter",
+  "description": "Thick creamy bananas blended in a decadent rich milky smoothie.",
+  "id": 105292,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/105292/banana-milk-shake.jpg",
+  "updated_at": "2020-12-02T09:26:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Purée",
+      "flavor_id": 6042,
+      "millipercent": 1500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Golden Butter",
+      "flavor_id": 60,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dairy/Milk",
+      "flavor_id": 2164,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "xXxLEONIDASxXx",
+  "views": "1567",
+  "slug": "banana_butter",
+  "total_flavoring": "10.0%",
+  "steep_days": "6",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

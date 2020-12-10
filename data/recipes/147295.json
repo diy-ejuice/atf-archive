@@ -1,0 +1,44 @@
+{
+  "name": "Tea to the Grape",
+  "description": "Simple grape tea recipe . Nice as shake and vape but best after 2 weeks steep as FLV tea come out and blend perfectly with the grape . lemonade helps giving more juiciness to the recipe and pink fruit smooth a bit the acidity of the grape. Sweeten and ice to taste",
+  "id": 147295,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147295/images.jpg",
+  "updated_at": "2020-12-02T08:00:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black tea",
+      "flavor_id": 9377,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pink Fruit",
+      "flavor_id": 10091,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Grape",
+      "flavor_id": 2593,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 636,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "gammavaping",
+  "views": "980",
+  "slug": "tea_to_the_grape",
+  "total_flavoring": "4.5%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

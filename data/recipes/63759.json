@@ -1,0 +1,38 @@
+{
+  "name": "Married Life: Honeydew This, Honeydew That",
+  "description": "Okay, so I wanted to make a really good solid fruity all day vape without too much candy flavors in there. The requisites of this were 1) Simple 2) SNV and 3) common ingredients. Just the fruits alone I found lacked body and didn't really work for what I wanted to create. The FA Fuji Apple creates a really good flavor when combined with TPA Honeydew, I tinkered with the percentages with both of these and even went as high as 5% Honeydew and found that anything over 4% created a really weird chemical like off note. So at 4% and 3% I found made a perfect happy medium. The Jelly Candy I found created a really nice body without battling to come to the front. ",
+  "id": 63759,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63759/images.jpg",
+  "updated_at": "2020-12-07T17:34:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Jelly Candy",
+      "flavor_id": 2170,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "wolfioso",
+  "views": "1590",
+  "slug": "married_life_honeydew_this_honeydew_that",
+  "total_flavoring": "11.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

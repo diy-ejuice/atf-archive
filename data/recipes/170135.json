@@ -1,0 +1,50 @@
+{
+  "name": "Hidden Berries",
+  "description": "The Mixin Vixens challenge.   Mixed berries with cream topped with a cookie.\r\n\r\nRed berries in the mix are INW Raspberry and FW Razzleberry.\r\nFLV Blueberry Muffin bring in the blueberry, and backs up the JF Biscuit.\r\nWF Cream Filling is the cream.\r\n\r\nIt is good off the shake, but does improve as it steeps.\r\n\r\nTested on Citadel 0.3 ohm 40 watts",
+  "id": 170135,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/170135/HiddenBerries.jpg",
+  "updated_at": "2020-12-05T11:06:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 1500,
+      "vendor": "JF"
+    },
+    {
+      "name": "Blueberry Muffin",
+      "flavor_id": 608,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream Filling SC",
+      "flavor_id": 10260,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Razzleberry",
+      "flavor_id": 1393,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "goosegirl",
+  "views": "886",
+  "slug": "hidden_berries",
+  "total_flavoring": "7.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

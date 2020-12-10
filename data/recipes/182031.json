@@ -1,0 +1,62 @@
+{
+  "name": "Holy Nuts Cream",
+  "description": "Walnut Ice Cream with caramel drizzle.\r\n\r\nFirst the name, this is a Holy Nuts ice Cream beacuse i'm using the (Holy) Trinity of Vanilla ice cream (wich is awsame) and Nuts is for Fa Nut mix as is a generic nut flavour leading more towards a walnut flavour than other nuts. I think that using this combined you get a pretty nice upfront \"walnut\" ice cream.\r\n\r\nThe caramel drizzle is made by FW Butterscotch Ripple and WF Caramel Butter wich together add a nice drizzle of caramel on top this Holy Nuts Cream.",
+  "id": 182031,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182031/IMG_1624.PNG",
+  "updated_at": "2020-12-06T20:52:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 750,
+      "vendor": "HS"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 5000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel Butter",
+      "flavor_id": 6046,
+      "millipercent": 1500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "VenSyBoy",
+  "views": "820",
+  "slug": "holy_nuts_cream",
+  "total_flavoring": "12.25%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

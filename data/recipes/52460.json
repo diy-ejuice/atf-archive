@@ -1,0 +1,68 @@
+{
+  "name": "Leaf Cutter Blend",
+  "description": "as you might noticed, i am creating a lot of crazy stuff lately.\r\nI found good inspiration with food pairings and give opposite flavors a chance to play together.\r\n\r\nhere, i made a interesting recipe for you which includes tartness, fruits, limes, tea and guava\r\nthe tartness of cranberry has distinct floral note that blends well with lemon tea and bergamot.\r\nGuava is used here not only to give a juicy mouthfeel but also adding floral notes to the cranberry.\r\nKey Lime is added to boost the high notes, lime zest adds sharpness.\r\n\r\nit needs to sit 3-4 days, but after that it will be a taste you might not expect.",
+  "id": 52460,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52460/Oil10-Bergamot.jpg",
+  "updated_at": "2020-12-07T09:43:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Guava",
+      "flavor_id": 580,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cranberry",
+      "flavor_id": 41,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Grass",
+      "flavor_id": 2592,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Bergamot",
+      "flavor_id": 469,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Tea",
+      "flavor_id": 3515,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon Zest",
+      "flavor_id": 4854,
+      "millipercent": 300,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Echodub",
+  "views": "1480",
+  "slug": "leaf_cutter_blend",
+  "total_flavoring": "5.7%",
+  "steep_days": "4",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

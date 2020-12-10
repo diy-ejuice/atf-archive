@@ -1,0 +1,38 @@
+{
+  "name": "Hackmaster",
+  "description": "Ok, the name may be obscure, but for old-style gamers, nothing else means TPK like Hackmaster.\r\n",
+  "id": 122662,
+  "image_url": null,
+  "updated_at": "2020-12-01T03:15:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "COB",
+  "views": "1340",
+  "slug": "hackmaster",
+  "total_flavoring": "12.0%",
+  "steep_days": "4",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

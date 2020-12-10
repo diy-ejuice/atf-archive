@@ -1,0 +1,50 @@
+{
+  "name": "Yogaberry",
+  "description": "Strawberry kiwi yogurt.  Has a slight butter note initally that should steep out after 3 days leaving a sweet and sour rich yogurt.",
+  "id": 80445,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/80445/original.jpeg",
+  "updated_at": "2020-12-05T16:43:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 1330,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Juicy Strawberry",
+      "flavor_id": 8779,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 615,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1782",
+  "slug": "yogaberry",
+  "total_flavoring": "10.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

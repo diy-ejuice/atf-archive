@@ -1,0 +1,50 @@
+{
+  "name": "Honeycomb Custard",
+  "description": "A DAAP free recipe. Made this at the back end of July 2018 inspired by Nick's Honeycomb custard https://alltheflavors.com/recipes/110483#honeycomb_custard_by_nickevz  Despite it being DAAP free, it's incredibly tasty. Needs a long steep to reach it's potential though. Hope you enjoy it..",
+  "id": 124004,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124004/HoneyComb_Custard.JPG",
+  "updated_at": "2020-12-07T17:35:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Creme Brulee",
+      "flavor_id": 8864,
+      "millipercent": 3000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Honeycomb",
+      "flavor_id": 8901,
+      "millipercent": 6000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Sugar Cookie V2",
+      "flavor_id": 116,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 400,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 9000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "8062282",
+  "views": "1708",
+  "slug": "honeycomb_custard",
+  "total_flavoring": "19.9%",
+  "steep_days": "60",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

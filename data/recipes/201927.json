@@ -1,0 +1,50 @@
+{
+  "name": "The Spice",
+  "description": "This needs some balancing, so I'm very much open for ideas...\r\nThe recipe was influenced by the first-ever-premium liquid I've fallen in love back in 2014 - \"Gold Tiger\" by X-Bud(Liquideo FR). It's by no means a clone but rather an inspiration taken from the days of using low power mods and MTL atomizers (Vamo v5 and Nautilus).\r\n***\r\nI love the combination of various custards with CAP Cake Batter and there's nothing I can do about it. Tobaccos are not too bold but still quite noticeable even after two weeks of steeping. Thick caramel tobacco custard with some SPICE!\r\n***\r\nFor those who want less tobacco but more caramel can simply drop the HS Ry1 and increase HS Ry4 percentage up to 4% or use your preferred Ry4. Enjoy!",
+  "id": 201927,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201927/Dune2000-header-450.jpg",
+  "updated_at": "2020-12-07T22:34:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Ruyan Custard",
+      "flavor_id": 6066,
+      "millipercent": 6000,
+      "vendor": "WF"
+    },
+    {
+      "name": "RY4",
+      "flavor_id": 2060,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Caramel Toffee",
+      "flavor_id": 2121,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 1700,
+      "vendor": "CAP"
+    },
+    {
+      "name": "RY1",
+      "flavor_id": 2057,
+      "millipercent": 3000,
+      "vendor": "HS"
+    }
+  ],
+  "author": "AAP-DAAP-DERP",
+  "views": "444",
+  "slug": "the_spice",
+  "total_flavoring": "14.7%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

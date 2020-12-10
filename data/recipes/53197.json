@@ -1,0 +1,74 @@
+{
+  "name": "Hellbery",
+  "description": "Hellbery...\r\n\r\nThis recipe, is an Energy drink mixed with exotic fruits.\r\nGinger Ale and Polar Blast, added to give the Icy \"Soda Type\" Drink feeling.\r\nAs always use the Polar Blast or Koolada or any other Coolness additive at your own taste. I found my sweet spot of coolness @ 0.5%.",
+  "id": 53197,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53197/41XuC9gEvjL._SX385_.jpg",
+  "updated_at": "2020-12-05T00:27:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Energy Drink",
+      "flavor_id": 322,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Harvest Berry",
+      "flavor_id": 69,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Forrest Mix (forest Fruit Mix)",
+      "flavor_id": 453,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Ginger Ale",
+      "flavor_id": 1294,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "daffynash",
+  "views": "1725",
+  "slug": "hellbery",
+  "total_flavoring": "14.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Dark Lemonade",
+  "description": "A simple sweet summertime beverage. I'll probably add booze flavors next, but for now it's ok.",
+  "id": 117834,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:33:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "COB",
+  "views": "1623",
+  "slug": "dark_lemonade",
+  "total_flavoring": "7.5%",
+  "steep_days": "1",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

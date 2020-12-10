@@ -1,0 +1,38 @@
+{
+  "name": "Strawberry bubblegum",
+  "description": "This is one of my first mixes and it turned out very good. Tasted just like strawberry bubble gum. Any suggestions are always appreciated.",
+  "id": 92537,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:55:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bubble Gum",
+      "flavor_id": 1210,
+      "millipercent": 12000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "llisahere",
+  "views": "375",
+  "slug": "strawberry_bubblegum",
+  "total_flavoring": "13.0%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cream Base AKA Creamstone",
+  "description": "A simple cream base I use for most fruits, desserts, etc. Add your primary flavor profiles to this.",
+  "id": 20151,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20151/small-20161116-3207-1r1cffs.jpg",
+  "updated_at": "2020-12-08T00:48:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "TorturedZen",
+  "views": "5337",
+  "slug": "cream_base_aka_creamstone",
+  "total_flavoring": "4.5%",
+  "steep_days": "1",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Werttok",
+      "score": "4",
+      "text": "Solid cream base, vanilla custard helps balance out the sweetness of TPA VBIC"
+    }
+  ]
+}

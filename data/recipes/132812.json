@@ -1,0 +1,38 @@
+{
+  "name": "Pink Lemonade",
+  "description": "My roommate's recipe. Originally had 6% lemon but his notes say it \"gets weird after a few days\"  so I tried toning down the lemon a bit and added another .5% strawberry.",
+  "id": 132812,
+  "image_url": null,
+  "updated_at": "2020-12-06T01:08:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "1649",
+  "slug": "pink_lemonade",
+  "total_flavoring": "8.5%",
+  "steep_days": "1",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Black Beard",
+  "description": "Delicious rum raisin ice-cream that will have you spending your pieces of eight and shouting Aaarrgggh!!! While fondling a parrot!!",
+  "id": 199373,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199373/sketch-1593728757491.jpg",
+  "updated_at": "2020-12-06T12:56:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rum & Raisin",
+      "flavor_id": 9897,
+      "millipercent": 3500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Currant",
+      "flavor_id": 10171,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Warbstar17",
+  "views": "557",
+  "slug": "black_beard",
+  "total_flavoring": "19.25%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

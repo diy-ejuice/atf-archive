@@ -1,0 +1,73 @@
+{
+  "name": "A Better Glazed Donut",
+  "description": "my version of a glazed donut. hope everyone enjoys it. as a shake and vape it tastes more like a fancy vanilla custard. after a few days the vanillas start mellowing out and the full profile starts to come into play. \r\n\r\n*edit* removed INW biscuit @ 0.45%, suggested by duped\r\n*edit* adjusted levels down from suggestion by Penny\r\n\r\n",
+  "id": 88049,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 1500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Darthy",
+  "views": "2817",
+  "slug": "a_better_glazed_donut",
+  "total_flavoring": "7.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "JustMixIt",
+      "score": "5",
+      "text": "Awesome! This recipe is good right off the start. Balanced very well and is true to the description. I'm going to let it steep for a few days but I'm not sure it will make it that long. Excellent job on this recipe Darthy. Thanks for sharing!"
+    },
+    {
+      "user": "spicemustflow",
+      "score": "5",
+      "text": "I find CAP Glazed Doughnut stays pretty play-doh-y for at least a week, but after about 10 days this is great!"
+    },
+    {
+      "user": "Ayvaluv11",
+      "score": "5",
+      "text": "Pretty good right off the bat, not sure if I’ll get to see how good after a steep ! Would love to see a light cinnamon donut ! "
+    }
+  ]
+}

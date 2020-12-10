@@ -1,0 +1,68 @@
+{
+  "name": "Chocolate Strawberry Shake",
+  "description": "A chocolate shake with strawberries blended throughout. Much of this recipe was inspired/\"stolen\" from @ID10-T's \"Hear The Girls Come\" in which he stole @mlNikon's milkshake cream base (also used for this recipe). I have been loving this from day 1 until I killed the entire sample (about a week) and made a much larger batch. It seems to be best after 2-3 days. \r\n\r\nBased off a couple of tests, the rose somehow rounds out the strawberry and really brings this together for me. You can omit the FA rose if it is not in your arsenal and I would bump TFA Strawberry ripe up to 1.5%.",
+  "id": 54859,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54859/511_video.jpg",
+  "updated_at": "2020-12-07T17:34:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 4389,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 2750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rose",
+      "flavor_id": 511,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "InsidiousBrew",
+  "views": "1297",
+  "slug": "chocolate_strawberry_shake",
+  "total_flavoring": "9.95%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

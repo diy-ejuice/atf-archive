@@ -1,0 +1,50 @@
+{
+  "name": "Rin's Peanut Butter Pie",
+  "description": "This was supposed to be like the Peanut Butter pie you can get seasonally at Outback steakhouse. It has a Nutter Butter crust and a light peanut butter fluffy filling. It's divine IRL. My adaptation is okay.",
+  "id": 112775,
+  "image_url": null,
+  "updated_at": "2020-12-06T03:09:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cheesecake",
+      "flavor_id": 9361,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Honey Roasted Peanuts SC",
+      "flavor_id": 8371,
+      "millipercent": 500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 962,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 633,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "1214",
+  "slug": "rins_peanut_butter_pie",
+  "total_flavoring": "7.75%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

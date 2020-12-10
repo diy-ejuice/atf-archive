@@ -1,0 +1,50 @@
+{
+  "name": "I'll be dipped",
+  "description": "This recipe ia a strawberry dipped in white chocolate and vanilla Bourbon.",
+  "id": 103682,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103682/SmartSelect_20180601-115540_Chrome.jpg",
+  "updated_at": "2020-12-06T10:37:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 194,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla (bourbon)",
+      "flavor_id": 184,
+      "millipercent": 750,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Dank1",
+  "views": "1590",
+  "slug": "ill_be_dipped",
+  "total_flavoring": "11.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Peach Lightning",
+  "description": "My attempt at a peach moonshine. The LB peach is not my favorite, but it sits nice with the whiskey flavorings in this recipe and it adds a depth to the TFA juicy peach that gave me the idea for this recipe. Several drops of TFA Kentucky Bourbon and a couple of drops of FA Whisky later I had a smile on my face. Kick up the LB Peach to 4% and you get a very pronounced \"baked in whiskey\" peach flavor. I've been vaping this in my Mjolnir with a .25 ohm N80 fused clapton and in my Apocalypse  25 with a .15 ohm N80 fused clapton setup. Enjoy.",
+  "id": 182430,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182430/20200125_205203.jpg",
+  "updated_at": "2020-12-07T02:17:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach",
+      "flavor_id": 1497,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whisky",
+      "flavor_id": 556,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "robolto78",
+  "views": "596",
+  "slug": "peach_lightning",
+  "total_flavoring": "9.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

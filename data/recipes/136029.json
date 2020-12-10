@@ -1,0 +1,80 @@
+{
+  "name": "Broadway Lights",
+  "description": "Caramel Cheesecake. Testing VT Caramels over the personal favourit stone CAP NY Cheesecake 5%, TPA Cheesecake (Graham Crust) 2%, LA Cream Cheese Icing 1%. Steep days 7. ",
+  "id": 136029,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136029/broadway_lights_sq.jpg",
+  "updated_at": "2020-12-06T10:38:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit Base",
+      "flavor_id": 8828,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pudding Base",
+      "flavor_id": 8948,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Butter Toffee Base",
+      "flavor_id": 8844,
+      "millipercent": 150,
+      "vendor": "VT"
+    },
+    {
+      "name": "Creme Caramel",
+      "flavor_id": 8865,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Creme Brulee",
+      "flavor_id": 8864,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "Alx86",
+  "views": "1066",
+  "slug": "broadway_lights",
+  "total_flavoring": "16.45%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

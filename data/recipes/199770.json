@@ -1,0 +1,44 @@
+{
+  "name": "Blueberry Pie ",
+  "description": "Simple Blueberry Pie. Swap the Blueberry for your favorite fruit. \r\n\r\nWatch the video here: \r\nhttps://youtu.be/JQNX2Y57F40",
+  "id": 199770,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199770/6EEBB91F-885C-450D-83B6-50990BAB2630.jpeg",
+  "updated_at": "2020-12-07T17:36:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pie Crust",
+      "flavor_id": 2010,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "RUG_ly",
+  "views": "568",
+  "slug": "blueberry_pie",
+  "total_flavoring": "7.5%",
+  "steep_days": "1",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

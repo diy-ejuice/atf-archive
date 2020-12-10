@@ -1,0 +1,44 @@
+{
+  "name": "County Mango Slush",
+  "description": "This is a very simple recipe. I wanted to create a mango slush.\r\nI used FA Mango to simulate the fruit pulp, the mature part.\r\nTPA Mango instead is the least mature part of the fruit and increases the tropical effect.\r\nObviously the koolada creates the ice effect and the sugar makes everything much sweeter and more like a slush\r\n\r\n[ITA] http://www.mixnvape.co/2017/07/06/county-mango-slush/",
+  "id": 51302,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/51302/atf_mangoSlush.png",
+  "updated_at": "2020-12-01T16:12:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Costarica Special (mango)",
+      "flavor_id": 579,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 247,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "mixnvape",
+  "views": "1760",
+  "slug": "county_mango_slush",
+  "total_flavoring": "10.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

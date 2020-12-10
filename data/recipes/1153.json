@@ -1,0 +1,62 @@
+{
+  "name": "Marmalade Cream Pie",
+  "description": "If you like orange marmalade give it a try.",
+  "id": 1153,
+  "image_url": null,
+  "updated_at": "2020-12-01T14:11:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Marmalade (GS)",
+      "flavor_id": 2434,
+      "millipercent": 8500,
+      "vendor": "TW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 62,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "bigmac",
+  "views": "990",
+  "slug": "marmalade_cream_pie",
+  "total_flavoring": "16.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

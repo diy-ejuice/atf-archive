@@ -1,0 +1,44 @@
+{
+  "name": "Autumn Evenings",
+  "description": "A slightly sweetened Yam tobacco. Very Autumn-esque. Sweetened with the Molasses, and the tab blend seems to have a hint of sweetness. A good evening savory vape. It does have a longer steep, but that is mainly for the Tab Blended to settle where it needs to go, along with the Yam to do the same.",
+  "id": 120095,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/120095/Autumn.jpg",
+  "updated_at": "2020-12-01T13:12:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Yam",
+      "flavor_id": 4710,
+      "millipercent": 2000,
+      "vendor": "HC"
+    },
+    {
+      "name": "Molasses SC",
+      "flavor_id": 8374,
+      "millipercent": 750,
+      "vendor": "WF"
+    },
+    {
+      "name": "Tab Blended",
+      "flavor_id": 2028,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Red Burley",
+      "flavor_id": 4355,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "1119",
+  "slug": "autumn_evenings",
+  "total_flavoring": "5.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "425",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ultra strawberry",
+  "description": "A mutant strawberry. A work in progress\r\n\r\nDragon fruit brings out some interesting notes from the strawberry. ",
+  "id": 83827,
+  "image_url": null,
+  "updated_at": "2020-12-07T07:00:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dragon Fruit",
+      "flavor_id": 49,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry Rf",
+      "flavor_id": 122,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ekollof",
+  "views": "1170",
+  "slug": "ultra_strawberry",
+  "total_flavoring": "10.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

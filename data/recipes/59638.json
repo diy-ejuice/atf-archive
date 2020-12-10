@@ -1,0 +1,74 @@
+{
+  "name": "Two Pina Colada's",
+  "description": "this is my very first crack at a pina colada flavor let me know if its any good plz and thanks",
+  "id": 59638,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:07:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Piña Colada",
+      "flavor_id": 1376,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 317,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Quince",
+      "flavor_id": 264,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "French Vanilla Creme",
+      "flavor_id": 168,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Conradvape",
+  "views": "1403",
+  "slug": "two_pina_coladas",
+  "total_flavoring": "14.5%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "95",
+  "recipe_score": 0,
+  "reviews": []
+}

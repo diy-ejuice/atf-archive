@@ -1,0 +1,62 @@
+{
+  "name": "Orange Dragon Baby",
+  "description": "Work in progress. My first recipe development.\r\n\r\nFirst time i tried this it was without the Mandarin and banana with a bit higher percentage of dragonfruit (8%). It tasted delicious but it kind of just hinted at having some more fruits in it. I just got Banana and Mandarin and thought I would try adding those in. After the shake it tastes good, but the Mandarin is probably a bit overpowering (although all it smells like is banana).\r\n\r\nThe Cream Fresh, vanilla custard and marshmallow was my attempt at a cream stone, and the dragonfruit added a hint of fruits (a dollop of whipped cream with some fruit runoffs on top). I'm quite confident of the bottom layer. The extra fruit is the work in progress part of this recipe.\r\n\r\nIt vapes good after the shake. It's a bit undefined as the cream and custard needs more time. ",
+  "id": 85430,
+  "image_url": null,
+  "updated_at": "2020-12-06T08:37:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Tanger (mandarin)",
+      "flavor_id": 547,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Daffylee",
+  "views": "984",
+  "slug": "orange_dragon_baby",
+  "total_flavoring": "19.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Strawberry Matcha Latte",
+  "description": "I had a strawberry matcha latte years ago and still remember how tasty is was. if you have FE green tea this is definitely worth trying. Add a little FA Up or a drizzle of chocolate if you want make it fancy.",
+  "id": 38612,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38612/IMG_2803.JPG",
+  "updated_at": "2020-12-02T17:04:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Green Tea",
+      "flavor_id": 1640,
+      "millipercent": 750,
+      "vendor": "FE"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "R2ME2",
+  "views": "1885",
+  "slug": "strawberry_matcha_latte",
+  "total_flavoring": "7.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

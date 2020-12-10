@@ -1,0 +1,62 @@
+{
+  "name": "Instant satisfaction",
+  "description": "My goal is to create something like SVRF’s satisfying.\r\n\r\nI’m going to do my best to describe this the way I was dissecting it in my head.\r\n\r\nTea Base - TFA sweet tea and FE green tea. I like the sweet tea as the main flavor with a small amount of green tea to give it some more body. Koolada is added because , this is after all a cold beverage. I want to keep it as authentic as possible in that realm.\r\n\r\n“Tea Syrup” - INW and FLV Raspberry with FA White Peach. I’ve used either of these raspberry’s separately in the past, I wanted something that tasted both real and candy-like. I put in a small amount of FA white peach to give the raspberry something to pop off of. I also like the harshness of white peach and feel like it gives me a nice bit of TH.\r\n\r\nFinally, I’m using stevia in this mix for now. I haven’t tried it but will often reach for CAP super sweet when I need sweetener. \r\n",
+  "id": 118495,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118495/97B074E5-9F5D-427E-95AD-E32FD20C8350.jpeg",
+  "updated_at": "2020-12-06T20:44:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Green Tea",
+      "flavor_id": 1640,
+      "millipercent": 500,
+      "vendor": "FE"
+    },
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 606,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Stevia Solutions (10% PG)",
+      "flavor_id": 5559,
+      "millipercent": 250,
+      "vendor": "NN"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Danthony428",
+  "views": "1334",
+  "slug": "instant_satisfaction",
+  "total_flavoring": "7.75%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "30%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

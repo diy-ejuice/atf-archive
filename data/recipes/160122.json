@@ -1,0 +1,56 @@
+{
+  "name": "Rin's Red Drink",
+  "description": "Tropical punch flavor from scratch. You can add Ws-23 if you wish for the cooling effect. ",
+  "id": 160122,
+  "image_url": null,
+  "updated_at": "2020-12-01T11:49:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Citrus Soda",
+      "flavor_id": 10083,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cranberry",
+      "flavor_id": 2493,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pineapple Candy SC",
+      "flavor_id": 10119,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Shisha Raspberry",
+      "flavor_id": 8967,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 616,
+      "millipercent": 750,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "829",
+  "slug": "rins_red_drink",
+  "total_flavoring": "4.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

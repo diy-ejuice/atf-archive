@@ -1,0 +1,50 @@
+{
+  "name": "Pineapples on Ice",
+  "description": "Sugarloaf Pineapple is a nice body Pineapple where LB is a bit top heavy.  The whipped cream is because you can't go wrong using whipped cream with pineapples, and 1.5% Polarblast to cool the whole thing down.",
+  "id": 158313,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158313/pineapple-dole-whip-10.jpg",
+  "updated_at": "2020-12-07T17:35:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugarloaf Pineapple",
+      "flavor_id": 8978,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 1498,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Rainbow Sherbert",
+      "flavor_id": 1501,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1395",
+  "slug": "pineapples_on_ice",
+  "total_flavoring": "10.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Deep fryed ice cream",
+  "description": "Deep fryed strawberry ice cream and a dash of chocolate drizzle.",
+  "id": 200387,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200387/Deep%2BFried%2BIce%2BCream_%2Bvanilla%2Bice%2Bcream%2Bcoated%2Bin%2Ba%2Bsweet_%2Bcrunchy%2Bcookie%2Btopping_%2Bdeep-fried%2Bfor%2Bthe%2Bultimate%2Bhot%2Band%2Bcold%2Bdessert_%2B_%2BTrufflesandTrends.jpeg",
+  "updated_at": "2020-12-07T10:44:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Deep Fried Pastry Dough SC",
+      "flavor_id": 8367,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Johncox",
+  "views": "634",
+  "slug": "deep_fryed_ice_cream",
+  "total_flavoring": "14.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

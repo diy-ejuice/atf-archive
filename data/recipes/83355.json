@@ -1,0 +1,56 @@
+{
+  "name": "Lemon Meringue Milkshake",
+  "description": "Lemon meringue pie milk shake!\r\n\r\nFe  lemon is to push the flavor through the cream.\r\n\r\nLayered the ice cream to get a nice rich buttery ice cream flavor.\r\n\r\nCream milky undertone is to thin the texture of the ice cream to milkshake without sacrificing richness.",
+  "id": 83355,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83355/milkshake-2.jpg",
+  "updated_at": "2020-12-07T14:12:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 84,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 1655,
+      "millipercent": 500,
+      "vendor": "FE"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 750,
+      "vendor": "HS"
+    },
+    {
+      "name": "Cream Milky Undertone PG",
+      "flavor_id": 6539,
+      "millipercent": 1500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Shortbread Cookies SC",
+      "flavor_id": 9045,
+      "millipercent": 1000,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "2769",
+  "slug": "lemon_meringue_milkshake",
+  "total_flavoring": "10.25%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

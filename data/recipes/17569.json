@@ -1,0 +1,62 @@
+{
+  "name": "PomCream",
+  "description": "Some fresh and smooth pomegranate cream",
+  "id": 17569,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:26:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pomegranate",
+      "flavor_id": 103,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Passion Fruit",
+      "flavor_id": 93,
+      "millipercent": 1550,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Citric Acid 10%",
+      "flavor_id": 2521,
+      "millipercent": 200,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 800,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Silly Rabbit Cereal",
+      "flavor_id": 143,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "domyam",
+  "views": "952",
+  "slug": "pomcream",
+  "total_flavoring": "13.55%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

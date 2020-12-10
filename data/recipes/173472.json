@@ -1,0 +1,44 @@
+{
+  "name": "Pineapple upside Down Cake",
+  "description": "Based on a talk by fresh03 on a live stream, he said that a pineapple uoside down cake is hard to nail down because there isn‘t a cooked pineapple flavour on the market.\r\nI found solube arome tarte tain to have this cooked flavor and with the help of flavor monks pineapple (has the least amount of candy taste) it seems to work fine.\r\nI pushed the cake note with the help of rf deep fried sponge cake and i am happy with it",
+  "id": 173472,
+  "image_url": null,
+  "updated_at": "2020-12-05T23:56:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Tarte Tatin",
+      "flavor_id": 5831,
+      "millipercent": 5000,
+      "vendor": "SA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 10394,
+      "millipercent": 1000,
+      "vendor": "FM"
+    },
+    {
+      "name": "Deep Fried Spongecake – Super Concentrate",
+      "flavor_id": 7882,
+      "millipercent": 1000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Echodub",
+  "views": "673",
+  "slug": "pineapple_upside_down_cake",
+  "total_flavoring": "7.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

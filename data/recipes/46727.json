@@ -1,0 +1,63 @@
+{
+  "name": "Lemon Poundcake",
+  "description": "In this recipe, I needed to create 3 layers: A cream to boost the spongeyness and frosting feeling of the cake, a cake layer, and the citrus layer.\r\nFor the cream layer, I use Bavarian cream to add density and complexity to the texture of the cake, and whipped cream to add the frosting-feel.\r\nFor the cake, I use Pound cake for the sweetness and authenticity it has, and the FA Pandoro because I think it has a slight citrus taste that really works well with the lemon.\r\nIn the citrus base I use lemon sicily for the bulk of the flavor, blood orange to alter the lemon a little and make it less \"lemonade\" tasting.",
+  "id": 46727,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pandoro",
+      "flavor_id": 538,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pound Cake",
+      "flavor_id": 4306,
+      "millipercent": 2500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 2250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 7698,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Werttok",
+  "views": "1888",
+  "slug": "lemon_poundcake",
+  "total_flavoring": "9.25%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "Using blood orange to bend the lemon just a bit was a stroke of genius, it's just present enough that I could catch a hint of orange when I was looking for it, but not really when I'd just pick up the mod and have a vape.  This is pretty authentic to a lemon poundcake that grandma would have made back in the day."
+    }
+  ]
+}

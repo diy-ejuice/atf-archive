@@ -1,0 +1,68 @@
+{
+  "name": "Cannoli Test",
+  "description": "One of many attempts at a good balanced creamy and crunchy cannoli",
+  "id": 110171,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110171/cannoli.jpg",
+  "updated_at": "2020-12-07T14:13:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Waffle",
+      "flavor_id": 1457,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Waffle (yc)",
+      "flavor_id": 744,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 2,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "joelbryant1960",
+  "views": "1224",
+  "slug": "cannoli_test",
+  "total_flavoring": "18.25%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

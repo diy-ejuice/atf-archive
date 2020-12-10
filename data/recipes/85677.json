@@ -1,0 +1,45 @@
+{
+  "name": "strawberry custard",
+  "description": "super simple recipe but my beau says he loves it",
+  "id": 85677,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85677/169305.jpg",
+  "updated_at": "2020-12-08T00:49:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie Butter",
+      "flavor_id": 1257,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "spicygal",
+  "views": "1679",
+  "slug": "strawberry_custard",
+  "total_flavoring": "11.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "redomegaz",
+      "score": "4",
+      "text": "Such a simple yet amazing recipe, cookie butter is a coil killer though."
+    }
+  ]
+}

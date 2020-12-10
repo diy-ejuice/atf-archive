@@ -1,0 +1,56 @@
+{
+  "name": "Banana Strawberry yoghurt ",
+  "description": "Yoghurt with banana and strawberries. ",
+  "id": 9812,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9812/small-20160818-23950-17x3juc.jpg",
+  "updated_at": "2020-12-07T17:33:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry Rf",
+      "flavor_id": 122,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 173,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol 10%",
+      "flavor_id": 2311,
+      "millipercent": 2000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "ekollof",
+  "views": "2270",
+  "slug": "banana_strawberry_yoghurt",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

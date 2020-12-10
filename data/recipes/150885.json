@@ -1,0 +1,50 @@
+{
+  "name": "Lava Land",
+  "description": "My take on a lava flow. Piña colada like with some strawberry and pineapple notes.",
+  "id": 150885,
+  "image_url": null,
+  "updated_at": "2020-12-06T07:16:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cucumber",
+      "flavor_id": 43,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Sublimeice",
+  "views": "818",
+  "slug": "lava_land",
+  "total_flavoring": "6.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

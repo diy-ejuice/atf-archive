@@ -1,0 +1,56 @@
+{
+  "name": "Kind of Cool",
+  "description": "Its not Very Cool, its Kind of Cool.  Naked 100 says their Very Cool is a mix of Raspberry, Blueberry, Blackberry and Menthol.  Probably using CAP.  This is not that, but its kind of cool.  I kept the flavors light and added some WS-23. ",
+  "id": 110201,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110201/no-pic-but-i-am-cool-.png",
+  "updated_at": "2020-12-07T23:36:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Menthol (liquid)",
+      "flavor_id": 1353,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 1194,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Razzleberry",
+      "flavor_id": 1393,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "chief63",
+  "views": "1063",
+  "slug": "kind_of_cool",
+  "total_flavoring": "10.0%",
+  "steep_days": "1",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "CAP Berry Cooler - Flavorbook Recipe",
+  "description": "This is a raspberry, blackberry, blackcurrant blend, paired with licorice and a splash of ice.\r\nMade for \"CAP Berry Cooler\" Flavorbook Entry\r\nhttp://bit.ly/2RjqChj",
+  "id": 182168,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182168/flavorbook-ATF.jpg",
+  "updated_at": "2020-12-07T22:33:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Cooler",
+      "flavor_id": 10164,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Licorice",
+      "flavor_id": 10166,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "1648",
+  "slug": "cap_berry_cooler_flavorbook_recipe",
+  "total_flavoring": "11.25%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

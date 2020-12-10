@@ -1,0 +1,50 @@
+{
+  "name": "Mango Coffee Drink",
+  "description": "This is not your everyday e-liquid, it's something you won't vape all day long, but it's something you have to try at least once.\r\n\r\nCoffee and mango do share some molecules and i have found a recipe for a drink from thailand which is coffee, mango and ice.\r\n\r\nI changed the iced part to LB vanilla ice cream to have a smooth, creamy mouthfeel and a fine vanilla note.\r\nI used TPA Mango because it tastes less ripe to me, for the coffee i used my favorite, WF Brazilian Coffee.\r\n\r\nImagine having the robust coffee note upfront, followed by a bed of sweet creamy icecream and right at the end you get this tropical kick on the very top end of the mango\r\n",
+  "id": 163407,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163407/nespresso-recipes-Tropical-Mango-coffee.jpg",
+  "updated_at": "2020-12-07T15:21:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mango",
+      "flavor_id": 247,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brazilian Coffee SC",
+      "flavor_id": 9016,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 5000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Coffee Milk Froth",
+      "flavor_id": 8858,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Echodub",
+  "views": "830",
+  "slug": "mango_coffee_drink",
+  "total_flavoring": "9.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

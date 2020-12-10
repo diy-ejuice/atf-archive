@@ -1,0 +1,62 @@
+{
+  "name": "Rin's Ice Cream Cone",
+  "description": "Prepackaged Ice Cream cone with vanilla ice cream, caramel drizzle and peanuts. ",
+  "id": 151199,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:44:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butterscotch",
+      "flavor_id": 1216,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 151,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honey Roasted Peanuts SC",
+      "flavor_id": 8371,
+      "millipercent": 250,
+      "vendor": "WF"
+    },
+    {
+      "name": "Sugar Cone",
+      "flavor_id": 1780,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "1080",
+  "slug": "rins_ice_cream_cone",
+  "total_flavoring": "4.75%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "ID10-T",
+      "score": "none",
+      "text": "So, all I can really tell you is don’t double the ingredients in this recipe, because I didn’t make this as written. Normally I do mix Rin’s recipes as written and usually I do find them plenty flavorful. This one, I looked at 2% LB Vanilla Ice Cream and was like no freaking way is that enough ice cream, and I immediately just doubled everything. Now I think that was a huge mistake. The peanut and ice cream parts are nice, but I’m searching for the caramel and cone and mostly finding some kind of weird smoked vanilla instead. &#xD;\n"
+    },
+    {
+      "user": "FuriousMixer",
+      "score": "none",
+      "text": "This looks good. Gonna give this a go! Ty for sharing "
+    }
+  ]
+}

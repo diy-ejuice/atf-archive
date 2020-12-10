@@ -1,0 +1,74 @@
+{
+  "name": "Low desert",
+  "description": "A tobacco recipe which is in balance between salt and creamy-sweet.Adjustable,depending on taste.It needs at least 10 days steeping",
+  "id": 153009,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153009/fesos11q10701.jpg",
+  "updated_at": "2020-12-07T17:35:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Beer Nuts",
+      "flavor_id": 4391,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 607,
+      "millipercent": 600,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tatanka Tobacco",
+      "flavor_id": 4417,
+      "millipercent": 1200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Tobacco Tobacco Symphony",
+      "flavor_id": 858,
+      "millipercent": 700,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 633,
+      "millipercent": 2500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "nks",
+  "views": "1459",
+  "slug": "low_desert",
+  "total_flavoring": "9.8%",
+  "steep_days": "10",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

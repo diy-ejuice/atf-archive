@@ -1,0 +1,74 @@
+{
+  "name": "Antares",
+  "description": "Just a delicious Churro and Praline chunk ice cream. \r\n\r\nVBIC/meringue/Fresh cream/Bavarian/custard are the ice cream base. \r\n\r\nThe other flavors are self explainitory. \r\n\r\nMake sure you steep it at least 2 weeks. Best after 3 weeks. ",
+  "id": 29519,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29519/Antares-01w.jpg",
+  "updated_at": "2020-12-05T05:15:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Acetyl Pyrazine",
+      "flavor_id": 1709,
+      "millipercent": 250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Churro",
+      "flavor_id": 4168,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cinnamon",
+      "flavor_id": 1245,
+      "millipercent": 250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pralines & Cream",
+      "flavor_id": 106,
+      "millipercent": 3250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ChefJohn",
+  "views": "2131",
+  "slug": "antares",
+  "total_flavoring": "12.5%",
+  "steep_days": "21",
+  "best_vg": "100%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

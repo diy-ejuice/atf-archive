@@ -1,0 +1,50 @@
+{
+  "name": "Perfect Pink Lemonade",
+  "description": "Yeah, proper pink lemonade has no added flavor, just food coloring and a bit more sweetener, and the other traditional pink lemonade use ruby red grapefruit, but really, there is no better red flavor than cherry, so a cherry lemonade would be the absolute best lemonade. And lemonade is best served/consumed cold, so the absolute best, the Perfect pink lemonade needs to be cold. Adjust the cooling for your tolerance, but it should be cold.\r\n\r\nAdd sweetener if you must, but try without any at first.",
+  "id": 166865,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:33:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Cherry",
+      "flavor_id": 9420,
+      "millipercent": 5000,
+      "vendor": "GL"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "COB",
+  "views": "1123",
+  "slug": "perfect_pink_lemonade",
+  "total_flavoring": "12.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

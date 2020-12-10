@@ -1,0 +1,38 @@
+{
+  "name": "Ginger Ale",
+  "description": "My take on a tangy ginger ale. I haven't made this in a while and actually forgot it's one of my solid classic recipes.",
+  "id": 134801,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ginger",
+      "flavor_id": 3513,
+      "millipercent": 2500,
+      "vendor": "HS"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "761",
+  "slug": "ginger_ale",
+  "total_flavoring": "6.5%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

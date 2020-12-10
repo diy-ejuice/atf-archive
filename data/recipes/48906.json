@@ -1,0 +1,62 @@
+{
+  "name": "Lime Disease",
+  "description": "Just a remix of a Greek yogurt recipe inspired by fresh03.\r\n",
+  "id": 48906,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48906/wallpaper.jpg",
+  "updated_at": "2020-12-07T09:43:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 173,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 7753,
+      "millipercent": 1000,
+      "vendor": "PUR"
+    },
+    {
+      "name": "Lime Cold Pressed",
+      "flavor_id": 4891,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Slushy",
+  "views": "1199",
+  "slug": "lime_disease",
+  "total_flavoring": "21.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

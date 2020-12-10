@@ -1,0 +1,57 @@
+{
+  "name": "Snake Oil ",
+  "description": "Snake Oil my way. ",
+  "id": 1346,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 4500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 3000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Mixepic",
+  "views": "2469",
+  "slug": "snake_oil",
+  "total_flavoring": "11.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "oil"
+    }
+  ]
+}

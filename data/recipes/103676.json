@@ -1,0 +1,74 @@
+{
+  "name": "Gods Food",
+  "description": "This recipe should not be an insult to God and has nothing to do with it.\r\nIn my childhood, my mother always made Gods Food (in Swiss German: Götterschpys, in German: Götterspeise).\r\nIn a bowl, she has always added a layer of rusk (Graham Cracker Clear), a layer of rhubarb compote and a layer of fine vanilla cream on top of each other until the bowl was full.\r\n\r\nI have now tried to replicate this fine dessert in a liquid and I think I have succeeded very well.\r\n\r\nIf you like rhubarb, vanilla cream and rusks, you should try this liquid recipe immediately.",
+  "id": 103676,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103676/Goetterspeise.jpg",
+  "updated_at": "2020-12-07T15:21:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rhubarb Compote",
+      "flavor_id": 9192,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Rhubarb (yc)",
+      "flavor_id": 711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Smooth",
+      "flavor_id": 381,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Gary",
+  "views": "1081",
+  "slug": "gods_food",
+  "total_flavoring": "20.8%",
+  "steep_days": "21",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Strawberry Kiwi Swirl",
+  "description": "Slices of strawberries and fresh kiwi swirled in a bowl of creamy vanilla ice cream.",
+  "id": 104272,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104272/25EAD1E4-118D-4389-9E19-D31C0A32A4F8.jpeg",
+  "updated_at": "2020-12-06T20:44:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Kiwi (double)",
+      "flavor_id": 242,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2500,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1508",
+  "slug": "strawberry_kiwi_swirl",
+  "total_flavoring": "14.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "83%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

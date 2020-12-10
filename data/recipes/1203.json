@@ -1,0 +1,38 @@
+{
+  "name": "Falling Star",
+  "description": "A simple kiwi strawberry with some apple. Great shake-n-vape.",
+  "id": 1203,
+  "image_url": null,
+  "updated_at": "2020-12-05T09:50:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 1330,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 1420,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Apple (green)",
+      "flavor_id": 1176,
+      "millipercent": 5000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "strangea",
+  "views": "1116",
+  "slug": "falling_star",
+  "total_flavoring": "15.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

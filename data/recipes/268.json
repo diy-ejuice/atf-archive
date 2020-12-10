@@ -1,0 +1,74 @@
+{
+  "name": "Looper",
+  "description": "A looper clone, source long forgotton",
+  "id": 268,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fruit Rings",
+      "flavor_id": 1285,
+      "millipercent": 10000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 84,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Gummy Candy",
+      "flavor_id": 235,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "sodakdave",
+  "views": "2218",
+  "slug": "looper",
+  "total_flavoring": "23.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 3,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "3",
+      "text": ""
+    },
+    {
+      "user": "Bjorncoetsee",
+      "score": "3",
+      "text": "Too much fruit rings"
+    }
+  ]
+}

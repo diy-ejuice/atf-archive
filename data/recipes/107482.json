@@ -1,0 +1,50 @@
+{
+  "name": "Peach Yogurt",
+  "description": "A peach yogurt built off the vurve's peaches and cream recipe.",
+  "id": 107482,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:27:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "super8line",
+  "views": "1208",
+  "slug": "peach_yogurt",
+  "total_flavoring": "13.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

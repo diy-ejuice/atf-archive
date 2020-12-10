@@ -1,0 +1,56 @@
+{
+  "name": "Poon-tang",
+  "description": "Like Strap-on, only with flavors I like. Many variants should be possible.  Several are in development. \r\n\r\n Note: cooling is really to taste, I usually use a blend of WS-3, WS-23 (@30%) and WS-5. Since the last doesn't exist in the database...",
+  "id": 89671,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:16:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pomegranate Deluxe",
+      "flavor_id": 261,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-5",
+      "flavor_id": 9920,
+      "millipercent": 1330,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1330,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1330,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "COB",
+  "views": "1619",
+  "slug": "poontang",
+  "total_flavoring": "9.99%",
+  "steep_days": "1",
+  "best_vg": "%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

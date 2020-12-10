@@ -1,0 +1,63 @@
+{
+  "name": "Cookie Dough Custard",
+  "description": "A delicious cookie custard.\r\nTpa milk chocolate gives it a nice creamy chocolate.\r\nTpa Bavarian cream adds a nice creamy profile to the cookie.\r\nFa cookie and tpa ap make a nice cookie profile.\r\nCap vanilla custard makes up the custard profile.\r\nTpa sweetener adds in that nice sweetness.",
+  "id": 77900,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77900/cookie-dough-1449456_1920.jpg",
+  "updated_at": "2020-12-08T00:49:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 177,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "VaporDude",
+  "views": "1938",
+  "slug": "cookie_dough_custard",
+  "total_flavoring": "15.0%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "pretty damned delicious"
+    }
+  ]
+}

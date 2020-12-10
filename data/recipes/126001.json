@@ -1,0 +1,110 @@
+{
+  "name": "The Secret recipe of Monkey Island - A Banoffee Story",
+  "description": "A Banoffe recipe. Banana Custard, toffee caramel, biscuit tart base.  I vape it from the second day. Best after 3 days.",
+  "id": 126001,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/126001/banoffee-cheesecake.jpg",
+  "updated_at": "2020-12-08T00:50:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Creamy Custard",
+      "flavor_id": 8863,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Pudding Base",
+      "flavor_id": 8948,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 916,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1200,
+      "vendor": "INW"
+    },
+    {
+      "name": "Biscuit Base",
+      "flavor_id": 8828,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Butter Base",
+      "flavor_id": 8843,
+      "millipercent": 400,
+      "vendor": "VT"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "English Toffee",
+      "flavor_id": 8873,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Butter Toffee Base",
+      "flavor_id": 8844,
+      "millipercent": 150,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Alx86",
+  "views": "2669",
+  "slug": "the_secret_recipe_of_monkey_island_a_banoffee_story",
+  "total_flavoring": "22.05%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Ge-Ma",
+      "score": "5",
+      "text": "Great job."
+    },
+    {
+      "user": "V1rus",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

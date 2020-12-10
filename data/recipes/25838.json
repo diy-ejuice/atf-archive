@@ -1,0 +1,62 @@
+{
+  "name": "Harvest Parfait",
+  "description": "Forest Berry, cookies and cream...creamy goodness. I also make this with just a couple of different blueberries and more of a Milkstone like base for variation. Tasty :)",
+  "id": 25838,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25838/harvest_parfait.jpg",
+  "updated_at": "2020-12-07T03:30:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Harvest Berry",
+      "flavor_id": 69,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "JuiceRider",
+  "views": "1241",
+  "slug": "harvest_parfait",
+  "total_flavoring": "17.0%",
+  "steep_days": "15",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

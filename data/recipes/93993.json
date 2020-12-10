@@ -1,0 +1,68 @@
+{
+  "name": "Nana's Custard",
+  "description": "Two warm slices of fresh banana nut bread with a thick layer of rich vanilla custard slathered between them.  Good as a SNV but the real flavor comes out at 1 - 2 weeks steep  It gets even better if steeped longer.",
+  "id": 93993,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/93993/banana_bread.jpg",
+  "updated_at": "2020-12-02T08:14:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 1351,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 4000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "DiscipleVapor",
+  "views": "1773",
+  "slug": "nanas_custard",
+  "total_flavoring": "20.0%",
+  "steep_days": "14 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

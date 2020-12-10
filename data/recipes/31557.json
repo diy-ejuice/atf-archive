@@ -1,0 +1,62 @@
+{
+  "name": "White Chocolate Blackberry Mocha",
+  "description": "This is a delicious creamy coffee drink you would get at starbucks or something. Sweet blackberry layered in with a buttery cream in a delicious coffee drizzled with white chocolate. The inw milk chocolate is just enough to bring out the white chocolate flavor.",
+  "id": 31557,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31557/download__1_.jpg",
+  "updated_at": "2020-12-08T00:49:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "UP (coffee)",
+      "flavor_id": 4473,
+      "millipercent": 100,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 214,
+      "millipercent": 1400,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 796,
+      "millipercent": 100,
+      "vendor": "INW"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 1462,
+      "millipercent": 5000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "mlNikon",
+  "views": "2510",
+  "slug": "white_chocolate_blackberry_mocha",
+  "total_flavoring": "7.6%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "SeLeV",
+      "score": "5",
+      "text": "This is actually quite pleasant! Made some adjustments, though. Upped UP to 0.25%, and subbed INW Milk Chocolate for FLV White Chocolate at 1% since it really does go well with FW White Chocolate."
+    },
+    {
+      "user": "SteamOn",
+      "score": "5",
+      "text": "Very well balanced. Going in I thought it odd as I've never had a blackberry coffee before, Nor have I ever seen one. It's different, But in a really good way. Good job Em. It's oddly, very tasty. I don't get a lot of coffee from it but I think that's part of it's charm."
+    }
+  ]
+}

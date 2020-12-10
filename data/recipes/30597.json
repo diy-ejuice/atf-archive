@@ -1,0 +1,63 @@
+{
+  "name": "Nanner milk",
+  "description": "This is a reproduction of an excellent drink we found in South Korea. This has a real banana flavor, not like a Nestlé milk drink.",
+  "id": 30597,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30597/20170205_173223.jpg",
+  "updated_at": "2020-12-08T00:49:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 2,
+      "millipercent": 5500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Ripe Banana",
+      "flavor_id": 269,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Morningstar",
+  "views": "1605",
+  "slug": "nanner_milk",
+  "total_flavoring": "14.0%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "SlashaLO",
+      "score": "5",
+      "text": "Good job with this! I go to an ethnic market around where I live and have picked something up similar to this and this was great. Thick, dense banana and cream. Felt like I was drinking a thick, milky banana drink. Thanks!"
+    }
+  ]
+}

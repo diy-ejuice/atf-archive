@@ -1,0 +1,50 @@
+{
+  "name": "Cherry Limeade",
+  "description": "Sweet and slightly tart cherry limeade similar to Sonic's beverage.",
+  "id": 69255,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:07:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lime",
+      "flavor_id": 662,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cherry",
+      "flavor_id": 649,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sour",
+      "flavor_id": 336,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "1173",
+  "slug": "cherry_limeade",
+  "total_flavoring": "8.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Thai Coffee",
+  "description": "Sweet, creamy coffee.....I love Thai Coffee. It’s an indulgence that I cannot have anymore so I had to make it into vape form. A work in progress.....but I like it as it is right now. Might need a touch more coffee, but we shall see. ",
+  "id": 129961,
+  "image_url": null,
+  "updated_at": "2020-12-07T19:15:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cardamom",
+      "flavor_id": 498,
+      "millipercent": 100,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cinnamon Ceylon",
+      "flavor_id": 497,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Coffee",
+      "flavor_id": 716,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Condensed Milk",
+      "flavor_id": 6509,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Cream Milky Undertone PG",
+      "flavor_id": 6539,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "Wildgypsy",
+  "views": "995",
+  "slug": "thai_coffee",
+  "total_flavoring": "5.6%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

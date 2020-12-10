@@ -1,0 +1,62 @@
+{
+  "name": "Serial Interface",
+  "description": "This is a take on the classic looper clone. To sweeten you can use either FA Meringue or use the same percentage of Cap Super Sweet. Both are good, I have been loving the meringue version, it adds a slightly tamer sweetness. You can also change it to Max VG, the lemon and sweetness comes out more. ",
+  "id": 37313,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 2250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dairy/Milk",
+      "flavor_id": 2164,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fruit Circles",
+      "flavor_id": 139,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "letitsteep",
+  "views": "1232",
+  "slug": "serial_interface",
+  "total_flavoring": "21.25%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

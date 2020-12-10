@@ -1,0 +1,62 @@
+{
+  "name": "Watermelon Lemonade",
+  "description": "Credit to Cheebasteeba for the the cream/wild melon combo but I left out cantaloupe and added Flv watermelon to make this a heavy melon puree blended into a lemonade. After playing around with the pink lemonade for a while I found 4% for LB and 2 % fe lemon did not overpower the melon flavor that I wanted. I think it is really close to perfect if it already isn't, at least to my pallet. You can add or subtract sweetener to make the lemonade more or less prominent without affecting the melon. Tried at 0.5 % cap SS and the lemonade doesnt work as well much better at 0.8-1% but you could take it all the way up to 2% if your a candy crack addict!",
+  "id": 174418,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174418/watermelon-lemonade-recipe-fresh-1024x576.jpg",
+  "updated_at": "2020-12-07T04:41:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 616,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pink Lemonade",
+      "flavor_id": 1500,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 1655,
+      "millipercent": 2000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Denske",
+  "views": "2266",
+  "slug": "watermelon_lemonade",
+  "total_flavoring": "11.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

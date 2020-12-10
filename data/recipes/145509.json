@@ -1,0 +1,68 @@
+{
+  "name": "Sweet Strawberries and Cream",
+  "description": "Sweet Strawberry and Milk, more strawberry smoothie than nesquick though.",
+  "id": 145509,
+  "image_url": null,
+  "updated_at": "2020-12-06T23:08:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Bavarian Cream ",
+      "flavor_id": 9951,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry Sweet",
+      "flavor_id": 4745,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "xantrel",
+  "views": "1659",
+  "slug": "sweet_strawberries_and_cream",
+  "total_flavoring": "11.5%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

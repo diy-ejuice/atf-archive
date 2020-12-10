@@ -1,0 +1,56 @@
+{
+  "name": "Kentucky Vanilla custard",
+  "description": "This is predominantly custard then back notes of bourbon and caramel and some cookie butter for that crunch factor- added the sweet cream and marshmallow to sweeten and deepen it up some",
+  "id": 85692,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85692/59845.jpg",
+  "updated_at": "2020-12-02T15:40:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 5485,
+      "millipercent": 1000,
+      "vendor": "MFS"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie Butter",
+      "flavor_id": 1257,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 956,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "spicygal",
+  "views": "1348",
+  "slug": "kentucky_vanilla_custard",
+  "total_flavoring": "11.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

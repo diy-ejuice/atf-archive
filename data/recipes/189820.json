@@ -1,0 +1,50 @@
+{
+  "name": "Apple Pie",
+  "description": "Been wanting to make apple pie for a while. The marzipan gives a really nice touch to the pie crust and Bahraini with pink lady adds all the right spice. Hope you like it!",
+  "id": 189820,
+  "image_url": null,
+  "updated_at": "2020-12-05T06:49:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Pie",
+      "flavor_id": 551,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Tobacco Bahraini Apple Gold",
+      "flavor_id": 702,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 467,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pink Lady",
+      "flavor_id": 8753,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Steam-Sworn",
+  "views": "361",
+  "slug": "apple_pie",
+  "total_flavoring": "7.45%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

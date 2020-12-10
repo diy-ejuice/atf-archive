@@ -1,0 +1,50 @@
+{
+  "name": "JapanCream - Green tea ice cream and azuki",
+  "description": "I love Japan food but vape sushi is not a great idea. So I tried to emulate a japanese dessert: Green Tea Icecream with Azuki (red bean jam).\r\nThe recipe is very simple and tasty with less then 7% flavoring.\r\n\r\nIce cream\r\nA combination of LB Vanilla ice cream and CAP Vanilla custard\r\n\r\nGreen Tea\r\nFE Green tea is the perfect solution. I tried MB natural green tea also, but FE is a better and faithfull solution\r\n\r\nAzuki\r\nVT red bean is a perfect Azuki jam. I tried to add VT jam it but it would alter the red bean flavor.\r\n\r\nSweet and steep\r\nGreen tea is bitter, so we need a 0.75 CAP super sweet here.\r\nYou need at least 3 days of steeping here in order to obtain the perfect mix of green tea and azuki.\r\n\r\nEnjoy, review, vape!",
+  "id": 140811,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140811/azuki.jpg",
+  "updated_at": "2020-12-06T20:44:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Bean",
+      "flavor_id": 9896,
+      "millipercent": 500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Green Tea",
+      "flavor_id": 1640,
+      "millipercent": 1000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3500,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ITALIAN-VAPE",
+  "views": "993",
+  "slug": "japancream_green_tea_ice_cream_and_azuki",
+  "total_flavoring": "6.75%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

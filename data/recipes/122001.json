@@ -1,0 +1,56 @@
+{
+  "name": "CRONCH Berries",
+  "description": "Continuously tweaking this. Any suggestions to balance this out are welcome. ",
+  "id": 122001,
+  "image_url": null,
+  "updated_at": "2020-12-05T08:06:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Cereal",
+      "flavor_id": 2162,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Dx Banana Cream",
+      "flavor_id": 227,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "1077",
+  "slug": "cronch_berries",
+  "total_flavoring": "11.5%",
+  "steep_days": "5",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

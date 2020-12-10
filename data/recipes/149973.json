@@ -1,0 +1,62 @@
+{
+  "name": "Smash Mouth",
+  "description": "A delicious blend of dark berries, watermelon, fuji apple, and strawberries. ",
+  "id": 149973,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149973/BC9CC7D3-DFEA-4D05-81C4-6CBB3B0B1780.jpeg",
+  "updated_at": "2020-12-07T17:35:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 616,
+      "millipercent": 2500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Forrest Mix (forest Fruit Mix)",
+      "flavor_id": 453,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 614,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1531",
+  "slug": "smash_mouth",
+  "total_flavoring": "14.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

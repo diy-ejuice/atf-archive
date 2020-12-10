@@ -1,0 +1,50 @@
+{
+  "name": "Mountain Dew Ice Cream",
+  "description": "Went for an ice cream, came out more like a creamsicle. Fuck. \r\n\r\nSteep for at least 5 days to mellow the yellow (see what I did there) out the Dew and let the creams cream stuff.",
+  "id": 94609,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/94609/MtDewIceCream.jpg",
+  "updated_at": "2020-12-07T20:32:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dew Mountain",
+      "flavor_id": 1488,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Ice Cream",
+      "flavor_id": 4449,
+      "millipercent": 500,
+      "vendor": "HS"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "AutomaticFailure",
+  "views": "2276",
+  "slug": "mountain_dew_ice_cream",
+  "total_flavoring": "10.0%",
+  "steep_days": "5",
+  "best_vg": "60%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

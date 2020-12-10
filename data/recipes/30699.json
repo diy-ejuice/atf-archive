@@ -1,0 +1,81 @@
+{
+  "name": "Kentucky Cannoli",
+  "description": "My attempt at a bourbon infused cannoli juice. Cannoli recipe minus cinnamon and TFA Kentucky Bourbon added",
+  "id": 30699,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30699/BourbonCannoli.jpg",
+  "updated_at": "2020-12-05T11:04:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dx Vanilla Cupcake",
+      "flavor_id": 166,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 400,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 600,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "joelbryant1960",
+  "views": "1306",
+  "slug": "kentucky_cannoli",
+  "total_flavoring": "16.0%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "XxBulldogIrishxX",
+      "score": "none",
+      "text": "how was it? looks great but i'm missing 2 flavors...I love Cannoli be one would love something remotely close"
+    }
+  ]
+}

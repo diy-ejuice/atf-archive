@@ -1,0 +1,50 @@
+{
+  "name": "Rin's Cherry Cupcake",
+  "description": "White cupcake with cherry buttercream frosting. If you want more frosting note (or to be sweetener) increase the VTA buttercream frosting up to 0.50%. ",
+  "id": 147156,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147156/image0.jpg",
+  "updated_at": "2020-11-30T17:52:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake (White)",
+      "flavor_id": 8470,
+      "millipercent": 1250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cherries",
+      "flavor_id": 757,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cherry Extract",
+      "flavor_id": 222,
+      "millipercent": 800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fluffy White Cake SC",
+      "flavor_id": 9024,
+      "millipercent": 1250,
+      "vendor": "WF"
+    },
+    {
+      "name": "Vanilla Buttercream Frosting",
+      "flavor_id": 8990,
+      "millipercent": 150,
+      "vendor": "VT"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "1300",
+  "slug": "rins_cherry_cupcake",
+  "total_flavoring": "3.95%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

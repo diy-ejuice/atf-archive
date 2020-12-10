@@ -1,0 +1,62 @@
+{
+  "name": "Tropic Thunder",
+  "description": "I hear the call of the waves crashing along the beaches and I had to do something to satisfy the call...",
+  "id": 200308,
+  "image_url": null,
+  "updated_at": "2020-12-07T21:33:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Beetle Juice",
+      "flavor_id": 1188,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Coconut Candy",
+      "flavor_id": 223,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jackfruit",
+      "flavor_id": 240,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 3516,
+      "millipercent": 3500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "JasonA1121",
+  "views": "808",
+  "slug": "tropic_thunder",
+  "total_flavoring": "12.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

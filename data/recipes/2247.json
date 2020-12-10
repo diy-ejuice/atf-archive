@@ -1,0 +1,69 @@
+{
+  "name": "Pomnilla Custard",
+  "description": "Just delicious, upfront taste of pomegranate and a finish of rich custard\r\n\r\nOne of my more popular flavors. ",
+  "id": 2247,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Cream ",
+      "flavor_id": 2741,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pomegranate Deluxe",
+      "flavor_id": 261,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Saramon",
+  "views": "1329",
+  "slug": "pomnilla_custard",
+  "total_flavoring": "17.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Hannah7620",
+      "score": "5",
+      "text": "My favorite recipe to mix."
+    }
+  ]
+}

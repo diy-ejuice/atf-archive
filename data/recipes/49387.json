@@ -1,0 +1,62 @@
+{
+  "name": "Island Nectar",
+  "description": "Fruity sweet concoction to enjoy while out at the beach admiring the whales or sitting around the pool watching the kids. ",
+  "id": 49387,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49387/c0a266f303e64b6bdca77b952c1742f7.jpg",
+  "updated_at": "2020-12-07T21:32:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 1750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Mango",
+      "flavor_id": 120,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 2248,
+      "millipercent": 1500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 2278,
+      "millipercent": 1500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Watermelon – SC",
+      "flavor_id": 7561,
+      "millipercent": 750,
+      "vendor": "RF"
+    },
+    {
+      "name": "Banana",
+      "flavor_id": 1183,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "joelbryant1960",
+  "views": "1509",
+  "slug": "island_nectar",
+  "total_flavoring": "10.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

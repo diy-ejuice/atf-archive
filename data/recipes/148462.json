@@ -1,0 +1,44 @@
+{
+  "name": "Wizard's Beard",
+  "description": "Your Defence of the Dark Arts teacher has been drinking butterbeer and smoking a pipe...   The essence of wizardry clings to his beard.  This is no scent you will ever smell among Muggles.  A smoky take on Harry Potter's Butterbeer.\r\nFor a smokier version you can also take the Grail up to 10% and drop the Cream Soda down to 5%\r\nA non-smoky and more authentic Version 2 will be forthcoming...  Wizard's Beer.",
+  "id": 148462,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/148462/WizardBeard.png",
+  "updated_at": "2020-12-07T07:01:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream Soda",
+      "flavor_id": 320,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "HOLY HOLY GRAIL RY4",
+      "flavor_id": 5037,
+      "millipercent": 8000,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "WGNC",
+  "views": "1110",
+  "slug": "wizards_beard",
+  "total_flavoring": "19.0%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

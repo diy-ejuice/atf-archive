@@ -1,0 +1,68 @@
+{
+  "name": "Mad Hatter’s Orchard",
+  "description": "Straight forward recipe, a combination of apples with a healthy punch of absinthe, this is pretty much apple sambuca on ice!",
+  "id": 130567,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130567/F836A77C-3F4E-448C-8020-70C9D077CBDD.png",
+  "updated_at": "2020-12-06T10:38:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Granny Smith Apple",
+      "flavor_id": 8888,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 2000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Absinthe",
+      "flavor_id": 5348,
+      "millipercent": 4000,
+      "vendor": "DV"
+    },
+    {
+      "name": "Sour Apple",
+      "flavor_id": 4379,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Double Apple",
+      "flavor_id": 8963,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Apple",
+      "flavor_id": 4446,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Tart and Sour",
+      "flavor_id": 2520,
+      "millipercent": 500,
+      "vendor": "LA"
+    }
+  ],
+  "author": "Nickevz",
+  "views": "1128",
+  "slug": "mad_hatters_orchard",
+  "total_flavoring": "19.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Gangster Energy Drink",
+  "description": "Much more simplistic take on Monster than Wayne did on live mixing, but it's the drink none the less! \r\n\r\nFW Green Goblin- The main flavor of the whole recipe. Just straight up monster, just a little lacking solo to me\r\nTPA Citrus Punch- Adds just a little extra limey(???) soda taste\r\nTPA Champagne- Just added \"fizzy\"(not actually any fizz) aspect you get from the drink. Maybe its a power of suggestion, I don't know, it just works\r\nCAP Super Sweet- Bc Monster is so sweet its almost syrup-like, 1% does just the trick",
+  "id": 40193,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/40193/Untitled.png",
+  "updated_at": "2020-12-08T00:49:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Green Goblin Energy",
+      "flavor_id": 1303,
+      "millipercent": 7000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "CptJMorgan91",
+  "views": "2470",
+  "slug": "gangster_energy_drink",
+  "total_flavoring": "11.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Parad0x357",
+      "score": "4",
+      "text": "The closest to an actual energy drink I've vaped so far. Tbh, the monster energy recipe by Wayne is not even close, I'm still bewildered why he even posted it. I've mixed this with 1% WS-23 to get even a little bit closer to that beverage feeling. All in all, thanks for the recipe!"
+    }
+  ]
+}

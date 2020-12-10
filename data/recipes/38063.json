@@ -1,0 +1,50 @@
+{
+  "name": "Professor Snapericot",
+  "description": "Nice and light real peach flavor with a hint of yogurt and refreshing apricot. ",
+  "id": 38063,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38063/Alan-Rickman-Snape-ricot-Beer.jpg",
+  "updated_at": "2020-12-02T15:33:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apricot",
+      "flavor_id": 10,
+      "millipercent": 9000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 961,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Peach Ripe",
+      "flavor_id": 1942,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "blakedennis87",
+  "views": "845",
+  "slug": "professor_snapericot",
+  "total_flavoring": "18.5%",
+  "steep_days": "4",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

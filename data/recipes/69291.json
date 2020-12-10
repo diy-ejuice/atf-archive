@@ -1,0 +1,62 @@
+{
+  "name": "Glass Apple",
+  "description": "I found this base recipe on ELR, modified it only a small bit, so no credit goes to me on this.  After a 2 day steep it is really good.\r\n\r\nFuji Apple-  The main note in this juice, has a wet apple juice taste on the inhale\r\nKoolada-  Might be too strong for some, but I like it, gives it the ice sensation.\r\nPeach Juicy-  Reminds me of a fresh peach on the exhale.\r\nPeach White- Balances the peach flavor.\r\nStrawberry Ripe-  To be honest I can't taste it, I think it is helping with the sweetness or assisting in joining the apple and peach, either it works.",
+  "id": 69291,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fuji Apple",
+      "flavor_id": 8456,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "photohap",
+  "views": "1703",
+  "slug": "glass_apple",
+  "total_flavoring": "18.75%",
+  "steep_days": "2",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "Bex87",
+      "score": "5",
+      "text": "This recipe is delicious. Tad to much koolada for me but I can change that. Really yummy thanks "
+    },
+    {
+      "user": "Spycke",
+      "score": "4",
+      "text": "Made this for about a dozen times. Very tasteful recipe!"
+    }
+  ]
+}

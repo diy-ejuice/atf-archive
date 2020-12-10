@@ -1,0 +1,54 @@
+{
+  "name": "Manner",
+  "description": "Vanilla wafer with a lemon creme filling. Overnight steep.",
+  "id": 1212,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/1212/small-20160426-6311-5lv945.jpg",
+  "updated_at": "2020-12-08T00:48:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 660,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "altneurose",
+  "views": "3870",
+  "slug": "manner",
+  "total_flavoring": "5.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "75%",
+  "temperature": "0",
+  "total_reviews": 4,
+  "recipe_score": 4.8,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "Pilgrim",
+      "score": "5",
+      "text": "Recently tried this recipe after getting INW Lemon. I would never have thought to try biscuit at this % but it really does work and goes great with the lemon. Love how simple and tasty it is, a great vape."
+    },
+    {
+      "user": "RuntDastardly",
+      "score": "5",
+      "text": "Super simple, yet deeply satisfying. This is still one of my favorite recipes. Could never have imagined how buttery INW Biscuit becomes at this %."
+    },
+    {
+      "user": "crisk",
+      "score": "4",
+      "text": "Very simple, yet yummy. I get the feeling that something's missing, but overall it's a pretty solid simple recipe. INW Lemon is delcious. Thank you for sharing!"
+    }
+  ]
+}

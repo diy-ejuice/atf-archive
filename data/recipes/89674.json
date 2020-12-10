@@ -1,0 +1,62 @@
+{
+  "name": "Black Poon-tang",
+  "description": "Blackcurrant version of the original. For whatever reason, this takes some time to come together, so not a SnV. Cooling and sweetener are, as always, to taste.",
+  "id": 89674,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:32:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pomegranate",
+      "flavor_id": 9426,
+      "millipercent": 3250,
+      "vendor": "GL"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 3250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23 Cooling Agent 10%",
+      "flavor_id": 9001,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Stevia Solutions (10% PG)",
+      "flavor_id": 5559,
+      "millipercent": 500,
+      "vendor": "NN"
+    }
+  ],
+  "author": "COB",
+  "views": "949",
+  "slug": "black_poontang",
+  "total_flavoring": "10.0%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

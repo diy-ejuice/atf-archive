@@ -1,0 +1,99 @@
+{
+  "name": "Sunmist",
+  "description": "I love vaping orange soda, and I've enjoyed enough of it to form my own ideas for improving the popular recipes. I combined the elements I liked from both Fantastic and Funta, then tweaked the balance and added my own ideas to the mix to create a \"full-spectrum\" orange soda I can call my own. \r\n\r\nThe Orange layer:\r\nFW Blood Orange provides a delicious blood orange flavor with a slight \"orange peel\" zest. (FA Blood Orange will work here as well, but I slightly prefer the \"zestier\" FW version-- use whichever you like). Shisha Orange adds more sweet, bright, syrupy orange notes to the mix, with the two combining into a full and candy-like orange.\r\n\r\nThe Tangerine layer:\r\nFA Mandarin provides a realistic tangerine base, with CAP Sweet Tangerine adding some sweet notes to the high end. Compared to Fantastic and Funta, the tangerine in this soda is fuller and more prominent, adding more sweetness and less acidity to the \"orange spectrum\".\r\n\r\nThe soda layer:\r\nVT Blood Orange Champagne and VT Fizzy Sherbet at low percentages combine into a pleasant citrus fizz, without the alcoholic or lemon-lime notes of higher values. CAP Jelly candy adds some body and nudges the overall orange flavor in a sweeter and more candy-like direction.\r\n\r\n\"Utility\" flavors:\r\nTFA Strawberry helps blend the orange flavors.\r\nTFA Dragonfruit provides emulsification, and extends the life of the juice.\r\nINW Prickly Pear is used for a citrusy cactus-like juiciness modifier. INW Cactus will work as a substitute if you don't have it, it's just not quite as citrusy.\r\n\r\nAdjust to taste:\r\nOoO Powdered sugar serves as a citrusy sweetener that also calms down and smooths any harsh topnotes. If you don’t have it, substitute your sweetener of choice. \r\nWS-23 at 1% is ice cold without excessive brainfreeze-- adjust to taste and tolerance.\r\n\r\nI hope you enjoy the Sunmist on these hot summer days! ",
+  "id": 152352,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152352/6B4D79C0-19B8-4B94-8A8A-27445D541314.jpeg",
+  "updated_at": "2020-12-08T00:50:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Shisha Orange",
+      "flavor_id": 832,
+      "millipercent": 400,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tanger (mandarin)",
+      "flavor_id": 547,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 1300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Prickly Pear",
+      "flavor_id": 10277,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 750,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Fizzy Sherbet",
+      "flavor_id": 8878,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Jelly Candy",
+      "flavor_id": 2170,
+      "millipercent": 600,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blood Orange Champagne",
+      "flavor_id": 8833,
+      "millipercent": 1000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "beeker",
+  "views": "2892",
+  "slug": "sunmist",
+  "total_flavoring": "13.35%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "staybert",
+      "score": "5",
+      "text": "For anyone that likes \"Fantastic\" or \"Funta\", the orange soda profile, this recipie is a must try. It combines the best of those two recipies which results in a much more potent orange flavor, with a slight fizzyness to it thanks to the citrus notes from VT Fizzy Sherbet. Quite amazed how well balanced this is considering how many different flavors that are in it. Very impressive!"
+    }
+  ]
+}

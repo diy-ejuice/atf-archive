@@ -1,0 +1,51 @@
+{
+  "name": "Delicious Melons",
+  "description": "TPA - Honeydew - Delicious honeydew\r\nFA - Blenderize - Decent gum flavor, blends well with honeydew\r\nFLV - Wild Melon - Backup for the honeydew\r\nCAP Blue Raspberry Cotton Candy - Overall sweetness",
+  "id": 62479,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62479/8226.jpg",
+  "updated_at": "2020-12-08T00:49:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blenderize (tutti Frutti)",
+      "flavor_id": 422,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blue Raspberry Cotton Candy",
+      "flavor_id": 15,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "falon1000",
+  "views": "1720",
+  "slug": "delicious_melons",
+  "total_flavoring": "8.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "92%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "kindground",
+      "score": "5",
+      "text": "Very light and refreshing recipe. Great authentic melon flavor with a nice rind note that keeps it real. I'll definitely be hanging onto this recipe to mix again in the future. Great job! "
+    }
+  ]
+}

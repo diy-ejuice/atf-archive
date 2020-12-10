@@ -1,0 +1,56 @@
+{
+  "name": "Strawberry Peach Lemonade",
+  "description": "Any Sweetener should work @ 1%",
+  "id": 34502,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34502/IMG_7831.jpg",
+  "updated_at": "2020-12-08T00:49:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 1336,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 1351,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "MattDGTL",
+  "views": "1818",
+  "slug": "strawberry_peach_lemonade",
+  "total_flavoring": "13.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

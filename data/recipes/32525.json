@@ -1,0 +1,62 @@
+{
+  "name": "Mix berry ice cream bliss",
+  "description": "My take on a mixed berry ice cream topped with whipped cream. Must steep for at least 1 week.",
+  "id": 32525,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32525/berry-ice-cream-superJumbo.jpg",
+  "updated_at": "2020-12-07T23:35:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Harvest Berry",
+      "flavor_id": 69,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Moggle33",
+  "views": "1142",
+  "slug": "mix_berry_ice_cream_bliss",
+  "total_flavoring": "10.75%",
+  "steep_days": "7",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

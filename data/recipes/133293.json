@@ -1,0 +1,38 @@
+{
+  "name": "Misty Mountains",
+  "description": "Thought I would try to make a simple recipe using vta fizzy sherbet and cap lemon lime. Since I drink 7up this was a no brainer. 3 days is what I recomend on steep time but you can snv it too.",
+  "id": 133293,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133293/Adobe_Post_20190102_022835.jpg",
+  "updated_at": "2020-12-07T17:35:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fizzy Sherbet",
+      "flavor_id": 8878,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 600,
+      "vendor": "FW"
+    }
+  ],
+  "author": "BigFoot1",
+  "views": "1246",
+  "slug": "misty_mountains",
+  "total_flavoring": "9.1%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Nashi Pear",
+  "description": "Carefully crafted to copy the experience of eating an Asian apple-pear: https://en.wikipedia.org/wiki/Pyrus_pyrifolia",
+  "id": 6665,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6665/Nashi_pear.jpg",
+  "updated_at": "2020-12-08T00:48:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Honeysuckle (pg)",
+      "flavor_id": 306,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ID10-T",
+  "views": "2927",
+  "slug": "nashi_pear",
+  "total_flavoring": "8.5%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "6retro6",
+      "score": "5",
+      "text": "Delicious!"
+    }
+  ]
+}

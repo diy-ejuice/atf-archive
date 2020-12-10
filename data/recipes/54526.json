@@ -1,0 +1,68 @@
+{
+  "name": "Shamonic",
+  "description": "This is a strawberry cake with a marshmallow cream icing. Flavorah's poundcake and Inawera lemon cake form the base layered with FA and TPA strawberries. Flv cream and Cap vanilla bean ice cream moisten the cake and boost the icing",
+  "id": 54526,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54526/ShfrtGwBFE-8.png",
+  "updated_at": "2020-12-01T13:11:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pound Cake",
+      "flavor_id": 4306,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon Cake",
+      "flavor_id": 661,
+      "millipercent": 700,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "bqbdm8",
+  "views": "1319",
+  "slug": "shamonic",
+  "total_flavoring": "13.7%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

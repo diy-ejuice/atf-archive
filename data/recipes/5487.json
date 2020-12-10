@@ -1,0 +1,55 @@
+{
+  "name": "Cherry Almond Cigar",
+  "description": "",
+  "id": 5487,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 1708,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Vurve",
+  "views": "3089",
+  "slug": "cherry_almond_cigar",
+  "total_flavoring": "5.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "I was surprised at how much cherry I got from this with only marzipan.  The almond almost feels like an afterthought to me, but flv cured and marzipan interact with each other to make some real magic.  I thoroughly enjoyed this one."
+    },
+    {
+      "user": "xela",
+      "score": "5",
+      "text": "Love it."
+    },
+    {
+      "user": "CptJMorgan91",
+      "score": "5",
+      "text": "Awesome! Tried it after a month steep, and it taste great. Reminds me of the sucker part of the cherry tootsie roll pop. Using in my Mage rta, dual 24g 2.5mm 8 wrap"
+    }
+  ]
+}

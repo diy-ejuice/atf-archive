@@ -1,0 +1,56 @@
+{
+  "name": "Milk and Honey Tribute ",
+  "description": "A Milk and Honey inspired remix... for old times' sake. \r\n\r\nIt's an overdone profile (graham cracker, banana and some nut flavouring) but I wanted to have another bash at remixing Milk and Honey. This one is more of a M & H inspired juice than a clone but still manages to scratch that itch.\r\n\r\nRecipe Notes\r\n\r\nToasted Almond is the main nut flavour I get from M & H. Not so sure I get peanut butter, which didn't taste right when used. 1% TFA Toasted Almond provides a subtle almond background and a toasted top-note. \r\n\r\nTo my tastebuds at least, the key to M & H's profile is TFA Bananas Foster. It's creamy with subtle banana, caramel and spice notes. However, it lacks body and can get lost in a mix so was boosted with 1.25% TFA Banana Nut Bread, which adds more body and complex sweetness. This also helps it stand up to CAP Graham.Cracker V2 which would otherwise overpower everything.\r\n\r\n1% CAP Graham Cracker 2 accents the recipe with a biscuit texture and adds holiday spice and molasses notes. It's far more complex and nuanced than CAP Graham Cracker 1 which is a plain cinnamon cracker so don't sub it out. \r\n\r\nThe hardest part in developing this recipe was finding a cream that could blend without interfering with the overall profile. However, a bit of help came from the much maligned yet overlooked, CAP VC 2. It may be unpleasant at higher percentages but at lower percentages it's an amazing blending cream which adds body without interfering with the overall flavour.\r\n\r\nUsually M & H remixes contain Marshmallow but there's already plenty of ethyl maltol sweetness coming from the banana ingredients used. Also, whenever I did use marshmallow, it muddled up the profile. \r\n\r\nFW Sweetener provides a necessary sucralose boost at 1%\r\n\r\nNice as a S&V but 3 days recommended. ",
+  "id": 148867,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/148867/bJANaCF__1_.png",
+  "updated_at": "2020-12-07T22:33:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bananas Foster",
+      "flavor_id": 211,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker V2",
+      "flavor_id": 63,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Toasted Almond",
+      "flavor_id": 294,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "CygnusY1",
+  "views": "1415",
+  "slug": "milk_and_honey_tribute",
+  "total_flavoring": "7.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

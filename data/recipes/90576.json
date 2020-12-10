@@ -1,0 +1,50 @@
+{
+  "name": "Nasty Tobacco",
+  "description": "This tobacco is kinda just dirty and nasty. The sweet rice gives it some extra texture.  Bourbon is in there to add brightness. Work in progress",
+  "id": 90576,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90576/nasty.jpeg",
+  "updated_at": "2020-12-06T20:43:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Connecticut Shade",
+      "flavor_id": 4365,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Red Burley",
+      "flavor_id": 4355,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Rice",
+      "flavor_id": 7727,
+      "millipercent": 7000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "chucknasty",
+  "views": "1677",
+  "slug": "nasty_tobacco",
+  "total_flavoring": "10.75%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

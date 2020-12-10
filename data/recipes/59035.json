@@ -1,0 +1,50 @@
+{
+  "name": "Blueberry Monster Energy",
+  "description": "Just going for a simple blueberry Monster flavor.\r\nGreen Goblin - The base monster flavoring.\r\nChampagne - Adds a little bite to it.\r\nBlueberry - the side note behind the monster flavoring\r\nCap super sweet - 2 drops per 30ML, basically a must have to get a true monster profile.",
+  "id": 59035,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59035/blueberry_dew-Hansen-800.jpg",
+  "updated_at": "2020-12-07T21:32:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Green Goblin Energy",
+      "flavor_id": 1303,
+      "millipercent": 7000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 200,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "falon1000",
+  "views": "2623",
+  "slug": "blueberry_monster_energy",
+  "total_flavoring": "12.2%",
+  "steep_days": "1",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

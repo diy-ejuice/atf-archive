@@ -1,0 +1,56 @@
+{
+  "name": "Blueberry Muffin V1",
+  "description": "",
+  "id": 4811,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:41:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Joy",
+      "flavor_id": 401,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Acetyl Pyrazine ",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BrinNutz",
+  "views": "1983",
+  "slug": "blueberry_muffin_v1",
+  "total_flavoring": "12.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

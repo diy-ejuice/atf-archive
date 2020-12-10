@@ -1,0 +1,50 @@
+{
+  "name": "Real Banana Smoothie",
+  "description": "Originally titled \"Banana Malted Milkshake\" but renamed to Real Banana Smoothie so as not to give any misconceptions. This is not like a milkshake from a milk bar - it tastes just like a real banana smoothie that you would make at home with earthy undertones and a thick mouth feel.\r\n\r\nBased on Boss Reserve Clone Remix - I subbed the FLV Milk and Honey for TPA Malted Milk and increased both the Malted Milk and Banana Cream by 1% for a bolder flavor profile.",
+  "id": 106631,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106631/banana1.jpg",
+  "updated_at": "2020-12-07T23:36:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Muscles",
+  "views": "2719",
+  "slug": "real_banana_smoothie",
+  "total_flavoring": "8.0%",
+  "steep_days": "7",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

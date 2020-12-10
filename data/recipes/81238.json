@@ -1,0 +1,50 @@
+{
+  "name": "Rum & Maple",
+  "description": "A simple aromatic pipe profile here.  I wanted this to be smooth, tobacco forward with an accent of maple and a dab of rum.  The molasses is added to enhance the rum and give it a little more sweetness.  I considered using TFA Brown Sugar but the 'lasses seems to fit better. \r\n\r\nIt could use a bit more tobacco so I think v4 will have 1.5% of FLV Cured Tobacco in place of the Tatanka, just to see how it works. ",
+  "id": 81238,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/81238/RumMaple.jpg",
+  "updated_at": "2020-12-07T12:46:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 1750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Molasses – SC",
+      "flavor_id": 7519,
+      "millipercent": 250,
+      "vendor": "RF"
+    },
+    {
+      "name": "Native Tobacco",
+      "flavor_id": 4393,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Tatanka Tobacco",
+      "flavor_id": 4417,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "MaxUT",
+  "views": "1755",
+  "slug": "rum_maple",
+  "total_flavoring": "5.75%",
+  "steep_days": "21",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

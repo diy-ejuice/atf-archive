@@ -1,0 +1,44 @@
+{
+  "name": "It’s Cake",
+  "description": "Just a simple cake with frosting. Not enough of em that work. \r\n\r\nJF Yellow Cake + INW Biscuit:\r\nCake base, needed help with texture, so biscuit. \r\n\r\nWF Buttercream Frosting + FW Hazelnut:\r\nButtercream frosting is delicious on its own, but a little bit of hazelnut makes it that much better. Delicious. \r\n\r\nYou can vape it the next day and you’ll be really happy. Wait 5 days and you’ll be even happier. After that I haven’t noticed much of a change. \r\n\r\nAdd .25% FLV Sweetness if desired, it’s pretty sweet on its own. ",
+  "id": 99099,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99099/79AD65D3-2877-4FF8-B6BF-B3739793818C.jpeg",
+  "updated_at": "2020-12-05T12:08:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Buttercream Frosting SC",
+      "flavor_id": 8361,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 4560,
+      "millipercent": 3000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Deftohms",
+  "views": "1308",
+  "slug": "its_cake",
+  "total_flavoring": "6.0%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

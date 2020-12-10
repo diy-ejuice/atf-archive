@@ -1,0 +1,87 @@
+{
+  "name": "Apple Crisp (Very Version 1.0)",
+  "description": "Tart apple crisp covered in sugary crumbles.",
+  "id": 1984,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 3750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Apple Pie",
+      "flavor_id": 208,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Apple Pie",
+      "flavor_id": 551,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Joy",
+      "flavor_id": 401,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cinnamon Sugar Cookie",
+      "flavor_id": 157,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "matthewkocanda",
+  "views": "1903",
+  "slug": "apple_crisp_very_version_10",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

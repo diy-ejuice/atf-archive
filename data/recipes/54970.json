@@ -1,0 +1,50 @@
+{
+  "name": "Green Apple Lemonade",
+  "description": "This is something i threw together really quick but it turned out really tasty and i am happy with the result.\r\n\r\nLA Lemonade: What else could you use for a straight lemonade base?It's nothing more or less and gets the job done really well.At 4% you can taste everything you need but still leave room for other flavors to come through\r\nINW Anton Apple/JF Apple: Anton Apple is a really tart and green apple which helps out JF's Apple at the top end,while JF's Apple does great being the base\r\nFA Lemon Sicily: What would a Lemonade be without a hint of Lemon?Boring,right.It makes it pop even more.\r\nWS-23/Koolada:It helps the authenticity being a cold fresh Lemonade coming out right of the fridge",
+  "id": 54970,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54970/Basil-Lemonade.01.jpg",
+  "updated_at": "2020-12-07T07:00:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Anton Apple (yc)",
+      "flavor_id": 737,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Apple",
+      "flavor_id": 7262,
+      "millipercent": 3000,
+      "vendor": "JF"
+    }
+  ],
+  "author": "Demonic_Mixer",
+  "views": "2941",
+  "slug": "green_apple_lemonade",
+  "total_flavoring": "10.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

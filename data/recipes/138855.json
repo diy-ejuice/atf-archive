@@ -1,0 +1,56 @@
+{
+  "name": "Peppermint Latte",
+  "description": "Sweet bold coffee with a cool peppermint cream.\r\n\r\nPeppermint at this level adds a light iced or cool effect but isn't minty or menthol at all.   ",
+  "id": 138855,
+  "image_url": null,
+  "updated_at": "2020-12-06T22:03:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "UP (coffee)",
+      "flavor_id": 4473,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Dark Bean (coffee Espresso)",
+      "flavor_id": 504,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Mild Winter (peppermint)",
+      "flavor_id": 532,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "xXxLEONIDASxXx",
+  "views": "923",
+  "slug": "peppermint_latte",
+  "total_flavoring": "8.75%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

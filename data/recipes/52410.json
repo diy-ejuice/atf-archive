@@ -1,0 +1,50 @@
+{
+  "name": "Razzle milkz",
+  "description": "A Simple raspberry and slight strawberry milkshake with a floral twist ",
+  "id": 52410,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52410/IMG_4747.PNG",
+  "updated_at": "2020-12-01T11:48:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Milk",
+      "flavor_id": 4263,
+      "millipercent": 5000,
+      "vendor": "CC"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Shisha Raspberry",
+      "flavor_id": 836,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Honeysuckle (pg)",
+      "flavor_id": 306,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "FlyingCustard",
+  "views": "921",
+  "slug": "razzle_milkz",
+  "total_flavoring": "11.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

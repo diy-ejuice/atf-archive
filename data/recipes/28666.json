@@ -1,0 +1,68 @@
+{
+  "name": "WAKE N BAKE CAKE",
+  "description": "With this mix I was trying to make a coffee cake type of flavor with a cinnamon crumble topping.  \r\nCAP Sugar Cookie makes up the main fluffy \"cake\"  like note of this recipe while still keeping it light enough to leave room for other flavors.  \r\nINW Biscuit is used to just add butter and depth to the CAP Sugar Cookie and make for a fuller mouthfeel.  \r\nThe CAP Cinnamon Danish Swirl and TFA Brown Sugar are used for the top cinnamon crumble part of the recipe and the CDS also lends itself to the cake note.  \r\nFA Booster (Tiramisu) is the main coffee note that also has a bit of a cake at the percentage used in this recipe.  Just a little bit of FA Dark Bean Espresso is used to fill out the coffee,  that shit is strong.  \r\nLastly the TFA Vanilla Bean Ice Cream and TFA Whipped Cream are used as a cream base to smooth the recipe out without bogging down the rest of the flavors.  \r\nIf you want a less in your face coffee flavor the FA Booster (tiramisu) can be lowered to 0.75-1%\r\n0.5-1% sweetener optional.",
+  "id": 28666,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28666/123-coffee-cake400.jpg",
+  "updated_at": "2020-12-08T00:49:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Booster (tiramisu)",
+      "flavor_id": 515,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Dark Bean (coffee Espresso)",
+      "flavor_id": 504,
+      "millipercent": 100,
+      "vendor": "FA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Antinim",
+  "views": "1556",
+  "slug": "wake_n_bake_cake",
+  "total_flavoring": "12.6%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

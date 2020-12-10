@@ -1,0 +1,38 @@
+{
+  "name": "Creamy Green Tea with Honey",
+  "description": "Frischer grüner Tee mit Milch & einem spritzer Honig\r\n\r\n//\r\nengl.\r\nFresh green Tea with milk and a hint of Honey",
+  "id": 191685,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:45:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Green tea",
+      "flavor_id": 9376,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Professor_Eliquid",
+  "views": "340",
+  "slug": "creamy_green_tea_with_honey",
+  "total_flavoring": "4.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

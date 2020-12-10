@@ -1,0 +1,68 @@
+{
+  "name": "Ravenberry Tart",
+  "description": "I created this recipe for the Flavor Pro Fantasy Food special.  My Raven Berry Tart was inspired by the cooking profession in World of Warcraft.  These lovely little tarts are trained in the Battle for Azeroth expansion and call for Wild Flour, Choral Honey, Aromatic Fish Oil and Wild Berries to craft them.  The list of flavors is lengthy because I did not want a recognizable berry profile, instead I wanted them to morph into a new imaginary berry flavor.  I feel that I pulled that off fairly well.  I was not sure what to do about the Aromatic Fish Oil aspect until Dmilin had the brilliant idea to throw in some CAP-27 Fish which also paired nicely with the berries and gave them a slight syrup texture.  Next I needed to find a way to add in the Choral Honey, so I opted for the VT-Honeycomb which had the added bonus of accenting the JF-Biscuit and the INW-Custard at the same time.  The FW-Wild Berry Cobbler ala Mode combined with JF-Biscuit make a nice cookie base for the berries to sit in and the INW-Custard is the creamy filling that binds them.  For copyright reasons I decided not to use the actual thumbnail image from the game.  This photo is extremely close though.  \r\n\r\n**Optional Ingredients: I added 0.4% FW-Sweetener to mine.  The CAP-27 Fish and VT-Honeycomb can be omitted if you are missing them and have very little impact on the recipe.**",
+  "id": 128733,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/128733/Version_2.jpg",
+  "updated_at": "2020-12-07T17:35:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Wild Berry Cobbler ala Mode",
+      "flavor_id": 8499,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Forest Fruits",
+      "flavor_id": 4890,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 3591,
+      "millipercent": 500,
+      "vendor": "SC"
+    },
+    {
+      "name": "Yangmei Berry SC",
+      "flavor_id": 10058,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "27 Fish",
+      "flavor_id": 8736,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Honeycomb",
+      "flavor_id": 8901,
+      "millipercent": 600,
+      "vendor": "VT"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Demented76",
+  "views": "1400",
+  "slug": "ravenberry_tart",
+  "total_flavoring": "9.35%",
+  "steep_days": "5",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

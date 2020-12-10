@@ -1,0 +1,56 @@
+{
+  "name": "Raspberry Lemon Vanilla Ice Cream",
+  "description": "![looplogo](https://i.imgur.com/nIvr6Vq.jpg)\r\nDecadent smooth lemon ice cream with a wild raspberry swirl. Totally stolen from a hero of mine Christopher Kopel. His magnificent recipe called Violette available here:  https://e-liquid-recipes.com/recipe/2164120/Violette . All I did was sub the parma violet for MF Wild Raspberry and the FA Custard was replaced with WF Lemon Custard. MF grows over time in the mix and sits nicely in here at 3 weeks. I use a single coil RDA about 0.2 Ohms, 50 Watts.",
+  "id": 182453,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182453/newlrvic.jpg",
+  "updated_at": "2020-12-07T17:36:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Custard SC",
+      "flavor_id": 10409,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 1335,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Wild Raspberry",
+      "flavor_id": 4312,
+      "millipercent": 600,
+      "vendor": "MF"
+    },
+    {
+      "name": "Sweetener (sucralose)",
+      "flavor_id": 2308,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "wadeyloops",
+  "views": "1354",
+  "slug": "raspberry_lemon_vanilla_ice_cream",
+  "total_flavoring": "12.6%",
+  "steep_days": "21",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

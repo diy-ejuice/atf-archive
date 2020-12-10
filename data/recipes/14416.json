@@ -1,0 +1,68 @@
+{
+  "name": "Hearts Alive (Natural)",
+  "description": "This is a version of my sweet blueberry lemonade that has a more natural or \"tart\" taste to it. Replacing the more sweet CAP Lemon Sicily with its more natural FA counterpart and adding a touch of FA Bilberry to help flesh the blueberry out. Replaced TFA Sweetener with Ethyl Maltol to cut the \"sugar on the tongue\" taste of the sucralose while still brightening the berries. EM is more optional in this version than the TFA Sweetener in the original. 2 Drops Koolada per 30ml or to taste. Overnight steep to help the FA Lemon Sicily and Bilberry settle in.",
+  "id": 14416,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14416/Blueberry_Lemonade_500_6502.jpg",
+  "updated_at": "2020-12-08T00:48:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "LocoMojo",
+  "views": "2118",
+  "slug": "hearts_alive_natural",
+  "total_flavoring": "11.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "This is one of very few lemonade recipes I can just sit and vape on rather than taking a drag here and there until the mix is gone."
+    },
+    {
+      "user": "Philosaphucker",
+      "score": "5",
+      "text": "This a nice, tart blueberry lemonade. Just as advertised. Nice job!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Rin's Blueberry Pie",
+  "description": "Also 1% Blueberry juice ripe that hasn't been added to this site yet.  This flavor, to me, is very jam like so I figured it would be perfect for a pie filling. Blueberry muffin helps add a non-floral blueberry note as well as the added bakery for the muffin. I am not a fan of pie crust flavorings so I've been attempting to \"build\" a pie crust using a variety of different flavors. NR Sugar crunch also is used to enhance the pie crust note. Vanilla whipped cream was added to smooth and provide a light vanilla note.",
+  "id": 180161,
+  "image_url": null,
+  "updated_at": "2020-12-07T07:01:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry Muffin",
+      "flavor_id": 608,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 1375,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sugar Crunch",
+      "flavor_id": 10221,
+      "millipercent": 500,
+      "vendor": "NR"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "718",
+  "slug": "rins_blueberry_pie",
+  "total_flavoring": "3.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Pumpkin Latte",
+  "description": "Just wanted something similar to the profile. This seemed to work. If anyone mixed something similar I'd like to hear their tips",
+  "id": 77603,
+  "image_url": null,
+  "updated_at": "2020-12-05T08:05:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pumpkin Spice",
+      "flavor_id": 4436,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Eggnog",
+      "flavor_id": 4396,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 4575,
+      "millipercent": 1500,
+      "vendor": "JF"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 4142,
+      "millipercent": 2250,
+      "vendor": "RF"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 7742,
+      "millipercent": 2000,
+      "vendor": "PUR"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 7752,
+      "millipercent": 3500,
+      "vendor": "PUR"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "cmyjones",
+  "views": "961",
+  "slug": "pumpkin_latte",
+  "total_flavoring": "16.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

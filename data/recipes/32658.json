@@ -1,0 +1,56 @@
+{
+  "name": "Sweet Box Bro",
+  "description": "This is a Butterscotch Ice Cream Sandwich. The FW Butterscotch Ripple paired with FW Bavarian Cream, FA Cream Fresh and Vienna Cream puts the ice cream flavor right where it needs to be. This sandwiched between the combo of JF Biscuit and FW Hazelnut brings the cookie. The flavor on a shake and vape is vanilla ice cream. After the 7 day steep the prfoile comes together the butterscotch ice cream and cookie sandwich shines.",
+  "id": 32658,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32658/20170220_144125.png",
+  "updated_at": "2020-11-25T19:31:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 3500,
+      "vendor": "JF"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 3750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "KRUCIAL",
+  "views": "2418",
+  "slug": "sweet_box_bro",
+  "total_flavoring": "11.75%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

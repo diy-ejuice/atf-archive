@@ -1,0 +1,38 @@
+{
+  "name": "Water berry Skittles",
+  "description": "a variation of a flavor i saw with a nice taste",
+  "id": 146187,
+  "image_url": null,
+  "updated_at": "2020-12-07T21:32:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 276,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rainbow Candy",
+      "flavor_id": 1388,
+      "millipercent": 8000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "kenny61",
+  "views": "1019",
+  "slug": "water_berry_skittles",
+  "total_flavoring": "16.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

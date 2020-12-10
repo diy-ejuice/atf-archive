@@ -1,0 +1,50 @@
+{
+  "name": "Malt Crunch Ry4",
+  "description": "I needed something to accompany a Jack and coke so a here's mix of ry4 and malted cereal. I added caramel and toasted marshmallow in an attempt to tame the 'green' note i get from fw malt.",
+  "id": 64668,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64668/images.jpg",
+  "updated_at": "2020-12-07T04:39:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Malt",
+      "flavor_id": 8483,
+      "millipercent": 300,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel V2",
+      "flavor_id": 27,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Statch",
+  "views": "1601",
+  "slug": "malt_crunch_ry4",
+  "total_flavoring": "12.3%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

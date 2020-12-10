@@ -1,0 +1,75 @@
+{
+  "name": "The Hatter",
+  "description": "Testing out a new recipe. Notes to come once I have had a chance to steep.  10-14-16 tried after 3 days steep. Not bad. Needs more time to steep. ",
+  "id": 15922,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:38:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Cheese Icing ",
+      "flavor_id": 3079,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 3083,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 1211,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Karma",
+  "views": "1221",
+  "slug": "the_hatter",
+  "total_flavoring": "19.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "its ok"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Crazy Colada",
+  "description": "A stand-in for Pina Colada I made before I had any pineapple concentrate. Turned out this flavor is BOMB though. ",
+  "id": 118686,
+  "image_url": null,
+  "updated_at": "2020-12-07T07:00:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Coconut Milk",
+      "flavor_id": 1484,
+      "millipercent": 2500,
+      "vendor": "LB"
+    },
+    {
+      "name": "Jackfruit",
+      "flavor_id": 240,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "1079",
+  "slug": "crazy_colada",
+  "total_flavoring": "6.5%",
+  "steep_days": "4",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

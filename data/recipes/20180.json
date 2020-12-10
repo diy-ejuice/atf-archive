@@ -1,0 +1,51 @@
+{
+  "name": "Cumulonimbus ",
+  "description": "This flavor is modeled after my favorite cocktail, the dark and stormy. The cocktail is dark spiced rum (usually goslings black seal) and ginger beer (I prefer Bundaberg or Cock & Bull) with a squeeze of lime over ice.",
+  "id": 20180,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ginger Ale",
+      "flavor_id": 354,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 330,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "TELivingston",
+  "views": "1058",
+  "slug": "cumulonimbus",
+  "total_flavoring": "6.33%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Bogey_Again",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

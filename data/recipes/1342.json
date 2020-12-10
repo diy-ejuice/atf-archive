@@ -1,0 +1,68 @@
+{
+  "name": "Nuka-Cola Classic",
+  "description": "A flavor meant to invoke Nuka-Cola from the Fallout series of video games.",
+  "id": 1342,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cola Syrup",
+      "flavor_id": 351,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Orange",
+      "flavor_id": 500,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DataNotAnecdotes",
+  "views": "1999",
+  "slug": "nukacola_classic",
+  "total_flavoring": "10.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "kitu5",
+      "score": "5",
+      "text": "So, obsessed with Fallout as I am, had to try this on October 23rd. Made a big ol batch, and love it. It's absolutely cola, but the mix of fruits is great. You can taste the orange, strawberry and peach individually, but they blend together. All my friends agreed with my thought: yup, this has to be what it tastes like. This is what my brain envisioned.&#xD;\n&#xD;\nFor those not Fallout inclined: think making a cola heavy suicide with orange fanta, strawberry fanta, and a splash of peach something.&#xD;\n&#xD;\nSeverely excellent. I've been ADVing this for almost a week.&#xD;\n&#xD;\nWorth crawling out of your vault and brawling with a Jet addicted deathclaw for. Absolute banger!"
+    }
+  ]
+}

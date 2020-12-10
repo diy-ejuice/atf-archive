@@ -1,0 +1,44 @@
+{
+  "name": "Fruity ice cream rings",
+  "description": "This is a super simple Fruity rings cereal and vanilla ice cream. This is my first recipe that I am sharing. I took ideas from other recipes and simplified it. This turned out super good for my taste. Might need some steep time but off of the shake it's really good. Let me know what you think if you mix it up. Thanks! ",
+  "id": 190697,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:17:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fruit Rings",
+      "flavor_id": 1285,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard 2",
+      "flavor_id": 10427,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Dmixer256",
+  "views": "653",
+  "slug": "fruity_ice_cream_rings",
+  "total_flavoring": "10.5%",
+  "steep_days": "1",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

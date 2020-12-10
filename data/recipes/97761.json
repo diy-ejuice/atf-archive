@@ -1,0 +1,63 @@
+{
+  "name": "Whipped Cookie",
+  "description": "Simply just whipped cream and sugar cookies. It's a little floral off the shake but still good, best after a 5 day steep. Have at it!",
+  "id": 97761,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97761/download.jpg",
+  "updated_at": "2020-12-08T00:50:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Coconut Candy",
+      "flavor_id": 223,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Marshmallow",
+      "flavor_id": 8744,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Kemmo",
+  "views": "1547",
+  "slug": "whipped_cookie",
+  "total_flavoring": "13.0%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "KylezKloudz",
+      "score": "4",
+      "text": "Not a bad mix by any means... Pretty delicate and light... You get the sugar cookie with a light airy whipped center... Didn't really find anything floral with it, gotta wait a couple days for the alcohol to settle of the sugar cookie but that's about it... Not bad! 👍👍"
+    }
+  ]
+}

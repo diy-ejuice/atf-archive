@@ -1,0 +1,50 @@
+{
+  "name": "Kilo - Kiberry Yogurt",
+  "description": "My take on Kilo Brand's flavor Kiberry Yogurt.\r\n\r\nStrawberry Kiwi yogurt. Good off the shake. Enjoy.",
+  "id": 206069,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206069/kilo.jpg",
+  "updated_at": "2020-12-08T00:51:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Sublimeice",
+  "views": "984",
+  "slug": "kilo_kiberry_yogurt",
+  "total_flavoring": "10.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

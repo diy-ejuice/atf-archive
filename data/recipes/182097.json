@@ -1,0 +1,38 @@
+{
+  "name": "Pralines Rippled Ice Cream",
+  "description": "Not a whole lot to figure out here.  I really love Pralines and Cream by FW and Butterscotch Ripple  and LB Vanilla Ice Cream go with anything.   Add in your preferred sweetener.",
+  "id": 182097,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:44:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pralines & Cream",
+      "flavor_id": 1385,
+      "millipercent": 7000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 5000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 3000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "bjorama",
+  "views": "599",
+  "slug": "pralines_rippled_ice_cream",
+  "total_flavoring": "15.0%",
+  "steep_days": "10 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

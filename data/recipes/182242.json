@@ -1,0 +1,56 @@
+{
+  "name": "Custard Vanilla Caramel",
+  "description": "A custard with vanilla caramel and a light cream. Steep time i ll give 7 to 10 days. Enjoy!",
+  "id": 182242,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182242/CaramelCustardFlan.jpg",
+  "updated_at": "2020-12-07T12:48:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Caramel Butter",
+      "flavor_id": 6046,
+      "millipercent": 1800,
+      "vendor": "WF"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Holy Vanilla",
+      "flavor_id": 2385,
+      "millipercent": 2500,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 8979,
+      "millipercent": 1200,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 1500,
+      "vendor": "LB"
+    }
+  ],
+  "author": "Kelgar78",
+  "views": "2087",
+  "slug": "custard_vanilla_caramel",
+  "total_flavoring": "10.5%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

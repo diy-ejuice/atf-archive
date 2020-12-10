@@ -1,0 +1,32 @@
+{
+  "name": "Man mode (POD/MTL) ",
+  "description": "Simple whiskey tobacco mix. Made specifically for pod devices only. ",
+  "id": 126493,
+  "image_url": null,
+  "updated_at": "2020-12-07T05:58:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Burley",
+      "flavor_id": 435,
+      "millipercent": 6000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Whisky",
+      "flavor_id": 556,
+      "millipercent": 4000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "1172",
+  "slug": "man_mode_podmtl",
+  "total_flavoring": "10.0%",
+  "steep_days": "28",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

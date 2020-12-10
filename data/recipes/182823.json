@@ -1,0 +1,50 @@
+{
+  "name": "Saloon Sally",
+  "description": "Original recipe by cyberwolf. \r\n\r\nI didn’t have Black Walnut LA so I subbed Walnut WF and added Blended Tobacco FE which gives it some richness and darker notes.  I also added .2 super sweet, yeah I know, blasphemy. ",
+  "id": 182823,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:17:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blackberry",
+      "flavor_id": 534,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blended Tobacco",
+      "flavor_id": 1604,
+      "millipercent": 200,
+      "vendor": "FE"
+    },
+    {
+      "name": "Desert Ship",
+      "flavor_id": 4877,
+      "millipercent": 2700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Virginia",
+      "flavor_id": 427,
+      "millipercent": 5300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Walnut SC",
+      "flavor_id": 9052,
+      "millipercent": 1000,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Steam-Sworn",
+  "views": "503",
+  "slug": "saloon_sally",
+  "total_flavoring": "9.9%",
+  "steep_days": "30",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Logan’s Flavraid",
+  "description": "My wife wanted something very fruit punch forward and VERY sweet. I started with just the west coast punch and the Hawaiian drink, but the pineapple needed to be a little stronger in the combo so I added the pineapple juicy for the punchy pineapple flavor it brings. It still needed to be juicy and wetter so I went .5 cactus and pear to up the wet without too much flavor in the mix from either. I made this for another friend with 1% SS and she loved it as well- She said it is very distinctly the blue flavor of koolaid. The wife likes it right off the shake, but says it does something nice after a few days in the bottle if she can make it last that long. ",
+  "id": 177985,
+  "image_url": null,
+  "updated_at": "2020-12-02T08:07:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pineapple Juicy",
+      "flavor_id": 2166,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "West Coast Punch",
+      "flavor_id": 9286,
+      "millipercent": 5000,
+      "vendor": "FR"
+    },
+    {
+      "name": "Hawaiian Drink",
+      "flavor_id": 236,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Pear With Stevia",
+      "flavor_id": 99,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Ceedge",
+  "views": "500",
+  "slug": "logans_flavraid",
+  "total_flavoring": "13.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

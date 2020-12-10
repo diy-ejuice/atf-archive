@@ -1,0 +1,45 @@
+{
+  "name": "Banana milkshake",
+  "description": "Saw this on a recipe in their description. Dont remember who it was, but I really wanted to make a super simple recipe! Theres not enough banana recipes out there who dont use banana cream...",
+  "id": 157562,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157562/bananamilkshake-500x400.jpg",
+  "updated_at": "2020-12-06T22:03:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana",
+      "flavor_id": 312,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Gruspojken",
+  "views": "1606",
+  "slug": "banana_milkshake",
+  "total_flavoring": "11.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 1,
+  "reviews": [
+    {
+      "user": "Kelgar78",
+      "score": "1",
+      "text": "You can find it in Kelgar78 cause my friend here \"couldnt remember\" my name and my recipe."
+    }
+  ]
+}

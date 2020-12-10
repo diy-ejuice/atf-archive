@@ -1,0 +1,38 @@
+{
+  "name": "Revolution v2",
+  "description": "After Vaporham Lincoln closed and sold their recipes to The SauceLA, and they gave a description of the flavor profiles have helped create v2. While v1 is good, am looking forward to tasting this mix.",
+  "id": 121738,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:44:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Guava",
+      "flavor_id": 233,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "partzman2",
+  "views": "1066",
+  "slug": "revolution_v2",
+  "total_flavoring": "10.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

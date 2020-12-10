@@ -1,0 +1,56 @@
+{
+  "name": "Strawberry Rhubarb Boi",
+  "description": "Final version.\r\n\r\n\r\nCap Crunchy Frosted Cookie - If you do not have this extract it will ruin the recipe. this is the base flavor everything is going to sit on.\r\n\r\nINW Shortbread Cookie(or INW Biscuit)- I wanted to use this because it is new and there are a lot of rhubarb tarts that use a shortbread base. This extract is not as dark as INW biscuit but if you go to high with shortbread it appears to take on a popcorn like quality. The initial smell of this smells almost like FLV popcorn. You can replace this with inw biscuit at the same percentage and achieve similar results.\r\n\r\nFLV Rhubarb- This is the only realistic rhubarb in my opinion. WF is basically raspberry, VT is basically sour mush, INW is way too green and vegetale. I have never used this higher than .4 and I do not recommend you go any higher. Even after a 14 day steep the rhubarb still has that sour root flavor right on top where you want it.\r\n\r\nFA Red Touch- I removed the sweet strawberry because I felt like it took away from the main rhubarb profile I had going before so I'm reverting this back to the original state at 2%.\r\n\r\nFlapper Pie WF- Flapper pie is pretty much a perfect blend of custard and meringue. I didn't go above 3% because I do not want any of the graham cracker notes to poke through.",
+  "id": 118478,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118478/1033249144001_1680700049001_ari-origin05-arc-169-1339198678742.jpg",
+  "updated_at": "2020-12-05T11:05:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Crunchy Frosted Cookie",
+      "flavor_id": 10000,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shortbread",
+      "flavor_id": 10159,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rhubarb",
+      "flavor_id": 4371,
+      "millipercent": 400,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Flapper Pie SC",
+      "flavor_id": 10106,
+      "millipercent": 3000,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Germ",
+  "views": "1383",
+  "slug": "strawberry_rhubarb_boi",
+  "total_flavoring": "11.9%",
+  "steep_days": "14 (SNV)",
+  "best_vg": "69%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

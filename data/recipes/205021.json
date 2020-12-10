@@ -1,0 +1,74 @@
+{
+  "name": "Morning Officer",
+  "description": "Mango, berry and cereal smoothie with coconut milk. Once blended, its not certain what variety of the ingredients you will taste at what time. A breakfast smoothie to perk the senses.   ",
+  "id": 205021,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/205021/Screenshot_20201026-214935_Samsung_Internet.jpg",
+  "updated_at": "2020-12-07T09:46:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Milkshake Base",
+      "flavor_id": 8927,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Smoothie Base",
+      "flavor_id": 10153,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Granola",
+      "flavor_id": 8555,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Jammy Berry",
+      "flavor_id": 10150,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Dx Hazelnut",
+      "flavor_id": 287,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Coconut Milk",
+      "flavor_id": 1484,
+      "millipercent": 3250,
+      "vendor": "LB"
+    },
+    {
+      "name": "Shisha Mango",
+      "flavor_id": 831,
+      "millipercent": 750,
+      "vendor": "INW"
+    }
+  ],
+  "author": "SquirEvapes",
+  "views": "467",
+  "slug": "morning_officer",
+  "total_flavoring": "17.75%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

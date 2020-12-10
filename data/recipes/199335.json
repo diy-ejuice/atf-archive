@@ -1,0 +1,74 @@
+{
+  "name": "Pear Ice Cream Flambee",
+  "description": "Pear Halves with Vanilla Ice Cream and Cookie crumble topped with Caramel sauce and some boozy Bourbon.\r\nBest after 7 days.",
+  "id": 199335,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199335/4021058264_e045a0340e_o.jpg",
+  "updated_at": "2020-12-07T17:36:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pear Halves",
+      "flavor_id": 8940,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Bourbon",
+      "flavor_id": 8839,
+      "millipercent": 500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Ethyl Maltol 10%",
+      "flavor_id": 2311,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Spycke",
+  "views": "435",
+  "slug": "pear_ice_cream_flambee",
+  "total_flavoring": "15.5%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "70",
+  "recipe_score": 0,
+  "reviews": []
+}

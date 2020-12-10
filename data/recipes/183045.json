@@ -1,0 +1,57 @@
+{
+  "name": "Boston'E Chocolate",
+  "description": "A sweet Eclair mixed with a Boston Cream..pretty darn good for those breakfast and cake lovers",
+  "id": 183045,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/183045/318846464_small.jpg",
+  "updated_at": "2020-12-08T00:51:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "XxBulldogIrishxX",
+  "views": "1336",
+  "slug": "bostone_chocolate",
+  "total_flavoring": "9.5%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "sunsetsandpalmtrees",
+      "score": "5",
+      "text": "I never tried a chocolate vape before and this is really delicious!! Thank you for this recipe."
+    }
+  ]
+}

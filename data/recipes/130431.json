@@ -1,0 +1,44 @@
+{
+  "name": "Plain Vanilla Custard",
+  "description": "Just plain vanilla custard easy to mix easy to vape.",
+  "id": 130431,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:35:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "chris_walker_ffl",
+  "views": "1966",
+  "slug": "plain_vanilla_custard",
+  "total_flavoring": "14.0%",
+  "steep_days": "14",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

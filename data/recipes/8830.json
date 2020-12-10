@@ -1,0 +1,57 @@
+{
+  "name": "Bloody SunRise",
+  "description": "A citrus vape starring orange & peach with hints of strawberry. Optional 1% TFA sweetener. 2-3 day steep calms down the blood orange and juicy peach. A nice citrus vape to start your day off with.",
+  "id": 8830,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:26:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Orange",
+      "flavor_id": 500,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Juicy Peach",
+      "flavor_id": 81,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Draktyn92",
+  "views": "957",
+  "slug": "bloody_sunrise",
+  "total_flavoring": "14.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "its ok"
+    }
+  ]
+}

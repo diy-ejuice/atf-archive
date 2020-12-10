@@ -1,0 +1,56 @@
+{
+  "name": "GNC",
+  "description": "A chocolate chip cookie sandwich with marshmallow and pistachio filling. Cookie bite and marshmallow vanilla give it sweetness and mouthfeel and the combination of both pistachio flavors and almond give it a nutty note. \r\n",
+  "id": 142707,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/142707/6F87AC4E-0F62-4E16-92B9-D4F2D8A61D72.jpeg",
+  "updated_at": "2020-12-07T22:33:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cookie Bite",
+      "flavor_id": 10149,
+      "millipercent": 4000,
+      "vendor": "MB"
+    },
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Marshmallow Vanilla",
+      "flavor_id": 10092,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pistachio",
+      "flavor_id": 293,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pistachio",
+      "flavor_id": 3520,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Daytimefrank1",
+  "views": "1189",
+  "slug": "gnc",
+  "total_flavoring": "9.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

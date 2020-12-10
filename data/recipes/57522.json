@@ -1,0 +1,56 @@
+{
+  "name": "Key Lime Pudding",
+  "description": "Key Lime Pudding! Sticky pudding mouthfeel with bright lime flavor and a hint of vanilla.",
+  "id": 57522,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Pudding",
+      "flavor_id": 4433,
+      "millipercent": 5000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DIYorDIEMixathon",
+  "views": "1233",
+  "slug": "key_lime_pudding",
+  "total_flavoring": "10.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

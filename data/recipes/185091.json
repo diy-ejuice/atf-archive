@@ -1,0 +1,44 @@
+{
+  "name": "Blackberry Snappleishes ",
+  "description": "This is a blackberry sweet tea. The real recipe is 5.5 river flavors sweet tea and 5.5% tpa sweet tea. The blackberry I used was flavor monks at 1%. Flavor monks and river supply is not on here yet.",
+  "id": 185091,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/185091/83F8974A-101D-470E-803C-E5F45A19F898.jpeg",
+  "updated_at": "2020-12-05T15:44:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 11000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jammy Berry",
+      "flavor_id": 10150,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 14,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Crazyhorse",
+  "views": "592",
+  "slug": "blackberry_snappleishes",
+  "total_flavoring": "13.5%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Cherry Mocha Stout",
+  "description": "FA Beer = HS Beer; HS Beer was not available from All The Flavors. \r\n\r\nModeled after my Dad's Cherry Mocha Stout beer. I believe this is a good representation and surprisingly tasty!\r\n\r\nThe key players here are HS Beer (Bitter, yeasty, dark, effervescent, DRY) and FLV Lovage (WET, earthy, vegetal, smooth); if you’re going for a darker beer I highly recommend getting RF Molasses (Dark, sweet, thick, tasty). I did try champagne (too watery/boozy, didn’t compliment the flavor), FLV Beer Nuts (way different than what we’re going for here), and FA Joy (yeast aspect was nice but it was making it too dry and kinda weird). If I had to categorize this vape, I would lean it more toward ‘Earth’ than I would ‘Beverage/Cocktail.’",
+  "id": 49529,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49529/Capture.JPG",
+  "updated_at": "2020-12-08T00:49:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Beer",
+      "flavor_id": 502,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lovage Root",
+      "flavor_id": 2152,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Molasses",
+      "flavor_id": 4115,
+      "millipercent": 500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Australian Chocolate",
+      "flavor_id": 2657,
+      "millipercent": 500,
+      "vendor": "HS"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 1708,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Dry Coctail",
+      "flavor_id": 653,
+      "millipercent": 250,
+      "vendor": "INW"
+    }
+  ],
+  "author": "CheebaSteeba",
+  "views": "2513",
+  "slug": "cherry_mocha_stout",
+  "total_flavoring": "3.25%",
+  "steep_days": "3",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

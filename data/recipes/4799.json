@@ -1,0 +1,61 @@
+{
+  "name": "Custody",
+  "description": "Super simple vanilla custard. FLV Coconut is not mandatory.",
+  "id": 4799,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 640,
+      "millipercent": 100,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Goldfish18",
+  "views": "5114",
+  "slug": "custody",
+  "total_flavoring": "11.1%",
+  "steep_days": "10",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 4.3,
+  "reviews": [
+    {
+      "user": "chief63",
+      "score": "4",
+      "text": "Mixed this up without the FLV Coconut ($$$$) and it is a very good, easy to whip up custard.  Nice work.  I did add a touch of FLV Sweet Coconut for the sweetness and a little interest."
+    },
+    {
+      "user": "Trista_C",
+      "score": "4",
+      "text": "One week out and im enjoying it!  I know it will be better with more time.  I'll mix this one again!"
+    },
+    {
+      "user": "Aquaneo",
+      "score": "5",
+      "text": "This was a perfectly sweet thick vanilla custard. It reminds me of Velvet Couds vanilla custard. The second batch was a 100ml batch as I enjoyed the first so much. Takes at least a week till those custard notes come through properly. Enjoyed it allot. "
+    }
+  ]
+}

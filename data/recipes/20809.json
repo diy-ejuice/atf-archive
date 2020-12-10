@@ -1,0 +1,63 @@
+{
+  "name": "crispy treat",
+  "description": "trying get as close to the ethos flavor as I can\r\n1 drop / 10m sweetener (2/mll if tfa) ",
+  "id": 20809,
+  "image_url": null,
+  "updated_at": "2020-12-05T11:04:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 494,
+      "millipercent": 150,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rice Crunchies",
+      "flavor_id": 142,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 150,
+      "vendor": "FA"
+    }
+  ],
+  "author": "matp75",
+  "views": "1774",
+  "slug": "crispy_treat",
+  "total_flavoring": "11.05%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "User 1427",
+      "score": "none",
+      "text": "Definitely trying this with JF cake, and maybe a splash of vanilla. "
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Pink Lemonade Element",
+  "description": "Clone attempt on Element's Pink Lemonade.  Very good recipe, could be a little stronger.",
+  "id": 93898,
+  "image_url": null,
+  "updated_at": "2020-12-07T12:46:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 1666,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 636,
+      "millipercent": 3333,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1660,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "mysterioso",
+  "views": "1466",
+  "slug": "pink_lemonade_element",
+  "total_flavoring": "16.659%",
+  "steep_days": "7",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

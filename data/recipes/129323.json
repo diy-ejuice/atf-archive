@@ -1,0 +1,56 @@
+{
+  "name": "Dandelion",
+  "description": "This is a Banana, Strawberry, Pear, Edlerflower cocktail recipe based around this recipe here:\r\nhttp://gamecocktails.dk/category/the-witcher/\r\n\r\n",
+  "id": 129323,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129323/dandelion.png",
+  "updated_at": "2020-11-30T06:46:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Alpine Strawberry",
+      "flavor_id": 4360,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Elderflower",
+      "flavor_id": 3518,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "3103",
+  "slug": "dandelion",
+  "total_flavoring": "8.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "T.C.I.C.",
+  "description": "Here we have a sweet and creamy toffee coffee ice cream. VT toffee ice cream makes up the bulk of the flavor with the FA Italian relax bolstering the notes with its cappuccino qualities. The two interplay in a way that both of their dark flavor qualities evolve and evince a harmonious range of flavor for the palate. \r\n\r\nLB is simply the best vanilla ice cream flavor, in my opinion. VBIC is a close second now for me. LB vanilla ice cream creates the velvety, rich ice cream base with TFA vanilla swirl to add more of a vanilla punch along with VT warm custard to impart a slight buttery and eggy note. \r\n\r\nVT milkshake base helps drive it all home by giving it a dense  milkshake feel. I played with the idea of using a higher percentage but wasn’t sure how the malty notes that come out at a higher percentage would play with the already dark and bold flavors of the coffee and toffee. \r\n\r\nSweeten to taste, but I found .5% super sweet works well. It’s meant to be sweet and sticky. Feel free to add WS23 at .5% if you want the coolness of an ice cream/milkshake as well. \r\n\r\nI hope you enjoy!",
+  "id": 181581,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181581/743FC109-9459-41BF-85ED-81DFEBA9FDBA.jpeg",
+  "updated_at": "2020-12-06T20:52:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Warm Custard",
+      "flavor_id": 8997,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Milkshake Base",
+      "flavor_id": 8927,
+      "millipercent": 600,
+      "vendor": "VT"
+    },
+    {
+      "name": "Toffee Ice Cream",
+      "flavor_id": 8987,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Italian Relax (cappuccino)",
+      "flavor_id": 505,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 5000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "BananaSlamma",
+  "views": "703",
+  "slug": "tcic",
+  "total_flavoring": "11.85%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

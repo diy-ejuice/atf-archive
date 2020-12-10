@@ -1,0 +1,56 @@
+{
+  "name": "Rifle",
+  "description": "My original S&C, tastes tones of both Nesquick style strawberry, and ripe strawberry. The raspberry helps the strawberry pop and not mellow out as fast.",
+  "id": 20996,
+  "image_url": null,
+  "updated_at": "2020-12-01T03:14:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "xantrel",
+  "views": "1422",
+  "slug": "rifle",
+  "total_flavoring": "10.0%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

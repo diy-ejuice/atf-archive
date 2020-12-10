@@ -1,0 +1,68 @@
+{
+  "name": "Black Dahlia",
+  "description": "A cigar-tobacco recipe.This is quite old school,mixed mostly with flavours that have been around for years.Cigar Passion(FA),which has been renamed to Cigar Old,gives a slight floral note to the mix.This note can be detected in some Tuscan cigars",
+  "id": 208238,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/208238/22.jpg",
+  "updated_at": "2020-12-07T21:33:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butterscotch",
+      "flavor_id": 613,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cigar Leaf",
+      "flavor_id": 9891,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cigar Passion",
+      "flavor_id": 460,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "French Vanilla V2",
+      "flavor_id": 57,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 800,
+      "vendor": "FW"
+    },
+    {
+      "name": "Kentucky Blend",
+      "flavor_id": 4362,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Smoked Butterscotch",
+      "flavor_id": 8569,
+      "millipercent": 700,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet & Smokey Tobacco",
+      "flavor_id": 10085,
+      "millipercent": 800,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "nks",
+  "views": "597",
+  "slug": "black_dahlia",
+  "total_flavoring": "7.6%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

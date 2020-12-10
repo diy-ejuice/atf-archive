@@ -1,0 +1,75 @@
+{
+  "name": "Yummy Cappuccino",
+  "description": "I love a nice coffee vape in the mornings. A nice sweet cup of freshly brewed cappuccino complete with frothed milk on the top.",
+  "id": 73853,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73853/maxresdefault.jpg",
+  "updated_at": "2020-12-08T00:49:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Condensed Milk – Super Concentrate",
+      "flavor_id": 7873,
+      "millipercent": 1000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 160,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Italian Relax (cappuccino)",
+      "flavor_id": 505,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Gelato",
+      "flavor_id": 185,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Dezy",
+  "views": "2214",
+  "slug": "yummy_cappuccino",
+  "total_flavoring": "14.0%",
+  "steep_days": "14",
+  "best_vg": "80%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "phried",
+      "score": "5",
+      "text": "This is a good coffee recipe, more reminiscent of a premium instant cappuccino mix than real coffee though but nonetheless entirely enjoyable. Very creamy with the right amount of sweetness rounding off the light coffee bitterness lingering in the exhale. Will remix."
+    }
+  ]
+}

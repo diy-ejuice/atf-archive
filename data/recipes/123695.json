@@ -1,0 +1,68 @@
+{
+  "name": "Icecreamland",
+  "description": "Chocolate flavoured ice cream with cocoa syrup, cocoa coated pieces and chocolate pieces.",
+  "id": 123695,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123695/5252.jpg",
+  "updated_at": "2020-12-07T09:44:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate Fudge Brownie",
+      "flavor_id": 32,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 4389,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Milk Condensed",
+      "flavor_id": 404,
+      "millipercent": 200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Beer Nuts",
+      "flavor_id": 4391,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Australian Chocolate",
+      "flavor_id": 2657,
+      "millipercent": 4000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cocoa",
+      "flavor_id": 496,
+      "millipercent": 300,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Pmnb",
+  "views": "1574",
+  "slug": "icecreamland",
+  "total_flavoring": "11.2%",
+  "steep_days": "15",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

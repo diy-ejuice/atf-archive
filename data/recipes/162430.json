@@ -1,0 +1,44 @@
+{
+  "name": "Citrus Drink",
+  "description": "Inspired by Sangria. Not sure how close it is as I haven't had Sangria in years but it's very fruity with a slight hint of wine. ",
+  "id": 162430,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:40:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Tangy Orange",
+      "flavor_id": 10053,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Thai Apple SC",
+      "flavor_id": 9051,
+      "millipercent": 750,
+      "vendor": "WF"
+    },
+    {
+      "name": "Grenadine",
+      "flavor_id": 68,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Volfgam",
+  "views": "664",
+  "slug": "citrus_drink",
+  "total_flavoring": "4.25%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

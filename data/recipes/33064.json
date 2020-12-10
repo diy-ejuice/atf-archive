@@ -1,0 +1,62 @@
+{
+  "name": "Berry Swirl",
+  "description": "This is a mix of real and candy blueberry and strawberries with a hint of vanilla. This is one of the first recipes I ever created and I still mix to this day. An overnight steep is recommended, but not necessary. ",
+  "id": 33064,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33064/DSC_0493.jpg",
+  "updated_at": "2020-12-06T20:39:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry Candy (pg)",
+      "flavor_id": 216,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pomegranate",
+      "flavor_id": 103,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "the1osu",
+  "views": "1899",
+  "slug": "berry_swirl",
+  "total_flavoring": "13.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

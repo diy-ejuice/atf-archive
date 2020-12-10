@@ -1,0 +1,80 @@
+{
+  "name": "Pineapple Cake",
+  "description": "my attempt at a pineapple cake. So far so good, I let mine steep for quite a while (over a month) because I forgot about it. After the steep I added the Marshmallow, AP, and Cream Cheese Icing. Let me know what you think.",
+  "id": 32335,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32335/Pineapple_Cake.jpg",
+  "updated_at": "2020-12-07T17:33:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 1800,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1800,
+      "vendor": "FW"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Liquid Amber",
+      "flavor_id": 476,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 809,
+      "millipercent": 400,
+      "vendor": "INW"
+    },
+    {
+      "name": "Acetyl Pyrazine",
+      "flavor_id": 1709,
+      "millipercent": 250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BradH",
+  "views": "1496",
+  "slug": "pineapple_cake",
+  "total_flavoring": "11.75%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

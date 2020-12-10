@@ -1,0 +1,56 @@
+{
+  "name": "Lemon Paw",
+  "description": "A smooth lemon mango. The VT Paw Paw is nice and creamy mango",
+  "id": 156506,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/156506/PAWPAW.jpg",
+  "updated_at": "2020-12-07T04:41:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Paw Paw",
+      "flavor_id": 8936,
+      "millipercent": 3000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 3516,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 1655,
+      "millipercent": 2000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Jerseyjoe",
+  "views": "793",
+  "slug": "lemon_paw",
+  "total_flavoring": "12.5%",
+  "steep_days": "2",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

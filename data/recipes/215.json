@@ -1,0 +1,66 @@
+{
+  "name": "Birthday Cake",
+  "description": "Funfetti cake with frosting.",
+  "id": 215,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/215/small-20170610-22776-1lrt3c8.jpg",
+  "updated_at": "2020-12-08T00:48:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake Batter Dip",
+      "flavor_id": 1223,
+      "millipercent": 7000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "NotCharlesManson",
+  "views": "9774",
+  "slug": "birthday_cake",
+  "total_flavoring": "10.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 4,
+  "recipe_score": 4.8,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "andreaelle",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "super8line",
+      "score": "4",
+      "text": "Recipe looked good so I ordered the FW Cake Batter Dip that I was missing and then realized it was probably one of those FW flavours with fructose in it,  I said fuck it I'm making it anyway and it was so good.  No severe coil gunking or anything,  delicious recipe overall. "
+    },
+    {
+      "user": "Haggis",
+      "score": "5",
+      "text": "Very good"
+    }
+  ]
+}

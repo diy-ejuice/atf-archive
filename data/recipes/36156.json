@@ -1,0 +1,44 @@
+{
+  "name": "Figue Tabac",
+  "description": "A light tobacco ADV with hints of fig and plum. Liquid Amber bakes FA Fresh Fig. The Two Inaweras produce our tobacco blend.",
+  "id": 36156,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/36156/figs.jpg",
+  "updated_at": "2020-12-07T00:07:11.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Tobacco Tobacco Symphony",
+      "flavor_id": 858,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Fig Fresh",
+      "flavor_id": 518,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Liquid Amber",
+      "flavor_id": 476,
+      "millipercent": 200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Tobacco Cavendish Type",
+      "flavor_id": 733,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "trandism",
+  "views": "1517",
+  "slug": "figue_tabac",
+  "total_flavoring": "2.7%",
+  "steep_days": "28",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

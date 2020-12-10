@@ -1,0 +1,44 @@
+{
+  "name": "Tea Lychee",
+  "description": "Lychee tea. Solid body tea with a hint of lychee. Light and clean.",
+  "id": 101289,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101289/Iced_Lychee_Tea.jpg1.jpg",
+  "updated_at": "2020-12-06T23:07:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Lychee",
+      "flavor_id": 119,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lychee",
+      "flavor_id": 582,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Green Tea",
+      "flavor_id": 1640,
+      "millipercent": 2500,
+      "vendor": "FE"
+    },
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "dreamcryer",
+  "views": "1410",
+  "slug": "tea_lychee",
+  "total_flavoring": "8.7%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

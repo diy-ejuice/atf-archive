@@ -1,0 +1,38 @@
+{
+  "name": "Present Sponges",
+  "description": "Straight Up Grapefruit. both sweet and a little bitter, but not too much of either.",
+  "id": 81963,
+  "image_url": null,
+  "updated_at": "2020-11-30T17:51:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grapefruit",
+      "flavor_id": 65,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Grapefruit",
+      "flavor_id": 544,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sicilian Mix (citrus Mix)",
+      "flavor_id": 508,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Darthy",
+  "views": "967",
+  "slug": "present_sponges",
+  "total_flavoring": "9.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

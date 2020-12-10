@@ -1,0 +1,44 @@
+{
+  "name": "Raspricot Yogurt",
+  "description": "Will mature over the first three days and allow the Bavarian Cream to add a nice dark sweetness to the back notes.  Natural fruits more than a preserve type flavor.\r\n\r\nSweeten to taste.",
+  "id": 186700,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186700/recipe-image-legacy-id--561103_11.jpg",
+  "updated_at": "2020-12-07T20:33:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Apricot",
+      "flavor_id": 10446,
+      "millipercent": 1200,
+      "vendor": "MB"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "771",
+  "slug": "raspricot_yogurt",
+  "total_flavoring": "5.7%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

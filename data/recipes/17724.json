@@ -1,0 +1,38 @@
+{
+  "name": "Bilrazz",
+  "description": "This is a combo of bilberry and raspberry as you can see in the ingredients. Together they form a sweet and tart marriage that is very satisfying on the palette. I wanted to add sweetness without using sucralose so I added fig which adds sweetness and a little complexity to the mix. Enjoy",
+  "id": 17724,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17724/image.jpeg",
+  "updated_at": "2020-12-05T13:08:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fig Fresh",
+      "flavor_id": 518,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Zamis45fingers",
+  "views": "1749",
+  "slug": "bilrazz",
+  "total_flavoring": "6.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

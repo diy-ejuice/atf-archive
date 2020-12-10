@@ -1,0 +1,62 @@
+{
+  "name": "Heisenburg2",
+  "description": "My take on a Heisenburg recipe. \r\n\r\nCap Berry Cooler really takes the forefront. FA Anise and FW Black Licorice give it that subtle dark tone that goes well with the berries. \r\n\r\nAlso added .75% WS23 to really give that cooling, although not totally necessary as Berry cooler also has coolant in. \r\n\r\nEnjoy :)",
+  "id": 201302,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201302/51porQK0%2BeL._AC_SL1100_.jpg",
+  "updated_at": "2020-12-07T17:36:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Cooler",
+      "flavor_id": 10164,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Black Licorice",
+      "flavor_id": 1192,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Anise",
+      "flavor_id": 499,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "MrJwp08",
+  "views": "499",
+  "slug": "heisenburg2",
+  "total_flavoring": "12.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "60%",
+  "temperature": "",
+  "recipe_score": 0,
+  "reviews": []
+}

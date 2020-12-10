@@ -1,0 +1,56 @@
+{
+  "name": "Peanutbutter Delight",
+  "description": "Inspired by a handmade maltese Milkshake. Enjoy this well balanced Peanutbutter Banana Milkshake.",
+  "id": 108423,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/108423/Vegan-Peanut-Butter-Milkshake-2.jpg",
+  "updated_at": "2020-12-07T10:44:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 291,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 607,
+      "millipercent": 1750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Milkshake Base",
+      "flavor_id": 8927,
+      "millipercent": 350,
+      "vendor": "VT"
+    },
+    {
+      "name": "Milk Fresh",
+      "flavor_id": 8926,
+      "millipercent": 650,
+      "vendor": "VT"
+    }
+  ],
+  "author": "zylonality",
+  "views": "1959",
+  "slug": "peanutbutter_delight",
+  "total_flavoring": "14.25%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

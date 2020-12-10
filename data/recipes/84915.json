@@ -1,0 +1,50 @@
+{
+  "name": "Sweet Tang N  ManGuava Cream",
+  "description": "A nice light Sweet guava mango cream with a bright citrus note  from the Tangerine and a bit of cocunut. Steep 2 days. I added .25 FLV Sweetness. This is optional. ",
+  "id": 84915,
+  "image_url": null,
+  "updated_at": "2020-12-04T22:27:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 3516,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DodgerFog33",
+  "views": "1271",
+  "slug": "sweet_tang_n_manguava_cream",
+  "total_flavoring": "6.75%",
+  "steep_days": "2",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

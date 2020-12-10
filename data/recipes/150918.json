@@ -1,0 +1,50 @@
+{
+  "name": "MTL - Tobacco",
+  "description": "A simple RY4 tobacco with raisin recipe meant for Mouth to Lung devices. Made on Live Mixing",
+  "id": 150918,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150918/livemixing.jpg",
+  "updated_at": "2020-12-07T15:21:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "HOLY HOLY GRAIL RY4",
+      "flavor_id": 5037,
+      "millipercent": 4000,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Oatmeal Cookie",
+      "flavor_id": 178,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mts Vape Wizard",
+      "flavor_id": 482,
+      "millipercent": 150,
+      "vendor": "FA"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "3008",
+  "slug": "mtl_tobacco",
+  "total_flavoring": "6.15%",
+  "steep_days": "7",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

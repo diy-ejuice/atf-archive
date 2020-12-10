@@ -1,0 +1,50 @@
+{
+  "name": "Cool Tropics",
+  "description": "My first mix that I feel pretty good about. After trying a bunch of other recipes, this is my wife's ADV.\r\n\r\nThe Kiwi and Mango are the dominant fruits. Peach and Strawberry round out the mix on the exhale.\r\n\r\nWS-23 is optional if you like a bit of cool with your fruit.",
+  "id": 175556,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:45:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Mango",
+      "flavor_id": 120,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "ChaoticKinesis",
+  "views": "903",
+  "slug": "cool_tropics",
+  "total_flavoring": "10.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

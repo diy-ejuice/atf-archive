@@ -1,0 +1,50 @@
+{
+  "name": "Passion",
+  "description": "BLAH BLAH-BLAH BLAHBLAHBLAHBLAH BLAH-BLAH BLAHBLAHBLAHBLAH BLAH-BLAH BLAHBLAHBLAH",
+  "id": 155655,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:45:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Passion (passionfruit)",
+      "flavor_id": 585,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 408,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 350,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "CCivinski",
+  "views": "1067",
+  "slug": "passion",
+  "total_flavoring": "4.6%",
+  "steep_days": "5",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

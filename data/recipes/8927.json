@@ -1,0 +1,56 @@
+{
+  "name": "Strawnana",
+  "description": "A very ripe strawberries and banana's. Age time 1 to 3 days. Mixed at 80/20.",
+  "id": 8927,
+  "image_url": null,
+  "updated_at": "2020-12-07T10:43:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana",
+      "flavor_id": 603,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banò (banana)",
+      "flavor_id": 501,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "BMW",
+  "views": "1199",
+  "slug": "strawnana",
+  "total_flavoring": "9.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

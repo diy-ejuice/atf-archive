@@ -1,0 +1,62 @@
+{
+  "name": "Cinnamon Roll v3",
+  "description": "FW cinnamon roll",
+  "id": 5291,
+  "image_url": null,
+  "updated_at": "2020-12-02T08:03:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Roll",
+      "flavor_id": 1249,
+      "millipercent": 8000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Joy",
+      "flavor_id": 401,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "BrinNutz",
+  "views": "1527",
+  "slug": "cinnamon_roll_v3",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

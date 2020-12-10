@@ -1,0 +1,62 @@
+{
+  "name": "Stuff & Things ",
+  "description": "Blueberry lemon meringue pie ice cream. Yep thats right suck it down people!!!!!!!!!!",
+  "id": 88130,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88130/download__1_.jpg",
+  "updated_at": "2020-12-07T09:44:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 8000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 84,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SpankyMcyanky",
+  "views": "1030",
+  "slug": "stuff_things",
+  "total_flavoring": "17.5%",
+  "steep_days": "4",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

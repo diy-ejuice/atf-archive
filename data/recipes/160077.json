@@ -1,0 +1,38 @@
+{
+  "name": "321 Gum",
+  "description": "Just a simple spearmint gum recipe. Nothing fancy but very pleasant light spearmint flavour.",
+  "id": 160077,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160077/Spearmint_gum.jpg",
+  "updated_at": "2020-12-08T00:51:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bubble Gum",
+      "flavor_id": 4418,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Spearmint",
+      "flavor_id": 618,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "SwissBigDin",
+  "views": "761",
+  "slug": "321_gum",
+  "total_flavoring": "6.0%",
+  "steep_days": "1",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

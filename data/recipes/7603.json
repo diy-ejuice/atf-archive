@@ -1,0 +1,50 @@
+{
+  "name": "Everyday Coffee",
+  "description": "Coffee Testing in progress and testing out the site version of All The Flavors\r\n\r\nNote! This will not be a good black coffee. Actually a better Tiramisu then coffe. Cause of the milk in capuccino, caramel from the Dulce.",
+  "id": 7603,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:53:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cappuccino",
+      "flavor_id": 24,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cup A Joe",
+      "flavor_id": 44,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Coffee",
+      "flavor_id": 198,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 160,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Larsson",
+  "views": "2365",
+  "slug": "everyday_coffee",
+  "total_flavoring": "15.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

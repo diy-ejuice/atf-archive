@@ -1,0 +1,38 @@
+{
+  "name": "Man in the Moon",
+  "description": "This is simple. It's one of my go-to's when I want a good candy. ",
+  "id": 34336,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34336/Le_Voyage_dans_la_lune.jpg",
+  "updated_at": "2020-12-06T04:10:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Licorice",
+      "flavor_id": 335,
+      "millipercent": 7000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Harvest Berry",
+      "flavor_id": 69,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Gummy Candy",
+      "flavor_id": 235,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "cloudstate",
+  "views": "2064",
+  "slug": "man_in_the_moon",
+  "total_flavoring": "15.0%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

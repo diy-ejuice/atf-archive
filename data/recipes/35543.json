@@ -1,0 +1,44 @@
+{
+  "name": "Raspberry doughnut V2",
+  "description": "Tastes like a powdered raspberry jelly filled doughnut.\r\nThe inw raspberry really sets off the fa raspberry",
+  "id": 35543,
+  "image_url": null,
+  "updated_at": "2020-12-07T21:31:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "French Vanilla",
+      "flavor_id": 4977,
+      "millipercent": 1000,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 4500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 250,
+      "vendor": "INW"
+    }
+  ],
+  "author": "falon1000",
+  "views": "1390",
+  "slug": "raspberry_doughnut_v2",
+  "total_flavoring": "7.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

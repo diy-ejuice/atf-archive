@@ -1,0 +1,44 @@
+{
+  "name": "Ooey Gooey Cinnamon Roll",
+  "description": "",
+  "id": 4774,
+  "image_url": null,
+  "updated_at": "2020-12-01T13:11:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Roll",
+      "flavor_id": 1249,
+      "millipercent": 10000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BrinNutz",
+  "views": "1467",
+  "slug": "ooey_gooey_cinnamon_roll",
+  "total_flavoring": "15.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

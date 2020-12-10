@@ -1,0 +1,56 @@
+{
+  "name": "Peppermint slice",
+  "description": "Rich peppermint hedgehog slice, my favourite bakery treat on a Sunday afternoon! ",
+  "id": 198290,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/198290/Screenshot_20200621-150729_Gallery.jpg",
+  "updated_at": "2020-12-07T21:33:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peppermint",
+      "flavor_id": 100,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Chocolate",
+      "flavor_id": 762,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 37,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Irish Cream",
+      "flavor_id": 520,
+      "millipercent": 250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener (sucralose)",
+      "flavor_id": 2308,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "JQVapes",
+  "views": "357",
+  "slug": "peppermint_slice",
+  "total_flavoring": "7.75%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "25",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Zinger ",
+  "description": "This is a Raspberry, orange & hibiscus red tea. I tried this with 0.5% FLV Sweetness but preferred it without it, but feel free to add sweetener if you find that it is not sweet enough. Also WS-23 can be added for an iced tea effect.\r\n\r\nPlease rate and review if you mix",
+  "id": 138316,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/138316/AB123380-86E1-4FDE-87DD-9D4A9207C07A.jpeg",
+  "updated_at": "2020-12-08T00:50:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Hibiscus",
+      "flavor_id": 72,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Red tea",
+      "flavor_id": 9375,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Ebc88",
+  "views": "1004",
+  "slug": "zinger",
+  "total_flavoring": "6.5%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Seakow",
+      "score": "5",
+      "text": "This is just a good refreshing flavor. I didn't add sweetener, but I did add .5% WS-23."
+    }
+  ]
+}

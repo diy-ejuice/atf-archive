@@ -1,0 +1,50 @@
+{
+  "name": "Cereal of Some Sort",
+  "description": "I wanted to throw these flavors together. Should be decent ",
+  "id": 84605,
+  "image_url": null,
+  "updated_at": "2020-11-27T18:09:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fruit Circles",
+      "flavor_id": 8742,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "CountryChicken",
+  "views": "1081",
+  "slug": "cereal_of_some_sort",
+  "total_flavoring": "8.5%",
+  "steep_days": "6",
+  "best_vg": "80%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

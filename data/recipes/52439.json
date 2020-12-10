@@ -1,0 +1,56 @@
+{
+  "name": "Summer Drink",
+  "description": "A refreshing summer vape along the lines of a tropical drink. Great as a shake and vape.",
+  "id": 52439,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52439/Aloe-Vera-Juice.jpg",
+  "updated_at": "2020-12-07T17:34:10.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 6000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Pomegranate",
+      "flavor_id": 418,
+      "millipercent": 1300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lychee",
+      "flavor_id": 582,
+      "millipercent": 1200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 665,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 3072,
+      "millipercent": 750,
+      "vendor": "JF"
+    }
+  ],
+  "author": "InsidiousBrew",
+  "views": "3015",
+  "slug": "summer_drink",
+  "total_flavoring": "11.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

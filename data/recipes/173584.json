@@ -1,0 +1,62 @@
+{
+  "name": "Rin's Foxy Latte",
+  "description": "Gingerbread frappucino type. Gingerbread note is fairly prominent so you may want to lower to 0.50% if you don't want that. Milkshake and the cream are used for the creamy base. Sugar cookie pairs with the Gingerbread to sweeten it up and smooth it out. Honeycomb is also used to sweeten and enhance the notes in the Gingerbread.",
+  "id": 173584,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173584/gb.png",
+  "updated_at": "2020-12-07T15:21:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Gingerbread Extra Ginger",
+      "flavor_id": 9300,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeycomb",
+      "flavor_id": 8901,
+      "millipercent": 500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Milkshake",
+      "flavor_id": 1563,
+      "millipercent": 1500,
+      "vendor": "MB"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 8979,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Cream",
+      "flavor_id": 8992,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 6582,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "652",
+  "slug": "rins_foxy_latte",
+  "total_flavoring": "7.25%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

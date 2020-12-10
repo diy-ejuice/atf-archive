@@ -1,0 +1,50 @@
+{
+  "name": "Citrus Party",
+  "description": "A fresh recipe to use daily. In test, but, is very good.",
+  "id": 160616,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160616/CitrusEditorial_v9.jpg",
+  "updated_at": "2020-12-01T11:49:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Limonade",
+      "flavor_id": 3831,
+      "millipercent": 2000,
+      "vendor": "GF"
+    },
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Powerful Sour",
+      "flavor_id": 10054,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Volfgam",
+  "views": "963",
+  "slug": "citrus_party",
+  "total_flavoring": "9.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

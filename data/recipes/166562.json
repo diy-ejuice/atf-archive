@@ -1,0 +1,62 @@
+{
+  "name": "Masala Chai",
+  "description": "My take on the Indian Masala Chai.\r\n\r\nI guess the only flavor needing a note here is FLV Thai Chai. For those of you who want a \"chai\" flavor, this is *not* it. It's rather spicy and works well for this specific recipe, as the masala chai is rather spicy and usually made with black pepper. The \"chai\" part is instead built from the ground up, with FA Cardamom being the star and FLV clove/cinnamon/ginger as support.",
+  "id": 166562,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/166562/masalachai.png",
+  "updated_at": "2020-12-07T15:21:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Thai Chai",
+      "flavor_id": 2595,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Clove",
+      "flavor_id": 639,
+      "millipercent": 60,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Ginger",
+      "flavor_id": 4415,
+      "millipercent": 800,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": 638,
+      "millipercent": 80,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Honey Bee",
+      "flavor_id": 2149,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cardamom",
+      "flavor_id": 498,
+      "millipercent": 400,
+      "vendor": "FA"
+    }
+  ],
+  "author": "staybert",
+  "views": "602",
+  "slug": "masala_chai",
+  "total_flavoring": "2.94%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

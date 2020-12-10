@@ -1,0 +1,44 @@
+{
+  "name": "Nanner Apple Bread",
+  "description": "A light fluffy banana nut bread filled with delectable sweet fuji apple chunks. Strange profile I know, but I love the TPA banana nut bread for a bakery base that isn't too heavy. I think it takes away a bit of sharpness from the fuji and they blend really well together.\r\n\r\nI added the INW biscuit to add that kind of hard crunchiness you get on the edges and corners you get in a traditional banana bread.\r\n\r\nThe FA meringue really just helps mold everything together and gives the recipe a nice powder sugar/ light cream after taste. \r\n\r\nSticking with only four flavors that most people have was tough, but i enjoyed the challenge. I tried to go a little bit out of the box here and it think it turned out pretty well.\r\n\r\nI add but .3 % super sweet, but it is optional.",
+  "id": 150666,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150666/75930A96-016C-4E5A-87C3-9DD8469FC2E7.jpeg",
+  "updated_at": "2020-12-07T17:35:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 1750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1278",
+  "slug": "nanner_apple_bread",
+  "total_flavoring": "6.75%",
+  "steep_days": "5",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

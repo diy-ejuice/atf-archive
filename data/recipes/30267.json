@@ -1,0 +1,74 @@
+{
+  "name": "Bogota",
+  "description": "What started as a coffee cake steeped into a well-balanced, full, novelty coffee. \r\n\r\n**Consider it a graham cracker, or perhaps sugar cookie latte.**",
+  "id": 30267,
+  "image_url": null,
+  "updated_at": "2020-12-06T14:06:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "UP (coffee)",
+      "flavor_id": 4473,
+      "millipercent": 300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 467,
+      "millipercent": 250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cinnamon Crunch",
+      "flavor_id": 611,
+      "millipercent": 2500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 4560,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 129,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 400,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cupcake batter",
+      "flavor_id": 2596,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SkiddlzNinja",
+  "views": "2366",
+  "slug": "bogota",
+  "total_flavoring": "9.45%",
+  "steep_days": "12",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

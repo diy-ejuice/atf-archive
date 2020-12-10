@@ -1,0 +1,50 @@
+{
+  "name": "Currant Custard",
+  "description": "Creamy red berry custard. With a touch of JF Biscuit for a cookie like texture. Add your favorite sweetener if you don’t find it sweet enough for your likings. ",
+  "id": 181137,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181137/49D968DF-9518-4A40-9EDB-934990964054.jpeg",
+  "updated_at": "2020-12-02T10:29:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Currant",
+      "flavor_id": 10171,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Dates",
+      "flavor_id": 8952,
+      "millipercent": 1250,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Custard 2",
+      "flavor_id": 10427,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Ebc88",
+  "views": "683",
+  "slug": "currant_custard",
+  "total_flavoring": "6.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

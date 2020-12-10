@@ -1,0 +1,44 @@
+{
+  "name": "Angel Custard Cake",
+  "description": "Milky flavor right after mixing, interested to see how the flavors develop over time",
+  "id": 28807,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28807/acc.jpg",
+  "updated_at": "2020-12-07T23:35:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 4500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Tres Leches",
+      "flavor_id": 1446,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Erythritol 5%",
+      "flavor_id": 4528,
+      "millipercent": 2000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "rickj",
+  "views": "1834",
+  "slug": "angel_custard_cake",
+  "total_flavoring": "12.5%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

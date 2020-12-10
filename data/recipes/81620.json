@@ -1,0 +1,50 @@
+{
+  "name": "Knobby Creatures",
+  "description": "Since it's been so hot, here in central California, I thought I'd try some beer l blue lemonade",
+  "id": 81620,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 4200,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 1336,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Eyehategod",
+  "views": "929",
+  "slug": "knobby_creatures",
+  "total_flavoring": "9.2%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

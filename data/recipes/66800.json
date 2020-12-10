@@ -1,0 +1,57 @@
+{
+  "name": "Green Boi",
+  "description": "Based on a popular e-liquid I'm not gonna name any names to avoid trouble. Sorry to the fans of this recipe for having it private for so long.",
+  "id": 66800,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66800/download.jpg",
+  "updated_at": "2020-12-08T00:49:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew II",
+      "flavor_id": 9930,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Green Apple",
+      "flavor_id": 1491,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Germ",
+  "views": "2178",
+  "slug": "green_boi",
+  "total_flavoring": "8.5%",
+  "steep_days": "14 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "rockwise",
+      "score": "5",
+      "text": "This stuff is great!!! Thx for sharing.if you havnt tried this you are missing out"
+    }
+  ]
+}

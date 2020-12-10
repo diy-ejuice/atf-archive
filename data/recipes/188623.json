@@ -1,0 +1,56 @@
+{
+  "name": "Candy Sh!t",
+  "description": "So this is pretty straight forward.  I love sour gummy candy and after being inspired by Noted's \"Gummy Candy\" and \"2019 Flavors of the Year\" episodes I decided I wanted to mix up some thing that was fruity, sour and sweet.\r\n\r\nI used the MB Big Watermelon to back up the WF Sour Watermelon Candy.  I didn't want it over powered by the FLV Peach Gummy.  Adding the candylike WF Strawberry(Juicy) gave me the mixed fruit combination.  It's a relatively simple recipe, but I enjoy it.",
+  "id": 188623,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188623/NB-SOUR-CANDY-MIX.jpg",
+  "updated_at": "2020-12-07T19:16:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (Juicy) SC",
+      "flavor_id": 10412,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Sour Gummy Candy SC",
+      "flavor_id": 9047,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Big Watermelon",
+      "flavor_id": 1518,
+      "millipercent": 3000,
+      "vendor": "MB"
+    },
+    {
+      "name": "Peach Gummy",
+      "flavor_id": 4313,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sour Wizard",
+      "flavor_id": 4354,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 200,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "humanpuck",
+  "views": "766",
+  "slug": "candy_sht",
+  "total_flavoring": "10.2%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

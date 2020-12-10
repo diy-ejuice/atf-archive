@@ -1,0 +1,50 @@
+{
+  "name": "MTL POG",
+  "description": "A passionfruit, orange, sweet guava recipe meant for mouth to lung recipes. Made for Live Mixing",
+  "id": 150916,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150916/livemixing.jpg",
+  "updated_at": "2020-12-07T15:21:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Passion (passionfruit)",
+      "flavor_id": 585,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 7698,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Tanger (mandarin)",
+      "flavor_id": 547,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "2797",
+  "slug": "mtl_pog",
+  "total_flavoring": "8.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

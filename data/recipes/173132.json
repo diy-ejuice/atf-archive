@@ -1,0 +1,50 @@
+{
+  "name": "Strawberry Lemonade ",
+  "description": "A strawberry lemonade. You won’t like it. Seriously bro; just walk away. ",
+  "id": 173132,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173132/EFD2EAE0-3B53-4803-B18B-C3297427E1A1.jpeg",
+  "updated_at": "2020-12-07T20:33:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry",
+      "flavor_id": 10218,
+      "millipercent": 4000,
+      "vendor": "NR"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 2000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Juicy Strawberry",
+      "flavor_id": 8779,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cantaloupe",
+      "flavor_id": 610,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Borninfire138",
+  "views": "945",
+  "slug": "strawberry_lemonade",
+  "total_flavoring": "9.75%",
+  "steep_days": "6 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

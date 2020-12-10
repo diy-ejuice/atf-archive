@@ -1,0 +1,75 @@
+{
+  "name": "NanaMilk",
+  "description": "Where I live in Minnesota they sell \"Kemps Banana Milk.\" That's what I'm shooting for here. Sweet, creamy, and delicious. Banana-y milk that you could drink a gallon and it would be worth the stomach ache. ",
+  "id": 30122,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30122/nanamilk.jpeg",
+  "updated_at": "2020-12-08T00:49:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ripe Banana",
+      "flavor_id": 269,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 151,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 800,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "BradH",
+  "views": "1639",
+  "slug": "nanamilk",
+  "total_flavoring": "20.8%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "SlashaLO",
+      "score": "4",
+      "text": "I enjoyed this quite a bit. "
+    }
+  ]
+}

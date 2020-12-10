@@ -1,0 +1,69 @@
+{
+  "name": "Butter Cookie",
+  "description": "This is a perfect butter cookie recipe, just like grandma makes around the holidays! I wanted to center it around the TFA Butter and build it from there, for me it’s the best way to imitate a bit of salt to bring out the other flavors. The shortbread helps dry it out and make it a drier, crumbly cookie. The butter cream and white chocolate help to smooth it out and add in some flavor that sits deep in the cookie flavors and tastes baked. Supersweet can be adjusted to your liking but I believe .5% is ideal to keep it a tad savory. Made for sub ohm tanks or rda, for a pod system I would ramp up the flavoring to 20%. Steep isn’t needed however time will bring out the subtle nuances of the flavors.",
+  "id": 185669,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/185669/AB04933D-E398-4703-8867-6141AE107EB2.jpeg",
+  "updated_at": "2020-12-08T00:51:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 4369,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cookie Butter",
+      "flavor_id": 1257,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Shortbread Cookies SC",
+      "flavor_id": 9045,
+      "millipercent": 3000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 4444,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "enzonik",
+  "views": "1179",
+  "slug": "butter_cookie",
+  "total_flavoring": "12.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Jonnycoldcutz",
+      "score": "5",
+      "text": "DELICIOUS!"
+    }
+  ]
+}

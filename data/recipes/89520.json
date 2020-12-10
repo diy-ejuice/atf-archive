@@ -1,0 +1,68 @@
+{
+  "name": "chocolate cream pie",
+  "description": "caramel and marshmallow with a bunch of chocolate and coffee to balance it in pie crust with vanilla ice cream base",
+  "id": 89520,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89520/pexels-photo-639024.jpeg",
+  "updated_at": "2020-12-05T18:47:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Caramel",
+      "flavor_id": 5485,
+      "millipercent": 750,
+      "vendor": "MFS"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Coffee Keoke (kahlua)",
+      "flavor_id": 939,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Coffee Extra (clear)",
+      "flavor_id": 199,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie Butter",
+      "flavor_id": 1257,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 956,
+      "millipercent": 1000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "spicygal",
+  "views": "1154",
+  "slug": "chocolate_cream_pie",
+  "total_flavoring": "11.75%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Sham Rocks Shakes",
+  "description": "V1\r\nMixing up in honor of Saint Patty's day since I cant find any green beer flavoring ",
+  "id": 37099,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37099/images.jpg",
+  "updated_at": "2020-12-07T12:45:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Shamrock Shake",
+      "flavor_id": 2291,
+      "millipercent": 7000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Peppermint Bark",
+      "flavor_id": 7348,
+      "millipercent": 2000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 6500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "rickj",
+  "views": "952",
+  "slug": "sham_rocks_shakes",
+  "total_flavoring": "17.25%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

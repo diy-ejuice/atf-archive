@@ -1,0 +1,57 @@
+{
+  "name": "Breakfast in Paris",
+  "description": "Like the Stash™ tea flavor; very nice w/tea/cakes. High notes of bergamot and lavender. No steeping required. Shake and vape. \r\n\r\nKoolada is optional, but gives a nice freshness. Sucralose also optional. ",
+  "id": 4597,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lavender",
+      "flavor_id": 510,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Black Tea",
+      "flavor_id": 344,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Earl Grey Tea",
+      "flavor_id": 353,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "sweetener (sucralose)",
+      "flavor_id": 2313,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "coilspotting",
+  "views": "1494",
+  "slug": "breakfast_in_paris",
+  "total_flavoring": "10.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Darvondoom",
+      "score": "5",
+      "text": "Really good flavor! Didn't have lavender yet.. Mixed with tfa pomegranate this flavor reminds me of a mix of Betty white from uncle junk and the tea flavor from alchemy air. Definitely didn't need to steep. This flavor is amazing with beers I promise. Thank you for the fantastic recipe. "
+    }
+  ]
+}

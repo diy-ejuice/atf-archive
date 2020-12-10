@@ -1,0 +1,56 @@
+{
+  "name": "Elder Dragon",
+  "description": "A cool, dragonfruit elderflower recipe.\r\n\r\nINW Dragonfruit is the main fruit note here, and standing next to it is FLV Elderflower with its unique, refreshing floral brand .\r\n\r\nTFA Dragonfruit lends some emulsification support.\r\n\r\nINW Cactus is there to lend a bit of sour/tart and boost the juiciness of the Dragonfruit.\r\n\r\nTFA Wintergreen blends seamlessly with the WS-23, giving a cool green-ness that doesn't get minty. Tried with 0.5% WS-23 at first, but I found the coolant was overshadowing the other flavors too much.",
+  "id": 199301,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199301/elder_dragon.jpg",
+  "updated_at": "2020-12-08T00:51:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Dragon Fruit - Pitaya",
+      "flavor_id": 652,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Elderflower",
+      "flavor_id": 3518,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Wintergreen",
+      "flavor_id": 285,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 250,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "SeLeV",
+  "views": "623",
+  "slug": "elder_dragon",
+  "total_flavoring": "6.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

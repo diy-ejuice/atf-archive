@@ -1,0 +1,56 @@
+{
+  "name": "Fluff my Nutts",
+  "description": "This is pretty simple, but delightful.\r\n\r\nFLV Starch Base + Cereal 27 make the bread portion of this sandwich.  TPA Toasted Marshmallow adds a little smoke/toast along with the WF Gooey Marshmallow for the fluff base.  Finally TPA DX PB is the only PB with a touch of Caramel.",
+  "id": 154556,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154556/fluffernutter3.jpg",
+  "updated_at": "2020-12-06T20:44:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Starch Base",
+      "flavor_id": 10152,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dx Peanut Butter",
+      "flavor_id": 288,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow (Gooey) SC",
+      "flavor_id": 10265,
+      "millipercent": 3000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 929,
+      "millipercent": 500,
+      "vendor": "LA"
+    }
+  ],
+  "author": "humanpuck",
+  "views": "1062",
+  "slug": "fluff_my_nutts",
+  "total_flavoring": "11.25%",
+  "steep_days": "10 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

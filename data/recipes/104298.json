@@ -1,0 +1,62 @@
+{
+  "name": "Monkey Blööd",
+  "description": "Strawberry banana nut bread filled with bavarian cream and drizzled with a rich eggy vanilla surprise. Really tasty as SNV. Even better after a week or 2 steep.",
+  "id": 104298,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104298/C4459DA9-012C-479C-8A16-7CF3D092D896.png",
+  "updated_at": "2020-12-07T17:34:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 916,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1099",
+  "slug": "monkey_bld",
+  "total_flavoring": "17.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "83%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

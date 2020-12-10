@@ -1,0 +1,62 @@
+{
+  "name": "Dark Banana",
+  "description": "Chocolate lava cake with melted banana inside. ",
+  "id": 127653,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127653/Dark_Banana_200x200.png",
+  "updated_at": "2020-12-07T21:32:47.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lava Cake",
+      "flavor_id": 1493,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Milk",
+      "flavor_id": 523,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "vagdal",
+  "views": "1358",
+  "slug": "dark_banana",
+  "total_flavoring": "11.5%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

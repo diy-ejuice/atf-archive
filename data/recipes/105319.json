@@ -1,0 +1,56 @@
+{
+  "name": "Turkish Tobapple",
+  "description": "Profile: Turkish Tobacco with a nice apple vibe.\r\n\r\nA simple tobacco recipe I made for a friend a while ago. \r\n\r\nThe Bourbon here acts like a bridge between the Apple and the tobacco and at the same time, it gives the Apple a baked sensation.\r\nThe combination of apples brings more of a red apple than a green apple. A touch of Ry4 Double to bring some dark caramel notes to the profile.\r\nGive at least a week to steep to calm down the TPA Turkish.",
+  "id": 105319,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/105319/6968bNQ.png",
+  "updated_at": "2020-12-06T20:44:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Double Apple",
+      "flavor_id": 45,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Turkish",
+      "flavor_id": 383,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Two Apples",
+      "flavor_id": 671,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Katumbas",
+  "views": "1664",
+  "slug": "turkish_tobapple",
+  "total_flavoring": "11.0%",
+  "steep_days": "15",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

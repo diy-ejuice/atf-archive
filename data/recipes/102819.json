@@ -1,0 +1,44 @@
+{
+  "name": "Citronilla Ice Cream",
+  "description": "\r\n+++ A really yummi Citrone-Vanilla Icecream +++\r\n\r\n+ The lemon is fading a little, but after 5 days its exactly how i like it. its strong enough as counterpart for the vanilla.\r\n+ If you prefer a stronger lemon taste, you can increase the FA Lemon Sicily or try a other lemon flavour.\r\n+ You can also add some sweetener & a Cooling-Agent, if you wish!\r\n   For me its perfect how it is!\r\n+ TPA Bavarian Cream is important to bind all together.\r\n",
+  "id": 102819,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/102819/fresh-lemon-lime-ice-cream-recipe-1-size-3.jpg",
+  "updated_at": "2020-12-07T22:32:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 4869,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 1500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Zugmaschine",
+  "views": "2118",
+  "slug": "citronilla_ice_cream",
+  "total_flavoring": "9.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

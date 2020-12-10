@@ -1,0 +1,56 @@
+{
+  "name": "CUSTARD BLUE’S",
+  "description": "A simple delicious blueberry custard . give it about a 14 days steep at least ",
+  "id": 169749,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/169749/8985E3DF-70CD-4D78-8FFE-18D084FB1870.jpeg",
+  "updated_at": "2020-12-02T08:21:10.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 3500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweetness",
+      "flavor_id": 4413,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "BigRed",
+  "views": "1535",
+  "slug": "custard_blues",
+  "total_flavoring": "11.0%",
+  "steep_days": "14 (SNV)",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

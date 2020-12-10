@@ -1,0 +1,56 @@
+{
+  "name": "Banana Cream Pie",
+  "description": "It's a Banana Cream Pie- not much else to say. \r\nNOTE- add sweetener or not   I think it's better with .5 Cap SS but that's just me. Enjoy!",
+  "id": 65903,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/65903/IMG_0448.JPG",
+  "updated_at": "2020-12-05T14:26:11.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 9000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla Creme",
+      "flavor_id": 168,
+      "millipercent": 1700,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Ripe Banana",
+      "flavor_id": 269,
+      "millipercent": 650,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "C6-R",
+  "views": "1960",
+  "slug": "banana_cream_pie",
+  "total_flavoring": "16.6%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

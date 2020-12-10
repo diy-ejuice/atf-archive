@@ -1,0 +1,50 @@
+{
+  "name": "Irish rice",
+  "description": "Just a flavor that I like. No rhyme no reason just flavors I like and think compliment each other. I called it Irish rice because the two most prominent flavors are Irish cream and sweet rice. The other flavors are there to help blend those two flavors together. I suggest letting this steep at liest 5 days but its better after a week.",
+  "id": 46647,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/46647/th__4_.jpg",
+  "updated_at": "2020-12-07T20:32:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Irish Cream",
+      "flavor_id": 4445,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 4402,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Rice",
+      "flavor_id": 7727,
+      "millipercent": 5000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Sweetness",
+      "flavor_id": 4413,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Tootall",
+  "views": "1632",
+  "slug": "irish_rice",
+  "total_flavoring": "9.25%",
+  "steep_days": "7",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Sweet Cheeks",
+  "description": "Decadent pound cake topped with strawberries and vanilla whipped cream",
+  "id": 20214,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20214/small-20161118-3399-i66ajc.jpg",
+  "updated_at": "2020-12-01T11:48:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pound Cake",
+      "flavor_id": 4306,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry Sweet",
+      "flavor_id": 4745,
+      "millipercent": 3000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "TorturedZen",
+  "views": "1163",
+  "slug": "sweet_cheeks",
+  "total_flavoring": "17.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

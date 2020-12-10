@@ -1,0 +1,50 @@
+{
+  "name": "The Unknown ",
+  "description": "Flavor Menu: Creamy, Nutty, Tobacco forward RY4\r\n\r\nJF RY4: adds a nice caramel with a slight hint of tobacco\r\n\r\nMarzipan: Adds some sweet creaminess with a hint of nuttiness\r\n\r\nNougat: Recently just got this one and knew right away I wanted to put it in a tobacco. Adds some woody and nuttiness to the recipe. \r\n\r\nRed Burley: adds a woody tobacco note\r\n\r\nNative: Brings a really nice tobacco note with some spice. ",
+  "id": 125550,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/125550/99F1EFE8-A25A-4ED2-9EF7-00F25A8ABF24.jpeg",
+  "updated_at": "2020-12-08T00:50:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Nougat",
+      "flavor_id": 3510,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marzipan (yc)",
+      "flavor_id": 710,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "RY4 Double",
+      "flavor_id": 4490,
+      "millipercent": 3000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Red Burley",
+      "flavor_id": 4355,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Native Tobacco",
+      "flavor_id": 4393,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Ebc88",
+  "views": "1179",
+  "slug": "the_unknown",
+  "total_flavoring": "6.75%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

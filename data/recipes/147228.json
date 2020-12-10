@@ -1,0 +1,50 @@
+{
+  "name": "Vanilla Coke",
+  "description": "Ahhh.... Who doesn't love a tall glass of ice cold Vanilla Coke!? I am still playing around with this recipe, but so far its GREAT! \r\nThe Koolada I usually add 1 drop for every 10ml I make. \r\n\r\nI would appreciate if there are any feedback/suggestions to improve this recipe.",
+  "id": 147228,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147228/Vanilla_Coke.png",
+  "updated_at": "2020-12-06T20:51:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cola",
+      "flavor_id": 350,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Simply Vanilla",
+      "flavor_id": 111,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 10,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Dean",
+  "views": "1304",
+  "slug": "vanilla_coke",
+  "total_flavoring": "11.51%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

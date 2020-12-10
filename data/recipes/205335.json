@@ -1,0 +1,50 @@
+{
+  "name": "Princess Jasmine",
+  "description": "A nice graham cracker, honeydew, and cream vape. It sounds odd, but it is quite good. Creamy light honeydew up front, with the graham cracker lingering on after the vape. I think the Graham Cracker still needs a little tuning as the FW Graham Cracker can come across a bit harsh at times. Vaped on a Hadaly clone with an 0.5 ohm fused Clapton coil at 34 watts.\r\n\r\nUpdate: decrease FW Graham Cracker by 0.5 and increase TPA Cheesecake (Graham Crust) by 0.5. While I like FW Graham Cracker it just is a bit too dark for this recipe.\r\n\r\nPhoto by Federico Gutierrez on Unsplashed",
+  "id": 205335,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/205335/federico-gutierrez-9v1KbjZVaqU-unsplash.png",
+  "updated_at": "2020-12-07T02:17:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew II",
+      "flavor_id": 9930,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream SC",
+      "flavor_id": 10404,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 1297,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetness",
+      "flavor_id": 4413,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "BTCruiser",
+  "views": "368",
+  "slug": "princess_jasmine",
+  "total_flavoring": "9.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

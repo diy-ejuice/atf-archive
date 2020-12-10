@@ -1,0 +1,38 @@
+{
+  "name": "Fixed Trucks",
+  "description": "mixed live on daytime franks show.  pretty good off the shake should only get better as the OOO butter Pecan steeps in",
+  "id": 171255,
+  "image_url": null,
+  "updated_at": "2020-12-05T15:44:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Butter Pecan",
+      "flavor_id": 1720,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Salted Caramel",
+      "flavor_id": 8959,
+      "millipercent": 1000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "VapinTrucker",
+  "views": "512",
+  "slug": "fixed_trucks",
+  "total_flavoring": "6.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

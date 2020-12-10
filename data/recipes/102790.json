@@ -1,0 +1,51 @@
+{
+  "name": "Cyro-Cuke'd",
+  "description": "A frozen cucumber punching through your sinuses first thing in the morning really perks you up. I was just looking for something super cold with a light touch of flavor. A splash of some lemon or lime could add a little more complexity, if you like.",
+  "id": 102790,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/102790/frozen_cucumber_pickles.jpg",
+  "updated_at": "2020-12-05T17:44:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Eucalyptus With Mint",
+      "flavor_id": 777,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Extreme Ice",
+      "flavor_id": 1280,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cucumber Mint",
+      "flavor_id": 1267,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "ncdulo",
+  "views": "894",
+  "slug": "cyrocuked",
+  "total_flavoring": "6.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "440",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "coilspotting",
+      "score": "none",
+      "text": "Just a suggestion - maybe you meant to spell it “cryo”? That’s the word for frozen. I would’ve put this in Discussion but that gesture appears to be broken. It says “Error embedding”"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "CinnaBomb",
+  "description": "Cinnamon bun with icing. A simple cinnamon bun recipe but with an explosion of sweet vanilla icing.\r\nNotes:\r\nTPA Cinnamon Danish as the base. Mostly for the cinnamon\r\nINW Biscuit to add a pastry texture\r\nCAP Vanilla Cupcake V2 for the icing note and texture\r\nCAP Sweet Cream to bolster the icing note\r\nTPA Sweetener for that extra bit of sweetness\r\nI didn't add a nut flavor because I prefer it without that nut flavor or texture, just my preference \r\nSteeping is best after 3 days but can be a shake n vape \r\nMax VG\r\n",
+  "id": 32479,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32479/Cinnamon_Bomb.jpg",
+  "updated_at": "2020-12-07T20:31:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Danish",
+      "flavor_id": 156,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Cupcake V2",
+      "flavor_id": 130,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "folkart",
+  "views": "2348",
+  "slug": "cinnabomb",
+  "total_flavoring": "8.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Fluffy Dust Bunny",
+  "description": "Inspired by Flavor Pro's Fluffy Pancake challenge.  I don't have any pancake flavors yet, so this is a light cake topped with a fruit, mostly fruit flavor.    It is light, so I think it will make a good summer flavor.\r\n\r\nI will try bumping up the cake in the next version.  It is hidden by the fruit flavors.\r\nThe banana custard adds some creaminess, and mild banana flavor.\r\nThe fig gave the fruit mix a little earthiness that I felt it needed to balance the flavors.\r\nCAP Sweet Strawberry for a bright, sweet strawberry flavor.\r\n\r\nTested on the Wasp Nano with 0.3 ohm stainless at 40 watts.",
+  "id": 143966,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143966/dustbunny.jpeg",
+  "updated_at": "2020-12-08T00:50:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Angel Cake SC",
+      "flavor_id": 9014,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Fig",
+      "flavor_id": 4400,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "goosegirl",
+  "views": "1073",
+  "slug": "fluffy_dust_bunny",
+  "total_flavoring": "7.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "VapinTrucker",
+      "score": "4",
+      "text": "What a lovely recipe. Different. Fresh. Fig. Banana.  What’s not to like right. The strawberry for me is light but present I prefer this after 2 week steep personally. Give it a go"
+    }
+  ]
+}

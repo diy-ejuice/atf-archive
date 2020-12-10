@@ -1,0 +1,75 @@
+{
+  "name": "Anzac Cookie",
+  "description": "An Australian iconic biscuit/cookie with heavy notes of Golden syrup and oats. I'm not sure if there is a US equivalent to this \r\n\r\nBiscuit Base\r\n(INW) Biscuit and (Cap) Sugar cookie really make up the bulk of this note, with the (FA) Cookie adding a bit more depth to the Biscuit Base\r\n\r\nGolden Syrup\r\n(FA) Maple syrup really is the main note here. The (FA) Honey just adds a little to it\r\n\r\nGive it a few days to steep so the custard and almond really bridge the syrup and biscuit",
+  "id": 18695,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/18695/index.jpg",
+  "updated_at": "2020-12-08T00:48:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Honey",
+      "flavor_id": 531,
+      "millipercent": 250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "PonPonPataPon",
+  "views": "1327",
+  "slug": "anzac_cookie",
+  "total_flavoring": "11.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "ActionRalf",
+      "score": "5",
+      "text": "this is delicious...well done"
+    }
+  ]
+}

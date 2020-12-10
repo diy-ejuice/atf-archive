@@ -1,0 +1,50 @@
+{
+  "name": "PG- 13",
+  "description": "First time using 5 flavors in a recipe. Please put in a review to help the recipe grow!",
+  "id": 156326,
+  "image_url": null,
+  "updated_at": "2020-12-05T19:50:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grapefruit",
+      "flavor_id": 544,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 1377,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "YourMainMatt",
+  "views": "882",
+  "slug": "pg_13",
+  "total_flavoring": "13.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

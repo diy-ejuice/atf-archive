@@ -1,0 +1,44 @@
+{
+  "name": "Beetle Juice",
+  "description": "My attempt to replicate this recipe. I have made some tweeks then got it all jacked up. I am now resetting it and starting all over. ",
+  "id": 146175,
+  "image_url": null,
+  "updated_at": "2020-12-06T08:37:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pineapple",
+      "flavor_id": 967,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 1343,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "kenny61",
+  "views": "917",
+  "slug": "beetle_juice",
+  "total_flavoring": "19.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Twisted Tropical Lassi",
+  "description": "My twisted mango lassi with a bit of papaya thrown in.",
+  "id": 165872,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:35:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mango",
+      "flavor_id": 3516,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Mango & Tango",
+      "flavor_id": 10158,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Papaya SC",
+      "flavor_id": 10101,
+      "millipercent": 1500,
+      "vendor": "WF"
+    }
+  ],
+  "author": "xXxLEONIDASxXx",
+  "views": "786",
+  "slug": "twisted_tropical_lassi",
+  "total_flavoring": "11.25%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

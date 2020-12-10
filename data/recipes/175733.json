@@ -1,0 +1,50 @@
+{
+  "name": "Strawberry banana bread milkshake v2",
+  "description": "This is my first attempt at this profile. It is a strawberry banana nut bread milkshake. I feel like I nailed on my second attempt.",
+  "id": 175733,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:36:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry Rf",
+      "flavor_id": 122,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 3500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 9000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "1cheater",
+  "views": "713",
+  "slug": "strawberry_banana_bread_milkshake_v2",
+  "total_flavoring": "22.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

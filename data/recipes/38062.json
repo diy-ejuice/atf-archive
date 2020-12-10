@@ -1,0 +1,56 @@
+{
+  "name": "I Blue Myself",
+  "description": "A Blueberry donut/cookie hybrid. The donut is heavy and breakfasty with a good sweetness. ",
+  "id": 38062,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38062/small-20170413-2961-xa2tc6.jpg",
+  "updated_at": "2020-12-07T23:35:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 9000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Frosted Donut",
+      "flavor_id": 171,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "blakedennis87",
+  "views": "1102",
+  "slug": "i_blue_myself",
+  "total_flavoring": "21.5%",
+  "steep_days": "12",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

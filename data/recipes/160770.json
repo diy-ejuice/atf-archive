@@ -1,0 +1,44 @@
+{
+  "name": "Medicine Brew",
+  "description": "Ginger Lemongrass Honey Tea for y'alls.\r\n\r\nSo I wanted to try recreate this \"health tea\" in vape form, and I think it's pretty spot on. Ginger and lemongrass are said to have many health benefits, feel free to read up on it and try it if you already haven't.\r\n\r\nFlavor notes:\r\n**FLV Eisai Tea** brings the green tea flavor, it's slightly fruity, earhty and dry which is a perfect base for this beverage.\r\n**FLV Ginger** is a relatively sweet ginger syrup, which is much needed here to get the balance right as some of the other flavors can be a bit dry.\r\n**FLV Lemon Grass** is slightly sharp but a spot on lemon grass flavor. The bitterness helps the tea get an even more authentic feeling and pairs beautifully with the ginger to give a very fresh and unique taste.\r\n**FLV Honey Bee** is known to have a floral note, but I think that gets completely buried here. It gives the tea a very very pleasant honey mothfeel and almost nectar type sweetness. Highly recommend this flavor if you need a honey for teas.\r\n\r\nThis can be shake and vaped, but a day or two will make it better.\r\n\r\nShout out to @nowar for all the support <3",
+  "id": 160770,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160770/medibr.png",
+  "updated_at": "2020-12-07T17:35:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Eisai tea",
+      "flavor_id": 9378,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Ginger",
+      "flavor_id": 4415,
+      "millipercent": 700,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Honey Bee",
+      "flavor_id": 2149,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon Grass",
+      "flavor_id": 2592,
+      "millipercent": 300,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "staybert",
+  "views": "1266",
+  "slug": "medicine_brew",
+  "total_flavoring": "2.2%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

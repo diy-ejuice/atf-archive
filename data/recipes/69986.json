@@ -1,0 +1,38 @@
+{
+  "name": "The Fruit Dragon ",
+  "description": "Fruit Forward recipe,  very simple but yet very complex.  Grape in the front, kiwi for the body and mango for the tail.  Excellent layered vape",
+  "id": 69986,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/69986/IMG_2046.JPG",
+  "updated_at": "2020-12-02T07:43:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape",
+      "flavor_id": 784,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Kiwi (double)",
+      "flavor_id": 242,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Mango",
+      "flavor_id": 120,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Fleming",
+  "views": "2536",
+  "slug": "the_fruit_dragon",
+  "total_flavoring": "10.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

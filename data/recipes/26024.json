@@ -1,0 +1,56 @@
+{
+  "name": "Felix Felicis",
+  "description": "Dude.  Strawberry and apple is just such a good combination. That's really all this recipe does.  The lemonade is just there to round everything out and bring it together with a little citrus.",
+  "id": 26024,
+  "image_url": null,
+  "updated_at": "2020-12-02T10:28:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 2000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon Juicy",
+      "flavor_id": 4743,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 3073,
+      "millipercent": 1000,
+      "vendor": "JF"
+    }
+  ],
+  "author": "Ephelus",
+  "views": "1540",
+  "slug": "felix_felicis",
+  "total_flavoring": "9.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Melowpaia",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nunc mi, accumsan nec mattis quis, rhoncus sit amet risus. Quisque congue tristique arcu, sit amet semper sapien tincidunt ac. ",
+  "id": 162431,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:33:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Watermelon",
+      "flavor_id": 126,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cantaloupe",
+      "flavor_id": 23,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lychee",
+      "flavor_id": 1339,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Volfgam",
+  "views": "715",
+  "slug": "melowpaia",
+  "total_flavoring": "5.5%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

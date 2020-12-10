@@ -1,0 +1,50 @@
+{
+  "name": "Blueberry crumbs",
+  "description": "I wanted to create a simple recipe just using the Capella silverline flavours I’ve kept it simple to let these 3 shine.\r\nThis simple recipe is a crumbly biscuit with added texture and glue formed from using using whipped marshmallow then add some sugar cinnamon on top and you have a perfect baked biscuit.\r\nOnly additional flavour was some much needed sweetener.\r\nSimple but creative I hope you enjoy it as much as me.",
+  "id": 125677,
+  "image_url": null,
+  "updated_at": "2020-12-01T02:15:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 8737,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cinnamon Sugar",
+      "flavor_id": 8741,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Whipped Marshmallow",
+      "flavor_id": 8744,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry Extra",
+      "flavor_id": 8739,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DummDrops",
+  "views": "1033",
+  "slug": "blueberry_crumbs",
+  "total_flavoring": "11.5%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

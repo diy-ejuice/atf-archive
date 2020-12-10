@@ -1,0 +1,56 @@
+{
+  "name": "Full Cables",
+  "description": "Strawberry, Apples, and Brie Cheese Yum!  Musky goodness with sweetness!",
+  "id": 65042,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:54:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 3500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fuji Apple",
+      "flavor_id": 8456,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sour Apple",
+      "flavor_id": 4379,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Brie Cheese",
+      "flavor_id": 4414,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Basil",
+      "flavor_id": 4387,
+      "millipercent": 200,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1046",
+  "slug": "full_cables",
+  "total_flavoring": "11.2%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

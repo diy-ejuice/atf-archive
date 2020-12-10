@@ -1,0 +1,38 @@
+{
+  "name": "Lychee lemonade",
+  "description": "Quick recipe I through together today.\r\n\r\nTastes pretty good of the shake but will update in a few days time.",
+  "id": 203354,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/203354/lychee-lemonade-3.jpg",
+  "updated_at": "2020-12-05T12:10:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Lychee",
+      "flavor_id": 119,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 660,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Original Lemonade",
+      "flavor_id": 10453,
+      "millipercent": 500,
+      "vendor": "MB"
+    }
+  ],
+  "author": "Tvsty1",
+  "views": "398",
+  "slug": "lychee_lemonade",
+  "total_flavoring": "6.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

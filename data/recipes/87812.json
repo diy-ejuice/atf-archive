@@ -1,0 +1,62 @@
+{
+  "name": "berry custard fluff",
+  "description": "berries coconut marshmallow on custard with the addition of banana's foster and butternut to round it out",
+  "id": 87812,
+  "image_url": null,
+  "updated_at": "2020-12-05T04:16:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 1750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bananas Foster",
+      "flavor_id": 1186,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 956,
+      "millipercent": 1500,
+      "vendor": "LA"
+    },
+    {
+      "name": "Coconut",
+      "flavor_id": 317,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Butternut",
+      "flavor_id": 983,
+      "millipercent": 500,
+      "vendor": "LA"
+    }
+  ],
+  "author": "spicygal",
+  "views": "913",
+  "slug": "berry_custard_fluff",
+  "total_flavoring": "11.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Evolve Monstar",
+  "description": "This is my attempt to create a blueberry version of DIYORDIE's Strawberry Jam Monster thus, again, all credit to Wayne.\r\n\r\nFW Blueberry: Even though this is a more candy-like flavoring, I just needed its blue sweetness and a bit less of its flavor so as to not step over the blueberry in RF's Blueberry Jam w/ Toast, therefore, I opted to keep it at 5%...but you can bump it to 6-7% if you prefer and you will get a very bright blueberry.\r\n\r\nRF Blueberry Jam with Toast: I originally had this flavoring at 2% but I have since dropped it a half percent (compared to the Strawberry version).  The blueberry in here is sooooooo \"jammy and bakery\" so I can see myself using it in a blueberry pie or cheesecake profile...we'll see how well the grainy part can be bent into a crust.\r\n\r\nCAP Golden Butter: I tried this mix with TPA Butter as well but it just works/tastes better with CAP...at least to me.\r\n\r\nCAP Super Sweet: at higher VG, I like it at 0.25% for a bit more vividness but it's up to you as always.\r\n\r\nWell, there you have it...it's not original but it's super tasty and blueberry > strawberry for me any day xD\r\n\r\nEnjoy!\r\n\r\nNOTE: the blueberry flavoring is not in the database so I picked blackberry...but it's blueberry just so you know.\r\n\r\nPS.  I'm not 100% sure how to License this so if I have to make changes to it, please, let me know.",
+  "id": 86874,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86874/blog-cc-rd-p101-blueberry-jam-on-toast.jpg",
+  "updated_at": "2020-12-07T17:34:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry Jam with Toast - Super Concentrate",
+      "flavor_id": 9274,
+      "millipercent": 1500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Golden Butter",
+      "flavor_id": 60,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "dioblanblu",
+  "views": "1482",
+  "slug": "evolve_monstar",
+  "total_flavoring": "8.75%",
+  "steep_days": "3",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

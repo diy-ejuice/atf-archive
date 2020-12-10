@@ -1,0 +1,62 @@
+{
+  "name": "Key Lime Pie",
+  "description": "This is THE best key lime pie recipe you will ever have. It has everything from the perfect lime, cheesy, custardy filling, to the perfect graham crust. Not too heavy on the lime, added some Greek yogurt for the sour notes and the Bavarian cream really ties the filling and the crust all together but you can taste each profile separately.",
+  "id": 189983,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189983/AC55CEF1-DA9C-4429-BFC9-073DF1F63C2D.jpeg",
+  "updated_at": "2020-12-06T12:56:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dx Bavarian Cream",
+      "flavor_id": 161,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 173,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4388,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cheesecake",
+      "flavor_id": 4430,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 1297,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "enzonik",
+  "views": "520",
+  "slug": "key_lime_pie",
+  "total_flavoring": "15.0%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

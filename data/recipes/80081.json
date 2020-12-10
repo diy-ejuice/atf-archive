@@ -1,0 +1,51 @@
+{
+  "name": "Jelly Belly Custard",
+  "description": "Raspberry jelly with custard, perfect after dinner treat.\r\n\r\nCap Vanilla Custard doing its usual wonders adding the thick eggy base. Feel free to increase this to suit your taste\r\nCap 27 Fish for the jelly note, bring sweetness and a slight tartness.\r\nLA Raspberry carries over the artificial raspberry note\r\nINW Creme Brulee adding to the custard notes\r\n\r\nMy first go at this profile, please feel free at add comments",
+  "id": 80081,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Raspberry",
+      "flavor_id": 971,
+      "millipercent": 500,
+      "vendor": "LA"
+    },
+    {
+      "name": "27 Fish",
+      "flavor_id": 8736,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Creme Brulee (yc)",
+      "flavor_id": 894,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Moonunit",
+  "views": "1360",
+  "slug": "jelly_belly_custard",
+  "total_flavoring": "5.75%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Bjorncoetsee",
+      "score": "5",
+      "text": "Looks good! I've been doing my own jello and custard. I couldn't find any recipe anywhere. Will give this ago"
+    }
+  ]
+}

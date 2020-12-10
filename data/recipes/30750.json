@@ -1,0 +1,63 @@
+{
+  "name": "Black Dragon Cake",
+  "description": "This one is hard to describe, It's main profile comes from the blackberry, but the dragonfruit adds some sweetness and close to a strawberry flavor. The cake profile is light, with hints of vanilla. Then topped off with the cream cheese icing to give some added sweetness and frosting.",
+  "id": 30750,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30750/black_dragon_by_kokodriliscus.jpg",
+  "updated_at": "2020-12-08T00:49:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blackberry",
+      "flavor_id": 214,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Nonna's Cake",
+      "flavor_id": 2173,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "MopHead",
+  "views": "1695",
+  "slug": "black_dragon_cake",
+  "total_flavoring": "17.5%",
+  "steep_days": "15",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "DeadHer0ine",
+      "score": "5",
+      "text": "I just keep coming back to this recipe. Light fluffy cake with a strong blackberry bite. Almost like a blackberry jam between cake layers. "
+    }
+  ]
+}

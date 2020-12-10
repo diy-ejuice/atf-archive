@@ -1,0 +1,62 @@
+{
+  "name": "Sweet Jizz Clone",
+  "description": "This was a clone request for a juice I'd never tried. Worked off some vague descriptions from the vendor and requester. Requester flipped over how accurate it was (but better) Pretty sure the original probably only shared two ingredients (Juicy Peach and Sweetener) haha",
+  "id": 9181,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9181/sweet.jpg",
+  "updated_at": "2020-12-01T11:47:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Orange",
+      "flavor_id": 500,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Smooth",
+      "flavor_id": 381,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Apexified",
+  "views": "2908",
+  "slug": "sweet_jizz_clone",
+  "total_flavoring": "8.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

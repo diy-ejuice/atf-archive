@@ -1,0 +1,62 @@
+{
+  "name": "Blackberry Revelation",
+  "description": "I wanted to change up Mustard Milk with a blackberry flavor. I started with 5% Blackberry and 8% VBIC, then altered the recipe several times. I added Custurd to enhance the blackberry and balance out the VBIC. INW Raspberry is there to add a complimentary flavor to blackberry. I've tried CAP VBIC but it doesn't give the same profile. I have tried cookie when I was out of bisuit not bad. I've thought about subbing INW Raspberry for TFA Sweet Raspberry at around 2%. Hope you like it. The INW Raspberry needs a few days to settle down. ",
+  "id": 37291,
+  "image_url": null,
+  "updated_at": "2020-12-07T12:45:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 14,
+      "millipercent": 5500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Madagascar (Vanilla Classic)",
+      "flavor_id": 526,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 7000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "letitsteep",
+  "views": "1167",
+  "slug": "blackberry_revelation",
+  "total_flavoring": "16.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

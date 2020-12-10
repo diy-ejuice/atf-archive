@@ -1,0 +1,50 @@
+{
+  "name": "Fierce",
+  "description": "just a fruit mix made for my wife...no development notes since these were the flavors I had at the time and it just worked for her",
+  "id": 80406,
+  "image_url": null,
+  "updated_at": "2020-12-04T22:27:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 247,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Melon Cantaloupe",
+      "flavor_id": 529,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "tacofarhart",
+  "views": "819",
+  "slug": "fierce",
+  "total_flavoring": "6.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Fruity Crunch Cereal",
+  "description": "CAP Cereal 27, FA Meringue and FW Yogurt make a great cereal with milk base for you to build whatever profile you like on top of.\r\n\r\nOff of the shake the CAP Sweet Strawberry is right up front with the cereal in the back ground giving you the impression that you've just sliced fresh strawberries in to your corn flakes. After a few days of steeping the strawberry takes the back seat letting the CAP Lemon Lime move in for more of a Fruity Pebbles or Fruit Loops-esque profile.\r\n\r\nI sweeten with 0.5% CAP Super Sweet.\r\n\r\nWatch the Video Here:\r\nhttps://youtu.be/LCOwXKOyuwU",
+  "id": 201340,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:36:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "RUG_ly",
+  "views": "673",
+  "slug": "fruity_crunch_cereal",
+  "total_flavoring": "10.0%",
+  "steep_days": "2",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Crimson Bull",
+  "description": "That great Red Bull Taste in a vape! \r\nVape Train nailed the flavor ans the RF Soda base gives it that extra lift! \r\n",
+  "id": 96161,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/96161/2167CE5C-C8D8-47CE-9C04-573A48375D7C.jpeg",
+  "updated_at": "2020-12-07T03:31:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "RB Energy Drink",
+      "flavor_id": 8951,
+      "millipercent": 8000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Soda Base – Super Concentrate",
+      "flavor_id": 7982,
+      "millipercent": 2000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Sour",
+      "flavor_id": 336,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 80,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "cookinmama",
+  "views": "1290",
+  "slug": "crimson_bull",
+  "total_flavoring": "12.08%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

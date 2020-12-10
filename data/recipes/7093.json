@@ -1,0 +1,56 @@
+{
+  "name": "Mini Muffin Man ",
+  "description": "Limited Edition Muffin Man",
+  "id": 7093,
+  "image_url": null,
+  "updated_at": "2020-12-07T10:43:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Pie V2",
+      "flavor_id": 9,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 2,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "sweetener (sucralose)",
+      "flavor_id": 2313,
+      "millipercent": 100,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "SuperSharpVaper",
+  "views": "2926",
+  "slug": "mini_muffin_man",
+  "total_flavoring": "15.1%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

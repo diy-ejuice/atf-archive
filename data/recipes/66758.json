@@ -1,0 +1,56 @@
+{
+  "name": "Strawberry cream biscuits",
+  "description": "Biscuits filled with strawberry cream. Almost same with a specific brand's biscuits.",
+  "id": 66758,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66758/17861809_10208341766614203_263472861198068490_n.jpg",
+  "updated_at": "2020-12-02T09:26:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie V2",
+      "flavor_id": 116,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "VladimirosStafylidis",
+  "views": "1463",
+  "slug": "strawberry_cream_biscuits",
+  "total_flavoring": "9.5%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

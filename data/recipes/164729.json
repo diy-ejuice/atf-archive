@@ -1,0 +1,44 @@
+{
+  "name": "Rainbow Bean Ice Cream",
+  "description": "This was inspired by an Ice Cream Stone by DIYorDIE.\r\n\r\nPicture a bowl of Rainbow Sherbet and Vanilla Bean Ice Cream.\r\n\r\nAdd some koolada or WS-23 if you want.",
+  "id": 164729,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:45:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Rainbow Sherbert",
+      "flavor_id": 1501,
+      "millipercent": 7000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "robolto78",
+  "views": "931",
+  "slug": "rainbow_bean_ice_cream",
+  "total_flavoring": "12.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

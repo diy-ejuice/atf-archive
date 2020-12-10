@@ -1,0 +1,38 @@
+{
+  "name": "Peach Mango Sweet Tea",
+  "description": "What it says on the tin. Took a while to get the ideal percentages but I like where it is now.",
+  "id": 118687,
+  "image_url": null,
+  "updated_at": "2020-12-07T21:32:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 2092,
+      "millipercent": 1000,
+      "vendor": "HS"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "1312",
+  "slug": "peach_mango_sweet_tea",
+  "total_flavoring": "8.0%",
+  "steep_days": "3",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

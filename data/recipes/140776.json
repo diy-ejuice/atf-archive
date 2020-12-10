@@ -1,0 +1,45 @@
+{
+  "name": "Swirly Custard",
+  "description": "I'm a little OCD about having an even percentage of final flavor. That's why the Vienna Cream is at 1.30%.",
+  "id": 140776,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140776/Untitled.png",
+  "updated_at": "2020-12-08T00:50:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2700,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1300,
+      "vendor": "FA"
+    }
+  ],
+  "author": "DarrinMcDougald",
+  "views": "2578",
+  "slug": "swirly_custard",
+  "total_flavoring": "9.0%",
+  "steep_days": "21",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Brewdog_Kilo",
+      "score": "4",
+      "text": "This looks like a very nice custard. I mixed it up a couple of days ago. &#xD;\nTried a sample drip and it's already a very good rich,  smooth custard.&#xD;\nCan't wait (but I will) for it to steep!!!"
+    }
+  ]
+}

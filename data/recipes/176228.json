@@ -1,0 +1,50 @@
+{
+  "name": "Greener Apples",
+  "description": "When tired of all, apples come to save the day! \r\nA natural, slightly tart but also sweet and smooth green apple.\r\n\r\nAnton Apple YC (Inawera) gives the peel and delightful aroma, but it is a little thin. Sour Apple (Flavorah) adds some tartness and a great smooth sweetness. These two make the main profile.\r\nTwo Apples (Inawera) and a touch of powerful Fuji Apple (FA) help fill in the middle.\r\nCoolada (Inawera) is like WS-23, helps chill, use to taste.",
+  "id": 176228,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/176228/apple-1051018_550.jpg",
+  "updated_at": "2020-12-07T10:44:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Anton Apple (yc)",
+      "flavor_id": 737,
+      "millipercent": 2250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Two Apples",
+      "flavor_id": 671,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Coolada",
+      "flavor_id": 10313,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sour Apple",
+      "flavor_id": 4379,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "JayWay",
+  "views": "1073",
+  "slug": "greener_apples",
+  "total_flavoring": "5.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

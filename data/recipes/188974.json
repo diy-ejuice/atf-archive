@@ -1,0 +1,51 @@
+{
+  "name": "Bananna Cream Pie",
+  "description": "A nice old old fashioned creamy banana pie just like grandma used to make. 1 Month+ steep time",
+  "id": 188974,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188974/bcp.jpg",
+  "updated_at": "2020-12-08T00:51:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "DadaFry",
+  "views": "958",
+  "slug": "bananna_cream_pie",
+  "total_flavoring": "6.25%",
+  "steep_days": "30",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Brewdog_Kilo",
+      "score": "5",
+      "text": "I'll give it a week and it will be gone in a day...lol&#xD;\n"
+    }
+  ]
+}

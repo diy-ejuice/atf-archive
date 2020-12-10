@@ -1,0 +1,44 @@
+{
+  "name": "Lemon Peach",
+  "description": "Simple stuff..\r\n\r\nA little sour, a little sweet. \r\n\r\nAdded Lemon Sicily after finally getting it and trying it - shits good.\r\nSwitched the peach percentages up a little. ",
+  "id": 49431,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49431/8810074-Citrus-lemon-and-peach-on-a-white-background-Stock-Photo.jpg",
+  "updated_at": "2020-12-08T00:49:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Yellow Peach",
+      "flavor_id": 135,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Juicy Peach",
+      "flavor_id": 81,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 1500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Flyver",
+  "views": "1191",
+  "slug": "lemon_peach",
+  "total_flavoring": "8.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

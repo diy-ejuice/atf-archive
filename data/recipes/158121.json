@@ -1,0 +1,44 @@
+{
+  "name": "Choc candy cane",
+  "description": "Great mix taste just like a choc mint candy cane give it a try",
+  "id": 158121,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158121/4B0D21EF-F569-418B-B9E1-880E5079CDD6.jpeg",
+  "updated_at": "2020-12-07T12:47:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Candy Cane",
+      "flavor_id": 1224,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 4389,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Johncox245",
+  "views": "663",
+  "slug": "choc_candy_cane",
+  "total_flavoring": "7.5%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

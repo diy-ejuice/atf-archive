@@ -1,0 +1,56 @@
+{
+  "name": "Vaqueros",
+  "description": "A tobacco mix,in which the tobacco flavours were chosen for their special characteristics.Hondurian Ligero(SM) because it is smooth and slightly sweet.Cured tobacco (flv) for the woody nutty notes-Kentucky blend (flv) for the nutty-slightly leather-caramel notes and to enhance the sweet notes of hondurian ligero and cured tobacco.Aged bourbon cream (RF) and madagascar bourbon vanilla(TPA),combine well to give deep,darker creamy note that blends well with the kentucky bourbon and smoothens the final mix\r\nThe mix needs to steep for 5-7 days,for the creams and bourbon to come in place",
+  "id": 130790,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130790/sep09_vaqueros_250.jpg",
+  "updated_at": "2020-12-07T17:35:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Aged Bourbon Cream",
+      "flavor_id": 4083,
+      "millipercent": 1400,
+      "vendor": "RF"
+    },
+    {
+      "name": "Madagascar Bourbon Vanilla Flavor",
+      "flavor_id": 4193,
+      "millipercent": 800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Kentucky Blend",
+      "flavor_id": 4362,
+      "millipercent": 800,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Honduran Ligero",
+      "flavor_id": 7282,
+      "millipercent": 3500,
+      "vendor": "SM"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "nks",
+  "views": "1313",
+  "slug": "vaqueros",
+  "total_flavoring": "7.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

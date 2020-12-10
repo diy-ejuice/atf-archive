@@ -1,0 +1,50 @@
+{
+  "name": "Fruit Mystery Candy",
+  "description": "Vague fruit flavor reminiscent of White Mystery Airheads. I started with the idea of using FA Cherry in a recipe and simply mixed with FA Pear to lighten the harsh cherry. It already reminded me of the childhood favorite. At this point I just went with it. The apple brings down the tartness. The watermelon really makes it more candylike. The white peach adds an inherent sweetness to the flavor and smooths it into that nondecript fruit vagueness. I used 1% CAP Super Sweet but sweeten to your own tastes.",
+  "id": 153629,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153629/Screenshot_20190530-021436_Google.jpg",
+  "updated_at": "2020-12-06T20:51:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cherry",
+      "flavor_id": 4889,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 984,
+      "millipercent": 1000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "RainbowDragon",
+  "views": "1129",
+  "slug": "fruit_mystery_candy",
+  "total_flavoring": "5.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

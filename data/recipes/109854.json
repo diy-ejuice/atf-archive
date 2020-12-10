@@ -1,0 +1,50 @@
+{
+  "name": "Pudding Pants",
+  "description": "Chocolate creamy pudding with a Graham crust for Mixing with me Mates!",
+  "id": 109854,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/109854/FB_IMG_1531064740778.jpg",
+  "updated_at": "2020-11-30T20:55:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Pudding",
+      "flavor_id": 4433,
+      "millipercent": 2250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Chocolate Base (Clear)",
+      "flavor_id": 8851,
+      "millipercent": 660,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2750,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Dank1",
+  "views": "957",
+  "slug": "pudding_pants",
+  "total_flavoring": "7.41%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

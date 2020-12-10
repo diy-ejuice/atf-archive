@@ -1,0 +1,50 @@
+{
+  "name": "Strawberry SCREAM",
+  "description": "Okay, so everyone has their strawberry and cream vape. This one is mine. I derived this from ye ol' Mustard Milk, after messing around, adding and subtracting things over about a six month period of time. Less strawberry and more cream. \r\n\r\n\r\nCAP Sweet Strawberry and TFA Strawberry 1:1, I think, makes a great artificial strawberry flavor, and it's what I ended up settling on for this version. \r\n\r\n\r\nTFA VBIC at 6% makes a great creamy base for us. I apologize if you get pepper from it. It truly is a shame some people do. We add TFA Vanilla Swirl at 2% and CAP Sweet Cream at 2.5% to give us an excellent cream that is not too sweet, and loaded with plenty of vanilla.\r\n",
+  "id": 34364,
+  "image_url": null,
+  "updated_at": "2020-12-01T16:12:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "SleepersDemon",
+  "views": "1803",
+  "slug": "strawberry_scream",
+  "total_flavoring": "16.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

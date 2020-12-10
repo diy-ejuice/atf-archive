@@ -1,0 +1,69 @@
+{
+  "name": "Key Lime Pie",
+  "description": "Lime is very prominent, but has a nice cheesecake with crust undertone. \r\nI love it myself...",
+  "id": 2185,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 5250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 6500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lime Tahiti Cold Press",
+      "flavor_id": 2736,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Saramon",
+  "views": "1797",
+  "slug": "key_lime_pie",
+  "total_flavoring": "17.75%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "FourWinds",
+      "score": "5",
+      "text": "Very nice and balanced recipe. The key lime is balanced with crust just right. I didn't have (CAP) Sweet Cream, so I substituted it with (TPA) Sweet Cream. Turned out great. For key lime pie enthusiasts this is a must try."
+    }
+  ]
+}

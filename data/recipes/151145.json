@@ -1,0 +1,74 @@
+{
+  "name": "Ruby Red Ale",
+  "description": "Vaping something that actually tastes like beer would be gross. This is more of a collaborative interpretive dance inspired by a cold glass of Ruby Red Ale. Notes of hops, raspberry, grapefruit, blood orange, and frothy suds dance on your tastebuds.\r\n\r\nVery much a work in progress, but after two revisions, this is getting pretty tasty and hitting most of the right notes.\r\nThe first version wasn't tasting \"red\" enough or fizzy enough. It couldn't quite decide what kind of ale it was..\r\nVersion 2 added raspberries, WS-23 to make it cool, and bumped the blood orange champagne up to 4% for more effervescence. Unfortunately it also picked up some cheap wine notes. Just a touch of Vanilla Swirl muted a harsh topnote and made the whole thing a bit smoother.\r\nVersion 3 dropped the blood orange champagne back to 2% and added fizzy sherbet to restore the bubbly quality.\r\nThanks to eyemakepizza and isuamadog, whose idea i remixed into this recipe and whose feedback made it better.",
+  "id": 151145,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151145/36931a34f4491f7e960ef763b1e809567f141b65.jpg",
+  "updated_at": "2020-12-07T21:33:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Yakima Hops",
+      "flavor_id": 3478,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 1750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Fizzy Sherbet",
+      "flavor_id": 8878,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Blood Orange Champagne",
+      "flavor_id": 8833,
+      "millipercent": 2000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "beeker",
+  "views": "1133",
+  "slug": "ruby_red_ale",
+  "total_flavoring": "12.25%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

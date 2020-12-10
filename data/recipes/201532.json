@@ -1,0 +1,44 @@
+{
+  "name": "BRDZ Peaches",
+  "description": "A simple peach and cream recipie.\r\nCaps Peaches and cream ticked alot of boxes for me as a solo flavour although not just quite there yet. Added Inw Peach and Fw Yogurt to lift the profile up and Fw Tres Leches adds the the over all profile giving that almost commercial type element (That thing thats missing but cant tell what it is). ",
+  "id": 201532,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201532/20200727_071535.jpg",
+  "updated_at": "2020-12-05T08:07:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peaches And Cream",
+      "flavor_id": 95,
+      "millipercent": 12000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Tres Leches",
+      "flavor_id": 1446,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "BRDZ",
+  "views": "904",
+  "slug": "brdz_peaches",
+  "total_flavoring": "16.5%",
+  "steep_days": "10",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Mango Strawberry Ice Cream",
+  "description": "Inw Mango: good green mango flavor, but a little dry\r\n\r\nInw Strawberry Shisha: Awesome Strawberry\r\n\r\nInw Cactus: Used to brighten the mix up a bit\r\n\r\nCap/Tpa Ice Cream: I think, by using both it adds a depth the flavor\r\n",
+  "id": 55825,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55825/fruit-ice-1052051_960_720.jpg",
+  "updated_at": "2020-12-07T15:20:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 664,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 2500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Helfrd0771",
+  "views": "1685",
+  "slug": "mango_strawberry_ice_cream",
+  "total_flavoring": "10.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Blueberry cupcake",
+  "description": "Great mix give it a try u won't regret it",
+  "id": 179862,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/179862/blueberry-cupcakes6_text.1.jpg",
+  "updated_at": "2020-12-08T00:51:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry Muffin",
+      "flavor_id": 608,
+      "millipercent": 3500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cupcake batter",
+      "flavor_id": 2596,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Johncox245",
+  "views": "1258",
+  "slug": "blueberry_cupcake",
+  "total_flavoring": "9.5%",
+  "steep_days": "12 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "BigRed",
+      "score": "5",
+      "text": "This is smiple and but really good . keep mixing bro"
+    }
+  ]
+}

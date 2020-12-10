@@ -1,0 +1,56 @@
+{
+  "name": "Euler (Chocolate Coconut Pie)",
+  "description": "A sweet coconut and cream pie with just the right amount of chocolate. I wanted to keep the chocolate in the background in this recipe, while pushing the coconut to be the upfront main notes of the recipe. FA Breakfast cereal brings a nice and light bakery crust that compliments both the coconut and chocolate.",
+  "id": 86249,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86249/Euler.jpg",
+  "updated_at": "2020-12-07T10:43:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate Deutsch",
+      "flavor_id": 2151,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 300,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Breakfast Cereals",
+      "flavor_id": 8810,
+      "millipercent": 2500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "MopHead",
+  "views": "1030",
+  "slug": "euler_chocolate_coconut_pie",
+  "total_flavoring": "6.55%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Butter Tarts",
+  "description": "I was a little disappointed in the flavor I got from **WF Butter Pecan Pie**, and I, like ID10-T, knew something must be done to fix it. While keeping the original mix, I strongly felt that it still wasn't finished, even though it started out as a 1-2-3 recipe. It's too good to limit to just these three flavors. After trying the original, it just wasn't satisfying to me and felt it needed to be sweeter to properly tickle my palette. There was simply not enough caramel in this, so I'm working on fixing it and making it something special. \r\n\r\nI added **FW Caramel Candy** after trying the original and was immediately impressed with the results. But I think I can do even better. The missing sweetness is now mostly present. I'm going to focus on complimentary sweeteners, and next is **FW Caramel (salted)** and **TPA Brown Sugar**. This should brighten things up a little.\r\n\r\n\r\n####Keeping the original notes by ID10-T below:\r\n\r\n\r\n**WF Butter Pecan Pie** is yummy, but its name drove me nuts and I had to try to \"fix\" it. It just tastes like butter pecan ice cream minus all of the ice cream. Or, something that could pass for the top part of the pie, with all the baked pecans, cooked sugar sweetness, and extra butter. But where's the eggy goopy inside? Why does it have \"pie\" in the name when I'm not getting even a hint of crust. **FA Apple Pie** takes some time to come out but I'm only getting the hint of pie crust I wanted from it at 1%, no apple or other fruit, no apple pie spice. **INW Custard** fills it out wonderfully. Three other versions didn't work the way I wanted them to. FA Custard Premium 2% was enough to take over and turn it into a custard recipe. Lovely, but off-topic. Not a pie. CAP Vanilla Custard 2% fit the pie profile and tasted good but that unmistakable Capella vanilla stuck out, calling too much attention to itself in an annoying way. The INW Creme Brulee 2% that someone suggested gave it a nice sweetness but wasn't custardy enough for a pie filling and tasted a little burnt.    ",
+  "id": 141193,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butter Pecan Pie",
+      "flavor_id": 6044,
+      "millipercent": 3000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 1250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Apple Pie",
+      "flavor_id": 551,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Caramel Candy",
+      "flavor_id": 1233,
+      "millipercent": 1250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "cyantist",
+  "views": "664",
+  "slug": "butter_tarts",
+  "total_flavoring": "9.25%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

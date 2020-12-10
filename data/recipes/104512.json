@@ -1,0 +1,50 @@
+{
+  "name": "Captain Custard’s Crunch Berries",
+  "description": "Crunch berry cereal drowned in vanilla custard! Still a work in progress, but getting pretty close to what I think it should be.",
+  "id": 104512,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104512/34A9172D-E4EF-4090-8392-91533216FCD3.jpeg",
+  "updated_at": "2020-12-07T17:34:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "2524",
+  "slug": "captain_custards_crunch_berries",
+  "total_flavoring": "11.5%",
+  "steep_days": "15",
+  "best_vg": "83%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

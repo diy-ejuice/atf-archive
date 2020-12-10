@@ -1,0 +1,56 @@
+{
+  "name": "Banana Cream Pie",
+  "description": "A super nice banana cream pie. I used banana custard because it has an organic banana taste rather than a candy taste. Bavarian cream for the body of the “cream” filling and some caramel and cinnamon to give it that caramelized and cooked banana taste. The pie crust obviously for the bakery and crust note that wraps it all together. ",
+  "id": 191523,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191523/5C91565F-9638-46EC-A4F0-18656A71D72D.jpeg",
+  "updated_at": "2020-12-05T12:09:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Dx Bavarian Cream",
+      "flavor_id": 161,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel (original)",
+      "flavor_id": 149,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cinnamon",
+      "flavor_id": 1245,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "enzonik",
+  "views": "696",
+  "slug": "banana_cream_pie",
+  "total_flavoring": "10.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

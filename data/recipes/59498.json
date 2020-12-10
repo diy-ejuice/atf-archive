@@ -1,0 +1,50 @@
+{
+  "name": "Orange Creamsicle",
+  "description": "Standard orange creamsicle with a tiny blood orange kick. The blood orange gives the orange a slight bitterness. If you do not want that or don't like blood orange, you can omit it. \r\n\r\n",
+  "id": 59498,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59498/orange.jpg",
+  "updated_at": "2020-12-07T03:31:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Orange Juice",
+      "flavor_id": 1887,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Van Ice Cream OOO Blend III",
+      "flavor_id": 6512,
+      "millipercent": 3250,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "RinVapes",
+  "views": "2042",
+  "slug": "orange_creamsicle",
+  "total_flavoring": "7.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "20%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

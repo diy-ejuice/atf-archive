@@ -1,0 +1,74 @@
+{
+  "name": "RedShirt",
+  "description": "my attempt at a strawberry daquiri. decent as a shake and vape",
+  "id": 116818,
+  "image_url": null,
+  "updated_at": "2020-11-29T18:20:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 3500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Florida Key Lime",
+      "flavor_id": 7699,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sicilian Mix (citrus Mix)",
+      "flavor_id": 508,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Darthy",
+  "views": "996",
+  "slug": "redshirt",
+  "total_flavoring": "14.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

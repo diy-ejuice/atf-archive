@@ -1,0 +1,51 @@
+{
+  "name": "Surprise Me!",
+  "description": "A nice summer vape. Melon salad with a nice dark berry mixed in, and then topped with whipped cream. ",
+  "id": 5625,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 614,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 1460,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 250,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Vurve",
+  "views": "3255",
+  "slug": "surprise_me",
+  "total_flavoring": "6.25%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "crisk",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

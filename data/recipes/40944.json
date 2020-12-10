@@ -1,0 +1,44 @@
+{
+  "name": "CheebaSteeba's Cream Stone",
+  "description": "A versatile and slightly sweet cream stone, perfect for layering other flavors on top of.\r\n\r\n",
+  "id": 40944,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/40944/IMG_0736.JPG",
+  "updated_at": "2020-12-08T00:49:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 4402,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Gelato",
+      "flavor_id": 185,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "CheebaSteeba",
+  "views": "3467",
+  "slug": "cheebasteebas_cream_stone",
+  "total_flavoring": "6.25%",
+  "steep_days": "3",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

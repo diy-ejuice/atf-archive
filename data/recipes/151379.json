@@ -1,0 +1,38 @@
+{
+  "name": "Jamaican Dessert",
+  "description": "I don't actually think this is a dessert found in Jamaica. ",
+  "id": 151379,
+  "image_url": null,
+  "updated_at": "2020-11-29T15:49:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jamaican Rum",
+      "flavor_id": 359,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream ",
+      "flavor_id": 9951,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Ripe Banana",
+      "flavor_id": 269,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DrMix",
+  "views": "793",
+  "slug": "jamaican_dessert",
+  "total_flavoring": "15.0%",
+  "steep_days": "4",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

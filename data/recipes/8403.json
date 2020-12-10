@@ -1,0 +1,56 @@
+{
+  "name": "Stram",
+  "description": "My simple take on strawberries and cream.   More like straight strawberry ice cream.  Well balanced, but still sweet.  Steep:  good as SnV, better a week in.",
+  "id": 8403,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/8403/image.jpeg",
+  "updated_at": "2020-12-08T00:48:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "HowieDIY",
+  "views": "1543",
+  "slug": "stram",
+  "total_flavoring": "10.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "I really like this, and keep some mixed up for when I want a strawberry but not a strawb milk or cheesecake.  It's perfect for when I want something a touch lighter."
+    },
+    {
+      "user": "cincinnatiking",
+      "score": "5",
+      "text": "Excellent recipe. It surprised me to be honest. I only mixed a 15ml, forgot about it. I found it in the back of the cabinet and tried it. I really love it! "
+    }
+  ]
+}

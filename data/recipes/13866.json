@@ -1,0 +1,44 @@
+{
+  "name": "Cinnamon Cereal",
+  "description": "A cinnamon crunch cereal with marshmallows. \r\nCinnamon Crunch (Flavorah) is a fantastic standalone flavor. This recipe builds on it with Cream for some milky creaminess, Marshmallow for sweetness, and 1 drop Rich Cinnamon per 15ml. All the additional flavors are optional.",
+  "id": 13866,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13866/320px-A_Bowl_Of_Cinnamon_Toast_Crunch.jpg",
+  "updated_at": "2020-12-06T04:10:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Crunch",
+      "flavor_id": 611,
+      "millipercent": 5000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": 638,
+      "millipercent": 100,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 3521,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "tw2k",
+  "views": "1781",
+  "slug": "cinnamon_cereal",
+  "total_flavoring": "7.6%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

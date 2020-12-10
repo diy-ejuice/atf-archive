@@ -1,0 +1,75 @@
+{
+  "name": "Fried Strawberry Donut",
+  "description": "My version of a fried Strawberry Donut.\r\nA basic donut base with Zeppola",
+  "id": 50897,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50897/doughnut-jam-centre.jpg",
+  "updated_at": "2020-12-08T00:49:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Flavordog",
+  "views": "2679",
+  "slug": "fried_strawberry_donut",
+  "total_flavoring": "20.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "This turned out really nice.  I'm guessing the strawberry is toning down yeasty the note that I don't like in zeppola"
+    }
+  ]
+}

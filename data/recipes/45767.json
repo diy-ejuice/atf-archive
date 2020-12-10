@@ -1,0 +1,68 @@
+{
+  "name": "MrColdOnes Milk",
+  "description": "Every mixer has their classic Strawberry Milk recipe. This is the version I like to mix. It's sweet, creamy, milky, strawberry goodness. Pretty self explanatory, but this was a long process to get it to where I was actually happy releasing it. ",
+  "id": 45767,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/45767/IMG_3824.JPG",
+  "updated_at": "2020-12-07T23:35:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "MrColdOne",
+  "views": "2201",
+  "slug": "mrcoldones_milk",
+  "total_flavoring": "11.5%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

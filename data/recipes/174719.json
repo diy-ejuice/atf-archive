@@ -1,0 +1,50 @@
+{
+  "name": "Marzipan Ice Cream",
+  "description": "These aromas speak for themselves, a rich tasteful marzipan and almond tasting ice cream.\r\n\r\n5 to 7 days",
+  "id": 174719,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174719/marzipan-Ice-Cream__2_.jpg",
+  "updated_at": "2020-12-06T20:45:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Catalan Cream",
+      "flavor_id": 483,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 467,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 9957,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "besejuiced",
+  "views": "2174",
+  "slug": "marzipan_ice_cream",
+  "total_flavoring": "6.5%",
+  "steep_days": "5",
+  "best_vg": "30%",
+  "temperature": "70",
+  "recipe_score": 0,
+  "reviews": []
+}

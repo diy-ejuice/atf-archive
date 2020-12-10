@@ -1,0 +1,62 @@
+{
+  "name": "Nana' Flakes",
+  "description": "Corn flakes with bananas and brown sugar. Heavy on the milk. Enjoy!",
+  "id": 193307,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/193307/original.jpg",
+  "updated_at": "2020-12-07T14:14:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 612,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 2662,
+      "millipercent": 500,
+      "vendor": "HS"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Milk",
+      "flavor_id": 523,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Silky",
+  "views": "918",
+  "slug": "nana_flakes",
+  "total_flavoring": "10.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

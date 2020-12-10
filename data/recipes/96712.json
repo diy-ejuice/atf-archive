@@ -1,0 +1,50 @@
+{
+  "name": "Cuke Yogurt",
+  "description": "This is a cucumber yogurt recipe\r\nMade on \"Live Mixing: Cucumber Vapes\"\r\n",
+  "id": 96712,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/96712/livemixing.jpg",
+  "updated_at": "2020-12-07T15:21:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cucumber",
+      "flavor_id": 4384,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 173,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Spearmint",
+      "flavor_id": 618,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "2282",
+  "slug": "cuke_yogurt",
+  "total_flavoring": "7.75%",
+  "steep_days": "3",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

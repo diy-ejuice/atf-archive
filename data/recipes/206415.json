@@ -1,0 +1,68 @@
+{
+  "name": "Mint slice V2",
+  "description": "Mint slice v2 Mint slice v2 Mint slice v2 Mint slice v2",
+  "id": 206415,
+  "image_url": null,
+  "updated_at": "2020-12-07T12:48:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 796,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Chocolate Glazed Doughnut",
+      "flavor_id": 34,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pistachio",
+      "flavor_id": 293,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Creme De Menthe",
+      "flavor_id": 278,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Brent1989",
+  "views": "253",
+  "slug": "mint_slice_v2",
+  "total_flavoring": "11.5%",
+  "steep_days": "30",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "My pina colada",
+  "description": "Refreshing,tasty pina colada.just 4 ingredients and 3.7% aromas but still so yummy!for my personal taste 2% of jamaican special is fine,but still you can adjust it to your own preference.inawera's mississippi is one of the best pineapple aromas and a must have.hope you mix and enjoy this,cheers!",
+  "id": 91612,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/91612/pina-colada-new1.jpg",
+  "updated_at": "2020-12-08T00:50:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Coconut",
+      "flavor_id": 317,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mississippi",
+      "flavor_id": 9195,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon Lime II",
+      "flavor_id": 4192,
+      "millipercent": 200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "nks",
+  "views": "2295",
+  "slug": "my_pina_colada",
+  "total_flavoring": "3.7%",
+  "steep_days": "7",
+  "best_vg": "30%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Screwdriver",
+      "score": "5",
+      "text": "This is by far the best Piña Colada I've ever vaped. (I did use the (CAP) Lemon Lime v1) Very smooth and not too sweet. I've opened the (Inawera) for the first time, had it for 1.5 years in the fridge though. I'm so glad you've reminded me, now I'm very intrigued by this flavor. Very well balanced recipe too. Many thx nks. "
+    }
+  ]
+}

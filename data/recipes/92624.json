@@ -1,0 +1,44 @@
+{
+  "name": "Raspberry Ice Cream",
+  "description": "This turned out good but might try different raspberry along the line. suggestions are always appreciated",
+  "id": 92624,
+  "image_url": null,
+  "updated_at": "2020-12-04T23:28:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 6700,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 6700,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "llisahere",
+  "views": "400",
+  "slug": "raspberry_ice_cream",
+  "total_flavoring": "18.9%",
+  "steep_days": "6",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

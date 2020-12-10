@@ -1,0 +1,86 @@
+{
+  "name": "Heaven's Goo",
+  "description": "Gooey yummy creamy custard pudding with brown sugar and dulce de leche topping",
+  "id": 85045,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85045/Heaven_s_Goo.jpg",
+  "updated_at": "2020-12-05T23:54:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Golden Butter",
+      "flavor_id": 60,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 160,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 400,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "joelbryant1960",
+  "views": "1219",
+  "slug": "heavens_goo",
+  "total_flavoring": "16.9%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

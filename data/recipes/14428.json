@@ -1,0 +1,50 @@
+{
+  "name": "Sugar cookie custard",
+  "description": "Started with Kreed's Kustard as a base. Did some tweaks to add in sugar cookie.",
+  "id": 14428,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:31:42.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "GObisco",
+  "views": "2277",
+  "slug": "sugar_cookie_custard",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

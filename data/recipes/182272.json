@@ -1,0 +1,56 @@
+{
+  "name": "Red Death (POD)",
+  "description": "Red fruit and anise, designed for restricted airflow and high nicotine pod systems.  Tested using the Caliburn, at up to 25mg salts.\r\n\r\n**You probably shouldn't try this in a subtank or rda.**  \r\n\r\n*\"There was much of the beautiful, much of the wanton, much of the bizarre, something of the terrible, and not a little of that which might have excited disgust.\"*\r\n\r\n___\r\nThis recipe obviously owes a great deal to the Chef's flavors \"With Envy\" line as well as the whole euro heisenberg / astaire genre of fruits with anise and cooling.  I've been lightly consumed with remaking those kinds of profiles without leaning so heavily on sweetener / artificial colors / grotesque amounts of cooling.\r\n\r\nReally, it's a pretty simple recipe.  It has about 3 salient components:\r\n\r\n**The Red Fruit**\r\n\r\nFruits in pod systems are maddening.  They either kind of  just work or they don't. The percentages can get a bit obscene when compared to a more standard rda / subtank recipe.\r\n\r\nThis works, and the percentages are obscene.  **CAP Sweet Currant** is a big, bright, funky, and sweet red currant flavor and it's cranked way the hell up to actually stand up in the mix.  It's also robustly sweet, which obviates at least some of my desire to throw in extra sweetener and burn through disposable pods. The sweet currant is definitely present at 10%, but it's a bit low and \"bassy\" without adding too much in the way of higher, lively notes.\r\n\r\nThat is where the **FA Raspberry** and the **INW Rhubarb** come in.  In a pod, the 4% FA Raspberry avoids getting too sharp and floral, while still perking up that deeper currant.  The 1% INW Rhubarb is kind of heavy handed, but it gives a nice tartness to underlying red fruit flavor.\r\n\r\nThe overall \"red fruit\" flavor is distinctly \"red\" while still being tart and sweet enough to really show up in a pod.\r\n\r\n**The Anise**\r\n\r\nAh anise, the great appeal limiter.  Hallowed be thy name.  I like anise as a counterpoint to bright fruit flavors, especially with cooling.  This recipe uses two kinds of anise with distinctly different purposes.  The **INW Anise** is a bit earthy and kind of bitter.  It has a bit of that licorice-ish bite, but at 1% it's really being used here to give a dirtier counterpoint to pop the fruit  in this recipe.  The **FA Anise** is smooth and much more of a pernod/absinthe kind of vibe.  It's there to round out a full anise profile at 3%.  These percentages work fairly well for me in a pod.\r\n\r\n**The Cooling**\r\n\r\nI mean, it's obvious that we are going to be using WS-23 here.  I've used 1% of a **30% WS-23** Solution to give something between a *touch* and a *sledgehammer* worth of cooling.  The cooling knocks off the dirtier, aggressive edges of the anise and the cloying sweetness of the red fruit.  I've found that WS-23 doesn't really need to be jacked up for pods like normal flavors, so it's still somewhat reasonable. I've mixed batches of this recipe up with 2% WS-23 and enjoyed it, but I feel like 1% hollows out the red fruit here a lot less.  It's DIY though, you do you.  You want to mix at 2 or 3%? I can't legally stop you.  At least not yet.\r\n\r\n___\r\nThat is pretty much it.  I suppose you could add sweetener if you wanted, but I think this fairly sweet for a fruit-based pod flavor and I like not toasting my pods.  As it stands, I'm getting 20ish ml per caliburn pod at 50/50 vg/pg without much drama.  I don't think I've ever shared a pod recipe before, namely because they all end up so profoundly boring.  I figured that was probably okay after burning through about 75ml of it in regular rotation.\r\n\r\n*\"...and the Red Death held illimitable dominion over all.\"*",
+  "id": 182272,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182272/305f6a03-3e0d-ea11-8101-005056bbc3d7.637100338626909538.jpg",
+  "updated_at": "2020-12-08T00:51:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Currant",
+      "flavor_id": 10171,
+      "millipercent": 10000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rhubarb (yc)",
+      "flavor_id": 711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Anise",
+      "flavor_id": 749,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Anise",
+      "flavor_id": 499,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "ConcreteRiver",
+  "views": "1760",
+  "slug": "red_death_pod",
+  "total_flavoring": "20.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "50%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

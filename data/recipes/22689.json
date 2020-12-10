@@ -1,0 +1,56 @@
+{
+  "name": "Yellow Bus",
+  "description": "\r\nA fresh spiced cream with a sense of tobacco.\r\n\r\nFA Soho: I adored this flavor and I’m so very glad it was added to the basket. Just the shove I needed to stop putting off looking into more tobacco flavors. Initially I really wanted to base the recipe around this, playing around with 7-10% to really make it noticeable, but overtime I found the pairings to be too delicate to strike through all that richness. Bringing it down to 4-5% made it a pleasant caramel presence but at these low percentages it needed some help to make it sing.\r\n\r\nTFA Banana Cream: Also a crowd pleaser to those I supply liquid. The delicate realistic banana notes hidden behind a mound of cream were what I really wanted to push forward. Soho works its grips into the cream base, working along with bavarian to twist it into something of a spiced \r\n\r\nTFA Bavarian Cream: I kept this low because of how delicate the banana was as well as the sheer amount of creaminess it already provided. It adds a bit of nice complexity to the earthy dessert that the Soho brings along.\r\n\r\nFA Cookie: This was a special find. The relatively high acetyl pyrazine content helps the more realistic tobacco notes from the Soho come out early and really ride along with the length of the pull. The crispiness adds a nice contrast for the heavy cream to play against, and the relatively simple flavoring doesn’t come across much more than texturally.\r\n\r\nCAP Yellow Cake: I put this in to add a little unctuousness to the mix. At 1% it asserts itself throughout, the moist cakiness blending with the creams and landing on the Cookie.\r\n\r\nTFA Ripe Strawberry: A round one competitor makes an appearance. As much as I was conflicted about using this, just a touch helps add some more natural sweetness and it helps to coax the dainty banana out to the front a bit. The airy sweetness complements and lightens pretty much across the board.\r\n",
+  "id": 22689,
+  "image_url": null,
+  "updated_at": "2020-12-02T09:25:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Soho",
+      "flavor_id": 413,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 5854,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Maeth",
+  "views": "1204",
+  "slug": "yellow_bus",
+  "total_flavoring": "16.0%",
+  "steep_days": "2",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

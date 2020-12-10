@@ -1,0 +1,69 @@
+{
+  "name": "Tangerine-Ade",
+  "description": "Juust wanted a different lemonade and threw this together. Shake and Vapeable. Sorry for the lack of notes, not that serious of a recipe.",
+  "id": 61067,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Letsmix",
+  "views": "2093",
+  "slug": "tangerineade",
+  "total_flavoring": "11.25%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Werttok",
+      "score": "4",
+      "text": "Mixed this with 2.5% Lemon Sicily and no Italian Lemon Sicily as the pine-sol taste always throws me off. Great recipe, good out in the heat at work."
+    }
+  ]
+}

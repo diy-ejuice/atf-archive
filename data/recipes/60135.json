@@ -1,0 +1,56 @@
+{
+  "name": "Relish The Thought...",
+  "description": "A sweet, fruity relish of Gingered peaches, cranberries, and persimmons. ",
+  "id": 60135,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/60135/Relish.jpeg",
+  "updated_at": "2020-12-06T20:40:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ginger Peach",
+      "flavor_id": 4419,
+      "millipercent": 400,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Persimmon",
+      "flavor_id": 4420,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cranberry",
+      "flavor_id": 2493,
+      "millipercent": 600,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Apple Cider",
+      "flavor_id": 4368,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweetness",
+      "flavor_id": 4413,
+      "millipercent": 200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 200,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "1099",
+  "slug": "relish_the_thought",
+  "total_flavoring": "1.8%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

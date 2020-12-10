@@ -1,0 +1,50 @@
+{
+  "name": "Razz Attack",
+  "description": "Blue raspberry candy with cherry blossom that was made for and inspired by the love of my life. I love her so much and this is just one of the many recipes I want to make for her. Alright, now on to the recipe and it's breakdown. \r\n\r\n1. LB Blue Raspberry @ 6%\r\n2. TFA Cherry Blossom @ 2%\r\n3. FA Florida Key Lime @ .25% - Not in here for taste, but just to make the LB Blue Raspberry pop more in the recipe. \r\n4. TFA Gummy Candy (pg) @ 1 % - Candy base for the rest of the recipe\r\n5. CAP Super Sweet @ .5% - Come on y'all, it wouldn't be a candy without some sugar, am I right?\r\n",
+  "id": 159773,
+  "image_url": null,
+  "updated_at": "2020-12-07T19:16:10.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 6000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Cherry Blossom (pg)",
+      "flavor_id": 221,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Florida Key Lime",
+      "flavor_id": 7699,
+      "millipercent": 250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Gummy Candy (pg)",
+      "flavor_id": 234,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Flexmaster_Kermit",
+  "views": "742",
+  "slug": "razz_attack",
+  "total_flavoring": "9.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

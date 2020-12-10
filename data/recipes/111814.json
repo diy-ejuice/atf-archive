@@ -1,0 +1,74 @@
+{
+  "name": "Cucumber Melon Cooler",
+  "description": "A wet, ice cold  melon & cucumber mix.\r\n\r\nFLV Wild melon, TFA watermelon, and TFA Honeydew are the base here obviously. It's a nice well rounded melon foundation, some candy notes and some natural melon notes. It's tasty. CAP Cucumber is an excellent cucumber flavor with a lot of wetness as well. TFA Pear brings some graininess to the melons, although subtle. INW Cactus Lime is my new Swiss army knife. It brings that thick juiciness that we all love from cactus but the lime adds some zing and helps cover up that weird cactus note that I don't always want in a mix. Coolant and Sweetener to taste, and can even be omitted but I've been craving that powerful cooling and the sugar lips most commercial juices give.",
+  "id": 111814,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111814/Sangria-de-melon.jpg",
+  "updated_at": "2020-12-02T10:29:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cucumber",
+      "flavor_id": 43,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 276,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "WS-3 (Koolada)",
+      "flavor_id": 5851,
+      "millipercent": 500,
+      "vendor": "SA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Cactus - Lime",
+      "flavor_id": 2179,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "amouthforwar",
+  "views": "1400",
+  "slug": "cucumber_melon_cooler",
+  "total_flavoring": "10.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

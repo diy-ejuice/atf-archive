@@ -1,0 +1,51 @@
+{
+  "name": "Bizzaro Custard",
+  "description": "Crossing Strawberry Streams yields a wonderfully rich Sweet strawberry custard with a hint of tartness from the sweet currant.\r\n\r\nSweeten to taste.",
+  "id": 181523,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181523/642.jpg",
+  "updated_at": "2020-12-08T00:51:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard 2",
+      "flavor_id": 10427,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ripe Strawberries",
+      "flavor_id": 10273,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 10286,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Currant",
+      "flavor_id": 10171,
+      "millipercent": 300,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1757",
+  "slug": "bizzaro_custard",
+  "total_flavoring": "10.3%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "BigRed",
+      "score": "5",
+      "text": "as a shake and vape it’s very good but def needs to steep: Update : after a day steep this is by far the best custard i’ve had ina while"
+    }
+  ]
+}

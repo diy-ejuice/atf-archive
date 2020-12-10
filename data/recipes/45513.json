@@ -1,0 +1,80 @@
+{
+  "name": "Ginger Cookies soaked in Tea V2 (w/ separate steeping, see flavour notes)",
+  "description": "Separate Steeping\r\n\r\nBatch A:\r\nTPA Bavarian Cream 2.5%\r\nINW Biscuit 1%\r\nINW Cherimoya 0.3%\r\nFA Cookie 1%\r\nFA Honey 0.75%\r\nINW Shisha Gingerbread 1.5%\r\n\r\nBatch B:\r\nTPA French Vanilla 2%\r\nINW Vanilla 0.5%\r\nTPA Sweet Tea 2%\r\nINW Shisha Chai 0.5%\r\n\r\nEach Batch should steep for a week. After we combine the two batches, we add VG/PG and let it steep for another 10-15 days\r\n\r\nTexture is gritty and wet\r\n",
+  "id": 45513,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/45513/GingerCookieTea.jpg",
+  "updated_at": "2020-12-05T11:04:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Shisha Gingerbread",
+      "flavor_id": 2212,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cherimoya (yc)",
+      "flavor_id": 738,
+      "millipercent": 300,
+      "vendor": "INW"
+    },
+    {
+      "name": "Honey",
+      "flavor_id": 531,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Chai",
+      "flavor_id": 818,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla",
+      "flavor_id": 672,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 170,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "trandism",
+  "views": "1058",
+  "slug": "ginger_cookies_soaked_in_tea_v2_w_separate_steeping_see_flavour_notes",
+  "total_flavoring": "12.05%",
+  "steep_days": "20",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

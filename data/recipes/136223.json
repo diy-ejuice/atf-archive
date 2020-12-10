@@ -1,0 +1,68 @@
+{
+  "name": "A Custard Recipe",
+  "description": "A simple vanilla custard with rich egg and butter graham notes layered beneath.",
+  "id": 136223,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136223/final-custard-thumb.jpg",
+  "updated_at": "2020-12-08T00:50:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 7500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla V2",
+      "flavor_id": 57,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol 10%",
+      "flavor_id": 2311,
+      "millipercent": 1500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "9218",
+  "slug": "a_custard_recipe",
+  "total_flavoring": "20.0%",
+  "steep_days": "14",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "elsignor",
+      "score": "4",
+      "text": "A very good one, tested at day 18. It is a simple custard, very smooth, not too sweet. Very well balanced. Thanks Wayne for sharing. "
+    },
+    {
+      "user": "Untitled",
+      "score": "4",
+      "text": "As you described the first week smelled pretty much like plastic. I didn't try until day 16 and it has become very smooth, thick and is a simple custard. I think ppl can use this one pretty good as a base for their own recipes. Thank you wayne and well done as always!"
+    }
+  ]
+}

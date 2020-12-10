@@ -1,0 +1,51 @@
+{
+  "name": "Shortbread Ice Cream Sandwich",
+  "description": "A shortbread cookie ice cream sandwich. Shave it. Vape it. ",
+  "id": 125776,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1900,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 2250,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BeardedFolk",
+  "views": "1173",
+  "slug": "shortbread_ice_cream_sandwich",
+  "total_flavoring": "7.65%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Brewdog_Kilo",
+      "score": "4",
+      "text": "I enjoyed this very much. Thanks!"
+    }
+  ]
+}

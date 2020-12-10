@@ -1,0 +1,38 @@
+{
+  "name": "Pear of Aces",
+  "description": "Just a simple Pear recipe here folks. JF Fuji is included here to boost the Pear flavor sky high. Pears Pears Pears. ",
+  "id": 119817,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/119817/pears.jpg",
+  "updated_at": "2020-12-07T17:35:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 4488,
+      "millipercent": 500,
+      "vendor": "JF"
+    }
+  ],
+  "author": "EdibleMalfunction",
+  "views": "1490",
+  "slug": "pear_of_aces",
+  "total_flavoring": "7.25%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

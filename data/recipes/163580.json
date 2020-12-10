@@ -1,0 +1,62 @@
+{
+  "name": "Florida Man",
+  "description": "Incredibly authentic Floridian pie filling.\r\n\r\n• [NF] Malt & [FA] Milk: condensed milk.\r\n• [FA] Custard Premium: egg yolk\r\n• [FLV] Cream: stir\r\n• [FA] Florida Key Lime, [INW] Shisha Lime, [VT] Shisha Lime: marijuana, mescaline, and meth.",
+  "id": 163580,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163580/4680857D-DFCC-4209-871E-52FDAD81E961.png",
+  "updated_at": "2020-12-07T15:21:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Florida Key Lime",
+      "flavor_id": 7699,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Malt",
+      "flavor_id": 6965,
+      "millipercent": 2000,
+      "vendor": "NF"
+    },
+    {
+      "name": "Milk",
+      "flavor_id": 523,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Lime",
+      "flavor_id": 829,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Shisha Lime",
+      "flavor_id": 9898,
+      "millipercent": 2500,
+      "vendor": "VT"
+    }
+  ],
+  "author": "Jesdorff",
+  "views": "742",
+  "slug": "florida_man",
+  "total_flavoring": "14.5%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

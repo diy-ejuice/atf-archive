@@ -1,0 +1,62 @@
+{
+  "name": "PeachyKeen Custard",
+  "description": "Spiced peach custard",
+  "id": 4263,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:37:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 633,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Catalan Cream",
+      "flavor_id": 483,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 542,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach White",
+      "flavor_id": 543,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "tranceinate",
+  "views": "1477",
+  "slug": "peachykeen_custard",
+  "total_flavoring": "11.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

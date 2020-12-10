@@ -1,0 +1,50 @@
+{
+  "name": "Succulent Milkshake",
+  "description": "Succulent Strawberry and Rhubarb together make a perfect pair, you can add a little bit of raspberry if you like. I am the next go round and put in some Cream Cheese Icing.  Milkshake base really  thickens this up, goes great with the already thick and creamy Vanilla Ice Cream and Pudding,  just makes it that much thicker. Your going to need a big bore straw to suck this milkshake. I suggest Flv sweetness if you want sweeter, plus it will explode that strawberry and rhubarb to \"damn that was good \"",
+  "id": 138315,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/138315/STRAWBERRY4.jpeg",
+  "updated_at": "2020-12-05T13:09:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Milkshake Base",
+      "flavor_id": 8927,
+      "millipercent": 600,
+      "vendor": "VT"
+    },
+    {
+      "name": "Rhubarb (yc)",
+      "flavor_id": 711,
+      "millipercent": 600,
+      "vendor": "INW"
+    },
+    {
+      "name": "Succulent Strawberry",
+      "flavor_id": 9180,
+      "millipercent": 4000,
+      "vendor": "OSD"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3500,
+      "vendor": "LB"
+    },
+    {
+      "name": "Vanilla Pudding",
+      "flavor_id": 4433,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "MixandHope",
+  "views": "1239",
+  "slug": "succulent_milkshake",
+  "total_flavoring": "9.2%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

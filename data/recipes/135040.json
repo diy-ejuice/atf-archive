@@ -1,0 +1,68 @@
+{
+  "name": "Blue Raz Lemonade MTL/POD",
+  "description": "A simple blue raz lemonade for MTL devices. To carve out the blue raspberry I combined LB blue raspberry, FLV boysenberry, and INW raspberry. These combine easily to create the blue flavor I'm looking for in the mix. Mixed two lemonades to create the main note of the recipe. LA lemonade is everyones go to but I enjoy FW lemonade as well. Combine them you create a sour and tart lemonade from the LA lemonade and with some real lemon mouth feel from the FW lemonade.\r\nIn MTL i like really icy vapes so i combined WS-23 and Polar blast. \r\nTested in Zennith Tank with the Plexus Mesh Coil.",
+  "id": 135040,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135040/maxresdefault.jpg",
+  "updated_at": "2020-12-07T17:35:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 8000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 614,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 1336,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1500,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "fadedjay1",
+  "views": "2581",
+  "slug": "blue_raz_lemonade_mtlpod",
+  "total_flavoring": "18.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

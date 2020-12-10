@@ -1,0 +1,38 @@
+{
+  "name": "Juicy Blue",
+  "description": "Juicy Blue Raspberry. Super simple, minimal steep time",
+  "id": 11213,
+  "image_url": null,
+  "updated_at": "2020-12-05T09:50:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple (green)",
+      "flavor_id": 1176,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 1391,
+      "millipercent": 9000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Famoosh",
+  "views": "1289",
+  "slug": "juicy_blue",
+  "total_flavoring": "15.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

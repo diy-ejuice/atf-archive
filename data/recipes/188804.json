@@ -1,0 +1,57 @@
+{
+  "name": "Plush Apple ",
+  "description": "i wanted a springtime vape, something which leads my tastebuds from wintertime (with heavy custards and creams) into the lighter, brighter days.\r\nsomething fruity, maybe floral, light\r\n\r\nCAP Double Apple provides the main body, fleshy, sweet apple \r\nFA Pear provides a bit more bite to the apple and also some water \r\nFLV Elderflower and FLV Yakima Hops act as the floral counterparts, the will provide fresh, bright top notes\r\nTPA Vanilla Swirl binds the top notes and lower notes together and acts also as the sweetener.\r\n\r\nyou can add up to 0.5% CAp Super Sweet for extra sweetness\r\n\r\n",
+  "id": 188804,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188804/images.jpeg",
+  "updated_at": "2020-12-08T00:51:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Double Apple",
+      "flavor_id": 45,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1400,
+      "vendor": "FA"
+    },
+    {
+      "name": "Elderflower",
+      "flavor_id": 3518,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Yakima Hops",
+      "flavor_id": 3478,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Echodub",
+  "views": "640",
+  "slug": "plush_apple",
+  "total_flavoring": "7.4%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "ID10-T",
+      "score": "4",
+      "text": "It's definitely fruity, and mostly juicy apple. It’s also thick and a bit creamy - the plush part, I guess - with nice floral top notes that speak of Spring. The bit of bitterness from the Elderflower and Hops comes back around in the finish and lingers in a way I’m personally not very fond of, but others will probably find it refreshing and appreciate that it’s so full-bodied without being too rich and finishes without a cloying sweetness that too many recipes have. "
+    }
+  ]
+}

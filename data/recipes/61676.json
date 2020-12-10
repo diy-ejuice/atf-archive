@@ -1,0 +1,56 @@
+{
+  "name": "Fruity pipe tobacco",
+  "description": "a fruity-candy tobacco recipe.do you remember the days when you used to snoke and chew gum at the same time?enjoy!",
+  "id": 61676,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:34:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black Cherry",
+      "flavor_id": 703,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Classic For Pipe Gold",
+      "flavor_id": 767,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Monsoon",
+      "flavor_id": 400,
+      "millipercent": 600,
+      "vendor": "FA"
+    },
+    {
+      "name": "Red Burley",
+      "flavor_id": 4355,
+      "millipercent": 800,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla For Pipe",
+      "flavor_id": 886,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 800,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "nks",
+  "views": "1490",
+  "slug": "fruity_pipe_tobacco",
+  "total_flavoring": "7.7%",
+  "steep_days": "15",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

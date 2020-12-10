@@ -1,0 +1,56 @@
+{
+  "name": "Strawberry Ice Cream adaptation",
+  "description": "This is adapted from Knucklebone's Strawberry Ice Cream Recipe.\r\nOriginal Recipe:\r\nStrawberry Ice Cream \r\nCAP Super Sweet 1.25%\r\nCAP Sweet Strawberry 4.5%\r\nCAP VBIC 3.5%\r\nTFA DX Bravarian Cream 1.2%\r\nTFA Vanilla Swirl Flavor 2.00%\r\nFA Marshmallow 1%",
+  "id": 179072,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:33:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Bob82FL",
+  "views": "1440",
+  "slug": "strawberry_ice_cream_adaptation",
+  "total_flavoring": "12.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

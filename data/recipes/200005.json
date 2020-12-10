@@ -1,0 +1,56 @@
+{
+  "name": "BRDZ Cuzzy Cheesecake",
+  "description": "Vanilla custard meets cheesecake filling on a crispy wafer base",
+  "id": 200005,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200005/127119_1387.jpg",
+  "updated_at": "2020-12-07T10:44:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard Cheesecake",
+      "flavor_id": 6532,
+      "millipercent": 6000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Yes, We Cheesecake",
+      "flavor_id": 9272,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Crispy Wafer SC",
+      "flavor_id": 8366,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Mascarpone Cream Cheese",
+      "flavor_id": 10055,
+      "millipercent": 1000,
+      "vendor": "WF"
+    }
+  ],
+  "author": "BRDZ",
+  "views": "623",
+  "slug": "brdz_cuzzy_cheesecake",
+  "total_flavoring": "12.5%",
+  "steep_days": "21",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

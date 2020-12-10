@@ -1,0 +1,62 @@
+{
+  "name": "Lemon Cream Cookie",
+  "description": "Really like this after a 1-week seep, Nice lemon flavor with a sweet ending.",
+  "id": 30079,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 2000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "G-pots",
+  "views": "1199",
+  "slug": "lemon_cream_cookie",
+  "total_flavoring": "20.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "35",
+  "recipe_score": 0,
+  "reviews": []
+}

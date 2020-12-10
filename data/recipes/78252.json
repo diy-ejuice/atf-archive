@@ -1,0 +1,44 @@
+{
+  "name": "Lucky Latte",
+  "description": "",
+  "id": 78252,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:55:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lotta Latte",
+      "flavor_id": 4348,
+      "millipercent": 4000,
+      "vendor": "OSD"
+    },
+    {
+      "name": "Lucky Shot",
+      "flavor_id": 4349,
+      "millipercent": 6000,
+      "vendor": "OSD"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 250,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "CenCalVape",
+  "views": "913",
+  "slug": "lucky_latte",
+  "total_flavoring": "11.25%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

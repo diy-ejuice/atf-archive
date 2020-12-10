@@ -1,0 +1,74 @@
+{
+  "name": "Strawberry cupcake",
+  "description": "A simple yet delicious vanilla cupcake with strawberry icing. \r\n\r\nStrawberry icing initially with a cake-y finish- leaves a lingering sweetness in your mouth wanting more.",
+  "id": 28056,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28056/IMG_2578.JPG",
+  "updated_at": "2020-12-05T11:04:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 5854,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazel Grove (hazelnut)",
+      "flavor_id": 417,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 129,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Golden Butter",
+      "flavor_id": 60,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Simple_ruby",
+  "views": "1947",
+  "slug": "strawberry_cupcake",
+  "total_flavoring": "17.0%",
+  "steep_days": "5",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

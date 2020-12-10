@@ -1,0 +1,50 @@
+{
+  "name": "STRAWBERRY ICE CREAM V2",
+  "description": "This is still a work in progress. I am trying to go for a  plain straight forward strawberry ice cream.\r\n\r\nTo be honest not quite there yet. I still leaves a lot to be desired. Mix if you would like but I would go ahead and pass over this one.",
+  "id": 125972,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:35:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 7000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Gelato",
+      "flavor_id": 185,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "chris_walker_ffl",
+  "views": "1241",
+  "slug": "strawberry_ice_cream_v2",
+  "total_flavoring": "20.0%",
+  "steep_days": "14",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

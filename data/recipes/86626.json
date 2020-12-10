@@ -1,0 +1,57 @@
+{
+  "name": "Cherry Dr Pepper",
+  "description": "this is exactly what the description says this is dr cherry pepper and seeing that I don't drink this soda my better half loves this stuff",
+  "id": 86626,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dr. Pop",
+      "flavor_id": 352,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cherry",
+      "flavor_id": 4889,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Conradvape",
+  "views": "1598",
+  "slug": "cherry_dr_pepper",
+  "total_flavoring": "7.5%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "60%",
+  "temperature": "95",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Germ",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Ripple Ice Cream",
+  "description": "Nice light and creamy butterscotch ice cream. Steep at 5-7 days. ",
+  "id": 52595,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:42:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 1297,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DodgerFog33",
+  "views": "1069",
+  "slug": "ripple_ice_cream",
+  "total_flavoring": "12.25%",
+  "steep_days": "5",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Neutron Star V2",
+  "description": "A dense banana milkshake. Now with less banana",
+  "id": 17560,
+  "image_url": null,
+  "updated_at": "2020-12-07T14:11:54.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Shisha Banana",
+      "flavor_id": 815,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1800,
+      "vendor": "FA"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 615,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "domyam",
+  "views": "867",
+  "slug": "neutron_star_v2",
+  "total_flavoring": "17.3%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

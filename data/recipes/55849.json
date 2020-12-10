@@ -1,0 +1,56 @@
+{
+  "name": "Kix Cerealmilk V2",
+  "description": "Kid tested, mother approved.\r\n\r\nKix is a lightly sweet corn cereal with just a little bit of milk.\r\n\r\nAn update to my kix cereal+milk. Mixed around cream flavors, added marshmallow.\r\n\r\nBavarian Cream/sweet cream/cream fresh - milk base. very dairy without being TFA Dairy/milk.\r\n\r\ncereal 27 - the star of the show. Honey grain cereal. Great for creams, cereal... I can't think of much this wouldn't fit in apart from straight fruits, menthol, alcohol, drinks, or anise.\r\n\r\nmeringue/marshmallow - cereal staples, KIX itself does not have marshmallow in it but here marshmallow is used with meringue to boost the sweet honey sugar glazed corn/grain cereal and overall sweetness.\r\n\r\nPossible additions:\r\n.25% TFA Cotton Candy (Ethyl Maltol). Used to take any harsh edges off, I tend to prefer it with it in the mix.",
+  "id": 55849,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55849/kiks.jpg",
+  "updated_at": "2020-12-07T17:34:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 650,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Lulzor",
+  "views": "3260",
+  "slug": "kix_cerealmilk_v2",
+  "total_flavoring": "7.65%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

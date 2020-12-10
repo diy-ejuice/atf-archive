@@ -1,0 +1,57 @@
+{
+  "name": "Moistest Cake",
+  "description": "A lovely coconut cream cake with extra moistness just for the Mixtress!\r\n\r\nSweeten to taste!",
+  "id": 183675,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/183675/mqdefault.jpg",
+  "updated_at": "2020-12-08T00:51:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fluffy White Cake SC",
+      "flavor_id": 9024,
+      "millipercent": 1500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Angel Cake SC",
+      "flavor_id": 9014,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 620,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Coconut Custard SC",
+      "flavor_id": 8363,
+      "millipercent": 1870,
+      "vendor": "WF"
+    },
+    {
+      "name": "Vanilla Custard Cheesecake",
+      "flavor_id": 6532,
+      "millipercent": 1730,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1849",
+  "slug": "moistest_cake",
+  "total_flavoring": "6.72%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "AussieShayno",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

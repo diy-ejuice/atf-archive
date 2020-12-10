@@ -1,0 +1,51 @@
+{
+  "name": "The Kennedy",
+  "description": "This is a pistachio cookie I mixed up awhile ago that's really smooth, creamy,  and rich with a nice pistachio flavor. Inspiration was from The Kennedy by Conspiracy Liquids. ",
+  "id": 80306,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/80306/pistachio.jpg",
+  "updated_at": "2020-12-08T00:49:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pistachio",
+      "flavor_id": 293,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel (original)",
+      "flavor_id": 149,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Steevsta",
+  "views": "1550",
+  "slug": "the_kennedy",
+  "total_flavoring": "15.0%",
+  "steep_days": "10",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Bjorncoetsee",
+      "score": "4",
+      "text": "Looks good"
+    }
+  ]
+}

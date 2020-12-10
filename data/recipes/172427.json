@@ -1,0 +1,50 @@
+{
+  "name": "Fall Fruit Yogurt",
+  "description": "Yogurt with cranberry, quince, and a touch of spice.  \r\nI find CAP Cranberry a little sweet, so I wanted to use it with a yogurt, rather than a cream base.  \r\nThe TPA Quince is the perfect compliment to the Cranberry.\r\nFLV Persimmon Spice is one of my favorites to add to fruit.  \r\nTested on Pixie, 0.27 ohm, 45 watt",
+  "id": 172427,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/172427/Cranberries-1770.jpg",
+  "updated_at": "2020-12-07T20:33:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cranberry",
+      "flavor_id": 41,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 615,
+      "millipercent": 2250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Persimmon Spice",
+      "flavor_id": 4424,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Quince",
+      "flavor_id": 264,
+      "millipercent": 250,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "goosegirl",
+  "views": "733",
+  "slug": "fall_fruit_yogurt",
+  "total_flavoring": "4.5%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

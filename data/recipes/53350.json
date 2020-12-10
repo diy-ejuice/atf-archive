@@ -1,0 +1,62 @@
+{
+  "name": "Fuzzy Peach",
+  "description": "Peach and citrus, quite creamy but an all round great flavour for the peach lover",
+  "id": 53350,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53350/Fuzzy_peach.jpg",
+  "updated_at": "2020-12-07T14:12:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Orange Creamsicle",
+      "flavor_id": 91,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 660,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 2,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "MesterWard",
+  "views": "1693",
+  "slug": "fuzzy_peach",
+  "total_flavoring": "11.5%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

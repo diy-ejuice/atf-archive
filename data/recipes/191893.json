@@ -1,0 +1,50 @@
+{
+  "name": "Rin's Apple Licorice",
+  "description": "Apple red licorice. \r\nFLV Red Apple as part of the red apple base.\r\nCAP Fuji Apple to add more apple flavor and a bit of tanginess\r\nCAP 27 Fish as part of the gummy/licorice base and to add a bit of depth.\r\nWF Gushy Fruit as the other part of the licorice base. Adds fruitiness and texture/body.\r\nOOO whipped cream at a low percentage to calm down some of the acidity of the apples",
+  "id": 191893,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191893/red_apple.png",
+  "updated_at": "2020-12-07T20:33:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Apple",
+      "flavor_id": 4446,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Gushy Fruit Candy SC",
+      "flavor_id": 9027,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "27 Fish",
+      "flavor_id": 8736,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Fuji Apple",
+      "flavor_id": 8456,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 6582,
+      "millipercent": 500,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "532",
+  "slug": "rins_apple_licorice",
+  "total_flavoring": "4.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

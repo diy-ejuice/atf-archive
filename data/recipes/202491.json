@@ -1,0 +1,62 @@
+{
+  "name": "helado de limon",
+  "description": "HELADO DE LIMON .FA Vanilla Ice Cream, FA Cream y FW Yogurt le dan un buen cuerpo al vape y cuidan la nota de helado.",
+  "id": 202491,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202491/limon.png",
+  "updated_at": "2020-12-07T09:46:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 1655,
+      "millipercent": 1000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Yogurt Greek",
+      "flavor_id": 1472,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Gelato",
+      "flavor_id": 185,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 660,
+      "millipercent": 10,
+      "vendor": "INW"
+    }
+  ],
+  "author": "CATA",
+  "views": "341",
+  "slug": "helado_de_limon",
+  "total_flavoring": "7.01%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

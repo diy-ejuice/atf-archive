@@ -1,0 +1,38 @@
+{
+  "name": "Cola Cola",
+  "description": "Simple shake and vape. Nice cola favor, the soda base adds a bit of effervescence and juiciness. WS-23 cools it down a bit. Comes off nice and sweet  but you can add some more if its your thing.",
+  "id": 94151,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/94151/Generic_Cola_Cans_1980s.jpg",
+  "updated_at": "2020-12-06T20:50:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "USA Pleasure (Cola)",
+      "flavor_id": 2830,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Soda Base – Super Concentrate",
+      "flavor_id": 7982,
+      "millipercent": 1200,
+      "vendor": "RF"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "rickj",
+  "views": "1414",
+  "slug": "cola_cola",
+  "total_flavoring": "4.95%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

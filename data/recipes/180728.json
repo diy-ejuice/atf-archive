@@ -1,0 +1,38 @@
+{
+  "name": "Mei Mei Milk",
+  "description": "Rich strawberry cream with a hint of peaches on the exhale.\r\nSweeten to taste.",
+  "id": 180728,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/180728/IMG_20200110_194908_418.jpg",
+  "updated_at": "2020-12-05T15:44:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream Dream",
+      "flavor_id": 5919,
+      "millipercent": 2000,
+      "vendor": "NR"
+    },
+    {
+      "name": "Strawberry Cheesecake SC",
+      "flavor_id": 10413,
+      "millipercent": 1700,
+      "vendor": "WF"
+    },
+    {
+      "name": "Strawberry (Juicy) SC",
+      "flavor_id": 10412,
+      "millipercent": 1300,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "836",
+  "slug": "mei_mei_milk",
+  "total_flavoring": "5.0%",
+  "steep_days": "4 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

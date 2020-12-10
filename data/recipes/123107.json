@@ -1,0 +1,44 @@
+{
+  "name": "Tropical Blue Slushie",
+  "description": "Attempt at a clone/inspiration from Keep it 100's Blue Raspberry Slushie Tropical. 1 drop of WS-23 per 30 for the ice.\r\n\r\nv2-Boosting the tropic up a bit to 2%. Adding Raspberry Sweet to help avoid the flatness LB Blue Raspberry can get on its own if it sits too long. Reduced sweetener a bit.\r\n\r\nThanks to DustinLee for his Keep it 100 Blue Raspberry Slushie clone attempt that I used as a launchpad.",
+  "id": 123107,
+  "image_url": null,
+  "updated_at": "2020-12-07T23:37:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 6000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Tropic",
+      "flavor_id": 7257,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Outofhand",
+  "views": "1963",
+  "slug": "tropical_blue_slushie",
+  "total_flavoring": "10.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "80%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

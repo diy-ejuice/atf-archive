@@ -1,0 +1,44 @@
+{
+  "name": "Enhanced Watermelon",
+  "description": "Layered watermelon with menthol.\r\nPerfect for hot summer I guess. I live in Ireland so what do I know about hot summer weather.\r\nShake and Vape.\r\nEnjoy.",
+  "id": 99400,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99400/UOQ8i7k.png",
+  "updated_at": "2020-12-01T07:51:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Big Watermelon",
+      "flavor_id": 1518,
+      "millipercent": 9000,
+      "vendor": "MB"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Jungle Juice",
+      "flavor_id": 1325,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Zupp6m6n",
+  "views": "1970",
+  "slug": "enhanced_watermelon",
+  "total_flavoring": "15.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

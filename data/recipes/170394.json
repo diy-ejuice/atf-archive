@@ -1,0 +1,44 @@
+{
+  "name": "Spiral Out",
+  "description": "A clone of one of my favorite vendor juices from before my DIY days. From the long defunct Cloud Pusher Labs comes Lateralus. This was a very straightforward papaya, orange, menthol mix. I went with one of my preferred Orange combos here, FW Blood Orange and CAP Sweet Tangerine. There's not much I can explain in detail about this one, its a simple, yet refreshing mix.\r\n\r\nThere's an easter egg in the recipe, try and find it!",
+  "id": 170394,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/170394/282b2f72b304ea853dd773d294415530.jpg",
+  "updated_at": "2020-12-07T14:14:11.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Aroma Arctic Winter (menthol Artic)",
+      "flavor_id": 514,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "EdibleMalfunction",
+  "views": "1242",
+  "slug": "spiral_out",
+  "total_flavoring": "7.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Golden Oreo custard",
+  "description": "This is my attempt at creating a light vanilla custard with crumbled golden Oreos. \r\n\r\nBiscuit/sugar cookie:  \r\nthis is the golden cookie without the cream \r\n\r\nMilk chocolate:\r\nThis is mainly the cream from inside the cookie with all the other flavors to mask the chocolate flavor since it's light from this flavor \r\n\r\nVanilla custard/ French vanilla ice cream:\r\nThis is the custard base\r\n\r\nSuper sweet:\r\nAdds some sugar to sweeten up mix\r\n\r\nLet me know what you think",
+  "id": 37478,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37478/IMG_0704.JPG",
+  "updated_at": "2020-12-06T05:10:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 4487,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 796,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Zamis45fingers",
+  "views": "1892",
+  "slug": "golden_oreo_custard",
+  "total_flavoring": "12.5%",
+  "steep_days": "3",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

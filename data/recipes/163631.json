@@ -1,0 +1,50 @@
+{
+  "name": "Custardy Sweet Leaf",
+  "description": "Really just took Verve's Sweet Leaf , split the vanilla's between Shisha Vanilla and Cap French Vanilla v2 , then threw some INW Custard at it. \r\nI added .5% Super Sweet because I like it on the sweet side but this would work fine without it. \r\n\r\nIt's ok as a SNV but after 5 days it's \"there\".",
+  "id": 163631,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163631/OldDudePipe.jpg",
+  "updated_at": "2020-12-06T20:51:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "French Vanilla V2",
+      "flavor_id": 57,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "OldMan",
+  "views": "834",
+  "slug": "custardy_sweet_leaf",
+  "total_flavoring": "8.25%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

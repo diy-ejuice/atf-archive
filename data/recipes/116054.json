@@ -1,0 +1,45 @@
+{
+  "name": "Dampferforum Erdbeer Milch simple",
+  "description": "Made as example for the Dampferforum Users based in Switzerland",
+  "id": 116054,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Echodub",
+  "views": "1295",
+  "slug": "dampferforum_erdbeer_milch_simple",
+  "total_flavoring": "9.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Brewdog_Kilo",
+      "score": "4",
+      "text": "very nice easy vape. Has to steep for a week or so."
+    }
+  ]
+}

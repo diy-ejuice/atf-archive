@@ -1,0 +1,67 @@
+{
+  "name": "Magic Juice",
+  "description": "Perfect Blend of Key Lime and Strawberry with a hint of Cheesecake.",
+  "id": 1444,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 4500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "seabterry",
+  "views": "1873",
+  "slug": "magic_juice",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "c"
+    },
+    {
+      "user": "Mixepic",
+      "score": "4",
+      "text": "Great blend of lime and strawberries. I get a slight throat hit from this mix however it accomplishes the flavor profile very well. "
+    }
+  ]
+}

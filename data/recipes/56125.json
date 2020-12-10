@@ -1,0 +1,80 @@
+{
+  "name": "Cinna'nut cereal",
+  "description": "This one was made for my girlfriend but it turned out amazing and super addicting. Based off Special K Cinnamon pecan cereal.\r\n\r\nCAP Cereal 27/FLV Cinnamon crunch/FLV Crunch cereal\r\nThese 3 create the cereal base. A lot of people dislike FLV crunch cereal, and I understand why. If you use it high it taste funky as hell, but at .75% WITH the cereal 27 it bends the flavor away from the standard corn cereal taking it more into a wheat grain cereal, and the cinnamon crunch brings some cinnamon sugar coated grain flavor to it to bring the base. \r\n\r\nFW Butter pecan/FA Nut mix\r\nBeing a pecan flavored cereal FW butter pecan was a pretty obvious choice, but I didn't want it to go to far into a candied nut flavor, so using FA nut mix in a small % adds a vague nut flavor without being to obviously any single nut in order to bolster the pecan flavor.\r\n\r\nFA cream fresh/TFA Van swirl/FA meringue/TPA toasted Marshmallow/FW Hazelnut\r\nA very basic creamy milk base. Adding the TPA toasted marshmallow to it brings some brown sugar type sweetness to the mix emulating the sugar mixing with the milk in the bottom of the bowl.\r\n\r\n*Optional*\r\nIf you want a slightly drier texture to it .25-.5% of AP will help with that. It's good without and depending on how you prefer the cereal would decided if and how much you'd use. ",
+  "id": 56125,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56125/Spec_k_cin_pecan.jpg",
+  "updated_at": "2020-12-05T11:04:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cinnamon Crunch",
+      "flavor_id": 611,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Crunch Cereal",
+      "flavor_id": 602,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Butter Pecan",
+      "flavor_id": 1212,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Trevorxgage",
+  "views": "1972",
+  "slug": "cinnanut_cereal",
+  "total_flavoring": "13.75%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

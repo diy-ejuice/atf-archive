@@ -1,0 +1,56 @@
+{
+  "name": "Apple Fritter",
+  "description": "",
+  "id": 18356,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:54:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Two Apples",
+      "flavor_id": 671,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Captain Crunch Type",
+      "flavor_id": 1231,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Acetyl Pyrazine ",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "LouisianaMixxxer",
+  "views": "1170",
+  "slug": "apple_fritter",
+  "total_flavoring": "14.5%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

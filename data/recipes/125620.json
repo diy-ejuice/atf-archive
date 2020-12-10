@@ -1,0 +1,57 @@
+{
+  "name": "AntDick Pie",
+  "description": "Strawberries and vanilla cream, slapped in a graham cracker crust! Named after my brother-in-law, Anthony Richard, who loves this stuff!",
+  "id": 125620,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 10000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BeardedFolk",
+  "views": "2025",
+  "slug": "antdick_pie",
+  "total_flavoring": "26.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "This reminded me how good TFA strawberry ripe can be on its own in a proper mix.  Some mixes need a bolstered, complex berry...some are like this and can be carried quite well with a simpler main note.  Tip o' the hat for this one."
+    }
+  ]
+}

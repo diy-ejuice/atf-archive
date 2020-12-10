@@ -1,0 +1,50 @@
+{
+  "name": "Blue Batter",
+  "description": "This is a modified Spoon Licker recipe. I always wanted a blueberry batter and this is it. Needs some steep time for everything to settle down. FW Yellow Cake can be subbed for the pound cake at about 2%",
+  "id": 91523,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:34:47.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pound Cake",
+      "flavor_id": 5072,
+      "millipercent": 500,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "tacofarhart",
+  "views": "1003",
+  "slug": "blue_batter",
+  "total_flavoring": "16.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

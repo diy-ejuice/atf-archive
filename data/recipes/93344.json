@@ -1,0 +1,38 @@
+{
+  "name": "Cucumis",
+  "description": "A simple, fresh, cucumber yogourt recipe. Inspired from the famous Tzatziki. Its meant to be a summer vape.\r\nCap Cucumber is the best cucumber hands down. It might not be really authentic, but its the tastiest.\r\nFlv Spearmint is a very good mint, no gummy note, not peppery. It has that green/vegetable note that adds complexity. I like that.\r\nCap Creamy Yogurt is awesome, its really soft, not sour like a real fresh yogourt, it adds thickness and a great mouthfeel.\r\nGood as a SNV better after few days.",
+  "id": 93344,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/93344/sliced-cucumber-on-wooden-table.jpg",
+  "updated_at": "2020-12-06T20:43:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cucumber",
+      "flavor_id": 43,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Spearmint",
+      "flavor_id": 618,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Nereth",
+  "views": "864",
+  "slug": "cucumis",
+  "total_flavoring": "10.5%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

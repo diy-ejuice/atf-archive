@@ -1,0 +1,56 @@
+{
+  "name": "Pudding Stuffed Croissant",
+  "description": "Delicious croissant stuffed with vanilla pudding. Sweeten to taste, for me 0.5 is enough. Enjoy.",
+  "id": 134543,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/134543/original-2-570x760.jpeg",
+  "updated_at": "2020-12-02T07:43:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Croissant SC",
+      "flavor_id": 9022,
+      "millipercent": 3000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Rice Pudding - SC",
+      "flavor_id": 7804,
+      "millipercent": 500,
+      "vendor": "RF"
+    }
+  ],
+  "author": "Gummy",
+  "views": "1174",
+  "slug": "pudding_stuffed_croissant",
+  "total_flavoring": "14.5%",
+  "steep_days": "10",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

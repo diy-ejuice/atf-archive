@@ -1,0 +1,80 @@
+{
+  "name": "Yumberry",
+  "description": "I've played with my berries a bit because I wanted to make a sweet and sour juice. ",
+  "id": 129252,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129252/Yumberry200x200.png",
+  "updated_at": "2020-12-06T23:08:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blue Raspberry (Candy)",
+      "flavor_id": 1957,
+      "millipercent": 2500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 614,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 700,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "vagdal",
+  "views": "1574",
+  "slug": "yumberry",
+  "total_flavoring": "13.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

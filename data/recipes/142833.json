@@ -1,0 +1,44 @@
+{
+  "name": "Outerworld - Arcturus",
+  "description": "Outerworld - Arcturus clone. Has taken about 10 goes to get it right, I was overthinking it, and using the wrong pomegranate.. Anyway. Here ya go!",
+  "id": 142833,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/142833/e7adeb6323ff6e8b4e9c0f9e0662e4f9.jpg",
+  "updated_at": "2020-11-30T07:48:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape Juice",
+      "flavor_id": 231,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pomegranate",
+      "flavor_id": 262,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Menthol (liquid)",
+      "flavor_id": 1353,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "Horsegame",
+  "views": "1251",
+  "slug": "outerworld_arcturus",
+  "total_flavoring": "7.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

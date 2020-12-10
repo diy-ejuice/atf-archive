@@ -1,0 +1,74 @@
+{
+  "name": "BlueMelon slushie",
+  "description": "this taste just like you would get from a slushie truck very refreshing for the summertime coming up give it a shot and mix this up guys even tho everyone hates me give it a shot",
+  "id": 48800,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:34:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry Lemonade Slushie - SC",
+      "flavor_id": 7730,
+      "millipercent": 5000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 2225,
+      "millipercent": 2000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 1458,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Conradvape",
+  "views": "2240",
+  "slug": "bluemelon_slushie",
+  "total_flavoring": "16.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "95",
+  "total_reviews": 2,
+  "recipe_score": 1,
+  "reviews": [
+    {
+      "user": "lolwtf",
+      "score": "1",
+      "text": ""
+    },
+    {
+      "user": "matthewkocanda",
+      "score": "1",
+      "text": "no."
+    }
+  ]
+}

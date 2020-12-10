@@ -1,0 +1,44 @@
+{
+  "name": "sour berry blast",
+  "description": "Simple fruit mix, that tastes great with out any steeping\r\n\r\nCAP Harvest Berry is the main note of this mix, a sweet mixed berry flavor\r\n\r\nFA Sour Wizard makes the berries pop and adds a slight sour candy note\r\n\r\nFA Polar Blast cools the mix without adding any menthol/koolada flavor to the game\r\n\r\nErythritol is used to punch up the natural sweetness of the Harvest Berry",
+  "id": 27791,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27791/sour_berry.jpg",
+  "updated_at": "2020-12-07T00:07:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sour Wizard",
+      "flavor_id": 4354,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Harvest Berry",
+      "flavor_id": 69,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Erythritol Solution",
+      "flavor_id": 4491,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "rickj",
+  "views": "1848",
+  "slug": "sour_berry_blast",
+  "total_flavoring": "8.5%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "30%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

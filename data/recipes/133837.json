@@ -1,0 +1,38 @@
+{
+  "name": "Pasteleion",
+  "description": "A Greek Traditional candybar with honey, sesame and nuts. Shake and vape.",
+  "id": 133837,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133837/pasteleion.jpg",
+  "updated_at": "2020-12-07T17:35:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeycomb",
+      "flavor_id": 8901,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Sesame Candy SC",
+      "flavor_id": 9044,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Honey Roasted Peanuts SC",
+      "flavor_id": 8371,
+      "millipercent": 700,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Alx86",
+  "views": "996",
+  "slug": "pasteleion",
+  "total_flavoring": "3.2%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

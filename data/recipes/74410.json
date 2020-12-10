@@ -1,0 +1,56 @@
+{
+  "name": "Stable Bones",
+  "description": "A sweet and salty maple butter.  The pumpkin spice should add several lovely subtleties to the mix.",
+  "id": 74410,
+  "image_url": null,
+  "updated_at": "2020-11-30T22:58:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 924,
+      "millipercent": 500,
+      "vendor": "LA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pumpkin Spice",
+      "flavor_id": 4436,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Saline (0.9%)",
+      "flavor_id": 5960,
+      "millipercent": 200,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1003",
+  "slug": "stable_bones",
+  "total_flavoring": "5.2%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Banana Taffy",
+  "description": "Was asked to make a banana taffy type vape and came up with this. I love FLV banana in this, its got a perfect artificial banana that blends well with banana cream. ",
+  "id": 83366,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83366/BTaffy.jpg",
+  "updated_at": "2020-12-06T23:07:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Taffy Base – SC",
+      "flavor_id": 7557,
+      "millipercent": 3000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Banana",
+      "flavor_id": 603,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "1522",
+  "slug": "banana_taffy",
+  "total_flavoring": "5.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

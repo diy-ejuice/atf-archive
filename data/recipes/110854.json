@@ -1,0 +1,45 @@
+{
+  "name": "Grievance (POD)",
+  "description": "This is a bang on Belmont clone. It tastes better than the original!",
+  "id": 110854,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Melon Cantaloupe",
+      "flavor_id": 529,
+      "millipercent": 3500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "1994",
+  "slug": "grievance_pod",
+  "total_flavoring": "15.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Clearkill",
+      "score": "5",
+      "text": "Really nice juicy melon flavor here, I've been enjoying the hell out of this."
+    }
+  ]
+}

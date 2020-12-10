@@ -1,0 +1,63 @@
+{
+  "name": "Apple Cake",
+  "description": "it's just flat out tasty. Like a cake made with apple sauce and a good bit of cinnamon. \r\n\r\nBecause of the Cake batter, this is not recommended until a week has passed.",
+  "id": 146488,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146488/apple-cake-TR.jpg",
+  "updated_at": "2020-12-08T00:50:51.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 160,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Green Apple",
+      "flavor_id": 67,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Golden Butter",
+      "flavor_id": 60,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Foment_life",
+  "views": "1498",
+  "slug": "apple_cake",
+  "total_flavoring": "12.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "BananaSlamma",
+      "score": "4",
+      "text": "This recipe is incredibly refreshing. It vaguely reminds me of the filling in an apple strudel then the cake pops in and just completes the experience. "
+    }
+  ]
+}

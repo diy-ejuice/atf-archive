@@ -1,0 +1,68 @@
+{
+  "name": "Tiger Tail Ice Cream",
+  "description": "Orange Black Licorice ice cream.\r\n\r\nA ribbon of black licorice swirled into an orange-flavored ice cream base gives this tiger its stripes.\r\n\r\nTheres no need to re-invent the wheel so i used the trinity of Vanilla Ice Cream TPA Vanilla Swirl+ LB Vanilla Ice Cream + HS French Vanilla ice cream and added VTA Orange marmalade to give a bit of tangy zesty orange notes in combination with CAP Juicy Orange, as being a ver flat orange flavour works really well in this ice cream.\r\n\r\nThe interesting notes are given by the mixture of Licorice, FW ( Candy type) and CAP( More towards a clean Licorice Flavour).\r\nDont be afraid of getting too much licorice as it is pretty blended in the cream.",
+  "id": 194032,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194032/IMG_1766.JPG",
+  "updated_at": "2020-12-07T17:36:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black Licorice",
+      "flavor_id": 1192,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Licorice",
+      "flavor_id": 10166,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Orange Marmalade",
+      "flavor_id": 9895,
+      "millipercent": 3000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Juicy Orange",
+      "flavor_id": 80,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 750,
+      "vendor": "HS"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 6000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "VenSyBoy",
+  "views": "481",
+  "slug": "tiger_tail_ice_cream",
+  "total_flavoring": "14.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

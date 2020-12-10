@@ -1,0 +1,56 @@
+{
+  "name": "Gonzo (Blueberry Milk)",
+  "description": "You like blueberries? Try this lavish blueberry milk. Enjoy.",
+  "id": 181001,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181001/blueberry_milk19thumb.jpg",
+  "updated_at": "2020-12-08T00:51:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Milk",
+      "flavor_id": 523,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Yoghurt Drink",
+      "flavor_id": 9901,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry Candy",
+      "flavor_id": 8835,
+      "millipercent": 3000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Silky",
+  "views": "2283",
+  "slug": "gonzo_blueberry_milk",
+  "total_flavoring": "10.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

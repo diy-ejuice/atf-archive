@@ -1,0 +1,44 @@
+{
+  "name": "Vanilla Coconut Test v1",
+  "description": "I am on a quest to develop the ultimate vanilla and coconut tobacco profile, with a hint of toffee. Ii first feel I need to develop a vanilla coconut base before moving forward.",
+  "id": 159348,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:51:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Caramel Candy",
+      "flavor_id": 150,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Holy Vanilla",
+      "flavor_id": 2385,
+      "millipercent": 1500,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Dx Coconut Candy",
+      "flavor_id": 229,
+      "millipercent": 2400,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Sareph",
+  "views": "645",
+  "slug": "vanilla_coconut_test_v1",
+  "total_flavoring": "8.4%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

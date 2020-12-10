@@ -1,0 +1,56 @@
+{
+  "name": "Blueberry glazed doughnut",
+  "description": "Still a Work in Progress, needs the steeping or it might be a little to sharp.\r\n\r\nThis Version is still under steeping, the original had 4% CAP glazed doughnut in it, which is too much. ",
+  "id": 188765,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:40:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "insan0r",
+  "views": "648",
+  "slug": "blueberry_glazed_doughnut",
+  "total_flavoring": "10.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

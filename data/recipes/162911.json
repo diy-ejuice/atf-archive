@@ -1,0 +1,56 @@
+{
+  "name": "Banoffee",
+  "description": "My first attempt at trying something from scratch using my culinary knowledge. I'm trying to get the smoothness of caramel and banana with a biscuit base finished with a smooth fresh cream and a hint of chocolate.1 day taste is pleasing me for the caramel/banana flavourings but I'm not quite getting the fresh cream I was looking for. It tastes like a banana Twix. Im going to let this sit and I'll report back",
+  "id": 162911,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162911/Unknown.jpg",
+  "updated_at": "2020-12-07T21:33:08.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Caramel (original)",
+      "flavor_id": 149,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "bororeddaz",
+  "views": "1263",
+  "slug": "banoffee",
+  "total_flavoring": "12.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

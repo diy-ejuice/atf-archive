@@ -1,0 +1,50 @@
+{
+  "name": "Panther Blood",
+  "description": "I've always thought TFA Blackberry & INW Grape would go well together, and because I'm having a bit of a love affair with WS-23 right now, I decided to mix up a darker take on a Tiger's Blood Snow Cone. This is only the first stab at it, so I'm wondering if I should lower the FA Forest Fruit a bit and maybe add a touch of Dragonfruit as an emulsifier, but, for the moment, it's fun and tasty enough to share as it is.\r\n\r\nThis is a shake & vape, but, if you're at all squeamish about INW Cactus, give it 3 days, and the actual flavor of it will disappear, leaving behind only the exquisite juiciness.",
+  "id": 151840,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151840/5FB53521-3CC4-4AD8-A320-B3F3273D6C49.jpeg",
+  "updated_at": "2020-12-07T17:35:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blackberry",
+      "flavor_id": 214,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Forest Fruits",
+      "flavor_id": 4890,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Grape",
+      "flavor_id": 784,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "RuntDastardly",
+  "views": "1784",
+  "slug": "panther_blood",
+  "total_flavoring": "8.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

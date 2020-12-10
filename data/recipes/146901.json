@@ -1,0 +1,44 @@
+{
+  "name": "Iceberry",
+  "description": "Berry mix with some cucumbers. Hopefully taster better than last mix.",
+  "id": 146901,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:17:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Mix",
+      "flavor_id": 5899,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Extreme Ice",
+      "flavor_id": 1280,
+      "millipercent": 400,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 534,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 4000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "YourMainMatt",
+  "views": "894",
+  "slug": "iceberry",
+  "total_flavoring": "8.15%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

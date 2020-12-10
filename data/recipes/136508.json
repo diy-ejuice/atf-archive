@@ -1,0 +1,57 @@
+{
+  "name": "Grape Lemonade, or an homage to purple drank.",
+  "description": "There is snow on the ground here in Midwest, USA and I can't fathom a more perfect time to post this recipe for a nice glass of cool grape lemonade. The best grape that I found (that I personally have experience with anyway) to work in a lemonade is INW Grapes, sitting right at 4% here. This is a bit high for this particular flavor but we need to push it to its limit to keep up against that powerful wall of lemon goodness that is our lemonade base. \r\n\r\nWe create said lemonade by blatantly stealing Vurve's base from his Best Damn Pink Lemonade recipe, namely the 6% LA Lemonade and 0.75% FA Lemon Sicily. It works so well that we don't have to look any farther, for now there is no need to reinvent the wheel. \r\n\r\nWe must also add a little cooling to make it a lemonade and not a grape lemonheads candy. WS23 is my personal go to at 0.15% in this instance. You can go higher and turn this into a full blown slushy type mix if you desire, but that's a little too hardcore for my liking. \r\n\r\nSweetener is optional as always, though it does add a little bump to the overall sweetness of the mix and seems to round everything off pretty well.\r\n\r\nAs all lemonades go, it's better fresh, after a week or so the lemon drops off heavily. I don't mix more than I can vape in about 4 or 5 days. Mix before bed and enjoy in the morning.",
+  "id": 136508,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136508/grape_lemonade.jpg",
+  "updated_at": "2020-12-08T00:50:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 6000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Grapes",
+      "flavor_id": 9189,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 150,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "RockyHarlow",
+  "views": "2148",
+  "slug": "grape_lemonade_or_an_homage_to_purple_drank",
+  "total_flavoring": "11.15%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 2,
+  "reviews": [
+    {
+      "user": "nickdurcholz",
+      "score": "2",
+      "text": "Good as a shake-n-vape, but gunks up coils quickly and gets funky after a week."
+    }
+  ]
+}

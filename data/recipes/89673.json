@@ -1,0 +1,50 @@
+{
+  "name": "Apricot Sweet Tea",
+  "description": "Fruity black tea with sweet cream to balance it out - apricot strawberry and black currant",
+  "id": 89673,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89673/pexels-photo-209594.jpeg",
+  "updated_at": "2020-12-07T23:36:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Apricot",
+      "flavor_id": 5502,
+      "millipercent": 2000,
+      "vendor": "MFS"
+    },
+    {
+      "name": "Black Tea",
+      "flavor_id": 344,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Black Currant",
+      "flavor_id": 213,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "spicygal",
+  "views": "962",
+  "slug": "apricot_sweet_tea",
+  "total_flavoring": "9.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

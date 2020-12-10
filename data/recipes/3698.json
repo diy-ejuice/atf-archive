@@ -1,0 +1,57 @@
+{
+  "name": "Strawberry Madness",
+  "description": "Strawberry Custard",
+  "id": 3698,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 7500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "seabterry",
+  "views": "1398",
+  "slug": "strawberry_madness",
+  "total_flavoring": "18.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Wilciws",
+      "score": "5",
+      "text": "This is one solid recipe! I must admit that I din't mix it according to the recipe, since I am missing a few flavors. I replaced the CAP French Vanilla with TFA at same percentage, and didn't add the TPA Cotton Candy. Mixed it up last night, and I really love it. The Cheesecake (Graham Crust) is a wonderful addition to this. The lingering Graham taste on the exhale is delightful. Thank you for sharing this, I will definitely be adding this to my normal rotation! :D"
+    }
+  ]
+}

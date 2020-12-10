@@ -1,0 +1,44 @@
+{
+  "name": "Watermelon Cream",
+  "description": "This is my Watermelon cream with a hint of lemon. This one is different but I can't put it down.",
+  "id": 44226,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/44226/3feb468ef067a099454af5c3396b1413.jpg",
+  "updated_at": "2020-12-05T19:49:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Watermelon",
+      "flavor_id": 674,
+      "millipercent": 6000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Cake",
+      "flavor_id": 661,
+      "millipercent": 3000,
+      "vendor": "INW"
+    }
+  ],
+  "author": "KarlitoJackson",
+  "views": "1994",
+  "slug": "watermelon_cream",
+  "total_flavoring": "12.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

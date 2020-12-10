@@ -1,0 +1,38 @@
+{
+  "name": "Serially Easy Lime Yogurt",
+  "description": "Super easy, sweet lime greek yogurt. Add .5% FLV Sweet Coconut for a little extra depth.\r\n\r\nIf it's not sweet enough, 1% TFA Sweetener or .5% CAP Super Sweet.",
+  "id": 9979,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9979/hangouts.PNG",
+  "updated_at": "2020-12-08T00:48:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 615,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SkiddlzNinja",
+  "views": "4750",
+  "slug": "serially_easy_lime_yogurt",
+  "total_flavoring": "9.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

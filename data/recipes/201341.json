@@ -1,0 +1,50 @@
+{
+  "name": "Chocolate Cookie Cereal",
+  "description": "CAP Cereal 27, FA Meringue and FW Yogurt make a great cereal with milk base for you to build whatever profile you like on top of.\r\n\r\nCAP Sugar Cookie blends in nicely with Cereal 27 to make a nice cookie cereal.\r\n\r\nMB Glamour Chocolate to give just a hint of chocolate chips.\r\n\r\nI sweeten with 0.5% CAP Super Sweet.\r\n\r\nWatch the Video Here:\r\nhttps://youtu.be/LCOwXKOyuwU",
+  "id": 201341,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:36:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Glamour Chocolate",
+      "flavor_id": 1552,
+      "millipercent": 2500,
+      "vendor": "MB"
+    }
+  ],
+  "author": "RUG_ly",
+  "views": "528",
+  "slug": "chocolate_cookie_cereal",
+  "total_flavoring": "10.5%",
+  "steep_days": "5",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

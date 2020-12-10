@@ -1,0 +1,74 @@
+{
+  "name": "Java Juice",
+  "description": "Chocolate, caramel, and hazelnut coffee with cream and sugar and a hint of  tobacco.\r\n",
+  "id": 72373,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/72373/billmurray2.jpg",
+  "updated_at": "2020-12-07T03:31:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate Fudge Brownie V2",
+      "flavor_id": 33,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 3750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Mocca (mocha)",
+      "flavor_id": 798,
+      "millipercent": 630,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cappuccino V2",
+      "flavor_id": 25,
+      "millipercent": 3750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pistachio",
+      "flavor_id": 293,
+      "millipercent": 3750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 2500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "mysterioso",
+  "views": "1600",
+  "slug": "java_juice",
+  "total_flavoring": "19.68%",
+  "steep_days": "7",
+  "best_vg": "72%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

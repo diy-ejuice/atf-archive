@@ -1,0 +1,45 @@
+{
+  "name": "Banana Custard for Pod/MTL",
+  "description": "This recipe started because I received a lot of good feedback on my [1-2-3 Banana Custard](https://alltheflavors.com/recipes/164454). I also went on to try about 50 different banana flavorings for this episode of [Noted](https://www.youtube.com/watch?v=XoHa4Ei0sKs&t=4675s).\r\n\r\nThe biggest complaint I was getting was that TFA Banana Cream brought out a little bit of runtiness for some people. I eliminated that issue by swapping it for FLV Banana. FLV Banana is the creamiest banana out there and has an amazing mouthfeel. Unfortunately, it also comes with a little bit of a laffy taffy flavor. \r\n\r\nI really did not want to make another plain Banana Custard so I decided to adapt this for a pod. This involved tinkering with the %s a bit, but the end result is amazing. Also, since it is a pod, the laffy taffy notes from FLV Banana do not seem to be coming through. This retains all the flavor from the original recipe, but it adds a better mouthfeel, has no candy off-notes, and is built for the convenience of your pod/MTL devices!",
+  "id": 186050,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186050/Banana_Custard.jpg",
+  "updated_at": "2020-12-08T00:51:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Banana",
+      "flavor_id": 603,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banana Custard",
+      "flavor_id": 8825,
+      "millipercent": 3000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "UnappreciatedRobot",
+  "views": "1283",
+  "slug": "banana_custard_for_podmtl",
+  "total_flavoring": "6.5%",
+  "steep_days": "4 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "ID10-T",
+      "score": "5",
+      "text": "Well, what do you know, a banana pudding in a pod?! This is more flavorful than just about anything I've put in these Caliburn pods to date and really tastes like banana pudding. I didn't think the custard would come though, but it does. Obviously not as thick and rich as it would be in nice flavor atty, but it's really there. The banana obviously does, too, and without tasting like runts, just like the exaggerated banana flavor you get from a nana puddin. Thank you for this!!! "
+    }
+  ]
+}

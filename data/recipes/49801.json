@@ -1,0 +1,44 @@
+{
+  "name": "LemStrawb Hazard",
+  "description": "Rich sweet strawberry Lemonade, used the ripe to give it more of a genuine strawberry flavour then the supersweet as a kicker!",
+  "id": 49801,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49801/Strawberry-sparkling-lemonade.jpg",
+  "updated_at": "2020-11-29T06:13:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 5500,
+      "vendor": "LA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry (Ripe)",
+      "flavor_id": 6668,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Jacob55",
+  "views": "918",
+  "slug": "lemstrawb_hazard",
+  "total_flavoring": "12.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "100%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

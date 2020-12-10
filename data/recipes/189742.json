@@ -1,0 +1,44 @@
+{
+  "name": "Grape Soda",
+  "description": "I wanted a refreshing soda profile. Grape can be a little cough syrup-like, so I went with a grape juice. The fizz pop gives it that soda taste and feel especially after a few days steep. I wanted a little acidity in there like real soda has, hence the added lemon. Soda is extra sweet so the super sweet is also in there. ",
+  "id": 189742,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189742/6B638F75-206B-4A9E-B2E2-22E5B2095A10.jpeg",
+  "updated_at": "2020-12-07T10:44:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Fizz Pop",
+      "flavor_id": 10291,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Grape Juice",
+      "flavor_id": 231,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon (water Soluble)",
+      "flavor_id": 243,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "enzonik",
+  "views": "583",
+  "slug": "grape_soda",
+  "total_flavoring": "8.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

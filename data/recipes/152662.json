@@ -1,0 +1,50 @@
+{
+  "name": "Yum yum yogurt",
+  "description": "Creamy yogurt fruit medley. Tasty as can be. Please leave a review if you mix.",
+  "id": 152662,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152662/646B6CF6-E0D5-4372-BCD5-1F6C5228EB89.jpeg",
+  "updated_at": "2020-12-07T17:35:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Forrest Mix (forest Fruit Mix)",
+      "flavor_id": 453,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 614,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 5000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1270",
+  "slug": "yum_yum_yogurt",
+  "total_flavoring": "13.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

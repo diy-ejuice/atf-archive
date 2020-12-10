@@ -1,0 +1,50 @@
+{
+  "name": "Caramely Custard",
+  "description": "FW Caramel Candy and FW Salted Caramel make up the rich gooey caramel layer much like a chewy caramel candy\r\n\r\nFW Bavarian Cream adds a layer of smoothness to the caramel to give it more of a creamy texture, also boosts the custard\r\n\r\nINW Custard provides the rich and thick custard base\r\n\r\nSteep time: Pretty solid for a SnV using INW Custard, almost a Creme Brule at first. It starts to pop out and blend at the 4 day mark but shines up at the week mark.\r\n\r\nPhoto from: https://www.allrecipes.com/recipe/245943/salted-caramel-custard/",
+  "id": 196422,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196422/custard_caramel.jpg",
+  "updated_at": "2020-12-07T22:34:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel Candy",
+      "flavor_id": 1233,
+      "millipercent": 2350,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Johnny2Vapes",
+  "views": "771",
+  "slug": "caramely_custard",
+  "total_flavoring": "10.1%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Coldstone Base a la OOO",
+  "description": "Just a simple base that would accept any fruit that you want to throw at it. So grab your OOOs and some fruits concentrates and play.",
+  "id": 42868,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/42868/base_logo_new.png",
+  "updated_at": "2020-12-05T08:04:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "sweetener (sucralose)",
+      "flavor_id": 2313,
+      "millipercent": 250,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Waffle Cone",
+      "flavor_id": 8496,
+      "millipercent": 2500,
+      "vendor": "FW"
+    }
+  ],
+  "author": "KRUCIAL",
+  "views": "1691",
+  "slug": "coldstone_base_a_la_ooo",
+  "total_flavoring": "6.75%",
+  "steep_days": "5",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

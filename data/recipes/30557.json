@@ -1,0 +1,44 @@
+{
+  "name": "Darkheart Milkshake",
+  "description": "A S&V  dark chocolate and raspberry milkshake.  With valentines day coming up, this is a darker play on a sweetheart shake.  The original is a bit of a sugar bomb, especially with the whipped cream on top.  I wanted to really push that dark chocolate to front, and bring in a fruit syrup that was tarter and darker than the original cherry.\r\n\r\nCAP Vanilla Bean Ice Cream- The ice cream base for the milkshake. I needed some fairly rich ice cream, both to hit the profile and to help carry the drier FA Cocoa.  I've went with CAP because TFA's VBIC has that black pepper note and some dryness that needs to steep out.  3% was enough to get a fuller, richer ice cream flavor without getting too dense.\r\n\r\nTFA Bavarian Cream-  Thicker cream notes, heavy body, and most importantly works as a S&V. At 2%, without steeping, that nutty off-flavor works as a stand-in for the malty notes you'd expect from a milkshake.  The volume and sweetness gives you some of what you'd get from using a separate marshmallow concentrate or a whipped cream to top the shake.\r\n\r\nFA Cocoa- Dark cocoa powder that works as a S&V.  1.25% gives a punch of dark chocolate.  The richness of the milkshake base fills the cocoa out and works to counteract any of the chalky texture you get can get from a drier chocolate concentrate.\r\n\r\nFW Razzleberry-  Bright, syrupy, raspberry with just a bit of darker blackberry flavor.  Almost a \"maraschino\" raspberry flavor,  Not floral, so works well without a steep.  Stands in for a raspberry syrup added into the milkshake before blending.\r\n\r\nAnd that's it. My S&V milkshake.  Like all the other rounds, the true challenge here is in the restrictions. I felt like the S&V restriction was the biggest design challenge, although keeping a full milkshake flavor down to 4 concentrates also presents some issues.  It was all about watching out for those unsteeped off-notes from dairy concentrates, while trying to build that milkshake base as simply as possible so I had some space to create an engaging flavor.  \r\n\r\nI mixed at 70% VG / 30% PG, with 1.5mg nic, but follow your heart. Works fine at 60/40.",
+  "id": 30557,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30557/darkheart.jpg",
+  "updated_at": "2020-12-07T14:12:08.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cocoa",
+      "flavor_id": 496,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Razzleberry",
+      "flavor_id": 1393,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ConcreteRiver",
+  "views": "3664",
+  "slug": "darkheart_milkshake",
+  "total_flavoring": "9.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "70%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

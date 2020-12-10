@@ -1,0 +1,44 @@
+{
+  "name": "RhubarbStraw a.k.a. Rhabarberkadabra",
+  "description": "Trying to replicate tantedampf.de's (Berlin's best vape shop) \"Rhabarberkadabra\", \r\nwhich is a rather sweet rhubarb/strawberry blend with a hint of vanilla custard.\r\n\r\nAs of now, I'm not all that close to the original but do love it, anyway. \r\n\r\nIt's way less sweet than the original, so I ordered a couple of alternatives to my current 1,5% CremeFresh topping in order to try and get closer to the original's sweetness. \r\n\r\nNevertheless, this rather sour incarnation is a pretty nice vape in it's own right, already!\r\n\r\nNote:\r\nI couldn't find any brand name Rhubarb flavouring here in Germany, so mine is actually \"[FlavourDorado] Rhabarber\" (German supplier/repackager?) and _not_ \"[INW] Rhubarb\".\r\nFlavourDorado's proposed dosage range says 1.5 - 2.5 % for their Rhubarb\r\nYou will want to adjust your percentages based on your particular Rhubarb flavouring\r\n\r\nIf anyone has an idea about which bigger brand name flavouring FlavourDorado is repackaging, please let me know!",
+  "id": 33328,
+  "image_url": null,
+  "updated_at": "2020-12-05T11:04:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Rhubarb (yc)",
+      "flavor_id": 711,
+      "millipercent": 3500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "dalib",
+  "views": "851",
+  "slug": "rhubarbstraw_aka_rhabarberkadabra",
+  "total_flavoring": "15.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

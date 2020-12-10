@@ -1,0 +1,62 @@
+{
+  "name": "Monte Carlo",
+  "description": "Monte Carlo biscuits are an Australian sweet biscuit that have been manufactured since 1926 by Arnott's Biscuits Holdings.\r\n\r\nEach biscuit comprises two biscuit layers sandwiching a creamy filling, while many such biscuits are molded to a design, both sides of the Monte Carlo biscuit are rough. The biscuit layers have a mild taste of golden syrup, honey and coconut, and the cream layer consists of a vanilla flavoured cream filling surrounded by a thin toffee-like coating of raspberry jam. \r\n\r\nIf you want coconut, add 0.4% vt desiccated coconut. ",
+  "id": 166197,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/166197/cookie-monte-carlo.jpg",
+  "updated_at": "2020-12-06T04:12:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit Base",
+      "flavor_id": 8828,
+      "millipercent": 3000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Golden Syrup",
+      "flavor_id": 8887,
+      "millipercent": 400,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Cream",
+      "flavor_id": 8992,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Buttercream Frosting",
+      "flavor_id": 8990,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Wild Raspberry",
+      "flavor_id": 4312,
+      "millipercent": 400,
+      "vendor": "MF"
+    },
+    {
+      "name": "Raspberry Jam",
+      "flavor_id": 9373,
+      "millipercent": 1200,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cookie Butter SC",
+      "flavor_id": 10406,
+      "millipercent": 1400,
+      "vendor": "WF"
+    }
+  ],
+  "author": "wadeyloops",
+  "views": "1124",
+  "slug": "monte_carlo",
+  "total_flavoring": "8.4%",
+  "steep_days": "5",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

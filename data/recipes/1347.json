@@ -1,0 +1,63 @@
+{
+  "name": "Black and Blue",
+  "description": "Bang Bang",
+  "id": 1347,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 214,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "French Vanilla Creme",
+      "flavor_id": 168,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Mixepic",
+  "views": "1635",
+  "slug": "black_and_blue",
+  "total_flavoring": "12.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

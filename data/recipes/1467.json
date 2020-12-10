@@ -1,0 +1,63 @@
+{
+  "name": "Summer Bash",
+  "description": "A well-rounded summer-fruit vape. Refreshing and wonderful. Smooth but full-bodied. \r\n\r\nPink Guava is at 1 drop per 15mL (out of the standard FLV bottle, should be ~0.2%)\r\n\r\n70VG/30PG\r\n\r\nSteep: Short (1-2 days)\r\n\r\nTasting notes:\r\n\r\nStrawberry Ripe and Apricot provide a smooth and heavy base for the lighter flavors to sit on.\r\n\r\nJuicy peach, Pear, and Guava have potent and upfront top notes that punch your tongue on the inhale. \r\n\r\nSweet and tangy honeydew on the exhale. ",
+  "id": 1467,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:06:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Apricot",
+      "flavor_id": 209,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 200,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "Shrine399",
+  "views": "1342",
+  "slug": "summer_bash",
+  "total_flavoring": "12.2%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "mn"
+    }
+  ]
+}

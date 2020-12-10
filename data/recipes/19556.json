@@ -1,0 +1,67 @@
+{
+  "name": "Frosted Lemonade",
+  "description": "Like those desserts from Chick-Fil-A, this tastes like lemonade blended with milk, cream with an added hint of vanilla",
+  "id": 19556,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/19556/ChickfilA-Frosted-Lemonade.png",
+  "updated_at": "2020-12-08T00:48:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 3072,
+      "millipercent": 1000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 6000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 400,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "EdibleMalfunction",
+  "views": "3717",
+  "slug": "frosted_lemonade",
+  "total_flavoring": "11.4%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 4.3,
+  "reviews": [
+    {
+      "user": "CygnusY1",
+      "score": "5",
+      "text": ""
+    },
+    {
+      "user": "ConcreteRiver",
+      "score": "4",
+      "text": "Tastes a lot like a really awesome lemon cake milkshake. I'm head over heels for the use of TPA Malted Milk here as well.  I'd go a different direction if you want a hyper-realistic lemonade, but if you just want delicious then hells yeah, mix this up."
+    },
+    {
+      "user": "ID10-T",
+      "score": "4",
+      "text": "This a tasty lemon milk/lemon cream recipe that I wouldn't hesitate to recommend to anyone in search of this kind of profile. I like it almost as much as my own Frosted Lemonade recipe ;)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ice Milk",
+  "description": "This is a simple Vanilla Bean Ice Cream base. I used Wayne's ice cream base he posted and added caramel. By adding LA Caramel, it gives a heavier richness to the VBIC. I think you could pair just about any fruit with this base. I am very new to mixing and would appreciate any critiques of this base.  Most of my recipes  are mixed at maxVG.",
+  "id": 25921,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25921/Caramel_Ice_Cream.jpg",
+  "updated_at": "2020-12-07T11:43:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 929,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "folkart",
+  "views": "2532",
+  "slug": "ice_milk",
+  "total_flavoring": "5.5%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

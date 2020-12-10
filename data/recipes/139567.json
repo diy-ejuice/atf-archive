@@ -1,0 +1,51 @@
+{
+  "name": "Creemy pistachio",
+  "description": "A simple 3 ingredient pistachio ice cream, not too thick, heavy, and sweet like most of the commercial ones. I chose FW Vbic because I like the bright vanilla and good but not overbearing cream flavor. And used HS cream just to add a touch of heavy cream, I suppose FLV cream would work also. ",
+  "id": 139567,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/139567/cartons_other_light-pistachio-almond.jpg",
+  "updated_at": "2020-12-08T00:50:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pistachio",
+      "flavor_id": 293,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DumHed",
+  "views": "1761",
+  "slug": "creemy_pistachio",
+  "total_flavoring": "6.75%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "jbird",
+      "score": "5",
+      "text": "Great 3 flavor recipe! Everything is well balanced. FW VBIC is a good choice because it's not too eggy and rich. Keeping HS Cream low gave this a very nice mouthfeel, while not getting too buttery. Not overly complicating the creams let the pistachio shine and be the main focus. Great job!!"
+    }
+  ]
+}

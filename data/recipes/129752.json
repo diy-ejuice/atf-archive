@@ -1,0 +1,44 @@
+{
+  "name": "Godfrey's Blueberry Lemonade",
+  "description": "A simple yet tasty lemonade with sweet blueberries.\r\n\r\n-------------------\r\n\r\nCan be kind of harsh off of the shake, but after a few days of steeping the flavor smooths out drastically.",
+  "id": 129752,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129752/blueberry-lemonade-0305-June-03-2017.jpg",
+  "updated_at": "2020-12-08T00:50:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pink Lemonade",
+      "flavor_id": 1500,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Sublimeice",
+  "views": "985",
+  "slug": "godfreys_blueberry_lemonade",
+  "total_flavoring": "4.75%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

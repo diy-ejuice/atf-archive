@@ -1,0 +1,51 @@
+{
+  "name": "Aroma tobacco",
+  "description": "a strong aromatic tobacco recipe,combining different tobacco concentrates,but with similar notes and characteristics.earthy-spicy-leathery-creamy-woodsy.tobacco dnb adds a ashy note which is necessary to calm down all the different aromas.enjoy!",
+  "id": 75187,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:49:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Am4a By Inwera",
+      "flavor_id": 748,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Native Tobacco",
+      "flavor_id": 4393,
+      "millipercent": 3000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Tobacco Turkish",
+      "flavor_id": 699,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tobacco Dirty Neutral (dnb)",
+      "flavor_id": 2186,
+      "millipercent": 700,
+      "vendor": "INW"
+    }
+  ],
+  "author": "nks",
+  "views": "2309",
+  "slug": "aroma_tobacco",
+  "total_flavoring": "5.2%",
+  "steep_days": "20",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "asmirm",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

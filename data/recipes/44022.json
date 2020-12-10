@@ -1,0 +1,38 @@
+{
+  "name": "PappyLand",
+  "description": "A simple 3 ingredient fruit mix.\r\n\r\nBright Guava and Papaya upfront\r\n\r\nwith a mellow Mellon exhale.\r\n\r\n* I like my mix with 2 drops of pink guava per 30 ml\r\n",
+  "id": 44022,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/44022/pappyland1.gif",
+  "updated_at": "2020-12-07T22:32:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 130,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "ItsKame",
+  "views": "1696",
+  "slug": "pappyland",
+  "total_flavoring": "5.13%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Reese's McFlurry ",
+  "description": "A well balanced Reese's pieces McFlurry just like you get from McDonals. Brought to your home in vape form. The combination of the FW Hazelnut along with INW and TFA Double Chocolate clear create a great chocolate flavor mimicking the outer layer of a Reese's, with the peanut butter as the filling. I replaced the INW milk chocolate with FLV Milk chocolate because INW changed the ingredients and I actually think the FLV works better. FA Cream Fresh and Cap Vanilla Bean Ice Cream is the ice cream base I like to use, and I added the FA caramel to give it a little bit of darkness and richness that you get with a McDonals Reese's McFlurry. And of course a little sweetener to sweeten everything up. Hope you all enjoy!",
+  "id": 32600,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32600/IMG_3351.JPG",
+  "updated_at": "2020-12-08T00:49:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 291,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 4500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Milk Chocolate",
+      "flavor_id": 4389,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "MrColdOne",
+  "views": "4312",
+  "slug": "reeses_mcflurry",
+  "total_flavoring": "12.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "450",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "NJDAVE",
+      "score": "5",
+      "text": "Great recipe! Definitely well balanced. I get peanut butter up front, delicious vanilla ice cream and a hint of chocolate in the back. ADV. Well done"
+    }
+  ]
+}

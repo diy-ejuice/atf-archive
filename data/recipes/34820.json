@@ -1,0 +1,32 @@
+{
+  "name": "Pienanna",
+  "description": "Pineapple, Banana flavored juice. Good as a shake and vape, but gets better with a few days steep. ",
+  "id": 34820,
+  "image_url": null,
+  "updated_at": "2020-11-26T11:54:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Banana",
+      "flavor_id": 12,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "MacMcM",
+  "views": "988",
+  "slug": "pienanna",
+  "total_flavoring": "8.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

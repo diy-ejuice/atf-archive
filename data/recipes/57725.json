@@ -1,0 +1,50 @@
+{
+  "name": "PB&A",
+  "description": "I see lots of recipes for peanut butter with banana and/or chocolate, but I don't think I've ever seen this: peanut butter with apple. This is based on a maple peanut butter spread on slices of crisp apple - the cream is just in there to round off any sharp edges, particularly from the fuji. ",
+  "id": 57725,
+  "image_url": null,
+  "updated_at": "2020-12-02T08:04:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 97,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Peanut",
+      "flavor_id": 405,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "HAMFIST",
+  "views": "971",
+  "slug": "pba",
+  "total_flavoring": "6.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

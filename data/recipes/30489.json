@@ -1,0 +1,38 @@
+{
+  "name": "Blue Raspberry Ring Candy",
+  "description": "Blue Raspberry Ring Drop. Adjust Sweetener to taste. Really close to Ring-Dropz",
+  "id": 30489,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:49:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 7000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Hard Candy",
+      "flavor_id": 1308,
+      "millipercent": 6000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1508,
+      "millipercent": 6000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "AKing702",
+  "views": "2204",
+  "slug": "blue_raspberry_ring_candy",
+  "total_flavoring": "19.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

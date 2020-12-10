@@ -1,0 +1,75 @@
+{
+  "name": "Salted Caramel Popcorn Milk",
+  "description": "Salted caramel popcorn milk\r\n\r\nStarting with the milk... FA milk, VTA love and FA fresh cream combine to make a nice sweet silky milk, the white chocolate in VTA love just sits in the back and gives it a creamy sweet edge as to not get overpowered by the caramel, the FLV popcorn is a huge star here and provides a toffee note which compliments the caramel really well. FA corn (make sure to dilute to 10% before adding it at 0.15) penetrates the milk and combined with the FLV popcorn gives a very slight corn residue flavour as if the popcorn has been steeping in the milk 😋 the Cereal 27 adds just a touch of AP for the fistful of popcorn that sits on the top.\r\n\r\nIf you like this recipe and what I do then please rate and review accordingly :)\r\n\r\n*FA corn should be diluted to 10% before use, ATF does not have the 10% dilution option in the database so make sure to adjust that accordingly*",
+  "id": 161689,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/161689/F4B0FE63-B13A-4089-9268-1681B5C01FD6.jpeg",
+  "updated_at": "2020-12-08T00:51:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Salted Caramel",
+      "flavor_id": 8959,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Corn",
+      "flavor_id": 563,
+      "millipercent": 15,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Milk",
+      "flavor_id": 523,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Love DIY",
+      "flavor_id": 8920,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Popcorn",
+      "flavor_id": 8564,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Nickevz",
+  "views": "2006",
+  "slug": "salted_caramel_popcorn_milk",
+  "total_flavoring": "7.765%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "Untitled",
+      "score": "4",
+      "text": "The recipe description is well done. The liquid tastes exactly as described. Tasty and very sweet(!) caramelized popcorn with some milk in the back. The 0.5 super sweet is a bit to much for me. Good job!"
+    }
+  ]
+}

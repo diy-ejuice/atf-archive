@@ -1,0 +1,45 @@
+{
+  "name": "ID10-T’s Bourbon Trinity",
+  "description": "This boozy trinity was created by @ID10-T and has earned itself its own command over on the [DIY_eJuice Discord](https://discord.gg/eVvTFPZ).\r\n\r\nThis trinity is meant to be used as a base and starting point for your recipes when you want to add some bourbon to the mix! \r\n\r\n**TFA Kentucky Bourbon** brings the corny sweetness\r\n**VT Bourbon** brings the strong boozy top notes\r\n**FLV Bourbon** has the authentic charred oak barrel taste to tie it all together\r\n\r\nThis recipe is just meant to be a starting point. Please feel free to adapt as you see fit! Want more of the boozy top notes? Increase VT Bourbon. Want less of the oak barrel taste in there? Lower or remove the FLV Bourbon.\r\n\r\nJoin us over on the discord where this and many other trinities are created! Here is the [link](https://discord.gg/eVvTFPZ) if you’d like to join!",
+  "id": 186048,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186048/0E69BE65-3CAC-47F2-9BAD-3F1B7CA68719.jpeg",
+  "updated_at": "2020-12-08T00:51:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bourbon",
+      "flavor_id": 4411,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Bourbon",
+      "flavor_id": 8839,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "diy_discord",
+  "views": "905",
+  "slug": "id10ts_bourbon_trinity",
+  "total_flavoring": "6.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "nowar",
+      "score": "5",
+      "text": "corny sweetness? Sounds like ID10-T to me!"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Blueberry Rice Milk",
+  "description": "A friend serves blueberry rice milk with spicy Indian meals.  It is just white rice, whole milk and sugar cooked until the rice is very soft, and then she adds fresh blueberries after it cools.  I wanted to try to duplicate the flavor.\r\n\r\nThe base is FE Rice Milk since it is a creamy, plain rice.\r\nI added FLV Cream to add a milky richness.\r\n\r\nThe beverage is very sweet, but I wanted to try to add the sweetness with a blueberry flavor, FW Blueberry, but it does not duplicate the flavor of fresh blueberries.  I hadn't tried VTA''s Blueberry, so I used it, just to get a feel of how it would work in a mix, and FW Black Current to add some depth to the berry flavor.\r\n\r\nSweetener is optional, but I did prefer it with a little sweetener.\r\n\r\nTested on Engine Nano 0.31 Ohm, 43 watts",
+  "id": 168187,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/168187/blueberry-smoothie-with-milk-recipe.jpg",
+  "updated_at": "2020-12-05T08:07:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black Currant",
+      "flavor_id": 1191,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 8836,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Sweet Rice",
+      "flavor_id": 7727,
+      "millipercent": 3000,
+      "vendor": "FE"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Rick's Sugar Daddy",
+      "flavor_id": 9413,
+      "millipercent": 250,
+      "vendor": "TBV"
+    }
+  ],
+  "author": "goosegirl",
+  "views": "734",
+  "slug": "blueberry_rice_milk",
+  "total_flavoring": "10.25%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Balanced Strawberries and Milk",
+  "description": "Creamy strawberry, not too sweet, not too tart, the dragon fruit really helps the strawberry pop.",
+  "id": 145517,
+  "image_url": null,
+  "updated_at": "2020-11-29T18:20:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cream Milky Undertone VG",
+      "flavor_id": 6541,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "xantrel",
+  "views": "1272",
+  "slug": "balanced_strawberries_and_milk",
+  "total_flavoring": "12.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

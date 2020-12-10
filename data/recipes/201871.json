@@ -1,0 +1,44 @@
+{
+  "name": "Steve's Simple Chocolate Custard ",
+  "description": "Creamy and decadent.... Dark and Rich.....Simple yet eloquent.......\r\n\r\nThis is my take on a simple Chocolate Custard. The VT Chocolate Custard is the star of the show. By itself the VT Chocolate Custard is a great single mix flavor but I wanted to add a little more depth to it. At 5%, it seems to be the sweet spot. I added some VT Pudding Base to give it more depth, body and creaminess. The FA Meringue is used as the pie'ce de re'sistance. It blends all the flavors together. Enjoy!",
+  "id": 201871,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201871/chocolate-custard-cream-recipe-main-photo.jpg",
+  "updated_at": "2020-12-07T17:36:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate Custard",
+      "flavor_id": 9360,
+      "millipercent": 5000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pudding Base",
+      "flavor_id": 8948,
+      "millipercent": 1250,
+      "vendor": "VT"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Ledpedal",
+  "views": "425",
+  "slug": "steves_simple_chocolate_custard",
+  "total_flavoring": "7.3%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

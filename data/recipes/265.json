@@ -1,0 +1,56 @@
+{
+  "name": "Tropical Sunset",
+  "description": "A Papaya Orange tropical menthol\r\n\r\nCan add .5% Koolada if desired",
+  "id": 265,
+  "image_url": null,
+  "updated_at": "2020-12-07T10:42:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Orange Mandarin",
+      "flavor_id": 251,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Juicy Orange",
+      "flavor_id": 80,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Aroma Arctic Winter (menthol Artic)",
+      "flavor_id": 514,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "sodakdave",
+  "views": "1553",
+  "slug": "tropical_sunset",
+  "total_flavoring": "16.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,74 @@
+{
+  "name": "AB's Super Apple Pie v2",
+  "description": "A warm, rich apple pie based on Alton Brown's food recipe. Shake & Vape, overnight steep recommended. If you don't have Anton Apple, increase Fuji to 1.5%. Can sub INW Pear with FA Pear 1-2%",
+  "id": 3967,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:31:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Pie",
+      "flavor_id": 551,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Anton Apple (yc)",
+      "flavor_id": 737,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 633,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": 638,
+      "millipercent": 100,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 665,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "tranceinate",
+  "views": "1756",
+  "slug": "abs_super_apple_pie_v2",
+  "total_flavoring": "7.1%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

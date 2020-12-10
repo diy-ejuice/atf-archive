@@ -1,0 +1,32 @@
+{
+  "name": "I Can’t Breathe",
+  "description": "Super simple recipe I whipped up to open my sinuses, sweet, tarty and a breath of fresh air. The menthol in the blue alien opens your lungs just before that blue raspbery hits.",
+  "id": 137582,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137582/59C07253-CC8A-4BDF-BA1A-6D6C41F70F42.png",
+  "updated_at": "2020-12-07T23:37:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Alien",
+      "flavor_id": 8097,
+      "millipercent": 5000,
+      "vendor": "SI"
+    },
+    {
+      "name": "Blue Raspberry Slush",
+      "flavor_id": 2970,
+      "millipercent": 15000,
+      "vendor": "OSD"
+    }
+  ],
+  "author": "Nickevz",
+  "views": "1468",
+  "slug": "i_cant_breathe",
+  "total_flavoring": "20.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

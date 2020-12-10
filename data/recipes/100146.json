@@ -1,0 +1,68 @@
+{
+  "name": "Pounded In Milk",
+  "description": "Imagine taking a deliciously moist piece of lemon cake topped with meringue and dipping it in a glass of milk before each bite. That's what you get with Pounded In Milk.",
+  "id": 100146,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100146/Screenshot_20180508-194426.jpg",
+  "updated_at": "2020-12-05T09:52:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream Milky Undertone PG",
+      "flavor_id": 6539,
+      "millipercent": 2000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Dairy/Milk",
+      "flavor_id": 2164,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 84,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pound Cake",
+      "flavor_id": 4306,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "MattyWill",
+  "views": "1731",
+  "slug": "pounded_in_milk",
+  "total_flavoring": "14.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "86%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

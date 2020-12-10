@@ -1,0 +1,50 @@
+{
+  "name": "Romulan Ale",
+  "description": "Lemonade, bitters, cranberry juice, rum, and a dash of cream provides a drink as Supreme as the High Command itself!\r\n\r\nSweeten to taste.",
+  "id": 182294,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182294/hrso_romulan_ale_glass_set_detail.jpg",
+  "updated_at": "2020-12-07T23:38:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade Clear",
+      "flavor_id": 8916,
+      "millipercent": 3200,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cranberry Coctail SC",
+      "flavor_id": 10120,
+      "millipercent": 1400,
+      "vendor": "WF"
+    },
+    {
+      "name": "Back Bar Bitters",
+      "flavor_id": 10082,
+      "millipercent": 400,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Light Rum",
+      "flavor_id": 8918,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Cream Filling SC",
+      "flavor_id": 10260,
+      "millipercent": 500,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "682",
+  "slug": "romulan_ale",
+  "total_flavoring": "6.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Tabernacle Crush",
+  "description": "While I am putting this up for the contest this is an untested recipe.  Okay for the flavor-pro-year-of-mixing challenge week 19 - my take on a drink that has gin in it - which I don't like gin so I'm swaping that for my take on vodka which is made up of hops/moscato (not really very vodka-like but I couldn't find my black tea darnit) - then the drink has peach, an orange cordial, basil, lemon juice and soda (I'm using a combo of champagne, cream soda and orange cream but in small amounts).  Off the shake it tastes alcohol-y but not very peachy or orange-y - I think it needs a steep. Or maybe more peach and orange LOL - we'll see.",
+  "id": 100296,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100296/bar-beverage-cocktail-109275.jpg",
+  "updated_at": "2020-12-07T21:32:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Orange Cream",
+      "flavor_id": 250,
+      "millipercent": 600,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bergamot",
+      "flavor_id": 469,
+      "millipercent": 650,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Soda",
+      "flavor_id": 320,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sparkling Wine (champagne)",
+      "flavor_id": 976,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 7698,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 1650,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Yakima Hops",
+      "flavor_id": 3478,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Moscato",
+      "flavor_id": 8559,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Basil",
+      "flavor_id": 4387,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 629,
+      "millipercent": 1650,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "spicygal",
+  "views": "1461",
+  "slug": "tabernacle_crush",
+  "total_flavoring": "12.8%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

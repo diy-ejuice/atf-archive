@@ -1,0 +1,50 @@
+{
+  "name": "Rin's Spiked Coffee",
+  "description": "Smooth coffee with cream and a shot of bourbon. MV episode 12/16",
+  "id": 131428,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:16:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Smooth Cappuccino Cream",
+      "flavor_id": 6060,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Honey Roasted Peanuts SC",
+      "flavor_id": 8371,
+      "millipercent": 250,
+      "vendor": "WF"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Cream Extra SC",
+      "flavor_id": 8382,
+      "millipercent": 1000,
+      "vendor": "WF"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "956",
+  "slug": "rins_spiked_coffee",
+  "total_flavoring": "4.25%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

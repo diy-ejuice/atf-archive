@@ -1,0 +1,57 @@
+{
+  "name": "Blue Cheese",
+  "description": "A good ole fashioned Blueberry Cheesecake, still working on it but its getting close if not there already! This is gonna need its full steeping time to come together.\r\n\r\nUpdate: Added FLV Cream to help the cream a little more since this BB seems to be a little potent and to help balance things out. Also kicked up the FLV Cheesecake .5% and took the TFA Cheesecake (GC) down .5% to balance out things a little further\r\n\r\n***If you mix this, please leave a review and let me know what you think or if you think there is something that could be changed to make it better!***",
+  "id": 59647,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59647/blueberry_cheesecake-copy.jpg",
+  "updated_at": "2020-12-08T00:49:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 620,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cheesecake",
+      "flavor_id": 4430,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "KillaCoDe",
+  "views": "2126",
+  "slug": "blue_cheese",
+  "total_flavoring": "7.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "NaCHeF",
+      "score": "4",
+      "text": "Great recipe! I will try adding 2% or 3% VBIC but it is very tasty as it is! Great work!"
+    }
+  ]
+}

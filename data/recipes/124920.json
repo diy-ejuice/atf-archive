@@ -1,0 +1,44 @@
+{
+  "name": "Cocoa Drink",
+  "description": "Dry but not too much, remember an undefined drink. To try!",
+  "id": 124920,
+  "image_url": null,
+  "updated_at": "2020-12-06T14:08:10.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jamaica Special (jamaica Rhum)",
+      "flavor_id": 521,
+      "millipercent": 1750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cocoa",
+      "flavor_id": 496,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Maple Syrup",
+      "flavor_id": 509,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "itMax86",
+  "views": "762",
+  "slug": "cocoa_drink",
+  "total_flavoring": "5.0%",
+  "steep_days": "2",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

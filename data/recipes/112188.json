@@ -1,0 +1,68 @@
+{
+  "name": "American Pi",
+  "description": "This started as a mission to recreate an apple pie juice by an expensive chess like company. I got pretty close, but I wanted to thicken it up.\r\n\r\nThe flavorings here are pretty self-explanatory.\r\n\r\nLet me know what you think...",
+  "id": 112188,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112188/American_pi.png",
+  "updated_at": "2020-12-07T17:35:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Mix",
+      "flavor_id": 3511,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Apple Filling",
+      "flavor_id": 4376,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 4369,
+      "millipercent": 2000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "BradH",
+  "views": "1255",
+  "slug": "american_pi",
+  "total_flavoring": "12.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

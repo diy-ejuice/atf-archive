@@ -1,0 +1,44 @@
+{
+  "name": "Churros!",
+  "description": "CAP Churro at 4% is a solid foundation to start off of. The concentrate isn't the best by itself, but if we modify it a bit, it can be good.\r\n\r\n\r\nFirst, I thought it needed a bit more cinnamon. I decided on CAP CDS at 1%. Used here, it adds the cinnamon that we are looking for, and not an overbearing amount of it. With an added benefit of some bakery notes, it worked wonderfully.\r\n\r\n\r\nCAP Sugar Cookie at 1% is used to do two things here. First, I think it makes the churros more airy. Second, it adds sugary goodness to the churros that I believe was also needed. Honestly, CAP Sugar Cookie an have a place in any bakery type recipe, and it works great here. \r\n\r\n\r\nTFA VBIC at 2% is used to add a bit of vanilla, and a slight eggy note. I'm not sure about you all, but for some reason TFA VBIC gives off a slight eggy note to me. Either way, it does the trick.",
+  "id": 34338,
+  "image_url": null,
+  "updated_at": "2020-12-02T15:33:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Churro",
+      "flavor_id": 4168,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SleepersDemon",
+  "views": "2942",
+  "slug": "churros",
+  "total_flavoring": "8.0%",
+  "steep_days": "7",
+  "best_vg": "90%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

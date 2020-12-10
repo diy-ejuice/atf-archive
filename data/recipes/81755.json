@@ -1,0 +1,51 @@
+{
+  "name": "Nutty Nougat",
+  "description": "Very simple but very tasty. Needs about a 2-3 day Steep. The three flavors work really well together. I like my juices sweet so I added the Sweetner for my taste buds. ",
+  "id": 81755,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/81755/C29470FC-2F48-4C88-8531-7FB6FBC62CAF.jpeg",
+  "updated_at": "2020-12-08T00:49:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Nougat",
+      "flavor_id": 3510,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Caramel",
+      "flavor_id": 151,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DodgerFog33",
+  "views": "1501",
+  "slug": "nutty_nougat",
+  "total_flavoring": "7.0%",
+  "steep_days": "3",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "whatiswiththeworld",
+      "score": "5",
+      "text": "Great recipe. &#xD;\nWent though a 30ml and have just made up some more!!&#xD;\nSpot on taste to the picture."
+    }
+  ]
+}

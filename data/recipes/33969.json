@@ -1,0 +1,57 @@
+{
+  "name": "French apple pie",
+  "description": "(CAP)APPLE PIE- give it the apple pie body, but it lacks just a little something.\r\n(FA) Fuji- helps fill in that little apple that the (CAP)APPLE PIE is missing, to make apple the top note.\r\n(HS)French vanilla ice cream- gives it a really smooth ice cream note.\r\n(FW) Hazelnut- It gives it just little cinnamon accent.\r\n(CAP)Vanilla whipped cream- gives it a small cream note on the end.",
+  "id": 33969,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33969/b361a4c91f723fc181247ab4302f91b6_shawnp-1401-days-ago-pie-ala-mode-clipart_400-400.jpeg",
+  "updated_at": "2020-12-08T00:49:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Pie",
+      "flavor_id": 8,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla Icecream",
+      "flavor_id": 2129,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 250,
+      "vendor": "FW"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Moggle33",
+  "views": "1996",
+  "slug": "french_apple_pie",
+  "total_flavoring": "8.5%",
+  "steep_days": "4",
+  "best_vg": "75%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "CatWillMew",
+      "score": "4",
+      "text": "This succeeds really well in tasting like its namesake.  I'd say it's just missing a little something from the crust...maybe a buttery note?"
+    }
+  ]
+}

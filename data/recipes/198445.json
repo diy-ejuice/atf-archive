@@ -1,0 +1,50 @@
+{
+  "name": "Juicy & Fresh",
+  "description": "A sweet tropical Mango orange with the fresh notes of pineapple and papaya.",
+  "id": 198445,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/198445/index.jpg",
+  "updated_at": "2020-12-07T21:33:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mango",
+      "flavor_id": 247,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Orange Mandarin",
+      "flavor_id": 251,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Orange Mango With Stevia",
+      "flavor_id": 92,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Papaya",
+      "flavor_id": 252,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugarloaf Pineapple",
+      "flavor_id": 8978,
+      "millipercent": 4000,
+      "vendor": "VT"
+    }
+  ],
+  "author": "Flavordog",
+  "views": "517",
+  "slug": "juicy_fresh",
+  "total_flavoring": "16.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

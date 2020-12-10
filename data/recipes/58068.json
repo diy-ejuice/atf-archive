@@ -1,0 +1,74 @@
+{
+  "name": "Desert morning",
+  "description": "a strong tobacco blend with dry nuts-honey-fig.perfect to start your day with a hot cup of coffee",
+  "id": 58068,
+  "image_url": null,
+  "updated_at": "2020-12-07T10:43:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Inawera Blend",
+      "flavor_id": 790,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Black Honey",
+      "flavor_id": 370,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Tobacco Desert Voyager",
+      "flavor_id": 853,
+      "millipercent": 800,
+      "vendor": "INW"
+    },
+    {
+      "name": "Fig Fresh",
+      "flavor_id": 518,
+      "millipercent": 800,
+      "vendor": "FA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Perique Black",
+      "flavor_id": 807,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tobacco Cavendish Type",
+      "flavor_id": 733,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tobacco Dirty Neutral (dnb)",
+      "flavor_id": 2186,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "nks",
+  "views": "1522",
+  "slug": "desert_morning",
+  "total_flavoring": "7.4%",
+  "steep_days": "20",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

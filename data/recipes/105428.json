@@ -1,0 +1,63 @@
+{
+  "name": "OG Monster Energy Drink",
+  "description": "FW Green Goblin - The main flavor of the whole recipe. Just straight up monster, just a little lacking solo.\r\nTPA Citrus Punch - Adds just a little extra lime taste\r\nCAP Super Sweet - To sweeten things abit, cause Monster floats with sugar.\r\nFW Blueberry / CAP Double Apple - they are working as a support for the flavour.\r\nIMO it's super close to OG Monster",
+  "id": 105428,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Green Goblin Energy",
+      "flavor_id": 1303,
+      "millipercent": 7000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Key Lime",
+      "flavor_id": 241,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Double Apple",
+      "flavor_id": 45,
+      "millipercent": 750,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "KaptenUtbrott",
+  "views": "1751",
+  "slug": "og_monster_energy_drink",
+  "total_flavoring": "11.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "SeLeV",
+      "score": "4",
+      "text": "The profile is close to Monster, but not quite, but that's not my biggest complaint. The flavors feel far away, and the hit is too soft. This would do better with about 1% WS-23. Otherwise, it's still enjoyable."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Strawberry Lemonade",
+  "description": "Using ECX flavors. A simple, sweet and slightly tart strawberry lemonade. The Juicy Lemon could be adjusted up a 0.5% for a bit more lemony tartness.\r\n\r\n",
+  "id": 3942,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/3942/small-20160824-21430-dyu21o.jpg",
+  "updated_at": "2020-12-08T00:48:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 3073,
+      "millipercent": 3000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 3072,
+      "millipercent": 1000,
+      "vendor": "JF"
+    }
+  ],
+  "author": "BCrunk",
+  "views": "2160",
+  "slug": "strawberry_lemonade",
+  "total_flavoring": "4.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Funkvaper",
+      "score": "5",
+      "text": "very tasty for how simple it is and double points for being SnV "
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Pink Lemonade",
+  "description": "My take on a pink lemonade.\r\n\r\nLA Lemonade is the star of the show here, i think it is a very good flavor alone, but it can most certainly be build on really well aswel. \r\n\r\nFA Lemon Sicily is here to give a little boost to the lemonade, you can leave it out if you please, it is still really good.\r\n\r\nINW Raspberry/TFA Sweet Raspberry is part of the pink here, it's a combo i dig, if you dont like INW Raspberry you can leave it out.\r\n\r\nFA Strawberry/TFA Ripe is the last part of the pink. It's not super prominent, but it gives a little extra to the recipe..\r\n\r\nAdd Polar Blast or Koolada @ 0.5-0.75% for that feeling of a fresh cold drink. You can ofcourse increase this as you please.\r\n\r\nGood as SnV but 3 days will do the INW raspberry wonders.",
+  "id": 66046,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66046/pink_lemonade_sorbet-490x390.jpg",
+  "updated_at": "2020-12-08T00:49:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 6000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Flyver",
+  "views": "2652",
+  "slug": "pink_lemonade",
+  "total_flavoring": "12.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

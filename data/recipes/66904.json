@@ -1,0 +1,56 @@
+{
+  "name": "Breakfast ",
+  "description": "Sweet fruity (berry, strawberry and lemon) cereals with creamy milk.",
+  "id": 66904,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66904/17861809_10208341766614203_263472861198068490_n.jpg",
+  "updated_at": "2020-12-08T00:49:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fruit Circles",
+      "flavor_id": 139,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "VladimirosStafylidis",
+  "views": "1250",
+  "slug": "breakfast",
+  "total_flavoring": "12.0%",
+  "steep_days": "15",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

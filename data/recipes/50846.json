@@ -1,0 +1,50 @@
+{
+  "name": "Hop Heads",
+  "description": "A bright, hoppy pineapple with hints of pink grapefruit. \r\n\r\nFLV Pineapple is a super clean, straight forward pineapple flavor. Accented by the FLV Jackfruit you get a little more juiciness and some super ripe fruit forward. This helps to balance the hops at such a high %. Hints of grapefruit provided by the always lovely FLV Pink Guava.",
+  "id": 50846,
+  "image_url": null,
+  "updated_at": "2020-12-07T21:32:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Jackfruit",
+      "flavor_id": 4359,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 4428,
+      "millipercent": 2250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Yakima Hops",
+      "flavor_id": 3478,
+      "millipercent": 1750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Kopel",
+  "views": "1365",
+  "slug": "hop_heads",
+  "total_flavoring": "5.75%",
+  "steep_days": "3",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Panama Geisha",
+  "description": "Espresso Creme\r\nCitrus aroma, passion fruit, cocoa and jasmine.\r\nVivid combination of dried papaya, black tea, rose, jasmine with caramel and bergamot aftertaste.",
+  "id": 60554,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/60554/panama-geisha.jpg",
+  "updated_at": "2020-12-07T15:20:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Passion Fruit",
+      "flavor_id": 253,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 244,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Orange Mandarin",
+      "flavor_id": 251,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cocoa",
+      "flavor_id": 496,
+      "millipercent": 100,
+      "vendor": "FA"
+    },
+    {
+      "name": "Jasmine Natural",
+      "flavor_id": 410,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Tea Black Water Soluble",
+      "flavor_id": 548,
+      "millipercent": 600,
+      "vendor": "FA"
+    },
+    {
+      "name": "Clove",
+      "flavor_id": 492,
+      "millipercent": 100,
+      "vendor": "FA"
+    },
+    {
+      "name": "Espresso Creme",
+      "flavor_id": 4844,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bergamot",
+      "flavor_id": 469,
+      "millipercent": 200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rose",
+      "flavor_id": 511,
+      "millipercent": 400,
+      "vendor": "FA"
+    },
+    {
+      "name": "Butterscotch",
+      "flavor_id": 495,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Pmnb",
+  "views": "1218",
+  "slug": "panama_geisha",
+  "total_flavoring": "9.4%",
+  "steep_days": "30",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

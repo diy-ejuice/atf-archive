@@ -1,0 +1,44 @@
+{
+  "name": "Vanilla Cream Tobacco",
+  "description": "Sweet Vanilla Cream Tobacco\r\n\r\nFLV Cured and FLV Classic cigarette together make an earthy classic cigarette styled tobacco, with the addition of DYFS Holy Vanilla we give the entire blend a sweet malted vanilla cream flavour. \r\nWith this three is quite nice but i added 1% FLV Cream to get a luxurious velvelty vanilla cream.\r\n",
+  "id": 177216,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177216/IMG_1560.JPG",
+  "updated_at": "2020-12-07T23:38:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Holy Vanilla",
+      "flavor_id": 2385,
+      "millipercent": 3000,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Cured Tobacco",
+      "flavor_id": 630,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Classic Cigarette",
+      "flavor_id": 4358,
+      "millipercent": 750,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "VenSyBoy",
+  "views": "1161",
+  "slug": "vanilla_cream_tobacco",
+  "total_flavoring": "8.75%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

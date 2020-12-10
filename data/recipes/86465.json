@@ -1,0 +1,56 @@
+{
+  "name": "cantcream",
+  "description": "Version 1\r\n\r\nFirst installment of a recipe development series I'm doing for reddit.\r\n\r\nFuck you.",
+  "id": 86465,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:43:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cantaloupe",
+      "flavor_id": 610,
+      "millipercent": 3250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "matthewkocanda",
+  "views": "1383",
+  "slug": "cantcream",
+  "total_flavoring": "11.25%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

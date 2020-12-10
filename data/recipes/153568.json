@@ -1,0 +1,50 @@
+{
+  "name": "Lemon Pie",
+  "description": "Nice lemon pie with a light crust. \r\nVery good. A bit too sweet. I removed the .5% super sweet.\r\nNo sweetner needed IMHO...",
+  "id": 153568,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153568/lemon_pie.jpeg",
+  "updated_at": "2020-12-05T23:55:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 84,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Brewdog_Kilo",
+  "views": "1246",
+  "slug": "lemon_pie",
+  "total_flavoring": "10.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

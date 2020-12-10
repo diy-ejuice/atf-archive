@@ -1,0 +1,69 @@
+{
+  "name": "Jack and Tan",
+  "description": "Tropical and refreshing, ... like a cold brewski on a summer night......",
+  "id": 110452,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:50:19.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 259,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Jackfruit",
+      "flavor_id": 240,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "sweetener (sucralose)",
+      "flavor_id": 2313,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "Gordo",
+  "views": "4830",
+  "slug": "jack_and_tan",
+  "total_flavoring": "15.25%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "I love sweet tangerine, I just hate how the sweetness of it is so prominent.  You solved that with the earthiness of jackfruit.  All the other accent flavors are subtle but effective.  This is a mighty fine mix."
+    }
+  ]
+}

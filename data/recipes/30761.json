@@ -1,0 +1,44 @@
+{
+  "name": "Baphomet's Midnight Snack (Blackberry Yogurt)",
+  "description": "A blackberry Greek Yogurt with a little sweetness. \r\n\r\nI used to vape a Blackberry Yogurt from a company called Dead Shriners, pretty good stuff, but not Yogurt-y enough. So Since I started doing DIY I decided to make my own Blackberry Yogurt. \r\n\r\nMy idea with this was to make a nice Yogurt base, FLV Greek for the Greek Yogurt part, FA Yogurt to mellow it out a little and add some sweet creaminess and FLV Cream for even more sweetness and creaminess.\r\n\r\nThen add in my Blackberry, I went with Cap Black Raspberry after trying out a few others and not getting the taste I was looking for. \r\n\r\nThis Is my first recipe, I mean I like it, but you'll have to make up your own mind.",
+  "id": 30761,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30761/blackberry.jpg",
+  "updated_at": "2020-12-05T16:42:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Greek Yogurt",
+      "flavor_id": 615,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 408,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blackberry",
+      "flavor_id": 14,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "InfraD3AD",
+  "views": "1441",
+  "slug": "baphomets_midnight_snack_blackberry_yogurt",
+  "total_flavoring": "9.5%",
+  "steep_days": "7",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

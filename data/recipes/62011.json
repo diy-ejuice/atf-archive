@@ -1,0 +1,44 @@
+{
+  "name": "Black tea latte ",
+  "description": "First of all , apologies for grammar mistake , english is Not my native language. \r\n\r\nWith this recipe i wanted to creat a black tea with a rich milk and a touch of chocolate. \r\n\r\nI choosed Fw black tea because it s a light, sweet, black tea pretty suitable for this recipe.\r\n\r\nCap bavarian and tpa sweet cream dx are the milk base , very rich milk ! ;)\r\n\r\nAnd finally i choosed tpa chocolate for the chocolate layer , strait, simple, discreet chocolat.\r\n\r\nThis is the v2, i've made 5 versions but no one was better than this one, so i just stopped there.  \r\nLet me know what you guys think ! \r\n\r\n\r\n\r\n",
+  "id": 62011,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62011/IMG_4132.JPG",
+  "updated_at": "2020-12-08T00:49:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black Tea",
+      "flavor_id": 1193,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Dx Sweet Cream",
+      "flavor_id": 165,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 2,
+      "millipercent": 1100,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Chocolate",
+      "flavor_id": 155,
+      "millipercent": 1400,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Strobcore",
+  "views": "1223",
+  "slug": "black_tea_latte",
+  "total_flavoring": "10.5%",
+  "steep_days": "7",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

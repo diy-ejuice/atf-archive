@@ -1,0 +1,50 @@
+{
+  "name": "Vanilla Wafer Cookie",
+  "description": "Simple yellow vanilla wafer cookie.\r\n\r\nTFA marshmallow and meringue creates a sweet creamy middle filling\r\nTFA vanilla custard and FW yellow cake create the vanilla front\r\nTFA GCC is gonna help with sweetness and will create the cookie base",
+  "id": 17155,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17155/vainilla_mobil.png",
+  "updated_at": "2020-12-07T22:31:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 1250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Sinesiom",
+  "views": "2237",
+  "slug": "vanilla_wafer_cookie",
+  "total_flavoring": "8.75%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

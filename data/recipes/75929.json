@@ -1,0 +1,74 @@
+{
+  "name": "White Raspberry Latte",
+  "description": "A nice light latte made fresh with vanilla and white chocolate cream, and a splash of an ever so slightly bitter raspberry syrup. ",
+  "id": 75929,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75929/E31DE474-5231-4979-B2C6-66482A688340.jpeg",
+  "updated_at": "2020-12-02T15:36:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla Creme",
+      "flavor_id": 168,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dulce De Leche",
+      "flavor_id": 160,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Italian Relax (cappuccino)",
+      "flavor_id": 505,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "White Chocolate",
+      "flavor_id": 1462,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Dezy",
+  "views": "1254",
+  "slug": "white_raspberry_latte",
+  "total_flavoring": "15.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

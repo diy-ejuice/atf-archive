@@ -1,0 +1,44 @@
+{
+  "name": "Oreo ice-cream ",
+  "description": "The name speaks for itself! Crushed Oreos in vanilla ice cream, with a little chocolate booster. I wanted to build a recipe around RF Cookie's and Cream SC because lots of people have the concentrate, but I don't see many recipes using it yet.\r\n\r\n *This recipe may still be updated after some more tweaking*",
+  "id": 52335,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52335/0F473FEA-19F8-445F-BF92-E66368032496-4782-00000A17B5EDD892.jpeg",
+  "updated_at": "2020-12-05T19:49:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cookies & Cream – SC",
+      "flavor_id": 7484,
+      "millipercent": 2000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Chocolate Deutsch",
+      "flavor_id": 2151,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "jigsaw314",
+  "views": "1927",
+  "slug": "oreo_icecream",
+  "total_flavoring": "8.25%",
+  "steep_days": "10",
+  "best_vg": "75%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Clonewars: Muffin Man",
+  "description": "Mein Versuch am beliebten Muffin Man. \r\nApfelplunder mit Vanille-Schlagsahne",
+  "id": 182485,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:33:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Professor_Eliquid",
+  "views": "1139",
+  "slug": "clonewars_muffin_man",
+  "total_flavoring": "12.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mr. Freeze - Purple",
+  "description": "The name says it all. \r\nnote on cooling agents: these levels assume you've built up a tolerance. It's meant to be brain-freeze cold, but not lethal. Tone it down if you regularly vape uncool juices.",
+  "id": 89231,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:07:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape",
+      "flavor_id": 784,
+      "millipercent": 3750,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-5",
+      "flavor_id": 9920,
+      "millipercent": 1250,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Polar Blast",
+      "flavor_id": 5910,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1250,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "COB",
+  "views": "1400",
+  "slug": "mr_freeze_purple",
+  "total_flavoring": "7.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "90%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

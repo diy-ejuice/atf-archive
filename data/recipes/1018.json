@@ -1,0 +1,56 @@
+{
+  "name": "Mattdrina",
+  "description": "Suicide Bunny Madrina clone",
+  "id": 1018,
+  "image_url": null,
+  "updated_at": "2020-12-05T13:08:10.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cantaloupe",
+      "flavor_id": 220,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rose Candy",
+      "flavor_id": 310,
+      "millipercent": 1800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Watermelon",
+      "flavor_id": 276,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "sweetener (sucralose)",
+      "flavor_id": 2313,
+      "millipercent": 250,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "Matt",
+  "views": "1517",
+  "slug": "mattdrina",
+  "total_flavoring": "22.05%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

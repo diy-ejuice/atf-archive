@@ -1,0 +1,81 @@
+{
+  "name": "Holy Custard",
+  "description": "This is my idea of the Holy Grail of custard. The custard base is dense, buttery and eggy.",
+  "id": 42723,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/42723/2397c051df999df049229853e9b84362.jpg",
+  "updated_at": "2020-12-06T22:01:53.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Holy Vanilla",
+      "flavor_id": 2385,
+      "millipercent": 1000,
+      "vendor": "DFS"
+    },
+    {
+      "name": "Butterscotch",
+      "flavor_id": 1216,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Creamy Hazelnut",
+      "flavor_id": 1265,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Acetyl Pyrazine",
+      "flavor_id": 1709,
+      "millipercent": 700,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "bqbdm8",
+  "views": "2139",
+  "slug": "holy_custard",
+  "total_flavoring": "14.2%",
+  "steep_days": "10",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Zugmaschine",
+      "score": "none",
+      "text": "Looks good. Iam a big custard fan. Will mix a 30ml batch to test."
+    }
+  ]
+}

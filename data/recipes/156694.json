@@ -1,0 +1,44 @@
+{
+  "name": "A touch of Melon ",
+  "description": "A nice Summer vape. \r\nFa Fuji a nice apple flavor that I really adore and just mixes so well with Forest Fruit. The Strawberry ripe adds some sweetness and pairs well to give a more vibrant flavor. The Wild Melon adds a light melon flavor to the mix and takes away a bit of the tart from the fruits, to add flavor and make it a more mellow mix. Can SNV best after 3 days. ",
+  "id": 156694,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/156694/LFE_pg35.jpg",
+  "updated_at": "2020-12-07T22:33:39.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Forest Fruits",
+      "flavor_id": 4890,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DodgerFog33",
+  "views": "2051",
+  "slug": "a_touch_of_melon",
+  "total_flavoring": "12.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Berry Punch Blast",
+  "description": "A tasty fruity soda blend that you can't quite put your finger on.",
+  "id": 12515,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12515/images.jpg",
+  "updated_at": "2020-12-02T08:01:18.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Citrus Punch",
+      "flavor_id": 348,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Champagne Type (pg)",
+      "flavor_id": 347,
+      "millipercent": 1200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Noodles1972",
+  "views": "1616",
+  "slug": "berry_punch_blast",
+  "total_flavoring": "10.7%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

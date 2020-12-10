@@ -1,0 +1,44 @@
+{
+  "name": "Cactus Jack",
+  "description": "This started off as my attempt to clone NOMS X2 Cactus Jackfruit Mandarin. Ended up tasting pretty good after a few days steep, but after a week or 2 of sitting it's absolutely delicious. The profile is spot on to the NOMS X2. Better in my opinion as it's not overtly sweet. Raise or lower sucralose to your liking and enjoy!",
+  "id": 172045,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/172045/cactus_jack.JPG",
+  "updated_at": "2020-12-06T20:45:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 2220,
+      "vendor": "INW"
+    },
+    {
+      "name": "Jackfruit",
+      "flavor_id": 240,
+      "millipercent": 3330,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Tanger (mandarin)",
+      "flavor_id": 547,
+      "millipercent": 3330,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "EasternFog",
+  "views": "1031",
+  "slug": "cactus_jack",
+  "total_flavoring": "9.88%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

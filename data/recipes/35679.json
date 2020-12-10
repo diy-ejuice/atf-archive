@@ -1,0 +1,50 @@
+{
+  "name": "Peach Yumgurt",
+  "description": "Delicious, creamy spoonfuls of Peach Yogurt. FW Yogurt, CAP Creamy Yogurt and FA Madagascar Vanilla provide the backbone for a perfect yogurt base here. Feel free to change the fruit up in the recipe. In fact, I encourage you to experiment and come up with some wonderful versions of the yogurt. Here, I used INW Peach for a great Peach flavor at a low concentration. Give the mix two weeks to fully steep.",
+  "id": 35679,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35679/1488986649539.jpeg",
+  "updated_at": "2020-12-05T23:54:23.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Madagascar (Vanilla Classic)",
+      "flavor_id": 526,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 350,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "EdibleMalfunction",
+  "views": "1128",
+  "slug": "peach_yumgurt",
+  "total_flavoring": "7.35%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

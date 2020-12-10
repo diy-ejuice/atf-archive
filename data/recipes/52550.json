@@ -1,0 +1,44 @@
+{
+  "name": "Tobacco simple",
+  "description": "simple tobacco taste,cigarette like but not that ashy.shade provides a slightly sweet aftertaste,but that's all.no vanillas,no creams; simply tobacco.inspired by this recipe on elr  http://e-liquid-recipes.com/recipe/1244942/Old%20Habits which is really heavy and ashy",
+  "id": 52550,
+  "image_url": null,
+  "updated_at": "2020-12-05T15:42:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Black Fire",
+      "flavor_id": 458,
+      "millipercent": 300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Latakia",
+      "flavor_id": 430,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shade",
+      "flavor_id": 438,
+      "millipercent": 1200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Virginia",
+      "flavor_id": 427,
+      "millipercent": 2300,
+      "vendor": "FA"
+    }
+  ],
+  "author": "nks",
+  "views": "2532",
+  "slug": "tobacco_simple",
+  "total_flavoring": "4.3%",
+  "steep_days": "20",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

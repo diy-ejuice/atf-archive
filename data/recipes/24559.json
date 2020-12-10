@@ -1,0 +1,44 @@
+{
+  "name": "More Donuts Please",
+  "description": "Simple donut recipe yielding great results with CAP Glazed & some company.  Give it 2 weeks steep and enjoy this sweet gooey batch of subtly spiced glazed donuts.  Works with CAP FV v2 after 3 weeks.  No need to worry about Play-Doh taste after this gets a little steep.",
+  "id": 24559,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/24559/donut1.jpg",
+  "updated_at": "2020-12-05T05:15:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 4500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "wh1skeyk1ng",
+  "views": "2588",
+  "slug": "more_donuts_please",
+  "total_flavoring": "10.5%",
+  "steep_days": "20",
+  "best_vg": "70%",
+  "temperature": "480",
+  "recipe_score": 0,
+  "reviews": []
+}

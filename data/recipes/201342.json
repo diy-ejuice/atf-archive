@@ -1,0 +1,44 @@
+{
+  "name": "Banana Chip Ice Cream",
+  "description": "FLV Chocolate Deutsch and FA Caramel make a nice Chocolate note for mutes like myself.\r\n\r\nFA Vienna Cream is great for ice creams where you don't want any vanilla.\r\n\r\nTFA DX Banana Cream is the creamier than the LA Banana Cream and it's perfect for a banana ice cream.\r\n\r\nI sweeten with CAP Super Sweet at 0.5%\r\n\r\nWatch the Video Here:\r\nhttps://youtu.be/sQRd2Bd4_6k",
+  "id": 201342,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:36:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dx Banana Cream",
+      "flavor_id": 227,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Chocolate Deutsch",
+      "flavor_id": 2151,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "RUG_ly",
+  "views": "370",
+  "slug": "banana_chip_ice_cream",
+  "total_flavoring": "8.0%",
+  "steep_days": "3",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

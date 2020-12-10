@@ -1,0 +1,50 @@
+{
+  "name": "Lissandra",
+  "description": "Super menthol, only with flavor! A well rounded mint/menthol mix that tastes like more than medicinal menthol.",
+  "id": 70578,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:07:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mild Winter (peppermint)",
+      "flavor_id": 532,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "White Winter (spearmint)",
+      "flavor_id": 557,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Aroma Arctic Winter (menthol Artic)",
+      "flavor_id": 514,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Wintergreen",
+      "flavor_id": 285,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "991",
+  "slug": "lissandra",
+  "total_flavoring": "13.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

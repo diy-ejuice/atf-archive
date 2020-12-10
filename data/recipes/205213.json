@@ -1,0 +1,32 @@
+{
+  "name": "Guava Peach",
+  "description": "Simple guava and peach recipe. enjoy guys. two flavors ez pz. sweeten to your preferred taste.",
+  "id": 205213,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:51:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Honey Peach",
+      "flavor_id": 4561,
+      "millipercent": 2000,
+      "vendor": "JF"
+    }
+  ],
+  "author": "Sublimeice",
+  "views": "2596",
+  "slug": "guava_peach",
+  "total_flavoring": "7.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

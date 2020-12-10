@@ -1,0 +1,80 @@
+{
+  "name": "Lemonhead's Coco Cake",
+  "description": "A cake with lemon and coconuts. Classic, rich stone of FW Yellow Cake and WF Angel Cake with FA Pandoro, a cake with lemon notes. ",
+  "id": 161225,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/161225/Lemonheads_coco_cake_square.jpg",
+  "updated_at": "2020-12-07T14:14:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 1200,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Coconut Candy",
+      "flavor_id": 223,
+      "millipercent": 1200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Angel Cake SC",
+      "flavor_id": 9014,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Pandoro",
+      "flavor_id": 538,
+      "millipercent": 1200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Croissant",
+      "flavor_id": 8867,
+      "millipercent": 1500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lemon",
+      "flavor_id": 1655,
+      "millipercent": 1200,
+      "vendor": "FE"
+    },
+    {
+      "name": "Shisha Lemon",
+      "flavor_id": 828,
+      "millipercent": 200,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 400,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pudding Base",
+      "flavor_id": 8948,
+      "millipercent": 800,
+      "vendor": "VT"
+    }
+  ],
+  "author": "Alx86",
+  "views": "978",
+  "slug": "lemonheads_coco_cake",
+  "total_flavoring": "11.2%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

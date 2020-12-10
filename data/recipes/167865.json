@@ -1,0 +1,80 @@
+{
+  "name": "Kiwi Strawberry Soda",
+  "description": "An icy swirl of sweet strawberry and tart kiwi. These bold, syrupy fruit flavors complement and contrast with one another in a tangy and refreshing soda that I can’t get enough of. \r\n\r\nFA Kiwi: Hands down the best kiwi flavor around, tart and sweet.\r\n\r\nTFA Strawberry Ripe & CAP Strawberry Sweet &  TFA Strawberry = a syrupy strawberry stone\r\n\r\nTFA Dragonfruit to emulsify and preserve the strawberry flavor. \r\n\r\nCAP Jelly Candy = Adds a bit of texture, also adds some candy vibes to the soda. \r\n\r\nWS23 = Closest thing to a cold fizz you're going to get.\r\n\r\nOptional variation: If you want a little more \"soda bite\", you can add 1% RF Soda Base.\r\n\r\nDevelopment notes:\r\nThis came out delicious on the first attempt, and subsequent variations haven't improved on this formula much, only slightly balancing the fruits. I've also tried this with other combinations of strawberries (including the daveberry trifectae) in place of this strawberry stone,  but ended up returning to the individual formula, then boosting the Kiwi and slightly reducing the  Strawberry and Strawberry Ripe to make the kiwi a little more prominent in the mix. ",
+  "id": 167865,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/167865/802B3FF5-08F0-480E-A9B1-BF825FA50604.jpeg",
+  "updated_at": "2020-12-08T00:51:09.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Jelly Candy",
+      "flavor_id": 2170,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 1800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "beeker",
+  "views": "1338",
+  "slug": "kiwi_strawberry_soda",
+  "total_flavoring": "9.4%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Conradvape",
+      "score": "5",
+      "text": "well I didn't have anymore fw kiwi so I subbed it with cap kiwi strawberry and switched ws-23 with fizzy sherbet and its very addictive and enjoyable "
+    },
+    {
+      "user": "CaptainCornbread",
+      "score": "5",
+      "text": "I really enjoyed this mix. After the initial tester. I went up to .5 SS and dropped ws-23 to .6% and it really allowed the kiwi to pop a bit more in my opinion. This is a easy adv! Thanks for this one👍"
+    }
+  ]
+}

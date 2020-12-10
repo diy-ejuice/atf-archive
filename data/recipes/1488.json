@@ -1,0 +1,57 @@
+{
+  "name": "Peppermint Cheesecake ",
+  "description": "Cheesecake with Graham Crust topped with peppermint",
+  "id": 1488,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Peppermint",
+      "flavor_id": 283,
+      "millipercent": 750,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DrDoobie",
+  "views": "1177",
+  "slug": "peppermint_cheesecake",
+  "total_flavoring": "10.75%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "s2k",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

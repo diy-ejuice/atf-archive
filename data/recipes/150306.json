@@ -1,0 +1,38 @@
+{
+  "name": "Melow Yellow Cake",
+  "description": "Something Mellow, Something Yellow. A Simple Banana Cake!\r\n\r\nThis tasty one is pretty self explanatory. I added 0.5 sweeter as I like my cake sweet\r\n\r\nGive it 3 days to start mellowing out and enjoy!",
+  "id": 150306,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150306/bananur.JPG",
+  "updated_at": "2020-12-05T12:09:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Purée",
+      "flavor_id": 6042,
+      "millipercent": 1500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Deetzz",
+  "views": "1340",
+  "slug": "melow_yellow_cake",
+  "total_flavoring": "6.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "111",
+  "recipe_score": 0,
+  "reviews": []
+}

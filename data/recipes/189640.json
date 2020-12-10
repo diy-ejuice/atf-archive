@@ -1,0 +1,50 @@
+{
+  "name": "Rin's Funnel Cake",
+  "description": "WF flavors for base of the funnel cake/pastry portion with RF baked bread to give the bready note. Marshmallow vanilla for a light vanilla and to help the OOO powdered sugar. Closest thing I've vaped to a funnel cake ",
+  "id": 189640,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189640/Cindy_Pagani_-_Funnel_Cake.jpg",
+  "updated_at": "2020-12-06T01:09:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Baked Bread",
+      "flavor_id": 7384,
+      "millipercent": 250,
+      "vendor": "RF"
+    },
+    {
+      "name": "Deep Fried Pastry Dough SC",
+      "flavor_id": 8367,
+      "millipercent": 250,
+      "vendor": "WF"
+    },
+    {
+      "name": "Glazed Donut SC",
+      "flavor_id": 9025,
+      "millipercent": 250,
+      "vendor": "WF"
+    },
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "424",
+  "slug": "rins_funnel_cake",
+  "total_flavoring": "2.25%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

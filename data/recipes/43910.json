@@ -1,0 +1,38 @@
+{
+  "name": "Tropical Storm",
+  "description": "Tropical blend of Guava, Honeydew and Kiwi. Amazing for the summer. S&V possible best after 3 days.",
+  "id": 43910,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/43910/64081CE9-92C7-4A3E-9138-F2F60E651B8B-13038-00000A10FC4F6E7E.jpeg",
+  "updated_at": "2020-12-05T23:54:28.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Guava",
+      "flavor_id": 118,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Fuzzy055",
+  "views": "1764",
+  "slug": "tropical_storm",
+  "total_flavoring": "8.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

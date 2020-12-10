@@ -1,0 +1,62 @@
+{
+  "name": "Ice Cream Heartache",
+  "description": "The Inawera raspberry adds a nice seediness to the strawberry.\r\n\r\nThe classic belguim waffle and classic sponge cake combine for a crispy waffle flavor.  It's not quite as waffle cone as I had hoped initially, but only the steep will tell.\r\n\r\nSweeten to taste.",
+  "id": 184713,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/184713/STRAWBERRY_CHEESECAKE_ICE_CREAM_2-copy-500x375.jpg",
+  "updated_at": "2020-12-06T01:09:17.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Classic Belgian Waffle",
+      "flavor_id": 10461,
+      "millipercent": 2500,
+      "vendor": "MB"
+    },
+    {
+      "name": "Classic Sponge Cake",
+      "flavor_id": 10451,
+      "millipercent": 1000,
+      "vendor": "MB"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 4000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Strawberry Cheesecake SC",
+      "flavor_id": 10413,
+      "millipercent": 1600,
+      "vendor": "WF"
+    },
+    {
+      "name": "Strawberry (Juicy) SC",
+      "flavor_id": 10412,
+      "millipercent": 1400,
+      "vendor": "WF"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 500,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "978",
+  "slug": "ice_cream_heartache",
+  "total_flavoring": "11.25%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Pineapple Banana Smoothie - Flavorbook Entry Recipe",
+  "description": "A Pineapple cream and milky smoothie with banana.\r\nMade for FA Pineapple Flavor Book:\r\n",
+  "id": 190622,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190622/fa-pineapple-2.jpg",
+  "updated_at": "2020-12-08T00:51:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pineapple",
+      "flavor_id": 578,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 4428,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "ENYAWREKLAW",
+  "views": "1870",
+  "slug": "pineapple_banana_smoothie_flavorbook_entry_recipe",
+  "total_flavoring": "10.25%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 2,
+  "reviews": [
+    {
+      "user": "Skywxp3d",
+      "score": "2",
+      "text": "It’s got an off note.. had to chuck it "
+    }
+  ]
+}

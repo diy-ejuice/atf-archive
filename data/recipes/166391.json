@@ -1,0 +1,32 @@
+{
+  "name": "Strawberry",
+  "description": "Basic sweet strawberry recipe.  Mix and vape no special instructions.",
+  "id": 166391,
+  "image_url": null,
+  "updated_at": "2020-12-07T00:08:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Strawberry",
+      "flavor_id": 272,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Apoc17",
+  "views": "1318",
+  "slug": "strawberry",
+  "total_flavoring": "13.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

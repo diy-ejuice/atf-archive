@@ -1,0 +1,56 @@
+{
+  "name": "Orange Campari",
+  "description": "Orange Campari is popular cocktail based on the italian bitter Campari and fresh orange juice. Simple enough, it has a perfect contrast between the sweeter and bitter, ideal for a drink before dinner.\r\n\r\nThis recipe was possible thanks to FLV Back Bar Bitters, which was bended into a Campari by adding Pomegranate and Rhubarb.\r\n\r\nEnjoy and salud!",
+  "id": 143845,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143845/dsc_4403.jpg",
+  "updated_at": "2020-12-07T20:32:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Back Bar Bitters",
+      "flavor_id": 10082,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Bourbon",
+      "flavor_id": 4411,
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Rhubarb",
+      "flavor_id": 4371,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pomegranate",
+      "flavor_id": 262,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "NaCHeF",
+  "views": "1103",
+  "slug": "orange_campari",
+  "total_flavoring": "5.25%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

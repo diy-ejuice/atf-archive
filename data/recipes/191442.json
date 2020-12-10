@@ -1,0 +1,80 @@
+{
+  "name": "Smurfenade (Blue Raspberry Lemonade)",
+  "description": "This is my take on a simple blue razz lemonade.  LB and OSSDIY are clearly the best Blue Razz flavors, but even combined at a high percentage need a little support, which is why added in the INW Rasp.  I love using INW rasp low to bolster the Blue Razz flavor and make it pop.\r\n\r\nI didn't want to cheat this recipe and build on my puckenade, so I took a shot at using some other lemons.  I really like the VT Lemonade clear its a nice lemonade with a touch of fizz, I don't really get the fizz in this, but that's because I didn't want this to be fizzy.  The vt sour lemon is extremely potent and adds some of that fresh lemon pucker and the FW Lemonade is just a lemonade support.\r\n\r\nI used the TFA Pear as a bit of sweet blender along the cactus to round some of the sharp edges.  For you cactus haters out there I can't taste any cactus since it's used so low.  The WS-23 and Cap SS can be used in whatever quantity you prefer.  For a simple recipe this took 2 additional revisions after I first mixed it, so this was nice little challenge.",
+  "id": 191442,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191442/Untitled-2.jpg",
+  "updated_at": "2020-12-07T22:34:08.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 5000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Blue Raspberry Slush",
+      "flavor_id": 2970,
+      "millipercent": 8000,
+      "vendor": "OSD"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 1336,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Sour Lemon",
+      "flavor_id": 8971,
+      "millipercent": 250,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lemonade Clear",
+      "flavor_id": 8916,
+      "millipercent": 2500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 150,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 257,
+      "millipercent": 850,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 200,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 200,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "humanpuck",
+  "views": "1270",
+  "slug": "smurfenade_blue_raspberry_lemonade",
+  "total_flavoring": "19.15%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "350",
+  "recipe_score": 0,
+  "reviews": []
+}

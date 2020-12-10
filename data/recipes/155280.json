@@ -1,0 +1,50 @@
+{
+  "name": "Paczki",
+  "description": "I delicious polish deep fried dough. Similar to a donut but made with especially rich dough containing eggs, fats, sugar, yeast and sometimes milk. They feature a variety of fruit and creme fillings and can be glazed, or covered with granulated or powdered sugar.",
+  "id": 155280,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/155280/34B83D86-95A3-483E-93EC-14E4936C37F9.jpeg",
+  "updated_at": "2020-12-05T23:55:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 2000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "NastyNate",
+  "views": "1614",
+  "slug": "paczki",
+  "total_flavoring": "9.25%",
+  "steep_days": "7",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

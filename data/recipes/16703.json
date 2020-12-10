@@ -1,0 +1,32 @@
+{
+  "name": "Green Energy",
+  "description": "Doesn't taste like a Monster energy drink. Sorry. More like an apple juice spiked with red bull.",
+  "id": 16703,
+  "image_url": null,
+  "updated_at": "2020-12-01T11:54:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Energy Drink",
+      "flavor_id": 322,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Green Apple",
+      "flavor_id": 232,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DataNotAnecdotes",
+  "views": "1563",
+  "slug": "green_energy",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

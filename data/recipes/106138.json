@@ -1,0 +1,92 @@
+{
+  "name": "Flaked (Frosted Flakes Cereal)",
+  "description": "Frosted Flakes Cereal loaded with icing and sugar.\r\n\r\nCereal Base: CAP Cereal 27, FW Cake Yellow, FLV Popcorn, TPA AP, TFA Lucky Leprechaun\r\nFrosting & Icing: LA Cream Cheese Icing, FLV Frosting, OOO Powered Sugar, CAP Vanilla Custard\r\nMilk/Cream: FA Meringue, FA Marshmallow\r\n\r\n",
+  "id": 106138,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106138/flaked.jpg",
+  "updated_at": "2020-12-07T10:44:01.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lucky Leprechaun Cereal",
+      "flavor_id": 141,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Popcorn",
+      "flavor_id": 8564,
+      "millipercent": 250,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "westcoastclouds",
+  "views": "2368",
+  "slug": "flaked_frosted_flakes_cereal",
+  "total_flavoring": "15.25%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

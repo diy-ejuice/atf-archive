@@ -1,0 +1,74 @@
+{
+  "name": "Apple Turnover",
+  "description": "I wanted to make a apple turnover recipe but was lacking an ingredient for the batter, so I used a small percentage of CAPs glazed doughnut and combined it with some Acetyl Pyrazine. Worked out great, the apple is quite subtile in the flavor but there and the cinnamon is just the right amount for my likings.",
+  "id": 190835,
+  "image_url": null,
+  "updated_at": "2020-12-05T23:56:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Double Apple",
+      "flavor_id": 45,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cinnamon Danish Swirl",
+      "flavor_id": 35,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragon Fruit",
+      "flavor_id": 49,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "DX Graham Cracker",
+      "flavor_id": 3500,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 300,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "insan0r",
+  "views": "501",
+  "slug": "apple_turnover",
+  "total_flavoring": "11.3%",
+  "steep_days": "10",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

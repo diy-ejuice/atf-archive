@@ -1,0 +1,51 @@
+{
+  "name": "Apple Churro",
+  "description": "Cinnamon Churro with a nice apple blend. Age time 1 or 2 weeks. Add 1% CAP super sweet if preferred. Mixed at 80/20.",
+  "id": 8918,
+  "image_url": null,
+  "updated_at": "2020-12-07T11:43:06.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Churro",
+      "flavor_id": 1246,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": 638,
+      "millipercent": 150,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "BMW",
+  "views": "1339",
+  "slug": "apple_churro",
+  "total_flavoring": "8.65%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "its ok"
+    }
+  ]
+}

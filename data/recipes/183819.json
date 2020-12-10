@@ -1,0 +1,80 @@
+{
+  "name": "Custard Cream",
+  "description": "The idea was to create a custard recipe using only Flavourart's flavours.During the proccess i figured that adding the Inawera's custard,would cut down the steeping time.So,here it is,a thick,creamy custard  you don't get tired of,because it is not heavy in taste and it has no egg offnotes",
+  "id": 183819,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/183819/Custard_Cream_CC2.0_logo_20151124.jpg",
+  "updated_at": "2020-12-07T23:38:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Breakfast Cereals",
+      "flavor_id": 8810,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 800,
+      "vendor": "FA"
+    },
+    {
+      "name": "Chocolate",
+      "flavor_id": 489,
+      "millipercent": 300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Graham Crust",
+      "flavor_id": 9950,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Tahity",
+      "flavor_id": 555,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Whipped",
+      "flavor_id": 541,
+      "millipercent": 700,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "nks",
+  "views": "2164",
+  "slug": "custard_cream",
+  "total_flavoring": "9.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

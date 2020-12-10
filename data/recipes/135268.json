@@ -1,0 +1,44 @@
+{
+  "name": "Lissandra (pod/MTL) ",
+  "description": "Super menthol, only with flavor! A well rounded mint/menthol mix that tastes like more than medicinal menthol.",
+  "id": 135268,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:39:36.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mild Winter (peppermint)",
+      "flavor_id": 532,
+      "millipercent": 3000,
+      "vendor": "FA"
+    },
+    {
+      "name": "White Winter (spearmint)",
+      "flavor_id": 557,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Aroma Arctic Winter (menthol Artic)",
+      "flavor_id": 514,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Wintergreen",
+      "flavor_id": 285,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "1158",
+  "slug": "lissandra_podmtl",
+  "total_flavoring": "18.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

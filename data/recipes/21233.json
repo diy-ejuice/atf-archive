@@ -1,0 +1,50 @@
+{
+  "name": "Costarica Mango Ice Cream (NOV004)",
+  "description": "loosely adapted from: https://alltheflavors.com/recipes/12445\r\nnot sure how the costarica special will taste. I have tpa mango, tpa philippine mango, as well as a handful of peach flavors that I could try here as replacements or supplements. Suggestions are welcome!",
+  "id": 21233,
+  "image_url": null,
+  "updated_at": "2020-12-06T22:01:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Costarica Special (mango)",
+      "flavor_id": 579,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Mango",
+      "flavor_id": 120,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "naiviv334",
+  "views": "1152",
+  "slug": "costarica_mango_ice_cream_nov004",
+  "total_flavoring": "17.0%",
+  "steep_days": "9",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

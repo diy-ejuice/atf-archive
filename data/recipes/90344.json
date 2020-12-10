@@ -1,0 +1,75 @@
+{
+  "name": "Floppy Meal - Vanilla",
+  "description": "Faithful Visitor is a vanilla breakfasty thing. I'm not exactly sure what it tastes like but its not bad! ",
+  "id": 90344,
+  "image_url": null,
+  "updated_at": "2020-11-30T14:34:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 1900,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 3300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 2900,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Darthy",
+  "views": "1108",
+  "slug": "floppy_meal_vanilla",
+  "total_flavoring": "17.55%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 0,
+  "reviews": [
+    {
+      "user": "Mr-G",
+      "score": "none",
+      "text": "will do"
+    }
+  ]
+}

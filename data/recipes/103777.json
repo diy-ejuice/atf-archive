@@ -1,0 +1,86 @@
+{
+  "name": "CakeFace - Roasted (Caramel Cappuccino Cake)",
+  "description": "A recipe in progress...\r\n\r\nThe Cake:\r\nFW Yellow Cake is the prominent cake flavor here but we use Cereal 27 (CAP) and (CAP) NY Cheesecake and RF Sponge Cake to round out the edges\r\n\r\nThe Icing: \r\nLA Cream Cheese Icing is the forefront of this layer, using CAP Vanilla Custard to bring in that dessert vanilla, FA Meringue for some thicker mouthfeel overall, and hen using 000 Powdered Sugar and FLV Frosting to bring up that icing as a sweet sugary topping. \r\n\r\nThe Caramel Cap and Chocolate:\r\nThese are just accents, don't expect an overly chocolate caramel cappuccino, as too much of this will take away from the rest of the flavorings. We use these at rather low percentages.\r\n\r\nFeedback would be rad, would love to round this out or even remove flavorings if you think it can be simplified. ",
+  "id": 103777,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103777/34190680_1687901387997541_3070382037266333696_n.jpg",
+  "updated_at": "2020-12-05T17:44:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard V2",
+      "flavor_id": 132,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 1000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Glamour Chocolate",
+      "flavor_id": 1552,
+      "millipercent": 750,
+      "vendor": "MB"
+    },
+    {
+      "name": "Caramel Cappuccino",
+      "flavor_id": 196,
+      "millipercent": 100,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sponge Cake",
+      "flavor_id": 7364,
+      "millipercent": 1000,
+      "vendor": "RF"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Frosting",
+      "flavor_id": 4412,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "westcoastclouds",
+  "views": "1794",
+  "slug": "cakeface_roasted_caramel_cappuccino_cake",
+  "total_flavoring": "15.85%",
+  "steep_days": "3",
+  "best_vg": "100%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

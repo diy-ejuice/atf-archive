@@ -1,0 +1,68 @@
+{
+  "name": "My Berry Crunch",
+  "description": "",
+  "id": 6247,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:31:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Silly Rabbit Cereal",
+      "flavor_id": 143,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Acetyl Pyrazine ",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "stiddyb77",
+  "views": "1453",
+  "slug": "my_berry_crunch",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

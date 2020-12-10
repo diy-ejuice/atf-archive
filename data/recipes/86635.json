@@ -1,0 +1,56 @@
+{
+  "name": "Grape expectations",
+  "description": "A sweet and tart grape candy. Tastes similar to a  jolly rancher. ",
+  "id": 86635,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86635/20180206_013613.png",
+  "updated_at": "2020-12-01T02:15:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape Candy",
+      "flavor_id": 8602,
+      "millipercent": 3000,
+      "vendor": "FR"
+    },
+    {
+      "name": "Acai",
+      "flavor_id": 204,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "MaJuicea",
+  "views": "1632",
+  "slug": "grape_expectations",
+  "total_flavoring": "10.25%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

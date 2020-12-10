@@ -1,0 +1,44 @@
+{
+  "name": "Hoarse Horns",
+  "description": "Bright. Tart. Sweet. Delicious. Could add ws-23. I feel like sweetener brings out the acaí better, but it's not necessary. ",
+  "id": 172382,
+  "image_url": null,
+  "updated_at": "2020-12-07T04:41:14.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Acai",
+      "flavor_id": 204,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "MightyShill",
+  "views": "672",
+  "slug": "hoarse_horns",
+  "total_flavoring": "6.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

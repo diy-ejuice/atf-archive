@@ -1,0 +1,74 @@
+{
+  "name": "Lemon Meringue Pie",
+  "description": "From the HIC recipe",
+  "id": 266,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:38.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 484,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Apple Pie",
+      "flavor_id": 551,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "sodakdave",
+  "views": "3281",
+  "slug": "lemon_meringue_pie",
+  "total_flavoring": "9.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "I love how the lime takes just enough edge off the lemon in this that it doesn't scream out as either one.  It all comes together as a very nice meringue pie."
+    },
+    {
+      "user": "Tootall",
+      "score": "5",
+      "text": "Great tasting mix. "
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Vanilla swirl cookie",
+  "description": "My first public recipe. As the name suggests, a warm rich mouthful of vanilla and cookies that seems to have gotten a lot better after a couple of days, but was eminently vapable soon after it was made. Would love to hear how it could be improved. My next take would be adding CDS, and see how it turns up.",
+  "id": 154141,
+  "image_url": null,
+  "updated_at": "2020-12-07T20:33:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 9000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "banglaydouche",
+  "views": "1390",
+  "slug": "vanilla_swirl_cookie",
+  "total_flavoring": "18.25%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

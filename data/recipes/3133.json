@@ -1,0 +1,50 @@
+{
+  "name": "Butterscotch Ice Cream",
+  "description": "FW Butterscotch is a new flavor for me. I decided to add it with my ice cream base. Butterscotch Ripple might work better. I have never tried it.For the ice cream base I added the custard to thicken it up and add to the cream. The hazelnut and meringue I think work good at this ratio for a rich and sweet milky flavor.",
+  "id": 3133,
+  "image_url": null,
+  "updated_at": "2020-11-28T16:08:49.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butterscotch",
+      "flavor_id": 1216,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 1451,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "tim7423",
+  "views": "1649",
+  "slug": "butterscotch_ice_cream",
+  "total_flavoring": "13.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

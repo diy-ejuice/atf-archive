@@ -1,0 +1,50 @@
+{
+  "name": "Lemon Glaze",
+  "description": "Trying to make something similar to Air factory's lemon glaze",
+  "id": 120923,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/120923/lemon_glaze.jpg",
+  "updated_at": "2020-12-05T11:05:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": 1335,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cotton Candy",
+      "flavor_id": 319,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "julezz",
+  "views": "936",
+  "slug": "lemon_glaze",
+  "total_flavoring": "7.5%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

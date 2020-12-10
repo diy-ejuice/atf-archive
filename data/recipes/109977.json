@@ -1,0 +1,38 @@
+{
+  "name": "Hot Tomales",
+  "description": "I made this recipe to mimic Big Red Gum but it turned out just like Hot Tomales - FTW! TPA Cinnamon Red Hot can be increased or decreased to suit. For me,  at 8% it is pretty hot and just the way I like it. INW Cactus provides the nice wet mouth feel that you would expect when chewing on the real thing.",
+  "id": 109977,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/109977/13373414.jpg",
+  "updated_at": "2020-12-07T12:46:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cinnamon Red Hot",
+      "flavor_id": 300,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hard Candy",
+      "flavor_id": 1308,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Muscles",
+  "views": "1056",
+  "slug": "hot_tomales",
+  "total_flavoring": "5.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

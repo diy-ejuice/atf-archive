@@ -1,0 +1,68 @@
+{
+  "name": "Caramel Macchiato",
+  "description": " Caramel Macchiato........ The secret to the rich flavour is the quality of the beans[Dark Bean (coffee Espresso)  we use and the way we roast [Butter Cream & Nut Mix ]them",
+  "id": 123208,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123208/1_764_5.jpg",
+  "updated_at": "2020-12-06T20:44:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dark Bean (coffee Espresso)",
+      "flavor_id": 504,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Milk Condensed",
+      "flavor_id": 404,
+      "millipercent": 200,
+      "vendor": "FA"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Caramel Candy",
+      "flavor_id": 150,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Zeppola",
+      "flavor_id": 6312,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "UP (coffee)",
+      "flavor_id": 4473,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 100,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Pmnb",
+  "views": "2339",
+  "slug": "caramel_macchiato",
+  "total_flavoring": "7.6%",
+  "steep_days": "20",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

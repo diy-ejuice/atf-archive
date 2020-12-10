@@ -1,0 +1,62 @@
+{
+  "name": "Cool Cactus",
+  "description": "A delicious summer vape it's just refreshing on a hot summer day.",
+  "id": 55209,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55209/cactus-1453793_1920.jpg",
+  "updated_at": "2020-12-08T00:49:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Orange Cream",
+      "flavor_id": 250,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 259,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Koolada 10 Pg",
+      "flavor_id": 280,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "VaporDude",
+  "views": "2454",
+  "slug": "cool_cactus",
+  "total_flavoring": "8.0%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "This will enter my summer rotation for sure"
+    },
+    {
+      "user": "Stibs73",
+      "score": "5",
+      "text": "Wanted to try a cactus recipe so mixed this up right away and went through 30ml in no time. Made another batch and also gets better over a couple of days. Will be going in my rotation for sure"
+    }
+  ]
+}

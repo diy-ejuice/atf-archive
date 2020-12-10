@@ -1,0 +1,63 @@
+{
+  "name": "my king of custard",
+  "description": "I have been playing around with custard adding this taking away that. This is the version I'm really happy with",
+  "id": 10734,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/10734/121859367.jpg",
+  "updated_at": "2020-12-08T00:48:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla Creme",
+      "flavor_id": 168,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Kyze",
+  "views": "3852",
+  "slug": "my_king_of_custard",
+  "total_flavoring": "14.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Thadentman",
+      "score": "5",
+      "text": "Very well done. Extremely balanced!"
+    }
+  ]
+}

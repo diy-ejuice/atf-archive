@@ -1,0 +1,50 @@
+{
+  "name": "Raspberry Lemonade",
+  "description": "Refreshing and simple summer time vape. Sweetener according to taste, personally I use .25 cap ss.",
+  "id": 102492,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/102492/163-RaspberryLemonade-LH-db966779-209b-4cfe-a59c-32f583775a4b-0-1400x919.jpg",
+  "updated_at": "2020-12-07T15:21:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 636,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Honeysuckle (pg)",
+      "flavor_id": 306,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "6retro6",
+  "views": "1824",
+  "slug": "raspberry_lemonade",
+  "total_flavoring": "10.5%",
+  "steep_days": "3",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

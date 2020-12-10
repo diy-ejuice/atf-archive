@@ -1,0 +1,50 @@
+{
+  "name": "Boysenberry Cobbler",
+  "description": "Simple cobbler recipe. Heavy on my favorite berry, boysenberry. Slight cookie crust comes thru with a little brightening from the lemon. The Bavarian cream ties it together and softens it all up!",
+  "id": 190923,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190923/243B0443-8448-47D0-A941-7D926EDD8C56.jpeg",
+  "updated_at": "2020-12-08T00:51:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dx Bavarian Cream",
+      "flavor_id": 161,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Boysenberry",
+      "flavor_id": 8840,
+      "millipercent": 3500,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lemon (water Soluble)",
+      "flavor_id": 243,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "enzonik",
+  "views": "528",
+  "slug": "boysenberry_cobbler",
+  "total_flavoring": "9.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

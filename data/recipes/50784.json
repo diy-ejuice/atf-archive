@@ -1,0 +1,32 @@
+{
+  "name": "Bogus Berry",
+  "description": "I know it's a lot of sweetener, but it works. Simple mix for when I want something sweet and fruity. Good shake and vape, but better after a few days.",
+  "id": 50784,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50784/fruit.jpg",
+  "updated_at": "2020-11-28T22:34:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Forrest Mix (forest Fruit Mix)",
+      "flavor_id": 453,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DrumPunkD",
+  "views": "2337",
+  "slug": "bogus_berry",
+  "total_flavoring": "8.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

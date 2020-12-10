@@ -1,0 +1,62 @@
+{
+  "name": "Lemon Coffee Cake",
+  "description": "Fresh baked Lemon, Cream Cheese Coffee Cake with powdered sugar. A great breakfast dish, or something to sit back and enjoy all day long. You can add sweetener to your liking of course",
+  "id": 83347,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83347/Lemon_Coffee_Cake.jpg",
+  "updated_at": "2020-12-02T07:29:03.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "UP (coffee)",
+      "flavor_id": 4473,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Torrone",
+      "flavor_id": 550,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1250,
+      "vendor": "LA"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "1562",
+  "slug": "lemon_coffee_cake",
+  "total_flavoring": "9.25%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "400",
+  "recipe_score": 0,
+  "reviews": []
+}

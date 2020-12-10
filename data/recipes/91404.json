@@ -1,0 +1,44 @@
+{
+  "name": "Tasty tea",
+  "description": "a very simple but good  sweet tea haven't played much besides getting the stand alone %",
+  "id": 91404,
+  "image_url": null,
+  "updated_at": "2020-12-02T07:39:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Southern Tea",
+      "flavor_id": 2979,
+      "millipercent": 5750,
+      "vendor": "OSD"
+    },
+    {
+      "name": "Tea Black Water Soluble",
+      "flavor_id": 548,
+      "millipercent": 1250,
+      "vendor": "FA"
+    },
+    {
+      "name": "Powdered Sugar",
+      "flavor_id": 6522,
+      "millipercent": 500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Tea Green",
+      "flavor_id": 549,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Funkvaper",
+  "views": "548",
+  "slug": "tasty_tea",
+  "total_flavoring": "7.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

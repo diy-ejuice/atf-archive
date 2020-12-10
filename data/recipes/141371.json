@@ -1,0 +1,56 @@
+{
+  "name": "Bazillionare's Shortbread",
+  "description": "My first attempt at a recipe  using all Wonder Flavours.  Needs some time to steep to get all the elements to align nicely.\r\n\r\nButter tart and shortbread cookie provide a nice buttery biscuit base, whilst the cookie crust also helps bridge the gap along with the cocoa to provide the chocolate.\r\nMilk caramel candy is more than suitable to provide the gooey caramel layer.",
+  "id": 141371,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/141371/Millionaire_27s_Sh_3400869b.jpg",
+  "updated_at": "2020-12-05T11:06:16.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butter Tart SC",
+      "flavor_id": 8360,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Cocoa SC",
+      "flavor_id": 8362,
+      "millipercent": 750,
+      "vendor": "WF"
+    },
+    {
+      "name": "Shortbread Cookies SC",
+      "flavor_id": 9045,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Milk Caramel Candy SC",
+      "flavor_id": 10102,
+      "millipercent": 2500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Chocolate Cookie Crust SC",
+      "flavor_id": 10110,
+      "millipercent": 1000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Statch",
+  "views": "1161",
+  "slug": "bazillionares_shortbread",
+  "total_flavoring": "7.75%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

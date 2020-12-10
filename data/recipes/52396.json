@@ -1,0 +1,80 @@
+{
+  "name": "Dense Cups (Banana Butterscotch)",
+  "description": "This banana butterscotch recipe was made on a whim and could probably use some some serious editing when time allows. As it stands today, I find the recipe quite delicious and have a few friends that regularly request a bottle. Give it 7 days minimum for the many many flavors to meld.",
+  "id": 52396,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52396/3056_en-us_large.jpg",
+  "updated_at": "2020-12-01T11:48:24.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 600,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Torrone",
+      "flavor_id": 550,
+      "millipercent": 400,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Saline (0.9%)",
+      "flavor_id": 5960,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "InsidiousBrew",
+  "views": "1223",
+  "slug": "dense_cups_banana_butterscotch",
+  "total_flavoring": "14.0%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

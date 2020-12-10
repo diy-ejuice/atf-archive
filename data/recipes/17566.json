@@ -1,0 +1,68 @@
+{
+  "name": "Klappgrot",
+  "description": "Sugary cranberry treat.",
+  "id": 17566,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:49:00.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cranberry",
+      "flavor_id": 41,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Passion Fruit",
+      "flavor_id": 93,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Italian Lemon Sicily",
+      "flavor_id": 78,
+      "millipercent": 600,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Shisha Banana",
+      "flavor_id": 815,
+      "millipercent": 600,
+      "vendor": "INW"
+    },
+    {
+      "name": "Waffle",
+      "flavor_id": 133,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 300,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Rice Crunchies",
+      "flavor_id": 142,
+      "millipercent": 200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 300,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "domyam",
+  "views": "1061",
+  "slug": "klappgrot",
+  "total_flavoring": "12.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

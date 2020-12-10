@@ -1,0 +1,44 @@
+{
+  "name": "Walter",
+  "description": "My Grandpa used to smoke these god awful non filters called Raleigh cigarettes, they were some sort or very dark and nutty ciggies. \r\nSo I started my search:\r\n\r\nI used Cubano Type because thats the darkest tobacco I own and it works well\r\nThe toasted almond and the Hazelnut give me the the nutty accents \r\nINW DNB is there to give me that ashy taste\r\n\r\nyou can add a little AP to give it some grit and body \r\n\r\nyou can add some spearmint/menthol to make it a little fresher",
+  "id": 66444,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66444/raleigh.jpg",
+  "updated_at": "2020-12-07T22:32:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cubano Type",
+      "flavor_id": 371,
+      "millipercent": 3200,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Toasted Almond",
+      "flavor_id": 294,
+      "millipercent": 1600,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 289,
+      "millipercent": 1600,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Tobacco Dirty Neutral (dnb)",
+      "flavor_id": 2186,
+      "millipercent": 250,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Sinesiom",
+  "views": "1464",
+  "slug": "walter",
+  "total_flavoring": "6.65%",
+  "steep_days": "25",
+  "best_vg": "50%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

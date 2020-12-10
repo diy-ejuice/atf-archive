@@ -1,0 +1,63 @@
+{
+  "name": "Blue Eyes Ultimate Dragon",
+  "description": "Mixer's Club Oct/Nov 2020 Find an old recipe and update it\r\n\r\nI took my own Blue Eyes White Dragon and took some two and a half years of mixing knowledge, and access to some 500+ more flavors than I had when I created the original and decided that there were exactly 2 aspects that could not be removed. INW Pitaya and WS-23. I didn't touch the Pitaya, 1.5% is perfect to give it all the pitaya weirdness without it taking over the entire recipe by force. I did reduce the cooling by 1/2 though, in part because I acknowledge others will be trying this and not everyone wants their \"cold\" to be bracing and in part because I didn't want to bury any of the flavors that I used.\r\n\r\nWith that in mind, I chose to stay with the inherent weirdness of the original when swapping things around. That made Hangsen blueberry the natural choice, ironically for its utterly unnatural \"electric\" blueberry flavor. That is paired with the fairly recently released FA Blueberry Juicy Ripe which is, by all accounts, fantastic. In this case I feel like it sorta tamps down the inherent weirdness of Hangsen's offering, but that's not, strictly, a bad thing.\r\n\r\nThe peaches I went with here are JF Honey peach, because it's fucking brilliant, and CAP juicy peach because it is nominally very similar to TFA peach juicy, but more importantly because it's all sorts of fakey peach rings without much body.\r\n\r\nA simple premise, perhaps nominally more grandiose than it should be, but I feel like this is a respectable \"re-imagining\" of the original.",
+  "id": 208345,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/208345/blue_eyes_ultimate_dragon_by_kraus_illustration_dc5pus3-fullview.jpg",
+  "updated_at": "2020-12-08T00:51:47.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dragon Fruit - Pitaya",
+      "flavor_id": 652,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 2076,
+      "millipercent": 2000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Blueberry Juicy Ripe",
+      "flavor_id": 10437,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Juicy Peach",
+      "flavor_id": 81,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Honey Peach",
+      "flavor_id": 4561,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 500,
+      "vendor": "OTHR"
+    }
+  ],
+  "author": "Foment_life",
+  "views": "328",
+  "slug": "blue_eyes_ultimate_dragon",
+  "total_flavoring": "9.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "wolfwheeler",
+      "score": "5",
+      "text": "This one is just better. Strong blueberry, juicier peach, and it feels more balanced with the ws-23. This is the Ultimate Dragon."
+    }
+  ]
+}

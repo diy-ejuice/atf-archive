@@ -1,0 +1,79 @@
+{
+  "name": "White Choconut",
+  "description": "White chocolate coconut cream with a touch of almond.  Tastes like the filling of a famous spherical confection.",
+  "id": 75663,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75663/WhiteChococos.png",
+  "updated_at": "2020-12-08T00:49:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "White Chocolate",
+      "flavor_id": 194,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Coconut",
+      "flavor_id": 605,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Coco' (coconut)",
+      "flavor_id": 416,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "HerrHut",
+  "views": "1669",
+  "slug": "white_choconut",
+  "total_flavoring": "8.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 3,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "TotallyLilt",
+      "score": "5",
+      "text": "Really really tasty, nice blend of coconut vanilla and white chocolate"
+    },
+    {
+      "user": "Zugmaschine",
+      "score": "none",
+      "text": "Love that Coconut :-)"
+    },
+    {
+      "user": "xela",
+      "score": "5",
+      "text": "Top notch! :-) "
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Peach Cookies",
+  "description": "Sweet Cookies with Peach and Apricot.\r\n\r\nSugar Cookie FW - The recipe started with this concentrate, it was mostly an effort to see how this conc works instead of the CAP version and it worked well according to my taste.\r\n\r\nPie Crust (TPA)/Cookie (FA) - I used Pie Crust to make the cookies more crusty and hard to the mouth and FA Cookie is there to enrich the cookie flavour of this recipe.",
+  "id": 54840,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54840/peach-pie-cookie-stack.jpg",
+  "updated_at": "2020-12-06T10:37:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Armenia (apricot)",
+      "flavor_id": 507,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 1426,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pie Crust",
+      "flavor_id": 179,
+      "millipercent": 750,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 300,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "daffynash",
+  "views": "995",
+  "slug": "peach_cookies",
+  "total_flavoring": "9.55%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

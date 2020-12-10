@@ -1,0 +1,50 @@
+{
+  "name": "Blueberry yogurt",
+  "description": "A really easy to mix blueberry yogurt, simple and delicious.",
+  "id": 176125,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/176125/image_search_1577139177608.png",
+  "updated_at": "2020-12-07T17:36:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 6000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": 1471,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Creamy Yogurt",
+      "flavor_id": 5,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Blueberry (extra)",
+      "flavor_id": 218,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Melatem",
+  "views": "1183",
+  "slug": "blueberry_yogurt",
+  "total_flavoring": "14.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

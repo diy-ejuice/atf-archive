@@ -1,0 +1,62 @@
+{
+  "name": "Scream",
+  "description": "Strawberries and cream using a little raspberry just to push the strawberry flavour a little more. The creams are quite rich with the Devon cream adding to the mouthfeel",
+  "id": 169179,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/169179/S_C.jpg",
+  "updated_at": "2020-12-02T08:01:12.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Devon Cream",
+      "flavor_id": 4223,
+      "millipercent": 2500,
+      "vendor": "CC"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 473,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Strawberry",
+      "flavor_id": 1711,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "SwissBigDin",
+  "views": "901",
+  "slug": "scream",
+  "total_flavoring": "11.5%",
+  "steep_days": "8",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

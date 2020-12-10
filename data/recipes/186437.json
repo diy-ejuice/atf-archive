@@ -1,0 +1,44 @@
+{
+  "name": "Frank Cars",
+  "description": "MADE ON LIVE SHOW...\r\nNOTE\r\nTPA PUMPKIN - IS VSO PUMPKIN\r\nTPA APPLE IS ALSO VSO\r\n",
+  "id": 186437,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:45:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 188,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pumpkin",
+      "flavor_id": 263,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Apple",
+      "flavor_id": 207,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cranberry",
+      "flavor_id": 2493,
+      "millipercent": 750,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "VapinTrucker",
+  "views": "455",
+  "slug": "frank_cars",
+  "total_flavoring": "9.75%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

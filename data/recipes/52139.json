@@ -1,0 +1,50 @@
+{
+  "name": "Manade",
+  "description": "Mango lemonade, best lemonade I've had to date...  these flavors play off each other beautifully.  This mix is bright, tart and very flavorful, not powdered mix shit, this is more full bodied freshly juiced mix.  I mix this max VG, but taste great all the way down to 80 VG for RTAs.",
+  "id": 52139,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52139/IMG_1618.JPG",
+  "updated_at": "2020-12-05T14:25:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mango",
+      "flavor_id": 3516,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 3617,
+      "millipercent": 1000,
+      "vendor": "SC"
+    },
+    {
+      "name": "Lemonade – SC",
+      "flavor_id": 7509,
+      "millipercent": 2500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Shisha Lemon",
+      "flavor_id": 828,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "CausticCloudCreator",
+  "views": "1496",
+  "slug": "manade",
+  "total_flavoring": "8.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "91%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

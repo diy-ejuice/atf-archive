@@ -1,0 +1,56 @@
+{
+  "name": "Strawberry Mint Lemonade",
+  "description": "#MIXATHON  Strawberry Mint Lemonade, used wintergreen for a more candy like mint to offset the lemonade.",
+  "id": 57536,
+  "image_url": null,
+  "updated_at": "2020-12-05T15:43:04.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemonade",
+      "flavor_id": 1336,
+      "millipercent": 5000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Wintergreen",
+      "flavor_id": 285,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 2000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "DIYorDIEMixathon",
+  "views": "1599",
+  "slug": "strawberry_mint_lemonade",
+  "total_flavoring": "13.5%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

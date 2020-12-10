@@ -1,0 +1,56 @@
+{
+  "name": "Grape Drake",
+  "description": "I recently got FW Grape Soda, and when I did a knuckle test, I was flooded with childhood memories of grape Kool-Aid, and knew I needed to mix up a batch.\r\n\r\nGrape soda , I started off at 5%, but the flavor was not strong enough, so I kicked it up to 8.  I added just enough Juicy Lemon to  accent the grape and brighten it a bit. A little dragonfruit to smooth and sweeten, and Supersweet for the cup of sugar sweetness.\r\n\r\nFeel free to adjust the sweetness to your taste , or add Koolada or WS23 to chill it down a bit",
+  "id": 87093,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/87093/purpledragon.jpg",
+  "updated_at": "2020-12-08T00:49:55.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Grape Soda",
+      "flavor_id": 1300,
+      "millipercent": 8000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragonfruit",
+      "flavor_id": 226,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "rickj",
+  "views": "2501",
+  "slug": "grape_drake",
+  "total_flavoring": "10.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 4.5,
+  "reviews": [
+    {
+      "user": "BryanF",
+      "score": "4",
+      "text": "I was looking for somewhere to use my grape soda, this one hits the spot. I just dont see what the lemon is doing? "
+    },
+    {
+      "user": "Jeffery801",
+      "score": "5",
+      "text": "I really like it. Good job"
+    }
+  ]
+}

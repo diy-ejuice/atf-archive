@@ -1,0 +1,50 @@
+{
+  "name": "Concrete Bourbon",
+  "description": "Based off a Bourbon Rickey... and well seeing as Concrete River's name is Rick and he put me onto Auroa which I love I thought I would use his name in this one.\r\n\r\nKentucky Bourbon = We all know and love for that boozy note\r\nVT Bourbon =  Has more complexity in flavour than the Kentucky so rounds out our bourbon heavy cocktail\r\nFA Aurora = The real citrus bite that you need in a Booze and Lime cocktail plus it adds some \"fizz\"\r\nFizzy Sherbet = Helps boost that fizz of the soda water and general cocktail feel\r\nFA Lime Tahity = Pushes it a bit more towards the \"lime\" rather than a generic citrus or lemon\r\n\r\nThe harshness seems to settle after a day but its pretty good off the shake",
+  "id": 89841,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89841/download.jpg",
+  "updated_at": "2020-12-07T17:34:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bourbon",
+      "flavor_id": 8839,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Aurora",
+      "flavor_id": 399,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Fizzy Sherbet",
+      "flavor_id": 8878,
+      "millipercent": 1000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Lime Tahity Cold Pressed",
+      "flavor_id": 581,
+      "millipercent": 500,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Drawaes",
+  "views": "1144",
+  "slug": "concrete_bourbon",
+  "total_flavoring": "5.75%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

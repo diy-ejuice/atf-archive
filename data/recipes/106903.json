@@ -1,0 +1,51 @@
+{
+  "name": "Blueberry Cotton Candy",
+  "description": "Just a really basic blueberry cotton candy flavored  recipe very popular with the 20ish crowd here in my home city ........ BASIC af recipe lol",
+  "id": 106903,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106903/cotton-candy.jpg",
+  "updated_at": "2020-12-08T00:50:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 2076,
+      "millipercent": 4000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": 1710,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "DaddyKane91",
+  "views": "3098",
+  "slug": "blueberry_cotton_candy",
+  "total_flavoring": "9.5%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "60",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "BigRed",
+      "score": "5",
+      "text": "simple but amazing "
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Campfire Banana Split",
+  "description": "A Campfire Banana Split as seen on Allrecipes.  The Banana Nut Bread is for a cooked banana note, the Banana Flambe is the main body of the recipe.  Marshmallow Gooey is used hard and put away wet.  Lava cake is Lava Cake, try it, love it.",
+  "id": 157898,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157898/campfban.jpg",
+  "updated_at": "2020-12-05T19:50:59.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Flambe",
+      "flavor_id": 9131,
+      "millipercent": 2600,
+      "vendor": "SA"
+    },
+    {
+      "name": "Lava Cake",
+      "flavor_id": 1493,
+      "millipercent": 1900,
+      "vendor": "LB"
+    },
+    {
+      "name": "Marshmallow (Gooey) SC",
+      "flavor_id": 10265,
+      "millipercent": 3700,
+      "vendor": "WF"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1185",
+  "slug": "campfire_banana_split",
+  "total_flavoring": "10.2%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

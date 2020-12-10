@@ -1,0 +1,44 @@
+{
+  "name": "Iceberg (Frozen Ocean Water)",
+  "description": "This is my attempt to recreate the Ocean Water beverage from Sonic, using only Liquid Barn flavors.\r\n\r\nDew Mountain is used as the base here,  and Coconut Milk gives it the beverage's distinct coconut taste.\r\nBlue Raspberry adds some extra body and enhances the sweet soda taste.  It also adds a bit of tartness that's not quite true to the beverage, but overall I'd say the addition of Blue Raspberry brings this recipe closer to the source than dew mountain and coconut milk alone.\r\n\r\nMenthol is optional, and adds a cooling sensation while also adding a slight minty taste.  I have not yet had a chance to experiment with WS-23, but it could theoretically be used in the menthol's place if the minty flavor of menthol is not desired.",
+  "id": 203439,
+  "image_url": null,
+  "updated_at": "2020-12-07T09:46:02.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Dew Mountain",
+      "flavor_id": 1488,
+      "millipercent": 9000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Blue Raspberry",
+      "flavor_id": 1479,
+      "millipercent": 6000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Coconut Milk",
+      "flavor_id": 1484,
+      "millipercent": 6000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Menthol",
+      "flavor_id": 1494,
+      "millipercent": 1000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "Vinderex",
+  "views": "379",
+  "slug": "iceberg_frozen_ocean_water",
+  "total_flavoring": "22.0%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

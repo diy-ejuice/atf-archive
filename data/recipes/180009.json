@@ -1,0 +1,44 @@
+{
+  "name": "Mixed berry custard cheesecake",
+  "description": "Mixed for Fresh03's \"simple mix\" show. Wanted to play with the new WF flavors, and of course VSO blueberry! The VV blueberry is VSO, I couldn't find it on the list. Sweeten to taste. ",
+  "id": 180009,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/180009/Berry-Bliss-Cheesecake-52373.jpg",
+  "updated_at": "2020-12-02T15:38:34.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard SC",
+      "flavor_id": 10414,
+      "millipercent": 2000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Strawberry Cheesecake SC",
+      "flavor_id": 10413,
+      "millipercent": 2500,
+      "vendor": "WF"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 8554,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Blueberry",
+      "flavor_id": 4757,
+      "millipercent": 4000,
+      "vendor": "VV"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "1123",
+  "slug": "mixed_berry_custard_cheesecake",
+  "total_flavoring": "9.75%",
+  "steep_days": "5",
+  "best_vg": "70%",
+  "temperature": "425",
+  "recipe_score": 0,
+  "reviews": []
+}

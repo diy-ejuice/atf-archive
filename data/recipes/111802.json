@@ -1,0 +1,63 @@
+{
+  "name": "Cereal on cream",
+  "description": "Crunchy cereal, on top of a heavy and milky cream!",
+  "id": 111802,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111802/pexels-photo-108291.jpeg",
+  "updated_at": "2020-12-08T00:50:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 600,
+      "vendor": "FA"
+    },
+    {
+      "name": "Peanut Butter",
+      "flavor_id": 291,
+      "millipercent": 600,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 176,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Milky Undertone PG",
+      "flavor_id": 6539,
+      "millipercent": 1500,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "Collectron",
+  "views": "2023",
+  "slug": "cereal_on_cream",
+  "total_flavoring": "7.2%",
+  "steep_days": "10",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "ancient7",
+      "score": "5",
+      "text": ""
+    }
+  ]
+}

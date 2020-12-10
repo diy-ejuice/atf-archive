@@ -1,0 +1,56 @@
+{
+  "name": "Oh! (Oh no, it's a Sox Knocker!)",
+  "description": "Caramel Candy Milk\r\n(Biscuit/Caramel Candy/Cream/Dairy-Milk/Milk & Honey/Sweetener)\r\n\r\nLet it steep for a week. At least a week to knock your sox off! The longer it steeps the tastier it becomes. Follow the recipe to replicate, different vendor ingredients will probably score different taste juice.\r\n\r\nPS\r\nFeel free to crank up caramel candy in case you have a hole in your sox. I found it working just right for me at 3%.",
+  "id": 88436,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88436/sarah-cervantes-185233.jpg",
+  "updated_at": "2020-12-01T07:51:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Caramel Candy",
+      "flavor_id": 1233,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Cream Milky Undertone PG",
+      "flavor_id": 6539,
+      "millipercent": 1500,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Dairy/Milk",
+      "flavor_id": 2164,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "dameer",
+  "views": "1283",
+  "slug": "oh_oh_no_its_a_sox_knocker",
+  "total_flavoring": "11.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

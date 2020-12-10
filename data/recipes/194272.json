@@ -1,0 +1,50 @@
+{
+  "name": "Eastern Brigade",
+  "description": "A small tribute to ChemicalBurnVictim's Brigade 2506. \r\nHaving adapted the Brigade little TFA Western to make it less forward and pipe-y, making it the Western Brigade, this is the other way around.\r\nUsing my favourite INW Dark (more leathery/aromatic than Black) and INW Garuda (leafy cigar). \r\nTFA Western brings a \"nasty\" cigarette-like leathery note that blends together with the smoky pair of INW DNB and FA Black Fire.\r\nFor MTL/POD would up by 50% the 3 tobaccos.",
+  "id": 194272,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194272/e_brigade.jpg",
+  "updated_at": "2020-12-06T12:56:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Classic For Pipe Dark",
+      "flavor_id": 766,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tobacco Absolute Garuda",
+      "flavor_id": 2717,
+      "millipercent": 1200,
+      "vendor": "INW"
+    },
+    {
+      "name": "Black Fire",
+      "flavor_id": 458,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Tobacco Dirty Neutral (dnb)",
+      "flavor_id": 2186,
+      "millipercent": 800,
+      "vendor": "INW"
+    },
+    {
+      "name": "Western",
+      "flavor_id": 384,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "JayWay",
+  "views": "552",
+  "slug": "eastern_brigade",
+  "total_flavoring": "4.5%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

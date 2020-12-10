@@ -1,0 +1,56 @@
+{
+  "name": "Iron Monkey",
+  "description": "Bananas Foster topped with a bourbon caramel drizzle, toasty buttered pecans, and a melty scoop of vanilla ice cream.\r\n\r\nMixed for more restricted direct lung RTAs, but it's good in everything.\r\n\r\nNotes:\r\n\r\nTFA Bananas Foster + Banana Cream = the dream team. Seriously the best. Super smooth & gooey banana with some caramelization and slight bready notes.\r\n\r\nFW Caramel Cinn Roll + Kentucky Bourbon = FW CCR is amazing. It's got one of the best caramel bakery flavors out there, super sweet and gooey caramel with a nice fluffy cinnamon roll underneath it. The Kentucky bourbon on its own is rather syrupy too, so adds to that thickness and leaves a bit of that astringent boozy aftertaste to the caramel, definitely pokes through the heaviness of the rest of the recipe too. Quite delicious.\r\n\r\n INW Custard does two things for the recipe: Thickens up that mouthfeel but also brings some of that eggy french toast vibe to the bananas foster base we're building on. I opt for less creamy and more buttery/eggy custards in my bakeries because of this. TFA Van Cust wouldn't be too bad here either and would likely blend well with the TFA base. INW just steeps quicker.\r\n\r\nPUR Butter Pecan = It's a decent flavor. Just wanted some more malty buttery notes and some nuttiness. FW would be a good replacement but I wanted to mess with some Purilum stuff to see if they'd hold up. Not super upfront but I still think it has its place here.",
+  "id": 118460,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118460/Bananas-Foster-French-Toast-from-Baked-Perfection-2.jpg",
+  "updated_at": "2020-12-07T17:35:13.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bananas Foster",
+      "flavor_id": 211,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Caramel Cinnamon Roll",
+      "flavor_id": 1234,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Butter Pecan",
+      "flavor_id": 7744,
+      "millipercent": 1500,
+      "vendor": "PUR"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "amouthforwar",
+  "views": "2030",
+  "slug": "iron_monkey",
+  "total_flavoring": "12.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Strawberry Kiwi Mango (Strawkimango)",
+  "description": "Yum yum\r\n\r\nMy most asked for flavor is very simple, yet very tasty. \r\n\r\nI go through a bottle of this very quickly. ",
+  "id": 2261,
+  "image_url": null,
+  "updated_at": "2020-12-07T12:45:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi Double ",
+      "flavor_id": 2734,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mango",
+      "flavor_id": 2720,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 10000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Saramon",
+  "views": "2570",
+  "slug": "strawberry_kiwi_mango_strawkimango",
+  "total_flavoring": "18.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

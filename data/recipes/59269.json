@@ -1,0 +1,62 @@
+{
+  "name": "Pecan cake",
+  "description": "Delicious pecan cake,sweet and thick.hope you enjoy as much as i do",
+  "id": 59269,
+  "image_url": null,
+  "updated_at": "2020-12-05T23:54:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Butter Pecan",
+      "flavor_id": 1212,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "DX Marshmallow",
+      "flavor_id": 4180,
+      "millipercent": 800,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1300,
+      "vendor": "FA"
+    },
+    {
+      "name": "Tres Leches",
+      "flavor_id": 1446,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 633,
+      "millipercent": 4000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "nks",
+  "views": "988",
+  "slug": "pecan_cake",
+  "total_flavoring": "13.1%",
+  "steep_days": "15",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,51 @@
+{
+  "name": "#Custard",
+  "description": "A delicious straight up custard.\r\nCap vanilla custard well of course it's in there we all know why.\r\nCap NY Cheesecake and Cap Cake Batter come in to give it a rich cake like profile dessert like.\r\nCap French Vanilla just throws another layer of delicious vanilla to complete this mix.\r\nThis one takes patience long steep honestly 2 weeks to a month for the best flavor but if you can wait it's worth the wait.",
+  "id": 77050,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77050/hash-tag-1363012_1920.png",
+  "updated_at": "2020-12-08T00:49:46.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "VaporDude",
+  "views": "2090",
+  "slug": "custard",
+  "total_flavoring": "15.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "Pretty good.  Cake batter is a nice touch in a sea of vanilla vanilla custards."
+    }
+  ]
+}

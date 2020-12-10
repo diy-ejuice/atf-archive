@@ -1,0 +1,44 @@
+{
+  "name": "Tickle me Pink",
+  "description": "A simple and delicious strawberry cupcake.  It would be better if it was steeped for a month but at 2 weeks it was really tasty.  This would be great to mix up and have ready just in time for Valentine's Day.  I wanted it to be fairly sweet since cupcakes usually are but you can adjust this to your taste.  You can also use your preferred sweetener.",
+  "id": 134997,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/134997/strawberry-milkshake-cupcakes-4-683x1024.jpg",
+  "updated_at": "2020-12-06T20:44:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Strawberry Milkshake",
+      "flavor_id": 8492,
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Strawberry Shortcake",
+      "flavor_id": 1753,
+      "millipercent": 3000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 129,
+      "millipercent": 7000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "Demented76",
+  "views": "1781",
+  "slug": "tickle_me_pink",
+  "total_flavoring": "14.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

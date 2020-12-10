@@ -1,0 +1,50 @@
+{
+  "name": "Crunk Cereal ",
+  "description": "",
+  "id": 291,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:33:26.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Fruit Circles",
+      "flavor_id": 139,
+      "millipercent": 5500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "BCrunk",
+  "views": "1657",
+  "slug": "crunk_cereal",
+  "total_flavoring": "17.5%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

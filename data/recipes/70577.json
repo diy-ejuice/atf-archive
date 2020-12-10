@@ -1,0 +1,44 @@
+{
+  "name": "Grievance",
+  "description": "This is a bang on Belmont clone. It tastes better than the original!",
+  "id": 70577,
+  "image_url": null,
+  "updated_at": "2020-11-30T17:51:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Mts Vape Wizard",
+      "flavor_id": 482,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Melon Cantaloupe",
+      "flavor_id": 529,
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "cexshun",
+  "views": "917",
+  "slug": "grievance",
+  "total_flavoring": "7.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

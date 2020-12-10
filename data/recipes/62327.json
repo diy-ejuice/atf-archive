@@ -1,0 +1,62 @@
+{
+  "name": "A night out",
+  "description": "a good recipe for a night out to accompany your favorite drink.i let the liquid breath for 4-5 hours in total during the steeping process",
+  "id": 62327,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:34:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Aged Bourbon Cream – Super Concentrate",
+      "flavor_id": 7826,
+      "millipercent": 1000,
+      "vendor": "RF"
+    },
+    {
+      "name": "Cherry Cigar",
+      "flavor_id": 758,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cherry Liqueur",
+      "flavor_id": 760,
+      "millipercent": 300,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cuba Cigar",
+      "flavor_id": 688,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tobacco Absolute Cuban Cigar",
+      "flavor_id": 8505,
+      "millipercent": 800,
+      "vendor": "INW"
+    },
+    {
+      "name": "Godfather",
+      "flavor_id": 656,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "nks",
+  "views": "1458",
+  "slug": "a_night_out",
+  "total_flavoring": "5.6%",
+  "steep_days": "20",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

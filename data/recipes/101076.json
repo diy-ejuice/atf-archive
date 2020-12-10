@@ -1,0 +1,38 @@
+{
+  "name": "NZ berry gelato",
+  "description": "This comes out quiet nice its just a simple strawberry and kiwi gelato that needs a good week steep.",
+  "id": 101076,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101076/images__5_.jpeg",
+  "updated_at": "2020-12-07T09:44:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Kiwi",
+      "flavor_id": 522,
+      "millipercent": 4000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Gelato",
+      "flavor_id": 185,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Benoz",
+  "views": "1311",
+  "slug": "nz_berry_gelato",
+  "total_flavoring": "12.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

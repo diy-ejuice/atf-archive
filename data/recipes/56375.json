@@ -1,0 +1,57 @@
+{
+  "name": " Twisted Mist",
+  "description": "This is a nice lemon lime flavor. Taste kinda like  Sprite  flavor. Great taste easy mix.  Great off the Shake best after 3 days",
+  "id": 56375,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56375/IMG_0353.JPG",
+  "updated_at": "2020-12-08T00:49:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 2500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lime Cold Pressed",
+      "flavor_id": 4891,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanillin 10% (pg)",
+      "flavor_id": 190,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DodgerFog33",
+  "views": "1124",
+  "slug": "twisted_mist",
+  "total_flavoring": "10.0%",
+  "steep_days": "3",
+  "best_vg": "60%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "rockwise",
+      "score": "5",
+      "text": "Some good stuff!! Thx for sharing. "
+    }
+  ]
+}

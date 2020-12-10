@@ -1,0 +1,74 @@
+{
+  "name": "Parallel Serial Donut",
+  "description": "A frosted donut topped with crunchy fruity cereal.  Equal amounts of two different cereal flavors are used, hence the name \"Parallel serial\". I chose FW Fruity Flakes and TPA Silly Rabbit, as the Silly Rabbit helps smooth out and tone down the brashness of the Fruity Flakes. These can be substituted for your own two favorite cereal flavors – I've tried a few different combinations and each worked fine due to the low concentrations used (not enough to bring out any of the \"off\" notes as can happen when using most cereal flavors in higher amounts). The combination of FW Fruity Flakes and TPA Silly Rabbit was my personal favorite.\r\n\r\nIf you get the \"Play-doh\" flavor from CAP Glazed Doughnut, you might want to consider switching the concentrations for it and CAP Sugar Cookie, using 2% CAP Glazed Doughnut and 3.5% CAP Sugar Cookie. But it's only used at 3.5% here, and the cereal flavors help push that particular note deep in the background, so I would advise trying it as it is first, then adjust from there.\r\n\r\nFW Cake (Yellow) can be swapped out for CAP Yellow Cake without much of a change if you have qualms about the fructose. But the FW version is definitely better here.\r\n\r\nThe acetyl pyrazine is optional, but it does help add a bit of crunchiness to the cereal on top.\r\n\r\nThis is surprisingly good as a shake and vape, but does improve a bit after a few days of steeping.",
+  "id": 86541,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86541/parallel-serial-donut.jpg",
+  "updated_at": "2020-12-06T20:50:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": 115,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Fruity Flakes",
+      "flavor_id": 1286,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Silly Rabbit Cereal",
+      "flavor_id": 143,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 750,
+      "vendor": "FW"
+    },
+    {
+      "name": "Acetyl Pyrazine 5%",
+      "flavor_id": 1709,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "JustinLFranks",
+  "views": "1702",
+  "slug": "parallel_serial_donut",
+  "total_flavoring": "13.25%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

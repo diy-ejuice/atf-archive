@@ -1,0 +1,63 @@
+{
+  "name": "Bluegrass Custard",
+  "description": "Optional flavors:\r\n\r\nFA Oak Barrel .25%\r\n\r\nFA Marzipan .25-.5%\r\n\r\nSweet Coconut:  .25%",
+  "id": 63127,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63127/maple-bourbon-custard-pie.jpg",
+  "updated_at": "2020-12-08T00:49:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard",
+      "flavor_id": 4388,
+      "millipercent": 1250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Creme Brulee (yc)",
+      "flavor_id": 894,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cream",
+      "flavor_id": 604,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": 638,
+      "millipercent": 80,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Marshmallow (Vanilla)",
+      "flavor_id": 1798,
+      "millipercent": 3000,
+      "vendor": "OOO"
+    }
+  ],
+  "author": "Freshepies",
+  "views": "1537",
+  "slug": "bluegrass_custard",
+  "total_flavoring": "7.08%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Earl",
+      "score": "5",
+      "text": "Thanks Fresh!, I'm on a huge Custard kick as of late, seen this and thought to my self...\" Self you like custards and you like bourbon, mix it\" so I did, Its ok off the shake but after a few days steep i'm sure it will be great,"
+    }
+  ]
+}

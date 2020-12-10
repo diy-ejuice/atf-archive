@@ -1,0 +1,44 @@
+{
+  "name": "The Honeymelon",
+  "description": "    Shake and Vape\r\n This is a delicate mix on melons. Honeydew with the accent of watermelon to round out a sweet and tasty melon vape. Juicy lemon was added to help bring the other flavors forward and taste more authentic. Supersweet was used to round off the tartness of the watermelon and give it a sweeter more flavorful mouth feel.",
+  "id": 62969,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62969/hmln.jpg",
+  "updated_at": "2020-12-01T11:48:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Honeydew",
+      "flavor_id": 238,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Watermelon – SC",
+      "flavor_id": 7561,
+      "millipercent": 1500,
+      "vendor": "RF"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Juicy Lemon",
+      "flavor_id": 79,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Blackblade",
+  "views": "1840",
+  "slug": "the_honeymelon",
+  "total_flavoring": "6.0%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

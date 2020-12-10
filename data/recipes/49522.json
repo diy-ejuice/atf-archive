@@ -1,0 +1,62 @@
+{
+  "name": "Blue Razzade",
+  "description": "A sweet, simple Blue Raspberry Lemonade.\r\nFW Blueberry, FA Raspberry and Raspberry Sweet combined make a great Blue Razz :)\r\n\r\n",
+  "id": 49522,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49522/IMG_0197.JPG",
+  "updated_at": "2020-12-05T23:54:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 3500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Berryl (raspberry)",
+      "flavor_id": 412,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Blue Raspberry Cotton Candy",
+      "flavor_id": 15,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Raspberry (sweet)",
+      "flavor_id": 267,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 3000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 339,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Wodde",
+  "views": "2658",
+  "slug": "blue_razzade",
+  "total_flavoring": "11.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

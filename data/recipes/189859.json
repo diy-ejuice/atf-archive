@@ -1,0 +1,69 @@
+{
+  "name": "Summer Cream",
+  "description": "Ayvaluv11 asked me if I had any ideas for a custard with Medicine Flower Wild Raspberry and this what I came up with. I think it still needs some tweaking, but is pretty good as is.",
+  "id": 189859,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:51:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Wild Raspberry",
+      "flavor_id": 4312,
+      "millipercent": 1500,
+      "vendor": "MF"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": 1,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Seakow",
+  "views": "620",
+  "slug": "summer_cream",
+  "total_flavoring": "9.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Ayvaluv11",
+      "score": "5",
+      "text": "Thanks Seakow for putting the effort into this, that means a lot !  Will mix this up tomorrow. You and others have all just been absolutely wonderful on here and so helpful in the great raspberry quest ! Love to you all ! "
+    }
+  ]
+}

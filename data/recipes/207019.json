@@ -1,0 +1,38 @@
+{
+  "name": "Chocolate Cake Shake",
+  "description": "OOO Chocolate Milk is a REEEALLY good base for this chocolate milk shake profile. It has a nice milky dairy note and a subtle hershey's chocolate syrup note.\r\n\r\nLB Vanilla Ice Cream is going to be our ice cream note. It's a little eggy, which is perfect for an ice cream. You won't get any notes of pepper from this flavor.\r\n\r\nOur cake note is JF Yellow Cake. Yellow Cake i a nice sweet bakery note, it's a bit dry but it blends up nicely with the dairy and chocolate notes.\r\n\r\nSweeten to taste.\r\n\r\nWatch the video here:\r\n\r\nhttps://youtu.be/rhJPYjTvRO0",
+  "id": 207019,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:34:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Chocolate Milk",
+      "flavor_id": 6446,
+      "millipercent": 6000,
+      "vendor": "OOO"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 4560,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "RUG_ly",
+  "views": "588",
+  "slug": "chocolate_cake_shake",
+  "total_flavoring": "11.0%",
+  "steep_days": "7",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

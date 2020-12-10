@@ -1,0 +1,56 @@
+{
+  "name": "Fred Pear",
+  "description": "Simple Italian Pear Custard Crostata\r\n\r\nINW Biscuit & FA Cookie = a buttery shortbread-style cookie crumble base\r\n\r\nFA Custard Premium:  if you have not yet tried this flavoring, it is a classic Italian crema pasticcera flavor without the heavy citrus notes of their regular custard and it is delicious! I somehow messed up and had this at 3.5... but it should be 2.5.\r\n\r\nINW Shisha Vanilla:  originally with FA Vanilla Classic, I like it better with INW's fare.\r\n\r\nINW Pear & FA Pear = FA's Pear is here to sweeten the recipe and after some steeping bring more creaminess to the mix...it also tames the much brighter INW Pear down a notch...the combo is very effective.\r\n\r\nOptional:  as always sweetener is subjective and at higher VG, I normally avoid using it.\r\n\r\nSteep this 5-7 days to allow the sharp INW Pear to settle into the mix.",
+  "id": 86106,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86106/crostata.jpg",
+  "updated_at": "2020-12-06T20:43:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 665,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Biscuit",
+      "flavor_id": 642,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cookie",
+      "flavor_id": 490,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "dioblanblu",
+  "views": "1261",
+  "slug": "fred_pear",
+  "total_flavoring": "6.5%",
+  "steep_days": "5",
+  "best_vg": "80%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Simple Strawberry and Cream",
+  "description": "Simple and delicious",
+  "id": 2263,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:40.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 10000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Saramon",
+  "views": "3959",
+  "slug": "simple_strawberry_and_cream",
+  "total_flavoring": "16.0%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "It's so hard for me to 5-star a S&amp;C, but I was tempted here.  It's delicious and a quick mix.&#xD;\n"
+    }
+  ]
+}

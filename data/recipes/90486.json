@@ -1,0 +1,56 @@
+{
+  "name": "Don",
+  "description": "Based on \"Lung Sauce\" this is a blackcurrant candy flavor. Fairly tasty, sorta like the FA Pazzo King but obviously not a 1:1 clone",
+  "id": 90486,
+  "image_url": null,
+  "updated_at": "2020-12-07T22:32:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 750,
+      "vendor": "INW"
+    },
+    {
+      "name": "Honeysuckle (pg)",
+      "flavor_id": 306,
+      "millipercent": 900,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Candy Base - Super Concentrate",
+      "flavor_id": 9302,
+      "millipercent": 1150,
+      "vendor": "RF"
+    },
+    {
+      "name": "Blackcurrant",
+      "flavor_id": 545,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemon Mix",
+      "flavor_id": 698,
+      "millipercent": 200,
+      "vendor": "INW"
+    }
+  ],
+  "author": "COB",
+  "views": "1165",
+  "slug": "don",
+  "total_flavoring": "6.0%",
+  "steep_days": "7",
+  "best_vg": "85%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

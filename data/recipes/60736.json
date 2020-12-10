@@ -1,0 +1,63 @@
+{
+  "name": "(RAP)ple",
+  "description": "* optional 4-5 drops citric acid (10%) per 30 ml (approximately .25%)\r\n\r\nA delicious juicy Raspberry Apple Peach flavor. First iteration. \r\n\r\n* if you find your getting too much of the vegetal note from the cactus feel free to drop it down to .25% I personally find after an overnight steep it adds a nice layer of clompexity to an otherwise simple recipe. ",
+  "id": 60736,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/60736/IMG_1329.jpg",
+  "updated_at": "2020-12-08T00:49:33.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Apple Fuji",
+      "flavor_id": 4886,
+      "millipercent": 2500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Raspberry",
+      "flavor_id": 667,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Peach (juicy)",
+      "flavor_id": 254,
+      "millipercent": 4500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 411,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Tw8sted_Alien",
+  "views": "1384",
+  "slug": "rapple",
+  "total_flavoring": "9.25%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "I just finished a 10ml tester of this stuff and it's pretty damn tasty"
+    }
+  ]
+}

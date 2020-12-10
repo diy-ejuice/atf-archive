@@ -1,0 +1,50 @@
+{
+  "name": "White Gummy",
+  "description": "",
+  "id": 25035,
+  "image_url": null,
+  "updated_at": "2020-12-07T02:13:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Gummy Candy (pg)",
+      "flavor_id": 234,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 809,
+      "millipercent": 5000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": 804,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Dragon Fruit - Pitaya",
+      "flavor_id": 652,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 200,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Dan7712",
+  "views": "2005",
+  "slug": "white_gummy",
+  "total_flavoring": "13.7%",
+  "steep_days": "1 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

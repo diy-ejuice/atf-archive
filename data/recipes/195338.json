@@ -1,0 +1,74 @@
+{
+  "name": "Strawberry vanilla milkshake v. 0.5",
+  "description": "This recipe took me about 2 months until I got it where I wanted it to be. Here in Switzerland there's a product called \"Energy milk, strawberry\" which is a strawberry flavored milk drink. I'd say it gets pretty close to that flavor, the upper notes are a wee bit more sharp and therefore more strawberry like due to FA red touch.\r\n\r\nI tried the recipe using different bavarian creams but none did the job quite like CAP sweet cream.\r\n\r\nThe CAP French Vanilla has been added to boost the CAP VBIC, maybe you can upgrade to a full percent. \r\n\r\nCan be vaped as a SNV, the strawberry will be very dominant. Let it steep to get the full flavor range. \r\n\r\nChangelog:\r\nV. 0.5: Removed 1% CAP Sweet Cream and added 1% CAP Ripe strawberries",
+  "id": 195338,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/195338/IMG_20200527_141513.jpg",
+  "updated_at": "2020-12-06T20:45:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 4,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ethyl Maltol 10%",
+      "flavor_id": 2311,
+      "millipercent": 1000,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Red Touch (strawberry)",
+      "flavor_id": 421,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 117,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "French Vanilla",
+      "flavor_id": 56,
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ripe Strawberries",
+      "flavor_id": 10273,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "insan0r",
+  "views": "1205",
+  "slug": "strawberry_vanilla_milkshake_v_05",
+  "total_flavoring": "13.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

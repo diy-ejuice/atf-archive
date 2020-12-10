@@ -1,0 +1,56 @@
+{
+  "name": "Fruit Salad V2",
+  "description": "V2 of Fruit Salad. With this I am trying to further develop the mix to add more of a juicy finish.",
+  "id": 183532,
+  "image_url": null,
+  "updated_at": "2020-12-07T23:38:32.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry (wild)",
+      "flavor_id": 215,
+      "millipercent": 3500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Honeydew Melon",
+      "flavor_id": 73,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 259,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "flavor_id": 121,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Wild Melon",
+      "flavor_id": 619,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "VG_Bonhoeffer",
+  "views": "629",
+  "slug": "fruit_salad_v2",
+  "total_flavoring": "14.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "65%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

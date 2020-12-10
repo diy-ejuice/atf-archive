@@ -1,0 +1,50 @@
+{
+  "name": "Grapefruit Pineapple Soda",
+  "description": "Fresh summertime soda for y'alls.\r\n\r\nThis one is long overdue, the legend @ID10-T requested this... months and months ago. Finally I got my shit together and finished it, and I think it turned out pretty darn good.\r\n\r\nNotes:\r\n**FLV Citrus Soda:** I wanted to see if this could be used in another scenario than the usual lemon/lime soda base, and it seems it could. Adding the other bitter and tangy grapefruit flavors on top of it definitley bends it in that direction, while still getting the \"fizz\" from the citrus soda.\r\n**VT Grapefruit:** Honestly I can't understand why this flavor isn't used more. After having tried most grapefruit flavors out there, this is probably my favourite one. It's got quite a citrus punch to it, almost a fizzy feel, which I like a lot and it complements citrus soda perfectly. It also has the right admount of bitterness that you expect from a grapefruit.\r\n**INW Grapefruit:** Has a bit of sweetness in it, something that VT's is lacking, although they are very similar and together they make for a well rounded bitter grapefruit flavor. I picked these two flavors because they are relatively bitter and \"citrusy\", as I want it to be a contrast to the sweet pineapples.\r\n**INW Pineapple:** Very fresh and juicy pineapple, almost like a pineapple juice. It's pretty weak in flavor though, hence the high percentage used.\r\n**CAP Golden Pineapple:** Together with INW it makes for a well rounded pineapple flavor. Also very sugary sweet, and I feel like it adds some body to it, which INW is lacking.\r\n**WS-23**: I haven't included the coolant in the recipe, but this one is *extremely* coolant compatible. I'd go for 0.5%, but I know everyone has their own preference depending on recent usage.",
+  "id": 190467,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190467/GPSoda.png",
+  "updated_at": "2020-12-07T19:16:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pineapple",
+      "flavor_id": 809,
+      "millipercent": 4000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Golden Pineapple",
+      "flavor_id": 61,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Grapefruit",
+      "flavor_id": 785,
+      "millipercent": 1500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Grapefruit",
+      "flavor_id": 8892,
+      "millipercent": 750,
+      "vendor": "VT"
+    },
+    {
+      "name": "Citrus Soda",
+      "flavor_id": 10083,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "staybert",
+  "views": "1395",
+  "slug": "grapefruit_pineapple_soda",
+  "total_flavoring": "8.5%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "70%",
+  "temperature": "420",
+  "recipe_score": 0,
+  "reviews": []
+}

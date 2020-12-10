@@ -1,0 +1,57 @@
+{
+  "name": "Damaged Errors",
+  "description": "Salted caramel cupcake. Work in progress as I've run out of some ingredients.",
+  "id": 76269,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/76269/Salted-Caramel-Cupcakes-11.jpg",
+  "updated_at": "2020-12-08T00:49:44.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake (yellow)",
+      "flavor_id": 1222,
+      "millipercent": 500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 5000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 187,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "DrumPunkD",
+  "views": "1425",
+  "slug": "damaged_errors",
+  "total_flavoring": "14.5%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "Nice and dense caramel bakery mix.  Well worth the mix, even if I did sub JF yellow cake for FW"
+    }
+  ]
+}

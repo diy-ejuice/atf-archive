@@ -1,0 +1,68 @@
+{
+  "name": "Fried IceCream",
+  "description": "I developed this recipe as a \"modern\" version of Wayne's Fried ice-cream\r\nCereal 27 + Berry Crunch give me a nice cereal that covers the Ice-cream \r\nVanilla custard + marshmallow and merenge to create our Ice-Cream base\r\nBavarian Cream and Joy for the \"Fried\" flavor and feeling\r\nStrawberry Ripe just for the sweetness of it.\r\n",
+  "id": 52878,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52878/FriedIceCream.jpg",
+  "updated_at": "2020-12-07T22:32:15.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Berry Crunch",
+      "flavor_id": 136,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Strawberry (ripe)",
+      "flavor_id": 271,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Joy",
+      "flavor_id": 401,
+      "millipercent": 750,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Sinesiom",
+  "views": "2664",
+  "slug": "fried_icecream",
+  "total_flavoring": "14.25%",
+  "steep_days": "7",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

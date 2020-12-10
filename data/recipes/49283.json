@@ -1,0 +1,57 @@
+{
+  "name": "Blulem Hazzard",
+  "description": "A rich blueberry lemonade, used Bilberry to buff out the Blackberry. Used a bit of Cactus to make it juicy... if the Lemonade is too strong just drop 1%. \r\n\r\nLet me know what you think! ",
+  "id": 49283,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49283/blue-lemonade-1400x1153.jpg",
+  "updated_at": "2020-12-08T00:49:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Blueberry",
+      "flavor_id": 1201,
+      "millipercent": 4500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Lemonade",
+      "flavor_id": 951,
+      "millipercent": 7500,
+      "vendor": "LA"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 100,
+      "vendor": "INW"
+    }
+  ],
+  "author": "Jacob55",
+  "views": "1522",
+  "slug": "blulem_hazzard",
+  "total_flavoring": "13.35%",
+  "steep_days": "3 (SNV)",
+  "best_vg": "100%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "I dropped the lemonade to 6 because that's where I like it.  The blueberry profile works nicely with the lemonade, and there's just enough cactus that you only know it's there if you're looking for it."
+    }
+  ]
+}

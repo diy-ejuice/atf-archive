@@ -1,0 +1,50 @@
+{
+  "name": "Keen on Coffee",
+  "description": "This recipe is a coffee sweetened with condensed milk. It is quite good, as the vanilla, milk, and cream make this coffee very creamy and thick. I currently have a batch steeping with a lower percentage of condensed milk (.25%) and sweetener added (CAP Super Sweet .5%) to see if that works out better. This recipe was best after a looooong steep of 14 days.",
+  "id": 52267,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52267/cold-brewed-coffee-with-sweetened-condensed-milk-1.jpg",
+  "updated_at": "2020-12-06T14:07:07.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cappuccino",
+      "flavor_id": 3596,
+      "millipercent": 2000,
+      "vendor": "SC"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Shisha Vanilla",
+      "flavor_id": 841,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Milk Condensed",
+      "flavor_id": 404,
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweet Cream",
+      "flavor_id": 183,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "InsidiousBrew",
+  "views": "1315",
+  "slug": "keen_on_coffee",
+  "total_flavoring": "6.5%",
+  "steep_days": "14",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

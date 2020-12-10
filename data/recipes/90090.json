@@ -1,0 +1,68 @@
+{
+  "name": "Chai Black",
+  "description": "Traditional recipe - black tea and milk and sweetener with vanilla, cardamom, clove and cinnamon - added creme brulee to round it out some - dx milk PLAIN by TPA IS a real flavor but doesn't come up here - DO USE DX MILK not milk chocolate !!!!",
+  "id": 90090,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90090/pexels-photo-259955.jpeg",
+  "updated_at": "2020-12-07T15:21:05.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "DX Milk Chocolate",
+      "flavor_id": 3501,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Black Tea",
+      "flavor_id": 344,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Clove",
+      "flavor_id": 492,
+      "millipercent": 400,
+      "vendor": "FA"
+    },
+    {
+      "name": "Madagascar (Vanilla Classic)",
+      "flavor_id": 526,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Crème Brulee",
+      "flavor_id": 4096,
+      "millipercent": 750,
+      "vendor": "RF"
+    },
+    {
+      "name": "Cinnamon Ceylon",
+      "flavor_id": 497,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cardamom",
+      "flavor_id": 498,
+      "millipercent": 650,
+      "vendor": "FA"
+    }
+  ],
+  "author": "spicygal",
+  "views": "941",
+  "slug": "chai_black",
+  "total_flavoring": "9.8%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

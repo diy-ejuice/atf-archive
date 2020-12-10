@@ -1,0 +1,38 @@
+{
+  "name": "Creamsicle Custard",
+  "description": "Simple 123 Creamsicle Custard, seems pretty good off the shake, but probably needs a good 2 weeks to steep the CAP VC (v1)",
+  "id": 204518,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/204518/ccc.jpg",
+  "updated_at": "2020-12-08T00:51:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Sweet Tangerine",
+      "flavor_id": 123,
+      "millipercent": 1250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Blood Orange",
+      "flavor_id": 1197,
+      "millipercent": 100,
+      "vendor": "FW"
+    }
+  ],
+  "author": "DadaFry",
+  "views": "984",
+  "slug": "creamsicle_custard",
+  "total_flavoring": "2.6%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

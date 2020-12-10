@@ -1,0 +1,50 @@
+{
+  "name": "Suddenly, Bananas!",
+  "description": "The random feature generated this for me. Tweaked some % to what sounded good and it produced a cinnamon-y banana cream that's actually pretty good shake-n-vape. A day or two and the cinnamon from the Graham Cracker will probably mellow out and let the banana come forward. There are hints of cake there that might come out after some time as well.",
+  "id": 18869,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/18869/suddenlybananas.jpg",
+  "updated_at": "2020-12-01T09:50:41.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Cream",
+      "flavor_id": 916,
+      "millipercent": 4000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Yellow Cake",
+      "flavor_id": 4560,
+      "millipercent": 3000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Butter",
+      "flavor_id": 147,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 62,
+      "millipercent": 2000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Terraburn",
+  "views": "1141",
+  "slug": "suddenly_bananas",
+  "total_flavoring": "12.0%",
+  "steep_days": "2 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

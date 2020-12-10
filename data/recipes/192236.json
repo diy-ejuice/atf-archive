@@ -1,0 +1,50 @@
+{
+  "name": "Simple Custard",
+  "description": "A super simple, super nice custard. \r\n\r\nLight, smooth yet full of flavour",
+  "id": 192236,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/192236/ee860a2a7d7a5fae4b9975bb9efc353c.jpg",
+  "updated_at": "2020-12-07T04:41:30.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Custard Premium",
+      "flavor_id": 9118,
+      "millipercent": 6000,
+      "vendor": "FA"
+    },
+    {
+      "name": "New York Cheesecake",
+      "flavor_id": 90,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Sweetener",
+      "flavor_id": 1432,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "MCrane81",
+  "views": "1015",
+  "slug": "simple_custard",
+  "total_flavoring": "15.0%",
+  "steep_days": "14",
+  "best_vg": "60%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

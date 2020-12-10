@@ -1,0 +1,32 @@
+{
+  "name": "Utterly Unvapeable",
+  "description": "Another one for someone with horrible taste, LA Watermelon is nasty, and mixing fruit and marshmallow is just wrong, but...",
+  "id": 161604,
+  "image_url": null,
+  "updated_at": "2020-12-06T12:56:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Watermelon",
+      "flavor_id": 984,
+      "millipercent": 5000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 1351,
+      "millipercent": 1000,
+      "vendor": "FW"
+    }
+  ],
+  "author": "COB",
+  "views": "802",
+  "slug": "utterly_unvapeable",
+  "total_flavoring": "6.0%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

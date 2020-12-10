@@ -1,0 +1,56 @@
+{
+  "name": "Let Them Eat Cake",
+  "description": "A fluffy moist vanilla cake.\r\n\r\nSteeping is a must. The Cake batter, Bavarian cream and vanilla swirls need about a week to develop. Sweeten as desired.",
+  "id": 53862,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53862/IMG_4402.jpg",
+  "updated_at": "2020-12-08T00:49:27.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cake Batter",
+      "flavor_id": 22,
+      "millipercent": 5000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 2314,
+      "millipercent": 4000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 87,
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 1187,
+      "millipercent": 2000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 289,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "wheresthecrisis",
+  "views": "1363",
+  "slug": "let_them_eat_cake",
+  "total_flavoring": "18.0%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

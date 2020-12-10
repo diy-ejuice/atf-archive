@@ -1,0 +1,51 @@
+{
+  "name": "Kimmy Bells",
+  "description": "This is a clone of Eight Bells, cloned from http://e-liquid-recipes.com/recipe/260134/Eight%20Bells%20clone. This was updated to a higher VG content like the original Eight Bells and Mild Black changed to TPA Black Mile as they don't make Mild Black anymore. Needs a 2 week steep minimum. \r\n\r\nATF doesn't list TPA Black Mile as a flavor, just know that is what you will have to use to make this. You can't find Mild Black anymore. ",
+  "id": 91561,
+  "image_url": null,
+  "updated_at": "2020-12-06T22:02:35.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mild Black",
+      "flavor_id": 374,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Double Chocolate (clear)",
+      "flavor_id": 158,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": 325,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Toasted Marshmallow",
+      "flavor_id": 340,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "OkiePapist",
+  "views": "940",
+  "slug": "kimmy_bells",
+  "total_flavoring": "16.0%",
+  "steep_days": "14",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 1,
+  "reviews": [
+    {
+      "user": "cbunker35",
+      "score": "1",
+      "text": ""
+    }
+  ]
+}

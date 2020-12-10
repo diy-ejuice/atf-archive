@@ -1,0 +1,81 @@
+{
+  "name": "Butterscotch Malt",
+  "description": "This recipe is still in the developmental stages, but tastes pretty damn good at this point so I thought I would share.  My favorite treat as a child was a butterscotch milkshake from a little mom and pop ice cream shop.  This is my attempt at recreating that experience and is coming along nicely. This is a very rich, heavy mouth feel type vape, the same thing you would experience with a nice thick milkshake, I think I have the milkshake base down pretty well, now perfecting the butterscotch is my mission. I have found FW butterscotch ripple to be the closest tasting butterscotch to what I had tasted in the milkshake, so I am working on deepening the butterscotch flavor. It's pretty good as a shake and vape, but the butterscotch will start to come out more after a couple days of steeping. Any input is welcome, let me know what you think. I will update any revisions I make in the comments section. ",
+  "id": 24639,
+  "image_url": null,
+  "updated_at": "2020-12-08T00:48:57.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Vanilla Bean Ice Cream",
+      "flavor_id": 186,
+      "millipercent": 6000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 6000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Hazelnut",
+      "flavor_id": 1312,
+      "millipercent": 1000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Marshmallow",
+      "flavor_id": 332,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Carmel (caramel)",
+      "flavor_id": 503,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Malted Milk (conc)",
+      "flavor_id": 175,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": 3,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "CloudChef",
+  "views": "2369",
+  "slug": "butterscotch_malt",
+  "total_flavoring": "20.0%",
+  "steep_days": "5 (SNV)",
+  "best_vg": "75%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 4,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "4",
+      "text": "This made a nice, smooth warm cream"
+    }
+  ]
+}

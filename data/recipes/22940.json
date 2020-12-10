@@ -1,0 +1,45 @@
+{
+  "name": "Bilberry meringue",
+  "description": "Reminds me of a blue berry scone with sweet cinnamon",
+  "id": 22940,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/22940/very-blueberry-scones1.jpg",
+  "updated_at": "2020-12-08T00:48:56.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Bilberry",
+      "flavor_id": 533,
+      "millipercent": 1750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cinnamon Crunch",
+      "flavor_id": 611,
+      "millipercent": 1000,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "ItsKame",
+  "views": "1429",
+  "slug": "bilberry_meringue",
+  "total_flavoring": "3.75%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Chyeahbuddy",
+      "score": "5",
+      "text": "Can't wait to mix up!"
+    }
+  ]
+}

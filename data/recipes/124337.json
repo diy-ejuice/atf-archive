@@ -1,0 +1,44 @@
+{
+  "name": "Ginger Snaps",
+  "description": "My boyfriend's favorite. He loves pastries/sweets and I make him this all the time. ",
+  "id": 124337,
+  "image_url": null,
+  "updated_at": "2020-12-06T08:37:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie V2",
+      "flavor_id": 116,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Ginger",
+      "flavor_id": 3513,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Bavarian Cream (vanilla)",
+      "flavor_id": 917,
+      "millipercent": 2000,
+      "vendor": "LA"
+    },
+    {
+      "name": "Vanilla Swirl",
+      "flavor_id": 189,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "ClouDude",
+  "views": "709",
+  "slug": "ginger_snaps",
+  "total_flavoring": "8.0%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

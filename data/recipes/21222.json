@@ -1,0 +1,56 @@
+{
+  "name": "Sigma-RY-Four",
+  "description": "Simple Ry4 Custard recipe.\r\nFa nut mix really kicks this mix up a notch, the nicely sweet and ting of bitter is fantastic.\r\nErythritol is great for sweetening without covering up the great custard flavor you get from Cap VCV1.\r\n",
+  "id": 21222,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/21222/roswelldebris.jpg",
+  "updated_at": "2020-12-07T15:20:22.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Nut Mix",
+      "flavor_id": 537,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "flavor_id": 1217,
+      "millipercent": 1500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": 131,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Erythritol Solution (5%)",
+      "flavor_id": 5549,
+      "millipercent": 2000,
+      "vendor": "NN"
+    },
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 4000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cream Cheese Icing",
+      "flavor_id": 2380,
+      "millipercent": 1000,
+      "vendor": "LA"
+    }
+  ],
+  "author": "ChefJohn",
+  "views": "1156",
+  "slug": "sigmaryfour",
+  "total_flavoring": "13.5%",
+  "steep_days": "30",
+  "best_vg": "100%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

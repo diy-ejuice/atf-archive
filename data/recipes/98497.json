@@ -1,0 +1,56 @@
+{
+  "name": "Pearamoya",
+  "description": "Not the biggest fan of fruit vapes, I prefer custards. But when I do vape fruit, it's tropical. Flavorah Cherimoya is the star here, enhanced with banana cream, pineapple and pear. The Inawera Custard enhances the creaminess of the cherimoya.",
+  "id": 98497,
+  "image_url": null,
+  "updated_at": "2020-12-07T19:15:31.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cherimoya",
+      "flavor_id": 4434,
+      "millipercent": 2500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pear",
+      "flavor_id": 665,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Banana Cream",
+      "flavor_id": 210,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pineapple",
+      "flavor_id": 2097,
+      "millipercent": 1000,
+      "vendor": "HS"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 2000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Sweetness",
+      "flavor_id": 4413,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "bqbdm8",
+  "views": "1213",
+  "slug": "pearamoya",
+  "total_flavoring": "9.0%",
+  "steep_days": "3",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

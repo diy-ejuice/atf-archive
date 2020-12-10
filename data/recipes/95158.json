@@ -1,0 +1,38 @@
+{
+  "name": "1-2-3 Orange Ice Cream",
+  "description": "Simple Orange ice cream using ID10-T's 1 2 3 idea.\r\nI'm still trying to figure out VT Mandarin. IMHO it is a candy orange but has an almost effervescent quality to it (ALMOST). I'm just getting into Orange vapes so my stockpile of flavors is limited. This is the most candy-like orange I have and it works pretty well here.\r\nFA Orange gets a bad rap but it's very realistic which seemed to balance out the VT mandarin's syrupy taste plus it's strong enough to show up @ 1%.\r\nLB Vanilla Ice Cream was a no brainer for me since I don't get pepper from it and it works well @ 3%. \r\nI didn't use sweetener because VT mandarin is very sweet already but it's DIY so if you like it sweeter then go for it.\r\nEnjoy",
+  "id": 95158,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95158/image.jpeg",
+  "updated_at": "2020-12-07T23:36:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Mandarin",
+      "flavor_id": 8923,
+      "millipercent": 2000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Orange",
+      "flavor_id": 500,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 3000,
+      "vendor": "LB"
+    }
+  ],
+  "author": "heatho72",
+  "views": "3253",
+  "slug": "123_orange_ice_cream",
+  "total_flavoring": "6.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

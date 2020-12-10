@@ -1,0 +1,38 @@
+{
+  "name": "Rin's Banana Tobacco",
+  "description": "Some people taste the bread part of the banana nut bread in this, I personally can't. I just taste banana (real, not candied) nuts and tobacco which was the intent. ",
+  "id": 112782,
+  "image_url": null,
+  "updated_at": "2020-12-07T23:36:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Banana Nut Bread",
+      "flavor_id": 144,
+      "millipercent": 3250,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Graham Cracker",
+      "flavor_id": 62,
+      "millipercent": 250,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Turkish Tobacco",
+      "flavor_id": 4429,
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "mixinvixens",
+  "views": "1054",
+  "slug": "rins_banana_tobacco",
+  "total_flavoring": "4.0%",
+  "steep_days": "2",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

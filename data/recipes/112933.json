@@ -1,0 +1,57 @@
+{
+  "name": "Frontier",
+  "description": "As close to a SNV RY4 custard as I can get. Ham-handed with percentages but it is meant for RTA use (billow 2.5 personally).\r\n\r\nFLV Tatanka is REALLY good SNV, sort of a sweet chewy leathery quality to it along with some honey-ish sweetness. I love this stuff. FLV Connecticut Shade is added to just darken it up a bit, bringing a nice coffee/cocoa note. JF RY4 Double is a solid base to work around for the caramel/molasses notes but it's not as monotone as TFA and IMO works well at accenting other dessert baccos.\r\n\r\nINW Custard because it doesn't require much steeping and a bit of TFA Bavarian Cream to smooth out some edges.\r\n\r\nEDIT: halved RY4D, dropped Tatanka by 0.5%, switched FLV Red Burley for Connecticut Shade and upped to 1.5%. Original mix developed a very strong raisin note after a month steep, presumably from both the tatanka and ry4d (both have a bit of a fruity note to me), which were pretty high strength. In retrospect, I wanted to keep the flavor of Tatanka but just wanted that ry4 there to emulsify everything, so modifications have been made to achieve that.",
+  "id": 112933,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112933/1328323-7.jpg",
+  "updated_at": "2020-12-08T00:50:21.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "RY4 Double",
+      "flavor_id": 4490,
+      "millipercent": 2000,
+      "vendor": "JF"
+    },
+    {
+      "name": "Custard",
+      "flavor_id": 4210,
+      "millipercent": 3000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Tatanka Tobacco",
+      "flavor_id": 4417,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Connecticut Shade",
+      "flavor_id": 4365,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "amouthforwar",
+  "views": "1717",
+  "slug": "frontier",
+  "total_flavoring": "9.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "It's good to see a dark, bold tobacco recipe where the creator did a little more than simply throw some vanilla at it to smooth it out a little.  This is really, really nice."
+    }
+  ]
+}

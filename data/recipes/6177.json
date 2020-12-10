@@ -1,0 +1,56 @@
+{
+  "name": "Guava-Lime Candy",
+  "description": "Guava-Lime candy with hints of tropical/citrus notes.",
+  "id": 6177,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:33:29.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Pink Guava",
+      "flavor_id": 637,
+      "millipercent": 250,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Lime",
+      "flavor_id": 662,
+      "millipercent": 250,
+      "vendor": "INW"
+    },
+    {
+      "name": "Lemon Lime",
+      "flavor_id": 83,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Dragon Fruit - Pitaya",
+      "flavor_id": 652,
+      "millipercent": 1000,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Fuji",
+      "flavor_id": 506,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "Soggy0atmeal",
+  "views": "1571",
+  "slug": "guavalime_candy",
+  "total_flavoring": "6.25%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

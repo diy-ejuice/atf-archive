@@ -1,0 +1,44 @@
+{
+  "name": "Toffee Ice Cream",
+  "description": "Smooth creamy ice cream with toffee chunks. Nice mouthful of cream with the burnt brown sugar taste of the toffee.",
+  "id": 206535,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206535/download.jpg",
+  "updated_at": "2020-12-07T22:34:20.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Toffee Ice Cream",
+      "flavor_id": 8987,
+      "millipercent": 7000,
+      "vendor": "VT"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "flavor_id": 1511,
+      "millipercent": 2000,
+      "vendor": "LB"
+    },
+    {
+      "name": "Caramel (salted)",
+      "flavor_id": 1232,
+      "millipercent": 2500,
+      "vendor": "FW"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": 2384,
+      "millipercent": 500,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "BryanF",
+  "views": "544",
+  "slug": "toffee_ice_cream",
+  "total_flavoring": "12.0%",
+  "steep_days": "5",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

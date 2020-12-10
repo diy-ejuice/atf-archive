@@ -1,0 +1,56 @@
+{
+  "name": "Wan Records",
+  "description": "Still need to work on the \"tea\" aspect, but it's getting there and it's tasty the way it is. ",
+  "id": 172383,
+  "image_url": null,
+  "updated_at": "2020-12-07T12:47:52.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sweet Tea",
+      "flavor_id": 369,
+      "millipercent": 8000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Green Tea",
+      "flavor_id": 355,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "WS-23",
+      "flavor_id": 8085,
+      "millipercent": 750,
+      "vendor": "OTHR"
+    },
+    {
+      "name": "Lemon Sicily",
+      "flavor_id": 524,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Grape",
+      "flavor_id": 784,
+      "millipercent": 500,
+      "vendor": "INW"
+    },
+    {
+      "name": "Cactus",
+      "flavor_id": 647,
+      "millipercent": 500,
+      "vendor": "INW"
+    }
+  ],
+  "author": "MightyShill",
+  "views": "661",
+  "slug": "wan_records",
+  "total_flavoring": "12.75%",
+  "steep_days": "0 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Pumpkin Pie",
+  "description": "A nice pumpkin pie blend",
+  "id": 273,
+  "image_url": null,
+  "updated_at": "2020-12-07T17:33:25.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cheesecake (graham Crust)",
+      "flavor_id": 152,
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Whipped Cream",
+      "flavor_id": 193,
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": 145,
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Pumpkin Spice",
+      "flavor_id": 309,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cinnamon Ceylon",
+      "flavor_id": 497,
+      "millipercent": 250,
+      "vendor": "FA"
+    }
+  ],
+  "author": "sodakdave",
+  "views": "1202",
+  "slug": "pumpkin_pie",
+  "total_flavoring": "6.25%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}

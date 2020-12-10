@@ -1,0 +1,74 @@
+{
+  "name": "Crunched",
+  "description": "A delicious honey almond crunch cereal.  Needs about a week steep for everything to come together",
+  "id": 9764,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9764/almond-crunch-cereal-05027.jpg",
+  "updated_at": "2020-12-08T00:48:45.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Cereal 27",
+      "flavor_id": 4163,
+      "millipercent": 4000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Almond",
+      "flavor_id": 528,
+      "millipercent": 1500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": 530,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Cream Fresh",
+      "flavor_id": 540,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Vienna Cream",
+      "flavor_id": 516,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "Deweysuds",
+  "views": "2267",
+  "slug": "crunched",
+  "total_flavoring": "11.5%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 2,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "Dougiedoug",
+      "score": "5",
+      "text": "Thanks for sharing, great recipe, tastes just like crunchy nut corn flakes! "
+    },
+    {
+      "user": "cdaniell30",
+      "score": "5",
+      "text": "I really like this, even though I don't quite know how to describe it.  It's almost a sweet tobacco and a dark-grain cereal with the slightest hint of milkiness.  Whatever it is, it's pretty damn good."
+    }
+  ]
+}

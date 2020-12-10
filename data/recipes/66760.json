@@ -1,0 +1,51 @@
+{
+  "name": "Lazy Dog ",
+  "description": "A simple RY4 recipe with brown sugar, bourbon and strong red oak notes.",
+  "id": 66760,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66760/17861809_10208341766614203_263472861198068490_n.jpg",
+  "updated_at": "2020-12-08T00:49:37.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Ry4 Double",
+      "flavor_id": 379,
+      "millipercent": 5000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Brown Sugar",
+      "flavor_id": 313,
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Red Oak",
+      "flavor_id": 375,
+      "millipercent": 2000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Kentucky Bourbon",
+      "flavor_id": 361,
+      "millipercent": 500,
+      "vendor": "TPA"
+    }
+  ],
+  "author": "VladimirosStafylidis",
+  "views": "1406",
+  "slug": "lazy_dog",
+  "total_flavoring": "8.0%",
+  "steep_days": "20",
+  "best_vg": "70%",
+  "temperature": "0",
+  "total_reviews": 1,
+  "recipe_score": 5,
+  "reviews": [
+    {
+      "user": "robolto78",
+      "score": "5",
+      "text": "This is a solid RY4. I let it steep for 18 days and it is considerably better than it was of the shake. The tobacco experience is strong with a slightly \"dry\" feel to it backed up by the sweet undertones of the RY4. The brown sugar and bourbon frame it very well with a docile sweetness effectively making me wanna sit around like a Lazy Dog. This is gonna pair real well with my George Dickel in the cabinet. Great Job!!"
+    }
+  ]
+}

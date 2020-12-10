@@ -1,0 +1,80 @@
+{
+  "name": "Doughness v2",
+  "description": "Based on some new info gleaned from beginner mixing I decided to omit meringue and marshmallow that I had been specifically using for sweetness and instead went with vanilla cupcake. Also of note I added funnel cake in to slightly up the hint of cinnamon. For those that experience a yeasty or \"beer\" taste from fa joy you can omit it as I'm betting with the use of the other donut flavors it is likely not needed. ",
+  "id": 13465,
+  "image_url": null,
+  "updated_at": "2020-12-06T20:37:58.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Glazed Doughnut",
+      "flavor_id": 59,
+      "millipercent": 3500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Frosted Donut",
+      "flavor_id": 171,
+      "millipercent": 2500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "wOw",
+      "flavor_id": 4456,
+      "millipercent": 2000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Milk & Honey",
+      "flavor_id": 609,
+      "millipercent": 1500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Pandoro",
+      "flavor_id": 538,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Marzipan",
+      "flavor_id": 467,
+      "millipercent": 1000,
+      "vendor": "FA"
+    },
+    {
+      "name": "Funnel Cake",
+      "flavor_id": 4166,
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Cupcake",
+      "flavor_id": 129,
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Joy",
+      "flavor_id": 401,
+      "millipercent": 750,
+      "vendor": "FA"
+    },
+    {
+      "name": "Metaphor",
+      "flavor_id": 4455,
+      "millipercent": 2000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "R08U57",
+  "views": "2159",
+  "slug": "doughness_v2",
+  "total_flavoring": "16.75%",
+  "steep_days": "0",
+  "best_vg": "0%",
+  "temperature": "0",
+  "recipe_score": 0,
+  "reviews": []
+}
