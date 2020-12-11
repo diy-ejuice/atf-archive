@@ -54,7 +54,9 @@ const createFlavorPages = (options) =>
     nodes {
       id
       name
-      vendor
+      vendor {
+        abbreviation
+      }
     }
   }
 }
