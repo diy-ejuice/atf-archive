@@ -12,6 +12,7 @@ module.exports = {
     description: 'A repository of ATF recipes.',
     siteUrl: 'https://atf-archive.diyejuice.org/'
   },
+  flags: { QUERY_ON_DEMAND: true },
   plugins: [
     'gatsby-transformer-json',
     {
