@@ -1,13 +1,13 @@
-import { FixedSizeList as List } from 'react-window';
 import { graphql, Link } from 'gatsby';
+import { debounce } from 'lodash';
 import PropTypes from 'prop-types';
 import React, { useCallback, useState } from 'react';
 import { Container, Card, FormControl } from 'react-bootstrap';
+import { FixedSizeList as List } from 'react-window';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import { getRecipeSlug } from '~utils';
-import { debounce } from 'lodash';
 
 export default function RecipesPage({ data }) {
   const recipes = data.allRecipesJson.nodes;
