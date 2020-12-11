@@ -2,9 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { Card } from 'react-bootstrap';
 
-export default function Reviews({ recipe }) {
-  const { reviews } = recipe;
-
+export default function Reviews({ reviews }) {
   return (
     reviews &&
     reviews.map((review) => (

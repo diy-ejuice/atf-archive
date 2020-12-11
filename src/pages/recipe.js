@@ -66,7 +66,7 @@ export default function RecipePage({ data }) {
                   <h4>{recipe.views} views</h4>
                   <Row className="atf-recipe-review-info">
                     <Col xs={4}>
-                      <h4>{recipe.total_reviews} reviews</h4>
+                      <h4>{recipe.reviews.length} reviews</h4>
                     </Col>
                     <Col>
                       <ProgressBar
@@ -127,7 +127,7 @@ export default function RecipePage({ data }) {
                 Toggle Reviews
               </Accordion.Toggle>
               <Accordion.Collapse>
-                <Reviews recipe={recipe} />
+                <Reviews reviews={recipe.reviews} />
               </Accordion.Collapse>
             </Accordion>
           </Card.Body>
@@ -151,7 +151,6 @@ export const pageQuery = graphql`
       steep_days
       temperature
       recipe_score
-      total_reviews
       updated_at
       best_vg
       views
