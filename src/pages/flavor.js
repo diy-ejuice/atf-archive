@@ -20,17 +20,11 @@ export default function FlavorPage({ data }) {
   const flavor = data.flavorsJson;
   const recipes = data.allRecipesJson.nodes;
 
-  const filteredRecipes = recipes.filter((recipe) =>
-    recipe.recipe_flavors.find(
-      (recipeFlavor) => recipeFlavor.flavor_id === parseInt(flavor.id, 10)
-    )
-  );
-
   const chartData = [];
 
-  const percentages = filteredRecipes.map((recipe) => {
+  const percentages = recipes.map((recipe) => {
     const { millipercent } = recipe.recipe_flavors.find(
-      (recipeFlavor) => recipeFlavor.flavor_id === parseInt(flavor.id, 10)
+      (recipeFlavor) => recipeFlavor.flavor_id === flavor.id
     );
 
     return millipercent / 1e3;
@@ -49,7 +43,7 @@ export default function FlavorPage({ data }) {
   }
 
   function RecipeRow({ index, style }) {
-    const recipe = filteredRecipes[index];
+    const recipe = recipes[index];
 
     return (
       <Card key={recipe.id} style={style}>
@@ -87,15 +81,15 @@ export default function FlavorPage({ data }) {
           <Line
             type="monotone"
             dataKey="count"
-            stroke="#8884d8"
+            stroke="#17a2b8"
             strokeWidth={2}
             activeDot={{ r: 8 }}
           />
         </LineChart>
         <List
           height={800}
-          itemData={filteredRecipes}
-          itemCount={filteredRecipes.length}
+          itemData={recipes}
+          itemCount={recipes.length}
           itemSize={60}
         >
           {RecipeRow}
@@ -120,7 +114,9 @@ export const pageQuery = graphql`
       }
     }
 
-    allRecipesJson {
+    allRecipesJson(
+      filter: { recipe_flavors: { elemMatch: { flavor_id: { eq: $id } } } }
+    ) {
       nodes {
         id
         name
