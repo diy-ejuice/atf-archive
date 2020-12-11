@@ -9,7 +9,7 @@ const createPages = async (
 ) => {
   const { createPage } = actions;
   const result = await graphql(query);
-  const component = resolve(`src/pages/${pageName}.js`);
+  const component = resolve(`src/templates/${pageName}.js`);
 
   if (result.errors) {
     reporter.panicOnBuild('Error while running GraphQL query.');

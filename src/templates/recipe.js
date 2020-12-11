@@ -66,7 +66,7 @@ export default function RecipePage({ data }) {
                   <h4>{recipe.views} views</h4>
                   <Row className="atf-recipe-review-info">
                     <Col xs={4}>
-                      <h4>{recipe.reviews.length} reviews</h4>
+                      <h4>{recipe.reviews?.length} reviews</h4>
                     </Col>
                     <Col>
                       <ProgressBar
@@ -161,7 +161,6 @@ export const pageQuery = graphql`
       }
       reviews {
         user
-        score
         text
       }
     }
