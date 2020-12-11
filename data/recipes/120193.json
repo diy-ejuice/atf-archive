@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Apricot",
-      "flavor_id": 10,
+      "flavor_id": "10",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Catalan Cream",
-      "flavor_id": 483,
+      "flavor_id": "483",
       "millipercent": 1250,
       "vendor": "FA"
     },
     {
       "name": "Desert Ship",
-      "flavor_id": 2016,
+      "flavor_id": "2016",
       "millipercent": 1500,
       "vendor": "HS"
     },
     {
       "name": "Highway",
-      "flavor_id": 2018,
+      "flavor_id": "2018",
       "millipercent": 1500,
       "vendor": "HS"
     },
     {
       "name": "Liquid Amber",
-      "flavor_id": 476,
+      "flavor_id": "476",
       "millipercent": 400,
       "vendor": "FA"
     },
     {
       "name": "Peach",
-      "flavor_id": 804,
+      "flavor_id": "804",
       "millipercent": 750,
       "vendor": "INW"
     }

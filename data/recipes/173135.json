@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Grapes",
-      "flavor_id": 9189,
+      "flavor_id": "9189",
       "millipercent": 2000,
       "vendor": "INW"
     },
     {
       "name": "Bilberry",
-      "flavor_id": 533,
+      "flavor_id": "533",
       "millipercent": 1000,
       "vendor": "FA"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Cake (yellow)",
-      "flavor_id": 1222,
+      "flavor_id": "1222",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Toasted Marshmallow",
-      "flavor_id": 340,
+      "flavor_id": "340",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Lemon",
-      "flavor_id": 1655,
+      "flavor_id": "1655",
       "millipercent": 2000,
       "vendor": "FE"
     }

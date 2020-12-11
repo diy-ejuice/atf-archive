@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Peppermint",
-      "flavor_id": 100,
+      "flavor_id": "100",
       "millipercent": 750,
       "vendor": "CAP"
     },
     {
       "name": "Chocolate",
-      "flavor_id": 762,
+      "flavor_id": "762",
       "millipercent": 750,
       "vendor": "INW"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 3000,
       "vendor": "INW"
     },
     {
       "name": "Coconut",
-      "flavor_id": 37,
+      "flavor_id": "37",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Irish Cream",
-      "flavor_id": 520,
+      "flavor_id": "520",
       "millipercent": 250,
       "vendor": "FA"
     },
     {
       "name": "Sweetener (sucralose)",
-      "flavor_id": 2308,
+      "flavor_id": "2308",
       "millipercent": 1000,
       "vendor": "FW"
     }

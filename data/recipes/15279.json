@@ -9,43 +9,43 @@
   "recipe_flavors": [
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 7000,
       "vendor": "TPA"
     },
     {
       "name": "Butter Cream",
-      "flavor_id": 3,
+      "flavor_id": "3",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Pound Cake",
-      "flavor_id": 4306,
+      "flavor_id": "4306",
       "millipercent": 2000,
       "vendor": "FLV"
     },
     {
       "name": "Cinnamon Danish Swirl",
-      "flavor_id": 35,
+      "flavor_id": "35",
       "millipercent": 2250,
       "vendor": "CAP"
     },
     {
       "name": "Fuji",
-      "flavor_id": 506,
+      "flavor_id": "506",
       "millipercent": 1350,
       "vendor": "FA"
     },
     {
       "name": "Hazelnut",
-      "flavor_id": 1312,
+      "flavor_id": "1312",
       "millipercent": 250,
       "vendor": "FW"
     },
     {
       "name": null,
-      "flavor_id": null,
+      "flavor_id": "null",
       "millipercent": 0,
       "vendor": null
     }

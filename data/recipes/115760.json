@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Blueberry (wild)",
-      "flavor_id": 215,
+      "flavor_id": "215",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Cheesecake (graham Crust)",
-      "flavor_id": 152,
+      "flavor_id": "152",
       "millipercent": 4000,
       "vendor": "TPA"
     }

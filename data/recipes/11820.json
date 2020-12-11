@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Banana",
-      "flavor_id": 603,
+      "flavor_id": "603",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Sweet Coconut",
-      "flavor_id": 605,
+      "flavor_id": "605",
       "millipercent": 2000,
       "vendor": "FLV"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Fuji",
-      "flavor_id": 506,
+      "flavor_id": "506",
       "millipercent": 4000,
       "vendor": "FA"
     }

@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "French Vanilla",
-      "flavor_id": 56,
+      "flavor_id": "56",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard V2",
-      "flavor_id": 132,
+      "flavor_id": "132",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Ethyl Maltol",
-      "flavor_id": 1710,
+      "flavor_id": "1710",
       "millipercent": 1000,
       "vendor": "TPA"
     }

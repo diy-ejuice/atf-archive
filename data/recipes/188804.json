@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Pear",
-      "flavor_id": 411,
+      "flavor_id": "411",
       "millipercent": 1400,
       "vendor": "FA"
     },
     {
       "name": "Elderflower",
-      "flavor_id": 3518,
+      "flavor_id": "3518",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Yakima Hops",
-      "flavor_id": 3478,
+      "flavor_id": "3478",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2000,
       "vendor": "TPA"
     }

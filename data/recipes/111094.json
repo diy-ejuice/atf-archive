@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Cucumber",
-      "flavor_id": 43,
+      "flavor_id": "43",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Kiwi",
-      "flavor_id": 1330,
+      "flavor_id": "1330",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Wild Melon",
-      "flavor_id": 619,
+      "flavor_id": "619",
       "millipercent": 2500,
       "vendor": "FLV"
     }

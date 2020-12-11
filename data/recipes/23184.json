@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Yellow Cake",
-      "flavor_id": 5854,
+      "flavor_id": "5854",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Peanut Butter Cup",
-      "flavor_id": 3502,
+      "flavor_id": "3502",
       "millipercent": 5000,
       "vendor": "RF"
     },
     {
       "name": "Peanut Butter",
-      "flavor_id": 291,
+      "flavor_id": "291",
       "millipercent": 2000,
       "vendor": "TPA"
     }

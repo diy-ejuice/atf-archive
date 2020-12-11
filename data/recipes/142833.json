@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Grape Juice",
-      "flavor_id": 231,
+      "flavor_id": "231",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Pomegranate",
-      "flavor_id": 262,
+      "flavor_id": "262",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Menthol (liquid)",
-      "flavor_id": 1353,
+      "flavor_id": "1353",
       "millipercent": 1000,
       "vendor": "FW"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 500,
       "vendor": "OTHR"
     }

@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 10000,
       "vendor": "CAP"
     },
     {
       "name": "Apple Pie",
-      "flavor_id": 551,
+      "flavor_id": "551",
       "millipercent": 4000,
       "vendor": "FA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 145,
+      "flavor_id": "145",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Fuji",
-      "flavor_id": 506,
+      "flavor_id": "506",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Pear",
-      "flavor_id": 411,
+      "flavor_id": "411",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1500,
       "vendor": "TPA"
     }

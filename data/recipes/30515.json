@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 4,
+      "flavor_id": "4",
       "millipercent": 6000,
       "vendor": "CAP"
     },
     {
       "name": "Coconut Candy",
-      "flavor_id": 223,
+      "flavor_id": "223",
       "millipercent": 1750,
       "vendor": "TPA"
     },
     {
       "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": 521,
+      "flavor_id": "521",
       "millipercent": 2250,
       "vendor": "FA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 1187,
+      "flavor_id": "1187",
       "millipercent": 1500,
       "vendor": "FW"
     }

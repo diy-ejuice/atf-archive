@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Apple Pie",
-      "flavor_id": 551,
+      "flavor_id": "551",
       "millipercent": 2000,
       "vendor": "FA"
     },
     {
       "name": "Cream Fresh",
-      "flavor_id": 540,
+      "flavor_id": "540",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     }

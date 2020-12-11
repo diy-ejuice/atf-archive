@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Creme Brulee (yc)",
-      "flavor_id": 894,
+      "flavor_id": "894",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 56,
+      "flavor_id": "56",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 10000,
       "vendor": "CAP"
     }

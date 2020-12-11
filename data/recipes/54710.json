@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cake (yellow)",
-      "flavor_id": 1222,
+      "flavor_id": "1222",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Powdered Sugar",
-      "flavor_id": 6522,
+      "flavor_id": "6522",
       "millipercent": 1500,
       "vendor": "OOO"
     },
     {
       "name": "Custard",
-      "flavor_id": 4210,
+      "flavor_id": "4210",
       "millipercent": 1250,
       "vendor": "INW"
     },
     {
       "name": "Cream Cheese Icing",
-      "flavor_id": 2380,
+      "flavor_id": "2380",
       "millipercent": 500,
       "vendor": "LA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 250,
       "vendor": "CAP"
     }

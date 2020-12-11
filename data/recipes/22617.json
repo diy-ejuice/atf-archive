@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Yellow Cake",
-      "flavor_id": 5854,
+      "flavor_id": "5854",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Cherry Extract",
-      "flavor_id": 222,
+      "flavor_id": "222",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 2000,
       "vendor": "TPA"
     }

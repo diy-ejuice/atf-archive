@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Banana",
-      "flavor_id": 12,
+      "flavor_id": "12",
       "millipercent": 10000,
       "vendor": "CAP"
     },
     {
       "name": "Bubblegum",
-      "flavor_id": 315,
+      "flavor_id": "315",
       "millipercent": 8000,
       "vendor": "TPA"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 332,
+      "flavor_id": "332",
       "millipercent": 2000,
       "vendor": "TPA"
     }

@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Lemonade",
-      "flavor_id": 951,
+      "flavor_id": "951",
       "millipercent": 2000,
       "vendor": "LA"
     },
     {
       "name": "Jackfruit",
-      "flavor_id": 4359,
+      "flavor_id": "4359",
       "millipercent": 2500,
       "vendor": "FLV"
     }

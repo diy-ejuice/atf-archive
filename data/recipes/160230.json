@@ -1,48 +1,48 @@
 {
-    "name": "Peaches & Cream",
-    "description": "Simple and good, Peaches & Cream.\r\nThe two best peaches with two smooth creams. \r\nNothing fancy, just enjoyable and sweet peaches and cream.",
-    "id": 160230,
-    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160230\/IMG_1241.JPG",
-    "updated_at": "2020-12-07T19:16:11.000-05:00",
-    "deleted_at": null,
-    "recipe_type": 1,
-    "recipe_flavors": [
-        {
-            "name": "Peach Pie & Cream",
-            "flavor_id": 6058,
-            "millipercent": 5000,
-            "vendor": "WF"
-        },
-        {
-            "name": "Yogurt",
-            "flavor_id": 1471,
-            "millipercent": 3000,
-            "vendor": "FW"
-        },
-        {
-            "name": "Vanilla Whipped Cream",
-            "flavor_id": 1,
-            "millipercent": 2000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Super Sweet",
-            "flavor_id": 2384,
-            "millipercent": 500,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Peach",
-            "flavor_id": 629,
-            "millipercent": 500,
-            "vendor": "FLV"
-        }
-    ],
-    "author": "VenSyBoy",
-    "views": "1159",
-    "slug": "peaches_cream",
-    "total_flavoring": "11.0%",
-    "steep_days": "7 (SNV)",
-    "best_vg": "0%",
-    "temperature": "0"
+  "name": "Peaches & Cream",
+  "description": "Simple and good, Peaches & Cream.\r\nThe two best peaches with two smooth creams. \r\nNothing fancy, just enjoyable and sweet peaches and cream.",
+  "id": 160230,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160230/IMG_1241.JPG",
+  "updated_at": "2020-12-07T19:16:11.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Peach Pie & Cream",
+      "flavor_id": "6058",
+      "millipercent": 5000,
+      "vendor": "WF"
+    },
+    {
+      "name": "Yogurt",
+      "flavor_id": "1471",
+      "millipercent": 3000,
+      "vendor": "FW"
+    },
+    {
+      "name": "Vanilla Whipped Cream",
+      "flavor_id": "1",
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Super Sweet",
+      "flavor_id": "2384",
+      "millipercent": 500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Peach",
+      "flavor_id": "629",
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "VenSyBoy",
+  "views": "1159",
+  "slug": "peaches_cream",
+  "total_flavoring": "11.0%",
+  "steep_days": "7 (SNV)",
+  "best_vg": "0%",
+  "temperature": "0"
 }

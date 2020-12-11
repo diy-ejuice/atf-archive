@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 186,
+      "flavor_id": "186",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Grape Juice",
-      "flavor_id": 231,
+      "flavor_id": "231",
       "millipercent": 3500,
       "vendor": "TPA"
     },
     {
       "name": "Kiwi (double)",
-      "flavor_id": 242,
+      "flavor_id": "242",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Koolada 10 Pg",
-      "flavor_id": 280,
+      "flavor_id": "280",
       "millipercent": 250,
       "vendor": "TPA"
     }

@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "New York Cheesecake",
-      "flavor_id": 7772,
+      "flavor_id": "7772",
       "millipercent": 5000,
       "vendor": "PUR"
     },
     {
       "name": "Soho",
-      "flavor_id": 413,
+      "flavor_id": "413",
       "millipercent": 7000,
       "vendor": "FA"
     }

@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 2250,
       "vendor": "CAP"
     },
     {
       "name": "Apple Pie",
-      "flavor_id": 551,
+      "flavor_id": "551",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 4000,
       "vendor": "LB"
     }

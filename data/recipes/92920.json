@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Café Coffee",
-      "flavor_id": 1220,
+      "flavor_id": "1220",
       "millipercent": 1000,
       "vendor": "FW"
     },
     {
       "name": "Caramel Candy",
-      "flavor_id": 1233,
+      "flavor_id": "1233",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Smooth Cappuccino Cream",
-      "flavor_id": 6060,
+      "flavor_id": "6060",
       "millipercent": 3000,
       "vendor": "WF"
     }

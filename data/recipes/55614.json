@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 17,
+      "flavor_id": "17",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 1391,
+      "flavor_id": "1391",
       "millipercent": 3500,
       "vendor": "FW"
     },
     {
       "name": "Lemonade (pink)",
-      "flavor_id": 1337,
+      "flavor_id": "1337",
       "millipercent": 1000,
       "vendor": "FW"
     },
     {
       "name": "Bilberry",
-      "flavor_id": 533,
+      "flavor_id": "533",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Sour Wizard",
-      "flavor_id": 4354,
+      "flavor_id": "4354",
       "millipercent": 150,
       "vendor": "FA"
     }

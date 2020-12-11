@@ -9,49 +9,49 @@
   "recipe_flavors": [
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "Butterscotch",
-      "flavor_id": 1216,
+      "flavor_id": "1216",
       "millipercent": 500,
       "vendor": "FW"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 56,
+      "flavor_id": "56",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Red Touch (strawberry)",
-      "flavor_id": 421,
+      "flavor_id": "421",
       "millipercent": 3500,
       "vendor": "FA"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 117,
+      "flavor_id": "117",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard V2",
-      "flavor_id": 132,
+      "flavor_id": "132",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 1000,
       "vendor": "CAP"
     }

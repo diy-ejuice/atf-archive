@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Graham Cracker Clear",
-      "flavor_id": 325,
+      "flavor_id": "325",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 1000,
       "vendor": "CAP"
     }

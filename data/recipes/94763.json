@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 3000,
       "vendor": "LB"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 145,
+      "flavor_id": "145",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Apple Filling",
-      "flavor_id": 4376,
+      "flavor_id": "4376",
       "millipercent": 4000,
       "vendor": "FLV"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

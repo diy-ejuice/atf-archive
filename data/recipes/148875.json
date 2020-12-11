@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Juicy Orange",
-      "flavor_id": 80,
+      "flavor_id": "80",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Fizzy Sherbet",
-      "flavor_id": 8878,
+      "flavor_id": "8878",
       "millipercent": 2000,
       "vendor": "VT"
     },
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 1000,
       "vendor": "CAP"
     }

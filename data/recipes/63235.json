@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Belgian Waffle",
-      "flavor_id": 1478,
+      "flavor_id": "1478",
       "millipercent": 4250,
       "vendor": "LB"
     },
     {
       "name": "Cream Fresh",
-      "flavor_id": 540,
+      "flavor_id": "540",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Cookie",
-      "flavor_id": 490,
+      "flavor_id": "490",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 56,
+      "flavor_id": "56",
       "millipercent": 1750,
       "vendor": "CAP"
     },
     {
       "name": "Waffle (yc)",
-      "flavor_id": 744,
+      "flavor_id": "744",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 3000,
       "vendor": "LB"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blackberry",
-      "flavor_id": 214,
+      "flavor_id": "214",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Strawberry",
-      "flavor_id": 272,
+      "flavor_id": "272",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Holy Vanilla",
-      "flavor_id": 2385,
+      "flavor_id": "2385",
       "millipercent": 1000,
       "vendor": "DFS"
     }

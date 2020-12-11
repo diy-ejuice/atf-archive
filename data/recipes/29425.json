@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Sweet Mango",
-      "flavor_id": 120,
+      "flavor_id": "120",
       "millipercent": 4500,
       "vendor": "CAP"
     },
     {
       "name": "Philippine Mango",
-      "flavor_id": 258,
+      "flavor_id": "258",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Jelly Candy",
-      "flavor_id": 2170,
+      "flavor_id": "2170",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Cinnamon Red Hot (no Pg)",
-      "flavor_id": 389,
+      "flavor_id": "389",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     }

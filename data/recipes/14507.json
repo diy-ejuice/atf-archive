@@ -9,43 +9,43 @@
   "recipe_flavors": [
     {
       "name": "Banana Cream",
-      "flavor_id": 210,
+      "flavor_id": "210",
       "millipercent": 3500,
       "vendor": "TPA"
     },
     {
       "name": "Banò (banana)",
-      "flavor_id": 501,
+      "flavor_id": "501",
       "millipercent": 750,
       "vendor": "FA"
     },
     {
       "name": "Caramel",
-      "flavor_id": 2120,
+      "flavor_id": "2120",
       "millipercent": 1250,
       "vendor": "HS"
     },
     {
       "name": "Brown Sugar",
-      "flavor_id": 313,
+      "flavor_id": "313",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": null,
-      "flavor_id": null,
+      "flavor_id": "null",
       "millipercent": 0,
       "vendor": null
     },
     {
       "name": "Rich Cinnamon",
-      "flavor_id": 638,
+      "flavor_id": "638",
       "millipercent": 100,
       "vendor": "FLV"
     }

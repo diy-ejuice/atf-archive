@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Jackfruit",
-      "flavor_id": 240,
+      "flavor_id": "240",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Cactus",
-      "flavor_id": 647,
+      "flavor_id": "647",
       "millipercent": 3000,
       "vendor": "INW"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 1500,
       "vendor": "OTHR"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

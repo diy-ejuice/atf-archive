@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 2000,
       "vendor": "INW"
     },
     {
       "name": "Bubblegum",
-      "flavor_id": 315,
+      "flavor_id": "315",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 750,
       "vendor": "CAP"
     }

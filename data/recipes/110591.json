@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sour Apple",
-      "flavor_id": 4379,
+      "flavor_id": "4379",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 2250,
       "vendor": "CAP"
     },
     {
       "name": "Red Touch (strawberry)",
-      "flavor_id": 421,
+      "flavor_id": "421",
       "millipercent": 2750,
       "vendor": "FA"
     },
     {
       "name": "Fizzy Sherbet",
-      "flavor_id": 8878,
+      "flavor_id": "8878",
       "millipercent": 1500,
       "vendor": "VT"
     }

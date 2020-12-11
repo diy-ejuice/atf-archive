@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Cappuccino V2",
-      "flavor_id": 25,
+      "flavor_id": "25",
       "millipercent": 8000,
       "vendor": "CAP"
     },
     {
       "name": "Chocolate Glazed Doughnut",
-      "flavor_id": 34,
+      "flavor_id": "34",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Cream Fresh",
-      "flavor_id": 540,
+      "flavor_id": "540",
       "millipercent": 2000,
       "vendor": "FA"
     }

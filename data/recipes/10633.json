@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Cream",
-      "flavor_id": 604,
+      "flavor_id": "604",
       "millipercent": 2000,
       "vendor": "FLV"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Cookie",
-      "flavor_id": 490,
+      "flavor_id": "490",
       "millipercent": 500,
       "vendor": "FA"
     }

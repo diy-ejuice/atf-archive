@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Blood Orange",
-      "flavor_id": 1197,
+      "flavor_id": "1197",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 186,
+      "flavor_id": "186",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Rainbow Sherbet",
-      "flavor_id": 1390,
+      "flavor_id": "1390",
       "millipercent": 5000,
       "vendor": "FW"
     },
     {
       "name": null,
-      "flavor_id": null,
+      "flavor_id": "null",
       "millipercent": 0,
       "vendor": null
     }

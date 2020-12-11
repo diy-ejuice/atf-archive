@@ -1,60 +1,60 @@
 {
-    "name": "School cookies ",
-    "description": "This vapor will bring back memories of elementary school lunch snickerdoodie cookie",
-    "id": 31774,
-    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31774\/1486919463621-383161096.jpg",
-    "updated_at": "2020-12-06T07:14:50.000-05:00",
-    "deleted_at": null,
-    "recipe_type": 1,
-    "recipe_flavors": [
-        {
-            "name": "Sugar Cookie",
-            "flavor_id": 115,
-            "millipercent": 8000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Graham Cracker Clear",
-            "flavor_id": 325,
-            "millipercent": 3000,
-            "vendor": "TPA"
-        },
-        {
-            "name": "Toasted Almond",
-            "flavor_id": 294,
-            "millipercent": 500,
-            "vendor": "TPA"
-        },
-        {
-            "name": "Butter Cream",
-            "flavor_id": 3,
-            "millipercent": 2000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Acetyl Pyrazine",
-            "flavor_id": 1709,
-            "millipercent": 1500,
-            "vendor": "TPA"
-        },
-        {
-            "name": "Ethyl Maltol",
-            "flavor_id": 1710,
-            "millipercent": 1000,
-            "vendor": "TPA"
-        },
-        {
-            "name": "Cinnamon danish swirl ",
-            "flavor_id": 7132,
-            "millipercent": 750,
-            "vendor": "CAP"
-        }
-    ],
-    "author": "Morningstar",
-    "views": "946",
-    "slug": "school_cookies",
-    "total_flavoring": "16.75%",
-    "steep_days": "21",
-    "best_vg": "0%",
-    "temperature": "0"
+  "name": "School cookies ",
+  "description": "This vapor will bring back memories of elementary school lunch snickerdoodie cookie",
+  "id": 31774,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31774/1486919463621-383161096.jpg",
+  "updated_at": "2020-12-06T07:14:50.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": "115",
+      "millipercent": 8000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Graham Cracker Clear",
+      "flavor_id": "325",
+      "millipercent": 3000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Toasted Almond",
+      "flavor_id": "294",
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Butter Cream",
+      "flavor_id": "3",
+      "millipercent": 2000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Acetyl Pyrazine",
+      "flavor_id": "1709",
+      "millipercent": 1500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Ethyl Maltol",
+      "flavor_id": "1710",
+      "millipercent": 1000,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Cinnamon danish swirl ",
+      "flavor_id": "7132",
+      "millipercent": 750,
+      "vendor": "CAP"
+    }
+  ],
+  "author": "Morningstar",
+  "views": "946",
+  "slug": "school_cookies",
+  "total_flavoring": "16.75%",
+  "steep_days": "21",
+  "best_vg": "0%",
+  "temperature": "0"
 }

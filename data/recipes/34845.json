@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Custard",
-      "flavor_id": 4210,
+      "flavor_id": "4210",
       "millipercent": 3000,
       "vendor": "INW"
     },
     {
       "name": "Brown Sugar",
-      "flavor_id": 313,
+      "flavor_id": "313",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Whipped Cream",
-      "flavor_id": 193,
+      "flavor_id": "193",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Shisha Vanilla",
-      "flavor_id": 841,
+      "flavor_id": "841",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Caramel",
-      "flavor_id": 151,
+      "flavor_id": "151",
       "millipercent": 750,
       "vendor": "TPA"
     }

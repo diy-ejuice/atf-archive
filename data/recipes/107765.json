@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Peppermint",
-      "flavor_id": 100,
+      "flavor_id": "100",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 108,
+      "flavor_id": "108",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 17,
+      "flavor_id": "17",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 3000,
       "vendor": "CAP"
     }

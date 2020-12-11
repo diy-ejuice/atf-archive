@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Apricot",
-      "flavor_id": 10,
+      "flavor_id": "10",
       "millipercent": 9000,
       "vendor": "CAP"
     },
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Peach",
-      "flavor_id": 961,
+      "flavor_id": "961",
       "millipercent": 4000,
       "vendor": "LA"
     },
     {
       "name": "Peach Ripe",
-      "flavor_id": 1942,
+      "flavor_id": "1942",
       "millipercent": 1000,
       "vendor": "OOO"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 2500,
       "vendor": "TPA"
     }

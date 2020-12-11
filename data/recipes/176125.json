@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 6000,
       "vendor": "FW"
     },
     {
       "name": "Yogurt",
-      "flavor_id": 1471,
+      "flavor_id": "1471",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Blueberry (extra)",
-      "flavor_id": 218,
+      "flavor_id": "218",
       "millipercent": 2000,
       "vendor": "TPA"
     }

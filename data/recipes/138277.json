@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Holy Vanilla",
-      "flavor_id": 2385,
+      "flavor_id": "2385",
       "millipercent": 1750,
       "vendor": "DFS"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 183,
+      "flavor_id": "183",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 500,
       "vendor": "TPA"
     }

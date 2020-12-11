@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Grape Soda",
-      "flavor_id": 1300,
+      "flavor_id": "1300",
       "millipercent": 8000,
       "vendor": "FW"
     },
     {
       "name": "Lemonade",
-      "flavor_id": 951,
+      "flavor_id": "951",
       "millipercent": 5000,
       "vendor": "LA"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Grape Candy",
-      "flavor_id": 327,
+      "flavor_id": "327",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 500,
       "vendor": "OTHR"
     }

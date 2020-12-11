@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Apple Pie",
-      "flavor_id": 8,
+      "flavor_id": "8",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "French Vanilla Icecream",
-      "flavor_id": 2129,
+      "flavor_id": "2129",
       "millipercent": 2000,
       "vendor": "HS"
     },
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Hazelnut",
-      "flavor_id": 1312,
+      "flavor_id": "1312",
       "millipercent": 250,
       "vendor": "FW"
     },
     {
       "name": "Apple Fuji",
-      "flavor_id": 4886,
+      "flavor_id": "4886",
       "millipercent": 250,
       "vendor": "FA"
     }

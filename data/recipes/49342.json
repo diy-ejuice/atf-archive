@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Cream Cheese Icing",
-      "flavor_id": 2380,
+      "flavor_id": "2380",
       "millipercent": 1500,
       "vendor": "LA"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 3500,
       "vendor": "FW"
     },
     {
       "name": "Berry Crunch",
-      "flavor_id": 136,
+      "flavor_id": "136",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 145,
+      "flavor_id": "145",
       "millipercent": 1500,
       "vendor": "TPA"
     }

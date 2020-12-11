@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 6000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Caramel",
-      "flavor_id": 612,
+      "flavor_id": "612",
       "millipercent": 5000,
       "vendor": "FLV"
     }

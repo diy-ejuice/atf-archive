@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cake (yellow)",
-      "flavor_id": 1222,
+      "flavor_id": "1222",
       "millipercent": 500,
       "vendor": "FW"
     },
     {
       "name": "Carmel (caramel)",
-      "flavor_id": 503,
+      "flavor_id": "503",
       "millipercent": 5000,
       "vendor": "FA"
     },
     {
       "name": "Caramel (salted)",
-      "flavor_id": 1232,
+      "flavor_id": "1232",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Vanilla Cupcake",
-      "flavor_id": 187,
+      "flavor_id": "187",
       "millipercent": 6000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1000,
       "vendor": "TPA"
     }

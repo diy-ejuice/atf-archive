@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Custard",
-      "flavor_id": 4210,
+      "flavor_id": "4210",
       "millipercent": 3000,
       "vendor": "INW"
     },
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "Shisha Orange",
-      "flavor_id": 832,
+      "flavor_id": "832",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": 420,
+      "flavor_id": "420",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Almond",
-      "flavor_id": 528,
+      "flavor_id": "528",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Cherry",
-      "flavor_id": 4889,
+      "flavor_id": "4889",
       "millipercent": 500,
       "vendor": "FA"
     }

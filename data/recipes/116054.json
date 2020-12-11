@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 145,
+      "flavor_id": "145",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 1432,
+      "flavor_id": "1432",
       "millipercent": 500,
       "vendor": "FW"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 6000,
       "vendor": "LB"
     },
     {
       "name": "Whipped Cream",
-      "flavor_id": 1460,
+      "flavor_id": "1460",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 6000,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 250,
       "vendor": "CAP"
     }

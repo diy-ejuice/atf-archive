@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Papaya SC",
-      "flavor_id": 10101,
+      "flavor_id": "10101",
       "millipercent": 250,
       "vendor": "WF"
     },
     {
       "name": "Mango",
-      "flavor_id": 3516,
+      "flavor_id": "3516",
       "millipercent": 250,
       "vendor": "FLV"
     },
     {
       "name": "Marshmallow (Vanilla)",
-      "flavor_id": 1798,
+      "flavor_id": "1798",
       "millipercent": 750,
       "vendor": "OOO"
     },
     {
       "name": "Guanabana",
-      "flavor_id": 4427,
+      "flavor_id": "4427",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Fizzy Sherbet",
-      "flavor_id": 8878,
+      "flavor_id": "8878",
       "millipercent": 500,
       "vendor": "VT"
     }

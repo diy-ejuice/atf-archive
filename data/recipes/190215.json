@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 5000,
       "vendor": "FW"
     },
     {
       "name": "Black Currant",
-      "flavor_id": 10086,
+      "flavor_id": "10086",
       "millipercent": 400,
       "vendor": "FLV"
     },
     {
       "name": "Corn Bread",
-      "flavor_id": 2007,
+      "flavor_id": "2007",
       "millipercent": 3000,
       "vendor": "OOO"
     },
     {
       "name": "Tahitian Vanilla Cream",
-      "flavor_id": 6065,
+      "flavor_id": "6065",
       "millipercent": 1000,
       "vendor": "WF"
     }

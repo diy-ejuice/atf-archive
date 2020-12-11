@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2500,
       "vendor": "FW"
     },
     {
       "name": "Custard",
-      "flavor_id": 484,
+      "flavor_id": "484",
       "millipercent": 2000,
       "vendor": "FA"
     },
     {
       "name": "French Vanilla Icecream",
-      "flavor_id": 2129,
+      "flavor_id": "2129",
       "millipercent": 700,
       "vendor": "HS"
     },
     {
       "name": "Lemon Meringue Pie",
-      "flavor_id": 84,
+      "flavor_id": "84",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Natural Mint",
-      "flavor_id": 856,
+      "flavor_id": "856",
       "millipercent": 200,
       "vendor": "INW"
     }

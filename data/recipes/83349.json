@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Banana Cream",
-      "flavor_id": 210,
+      "flavor_id": "210",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Banana",
-      "flavor_id": 603,
+      "flavor_id": "603",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Blood Orange",
-      "flavor_id": 1197,
+      "flavor_id": "1197",
       "millipercent": 1500,
       "vendor": "FW"
     },
     {
       "name": "Cream",
-      "flavor_id": 604,
+      "flavor_id": "604",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Hazelnut",
-      "flavor_id": 1312,
+      "flavor_id": "1312",
       "millipercent": 750,
       "vendor": "FW"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 250,
       "vendor": "CAP"
     }

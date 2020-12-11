@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Yoghurt Drink",
-      "flavor_id": 9901,
+      "flavor_id": "9901",
       "millipercent": 1500,
       "vendor": "VT"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Berryl (raspberry)",
-      "flavor_id": 412,
+      "flavor_id": "412",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 1432,
+      "flavor_id": "1432",
       "millipercent": 500,
       "vendor": "FW"
     }

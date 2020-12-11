@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Bilberry",
-      "flavor_id": 533,
+      "flavor_id": "533",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 2,
+      "flavor_id": "2",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     }

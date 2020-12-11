@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Cool Mint",
-      "flavor_id": 40,
+      "flavor_id": "40",
       "millipercent": 800,
       "vendor": "CAP"
     },
     {
       "name": "Cantaloupe",
-      "flavor_id": 23,
+      "flavor_id": "23",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Honeydew",
-      "flavor_id": 238,
+      "flavor_id": "238",
       "millipercent": 1250,
       "vendor": "TPA"
     },
     {
       "name": "Bubble Gum",
-      "flavor_id": 923,
+      "flavor_id": "923",
       "millipercent": 5000,
       "vendor": "LA"
     },
     {
       "name": "Sweetness",
-      "flavor_id": 4413,
+      "flavor_id": "4413",
       "millipercent": 750,
       "vendor": "FLV"
     },
     {
       "name": "Natural Mint",
-      "flavor_id": 856,
+      "flavor_id": "856",
       "millipercent": 200,
       "vendor": "INW"
     }

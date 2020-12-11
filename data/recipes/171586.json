@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Rice Milk",
-      "flavor_id": 1901,
+      "flavor_id": "1901",
       "millipercent": 5000,
       "vendor": "OOO"
     },
     {
       "name": "Cinnamon Sugar",
-      "flavor_id": 8741,
+      "flavor_id": "8741",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": 420,
+      "flavor_id": "420",
       "millipercent": 1000,
       "vendor": "FA"
     }

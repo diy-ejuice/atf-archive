@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 7000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Coconut",
-      "flavor_id": 640,
+      "flavor_id": "640",
       "millipercent": 100,
       "vendor": "FLV"
     }

@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Eisai tea",
-      "flavor_id": 9378,
+      "flavor_id": "9378",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Green Tea",
-      "flavor_id": 1640,
+      "flavor_id": "1640",
       "millipercent": 4000,
       "vendor": "FE"
     },
     {
       "name": "Sweet Tea",
-      "flavor_id": 369,
+      "flavor_id": "369",
       "millipercent": 7000,
       "vendor": "TPA"
     }

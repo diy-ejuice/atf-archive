@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Blue Raz",
-      "flavor_id": 2222,
+      "flavor_id": "2222",
       "millipercent": 4000,
       "vendor": "RF"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Vanillin 10% (pg)",
-      "flavor_id": 190,
+      "flavor_id": "190",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Lemonade",
-      "flavor_id": 951,
+      "flavor_id": "951",
       "millipercent": 1500,
       "vendor": "LA"
     },
     {
       "name": "Cool Mint",
-      "flavor_id": 40,
+      "flavor_id": "40",
       "millipercent": 1000,
       "vendor": "CAP"
     }

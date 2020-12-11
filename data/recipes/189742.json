@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Fizz Pop",
-      "flavor_id": 10291,
+      "flavor_id": "10291",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "Grape Juice",
-      "flavor_id": 231,
+      "flavor_id": "231",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Lemon (water Soluble)",
-      "flavor_id": 243,
+      "flavor_id": "243",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 1000,
       "vendor": "CAP"
     }

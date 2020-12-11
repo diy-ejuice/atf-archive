@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Cantaloupe",
-      "flavor_id": 23,
+      "flavor_id": "23",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Mango",
-      "flavor_id": 247,
+      "flavor_id": "247",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 183,
+      "flavor_id": "183",
       "millipercent": 2500,
       "vendor": "TPA"
     }

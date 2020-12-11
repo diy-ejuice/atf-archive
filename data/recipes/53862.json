@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Cupcake",
-      "flavor_id": 2314,
+      "flavor_id": "2314",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 87,
+      "flavor_id": "87",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 1187,
+      "flavor_id": "1187",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Hazelnut",
-      "flavor_id": 289,
+      "flavor_id": "289",
       "millipercent": 1500,
       "vendor": "TPA"
     }

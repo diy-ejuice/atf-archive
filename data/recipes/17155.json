@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cake (yellow)",
-      "flavor_id": 1222,
+      "flavor_id": "1222",
       "millipercent": 1000,
       "vendor": "FW"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 332,
+      "flavor_id": "332",
       "millipercent": 3500,
       "vendor": "TPA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 176,
+      "flavor_id": "176",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Graham Cracker Clear",
-      "flavor_id": 325,
+      "flavor_id": "325",
       "millipercent": 1250,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 188,
+      "flavor_id": "188",
       "millipercent": 2000,
       "vendor": "TPA"
     }

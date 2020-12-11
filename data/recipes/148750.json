@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Tropical Citrus",
-      "flavor_id": 624,
+      "flavor_id": "624",
       "millipercent": 3500,
       "vendor": "FLV"
     },
     {
       "name": "Fuji",
-      "flavor_id": 506,
+      "flavor_id": "506",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Peach",
-      "flavor_id": 542,
+      "flavor_id": "542",
       "millipercent": 750,
       "vendor": "FA"
     },
     {
       "name": "Sour",
-      "flavor_id": 336,
+      "flavor_id": "336",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

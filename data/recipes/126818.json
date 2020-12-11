@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Coffee Base",
-      "flavor_id": 8856,
+      "flavor_id": "8856",
       "millipercent": 1000,
       "vendor": "VT"
     },
     {
       "name": "Caramel Mocha",
-      "flavor_id": 8846,
+      "flavor_id": "8846",
       "millipercent": 2500,
       "vendor": "VT"
     },
     {
       "name": "Salted Caramel",
-      "flavor_id": 8959,
+      "flavor_id": "8959",
       "millipercent": 2000,
       "vendor": "VT"
     },
     {
       "name": "Sweet Mate",
-      "flavor_id": 8981,
+      "flavor_id": "8981",
       "millipercent": 250,
       "vendor": "VT"
     },
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 2000,
       "vendor": "CAP"
     }

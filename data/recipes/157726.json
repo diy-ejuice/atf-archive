@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 9000,
       "vendor": "CAP"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 500,
       "vendor": "TPA"
     }

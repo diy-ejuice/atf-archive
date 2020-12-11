@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 6000,
       "vendor": "FW"
     },
     {
       "name": "Zeppola",
-      "flavor_id": 6312,
+      "flavor_id": "6312",
       "millipercent": 5000,
       "vendor": "FA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Torrone",
-      "flavor_id": 550,
+      "flavor_id": "550",
       "millipercent": 300,
       "vendor": "FA"
     }

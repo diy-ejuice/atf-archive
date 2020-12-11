@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Peppermint",
-      "flavor_id": 100,
+      "flavor_id": "100",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "White Chocolate",
-      "flavor_id": 194,
+      "flavor_id": "194",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Custard",
-      "flavor_id": 484,
+      "flavor_id": "484",
       "millipercent": 2000,
       "vendor": "FA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Vienna Cream",
-      "flavor_id": 516,
+      "flavor_id": "516",
       "millipercent": 2000,
       "vendor": "FA"
     }

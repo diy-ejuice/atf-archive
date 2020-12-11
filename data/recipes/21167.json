@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Anise",
-      "flavor_id": 499,
+      "flavor_id": "499",
       "millipercent": 150,
       "vendor": "FA"
     },
     {
       "name": "Honeysuckle (pg)",
-      "flavor_id": 306,
+      "flavor_id": "306",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Watermelon",
-      "flavor_id": 126,
+      "flavor_id": "126",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Watermelon",
-      "flavor_id": 984,
+      "flavor_id": "984",
       "millipercent": 3000,
       "vendor": "LA"
     }

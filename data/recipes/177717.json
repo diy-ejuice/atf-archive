@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 6500,
       "vendor": "LB"
     },
     {
       "name": "Banana Cream",
-      "flavor_id": 916,
+      "flavor_id": "916",
       "millipercent": 3000,
       "vendor": "LA"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 332,
+      "flavor_id": "332",
       "millipercent": 1000,
       "vendor": "TPA"
     }

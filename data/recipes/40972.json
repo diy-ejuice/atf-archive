@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Butterscotch",
-      "flavor_id": 613,
+      "flavor_id": "613",
       "millipercent": 1500,
       "vendor": "FLV"
     },
     {
       "name": "Caramel",
-      "flavor_id": 612,
+      "flavor_id": "612",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 332,
+      "flavor_id": "332",
       "millipercent": 750,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Cookie",
-      "flavor_id": 490,
+      "flavor_id": "490",
       "millipercent": 500,
       "vendor": "FA"
     }

@@ -9,49 +9,49 @@
   "recipe_flavors": [
     {
       "name": "Orange",
-      "flavor_id": 500,
+      "flavor_id": "500",
       "millipercent": 4000,
       "vendor": "FA"
     },
     {
       "name": "Champagne Type (pg)",
-      "flavor_id": 347,
+      "flavor_id": "347",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Bitter Wizard",
-      "flavor_id": 464,
+      "flavor_id": "464",
       "millipercent": 250,
       "vendor": "FA"
     },
     {
       "name": "Vanillin 10% (pg)",
-      "flavor_id": 190,
+      "flavor_id": "190",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Tanger (mandarin)",
-      "flavor_id": 547,
+      "flavor_id": "547",
       "millipercent": 2500,
       "vendor": "FA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Bergamot",
-      "flavor_id": 469,
+      "flavor_id": "469",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Fizzy Sherbet",
-      "flavor_id": 8878,
+      "flavor_id": "8878",
       "millipercent": 1000,
       "vendor": "VT"
     }

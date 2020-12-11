@@ -9,49 +9,49 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 5000,
       "vendor": "FW"
     },
     {
       "name": "Boysenberry",
-      "flavor_id": 614,
+      "flavor_id": "614",
       "millipercent": 250,
       "vendor": "FLV"
     },
     {
       "name": "Candy Roll",
-      "flavor_id": 2153,
+      "flavor_id": "2153",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Shisha Vanilla",
-      "flavor_id": 841,
+      "flavor_id": "841",
       "millipercent": 750,
       "vendor": "INW"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 1432,
+      "flavor_id": "1432",
       "millipercent": 1000,
       "vendor": "FW"
     }

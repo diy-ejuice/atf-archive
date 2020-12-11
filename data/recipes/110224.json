@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Cake (yellow)",
-      "flavor_id": 1222,
+      "flavor_id": "1222",
       "millipercent": 3500,
       "vendor": "FW"
     },
     {
       "name": "Passion (passionfruit)",
-      "flavor_id": 585,
+      "flavor_id": "585",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Orange",
-      "flavor_id": 500,
+      "flavor_id": "500",
       "millipercent": 250,
       "vendor": "FA"
     },
     {
       "name": "Tanger (mandarin)",
-      "flavor_id": 547,
+      "flavor_id": "547",
       "millipercent": 750,
       "vendor": "FA"
     },
     {
       "name": "Torrone",
-      "flavor_id": 550,
+      "flavor_id": "550",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     }

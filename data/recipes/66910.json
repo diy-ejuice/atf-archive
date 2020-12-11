@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Acai",
-      "flavor_id": 204,
+      "flavor_id": "204",
       "millipercent": 800,
       "vendor": "TPA"
     },
     {
       "name": "Blueberry (extra)",
-      "flavor_id": 218,
+      "flavor_id": "218",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Mint",
-      "flavor_id": 683,
+      "flavor_id": "683",
       "millipercent": 100,
       "vendor": "INW"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 400,
       "vendor": "INW"
     },
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 600,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 600,
       "vendor": "CAP"
     }

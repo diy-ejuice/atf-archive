@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Oatmeal Cookie",
-      "flavor_id": 178,
+      "flavor_id": "178",
       "millipercent": 10000,
       "vendor": "TPA"
     },
     {
       "name": "Butterscotch",
-      "flavor_id": 148,
+      "flavor_id": "148",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": null,
-      "flavor_id": null,
+      "flavor_id": "null",
       "millipercent": 0,
       "vendor": null
     }

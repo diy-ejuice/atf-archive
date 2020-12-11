@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 3500,
       "vendor": "CAP"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 170,
+      "flavor_id": "170",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Graham Cracker Clear",
-      "flavor_id": 325,
+      "flavor_id": "325",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 7000,
       "vendor": "CAP"
     },
     {
       "name": "Vanillin 10% (pg)",
-      "flavor_id": 190,
+      "flavor_id": "190",
       "millipercent": 500,
       "vendor": "TPA"
     }

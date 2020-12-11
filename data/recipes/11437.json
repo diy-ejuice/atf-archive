@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Eucalyptus With Mint",
-      "flavor_id": 777,
+      "flavor_id": "777",
       "millipercent": 1500,
       "vendor": "INW"
     },
     {
       "name": "Spearmint",
-      "flavor_id": 1415,
+      "flavor_id": "1415",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Peppermint",
-      "flavor_id": 100,
+      "flavor_id": "100",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Koolada 10 Pg",
-      "flavor_id": 280,
+      "flavor_id": "280",
       "millipercent": 750,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 3000,
       "vendor": "CAP"
     }

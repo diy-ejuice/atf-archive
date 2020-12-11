@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Bavarian Cream",
-      "flavor_id": 2,
+      "flavor_id": "2",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Butter Rum",
-      "flavor_id": 925,
+      "flavor_id": "925",
       "millipercent": 2000,
       "vendor": "LA"
     },
     {
       "name": "Irish Cream",
-      "flavor_id": 520,
+      "flavor_id": "520",
       "millipercent": 2750,
       "vendor": "FA"
     },
     {
       "name": "Milk & Honey",
-      "flavor_id": 609,
+      "flavor_id": "609",
       "millipercent": 660,
       "vendor": "FLV"
     }

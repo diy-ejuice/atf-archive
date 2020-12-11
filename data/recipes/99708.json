@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Juicy Orange",
-      "flavor_id": 80,
+      "flavor_id": "80",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Harvest Berry",
-      "flavor_id": 69,
+      "flavor_id": "69",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 250,
       "vendor": "CAP"
     }

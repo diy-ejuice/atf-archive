@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Sweet Mango",
-      "flavor_id": 120,
+      "flavor_id": "120",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Mango",
-      "flavor_id": 247,
+      "flavor_id": "247",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Melon",
-      "flavor_id": 676,
+      "flavor_id": "676",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "Papaya",
-      "flavor_id": 252,
+      "flavor_id": "252",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 1000,
       "vendor": "OTHR"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 1000,
       "vendor": "CAP"
     }

@@ -9,43 +9,43 @@
   "recipe_flavors": [
     {
       "name": "Strawberry",
-      "flavor_id": 272,
+      "flavor_id": "272",
       "millipercent": 6000,
       "vendor": "TPA"
     },
     {
       "name": "Graham Cracker",
-      "flavor_id": 326,
+      "flavor_id": "326",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 170,
+      "flavor_id": "170",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 145,
+      "flavor_id": "145",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Cheesecake",
-      "flavor_id": 153,
+      "flavor_id": "153",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": null,
-      "flavor_id": null,
+      "flavor_id": "null",
       "millipercent": 0,
       "vendor": null
     }

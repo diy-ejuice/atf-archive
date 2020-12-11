@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 3500,
       "vendor": "LB"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Licorice",
-      "flavor_id": 10166,
+      "flavor_id": "10166",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Salted Caramel",
-      "flavor_id": 8959,
+      "flavor_id": "8959",
       "millipercent": 750,
       "vendor": "VT"
     },
     {
       "name": "Cream",
-      "flavor_id": 604,
+      "flavor_id": "604",
       "millipercent": 750,
       "vendor": "FLV"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Forest Fruits",
-      "flavor_id": 4890,
+      "flavor_id": "4890",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Oatmeal Cookie",
-      "flavor_id": 178,
+      "flavor_id": "178",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Greek Yogurt",
-      "flavor_id": 615,
+      "flavor_id": "615",
       "millipercent": 200,
       "vendor": "FLV"
     }

@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 183,
+      "flavor_id": "183",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 2000,
       "vendor": "LB"
     },
     {
       "name": "Blackberry",
-      "flavor_id": 214,
+      "flavor_id": "214",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 1200,
       "vendor": "CAP"
     }

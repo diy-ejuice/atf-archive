@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Cup A Joe",
-      "flavor_id": 44,
+      "flavor_id": "44",
       "millipercent": 6000,
       "vendor": "CAP"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 473,
+      "flavor_id": "473",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Cream Fresh",
-      "flavor_id": 540,
+      "flavor_id": "540",
       "millipercent": 500,
       "vendor": "FA"
     }

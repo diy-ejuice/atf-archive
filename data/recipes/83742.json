@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sweet Mango",
-      "flavor_id": 120,
+      "flavor_id": "120",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Golden Eye",
-      "flavor_id": 5912,
+      "flavor_id": "5912",
       "millipercent": 5000,
       "vendor": "NR"
     },
     {
       "name": "Pear Candy",
-      "flavor_id": 256,
+      "flavor_id": "256",
       "millipercent": 3000,
       "vendor": "TPA"
     }

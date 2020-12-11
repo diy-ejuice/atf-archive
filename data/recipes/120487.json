@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Coffee",
-      "flavor_id": 1125,
+      "flavor_id": "1125",
       "millipercent": 1500,
       "vendor": "MF"
     },
     {
       "name": "Booster (tiramisu)",
-      "flavor_id": 515,
+      "flavor_id": "515",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "French Vanilla Icecream",
-      "flavor_id": 2129,
+      "flavor_id": "2129",
       "millipercent": 1000,
       "vendor": "HS"
     },
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 4000,
       "vendor": "LB"
     },
     {
       "name": "Glamour Chocolate",
-      "flavor_id": 1552,
+      "flavor_id": "1552",
       "millipercent": 1500,
       "vendor": "MB"
     }

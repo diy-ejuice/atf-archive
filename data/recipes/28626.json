@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Butter Cream",
-      "flavor_id": 3,
+      "flavor_id": "3",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 117,
+      "flavor_id": "117",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Golden Butter",
-      "flavor_id": 60,
+      "flavor_id": "60",
       "millipercent": 200,
       "vendor": "CAP"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     }

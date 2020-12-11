@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Cantaloupe",
-      "flavor_id": 610,
+      "flavor_id": "610",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Kiwi (double)",
-      "flavor_id": 242,
+      "flavor_id": "242",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

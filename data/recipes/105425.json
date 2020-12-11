@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 8000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 2500,
       "vendor": "OTHR"
     }

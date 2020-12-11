@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Grape Soda",
-      "flavor_id": 1300,
+      "flavor_id": "1300",
       "millipercent": 6000,
       "vendor": "FW"
     },
     {
       "name": "Queen Grapes",
-      "flavor_id": 1525,
+      "flavor_id": "1525",
       "millipercent": 3000,
       "vendor": "MB"
     },
     {
       "name": "Blueberry (wild)",
-      "flavor_id": 215,
+      "flavor_id": "215",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Dragon Fruit",
-      "flavor_id": 2150,
+      "flavor_id": "2150",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Oba Oba",
-      "flavor_id": 480,
+      "flavor_id": "480",
       "millipercent": 1250,
       "vendor": "FA"
     }

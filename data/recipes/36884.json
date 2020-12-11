@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Greek Yogurt",
-      "flavor_id": 66,
+      "flavor_id": "66",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Peach (juicy)",
-      "flavor_id": 254,
+      "flavor_id": "254",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Plum (pg)",
-      "flavor_id": 260,
+      "flavor_id": "260",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Cream Fresh",
-      "flavor_id": 540,
+      "flavor_id": "540",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Holy Vanilla",
-      "flavor_id": 2385,
+      "flavor_id": "2385",
       "millipercent": 500,
       "vendor": "DFS"
     }

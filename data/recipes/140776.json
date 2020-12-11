@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 2700,
       "vendor": "TPA"
     },
     {
       "name": "Vienna Cream",
-      "flavor_id": 516,
+      "flavor_id": "516",
       "millipercent": 1300,
       "vendor": "FA"
     }

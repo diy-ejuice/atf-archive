@@ -1,54 +1,54 @@
 {
-    "name": "Loose Leaf 5",
-    "description": "Loosely based on a chinese 5 spice mix. Decided to make a tobacco with this. I wanted something warm and deep. This is a work in progress and the %'s will change. ",
-    "id": 159176,
-    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/159176\/5spice.jpg",
-    "updated_at": "2020-12-07T12:47:43.000-05:00",
-    "deleted_at": null,
-    "recipe_type": 1,
-    "recipe_flavors": [
-        {
-            "name": "Arabian Tobacco",
-            "flavor_id": 4383,
-            "millipercent": 500,
-            "vendor": "FLV"
-        },
-        {
-            "name": "Sweet & Smokey Tobacco",
-            "flavor_id": 10085,
-            "millipercent": 1000,
-            "vendor": "FLV"
-        },
-        {
-            "name": "Anise",
-            "flavor_id": 499,
-            "millipercent": 500,
-            "vendor": "FA"
-        },
-        {
-            "name": "Holiday Spice",
-            "flavor_id": 305,
-            "millipercent": 500,
-            "vendor": "TPA"
-        },
-        {
-            "name": "Rich Cinnamon",
-            "flavor_id": 638,
-            "millipercent": 80,
-            "vendor": "FLV"
-        },
-        {
-            "name": "Ginger",
-            "flavor_id": 4415,
-            "millipercent": 500,
-            "vendor": "FLV"
-        }
-    ],
-    "author": "SlashaLO",
-    "views": "754",
-    "slug": "loose_leaf_5",
-    "total_flavoring": "3.08%",
-    "steep_days": "7",
-    "best_vg": "70%",
-    "temperature": "425"
+  "name": "Loose Leaf 5",
+  "description": "Loosely based on a chinese 5 spice mix. Decided to make a tobacco with this. I wanted something warm and deep. This is a work in progress and the %'s will change. ",
+  "id": 159176,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/159176/5spice.jpg",
+  "updated_at": "2020-12-07T12:47:43.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Arabian Tobacco",
+      "flavor_id": "4383",
+      "millipercent": 500,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Sweet & Smokey Tobacco",
+      "flavor_id": "10085",
+      "millipercent": 1000,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Anise",
+      "flavor_id": "499",
+      "millipercent": 500,
+      "vendor": "FA"
+    },
+    {
+      "name": "Holiday Spice",
+      "flavor_id": "305",
+      "millipercent": 500,
+      "vendor": "TPA"
+    },
+    {
+      "name": "Rich Cinnamon",
+      "flavor_id": "638",
+      "millipercent": 80,
+      "vendor": "FLV"
+    },
+    {
+      "name": "Ginger",
+      "flavor_id": "4415",
+      "millipercent": 500,
+      "vendor": "FLV"
+    }
+  ],
+  "author": "SlashaLO",
+  "views": "754",
+  "slug": "loose_leaf_5",
+  "total_flavoring": "3.08%",
+  "steep_days": "7",
+  "best_vg": "70%",
+  "temperature": "425"
 }

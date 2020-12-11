@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Apple Filling",
-      "flavor_id": 4376,
+      "flavor_id": "4376",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Caramel Cinnamon Roll",
-      "flavor_id": 1234,
+      "flavor_id": "1234",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Country Apple",
-      "flavor_id": 7754,
+      "flavor_id": "7754",
       "millipercent": 3000,
       "vendor": "PUR"
     },
     {
       "name": "Pie Crust",
-      "flavor_id": 179,
+      "flavor_id": "179",
       "millipercent": 750,
       "vendor": "TPA"
     }

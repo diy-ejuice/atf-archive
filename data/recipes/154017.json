@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Butter Cream",
-      "flavor_id": 3,
+      "flavor_id": "3",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Butter Pecan",
-      "flavor_id": 1212,
+      "flavor_id": "1212",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Caramel (original)",
-      "flavor_id": 149,
+      "flavor_id": "149",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Liquid Amber",
-      "flavor_id": 476,
+      "flavor_id": "476",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Maple Syrup",
-      "flavor_id": 509,
+      "flavor_id": "509",
       "millipercent": 500,
       "vendor": "FA"
     }

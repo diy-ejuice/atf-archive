@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Black Cherry",
-      "flavor_id": 212,
+      "flavor_id": "212",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Kentucky Bourbon",
-      "flavor_id": 361,
+      "flavor_id": "361",
       "millipercent": 850,
       "vendor": "TPA"
     },
     {
       "name": "Tobacco Additive",
-      "flavor_id": 1695,
+      "flavor_id": "1695",
       "millipercent": 1000,
       "vendor": "FE"
     },
     {
       "name": "Win Churchill",
-      "flavor_id": 1704,
+      "flavor_id": "1704",
       "millipercent": 1250,
       "vendor": "FE"
     }

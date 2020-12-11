@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Lemonade",
-      "flavor_id": 951,
+      "flavor_id": "951",
       "millipercent": 6000,
       "vendor": "LA"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 750,
       "vendor": "INW"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Red Touch (strawberry)",
-      "flavor_id": 421,
+      "flavor_id": "421",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Lemon Sicily",
-      "flavor_id": 524,
+      "flavor_id": "524",
       "millipercent": 750,
       "vendor": "FA"
     }

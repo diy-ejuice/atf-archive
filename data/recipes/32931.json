@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Cream Cheese Icing",
-      "flavor_id": 2380,
+      "flavor_id": "2380",
       "millipercent": 1500,
       "vendor": "LA"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Cupcake",
-      "flavor_id": 129,
+      "flavor_id": "129",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1500,
       "vendor": "TPA"
     }

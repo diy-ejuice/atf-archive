@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Lemonade",
-      "flavor_id": 1336,
+      "flavor_id": "1336",
       "millipercent": 5000,
       "vendor": "FW"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 250,
       "vendor": "INW"
     }

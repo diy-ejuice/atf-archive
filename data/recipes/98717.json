@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Greek Yogurt",
-      "flavor_id": 173,
+      "flavor_id": "173",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Lemon Sicily",
-      "flavor_id": 524,
+      "flavor_id": "524",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Lime Tahity Cold Pressed",
-      "flavor_id": 581,
+      "flavor_id": "581",
       "millipercent": 1000,
       "vendor": "FA"
     }

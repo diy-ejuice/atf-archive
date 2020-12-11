@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 186,
+      "flavor_id": "186",
       "millipercent": 4500,
       "vendor": "TPA"
     },
     {
       "name": "Bavarian Cream",
-      "flavor_id": 4466,
+      "flavor_id": "4466",
       "millipercent": 2000,
       "vendor": "JF"
     },
     {
       "name": "Dairy/Milk",
-      "flavor_id": 2164,
+      "flavor_id": "2164",
       "millipercent": 1000,
       "vendor": "TPA"
     }

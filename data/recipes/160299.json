@@ -9,49 +9,49 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Ice Cream",
-      "flavor_id": 1511,
+      "flavor_id": "1511",
       "millipercent": 3500,
       "vendor": "LB"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 186,
+      "flavor_id": "186",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Milk & Honey",
-      "flavor_id": 609,
+      "flavor_id": "609",
       "millipercent": 500,
       "vendor": "FLV"
     },
     {
       "name": "Dulce De Leche",
-      "flavor_id": 160,
+      "flavor_id": "160",
       "millipercent": 1750,
       "vendor": "TPA"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Red Touch (strawberry)",
-      "flavor_id": 421,
+      "flavor_id": "421",
       "millipercent": 2500,
       "vendor": "FA"
     },
     {
       "name": "Strawberry",
-      "flavor_id": 272,
+      "flavor_id": "272",
       "millipercent": 4750,
       "vendor": "TPA"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 200,
       "vendor": "INW"
     }

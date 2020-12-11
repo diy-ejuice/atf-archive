@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Pomegranate",
-      "flavor_id": 262,
+      "flavor_id": "262",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Juicy Lemon",
-      "flavor_id": 3072,
+      "flavor_id": "3072",
       "millipercent": 500,
       "vendor": "JF"
     },
     {
       "name": "Peach (juicy)",
-      "flavor_id": 254,
+      "flavor_id": "254",
       "millipercent": 6000,
       "vendor": "TPA"
     }

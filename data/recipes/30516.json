@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Hard Candy",
-      "flavor_id": 1308,
+      "flavor_id": "1308",
       "millipercent": 2500,
       "vendor": "FW"
     },
     {
       "name": "White Grape",
-      "flavor_id": 1463,
+      "flavor_id": "1463",
       "millipercent": 15000,
       "vendor": "FW"
     }

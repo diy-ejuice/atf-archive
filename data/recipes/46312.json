@@ -9,43 +9,43 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Cheesecake (graham Crust)",
-      "flavor_id": 152,
+      "flavor_id": "152",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Cheesecake",
-      "flavor_id": 930,
+      "flavor_id": "930",
       "millipercent": 1000,
       "vendor": "LA"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Cookie",
-      "flavor_id": 490,
+      "flavor_id": "490",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Custard",
-      "flavor_id": 484,
+      "flavor_id": "484",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Torrone",
-      "flavor_id": 550,
+      "flavor_id": "550",
       "millipercent": 350,
       "vendor": "FA"
     }

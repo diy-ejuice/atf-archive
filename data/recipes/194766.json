@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 3000,
       "vendor": "FW"
     },
     {
       "name": "Cookie",
-      "flavor_id": 490,
+      "flavor_id": "490",
       "millipercent": 750,
       "vendor": "FA"
     },
     {
       "name": "Berryl (raspberry)",
-      "flavor_id": 412,
+      "flavor_id": "412",
       "millipercent": 2000,
       "vendor": "FA"
     },
     {
       "name": "Yoghurt Drink",
-      "flavor_id": 9901,
+      "flavor_id": "9901",
       "millipercent": 1500,
       "vendor": "VT"
     }

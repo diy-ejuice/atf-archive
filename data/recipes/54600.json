@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Chocolate",
-      "flavor_id": 489,
+      "flavor_id": "489",
       "millipercent": 1500,
       "vendor": "FA"
     },
     {
       "name": "Cocoa",
-      "flavor_id": 496,
+      "flavor_id": "496",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 4,
+      "flavor_id": "4",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 3000,
       "vendor": "TPA"
     }

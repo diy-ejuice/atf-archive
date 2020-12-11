@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Citrus Soda",
-      "flavor_id": 10083,
+      "flavor_id": "10083",
       "millipercent": 1250,
       "vendor": "FLV"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 500,
       "vendor": "OTHR"
     }

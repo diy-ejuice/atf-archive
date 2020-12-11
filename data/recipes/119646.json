@@ -9,49 +9,49 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Caramel Candy",
-      "flavor_id": 150,
+      "flavor_id": "150",
       "millipercent": 2500,
       "vendor": "TPA"
     },
     {
       "name": "Apple",
-      "flavor_id": 2215,
+      "flavor_id": "2215",
       "millipercent": 1750,
       "vendor": "RF"
     },
     {
       "name": "Quince",
-      "flavor_id": 264,
+      "flavor_id": "264",
       "millipercent": 250,
       "vendor": "TPA"
     },
     {
       "name": "Graham Cracker Clear",
-      "flavor_id": 325,
+      "flavor_id": "325",
       "millipercent": 2250,
       "vendor": "TPA"
     },
     {
       "name": "Zeppola",
-      "flavor_id": 6312,
+      "flavor_id": "6312",
       "millipercent": 250,
       "vendor": "FA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

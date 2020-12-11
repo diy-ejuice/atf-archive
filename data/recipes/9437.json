@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 3500,
       "vendor": "FW"
     },
     {
       "name": "Bilberry",
-      "flavor_id": 533,
+      "flavor_id": "533",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Pear",
-      "flavor_id": 411,
+      "flavor_id": "411",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Blackberry",
-      "flavor_id": 214,
+      "flavor_id": "214",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Honeysuckle (pg)",
-      "flavor_id": 306,
+      "flavor_id": "306",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Cactus",
-      "flavor_id": 647,
+      "flavor_id": "647",
       "millipercent": 300,
       "vendor": "INW"
     }

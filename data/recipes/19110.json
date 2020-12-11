@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Orange Cream",
-      "flavor_id": 250,
+      "flavor_id": "250",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 750,
       "vendor": "CAP"
     },
     {
       "name": "Lemon Lime",
-      "flavor_id": 83,
+      "flavor_id": "83",
       "millipercent": 1750,
       "vendor": "CAP"
     }

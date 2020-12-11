@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Root Beer",
-      "flavor_id": 1401,
+      "flavor_id": "1401",
       "millipercent": 1250,
       "vendor": "FW"
     },
     {
       "name": "Vanilla Bean Ice Cream",
-      "flavor_id": 4,
+      "flavor_id": "4",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 3000,
       "vendor": "TPA"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 332,
+      "flavor_id": "332",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Vanilla Cupcake",
-      "flavor_id": 129,
+      "flavor_id": "129",
       "millipercent": 1500,
       "vendor": "CAP"
     }

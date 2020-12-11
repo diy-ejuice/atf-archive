@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Apple",
-      "flavor_id": 750,
+      "flavor_id": "750",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Watermelon",
-      "flavor_id": 276,
+      "flavor_id": "276",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 600,
       "vendor": "OTHR"
     },
     {
       "name": "Sweetener (sucralose)",
-      "flavor_id": 2308,
+      "flavor_id": "2308",
       "millipercent": 750,
       "vendor": "FW"
     },
     {
       "name": "Powerful Sour",
-      "flavor_id": 10054,
+      "flavor_id": "10054",
       "millipercent": 2500,
       "vendor": "CAP"
     },
     {
       "name": "Black Currant",
-      "flavor_id": 1191,
+      "flavor_id": "1191",
       "millipercent": 4000,
       "vendor": "FW"
     }

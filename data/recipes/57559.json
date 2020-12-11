@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Gingerbread",
-      "flavor_id": 58,
+      "flavor_id": "58",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Caramel Cinnamon Roll",
-      "flavor_id": 1234,
+      "flavor_id": "1234",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Kentucky Bourbon",
-      "flavor_id": 361,
+      "flavor_id": "361",
       "millipercent": 1500,
       "vendor": "TPA"
     }

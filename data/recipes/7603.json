@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cappuccino",
-      "flavor_id": 24,
+      "flavor_id": "24",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Cup A Joe",
-      "flavor_id": 44,
+      "flavor_id": "44",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Coffee",
-      "flavor_id": 198,
+      "flavor_id": "198",
       "millipercent": 4000,
       "vendor": "TPA"
     },
     {
       "name": "Dulce De Leche",
-      "flavor_id": 160,
+      "flavor_id": "160",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "French Vanilla",
-      "flavor_id": 56,
+      "flavor_id": "56",
       "millipercent": 1500,
       "vendor": "CAP"
     }

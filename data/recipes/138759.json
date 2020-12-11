@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Lemonade",
-      "flavor_id": 951,
+      "flavor_id": "951",
       "millipercent": 10000,
       "vendor": "LA"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 971,
+      "flavor_id": "971",
       "millipercent": 6000,
       "vendor": "LA"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Super Sweet",
-      "flavor_id": 2384,
+      "flavor_id": "2384",
       "millipercent": 500,
       "vendor": "CAP"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 6000,
       "vendor": "CAP"
     },
     {
       "name": "Custard",
-      "flavor_id": 484,
+      "flavor_id": "484",
       "millipercent": 2000,
       "vendor": "FA"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 5000,
       "vendor": "FW"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1000,
       "vendor": "TPA"
     }

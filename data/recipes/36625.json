@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Cupcake",
-      "flavor_id": 129,
+      "flavor_id": "129",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Whipped Cream",
-      "flavor_id": 193,
+      "flavor_id": "193",
       "millipercent": 1000,
       "vendor": "TPA"
     }

@@ -1,48 +1,48 @@
 {
-    "name": "Lemon Sugar Cookie",
-    "description": "Not finished yet, but smells nice. Maybe some FA Meruenge would do the trick.",
-    "id": 30961,
-    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30961\/lemoncookie.jpg",
-    "updated_at": "2020-12-07T21:31:48.000-05:00",
-    "deleted_at": null,
-    "recipe_type": 1,
-    "recipe_flavors": [
-        {
-            "name": "Sugar Cookie",
-            "flavor_id": 115,
-            "millipercent": 6000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Lemon Meringue Pie",
-            "flavor_id": 84,
-            "millipercent": 3000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Bavarian Cream",
-            "flavor_id": 2,
-            "millipercent": 1500,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Vanilla Custard",
-            "flavor_id": 131,
-            "millipercent": 1000,
-            "vendor": "CAP"
-        },
-        {
-            "name": "Meringue",
-            "flavor_id": 530,
-            "millipercent": 1000,
-            "vendor": "FA"
-        }
-    ],
-    "author": "JuiceRider",
-    "views": "1273",
-    "slug": "lemon_sugar_cookie",
-    "total_flavoring": "12.5%",
-    "steep_days": "15",
-    "best_vg": "0%",
-    "temperature": "0"
+  "name": "Lemon Sugar Cookie",
+  "description": "Not finished yet, but smells nice. Maybe some FA Meruenge would do the trick.",
+  "id": 30961,
+  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30961/lemoncookie.jpg",
+  "updated_at": "2020-12-07T21:31:48.000-05:00",
+  "deleted_at": null,
+  "recipe_type": 1,
+  "recipe_flavors": [
+    {
+      "name": "Sugar Cookie",
+      "flavor_id": "115",
+      "millipercent": 6000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "flavor_id": "84",
+      "millipercent": 3000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Bavarian Cream",
+      "flavor_id": "2",
+      "millipercent": 1500,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Vanilla Custard",
+      "flavor_id": "131",
+      "millipercent": 1000,
+      "vendor": "CAP"
+    },
+    {
+      "name": "Meringue",
+      "flavor_id": "530",
+      "millipercent": 1000,
+      "vendor": "FA"
+    }
+  ],
+  "author": "JuiceRider",
+  "views": "1273",
+  "slug": "lemon_sugar_cookie",
+  "total_flavoring": "12.5%",
+  "steep_days": "15",
+  "best_vg": "0%",
+  "temperature": "0"
 }

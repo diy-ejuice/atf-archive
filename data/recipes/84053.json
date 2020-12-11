@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Ice Cream",
-      "flavor_id": 4449,
+      "flavor_id": "4449",
       "millipercent": 1000,
       "vendor": "HS"
     },
     {
       "name": "Holy Vanilla",
-      "flavor_id": 2385,
+      "flavor_id": "2385",
       "millipercent": 6000,
       "vendor": "DFS"
     }

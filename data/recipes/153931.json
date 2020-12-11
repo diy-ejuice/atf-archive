@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 5500,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Cinnamon Danish Swirl",
-      "flavor_id": 35,
+      "flavor_id": "35",
       "millipercent": 500,
       "vendor": "CAP"
     },
     {
       "name": "Banana Nut Bread",
-      "flavor_id": 144,
+      "flavor_id": "144",
       "millipercent": 2000,
       "vendor": "TPA"
     }

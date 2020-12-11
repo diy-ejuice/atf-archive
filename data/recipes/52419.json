@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2000,
       "vendor": "FW"
     },
     {
       "name": "Kentucky Bourbon",
-      "flavor_id": 361,
+      "flavor_id": "361",
       "millipercent": 1250,
       "vendor": "TPA"
     },
     {
       "name": "Holy Vanilla",
-      "flavor_id": 2385,
+      "flavor_id": "2385",
       "millipercent": 3000,
       "vendor": "DFS"
     },
     {
       "name": "Carmel (caramel)",
-      "flavor_id": 503,
+      "flavor_id": "503",
       "millipercent": 1000,
       "vendor": "FA"
     }

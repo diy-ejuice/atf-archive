@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Whipped Cream",
-      "flavor_id": 193,
+      "flavor_id": "193",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 176,
+      "flavor_id": "176",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Greek Yogurt",
-      "flavor_id": 173,
+      "flavor_id": "173",
       "millipercent": 500,
       "vendor": "TPA"
     },
     {
       "name": "Forest Fruits",
-      "flavor_id": 4890,
+      "flavor_id": "4890",
       "millipercent": 3000,
       "vendor": "FA"
     }

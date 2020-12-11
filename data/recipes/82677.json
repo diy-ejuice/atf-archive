@@ -9,43 +9,43 @@
   "recipe_flavors": [
     {
       "name": "Vanilla Whipped Cream",
-      "flavor_id": 1,
+      "flavor_id": "1",
       "millipercent": 1900,
       "vendor": "CAP"
     },
     {
       "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": 420,
+      "flavor_id": "420",
       "millipercent": 1200,
       "vendor": "FA"
     },
     {
       "name": "Caramel (salted)",
-      "flavor_id": 1232,
+      "flavor_id": "1232",
       "millipercent": 2300,
       "vendor": "FW"
     },
     {
       "name": "Fuji Apple",
-      "flavor_id": 8456,
+      "flavor_id": "8456",
       "millipercent": 2800,
       "vendor": "CAP"
     },
     {
       "name": "Zeppola",
-      "flavor_id": 6312,
+      "flavor_id": "6312",
       "millipercent": 2900,
       "vendor": "FA"
     },
     {
       "name": "Apple Pie",
-      "flavor_id": 8,
+      "flavor_id": "8",
       "millipercent": 3200,
       "vendor": "CAP"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 473,
+      "flavor_id": "473",
       "millipercent": 1300,
       "vendor": "FA"
     }

@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Joy",
-      "flavor_id": 401,
+      "flavor_id": "401",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 2000,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 183,
+      "flavor_id": "183",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 1000,
       "vendor": "INW"
     }

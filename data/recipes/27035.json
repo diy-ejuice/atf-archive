@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Harvest Berry",
-      "flavor_id": 69,
+      "flavor_id": "69",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Double Apple",
-      "flavor_id": 45,
+      "flavor_id": "45",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 5000,
       "vendor": "FW"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Blackberry",
-      "flavor_id": 2220,
+      "flavor_id": "2220",
       "millipercent": 2000,
       "vendor": "RF"
     },
     {
       "name": "Joy",
-      "flavor_id": 401,
+      "flavor_id": "401",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Peppermint",
-      "flavor_id": 283,
+      "flavor_id": "283",
       "millipercent": 1000,
       "vendor": "TPA"
     },
     {
       "name": "Gummy Candy",
-      "flavor_id": 235,
+      "flavor_id": "235",
       "millipercent": 2000,
       "vendor": "TPA"
     }

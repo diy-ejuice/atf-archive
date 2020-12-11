@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sweet Tangerine",
-      "flavor_id": 123,
+      "flavor_id": "123",
       "millipercent": 3500,
       "vendor": "CAP"
     },
     {
       "name": "Dragonfruit",
-      "flavor_id": 226,
+      "flavor_id": "226",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Plum (pg)",
-      "flavor_id": 260,
+      "flavor_id": "260",
       "millipercent": 2500,
       "vendor": "TPA"
     }

@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Peppermint",
-      "flavor_id": 100,
+      "flavor_id": "100",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "White Chocolate",
-      "flavor_id": 1462,
+      "flavor_id": "1462",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Marshmallow",
-      "flavor_id": 473,
+      "flavor_id": "473",
       "millipercent": 500,
       "vendor": "FA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1500,
       "vendor": "TPA"
     }

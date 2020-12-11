@@ -9,19 +9,19 @@
   "recipe_flavors": [
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Caramel",
-      "flavor_id": 26,
+      "flavor_id": "26",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 3000,
       "vendor": "INW"
     }

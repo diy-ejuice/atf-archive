@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "New York Cheesecake",
-      "flavor_id": 90,
+      "flavor_id": "90",
       "millipercent": 6000,
       "vendor": "CAP"
     },
     {
       "name": "Sweet Cream",
-      "flavor_id": 117,
+      "flavor_id": "117",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Graham Cracker Clear",
-      "flavor_id": 325,
+      "flavor_id": "325",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Sweetener",
-      "flavor_id": 339,
+      "flavor_id": "339",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Peppermint",
-      "flavor_id": 283,
+      "flavor_id": "283",
       "millipercent": 750,
       "vendor": "TPA"
     }

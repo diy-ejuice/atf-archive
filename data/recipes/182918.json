@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "WS-23",
-      "flavor_id": 8085,
+      "flavor_id": "8085",
       "millipercent": 500,
       "vendor": "OTHR"
     },
     {
       "name": "Cactus",
-      "flavor_id": 647,
+      "flavor_id": "647",
       "millipercent": 750,
       "vendor": "INW"
     },
     {
       "name": "Apple Filling",
-      "flavor_id": 4376,
+      "flavor_id": "4376",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Sweet Guava",
-      "flavor_id": 118,
+      "flavor_id": "118",
       "millipercent": 4000,
       "vendor": "CAP"
     }

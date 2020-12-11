@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Cake Batter",
-      "flavor_id": 22,
+      "flavor_id": "22",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Cupcake V2",
-      "flavor_id": 130,
+      "flavor_id": "130",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 4000,
       "vendor": "FW"
     },
     {
       "name": "Meringue",
-      "flavor_id": 530,
+      "flavor_id": "530",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Hazelnut",
-      "flavor_id": 1312,
+      "flavor_id": "1312",
       "millipercent": 1000,
       "vendor": "FW"
     }

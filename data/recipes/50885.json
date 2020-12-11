@@ -9,37 +9,37 @@
   "recipe_flavors": [
     {
       "name": "Pear",
-      "flavor_id": 411,
+      "flavor_id": "411",
       "millipercent": 250,
       "vendor": "FA"
     },
     {
       "name": "Mango",
-      "flavor_id": 3516,
+      "flavor_id": "3516",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Sweet Mango",
-      "flavor_id": 120,
+      "flavor_id": "120",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Cream",
-      "flavor_id": 604,
+      "flavor_id": "604",
       "millipercent": 1000,
       "vendor": "FLV"
     },
     {
       "name": "Vanilla Swirl",
-      "flavor_id": 189,
+      "flavor_id": "189",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Sweet Strawberry",
-      "flavor_id": 121,
+      "flavor_id": "121",
       "millipercent": 750,
       "vendor": "CAP"
     }

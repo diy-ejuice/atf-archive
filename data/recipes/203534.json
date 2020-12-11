@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Sweet Currant",
-      "flavor_id": 10171,
+      "flavor_id": "10171",
       "millipercent": 3000,
       "vendor": "CAP"
     },
     {
       "name": "Blackcurrant",
-      "flavor_id": 645,
+      "flavor_id": "645",
       "millipercent": 1000,
       "vendor": "INW"
     },
     {
       "name": "Raspberry",
-      "flavor_id": 667,
+      "flavor_id": "667",
       "millipercent": 500,
       "vendor": "INW"
     },
     {
       "name": "sweetener (sucralose)",
-      "flavor_id": 2313,
+      "flavor_id": "2313",
       "millipercent": 500,
       "vendor": "OTHR"
     }

@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Biscuit",
-      "flavor_id": 642,
+      "flavor_id": "642",
       "millipercent": 1500,
       "vendor": "INW"
     },
     {
       "name": "Blueberry",
-      "flavor_id": 1201,
+      "flavor_id": "1201",
       "millipercent": 2500,
       "vendor": "FW"
     },
     {
       "name": "Lemon",
-      "flavor_id": 1655,
+      "flavor_id": "1655",
       "millipercent": 2000,
       "vendor": "FE"
     },
     {
       "name": "Sugar Cookie",
-      "flavor_id": 115,
+      "flavor_id": "115",
       "millipercent": 5000,
       "vendor": "CAP"
     },
     {
       "name": "Vanilla Custard",
-      "flavor_id": 131,
+      "flavor_id": "131",
       "millipercent": 1000,
       "vendor": "CAP"
     }

@@ -9,31 +9,31 @@
   "recipe_flavors": [
     {
       "name": "Cantaloupe",
-      "flavor_id": 23,
+      "flavor_id": "23",
       "millipercent": 2000,
       "vendor": "CAP"
     },
     {
       "name": "Honeydew Melon",
-      "flavor_id": 73,
+      "flavor_id": "73",
       "millipercent": 1000,
       "vendor": "CAP"
     },
     {
       "name": "Sweet Watermelon",
-      "flavor_id": 126,
+      "flavor_id": "126",
       "millipercent": 4000,
       "vendor": "CAP"
     },
     {
       "name": "Strawberry (ripe)",
-      "flavor_id": 271,
+      "flavor_id": "271",
       "millipercent": 5000,
       "vendor": "TPA"
     },
     {
       "name": "Ethyl Maltol",
-      "flavor_id": 1710,
+      "flavor_id": "1710",
       "millipercent": 1000,
       "vendor": "TPA"
     }

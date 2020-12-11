@@ -9,25 +9,25 @@
   "recipe_flavors": [
     {
       "name": "Creamy Yogurt",
-      "flavor_id": 5,
+      "flavor_id": "5",
       "millipercent": 1500,
       "vendor": "CAP"
     },
     {
       "name": "Blackcurrant",
-      "flavor_id": 545,
+      "flavor_id": "545",
       "millipercent": 1000,
       "vendor": "FA"
     },
     {
       "name": "Raspberry (sweet)",
-      "flavor_id": 267,
+      "flavor_id": "267",
       "millipercent": 1500,
       "vendor": "TPA"
     },
     {
       "name": "Cotton Candy",
-      "flavor_id": 941,
+      "flavor_id": "941",
       "millipercent": 500,
       "vendor": "LA"
     }
