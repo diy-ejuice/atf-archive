@@ -29,7 +29,7 @@ export default function FlavorsPage({ data }) {
     );
   });
 
-  filteredFlavors.sort((a, b) => a.name.localeCompare(b.name));
+  filteredFlavors.sort((a, b) => b.recipe_count - a.recipe_count);
 
   function FlavorRow({ index, style }) {
     const flavor = filteredFlavors[index];
@@ -85,6 +85,7 @@ export const pageQuery = graphql`
       nodes {
         id
         name
+        recipe_count
         vendor {
           name
           abbreviation
