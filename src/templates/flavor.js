@@ -20,6 +20,8 @@ export default function FlavorPage({ data }) {
   const flavor = data.flavorsJson;
   const recipes = data.allRecipesJson.nodes;
 
+  recipes.sort((a, b) => b.views - a.views);
+
   const chartData = [];
 
   const percentages = recipes.map((recipe) => {
@@ -121,6 +123,7 @@ export const pageQuery = graphql`
         id
         name
         author
+        views
         recipe_flavors {
           flavor_id
           millipercent
