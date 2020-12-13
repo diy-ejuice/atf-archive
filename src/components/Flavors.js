@@ -4,7 +4,7 @@ import { Table } from 'react-bootstrap';
 
 export default function Flavors({ flavors }) {
   return (
-    flavors.length > 0 && (
+    flavors?.length > 0 && (
       <Table striped>
         <thead>
           <tr>
