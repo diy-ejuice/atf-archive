@@ -14,5 +14,5 @@ cache:
   directories:
     - node_modules
 script:
-  - ulimit -s 65535
+  - ulimit -n 65535
   - npm run build
