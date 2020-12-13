@@ -1,7 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
-import { Container, Card, ListGroup, Row, Col } from 'react-bootstrap';
+import { Card, ListGroup, Row, Col, FormControl } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import {
   Line,
@@ -15,11 +15,23 @@ import {
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
+import useSearch from '~components/useSearch';
 import { getRecipeSlug } from '~utils';
 
-export default function FlavorPage({ data }) {
+export default function Flavor({ data }) {
   const flavor = data.flavorsJson;
   const recipes = data.allRecipesJson.nodes;
+  const { searchTerm, onChange } = useSearch();
+
+  const filteredRecipes = recipes.filter((recipe) => {
+    const searchExpr = new RegExp(searchTerm, 'i');
+
+    return (
+      searchTerm === '' ||
+      searchExpr.test(recipe.name) ||
+      searchExpr.test(recipe.author)
+    );
+  });
 
   recipes.sort((a, b) => b.views - a.views);
 
@@ -46,7 +58,7 @@ export default function FlavorPage({ data }) {
   }
 
   function RecipeRow({ index, style }) {
-    const recipe = recipes[index];
+    const recipe = filteredRecipes[index];
 
     return (
       <Link key={recipe.id} to={getRecipeSlug(recipe)}>
@@ -74,63 +86,66 @@ export default function FlavorPage({ data }) {
   return (
     <Layout>
       <SEO title={title} description={description} />
-      <Container>
-        <Card>
-          <Card.Header>
-            <Card.Title>
-              <h1>
-                {flavor.vendor.name} {flavor.name}
-              </h1>
-            </Card.Title>
-          </Card.Header>
-          <Card.Body>
-            <h2 className="mb-3">Average percentage: {averagePercentage}%</h2>
-            {recipes.length > 0 && (
-              <Fragment>
-                <ResponsiveContainer width="100%" height={300}>
-                  <LineChart data={chartData} className="mb-3">
-                    <CartesianGrid strokeDashArray="3 3" />
-                    <XAxis
-                      label={{
-                        value: 'Percentage',
-                        position: 'insideBottom',
-                        dy: 8
-                      }}
-                      dataKey="percentage"
-                      tickFormatter={(tick) => `${tick}%`}
-                    />
-                    <YAxis label={{ value: 'Recipes', angle: -90, dx: -10 }} />
-                    <Tooltip />
-                    <Line
-                      type="monotone"
-                      dataKey="count"
-                      stroke="#17a2b8"
-                      strokeWidth={2}
-                      activeDot={{ r: 8 }}
-                    />
-                  </LineChart>
-                </ResponsiveContainer>
-                <h2 className="mb-3">Used in {recipes.length} recipes</h2>
-                <ListGroup variant="flush">
-                  <List
-                    height={800}
-                    itemData={recipes}
-                    itemCount={recipes.length}
-                    itemSize={60}
-                  >
-                    {RecipeRow}
-                  </List>
-                </ListGroup>
-              </Fragment>
-            )}
-          </Card.Body>
-        </Card>
-      </Container>
+      <Card>
+        <Card.Header>
+          <Card.Title>
+            <h1>
+              {flavor.vendor.name} {flavor.name}
+            </h1>
+          </Card.Title>
+        </Card.Header>
+        <Card.Body>
+          <h2 className="mb-3">Average percentage: {averagePercentage}%</h2>
+          {recipes.length > 0 && (
+            <Fragment>
+              <ResponsiveContainer width="100%" height={300}>
+                <LineChart data={chartData} className="mb-3">
+                  <CartesianGrid strokeDashArray="3 3" />
+                  <XAxis
+                    label={{
+                      value: 'Percentage',
+                      position: 'insideBottom',
+                      dy: 8
+                    }}
+                    dataKey="percentage"
+                    tickFormatter={(tick) => `${tick}%`}
+                  />
+                  <YAxis label={{ value: 'Recipes', angle: -90, dx: -10 }} />
+                  <Tooltip />
+                  <Line
+                    type="monotone"
+                    dataKey="count"
+                    stroke="#17a2b8"
+                    strokeWidth={2}
+                    activeDot={{ r: 8 }}
+                  />
+                </LineChart>
+              </ResponsiveContainer>
+              <h2 className="mb-3">Used in {recipes.length} recipes</h2>
+              <FormControl
+                type="text"
+                onChange={onChange}
+                placeholder="search by name or author"
+              />
+              <ListGroup variant="flush">
+                <List
+                  height={800}
+                  itemData={filteredRecipes}
+                  itemCount={filteredRecipes.length}
+                  itemSize={60}
+                >
+                  {RecipeRow}
+                </List>
+              </ListGroup>
+            </Fragment>
+          )}
+        </Card.Body>
+      </Card>
     </Layout>
   );
 }
 
-FlavorPage.propTypes = {
+Flavor.propTypes = {
   data: PropTypes.object.isRequired
 };
 
