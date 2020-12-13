@@ -2,7 +2,7 @@ import { formatRelative, parseISO } from 'date-fns';
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
-import { Card, Container, Row, Col, ProgressBar, Image } from 'react-bootstrap';
+import { Card, Row, Col, ProgressBar, Image } from 'react-bootstrap';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
@@ -10,7 +10,7 @@ import Reviews from '~components/Reviews';
 import Flavors from '~components/Flavors';
 import { getMixerSlug } from '~utils';
 
-export default function RecipePage({ data }) {
+export default function Recipe({ data }) {
   const recipe = data.recipesJson;
   const { recipe_flavors: flavors, reviews } = recipe;
 
@@ -40,96 +40,91 @@ export default function RecipePage({ data }) {
   return (
     <Layout>
       <SEO title={title} description={description} />
-      <Container>
-        <Card>
-          <Card.Header>
-            <Card.Title>
-              <Row>
-                <Col xs={12} md={3}>
-                  {recipe.image_url && (
-                    <Image src={recipe.image_url} alt="recipe" fluid />
-                  )}
-                </Col>
-                <Col xs={12} md={9}>
-                  <Row>
-                    <Col xs={12} md={8}>
-                      <h2>{recipe.name}</h2>
-                      <h3>
-                        by{' '}
-                        <Link to={getMixerSlug({ name: recipe.author })}>
-                          {recipe.author}
-                        </Link>
-                      </h3>
-                    </Col>
-                    <Col xs={12} md={4}>
-                      <h4>
-                        Created{' '}
-                        {formatRelative(
-                          parseISO(recipe.created_at),
-                          Date.now()
-                        )}
-                      </h4>
-                    </Col>
-                  </Row>
-                  <h4>{recipe.views} views</h4>
-                  <Row className="atf-recipe-review-info">
-                    <Col xs={4}>
-                      <h4>{recipe.reviews?.length} reviews</h4>
-                    </Col>
-                    <Col>
-                      <ProgressBar
-                        variant={progressClass}
-                        now={(recipe.recipe_score / 5.0) * 1e2}
-                        label={`${recipe.recipe_score} / 5`}
-                      />
-                    </Col>
-                  </Row>
-                </Col>
-              </Row>
-            </Card.Title>
-          </Card.Header>
-          <Card.Body>
-            <p>{recipe.description}</p>
-            {recipe.updated_at && (
-              <p>
-                Last edited{' '}
-                {formatRelative(parseISO(recipe.updated_at), Date.now())}
-              </p>
+      <Card>
+        <Card.Header>
+          <Card.Title>
+            <Row>
+              <Col xs={12} md={3}>
+                {recipe.image_url && (
+                  <Image src={recipe.image_url} alt="recipe" fluid />
+                )}
+              </Col>
+              <Col xs={12} md={9}>
+                <Row>
+                  <Col xs={12} md={8}>
+                    <h2>{recipe.name}</h2>
+                    <h3>
+                      by{' '}
+                      <Link to={getMixerSlug({ name: recipe.author })}>
+                        {recipe.author}
+                      </Link>
+                    </h3>
+                  </Col>
+                  <Col xs={12} md={4}>
+                    <h4>
+                      Created{' '}
+                      {formatRelative(parseISO(recipe.created_at), Date.now())}
+                    </h4>
+                  </Col>
+                </Row>
+                <h4>{recipe.views} views</h4>
+                <Row className="atf-recipe-review-info">
+                  <Col xs={4}>
+                    <h4>{recipe.reviews?.length} reviews</h4>
+                  </Col>
+                  <Col>
+                    <ProgressBar
+                      variant={progressClass}
+                      now={(recipe.recipe_score / 5.0) * 1e2}
+                      label={`${recipe.recipe_score} / 5`}
+                    />
+                  </Col>
+                </Row>
+              </Col>
+            </Row>
+          </Card.Title>
+        </Card.Header>
+        <Card.Body>
+          <p>{recipe.description}</p>
+          {recipe.updated_at && (
+            <p>
+              Last edited{' '}
+              {formatRelative(parseISO(recipe.updated_at), Date.now())}
+            </p>
+          )}
+          <Flavors
+            flavors={flavors.map((flavor) => ({
+              ...flavor,
+              id: parseInt(flavor.flavor_id, 10),
+              vendor: {
+                abbreviation: flavor.vendor
+              }
+            }))}
+          />
+          <dl>
+            <dt>Steep Days</dt>
+            <dd>{recipe.steep_days}</dd>
+            {recipe.temperature !== '0' && (
+              <Fragment>
+                <dt>Temperature</dt>
+                <dd>{recipe.temperature}</dd>
+              </Fragment>
             )}
-            <Flavors
-              flavors={flavors.map((flavor) => ({
-                ...flavor,
-                id: parseInt(flavor.flavor_id, 10),
-                vendor: {
-                  abbreviation: flavor.vendor
-                }
-              }))}
-            />
-            <dl>
-              <dt>Steep Days</dt>
-              <dd>{recipe.steep_days}</dd>
-              {recipe.temperature !== '0' && (
-                <Fragment>
-                  <dt>Temperature</dt>
-                  <dd>{recipe.temperature}</dd>
-                </Fragment>
-              )}
-              {recipe.best_vg !== '0%' && (
-                <Fragment>
-                  <dt>Ideal VG %</dt>
-                  <dd>{recipe.best_vg}</dd>
-                </Fragment>
-              )}
-            </dl>
-            <Reviews reviews={reviews} />
-          </Card.Body>
-        </Card>
-      </Container>
+            {recipe.best_vg !== '0%' && (
+              <Fragment>
+                <dt>Ideal VG %</dt>
+                <dd>{recipe.best_vg}</dd>
+              </Fragment>
+            )}
+          </dl>
+          <Reviews reviews={reviews} />
+        </Card.Body>
+      </Card>
     </Layout>
   );
 }
 
-RecipePage.propTypes = {
+Recipe.propTypes = {
   data: PropTypes.object.isRequired
 };
 

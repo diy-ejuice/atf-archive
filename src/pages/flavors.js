@@ -1,14 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
-import {
-  Container,
-  FormControl,
-  ListGroup,
-  Row,
-  Col,
-  Card
-} from 'react-bootstrap';
+import { FormControl, ListGroup, Row, Col, Card } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import useSearch from '~components/useSearch';
 
@@ -16,7 +9,7 @@ import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import { getFlavorSlug } from '~utils';
 
-export default function FlavorsPage({ data }) {
+export default function Flavors({ data }) {
   const flavors = data.allFlavorsJson.nodes;
   const { searchTerm, onChange } = useSearch();
 
@@ -58,37 +51,35 @@ export default function FlavorsPage({ data }) {
   return (
     <Layout>
       <SEO title="Flavors" description={`Tracking ${flavors.length} flavors`} />
-      <Container>
-        <Card>
-          <Card.Header>
-            <Card.Title>
-              <h1>Flavors</h1>
-            </Card.Title>
-          </Card.Header>
-          <Card.Body>
-            <FormControl
-              type="text"
-              onChange={onChange}
-              placeholder="search by name or vendor"
-            />
-            <ListGroup variant="flush">
-              <List
-                height={800}
-                itemData={filteredFlavors}
-                itemCount={filteredFlavors.length}
-                itemSize={60}
-              >
-                {FlavorRow}
-              </List>
-            </ListGroup>
-          </Card.Body>
-        </Card>
-      </Container>
+      <Card>
+        <Card.Header>
+          <Card.Title>
+            <h1>Flavors</h1>
+          </Card.Title>
+        </Card.Header>
+        <Card.Body>
+          <FormControl
+            type="text"
+            onChange={onChange}
+            placeholder="search by name or vendor"
+          />
+          <ListGroup variant="flush">
+            <List
+              height={800}
+              itemData={filteredFlavors}
+              itemCount={filteredFlavors.length}
+              itemSize={60}
+            >
+              {FlavorRow}
+            </List>
+          </ListGroup>
+        </Card.Body>
+      </Card>
     </Layout>
   );
 }
 
-FlavorsPage.propTypes = {
+Flavors.propTypes = {
   data: PropTypes.object.isRequired
 };
 

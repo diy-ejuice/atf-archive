@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 
 import Footer from '~components/Footer';
 import Header from '~components/Header';
+import { Container } from 'react-bootstrap';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -19,7 +20,9 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <main className="mt-3">{children}</main>
+      <main className="mt-3">
+        <Container>{children}</Container>
+      </main>
       <Footer />
     </Fragment>
   );

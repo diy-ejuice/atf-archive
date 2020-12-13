@@ -1,14 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
-import {
-  Container,
-  FormControl,
-  Row,
-  Col,
-  ListGroup,
-  Card
-} from 'react-bootstrap';
+import { FormControl, Row, Col, ListGroup, Card } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import useSearch from '~components/useSearch';
 
@@ -16,7 +9,7 @@ import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import { getRecipeSlug } from '~utils';
 
-export default function RecipesPage({ data }) {
+export default function Recipes({ data }) {
   const recipes = data.allRecipesJson.nodes;
   const { searchTerm, onChange } = useSearch();
 
@@ -57,37 +50,35 @@ export default function RecipesPage({ data }) {
   return (
     <Layout>
       <SEO title="Recipes" description={`Tracking ${recipes.length} recipes`} />
-      <Container>
-        <Card>
-          <Card.Header>
-            <Card.Title>
-              <h1>Recipes</h1>
-            </Card.Title>
-          </Card.Header>
-          <Card.Body>
-            <FormControl
-              type="text"
-              onChange={onChange}
-              placeholder="search by name or author"
-            />
-            <ListGroup variant="flush">
-              <List
-                height={800}
-                itemData={filteredRecipes}
-                itemCount={filteredRecipes.length}
-                itemSize={60}
-              >
-                {RecipeRow}
-              </List>
-            </ListGroup>
-          </Card.Body>
-        </Card>
-      </Container>
+      <Card>
+        <Card.Header>
+          <Card.Title>
+            <h1>Recipes</h1>
+          </Card.Title>
+        </Card.Header>
+        <Card.Body>
+          <FormControl
+            type="text"
+            onChange={onChange}
+            placeholder="search by name or author"
+          />
+          <ListGroup variant="flush">
+            <List
+              height={800}
+              itemData={filteredRecipes}
+              itemCount={filteredRecipes.length}
+              itemSize={60}
+            >
+              {RecipeRow}
+            </List>
+          </ListGroup>
+        </Card.Body>
+      </Card>
     </Layout>
   );
 }
 
-RecipesPage.propTypes = {
+Recipes.propTypes = {
   data: PropTypes.object.isRequired
 };
 
