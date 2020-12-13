@@ -1,7 +1,6 @@
 import { graphql, Link } from 'gatsby';
-import { debounce } from 'lodash';
 import PropTypes from 'prop-types';
-import React, { useState, useCallback } from 'react';
+import React from 'react';
 import {
   Col,
   Container,
@@ -11,6 +10,7 @@ import {
   Card
 } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
+import useSearch from '~components/useSearch';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
@@ -18,12 +18,7 @@ import { getMixerSlug } from '~utils';
 
 export default function MixersPage({ data }) {
   const mixers = data.allMixersJson.nodes;
-  const [searchTerm, setSearchTerm] = useState('');
-  const debouncedSetSearchTerm = debounce(setSearchTerm, 250);
-  const handleChangeTerm = useCallback(
-    (event) => debouncedSetSearchTerm(event.target.value),
-    [debouncedSetSearchTerm]
-  );
+  const { searchTerm, onChange } = useSearch();
 
   const filteredMixers = mixers.filter((mixer) => {
     const searchExpr = new RegExp(searchTerm, 'i');
@@ -66,7 +61,7 @@ export default function MixersPage({ data }) {
           <Card.Body>
             <FormControl
               type="text"
-              onChange={handleChangeTerm}
+              onChange={onChange}
               placeholder="search by name"
             />
             <ListGroup variant="flush">
