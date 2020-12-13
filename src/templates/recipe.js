@@ -34,9 +34,12 @@ export default function RecipePage({ data }) {
       break;
   }
 
+  const title = `${recipe.name} by ${recipe.author}`;
+  const description = `${flavors.length} flavors, ${recipe.views} views`;
+
   return (
     <Layout>
-      <SEO title={`${recipe.name} by ${recipe.author}`} />
+      <SEO title={title} description={description} />
       <Container>
         <Card>
           <Card.Header>

@@ -16,9 +16,12 @@ export default function MixerPage({ data }) {
 
   filteredRecipes.sort((a, b) => b.views - a.views);
 
+  const title = mixer.name;
+  const description = `${filteredRecipes.length} recipes`;
+
   return (
     <Layout>
-      <SEO title={`Mixer: ${mixer.name}`} />
+      <SEO title={title} description={description} />
       <Container>
         <h1>{mixer.name}</h1>
         <Table striped>

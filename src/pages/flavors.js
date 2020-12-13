@@ -54,7 +54,7 @@ export default function FlavorsPage({ data }) {
 
   return (
     <Layout>
-      <SEO title="Flavors" />
+      <SEO title="Flavors" description={`Tracking ${flavors.length} flavors`} />
       <Container>
         <h1>Flavors</h1>
         <FormControl

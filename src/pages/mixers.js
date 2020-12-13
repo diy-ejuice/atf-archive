@@ -14,7 +14,7 @@ export default function MixersPage({ data }) {
 
   return (
     <Layout>
-      <SEO title="Mixers" />
+      <SEO title="Mixers" description={`Tracking ${mixers.length} mixers`} />
       <Container>
         <h1>Mixers</h1>
         <Table striped>
