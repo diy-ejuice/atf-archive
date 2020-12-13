@@ -39,12 +39,10 @@ export default function FlavorPage({ data }) {
       0
     );
 
-    if (count > 0) {
-      chartData.push({
-        percentage: i,
-        count
-      });
-    }
+    chartData.push({
+      percentage: i,
+      count
+    });
   }
 
   function RecipeRow({ index, style }) {
@@ -80,7 +78,6 @@ export default function FlavorPage({ data }) {
           {flavor.vendor.name} {flavor.name}
         </h1>
         <h2>Average percentage: {averagePercentage}%</h2>
-
         {recipes.length > 0 && (
           <Fragment>
             <ResponsiveContainer width="100%" height={300}>
