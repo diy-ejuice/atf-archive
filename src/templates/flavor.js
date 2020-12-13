@@ -64,7 +64,7 @@ export default function FlavorPage({ data }) {
 
   const averagePercentage = (flavor.average_millipercent / 1e3).toFixed(2);
   const title = `${flavor.name} by ${flavor.vendor.name}`;
-  const description = `Used at an average of ${averagePercentage}%`;
+  const description = `Used at an average of ${averagePercentage}% in ${recipes.length} recipes`;
 
   return (
     <Layout>
