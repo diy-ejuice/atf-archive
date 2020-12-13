@@ -51,13 +51,26 @@ export default function RecipePage({ data }) {
                   )}
                 </Col>
                 <Col xs={12} md={9}>
-                  <h2>{recipe.name}</h2>
-                  <h3>
-                    by{' '}
-                    <Link to={getMixerSlug({ name: recipe.author })}>
-                      {recipe.author}
-                    </Link>
-                  </h3>
+                  <Row>
+                    <Col xs={12} md={8}>
+                      <h2>{recipe.name}</h2>
+                      <h3>
+                        by{' '}
+                        <Link to={getMixerSlug({ name: recipe.author })}>
+                          {recipe.author}
+                        </Link>
+                      </h3>
+                    </Col>
+                    <Col xs={12} md={4}>
+                      <h4>
+                        Created{' '}
+                        {formatRelative(
+                          parseISO(recipe.created_at),
+                          Date.now()
+                        )}
+                      </h4>
+                    </Col>
+                  </Row>
                   <h4>{recipe.views} views</h4>
                   <Row className="atf-recipe-review-info">
                     <Col xs={4}>
@@ -125,6 +138,7 @@ export const pageQuery = graphql`
     recipesJson(id: { eq: $id }) {
       name
       author
+      created_at
       image_url
       description
       steep_days
@@ -142,6 +156,7 @@ export const pageQuery = graphql`
       reviews {
         user
         text
+        score
       }
     }
   }
