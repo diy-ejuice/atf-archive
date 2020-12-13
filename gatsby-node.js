@@ -1,5 +1,10 @@
 const { resolve } = require('path');
-const { getFlavorSlug, getRecipeSlug, getMixerSlug } = require('./src/utils');
+const {
+  getFlavorSlug,
+  getRecipeSlug,
+  getMixerSlug,
+  getVendorSlug
+} = require('./src/utils');
 
 const createPages = async (
   pageName,
@@ -81,10 +86,28 @@ const createMixerPages = (options) =>
     options
   );
 
+const createVendorPages = (options) =>
+  createPages(
+    'vendor',
+    `
+    {
+      pageJson: allVendorsJson {
+        nodes {
+          id
+          name
+        }
+      }
+    }
+    `,
+    getVendorSlug,
+    options
+  );
+
 exports.createPages = async (options) => {
   await createFlavorPages(options);
   await createRecipePages(options);
   await createMixerPages(options);
+  await createVendorPages(options);
 };
 
 exports.onCreateWebpackConfig = ({ actions }) => {
