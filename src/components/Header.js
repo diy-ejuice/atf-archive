@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { Navbar, Nav } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
+  faBuilding,
   faEyeDropper,
   faList,
   faUser
@@ -32,6 +33,9 @@ const Header = ({ siteTitle }) => (
         </Nav.Link>
         <Nav.Link as={Link} to="/mixers">
           <FontAwesomeIcon icon={faUser} /> Mixers
+        </Nav.Link>
+        <Nav.Link as={Link} to="/vendors">
+          <FontAwesomeIcon icon={faBuilding} /> Vendors
         </Nav.Link>
       </Nav>
       <Nav className="ml-auto">
