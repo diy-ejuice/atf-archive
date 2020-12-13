@@ -1,74 +1,73 @@
 {
-  "name": "pumpkin pie cheesecake",
-  "description": "this is a good pumpkin pie recipe for the fall as thanksgiving is coming around the corner and this one will be great while sitting around the living while watching football and chilling with family as the smell of pumpkin pie fills the room",
-  "id": 66785,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:54:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Pie",
-      "flavor_id": "5896",
-      "millipercent": 5000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Pumpkin Pie (spice)",
-      "flavor_id": "107",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Simply Vanilla",
-      "flavor_id": "111",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1254",
-  "slug": "pumpkin_pie_cheesecake",
-  "total_flavoring": "16.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "pumpkin pie cheesecake",
+    "description": "this is a good pumpkin pie recipe for the fall as thanksgiving is coming around the corner and this one will be great while sitting around the living while watching football and chilling with family as the smell of pumpkin pie fills the room",
+    "id": 66785,
+    "image_url": null,
+    "updated_at": "2020-12-11T00:32:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Pie",
+            "flavor_id": "5896",
+            "millipercent": 5000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Pumpkin Pie (spice)",
+            "flavor_id": "107",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Simply Vanilla",
+            "flavor_id": "111",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1260",
+    "created_at": "2017-10-05",
+    "slug": "pumpkin_pie_cheesecake",
+    "total_flavoring": "16.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "95"
 }

@@ -1,74 +1,76 @@
 {
-  "name": "Tiramisu | DEVELOPED",
-  "description": "You Voted, and We Mixed a Tiramisu!  This recipe has been a much sought after profile for many years.  Up to now, it has been a bit difficult to create this luscious  dessert.  But with so many new \"coffee\" flavorings it is now possible thanks to FLV, WF, and VT.   Full recipe notes at https://youtu.be/UBf1ANIZByY .  \r\n\r\nThis is a collaborative creation by DEVELOPED: NaChef, Max Savage, and Folkart.\r\nOur weekly episodes are released at 6:00pm EST every other Tuesday, and catch our live shows every Thursday at 6pm EST.\r\n\r\nCheck out our website at https://www.DevelopedDIY.com - We now have Merch!\r\nFind us on YouTube https://www.youtube.com/c/DevelopedDIY\r\nFollow us on Instagram: https://www.instagram.com/developeddiy/\r\nCheck out our FaceBook Page at https://www.facebook.com/developeddiy/\r\n\r\n![Legacy](https://i.imgur.com/97yskRE.png)\r\n\r\n\r\nIf you would like to support DEVELOPED, the best way is to check out our LEGACY one shot line at https://www.DIYFlavorChaser.com/developed",
-  "id": 201304,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201304/Tiramisu.jpg",
-  "updated_at": "2020-12-08T00:51:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Biscotti",
-      "flavor_id": "4403",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coffee Cake SC",
-      "flavor_id": "10259",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Italian Cream",
-      "flavor_id": "2132",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Mocha",
-      "flavor_id": "617",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Developed",
-  "views": "1987",
-  "slug": "tiramisu_developed",
-  "total_flavoring": "8.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "groceryboy_jr",
-      "score": "5",
-      "text": "The coffee note on this really does it for me.  Well balanced and delicious.  Don't think about it, just mix it."
-    },
-    {
-      "user": "Deftohms",
-      "score": "5",
-      "text": "This is really tasty, and probably the best use for WF Coffee Cake. I didn't like that flavor at all but it works really well for this profile"
-    }
-  ]
+    "name": "Tiramisu | DEVELOPED",
+    "description": "You Voted, and We Mixed a Tiramisu!  This recipe has been a much sought after profile for many years.  Up to now, it has been a bit difficult to create this luscious  dessert.  But with so many new \"coffee\" flavorings it is now possible thanks to FLV, WF, and VT.   Full recipe notes at https:\/\/youtu.be\/UBf1ANIZByY .  \r\n\r\nThis is a collaborative creation by DEVELOPED: NaChef, Max Savage, and Folkart.\r\nOur weekly episodes are released at 6:00pm EST every other Tuesday, and catch our live shows every Thursday at 6pm EST.\r\n\r\nCheck out our website at https:\/\/www.DevelopedDIY.com - We now have Merch!\r\nFind us on YouTube https:\/\/www.youtube.com\/c\/DevelopedDIY\r\nFollow us on Instagram: https:\/\/www.instagram.com\/developeddiy\/\r\nCheck out our FaceBook Page at https:\/\/www.facebook.com\/developeddiy\/\r\n\r\n![Legacy](https:\/\/i.imgur.com\/97yskRE.png)\r\n\r\n\r\nIf you would like to support DEVELOPED, the best way is to check out our LEGACY one shot line at https:\/\/www.DIYFlavorChaser.com\/developed",
+    "id": 201304,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/201304\/Tiramisu.jpg",
+    "updated_at": "2020-12-12T17:13:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Biscotti",
+            "flavor_id": "4403",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coffee Cake SC",
+            "flavor_id": "10259",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Italian Cream",
+            "flavor_id": "2132",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Mocha",
+            "flavor_id": "617",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Developed",
+    "views": "2001",
+    "created_at": "2020-07-24",
+    "slug": "tiramisu_developed",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/201304.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "groceryboy_jr",
+            "score": 5,
+            "text": "The coffee note on this really does it for me.  Well balanced and delicious.  Don't think about it, just mix it."
+        },
+        {
+            "user": "Deftohms",
+            "score": 5,
+            "text": "This is really tasty, and probably the best use for WF Coffee Cake. I didn't like that flavor at all but it works really well for this profile"
+        }
+    ]
 }

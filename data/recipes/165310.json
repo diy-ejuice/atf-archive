@@ -1,44 +1,43 @@
 {
-  "name": "The Earl of Grey",
-  "description": "This recipe is a steeper. It takes a good 3 to 4 weeks for FA Black Tea to steep out, and blend well into the bergamot flavor.  The FLV teas are there to add just that little bit extra, you know that little bit of tea/earthy notes missing from FA Black's black tea.  This to me is fairly close to drinking a cup of Bigalow's Earl Grey tea.  If you prefer yours with a bit of cream, I'd suggest 0.5% of either FA's Fresh Cream or VTA's Milk Fresh.  But since I can't taste creams all that well  I went without it in this, even though I take my tea with a spot of cream when I drink it.  You can also add sweetener if you like your tea sweet.  Cooling is also an option pretty much whatever cooling flavor you like at whatever percentage preference you have. ",
-  "id": 165310,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:38:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tea Black Water Soluble",
-      "flavor_id": "548",
-      "millipercent": 3500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Black tea",
-      "flavor_id": "9377",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 1250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "1061",
-  "slug": "the_earl_of_grey",
-  "total_flavoring": "5.15%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Earl of Grey",
+    "description": "This recipe is a steeper. It takes a good 3 to 4 weeks for FA Black Tea to steep out, and blend well into the bergamot flavor.  The FLV teas are there to add just that little bit extra, you know that little bit of tea\/earthy notes missing from FA Black's black tea.  This to me is fairly close to drinking a cup of Bigalow's Earl Grey tea.  If you prefer yours with a bit of cream, I'd suggest 0.5% of either FA's Fresh Cream or VTA's Milk Fresh.  But since I can't taste creams all that well  I went without it in this, even though I take my tea with a spot of cream when I drink it.  You can also add sweetener if you like your tea sweet.  Cooling is also an option pretty much whatever cooling flavor you like at whatever percentage preference you have. ",
+    "id": 165310,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:45:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tea Black Water Soluble",
+            "flavor_id": "548",
+            "millipercent": 3500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Black tea",
+            "flavor_id": "9377",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 1250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "1072",
+    "created_at": "2019-09-01",
+    "slug": "the_earl_of_grey",
+    "total_flavoring": "5.15%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

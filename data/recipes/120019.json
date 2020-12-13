@@ -1,74 +1,73 @@
 {
-  "name": "Ayuda me por favor!",
-  "description": "Help me name this?? It started as a srawberry Malt/Milkshake...\r\nI love it, it's my favorite strawberry vape right now. I need help naming it.. \r\nIt's damn good. Does anyone know of a better malted milk flavoring??",
-  "id": 120019,
-  "image_url": null,
-  "updated_at": "2020-12-05T06:48:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BradH",
-  "views": "1053",
-  "slug": "ayuda_me_por_favor",
-  "total_flavoring": "13.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ayuda me por favor!",
+    "description": "Help me name this?? It started as a srawberry Malt\/Milkshake...\r\nI love it, it's my favorite strawberry vape right now. I need help naming it.. \r\nIt's damn good. Does anyone know of a better malted milk flavoring??",
+    "id": 120019,
+    "image_url": null,
+    "updated_at": "2020-12-12T01:41:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BradH",
+    "views": "1061",
+    "created_at": "2018-09-21",
+    "slug": "ayuda_me_por_favor",
+    "total_flavoring": "13.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,56 +1,57 @@
 {
-  "name": "Strawberry Crunch",
-  "description": "Strawberry Cheesecake with crumbles",
-  "id": 274,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 9000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "2851",
-  "slug": "strawberry_crunch",
-  "total_flavoring": "17.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 3.5,
-  "reviews": [
-    {
-      "user": "Abodkins01",
-      "score": "3",
-      "text": "I don't get any cheesecake from this. But my girlfriend renamed it after I mixed to to strawberry jam and biscuits. I totally see it too. "
-    },
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "Looks nice"
-    }
-  ]
+    "name": "Strawberry Crunch",
+    "description": "Strawberry Cheesecake with crumbles",
+    "id": 274,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 9000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "2862",
+    "created_at": "2016-03-06",
+    "slug": "strawberry_crunch",
+    "total_flavoring": "17.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "Abodkins01",
+            "score": 3,
+            "text": "I don't get any cheesecake from this. But my girlfriend renamed it after I mixed to to strawberry jam and biscuits. I totally see it too. "
+        },
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "Looks nice"
+        }
+    ]
 }

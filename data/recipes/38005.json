@@ -1,62 +1,62 @@
 {
-  "name": "True Blue Custard",
-  "description": "This is a very simple Blueberry Custard recipe.\r\n\r\nVanilla Custard V2 (CAP) provides the base for a good custard but lacks a bit of depth. By itself it is a good custard with some nice egg notes. The addition of New York Cheesecake V2 (CAP) and Bavarian Cream (FA) combine to add a richness and thick mouth feel that really brings the custard together.\r\n\r\nBlueberry Candy (TPA) mixed with Blueberry Extra (TPA) and Forest Mix (FA) combine to make a sweet blueberry compote that has been loosely stirred into the vanilla custard.\r\n\r\nThis recipe tastes very good right after a good shake but it has a little bit of harshness. Give it a couple weeks and it is much smoother. After four weeks it is a very nice blueberry vanilla custard that will continue to develop over the next few weeks, if it lasts that long.",
-  "id": 38005,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38005/Blueberry_Custard.jpg",
-  "updated_at": "2020-12-06T20:39:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake V2",
-      "flavor_id": "3525",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "louiesquared",
-  "views": "2044",
-  "slug": "true_blue_custard",
-  "total_flavoring": "17.5%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "True Blue Custard",
+    "description": "This is a very simple Blueberry Custard recipe.\r\n\r\nVanilla Custard V2 (CAP) provides the base for a good custard but lacks a bit of depth. By itself it is a good custard with some nice egg notes. The addition of New York Cheesecake V2 (CAP) and Bavarian Cream (FA) combine to add a richness and thick mouth feel that really brings the custard together.\r\n\r\nBlueberry Candy (TPA) mixed with Blueberry Extra (TPA) and Forest Mix (FA) combine to make a sweet blueberry compote that has been loosely stirred into the vanilla custard.\r\n\r\nThis recipe tastes very good right after a good shake but it has a little bit of harshness. Give it a couple weeks and it is much smoother. After four weeks it is a very nice blueberry vanilla custard that will continue to develop over the next few weeks, if it lasts that long.",
+    "id": 38005,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/38005\/Blueberry_Custard.jpg",
+    "updated_at": "2020-12-10T15:59:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake V2",
+            "flavor_id": "3525",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "louiesquared",
+    "views": "2051",
+    "created_at": "2017-03-23",
+    "slug": "true_blue_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/38005.jpg",
+    "total_flavoring": "17.5%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "0"
 }

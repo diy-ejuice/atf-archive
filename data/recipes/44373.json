@@ -1,63 +1,65 @@
 {
-  "name": "Slammer",
-  "description": "I've never actually had a POG juice (beverage or vape) so I relied on some friends to guide me. After a few iterations, this seems to be pretty settled as the final recipe. My friends say the balance is good and that it's pretty similar to Naked 100's. I'm certainly enjoying it. \r\n\r\nCAP Sweet Tangerine is so spot on for powdered orange drink just adding the freshness of FW Blood Orange (the best orange) made for a solid orange juice base. FA Passionfruit seems to be the best from reviews, I went with CAP Sweet Guava over FLV Pink Guava because it tastes more ripe and doesn't have the earthy note of the FLV. Then I just needed TPA Dragonfruit to blend it all together and INW Cactus for some extra juiciness.",
-  "id": 44373,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/44373/17.png",
-  "updated_at": "2020-12-08T00:49:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Rhinox04",
-  "views": "2617",
-  "slug": "slammer",
-  "total_flavoring": "13.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "This is really good. Your friends are right. It is really well balanced. I thought that sweet guava may overtake the blood orange and sweet tangerine but it doesn't. This is superbly balanced very refreshing. Thanks for a great summer recipe! "
-    }
-  ]
+    "name": "Slammer",
+    "description": "I've never actually had a POG juice (beverage or vape) so I relied on some friends to guide me. After a few iterations, this seems to be pretty settled as the final recipe. My friends say the balance is good and that it's pretty similar to Naked 100's. I'm certainly enjoying it. \r\n\r\nCAP Sweet Tangerine is so spot on for powdered orange drink just adding the freshness of FW Blood Orange (the best orange) made for a solid orange juice base. FA Passionfruit seems to be the best from reviews, I went with CAP Sweet Guava over FLV Pink Guava because it tastes more ripe and doesn't have the earthy note of the FLV. Then I just needed TPA Dragonfruit to blend it all together and INW Cactus for some extra juiciness.",
+    "id": 44373,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/44373\/17.png",
+    "updated_at": "2020-12-12T14:05:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Rhinox04",
+    "views": "2624",
+    "created_at": "2017-05-03",
+    "slug": "slammer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/44373.png",
+    "total_flavoring": "13.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "This is really good. Your friends are right. It is really well balanced. I thought that sweet guava may overtake the blood orange and sweet tangerine but it doesn't. This is superbly balanced very refreshing. Thanks for a great summer recipe! "
+        }
+    ]
 }

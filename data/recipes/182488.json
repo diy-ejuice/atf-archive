@@ -1,62 +1,61 @@
 {
-  "name": "Aphrodite",
-  "description": "Nice and crisp summer mix with mixed berrys and anise - this mix has helped me to get away from the blue stiff called Heisenberg :D",
-  "id": 182488,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Menthol",
-      "flavor_id": "88",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Anise",
-      "flavor_id": "499",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Black Cherry",
-      "flavor_id": "212",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "642",
-  "slug": "aphrodite",
-  "total_flavoring": "14.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Aphrodite",
+    "description": "Nice and crisp summer mix with mixed berrys and anise - this mix has helped me to get away from the blue stiff called Heisenberg :D",
+    "id": 182488,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Menthol",
+            "flavor_id": "88",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Anise",
+            "flavor_id": "499",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Black Cherry",
+            "flavor_id": "212",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "650",
+    "created_at": "2020-01-26",
+    "slug": "aphrodite",
+    "total_flavoring": "14.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

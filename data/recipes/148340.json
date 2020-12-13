@@ -1,80 +1,79 @@
 {
-  "name": "Fresh guava lemonade",
-  "description": "Warm weather requires a refreshing recipe. I'm into lemonades recently so I came up with this one. Still needs some tweaking, I might up the guava and raspberry in future revisions",
-  "id": 148340,
-  "image_url": null,
-  "updated_at": "2020-12-05T02:14:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 750,
-      "vendor": "FE"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ukulomo",
-  "views": "1101",
-  "slug": "fresh_guava_lemonade",
-  "total_flavoring": "12.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fresh guava lemonade",
+    "description": "Warm weather requires a refreshing recipe. I'm into lemonades recently so I came up with this one. Still needs some tweaking, I might up the guava and raspberry in future revisions",
+    "id": 148340,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:07:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 750,
+            "vendor": "FE"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ukulomo",
+    "views": "1108",
+    "created_at": "2019-04-23",
+    "slug": "fresh_guava_lemonade",
+    "total_flavoring": "12.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

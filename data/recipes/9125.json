@@ -1,57 +1,59 @@
 {
-  "name": "Snake Venom",
-  "description": "Peaches and coconut cream! Needs to steep for a week so the coconuts and cream can come together ",
-  "id": 9125,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9125/venom_2.jpg",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "542",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "317",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "2329",
-  "slug": "snake_venom",
-  "total_flavoring": "14.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Deschain",
-      "score": "4",
-      "text": "Not bad at all, yet can't help but personally feel like something is a bit lacking. Though I'm thinking a cheesecake version of this with some graham cracker might be better for me personally. "
-    }
-  ]
+    "name": "Snake Venom",
+    "description": "Peaches and coconut cream! Needs to steep for a week so the coconuts and cream can come together ",
+    "id": 9125,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9125\/venom_2.jpg",
+    "updated_at": "2020-12-12T11:50:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "542",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "317",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "2338",
+    "created_at": "2016-07-30",
+    "slug": "snake_venom",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9125.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Deschain",
+            "score": 4,
+            "text": "Not bad at all, yet can't help but personally feel like something is a bit lacking. Though I'm thinking a cheesecake version of this with some graham cracker might be better for me personally. "
+        }
+    ]
 }

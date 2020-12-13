@@ -1,50 +1,50 @@
 {
-  "name": "Unicorn Jizz",
-  "description": "A unique mix of berries and Pineapple in a tart Cream that will Knock you out ! Sweet taste of strawberry and Raspberry with the tangy creaminess of the pineapple and yogurt that has a unique mouth feel.",
-  "id": 123247,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123247/unicorn_jizz.jpg",
-  "updated_at": "2020-12-07T23:37:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "1377",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "velezlino",
-  "views": "1614",
-  "slug": "unicorn_jizz",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "89%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Unicorn Jizz",
+    "description": "A unique mix of berries and Pineapple in a tart Cream that will Knock you out ! Sweet taste of strawberry and Raspberry with the tangy creaminess of the pineapple and yogurt that has a unique mouth feel.",
+    "id": 123247,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123247\/unicorn_jizz.jpg",
+    "updated_at": "2020-12-10T19:00:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "1377",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "velezlino",
+    "views": "1624",
+    "created_at": "2018-10-15",
+    "slug": "unicorn_jizz",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123247.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "89%",
+    "temperature": "0"
 }

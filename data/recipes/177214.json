@@ -1,56 +1,56 @@
 {
-  "name": "Peanut Cream",
-  "description": "Wanted to try a creamy peanut butter. \r\nSuggestions and thoughts are welcome!\r\n",
-  "id": 177214,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177214/pure-pindakaas.jpg",
-  "updated_at": "2020-12-05T12:09:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dx Peanut Butter",
-      "flavor_id": "288",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Spycke",
-  "views": "880",
-  "slug": "peanut_cream",
-  "total_flavoring": "10.4%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peanut Cream",
+    "description": "Wanted to try a creamy peanut butter. \r\nSuggestions and thoughts are welcome!\r\n",
+    "id": 177214,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/177214\/pure-pindakaas.jpg",
+    "updated_at": "2020-12-12T14:07:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dx Peanut Butter",
+            "flavor_id": "288",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Spycke",
+    "views": "890",
+    "created_at": "2019-12-09",
+    "slug": "peanut_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/177214.jpg",
+    "total_flavoring": "10.4%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

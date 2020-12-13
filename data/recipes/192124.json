@@ -1,68 +1,68 @@
 {
-  "name": "Cinna-Bun",
-  "description": "Wanted to make a nice Cinnabon clone and this is as close as it gets! The pie crust, zeppola, and AP work in unison to get you that doughy mix that goes so well with the cinnamon. Cin crunch to dry it out and give it a little more of a bakery note. Fw cinnamon isn’t as strong as some others so I went a little high, after all, it is a cinnamon roll! The butter base and caramel are added to give you that rich caramelized sugar note.",
-  "id": 192124,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/192124/C118BEEE-D65A-41B5-8ACD-A67F839586B0.jpeg",
-  "updated_at": "2020-12-08T00:51:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cinnamon",
-      "flavor_id": "1245",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Base",
-      "flavor_id": "8843",
-      "millipercent": 750,
-      "vendor": "VT"
-    }
-  ],
-  "author": "enzonik",
-  "views": "605",
-  "slug": "cinnabun",
-  "total_flavoring": "9.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinna-Bun",
+    "description": "Wanted to make a nice Cinnabon clone and this is as close as it gets! The pie crust, zeppola, and AP work in unison to get you that doughy mix that goes so well with the cinnamon. Cin crunch to dry it out and give it a little more of a bakery note. Fw cinnamon isn\u2019t as strong as some others so I went a little high, after all, it is a cinnamon roll! The butter base and caramel are added to give you that rich caramelized sugar note.",
+    "id": 192124,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/192124\/C118BEEE-D65A-41B5-8ACD-A67F839586B0.jpeg",
+    "updated_at": "2020-12-10T16:01:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cinnamon",
+            "flavor_id": "1245",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Base",
+            "flavor_id": "8843",
+            "millipercent": 750,
+            "vendor": "VT"
+        }
+    ],
+    "author": "enzonik",
+    "views": "610",
+    "created_at": "2020-04-21",
+    "slug": "cinnabun",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/192124.jpeg",
+    "total_flavoring": "9.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

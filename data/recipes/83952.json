@@ -1,66 +1,68 @@
 {
-  "name": "Swedish Fishes (Simple DIY E-liquid Candy Recipe)",
-  "description": "A vape that tastes just like a handful of swedish fish\r\nMade for \"Let's Mix: Swedish Fishes\"\r\n-> http://bit.ly/2FHBXjk",
-  "id": 83952,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83952/swedish-fish-WEB.jpg",
-  "updated_at": "2020-12-08T00:49:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "27 Fish",
-      "flavor_id": "8736",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "9873",
-  "slug": "swedish_fishes_simple_diy_eliquid_candy_recipe",
-  "total_flavoring": "10.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "mike369",
-      "score": "5",
-      "text": "Excellent! I love this recipe so much, I made a second batch for my pods using 55% VG and 12% nic. Will definitely mix again. Thank you Wayne!"
-    },
-    {
-      "user": "Jbirdy34",
-      "score": "5",
-      "text": "I love this simple but yet spot on Swedish fish. When I need something quick and simple this is my go to. "
-    },
-    {
-      "user": "Mr-G",
-      "score": "4",
-      "text": "ok"
-    },
-    {
-      "user": "super8line",
-      "score": "4",
-      "text": "I've been looking for a good Swedish Fish recipe and I think this is it.   27 Fish and juicy Strawberry with the vanilla swirl blend together to create an authentic Swedish Fish taste and mouthfeel.  "
-    }
-  ]
+    "name": "Swedish Fishes (Simple DIY E-liquid Candy Recipe)",
+    "description": "A vape that tastes just like a handful of swedish fish\r\nMade for \"Let's Mix: Swedish Fishes\"\r\n-> http:\/\/bit.ly\/2FHBXjk",
+    "id": 83952,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83952\/swedish-fish-WEB.jpg",
+    "updated_at": "2020-12-12T20:29:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "27 Fish",
+            "flavor_id": "8736",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "9889",
+    "created_at": "2018-01-16",
+    "slug": "swedish_fishes_simple_diy_eliquid_candy_recipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83952.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "mike369",
+            "score": 5,
+            "text": "Excellent! I love this recipe so much, I made a second batch for my pods using 55% VG and 12% nic. Will definitely mix again. Thank you Wayne!"
+        },
+        {
+            "user": "Jbirdy34",
+            "score": 5,
+            "text": "I love this simple but yet spot on Swedish fish. When I need something quick and simple this is my go to. "
+        },
+        {
+            "user": "Mr-G",
+            "score": 4,
+            "text": "ok"
+        },
+        {
+            "user": "super8line",
+            "score": 4,
+            "text": "I've been looking for a good Swedish Fish recipe and I think this is it.   27 Fish and juicy Strawberry with the vanilla swirl blend together to create an authentic Swedish Fish taste and mouthfeel.  "
+        }
+    ]
 }

@@ -1,55 +1,57 @@
 {
-  "name": "VGod - Lushice (clone)",
-  "description": "Lushice was the very first recipe I tried to make/clone, as it was one of my favourite eliquids before DIY. I went through about 10 different watermelon concentrates and none of them really lived up to any of the premium watermelon eliquids I had tried. Watermelon has kindof been my white whale, but iv finally nailed the profile with purilum watermelon (and also delosi watermelon in my other recipes)\r\n\r\nThis clone is simple, but surprisingly accurate. It tastes exactly how I remembered it, however maybe a little less sweet so as not to ruin my coils. Ideally sweetener should be at 1%. \r\n\r\nIf you havnt gotten PUR watermelon yet id highly recommend it, its the best candy watermelon out there hands down, much better than Lorann's. Delosi watermelon is also amazing and very versatile, as it can be used both in candy recipes and as a natural watermelon. Check out my strawkiwi-malone recipe for a banging watermelon jolly rancher profile, using delosi watermelon.",
-  "id": 54099,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54099/image.jpeg",
-  "updated_at": "2020-12-08T00:49:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "7797",
-      "millipercent": 10000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 2000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Smoky",
-  "views": "6379",
-  "slug": "vgod_lushice_clone",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "horizonism",
-      "score": "5",
-      "text": "Never had the original, but this is absolutely banging. I love Purilum watermelon and this is like a showcase for how wonderful a flavour it really is. "
-    },
-    {
-      "user": "AndreM",
-      "score": "5",
-      "text": "Watermelon is a very occasional vape for me, but this one I just cannot put down. Thank you for the recipe."
-    },
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This is a great summertime mix. Good advice on the Purilum watermelon, it's the best watermelon I've tasted. Thanks for sharing."
-    }
-  ]
+    "name": "VGod - Lushice (clone)",
+    "description": "Lushice was the very first recipe I tried to make\/clone, as it was one of my favourite eliquids before DIY. I went through about 10 different watermelon concentrates and none of them really lived up to any of the premium watermelon eliquids I had tried. Watermelon has kindof been my white whale, but iv finally nailed the profile with purilum watermelon (and also delosi watermelon in my other recipes)\r\n\r\nThis clone is simple, but surprisingly accurate. It tastes exactly how I remembered it, however maybe a little less sweet so as not to ruin my coils. Ideally sweetener should be at 1%. \r\n\r\nIf you havnt gotten PUR watermelon yet id highly recommend it, its the best candy watermelon out there hands down, much better than Lorann's. Delosi watermelon is also amazing and very versatile, as it can be used both in candy recipes and as a natural watermelon. Check out my strawkiwi-malone recipe for a banging watermelon jolly rancher profile, using delosi watermelon.",
+    "id": 54099,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54099\/image.jpeg",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "7797",
+            "millipercent": 10000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 2000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Smoky",
+    "views": "6391",
+    "created_at": "2017-07-06",
+    "slug": "vgod_lushice_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54099.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "horizonism",
+            "score": 5,
+            "text": "Never had the original, but this is absolutely banging. I love Purilum watermelon and this is like a showcase for how wonderful a flavour it really is. "
+        },
+        {
+            "user": "AndreM",
+            "score": 5,
+            "text": "Watermelon is a very occasional vape for me, but this one I just cannot put down. Thank you for the recipe."
+        },
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This is a great summertime mix. Good advice on the Purilum watermelon, it's the best watermelon I've tasted. Thanks for sharing."
+        }
+    ]
 }

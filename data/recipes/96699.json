@@ -1,50 +1,49 @@
 {
-  "name": "Strawberry Lemon Cream",
-  "description": "This recipe has been a long time first juice for people I introduce to Vaping. It retains it's flavor in the high nicotine (8mg - 16mg) juices that new vapers typically require. That said, it is also a good tasting juice in it own right.\r\nShake and vape, but holds up well over a couple of months.",
-  "id": 96699,
-  "image_url": null,
-  "updated_at": "2020-12-05T15:43:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "668",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    }
-  ],
-  "author": "goofyfootmixer",
-  "views": "1091",
-  "slug": "strawberry_lemon_cream",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Lemon Cream",
+    "description": "This recipe has been a long time first juice for people I introduce to Vaping. It retains it's flavor in the high nicotine (8mg - 16mg) juices that new vapers typically require. That said, it is also a good tasting juice in it own right.\r\nShake and vape, but holds up well over a couple of months.",
+    "id": 96699,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "668",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        }
+    ],
+    "author": "goofyfootmixer",
+    "views": "1098",
+    "created_at": "2018-04-13",
+    "slug": "strawberry_lemon_cream",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

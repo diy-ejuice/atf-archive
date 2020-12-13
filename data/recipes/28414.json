@@ -1,38 +1,37 @@
 {
-  "name": "The Blues",
-  "description": "Something to try nice shake and vape. Tell me what you think ",
-  "id": 28414,
-  "image_url": null,
-  "updated_at": "2020-12-02T08:01:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Boysenberry Deluxe",
-      "flavor_id": "4169",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Jaysilentbob",
-  "views": "1177",
-  "slug": "the_blues",
-  "total_flavoring": "16.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "85%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Blues",
+    "description": "Something to try nice shake and vape. Tell me what you think ",
+    "id": 28414,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Boysenberry Deluxe",
+            "flavor_id": "4169",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Jaysilentbob",
+    "views": "1186",
+    "created_at": "2017-01-23",
+    "slug": "the_blues",
+    "total_flavoring": "16.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "85%",
+    "temperature": "0"
 }

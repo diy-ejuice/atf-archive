@@ -1,44 +1,43 @@
 {
-  "name": "Summer Breeze",
-  "description": "Light and tasty mix for a hot day. The cream smoothes out the edges. ",
-  "id": 107922,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:16:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cucumber",
-      "flavor_id": "4384",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Daytimefrank1",
-  "views": "978",
-  "slug": "summer_breeze",
-  "total_flavoring": "5.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Summer Breeze",
+    "description": "Light and tasty mix for a hot day. The cream smoothes out the edges. ",
+    "id": 107922,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cucumber",
+            "flavor_id": "4384",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Daytimefrank1",
+    "views": "983",
+    "created_at": "2018-06-30",
+    "slug": "summer_breeze",
+    "total_flavoring": "5.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

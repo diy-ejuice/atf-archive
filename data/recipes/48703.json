@@ -1,103 +1,105 @@
 {
-  "name": "Hawaiian Pog Remix",
-  "description": " The original Hawaiian Pog is my favorite juice of all time, about 5 months ago I started this mission to create this juice that some say is impossible. It took about 60 or more attempts at getting this as close to the original as I could. If you mix this exactly as it's posted you will immediately recognize that familiar smell, but give it at least 5-7 days steep to really let the flavors come together.",
-  "id": 48703,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48703/729da2e1b56527cca689486a56d3057f.jpeg",
-  "updated_at": "2020-12-08T00:49:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragon Fruit",
-      "flavor_id": "49",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 600,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Gwandrei",
-  "views": "24665",
-  "slug": "hawaiian_pog_remix",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "70",
-  "total_reviews": 9,
-  "recipe_score": 4.6,
-  "reviews": [
-    {
-      "user": "Seakow",
-      "score": "5",
-      "text": "This is always my go to recipe to mix when I'm getting tired of heavy tobaccos or creams, damn good sir."
-    },
-    {
-      "user": "MediocreVibes",
-      "score": "2",
-      "text": "POG is my ADV and unfortunately, for me, this doesn't taste like it. It's a decent mix but it isn't what I was expecting or wanted. 3 stars for me is finishing my 30 mL mix. I couldn't even do 20 mL of it. Might be great to some but to me, meh. I wanted other things and never even wanted to finish mine. 2/5"
-    },
-    {
-      "user": "Deetzz",
-      "score": "4",
-      "text": "Awesome ADV, Epic Summer Vibe Juice"
-    },
-    {
-      "user": "cincinnatiking",
-      "score": "5",
-      "text": "This is an excellent recipe. It is my first time trying a tropical flavored recipe, and this was a great start! The flavors blend great together. The Sweet Tangerine really comes through on the exhale. That's me trying to sound like I know what I'm talking about. Anyway, great tasting mix! "
-    },
-    {
-      "user": "NeuerTK",
-      "score": "5",
-      "text": "I haven't had the original in a while but this is pretty much as I remember it. Great work! CAP SS not needed. "
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is my 2nd time around with this one, somehow I didn't get around to leaving a review the first time.  This is a damn addictive mix."
-    },
-    {
-      "user": "MrBurgundy",
-      "score": "5",
-      "text": "I haven't had the original, but holy mackerel this is a tasty recipe. It's a wonderfully balanced vape that smells like pineapples. The flavor blossoms into a magnetic blend of P, O, and G. The Passionfruit has a slight floral note that really adds an interesting flair to the recipe. Excellent work, Gwandrei. Thanks for sharing!"
-    },
-    {
-      "user": "SweetPoisonKim",
-      "score": "5",
-      "text": "Never had the original; and don't need to now. This is lovely. I did use TFA Dragonfruit as I didn't have CAP but it's still tasty. It's juicy and fruity, enjoying it very much! Good job sir 👍"
-    },
-    {
-      "user": "Wodde",
-      "score": "5",
-      "text": "great Summervape, i enjoy it very much :)"
-    }
-  ]
+    "name": "Hawaiian Pog Remix",
+    "description": " The original Hawaiian Pog is my favorite juice of all time, about 5 months ago I started this mission to create this juice that some say is impossible. It took about 60 or more attempts at getting this as close to the original as I could. If you mix this exactly as it's posted you will immediately recognize that familiar smell, but give it at least 5-7 days steep to really let the flavors come together.",
+    "id": 48703,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/48703\/729da2e1b56527cca689486a56d3057f.jpeg",
+    "updated_at": "2020-12-12T15:39:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragon Fruit",
+            "flavor_id": "49",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 600,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Gwandrei",
+    "views": "24687",
+    "created_at": "2017-06-01",
+    "slug": "hawaiian_pog_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/48703.jpeg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "70",
+    "total_reviews": 9,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Seakow",
+            "score": 5,
+            "text": "This is always my go to recipe to mix when I'm getting tired of heavy tobaccos or creams, damn good sir."
+        },
+        {
+            "user": "MediocreVibes",
+            "score": 2,
+            "text": "POG is my ADV and unfortunately, for me, this doesn't taste like it. It's a decent mix but it isn't what I was expecting or wanted. 3 stars for me is finishing my 30 mL mix. I couldn't even do 20 mL of it. Might be great to some but to me, meh. I wanted other things and never even wanted to finish mine. 2\/5"
+        },
+        {
+            "user": "Deetzz",
+            "score": 4,
+            "text": "Awesome ADV, Epic Summer Vibe Juice"
+        },
+        {
+            "user": "cincinnatiking",
+            "score": 5,
+            "text": "This is an excellent recipe. It is my first time trying a tropical flavored recipe, and this was a great start! The flavors blend great together. The Sweet Tangerine really comes through on the exhale. That's me trying to sound like I know what I'm talking about. Anyway, great tasting mix! "
+        },
+        {
+            "user": "NeuerTK",
+            "score": 5,
+            "text": "I haven't had the original in a while but this is pretty much as I remember it. Great work! CAP SS not needed. "
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is my 2nd time around with this one, somehow I didn't get around to leaving a review the first time.  This is a damn addictive mix."
+        },
+        {
+            "user": "MrBurgundy",
+            "score": 5,
+            "text": "I haven't had the original, but holy mackerel this is a tasty recipe. It's a wonderfully balanced vape that smells like pineapples. The flavor blossoms into a magnetic blend of P, O, and G. The Passionfruit has a slight floral note that really adds an interesting flair to the recipe. Excellent work, Gwandrei. Thanks for sharing!"
+        },
+        {
+            "user": "SweetPoisonKim",
+            "score": 5,
+            "text": "Never had the original; and don't need to now. This is lovely. I did use TFA Dragonfruit as I didn't have CAP but it's still tasty. It's juicy and fruity, enjoying it very much! Good job sir \ud83d\udc4d"
+        },
+        {
+            "user": "Wodde",
+            "score": 5,
+            "text": "great Summervape, i enjoy it very much :)"
+        }
+    ]
 }

@@ -1,87 +1,89 @@
 {
-  "name": "Banana Milk Cake",
-  "description": "I took @enyawreklaw 's \"unfinished\" MILK BY THE POUND and added. Turned out to be bomb. ENJOY",
-  "id": 92295,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92295/milk_cake.jpg",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 100,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "7737",
-      "millipercent": 1250,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "cmyjones",
-  "views": "2545",
-  "slug": "banana_milk_cake",
-  "total_flavoring": "12.35%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MiLkMaN3k",
-      "score": "5",
-      "text": "Off the shake this is super tasty. I will report back after it steeps for a few. Great work man."
-    }
-  ]
+    "name": "Banana Milk Cake",
+    "description": "I took @enyawreklaw 's \"unfinished\" MILK BY THE POUND and added. Turned out to be bomb. ENJOY",
+    "id": 92295,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92295\/milk_cake.jpg",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 100,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "7737",
+            "millipercent": 1250,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "cmyjones",
+    "views": "2553",
+    "created_at": "2018-03-13",
+    "slug": "banana_milk_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92295.jpg",
+    "total_flavoring": "12.35%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MiLkMaN3k",
+            "score": 5,
+            "text": "Off the shake this is super tasty. I will report back after it steeps for a few. Great work man."
+        }
+    ]
 }

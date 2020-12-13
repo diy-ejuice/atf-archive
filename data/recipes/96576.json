@@ -1,56 +1,58 @@
 {
-  "name": "Nillah Wafers Original Banana Pudding",
-  "description": "\"banana nilla wafer milk\" at the moment\r\n\r\nwill keep tweaking this recipe till its perfect, but I wanted to share \"as is\" \r\n3 day steep, still a Work in progress\r\n(not very sweet, add preferred sweetener to taste)",
-  "id": 96576,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/96576/nilla-wafer-banana-pudding-recipe-w.jpg",
-  "updated_at": "2020-12-08T00:50:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Nilla Wafer with Milk",
-      "flavor_id": "7773",
-      "millipercent": 4000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mathematical",
-  "views": "2377",
-  "slug": "nillah_wafers_original_banana_pudding",
-  "total_flavoring": "9.5%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "This is a damn fine start to a great banana puddin.  For my own tastes, I might flip-flop the LA and TFA banana, or even look at simply using VT banana custard."
-    },
-    {
-      "user": "Echodub",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Nillah Wafers Original Banana Pudding",
+    "description": "\"banana nilla wafer milk\" at the moment\r\n\r\nwill keep tweaking this recipe till its perfect, but I wanted to share \"as is\" \r\n3 day steep, still a Work in progress\r\n(not very sweet, add preferred sweetener to taste)",
+    "id": 96576,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/96576\/nilla-wafer-banana-pudding-recipe-w.jpg",
+    "updated_at": "2020-12-12T14:06:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Nilla Wafer with Milk",
+            "flavor_id": "7773",
+            "millipercent": 4000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mathematical",
+    "views": "2384",
+    "created_at": "2018-04-12",
+    "slug": "nillah_wafers_original_banana_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/96576.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "This is a damn fine start to a great banana puddin.  For my own tastes, I might flip-flop the LA and TFA banana, or even look at simply using VT banana custard."
+        },
+        {
+            "user": "Echodub",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

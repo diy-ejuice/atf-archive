@@ -1,81 +1,83 @@
 {
-  "name": "PB Cheescake Drizzle",
-  "description": "This is a nice Peanutbutter Cheescake with the perfect amount of crunch. Great as a desert or an ADV.  The custard gives it the perfect lemon zest you get from a Cheescake. The Carmel really just makes the Peanut butter really Pop and give off that great flavor. ",
-  "id": 35238,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35238/IMG_0103.JPG",
-  "updated_at": "2020-12-08T00:49:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "151",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1511",
-  "slug": "pb_cheescake_drizzle",
-  "total_flavoring": "15.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is my new favorite peanut butter vape"
-    }
-  ]
+    "name": "PB Cheescake Drizzle",
+    "description": "This is a nice Peanutbutter Cheescake with the perfect amount of crunch. Great as a desert or an ADV.  The custard gives it the perfect lemon zest you get from a Cheescake. The Carmel really just makes the Peanut butter really Pop and give off that great flavor. ",
+    "id": 35238,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35238\/IMG_0103.JPG",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "151",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1519",
+    "created_at": "2017-03-05",
+    "slug": "pb_cheescake_drizzle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35238.JPG",
+    "total_flavoring": "15.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is my new favorite peanut butter vape"
+        }
+    ]
 }

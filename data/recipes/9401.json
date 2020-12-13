@@ -1,73 +1,75 @@
 {
-  "name": "Bamanaya",
-  "description": "\"Tastes like sexually breaking the language barrier.\" - /u/ID10-T  \r\n\r\nHere, banana and papaya deliciously dance in the ambience of mango.",
-  "id": 9401,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9401/tropical-fruit-salad12web.png",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 2500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banò (banana)",
-      "flavor_id": "501",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Costarica Special (mango)",
-      "flavor_id": "579",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "584",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Philosaphucker",
-  "views": "4597",
-  "slug": "bamanaya",
-  "total_flavoring": "9.0%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Flyver",
-      "score": "5",
-      "text": "Shit's good, thanks man."
-    },
-    {
-      "user": "Bogey_Again",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "I am the author of the quote used for the description. I think I've made my point. "
-    }
-  ]
+    "name": "Bamanaya",
+    "description": "\"Tastes like sexually breaking the language barrier.\" - \/u\/ID10-T  \r\n\r\nHere, banana and papaya deliciously dance in the ambience of mango.",
+    "id": 9401,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9401\/tropical-fruit-salad12web.png",
+    "updated_at": "2020-12-12T11:50:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 2500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Ban\u00f2 (banana)",
+            "flavor_id": "501",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Costarica Special (mango)",
+            "flavor_id": "579",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "584",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Philosaphucker",
+    "views": "4611",
+    "created_at": "2016-08-01",
+    "slug": "bamanaya",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9401.png",
+    "total_flavoring": "9.0%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Flyver",
+            "score": 5,
+            "text": "Shit's good, thanks man."
+        },
+        {
+            "user": "Bogey_Again",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "I am the author of the quote used for the description. I think I've made my point. "
+        }
+    ]
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Soulsucker",
-  "description": "Another Mixer's Club entry. This is uniquely delicious and possibly one of the best recipes I have ever created. The only problem with it is it needs citrus support because the FLV Lemonade will fade within 2 weeks. I will eventually update it and include detailed notes once I get the right support figured out that doesn't mess with the delicate balance of some crazy ingredients. I just wanted to go ahead and put it out there in the world.\r\n\r\nDescription: A ginger-lemonade spiked with gin with an exotic floral twist.\r\n",
-  "id": 110753,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110753/The-Honey-Bees-Knees-640x420.jpg",
-  "updated_at": "2020-12-08T00:50:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Gin",
-      "flavor_id": "519",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ginger",
-      "flavor_id": "3513",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Lavender",
-      "flavor_id": "510",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Loonicorn",
-  "views": "1713",
-  "slug": "soulsucker",
-  "total_flavoring": "6.75%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "Well that was just delightful. Spicy and floral, sweet and refreshing, all kinds of juxtaposition that should be a big ol mess, instead working together beautifully. I get the juniper and lavender first, not unlike what I imagine I'd taste if I brought a gin-spiked drink garnished with a spring of lavender to my face. They're great together. With lavender you always have to worry about it turning toward laundry detergent but I'm not getting any of that there. That gin/lavender bit fades quickly into a sweet syrupy ginger lemonade, heavy on the ginger. Really the only \"flaw\" I get here is that that ginger seems to have taken over and lemonade fallen way back into the background, but if it didn't have lemonade in the description I wouldn't care at all. As a lemonade recipe, it could maybe use some citrus support."
-    }
-  ]
+    "name": "Soulsucker",
+    "description": "Another Mixer's Club entry. This is uniquely delicious and possibly one of the best recipes I have ever created. The only problem with it is it needs citrus support because the FLV Lemonade will fade within 2 weeks. I will eventually update it and include detailed notes once I get the right support figured out that doesn't mess with the delicate balance of some crazy ingredients. I just wanted to go ahead and put it out there in the world.\r\n\r\nDescription: A ginger-lemonade spiked with gin with an exotic floral twist.\r\n",
+    "id": 110753,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/110753\/The-Honey-Bees-Knees-640x420.jpg",
+    "updated_at": "2020-12-12T20:30:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Gin",
+            "flavor_id": "519",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ginger",
+            "flavor_id": "3513",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Lavender",
+            "flavor_id": "510",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Loonicorn",
+    "views": "1725",
+    "created_at": "2018-07-17",
+    "slug": "soulsucker",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/110753.jpg",
+    "total_flavoring": "6.75%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "Well that was just delightful. Spicy and floral, sweet and refreshing, all kinds of juxtaposition that should be a big ol mess, instead working together beautifully. I get the juniper and lavender first, not unlike what I imagine I'd taste if I brought a gin-spiked drink garnished with a spring of lavender to my face. They're great together. With lavender you always have to worry about it turning toward laundry detergent but I'm not getting any of that there. That gin\/lavender bit fades quickly into a sweet syrupy ginger lemonade, heavy on the ginger. Really the only \"flaw\" I get here is that that ginger seems to have taken over and lemonade fallen way back into the background, but if it didn't have lemonade in the description I wouldn't care at all. As a lemonade recipe, it could maybe use some citrus support."
+        }
+    ]
 }

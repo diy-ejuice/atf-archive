@@ -1,44 +1,44 @@
 {
-  "name": "White Tea with Grapefruit",
-  "description": "A deliciously refreshing white tea with grapefruit. It's SAV great for ADV.",
-  "id": 193195,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/193195/gra.jpg",
-  "updated_at": "2020-12-07T17:36:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grapefruit",
-      "flavor_id": "544",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "White Tea",
-      "flavor_id": "1970",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "382",
-  "slug": "white_tea_with_grapefruit",
-  "total_flavoring": "7.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "White Tea with Grapefruit",
+    "description": "A deliciously refreshing white tea with grapefruit. It's SAV great for ADV.",
+    "id": 193195,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/193195\/gra.jpg",
+    "updated_at": "2020-12-11T14:09:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grapefruit",
+            "flavor_id": "544",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "White Tea",
+            "flavor_id": "1970",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "387",
+    "created_at": "2020-04-30",
+    "slug": "white_tea_with_grapefruit",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/193195.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

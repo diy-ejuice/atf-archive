@@ -1,69 +1,71 @@
 {
-  "name": "Blue Iced Cupcake ",
-  "description": "By far my favorite recipe I have conceived. A true Blueberry Cupcake with a light not overly sweet Blueberry Cream Cheese Drizzle on top. The (cap) vanilla cupcake & (cap) sugar cookie give a good cupcake but wasn't moist. A little  (fw) yellow cake added what it was missing. For the blueberry went with (cap) blueberry jam & (tfa) blueberry extra. At first mix the blueberry is out there and strong but after a week steep the best baked blueberry ever. Top it off with  (la) cream cheese icing & (tfa) marshmallow mix with the blueberry for a light fluffy blueberry cream cheese icing.   Only Reason This Is Still In Progress Is Want To Try With (JF) yellow cake but at this time no funds for any flavor order",
-  "id": 16803,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16803/small-20171216-24043-1r0ax1g.jpg",
-  "updated_at": "2020-12-08T00:48:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MaineVapes",
-  "views": "1518",
-  "slug": "blue_iced_cupcake",
-  "total_flavoring": "16.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "The bakery portion of the mix is somehow dry but rich at the same time (butter and CCI), with a nicely proportioned blueberry note rather than the usual face full of blueberries with a little bakery thrown in for texture.  Will definitely come back to this one for seconds."
-    }
-  ]
+    "name": "Blue Iced Cupcake ",
+    "description": "By far my favorite recipe I have conceived. A true Blueberry Cupcake with a light not overly sweet Blueberry Cream Cheese Drizzle on top. The (cap) vanilla cupcake & (cap) sugar cookie give a good cupcake but wasn't moist. A little  (fw) yellow cake added what it was missing. For the blueberry went with (cap) blueberry jam & (tfa) blueberry extra. At first mix the blueberry is out there and strong but after a week steep the best baked blueberry ever. Top it off with  (la) cream cheese icing & (tfa) marshmallow mix with the blueberry for a light fluffy blueberry cream cheese icing.   Only Reason This Is Still In Progress Is Want To Try With (JF) yellow cake but at this time no funds for any flavor order",
+    "id": 16803,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16803\/small-20171216-24043-1r0ax1g.jpg",
+    "updated_at": "2020-12-12T14:04:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MaineVapes",
+    "views": "1526",
+    "created_at": "2016-10-19",
+    "slug": "blue_iced_cupcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16803.jpg",
+    "total_flavoring": "16.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "The bakery portion of the mix is somehow dry but rich at the same time (butter and CCI), with a nicely proportioned blueberry note rather than the usual face full of blueberries with a little bakery thrown in for texture.  Will definitely come back to this one for seconds."
+        }
+    ]
 }

@@ -1,289 +1,291 @@
 {
-  "name": "Life, The Universe, and Everything",
-  "description": "All ingredients not at a normal percentage are 1 drop per 30ml.\r\n\r\nThis comes across off the shake like strawberry syrup and whipped cream, if you've got all of the flavors and an hour to spare give it a shot, lol.",
-  "id": 196132,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196132/0_RXlZHWuivkapvRYe.jpg",
-  "updated_at": "2020-12-08T00:51:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Strawberries",
-      "flavor_id": "8885",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Apricot",
-      "flavor_id": "10446",
-      "millipercent": 220,
-      "vendor": "MB"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 20,
-      "vendor": "HS"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 20,
-      "vendor": "JF"
-    },
-    {
-      "name": "Fizzy Strawberry",
-      "flavor_id": "8792",
-      "millipercent": 20,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 20,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon Custard SC",
-      "flavor_id": "10409",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Custard SC",
-      "flavor_id": "10414",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 20,
-      "vendor": "INW"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 20,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 20,
-      "vendor": "VT"
-    },
-    {
-      "name": "Condensed Milk",
-      "flavor_id": "7751",
-      "millipercent": 20,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 600,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 20,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow (Gooey) SC",
-      "flavor_id": "10265",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry (Juicy) SC",
-      "flavor_id": "10412",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Bavarian Cream SC",
-      "flavor_id": "10404",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Cheesecake SC",
-      "flavor_id": "10413",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "10274",
-      "millipercent": 20,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Nilla Wafer with Milk",
-      "flavor_id": "7773",
-      "millipercent": 20,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 20,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Custard Cheesecake",
-      "flavor_id": "6532",
-      "millipercent": 20,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Coctail Kiwi Fruit",
-      "flavor_id": "10456",
-      "millipercent": 20,
-      "vendor": "MB"
-    },
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 20,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 20,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "10286",
-      "millipercent": 20,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 20,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cream Dream",
-      "flavor_id": "5919",
-      "millipercent": 500,
-      "vendor": "NR"
-    },
-    {
-      "name": "Cookie Butter SC",
-      "flavor_id": "10406",
-      "millipercent": 20,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberries And Cream",
-      "flavor_id": "114",
-      "millipercent": 20,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 20,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 20,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kettle Corn",
-      "flavor_id": "329",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 20,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 20,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 20,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 20,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 20,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 20,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry Milkshake",
-      "flavor_id": "8492",
-      "millipercent": 50,
-      "vendor": "FW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 20,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1642",
-  "slug": "life_the_universe_and_everything",
-  "total_flavoring": "4.2%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "robertshawbert",
-      "score": "5",
-      "text": "42"
-    },
-    {
-      "user": "Zugmaschine",
-      "score": "3",
-      "text": "Simple Juice!"
-    },
-    {
-      "user": "Slushy",
-      "score": "none",
-      "text": "Seriously 😆"
-    }
-  ]
+    "name": "Life, The Universe, and Everything",
+    "description": "All ingredients not at a normal percentage are 1 drop per 30ml.\r\n\r\nThis comes across off the shake like strawberry syrup and whipped cream, if you've got all of the flavors and an hour to spare give it a shot, lol.",
+    "id": 196132,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196132\/0_RXlZHWuivkapvRYe.jpg",
+    "updated_at": "2020-12-12T14:08:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Strawberries",
+            "flavor_id": "8885",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Apricot",
+            "flavor_id": "10446",
+            "millipercent": 220,
+            "vendor": "MB"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 20,
+            "vendor": "HS"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 20,
+            "vendor": "JF"
+        },
+        {
+            "name": "Fizzy Strawberry",
+            "flavor_id": "8792",
+            "millipercent": 20,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 20,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon Custard SC",
+            "flavor_id": "10409",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Custard SC",
+            "flavor_id": "10414",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 20,
+            "vendor": "INW"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 20,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 20,
+            "vendor": "VT"
+        },
+        {
+            "name": "Condensed Milk",
+            "flavor_id": "7751",
+            "millipercent": 20,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 600,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 20,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow (Gooey) SC",
+            "flavor_id": "10265",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry (Juicy) SC",
+            "flavor_id": "10412",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Bavarian Cream SC",
+            "flavor_id": "10404",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Cheesecake SC",
+            "flavor_id": "10413",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "10274",
+            "millipercent": 20,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Nilla Wafer with Milk",
+            "flavor_id": "7773",
+            "millipercent": 20,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 20,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Custard Cheesecake",
+            "flavor_id": "6532",
+            "millipercent": 20,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Coctail Kiwi Fruit",
+            "flavor_id": "10456",
+            "millipercent": 20,
+            "vendor": "MB"
+        },
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 20,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 20,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "10286",
+            "millipercent": 20,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 20,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cream Dream",
+            "flavor_id": "5919",
+            "millipercent": 500,
+            "vendor": "NR"
+        },
+        {
+            "name": "Cookie Butter SC",
+            "flavor_id": "10406",
+            "millipercent": 20,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberries And Cream",
+            "flavor_id": "114",
+            "millipercent": 20,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 20,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 20,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kettle Corn",
+            "flavor_id": "329",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 20,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 20,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 20,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 20,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 20,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 20,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry Milkshake",
+            "flavor_id": "8492",
+            "millipercent": 50,
+            "vendor": "FW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 20,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1667",
+    "created_at": "2020-05-30",
+    "slug": "life_the_universe_and_everything",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196132.jpg",
+    "total_flavoring": "4.2%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "robertshawbert",
+            "score": 5,
+            "text": "42"
+        },
+        {
+            "user": "Zugmaschine",
+            "score": 3,
+            "text": "Simple Juice!"
+        },
+        {
+            "user": "Slushy",
+            "score": 0,
+            "text": "Seriously \ud83d\ude06"
+        }
+    ]
 }

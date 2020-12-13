@@ -1,56 +1,56 @@
 {
-  "name": "Wheed Whip",
-  "description": "Just a delicious Pom/Orange/Ginger ale. Im damn happy with both combos of pom and orange in this. The ginger ale is definitly prominent, but more in a syrupy way...if that makes any sense? Again, sweetener is on you and a bit of coolant would be great",
-  "id": 104996,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104996/142923676.jpg",
-  "updated_at": "2020-12-07T09:44:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ginger Ale",
-      "flavor_id": "354",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "winder73",
-  "views": "1041",
-  "slug": "wheed_whip",
-  "total_flavoring": "12.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Wheed Whip",
+    "description": "Just a delicious Pom\/Orange\/Ginger ale. Im damn happy with both combos of pom and orange in this. The ginger ale is definitly prominent, but more in a syrupy way...if that makes any sense? Again, sweetener is on you and a bit of coolant would be great",
+    "id": 104996,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104996\/142923676.jpg",
+    "updated_at": "2020-12-12T00:41:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ginger Ale",
+            "flavor_id": "354",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "winder73",
+    "views": "1049",
+    "created_at": "2018-06-10",
+    "slug": "wheed_whip",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104996.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

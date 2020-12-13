@@ -1,44 +1,43 @@
 {
-  "name": "Rice crispy treat",
-  "description": "",
-  "id": 12608,
-  "image_url": null,
-  "updated_at": "2020-12-06T04:10:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Captain Cereal",
-      "flavor_id": "137",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "PolarizedOath",
-  "views": "2065",
-  "slug": "rice_crispy_treat",
-  "total_flavoring": "10.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rice crispy treat",
+    "description": "",
+    "id": 12608,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:44:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Captain Cereal",
+            "flavor_id": "137",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "PolarizedOath",
+    "views": "2072",
+    "created_at": "2016-09-05",
+    "slug": "rice_crispy_treat",
+    "total_flavoring": "10.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

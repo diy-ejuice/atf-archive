@@ -1,74 +1,73 @@
 {
-  "name": "Tropical Blast",
-  "description": "This came out very good and i really liked it",
-  "id": 54405,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:49:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "FrankH",
-  "views": "1260",
-  "slug": "tropical_blast",
-  "total_flavoring": "10.9%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tropical Blast",
+    "description": "This came out very good and i really liked it",
+    "id": 54405,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:05:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "FrankH",
+    "views": "1265",
+    "created_at": "2017-07-07",
+    "slug": "tropical_blast",
+    "total_flavoring": "10.9%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

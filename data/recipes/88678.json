@@ -1,63 +1,65 @@
 {
-  "name": "Screwed Dew",
-  "description": "Been going after that true Melonade by ZAP for a while now. Here it is...\r\nHoneydew II (TPA) 5% (yes, use v2)\r\nKoolada 10% (TPA) Can be lowered to 0.25% or left out\r\nMarshmallow (TPA) 0.5% for mouthfeel\r\nMenthol (LB) Can be lowered to 0.25% or left out\r\nSuper Sweet (CAP) use between 0.25% and 1%\r\nWatermelon Candy (TPA) 2%\r\n\r\nEnjoy ;)\r\nScrewdriver\r\n",
-  "id": 88678,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88678/Screwed_DEW.png",
-  "updated_at": "2020-12-08T00:49:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew II",
-      "flavor_id": "9930",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon Candy",
-      "flavor_id": "275",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Menthol",
-      "flavor_id": "1494",
-      "millipercent": 500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Screwdriver",
-  "views": "1251",
-  "slug": "screwed_dew",
-  "total_flavoring": "9.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "I mixed it up as written without any of the suggested changes despite knowing that I don’t really care for the taste of menthol. Who knows, maybe this would be the recipe that would change my mind about menthol? It didn’t, but I can’t hold that against it. It’s sweet, juicy, delicious (aside from the menthol, lol). Candied and artificial more than natural honeydew vape, but that's ok, not everything has to be authentic. Should be a great, refreshing summer vape for menthol lovers, might work just as well without it for people like me, and really makes the case for TFA Honeydew II as a solid ingredient.  "
-    }
-  ]
+    "name": "Screwed Dew",
+    "description": "Been going after that true Melonade by ZAP for a while now. Here it is...\r\nHoneydew II (TPA) 5% (yes, use v2)\r\nKoolada 10% (TPA) Can be lowered to 0.25% or left out\r\nMarshmallow (TPA) 0.5% for mouthfeel\r\nMenthol (LB) Can be lowered to 0.25% or left out\r\nSuper Sweet (CAP) use between 0.25% and 1%\r\nWatermelon Candy (TPA) 2%\r\n\r\nEnjoy ;)\r\nScrewdriver\r\n",
+    "id": 88678,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/88678\/Screwed_DEW.png",
+    "updated_at": "2020-12-12T10:34:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew II",
+            "flavor_id": "9930",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon Candy",
+            "flavor_id": "275",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Menthol",
+            "flavor_id": "1494",
+            "millipercent": 500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Screwdriver",
+    "views": "1262",
+    "created_at": "2018-02-16",
+    "slug": "screwed_dew",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/88678.png",
+    "total_flavoring": "9.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "I mixed it up as written without any of the suggested changes despite knowing that I don\u2019t really care for the taste of menthol. Who knows, maybe this would be the recipe that would change my mind about menthol? It didn\u2019t, but I can\u2019t hold that against it. It\u2019s sweet, juicy, delicious (aside from the menthol, lol). Candied and artificial more than natural honeydew vape, but that's ok, not everything has to be authentic. Should be a great, refreshing summer vape for menthol lovers, might work just as well without it for people like me, and really makes the case for TFA Honeydew II as a solid ingredient.  "
+        }
+    ]
 }

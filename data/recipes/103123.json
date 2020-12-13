@@ -1,38 +1,37 @@
 {
-  "name": "Red Country Mile",
-  "description": "red apple ry4 needs work open to constructive criticism. NO TROLLIES",
-  "id": 103123,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:34:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "PolarizedOath",
-  "views": "987",
-  "slug": "red_country_mile",
-  "total_flavoring": "7.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "80%",
-  "temperature": "480",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Red Country Mile",
+    "description": "red apple ry4 needs work open to constructive criticism. NO TROLLIES",
+    "id": 103123,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "PolarizedOath",
+    "views": "995",
+    "created_at": "2018-05-28",
+    "slug": "red_country_mile",
+    "total_flavoring": "7.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "80%",
+    "temperature": "480"
 }

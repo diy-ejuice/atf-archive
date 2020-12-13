@@ -1,0 +1,49 @@
+{
+    "name": "Cherry Cola v2",
+    "description": "this is a brand new cherry cola recipe I came with guys let me know if its better then my original recipe please ",
+    "id": 209473,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:31:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cola Flavor Type Concentrate",
+            "flavor_id": "38",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cherry",
+            "flavor_id": "649",
+            "millipercent": 3500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fizz Pop",
+            "flavor_id": "10291",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "172",
+    "created_at": "2020-12-09",
+    "slug": "cherry_cola_v2",
+    "total_flavoring": "13.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "110"
+}

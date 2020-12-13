@@ -1,63 +1,65 @@
 {
-  "name": "Lemon Cookie Custard",
-  "description": "Really great Lemon Custard filled cookie.\r\nCAP Sugar Cookie is clearly acting as the cookie base, with FA cookie as some support to give it texture.\r\nCAP Vanilla Custard and CAP Butter Cream make the custard with Lemon Sicily as the main lemon in the mix. Meringue gives it this nice sweet almost powdered sugar-like finish.\r\n\r\nLow Flavor %'s and Cheap to mix :) let me know what you think!",
-  "id": 49850,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49850/4462933_281271_cookies2.jpg",
-  "updated_at": "2020-12-08T00:49:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "heatbbx",
-  "views": "1840",
-  "slug": "lemon_cookie_custard",
-  "total_flavoring": "11.25%",
-  "steep_days": "4",
-  "best_vg": "%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "I didn't get much custard from this, more like a smooth cookie...but it still tastes great.  There's several lemon cookie recipes posted here, and this one is among the better ones."
-    }
-  ]
+    "name": "Lemon Cookie Custard",
+    "description": "Really great Lemon Custard filled cookie.\r\nCAP Sugar Cookie is clearly acting as the cookie base, with FA cookie as some support to give it texture.\r\nCAP Vanilla Custard and CAP Butter Cream make the custard with Lemon Sicily as the main lemon in the mix. Meringue gives it this nice sweet almost powdered sugar-like finish.\r\n\r\nLow Flavor %'s and Cheap to mix :) let me know what you think!",
+    "id": 49850,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/49850\/4462933_281271_cookies2.jpg",
+    "updated_at": "2020-12-12T15:39:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "heatbbx",
+    "views": "1846",
+    "created_at": "2017-06-08",
+    "slug": "lemon_cookie_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/49850.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "4",
+    "best_vg": "%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "I didn't get much custard from this, more like a smooth cookie...but it still tastes great.  There's several lemon cookie recipes posted here, and this one is among the better ones."
+        }
+    ]
 }

@@ -1,38 +1,38 @@
 {
-  "name": "Papaya Cream and Black Currant",
-  "description": "Delicious papaya dessert, very fruity with a touch of cream to it and the sweet juicyness of the black currant makes it perfect.\r\nYou can use The Perfurmer/Flavor Apprentice in all the ingredients if you have them.\r\n\r\nPS1: If you like more papaya you may go up 1% if you like it more sweet increase 1% of the black currant and 1% of the bavarian cream.\r\nPS2: Inspiration taken from Victor de Campos Couto\r\nPS3: If you choose to use TPA's papaya please go down to 5% since it is a strong flavor, but the FW papaya (natural) really needs to be at a higher % like 9% or even 10%\r\nPS4: It is a floral recipe since all papayas taste like that, if you don't like floral notes you may decrease the papaya and increase the black currant.",
-  "id": 123915,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123915/papaya.jpg",
-  "updated_at": "2020-12-06T07:15:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Papaya",
-      "flavor_id": "1365",
-      "millipercent": 9000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Black Currant",
-      "flavor_id": "213",
-      "millipercent": 9000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1876",
-      "millipercent": 8000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "StormyParadise",
-  "views": "914",
-  "slug": "papaya_cream_and_black_currant",
-  "total_flavoring": "26.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Papaya Cream and Black Currant",
+    "description": "Delicious papaya dessert, very fruity with a touch of cream to it and the sweet juicyness of the black currant makes it perfect.\r\nYou can use The Perfurmer\/Flavor Apprentice in all the ingredients if you have them.\r\n\r\nPS1: If you like more papaya you may go up 1% if you like it more sweet increase 1% of the black currant and 1% of the bavarian cream.\r\nPS2: Inspiration taken from Victor de Campos Couto\r\nPS3: If you choose to use TPA's papaya please go down to 5% since it is a strong flavor, but the FW papaya (natural) really needs to be at a higher % like 9% or even 10%\r\nPS4: It is a floral recipe since all papayas taste like that, if you don't like floral notes you may decrease the papaya and increase the black currant.",
+    "id": 123915,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123915\/papaya.jpg",
+    "updated_at": "2020-12-12T10:15:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Papaya",
+            "flavor_id": "1365",
+            "millipercent": 9000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Black Currant",
+            "flavor_id": "213",
+            "millipercent": 9000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1876",
+            "millipercent": 8000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "StormyParadise",
+    "views": "923",
+    "created_at": "2018-10-20",
+    "slug": "papaya_cream_and_black_currant",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123915.jpg",
+    "total_flavoring": "26.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

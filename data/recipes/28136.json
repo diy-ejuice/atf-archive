@@ -1,69 +1,71 @@
 {
-  "name": "Jizzle Dizzle",
-  "description": "I am super proud of this recipe. \r\nTook me a while to get this one to this level, and well, I think its perfect.\r\nThis is like taking a bite right out of the middle of a fresh jam filled cinnamon doughnut.\r\n\r\nThe main profile is the strawberry, and here the high percentages of Ripe and Sweet work really well together at 5 and 6%.\r\nTo form the thick jammy filling, the Jelly Candy and Cream Cheese Icing add to the strawberry. The Raspberry adds a \"tang\" at only 0.5% to give that authentic bakery jam flavour.\r\nNote - its INW Raspberry Konkentrat (Malina) used here, but the database did have it as an option. \r\n\r\nThe doughnut is achieved solely with the Cinnamon Danish Swirl (with a touch of Joy, but in honesty you could leave it out) which works with the there components to give a warm cinnamon doughnut on the inhale, that lingers with a strong strawberry jam on the exhale.\r\n\r\nTwo weeks steep time, but you will see it develop even further up to four weeks.",
-  "id": 28136,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28136/16114465_10212225905030595_9076754521355835719_n.jpg",
-  "updated_at": "2020-12-08T00:49:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 800,
-      "vendor": "LA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Rupert",
-  "views": "2415",
-  "slug": "jizzle_dizzle",
-  "total_flavoring": "16.4%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "stevenv84",
-      "score": "5",
-      "text": "I mixed this up and wow this absolutely amazing and great tasting. Thanks for this one Rupert."
-    }
-  ]
+    "name": "Jizzle Dizzle",
+    "description": "I am super proud of this recipe. \r\nTook me a while to get this one to this level, and well, I think its perfect.\r\nThis is like taking a bite right out of the middle of a fresh jam filled cinnamon doughnut.\r\n\r\nThe main profile is the strawberry, and here the high percentages of Ripe and Sweet work really well together at 5 and 6%.\r\nTo form the thick jammy filling, the Jelly Candy and Cream Cheese Icing add to the strawberry. The Raspberry adds a \"tang\" at only 0.5% to give that authentic bakery jam flavour.\r\nNote - its INW Raspberry Konkentrat (Malina) used here, but the database did have it as an option. \r\n\r\nThe doughnut is achieved solely with the Cinnamon Danish Swirl (with a touch of Joy, but in honesty you could leave it out) which works with the there components to give a warm cinnamon doughnut on the inhale, that lingers with a strong strawberry jam on the exhale.\r\n\r\nTwo weeks steep time, but you will see it develop even further up to four weeks.",
+    "id": 28136,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/28136\/16114465_10212225905030595_9076754521355835719_n.jpg",
+    "updated_at": "2020-12-12T18:29:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 800,
+            "vendor": "LA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Rupert",
+    "views": "2423",
+    "created_at": "2017-01-22",
+    "slug": "jizzle_dizzle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/28136.jpg",
+    "total_flavoring": "16.4%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "stevenv84",
+            "score": 5,
+            "text": "I mixed this up and wow this absolutely amazing and great tasting. Thanks for this one Rupert."
+        }
+    ]
 }

@@ -1,93 +1,95 @@
 {
-  "name": "Pancake Hero",
-  "description": "Inspired by Vaping Breakfast Classics pancakeman\r\n\r\n\r\nReleased just in time for the cloning month\r\n\r\nA commercial juice loaded with sweetner\r\n\r\nPancakes topped with strawberries and syrup simple and delicious\r\n\r\nThis recipe looks heavy admittedly but it's what was needed to convey that full mouthful bodied vape and it's surprisingly delicate layers merge together giving you fluffy delicious pancakes\r\n\r\nEnjoy",
-  "id": 49605,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49605/Buttermilk-Corn-Pancakes-with-Macerated-Strawberries.jpg",
-  "updated_at": "2020-12-08T00:49:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "331",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 850,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 850,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Springer",
-  "views": "3513",
-  "slug": "pancake_hero",
-  "total_flavoring": "17.4%",
-  "steep_days": "32",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Jerikorayne",
-      "score": "4",
-      "text": "This is a very good recipe I mixed it gave it 2 weeks the straw calmed down and it blended well I have been enjoying this a lot &#xD;\nREMEMBER if you mix it review it!"
-    }
-  ]
+    "name": "Pancake Hero",
+    "description": "Inspired by Vaping Breakfast Classics pancakeman\r\n\r\n\r\nReleased just in time for the cloning month\r\n\r\nA commercial juice loaded with sweetner\r\n\r\nPancakes topped with strawberries and syrup simple and delicious\r\n\r\nThis recipe looks heavy admittedly but it's what was needed to convey that full mouthful bodied vape and it's surprisingly delicate layers merge together giving you fluffy delicious pancakes\r\n\r\nEnjoy",
+    "id": 49605,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/49605\/Buttermilk-Corn-Pancakes-with-Macerated-Strawberries.jpg",
+    "updated_at": "2020-12-12T15:39:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "331",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 850,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 850,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Springer",
+    "views": "3522",
+    "created_at": "2017-06-07",
+    "slug": "pancake_hero",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/49605.jpg",
+    "total_flavoring": "17.4%",
+    "steep_days": "32",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Jerikorayne",
+            "score": 4,
+            "text": "This is a very good recipe I mixed it gave it 2 weeks the straw calmed down and it blended well I have been enjoying this a lot &#xD;\nREMEMBER if you mix it review it!"
+        }
+    ]
 }

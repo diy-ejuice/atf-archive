@@ -1,50 +1,49 @@
 {
-  "name": "Rin's Phil Mix",
-  "description": "Tropical mix inspired by vaping OG Phil Busardo. Very fruity, a little throaty but fairly unique. Guanabana has a pineapple banana type flavor that is lovely as a tropical or smoothie base. Sugarloaf pineapple added to enhance pineapple note and add a hint of citrus. Malaysian Guava adds to the tropical essence and adds a little bit of funkiness. Whipped cream and vanilla bean added to provide a slight smoothing effect without taking away/burying the fruit notes. Add sweeetener if you like.",
-  "id": 201489,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:33:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugarloaf Pineapple",
-      "flavor_id": "8978",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Malaysian Guava SC",
-      "flavor_id": "10410",
-      "millipercent": 150,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 150,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "423",
-  "slug": "rins_phil_mix",
-  "total_flavoring": "2.3%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Phil Mix",
+    "description": "Tropical mix inspired by vaping OG Phil Busardo. Very fruity, a little throaty but fairly unique. Guanabana has a pineapple banana type flavor that is lovely as a tropical or smoothie base. Sugarloaf pineapple added to enhance pineapple note and add a hint of citrus. Malaysian Guava adds to the tropical essence and adds a little bit of funkiness. Whipped cream and vanilla bean added to provide a slight smoothing effect without taking away\/burying the fruit notes. Add sweeetener if you like.",
+    "id": 201489,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:43:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugarloaf Pineapple",
+            "flavor_id": "8978",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Malaysian Guava SC",
+            "flavor_id": "10410",
+            "millipercent": 150,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 150,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "430",
+    "created_at": "2020-07-26",
+    "slug": "rins_phil_mix",
+    "total_flavoring": "2.3%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

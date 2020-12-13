@@ -1,57 +1,59 @@
 {
-  "name": "Milk and Honey Remix V2",
-  "description": "Milk and honey Remix Version 2. To me the first version measured next to real thing had more of that Graham cracker flavor and just a hint of Peanutbutter. So I switched from Graham cracker Clear TFA to FW Graham cracker @8% which seems high but works really well in this recipe and lowered the TFA Peanut butter to .5%. This recipe taste almost 1:1 of the original MH after a 7 day Steep. \r\nIf you want it sweeter and .25 cap super sweet.",
-  "id": 52189,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52189/IMG_0335.PNG",
-  "updated_at": "2020-12-07T17:34:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 8000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "2006",
-  "slug": "milk_and_honey_remix_v2",
-  "total_flavoring": "15.5%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "reasonably_dan",
-      "score": "3",
-      "text": "good recipe. tested side by side to the original. however its  a bit muted and the color alone says there is too much of one of the dark ingredients. &#xD;\n&#xD;\nwould you be interested in helping me perfect milk and honey? i am damn close and have found that 3% FW bananas foster is the honey they are using, it also adds the caramel notes everyone always gets. 4% TFA vannila bean ice cream, some TFA peanut butter, and 1% FW sweetener get you 90% of the way there. i would love the help of a mixing partner to figure out which of the many cookies/AP they are using. message me on ATF :)&#xD;\n-reasonably dan"
-    }
-  ]
+    "name": "Milk and Honey Remix V2",
+    "description": "Milk and honey Remix Version 2. To me the first version measured next to real thing had more of that Graham cracker flavor and just a hint of Peanutbutter. So I switched from Graham cracker Clear TFA to FW Graham cracker @8% which seems high but works really well in this recipe and lowered the TFA Peanut butter to .5%. This recipe taste almost 1:1 of the original MH after a 7 day Steep. \r\nIf you want it sweeter and .25 cap super sweet.",
+    "id": 52189,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/52189\/IMG_0335.PNG",
+    "updated_at": "2020-12-10T17:56:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 8000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "2012",
+    "created_at": "2017-06-23",
+    "slug": "milk_and_honey_remix_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/52189.PNG",
+    "total_flavoring": "15.5%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "reasonably_dan",
+            "score": 3,
+            "text": "good recipe. tested side by side to the original. however its  a bit muted and the color alone says there is too much of one of the dark ingredients. &#xD;\n&#xD;\nwould you be interested in helping me perfect milk and honey? i am damn close and have found that 3% FW bananas foster is the honey they are using, it also adds the caramel notes everyone always gets. 4% TFA vannila bean ice cream, some TFA peanut butter, and 1% FW sweetener get you 90% of the way there. i would love the help of a mixing partner to figure out which of the many cookies\/AP they are using. message me on ATF :)&#xD;\n-reasonably dan"
+        }
+    ]
 }

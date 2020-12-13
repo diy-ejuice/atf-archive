@@ -1,62 +1,61 @@
 {
-  "name": "Strapple Ice cream",
-  "description": "Strawberry Apple Ice cream! 10 words 10 words 10 words.",
-  "id": 122626,
-  "image_url": null,
-  "updated_at": "2020-11-28T09:05:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "2294",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "952",
-  "slug": "strapple_ice_cream",
-  "total_flavoring": "14.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strapple Ice cream",
+    "description": "Strawberry Apple Ice cream! 10 words 10 words 10 words.",
+    "id": 122626,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "2294",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "959",
+    "created_at": "2018-10-11",
+    "slug": "strapple_ice_cream",
+    "total_flavoring": "14.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

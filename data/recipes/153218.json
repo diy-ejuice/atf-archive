@@ -1,62 +1,62 @@
 {
-  "name": "Fall > Summer",
-  "description": "An apple cider with whole apple chucks, milkshake. Mixed with toffee ice cream and sweet vanilla creams. kewlll. Try it.",
-  "id": 153218,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153218/ABEC48EF-992C-40DB-8B6C-F25A8E0E5B0D.jpeg",
-  "updated_at": "2020-12-05T11:06:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Cider",
-      "flavor_id": "4368",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Apple",
-      "flavor_id": "4446",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Milkshake Base",
-      "flavor_id": "8927",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "McLovin",
-  "views": "865",
-  "slug": "fall_summer",
-  "total_flavoring": "11.45%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fall > Summer",
+    "description": "An apple cider with whole apple chucks, milkshake. Mixed with toffee ice cream and sweet vanilla creams. kewlll. Try it.",
+    "id": 153218,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153218\/ABEC48EF-992C-40DB-8B6C-F25A8E0E5B0D.jpeg",
+    "updated_at": "2020-12-10T17:58:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Cider",
+            "flavor_id": "4368",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Apple",
+            "flavor_id": "4446",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Milkshake Base",
+            "flavor_id": "8927",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "McLovin",
+    "views": "870",
+    "created_at": "2019-05-27",
+    "slug": "fall_summer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153218.jpeg",
+    "total_flavoring": "11.45%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "420"
 }

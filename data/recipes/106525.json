@@ -1,62 +1,61 @@
 {
-  "name": "Vicious Vanilla",
-  "description": "Original by Botboy141, copied from - https://www.reddit.com/r/DIY_eJuice/comments/3yzu1e/vicious_vanilla_happy_new_year_everyone/\r\n\r\nFor more flavor, boost percentages of each by 10% (for a maximum of ~12.5% total flavoring)",
-  "id": 106525,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Catalan Cream",
-      "flavor_id": "483",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "phried",
-  "views": "1544",
-  "slug": "vicious_vanilla",
-  "total_flavoring": "11.5%",
-  "steep_days": "30",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vicious Vanilla",
+    "description": "Original by Botboy141, copied from - https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/3yzu1e\/vicious_vanilla_happy_new_year_everyone\/\r\n\r\nFor more flavor, boost percentages of each by 10% (for a maximum of ~12.5% total flavoring)",
+    "id": 106525,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Catalan Cream",
+            "flavor_id": "483",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "phried",
+    "views": "1552",
+    "created_at": "2018-06-21",
+    "slug": "vicious_vanilla",
+    "total_flavoring": "11.5%",
+    "steep_days": "30",
+    "best_vg": "50%",
+    "temperature": "0"
 }

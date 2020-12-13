@@ -1,92 +1,92 @@
 {
-  "name": "Rhea (Strawberry Cream)",
-  "description": "Everyone needs a Strawberry Cream. Finally i've made one i'm happy with.\r\nIt's not to sweet, it's soft and fluffy, exactly what i was aiming for.\r\n\r\nThe mix of FAs Red Touch and TPAs Strawberry Ripe is more on the authentic side for me which i prefer, but still sweet enough.\r\nMarzipan is nice for a sweet taste after the Strawberries, which does linger a bit and adds an extra layer.\r\nWhipped Cream is used as a cream base, with the Meringue and Sweet Cream making it more milky, soft and improving the otherwise boring texture.\r\nLemon Sicily just adds a nice fresh extra layer to the mix.\r\nIf you like it, please leave a rating.\r\n\r\nUpdate: Added 2% TFA Graham Cracker Clear and 0.25% FA Rose to blend everything a little bit better and to add something special to it which fits well.\r\nUpdate 2 (now finished): -3% Red Touch -1% Strawberry Ripe. Added 4% CAP Strawberry Taffy. ",
-  "id": 48316,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48316/rhea.jpg",
-  "updated_at": "2020-12-06T08:36:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1430",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rose",
-      "flavor_id": "511",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry Taffy",
-      "flavor_id": "4164",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Waldschrat",
-  "views": "1371",
-  "slug": "rhea_strawberry_cream",
-  "total_flavoring": "20.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rhea (Strawberry Cream)",
+    "description": "Everyone needs a Strawberry Cream. Finally i've made one i'm happy with.\r\nIt's not to sweet, it's soft and fluffy, exactly what i was aiming for.\r\n\r\nThe mix of FAs Red Touch and TPAs Strawberry Ripe is more on the authentic side for me which i prefer, but still sweet enough.\r\nMarzipan is nice for a sweet taste after the Strawberries, which does linger a bit and adds an extra layer.\r\nWhipped Cream is used as a cream base, with the Meringue and Sweet Cream making it more milky, soft and improving the otherwise boring texture.\r\nLemon Sicily just adds a nice fresh extra layer to the mix.\r\nIf you like it, please leave a rating.\r\n\r\nUpdate: Added 2% TFA Graham Cracker Clear and 0.25% FA Rose to blend everything a little bit better and to add something special to it which fits well.\r\nUpdate 2 (now finished): -3% Red Touch -1% Strawberry Ripe. Added 4% CAP Strawberry Taffy. ",
+    "id": 48316,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/48316\/rhea.jpg",
+    "updated_at": "2020-12-12T14:05:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1430",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rose",
+            "flavor_id": "511",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry Taffy",
+            "flavor_id": "4164",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Waldschrat",
+    "views": "1377",
+    "created_at": "2017-05-29",
+    "slug": "rhea_strawberry_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/48316.jpg",
+    "total_flavoring": "20.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

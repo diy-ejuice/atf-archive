@@ -1,56 +1,58 @@
 {
-  "name": "Piñalbohaca Ice Cream",
-  "description": "This is a very light and refreshing flavor. Flv Basil is so fresh and delicious, I wanted to put it in something that would let it shine and it works so well with pineapple. HS French Vanilla Ice Cream, or Ice Cream, is a nice buttery ice cream flavor that accents TFA Vanilla Bean ice cream so well. This is mellow enough to be an all day vape if this profile is up your ally. I hope you enjoy. \r\n\r\n*For a more exotic touch add .15% FLV Honeybee!",
-  "id": 45140,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/45140/2270803.jpg",
-  "updated_at": "2020-12-08T00:49:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Basil",
-      "flavor_id": "4387",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "4428",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "2517",
-  "slug": "pialbohaca_ice_cream",
-  "total_flavoring": "5.15%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is wonderful stuff. I don't know if I'd recommend rushing out to buy the FLV Basil to make it if basil doesn't interest you at all, but if does, and especially if you already have it, stop reading this review and MIX THIS UP NOW. It's silky smooth and manages to perfectly straddle the lines between rich and bold and light and mellow, and the basil makes it taste so fresh and clean.  "
-    },
-    {
-      "user": "Thadentman",
-      "score": "5",
-      "text": "This recipe is sooo delicious and well balanced I may mix up a half of a liter of this because this 30 ml lasted only 18 hours, Great job Em!"
-    }
-  ]
+    "name": "Pi\u00f1albohaca Ice Cream",
+    "description": "This is a very light and refreshing flavor. Flv Basil is so fresh and delicious, I wanted to put it in something that would let it shine and it works so well with pineapple. HS French Vanilla Ice Cream, or Ice Cream, is a nice buttery ice cream flavor that accents TFA Vanilla Bean ice cream so well. This is mellow enough to be an all day vape if this profile is up your ally. I hope you enjoy. \r\n\r\n*For a more exotic touch add .15% FLV Honeybee!",
+    "id": 45140,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/45140\/2270803.jpg",
+    "updated_at": "2020-12-12T14:05:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Basil",
+            "flavor_id": "4387",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "4428",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "2525",
+    "created_at": "2017-05-07",
+    "slug": "pialbohaca_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/45140.jpg",
+    "total_flavoring": "5.15%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is wonderful stuff. I don't know if I'd recommend rushing out to buy the FLV Basil to make it if basil doesn't interest you at all, but if does, and especially if you already have it, stop reading this review and MIX THIS UP NOW. It's silky smooth and manages to perfectly straddle the lines between rich and bold and light and mellow, and the basil makes it taste so fresh and clean.  "
+        },
+        {
+            "user": "Thadentman",
+            "score": 5,
+            "text": "This recipe is sooo delicious and well balanced I may mix up a half of a liter of this because this 30 ml lasted only 18 hours, Great job Em!"
+        }
+    ]
 }

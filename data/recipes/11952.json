@@ -1,62 +1,62 @@
 {
-  "name": "Peaches & Cream",
-  "description": "Full-bodied peaches and heavy cream. Age at least 5 days. \r\n\r\nJungle Flavors Bavarian Cream can be switched out for TFA Bavarian Cream at the same percentage, but JF has a little bit more body, in my opinion. ",
-  "id": 11952,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11952/Screenshot-2016-06-24-13.22.00-e1466789196251.png",
-  "updated_at": "2020-12-07T21:31:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "629",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "4466",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 2500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NotCharlesManson",
-  "views": "8018",
-  "slug": "peaches_cream",
-  "total_flavoring": "10.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peaches & Cream",
+    "description": "Full-bodied peaches and heavy cream. Age at least 5 days. \r\n\r\nJungle Flavors Bavarian Cream can be switched out for TFA Bavarian Cream at the same percentage, but JF has a little bit more body, in my opinion. ",
+    "id": 11952,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11952\/Screenshot-2016-06-24-13.22.00-e1466789196251.png",
+    "updated_at": "2020-12-10T17:56:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "629",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "4466",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 2500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NotCharlesManson",
+    "views": "8028",
+    "created_at": "2016-08-30",
+    "slug": "peaches_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11952.png",
+    "total_flavoring": "10.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

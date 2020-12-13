@@ -1,68 +1,68 @@
 {
-  "name": "Mango Cola",
-  "description": "Took this great cola base from alfredpudding and layered some Mango into it. Upped the WS-23 (30%) as I like cold vapes. After one or two tweaks, here it is. It's actually quite nice. Turned out better than I thought. Enjoy :)",
-  "id": 139324,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/139324/Cola_Glass.jpg",
-  "updated_at": "2020-12-07T15:21:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 70,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 3500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 400,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "8062282",
-  "views": "1626",
-  "slug": "mango_cola",
-  "total_flavoring": "11.62%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Cola",
+    "description": "Took this great cola base from alfredpudding and layered some Mango into it. Upped the WS-23 (30%) as I like cold vapes. After one or two tweaks, here it is. It's actually quite nice. Turned out better than I thought. Enjoy :)",
+    "id": 139324,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/139324\/Cola_Glass.jpg",
+    "updated_at": "2020-12-12T10:15:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 70,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 3500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 400,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "8062282",
+    "views": "1636",
+    "created_at": "2019-02-16",
+    "slug": "mango_cola",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/139324.jpg",
+    "total_flavoring": "11.62%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

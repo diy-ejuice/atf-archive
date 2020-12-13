@@ -1,44 +1,44 @@
 {
-  "name": "Choco - #34",
-  "description": "This recipe is made to see if FA Chocolate is similar to the chocolates that are in e-liquids such as \"Golden Ticket\"\r\n\r\nAs a recipe, it's a simple milk chocolate. Top note is a bit of cocoa with a milk chocolatey finish thats light and focuses on the dairy. Still trying to work this one out and find a useful chocolate to use in desserts. ",
-  "id": 99229,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99229/choco-web.jpg",
-  "updated_at": "2020-12-05T12:08:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chocolate",
-      "flavor_id": "489",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2432",
-  "slug": "choco_34",
-  "total_flavoring": "7.0%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Choco - #34",
+    "description": "This recipe is made to see if FA Chocolate is similar to the chocolates that are in e-liquids such as \"Golden Ticket\"\r\n\r\nAs a recipe, it's a simple milk chocolate. Top note is a bit of cocoa with a milk chocolatey finish thats light and focuses on the dairy. Still trying to work this one out and find a useful chocolate to use in desserts. ",
+    "id": 99229,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/99229\/choco-web.jpg",
+    "updated_at": "2020-12-11T14:16:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chocolate",
+            "flavor_id": "489",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2441",
+    "created_at": "2018-05-02",
+    "slug": "choco_34",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/99229.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "0"
 }

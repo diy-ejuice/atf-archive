@@ -1,87 +1,89 @@
 {
-  "name": "Caramel Rice Crispy Treats! 5 STARS",
-  "description": "I put this recipe together after trying WF CRCT as a stand alone and knowing it could be better. This one definitely breaks the mold for you dessert lovers! All you have to do is give it a try and you'll be hooked! Let me know what you think... Thanks, CloudyMotherChucker",
-  "id": 173639,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173639/Caramel-Stuffed-Rice-Krispie-Treats.png",
-  "updated_at": "2020-12-08T00:51:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1670,
-      "vendor": "WF"
-    },
-    {
-      "name": "Whipped Marshmallow",
-      "flavor_id": "8744",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel Rice Crispy Treats",
-      "flavor_id": "6047",
-      "millipercent": 4170,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1670,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1670,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1670,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 830,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rick's Sugar Daddy",
-      "flavor_id": "9413",
-      "millipercent": 1670,
-      "vendor": "TBV"
-    }
-  ],
-  "author": "CloudyMotherChucker",
-  "views": "1120",
-  "slug": "caramel_rice_crispy_treats_5_stars",
-  "total_flavoring": "17.85%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "One of the best rice crispy treats I've found on ATF.  WF caramel rice crispy treat is a great flavor and it definitely shines here.  I haven't found a plain crispy treat that I've thought was amazing, and I feel like I've mixed them all. Fortunately I enjoy the caramel aspect of the flavor and this recipe so as far as I'm concerned this is the best version of rice crispy I've found"
-    }
-  ]
+    "name": "Caramel Rice Crispy Treats! 5 STARS",
+    "description": "I put this recipe together after trying WF CRCT as a stand alone and knowing it could be better. This one definitely breaks the mold for you dessert lovers! All you have to do is give it a try and you'll be hooked! Let me know what you think... Thanks, CloudyMotherChucker",
+    "id": 173639,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/173639\/Caramel-Stuffed-Rice-Krispie-Treats.png",
+    "updated_at": "2020-12-12T15:40:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1670,
+            "vendor": "WF"
+        },
+        {
+            "name": "Whipped Marshmallow",
+            "flavor_id": "8744",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel Rice Crispy Treats",
+            "flavor_id": "6047",
+            "millipercent": 4170,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1670,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1670,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1670,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 830,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rick's Sugar Daddy",
+            "flavor_id": "9413",
+            "millipercent": 1670,
+            "vendor": "TBV"
+        }
+    ],
+    "author": "CloudyMotherChucker",
+    "views": "1129",
+    "created_at": "2019-11-08",
+    "slug": "caramel_rice_crispy_treats_5_stars",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/173639.png",
+    "total_flavoring": "17.85%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "One of the best rice crispy treats I've found on ATF.  WF caramel rice crispy treat is a great flavor and it definitely shines here.  I haven't found a plain crispy treat that I've thought was amazing, and I feel like I've mixed them all. Fortunately I enjoy the caramel aspect of the flavor and this recipe so as far as I'm concerned this is the best version of rice crispy I've found"
+        }
+    ]
 }

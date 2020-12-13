@@ -1,68 +1,67 @@
 {
-  "name": "Crispy Treat Pie",
-  "description": "Delicious rice crispy treat crust with a creamy vanilla whipped sugar creamy southern frosting center",
-  "id": 129877,
-  "image_url": null,
-  "updated_at": "2020-12-06T08:37:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rice Crunchies",
-      "flavor_id": "142",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Smooth Vanilla",
-      "flavor_id": "8570",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 1250,
-      "vendor": "FW"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1194",
-  "slug": "crispy_treat_pie",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Crispy Treat Pie",
+    "description": "Delicious rice crispy treat crust with a creamy vanilla whipped sugar creamy southern frosting center",
+    "id": 129877,
+    "image_url": null,
+    "updated_at": "2020-12-12T05:55:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rice Crunchies",
+            "flavor_id": "142",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Smooth Vanilla",
+            "flavor_id": "8570",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 1250,
+            "vendor": "FW"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1203",
+    "created_at": "2018-12-02",
+    "slug": "crispy_treat_pie",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0"
 }

@@ -1,80 +1,81 @@
 {
-  "name": "Waffle Cake",
-  "description": "Sweet, Chocolatey, creamy waffles cakes topped with powdered sugar.",
-  "id": 5410,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Waffle (belgian)",
-      "flavor_id": "191",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 700,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Chocolate Glazed Doughnut",
-      "flavor_id": "34",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Bilic",
-  "views": "1681",
-  "slug": "waffle_cake",
-  "total_flavoring": "11.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "Yup"
-    },
-    {
-      "user": "YsarKain",
-      "score": "4",
-      "text": "I enjoyed this but the CGD does leave a bit of an aftertaste to it.  I am working on reformulating it using INW milk chocolate or TPA Double chocolate (clear)."
-    }
-  ]
+    "name": "Waffle Cake",
+    "description": "Sweet, Chocolatey, creamy waffles cakes topped with powdered sugar.",
+    "id": 5410,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Waffle (belgian)",
+            "flavor_id": "191",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 700,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Chocolate Glazed Doughnut",
+            "flavor_id": "34",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Bilic",
+    "views": "1685",
+    "created_at": "2016-06-16",
+    "slug": "waffle_cake",
+    "total_flavoring": "11.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "Yup"
+        },
+        {
+            "user": "YsarKain",
+            "score": 4,
+            "text": "I enjoyed this but the CGD does leave a bit of an aftertaste to it.  I am working on reformulating it using INW milk chocolate or TPA Double chocolate (clear)."
+        }
+    ]
 }

@@ -1,72 +1,73 @@
 {
-  "name": "BIB",
-  "description": "Predictable strawberry custard. ",
-  "id": 1414,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mixepic",
-  "views": "1844",
-  "slug": "bib",
-  "total_flavoring": "17.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "uu"
-    },
-    {
-      "user": "HerrHut",
-      "score": "4",
-      "text": "Yummy"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "Pretty nice strawberry custard"
-    },
-    {
-      "user": "xela",
-      "score": "5",
-      "text": "Awesome vape"
-    }
-  ]
+    "name": "BIB",
+    "description": "Predictable strawberry custard. ",
+    "id": 1414,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mixepic",
+    "views": "1855",
+    "created_at": "2016-03-31",
+    "slug": "bib",
+    "total_flavoring": "17.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "uu"
+        },
+        {
+            "user": "HerrHut",
+            "score": 4,
+            "text": "Yummy"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "Pretty nice strawberry custard"
+        },
+        {
+            "user": "xela",
+            "score": 5,
+            "text": "Awesome vape"
+        }
+    ]
 }

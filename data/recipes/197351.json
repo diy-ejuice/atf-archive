@@ -1,68 +1,67 @@
 {
-  "name": "bloody orange mango ",
-  "description": "My attempt at Coastal Clouds Blood Orange Mango Snow Cone. \r\n\r\nA little heavy on the mango. Going to play around with the percentages a little more to push the mango into the background more. \r\n\r\nV2 coming soon\r\n",
-  "id": 197351,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:45:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mango Indian Special",
-      "flavor_id": "10439",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 250,
-      "vendor": "FE"
-    }
-  ],
-  "author": "morencyam",
-  "views": "707",
-  "slug": "bloody_orange_mango",
-  "total_flavoring": "12.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "bloody orange mango ",
+    "description": "My attempt at Coastal Clouds Blood Orange Mango Snow Cone. \r\n\r\nA little heavy on the mango. Going to play around with the percentages a little more to push the mango into the background more. \r\n\r\nV2 coming soon\r\n",
+    "id": 197351,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:10:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mango Indian Special",
+            "flavor_id": "10439",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 250,
+            "vendor": "FE"
+        }
+    ],
+    "author": "morencyam",
+    "views": "712",
+    "created_at": "2020-06-10",
+    "slug": "bloody_orange_mango",
+    "total_flavoring": "12.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

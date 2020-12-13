@@ -1,75 +1,76 @@
 {
-  "name": "Shamrock Shake remix",
-  "description": "this is a classic total remix of a shamrock shake with alil bit of white chocolate at the end of a draw well thanks too a new friend of mine who helped me this recipe the changes that I made I can for sure taste the thick milkshake in this and cool mint make this a perfect shamrock shake mix this up guys its a banger of a shamrock shake and I can for sure taste the 4 leaf clover",
-  "id": 48926,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:43:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 3500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1313",
-  "slug": "shamrock_shake_remix",
-  "total_flavoring": "18.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 1,
-  "reviews": [
-    {
-      "user": "matthewkocanda",
-      "score": "1",
-      "text": "no chocolate."
-    }
-  ]
+    "name": "Shamrock Shake remix",
+    "description": "this is a classic total remix of a shamrock shake with alil bit of white chocolate at the end of a draw well thanks too a new friend of mine who helped me this recipe the changes that I made I can for sure taste the thick milkshake in this and cool mint make this a perfect shamrock shake mix this up guys its a banger of a shamrock shake and I can for sure taste the 4 leaf clover",
+    "id": 48926,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 3500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1318",
+    "created_at": "2017-06-03",
+    "slug": "shamrock_shake_remix",
+    "total_flavoring": "18.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 1,
+    "reviews": [
+        {
+            "user": "matthewkocanda",
+            "score": 1,
+            "text": "no chocolate."
+        }
+    ]
 }

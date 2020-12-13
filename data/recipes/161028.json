@@ -1,62 +1,62 @@
 {
-  "name": "Wry Receipts",
-  "description": "Added some banana ripe to enhance cantaloupe and give the recipe some nice texture try leave comments ",
-  "id": 161028,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/161028/7AAC9FEE-0300-4637-82B7-FB2657D6D65E.jpeg",
-  "updated_at": "2020-12-05T20:51:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 2700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ripe Banana",
-      "flavor_id": "269",
-      "millipercent": 1600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3100,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "9KADE",
-  "views": "751",
-  "slug": "wry_receipts",
-  "total_flavoring": "16.2%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Wry Receipts",
+    "description": "Added some banana ripe to enhance cantaloupe and give the recipe some nice texture try leave comments ",
+    "id": 161028,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/161028\/7AAC9FEE-0300-4637-82B7-FB2657D6D65E.jpeg",
+    "updated_at": "2020-12-10T13:46:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 2700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ripe Banana",
+            "flavor_id": "269",
+            "millipercent": 1600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3100,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "9KADE",
+    "views": "755",
+    "created_at": "2019-07-28",
+    "slug": "wry_receipts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/161028.jpeg",
+    "total_flavoring": "16.2%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

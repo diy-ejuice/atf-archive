@@ -1,51 +1,53 @@
 {
-  "name": "Lava Cream",
-  "description": "Liquid barn is slowly becoming my favorite flavor house. This recipe shows exactly why. Super simple and good off the shake. Rich, creamy, chocolate lava cake ",
-  "id": 72296,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/72296/D2D0B1E5-C3D7-454E-8E31-4ECD79F9B837.jpeg",
-  "updated_at": "2020-12-08T00:49:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "1474",
-      "millipercent": 1000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RdaJunkie",
-  "views": "2499",
-  "slug": "lava_cream",
-  "total_flavoring": "8.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Dammit this is a tasty chocolate mix.  I subbed TPA VBIC and Bavarian Cream, so IDK how much different mine is from the original, but that lava cake is FIRE"
-    }
-  ]
+    "name": "Lava Cream",
+    "description": "Liquid barn is slowly becoming my favorite flavor house. This recipe shows exactly why. Super simple and good off the shake. Rich, creamy, chocolate lava cake ",
+    "id": 72296,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/72296\/D2D0B1E5-C3D7-454E-8E31-4ECD79F9B837.jpeg",
+    "updated_at": "2020-12-12T14:05:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "1474",
+            "millipercent": 1000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RdaJunkie",
+    "views": "2505",
+    "created_at": "2017-11-04",
+    "slug": "lava_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/72296.jpeg",
+    "total_flavoring": "8.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Dammit this is a tasty chocolate mix.  I subbed TPA VBIC and Bavarian Cream, so IDK how much different mine is from the original, but that lava cake is FIRE"
+        }
+    ]
 }

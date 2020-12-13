@@ -1,63 +1,65 @@
 {
-  "name": "Smooth Tobacco",
-  "description": "The Caramel and Maple is a back note in this recipe, with a rich tobacco front note,very smooth and hard to put down.",
-  "id": 130609,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130609/tobacco-e-liquid-blends-300x300.jpg",
-  "updated_at": "2020-12-08T00:50:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel",
-      "flavor_id": "26",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Maple",
-      "flavor_id": "330",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Nicaraguan Seco",
-      "flavor_id": "7283",
-      "millipercent": 4000,
-      "vendor": "SM"
-    },
-    {
-      "name": "Aged Burley",
-      "flavor_id": "7275",
-      "millipercent": 3000,
-      "vendor": "SM"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "resevil",
-  "views": "1616",
-  "slug": "smooth_tobacco",
-  "total_flavoring": "9.75%",
-  "steep_days": "7",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "nks",
-      "score": "5",
-      "text": "nice tobacco vape,exactly what the name says.Smooth,but still quite tobacco and very tasty"
-    }
-  ]
+    "name": "Smooth Tobacco",
+    "description": "The Caramel and Maple is a back note in this recipe, with a rich tobacco front note,very smooth and hard to put down.",
+    "id": 130609,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130609\/tobacco-e-liquid-blends-300x300.jpg",
+    "updated_at": "2020-12-12T18:30:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel",
+            "flavor_id": "26",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Maple",
+            "flavor_id": "330",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Nicaraguan Seco",
+            "flavor_id": "7283",
+            "millipercent": 4000,
+            "vendor": "SM"
+        },
+        {
+            "name": "Aged Burley",
+            "flavor_id": "7275",
+            "millipercent": 3000,
+            "vendor": "SM"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "resevil",
+    "views": "1624",
+    "created_at": "2018-12-08",
+    "slug": "smooth_tobacco",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130609.jpg",
+    "total_flavoring": "9.75%",
+    "steep_days": "7",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "nks",
+            "score": 5,
+            "text": "nice tobacco vape,exactly what the name says.Smooth,but still quite tobacco and very tasty"
+        }
+    ]
 }

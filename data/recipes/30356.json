@@ -1,62 +1,62 @@
 {
-  "name": "Refreshing #4",
-  "description": "A sweet yet tantalizing drink from an oasis in a lost desert...",
-  "id": 30356,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30356/SmartSelectImage_2017-02-04-11-47-00.png",
-  "updated_at": "2020-12-06T20:49:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Morningstar",
-  "views": "1092",
-  "slug": "refreshing_4",
-  "total_flavoring": "11.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Refreshing #4",
+    "description": "A sweet yet tantalizing drink from an oasis in a lost desert...",
+    "id": 30356,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30356\/SmartSelectImage_2017-02-04-11-47-00.png",
+    "updated_at": "2020-12-11T18:23:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Morningstar",
+    "views": "1101",
+    "created_at": "2017-02-04",
+    "slug": "refreshing_4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30356.png",
+    "total_flavoring": "11.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

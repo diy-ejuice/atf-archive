@@ -1,56 +1,55 @@
 {
-  "name": "Glaring Crisis",
-  "description": "This took me a bit to figure out, didn't last long enough to steep fully.  Felt wonderful as a shake and vape. \r\n\r\nWhite Peach is a brand new love of mine. It's a crisp flavor that doesn't have the odd syrupy flavor of a normal peach.\r\nAdded a bit of Strawberry to round out the fruit and boost the White Peach.\r\nI'm one of the unlucky bunch that tastes pepper from TPA VBIC. Added in some Meringue to help lighten the vanillas and hopefully mask the pepper, which worked out well!\r\n\r\nOverall, this was a huge success.",
-  "id": 52943,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:35:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Cruisett3",
-  "views": "907",
-  "slug": "glaring_crisis",
-  "total_flavoring": "13.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Glaring Crisis",
+    "description": "This took me a bit to figure out, didn't last long enough to steep fully.  Felt wonderful as a shake and vape. \r\n\r\nWhite Peach is a brand new love of mine. It's a crisp flavor that doesn't have the odd syrupy flavor of a normal peach.\r\nAdded a bit of Strawberry to round out the fruit and boost the White Peach.\r\nI'm one of the unlucky bunch that tastes pepper from TPA VBIC. Added in some Meringue to help lighten the vanillas and hopefully mask the pepper, which worked out well!\r\n\r\nOverall, this was a huge success.",
+    "id": 52943,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Cruisett3",
+    "views": "910",
+    "created_at": "2017-06-28",
+    "slug": "glaring_crisis",
+    "total_flavoring": "13.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

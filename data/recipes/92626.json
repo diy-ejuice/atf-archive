@@ -1,44 +1,43 @@
 {
-  "name": "Berry Cream Pop",
-  "description": "This one I am not sure yet. I still have to try it out. Any Suggestions is appreciated",
-  "id": 92626,
-  "image_url": null,
-  "updated_at": "2020-12-06T12:55:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "llisahere",
-  "views": "322",
-  "slug": "berry_cream_pop",
-  "total_flavoring": "14.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Cream Pop",
+    "description": "This one I am not sure yet. I still have to try it out. Any Suggestions is appreciated",
+    "id": 92626,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "llisahere",
+    "views": "326",
+    "created_at": "2018-03-16",
+    "slug": "berry_cream_pop",
+    "total_flavoring": "14.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

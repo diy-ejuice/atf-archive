@@ -1,56 +1,56 @@
 {
-  "name": "Cloven Apple",
-  "description": "My personal favorite ADV. It has a vibrant apple with spicy background note.",
-  "id": 3227,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/3227/cloven_apple.jpeg",
-  "updated_at": "2020-12-07T23:34:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Clove",
-      "flavor_id": "302",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Danish",
-      "flavor_id": "156",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "raktivira",
-  "views": "1003",
-  "slug": "cloven_apple",
-  "total_flavoring": "13.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cloven Apple",
+    "description": "My personal favorite ADV. It has a vibrant apple with spicy background note.",
+    "id": 3227,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/3227\/cloven_apple.jpeg",
+    "updated_at": "2020-12-11T05:40:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Clove",
+            "flavor_id": "302",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Danish",
+            "flavor_id": "156",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "raktivira",
+    "views": "1012",
+    "created_at": "2016-05-15",
+    "slug": "cloven_apple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/3227.jpeg",
+    "total_flavoring": "13.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

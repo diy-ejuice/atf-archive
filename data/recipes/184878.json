@@ -1,51 +1,52 @@
 {
-  "name": "John Connor",
-  "description": "River Flavors Ocean Myst is the star here.  The FA Fuji adds nice tartness and apple flavor.",
-  "id": 184878,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ocean Myst",
-      "flavor_id": "5913",
-      "millipercent": 6000,
-      "vendor": "NR"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "frings_demise",
-  "views": "383",
-  "slug": "john_connor",
-  "total_flavoring": "9.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "xx2000xx",
-      "score": "5",
-      "text": "Nicotine River (River Flavors) Ocean Myst is p4p the best pure grape out there and underutilized. I mixed this up pretty much 1:1 ages ago so I'm familiar with it. I dropped the Fuji down a bit as it's too harsh for me that high and added .3 cactus and ws-23 for coolant/juicy making it a Grack'ish type of mix. Good Job here."
-    }
-  ]
+    "name": "John Connor",
+    "description": "River Flavors Ocean Myst is the star here.  The FA Fuji adds nice tartness and apple flavor.",
+    "id": 184878,
+    "image_url": null,
+    "updated_at": "2020-12-12T08:14:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ocean Myst",
+            "flavor_id": "5913",
+            "millipercent": 6000,
+            "vendor": "NR"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "frings_demise",
+    "views": "391",
+    "created_at": "2020-02-16",
+    "slug": "john_connor",
+    "total_flavoring": "9.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "xx2000xx",
+            "score": 5,
+            "text": "Nicotine River (River Flavors) Ocean Myst is p4p the best pure grape out there and underutilized. I mixed this up pretty much 1:1 ages ago so I'm familiar with it. I dropped the Fuji down a bit as it's too harsh for me that high and added .3 cactus and ws-23 for coolant\/juicy making it a Grack'ish type of mix. Good Job here."
+        }
+    ]
 }

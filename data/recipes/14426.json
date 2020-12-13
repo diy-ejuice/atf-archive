@@ -1,38 +1,37 @@
 {
-  "name": "Strawberry Lemonade (restaurant style)",
-  "description": "pulled from ELR \r\nhttp://e-liquid-recipes.com/recipe/68981/Strawberry%20Lemonade%20%28Restaurant%20Style%29\r\n\r\nadjusted the ratios to make it a little less potent.  Refreshing.\r\n\r\n\r\n*DEFINATELY SHAKE THIS RECIPE* I would even consider letting it breathe.\r\nShake before you drip... the PG& alcohol rise to the top and it gets nasty if not shaken properly. ",
-  "id": 14426,
-  "image_url": null,
-  "updated_at": "2020-11-30T23:57:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "1336",
-      "millipercent": 8500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 7500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "GObisco",
-  "views": "2286",
-  "slug": "strawberry_lemonade_restaurant_style",
-  "total_flavoring": "19.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Lemonade (restaurant style)",
+    "description": "pulled from ELR \r\nhttp:\/\/e-liquid-recipes.com\/recipe\/68981\/Strawberry%20Lemonade%20%28Restaurant%20Style%29\r\n\r\nadjusted the ratios to make it a little less potent.  Refreshing.\r\n\r\n\r\n*DEFINATELY SHAKE THIS RECIPE* I would even consider letting it breathe.\r\nShake before you drip... the PG& alcohol rise to the top and it gets nasty if not shaken properly. ",
+    "id": 14426,
+    "image_url": null,
+    "updated_at": "2020-12-11T15:01:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "1336",
+            "millipercent": 8500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 7500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "GObisco",
+    "views": "2294",
+    "created_at": "2016-09-25",
+    "slug": "strawberry_lemonade_restaurant_style",
+    "total_flavoring": "19.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

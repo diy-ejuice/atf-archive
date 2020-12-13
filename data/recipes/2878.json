@@ -1,38 +1,37 @@
 {
-  "name": "EZ-Isnt-It",
-  "description": "",
-  "id": 2878,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/2878/small-20170211-9427-4ae2gz.jpg",
-  "updated_at": "2020-12-05T19:49:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut Extra",
-      "flavor_id": "316",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Synergy",
-  "views": "1408",
-  "slug": "ezisntit",
-  "total_flavoring": "10.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "EZ-Isnt-It",
+    "description": "",
+    "id": 2878,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/2878\/small-20170211-9427-4ae2gz.jpg",
+    "updated_at": "2020-12-11T15:01:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut Extra",
+            "flavor_id": "316",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Synergy",
+    "views": "1418",
+    "created_at": "2016-05-03",
+    "slug": "ezisntit",
+    "total_flavoring": "10.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

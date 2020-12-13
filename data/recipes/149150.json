@@ -1,45 +1,47 @@
 {
-  "name": "1 2 3 Cracker Jack",
-  "description": "I made this one for Noted: Popcorn. WF Caramel Popcorn and Peanuts makes this job much easier. It's a great start and delivers on all three fronts, but it needs some help to read as authentic Cracker Jack. The HS Caramel Toffee is perfect for darkening and solidifying the caramel used in Caramel Popcorn and Peanuts. I honestly didn't expect it to work as well as it did. It actually registers as the same dark caramel used to cover the popcorn in the real deal. Then I added the FLV Popcorn to bring that fluffy popcorn texture to the table, and help the WF Caramel Popcorn and Peanuts balance back towards popcorn dominant. I like to add some sweetener for authenticity, but it's not absolutely essential here. ",
-  "id": 149150,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149150/CrackerJack1231.jpg",
-  "updated_at": "2020-12-07T20:33:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel Popcorn and Peanuts",
-      "flavor_id": "10113",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel Toffee",
-      "flavor_id": "2121",
-      "millipercent": 2000,
-      "vendor": "HS"
-    }
-  ],
-  "author": "AlfredPudding",
-  "views": "1842",
-  "slug": "1_2_3_cracker_jack",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "450",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "tim7423",
-      "score": "none",
-      "text": "HS Caramel Toffee is great for this profile. I'm missing the Caramel Popcorn and might have to pick it up. I couldn't  get the nut right for this profile. I'll do a proper review if I get the flavor."
-    }
-  ]
+    "name": "1 2 3 Cracker Jack",
+    "description": "I made this one for Noted: Popcorn. WF Caramel Popcorn and Peanuts makes this job much easier. It's a great start and delivers on all three fronts, but it needs some help to read as authentic Cracker Jack. The HS Caramel Toffee is perfect for darkening and solidifying the caramel used in Caramel Popcorn and Peanuts. I honestly didn't expect it to work as well as it did. It actually registers as the same dark caramel used to cover the popcorn in the real deal. Then I added the FLV Popcorn to bring that fluffy popcorn texture to the table, and help the WF Caramel Popcorn and Peanuts balance back towards popcorn dominant. I like to add some sweetener for authenticity, but it's not absolutely essential here. ",
+    "id": 149150,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149150\/CrackerJack1231.jpg",
+    "updated_at": "2020-12-12T11:52:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel Popcorn and Peanuts",
+            "flavor_id": "10113",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel Toffee",
+            "flavor_id": "2121",
+            "millipercent": 2000,
+            "vendor": "HS"
+        }
+    ],
+    "author": "AlfredPudding",
+    "views": "1851",
+    "created_at": "2019-04-29",
+    "slug": "1_2_3_cracker_jack",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149150.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "450",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "tim7423",
+            "score": 0,
+            "text": "HS Caramel Toffee is great for this profile. I'm missing the Caramel Popcorn and might have to pick it up. I couldn't  get the nut right for this profile. I'll do a proper review if I get the flavor."
+        }
+    ]
 }

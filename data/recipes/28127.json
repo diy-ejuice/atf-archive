@@ -1,74 +1,73 @@
 {
-  "name": "Banana Pudding",
-  "description": "This I keep playing with the base stays the same but I'm moving the cookie base around and trying it with different cakes and vanillas I feel very close an all day vape as is for me though.",
-  "id": 28127,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:35:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dx Banana Cream",
-      "flavor_id": "227",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dx Bavarian Cream",
-      "flavor_id": "161",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 1250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "pierceshawn",
-  "views": "1447",
-  "slug": "banana_pudding",
-  "total_flavoring": "21.25%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Pudding",
+    "description": "This I keep playing with the base stays the same but I'm moving the cookie base around and trying it with different cakes and vanillas I feel very close an all day vape as is for me though.",
+    "id": 28127,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dx Banana Cream",
+            "flavor_id": "227",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dx Bavarian Cream",
+            "flavor_id": "161",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 1250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "pierceshawn",
+    "views": "1456",
+    "created_at": "2017-01-21",
+    "slug": "banana_pudding",
+    "total_flavoring": "21.25%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

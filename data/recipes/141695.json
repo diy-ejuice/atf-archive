@@ -1,50 +1,49 @@
 {
-  "name": "Banana In Your Pocket",
-  "description": "Is that a Banana in your pocket or are you just happy to see me? \r\n\r\nOn the quest to make the best Banana Cream juice I can! Let me know how it tastes guys so far I love this! ",
-  "id": 141695,
-  "image_url": null,
-  "updated_at": "2020-12-07T20:32:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 4500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ripe Banana",
-      "flavor_id": "269",
-      "millipercent": 300,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Dennisj66",
-  "views": "1074",
-  "slug": "banana_in_your_pocket",
-  "total_flavoring": "12.3%",
-  "steep_days": "4",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana In Your Pocket",
+    "description": "Is that a Banana in your pocket or are you just happy to see me? \r\n\r\nOn the quest to make the best Banana Cream juice I can! Let me know how it tastes guys so far I love this! ",
+    "id": 141695,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 4500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ripe Banana",
+            "flavor_id": "269",
+            "millipercent": 300,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Dennisj66",
+    "views": "1081",
+    "created_at": "2019-03-06",
+    "slug": "banana_in_your_pocket",
+    "total_flavoring": "12.3%",
+    "steep_days": "4",
+    "best_vg": "75%",
+    "temperature": "0"
 }

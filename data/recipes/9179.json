@@ -1,90 +1,92 @@
 {
-  "name": "Blue Frost",
-  "description": "A Blue Raspberry Slush with 42 iterations. It's good. It might even be done.",
-  "id": 9179,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9179/blueslush.jpg",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Champagne",
-      "flavor_id": "1380",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "606",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blue Raspberry Slush",
-      "flavor_id": "2970",
-      "millipercent": 8000,
-      "vendor": "OSD"
-    }
-  ],
-  "author": "Apexified",
-  "views": "15304",
-  "slug": "blue_frost",
-  "total_flavoring": "17.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.8,
-  "reviews": [
-    {
-      "user": "Chewymidget",
-      "score": "5",
-      "text": "This chucks the tits!"
-    },
-    {
-      "user": "Burgster",
-      "score": "5",
-      "text": "Just mixed up a 10 ml batch. Took 1 pull, and mixed a 120! freakin amazing!!! Kudos kind sir!&#xD;\n&#xD;\n"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "If you've ever wondered what blue raspberry snow cones taste like in heaven, this it. The snow cone stand that gives away this deliciousness is halfway between the beer volcano and the stripper factory and this juice recipe is the only way to taste them on this side of the veil of death.  "
-    },
-    {
-      "user": "ENYAWREKLAW",
-      "score": "4",
-      "text": "Recipe is a great BlueRaz and is a great way to work in Pink Champagne. Delicious. Only gripe is that the Razzleberry seems to kind of tone down the other flavors, even at 1%. "
-    }
-  ]
+    "name": "Blue Frost",
+    "description": "A Blue Raspberry Slush with 42 iterations. It's good. It might even be done.",
+    "id": 9179,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9179\/blueslush.jpg",
+    "updated_at": "2020-12-12T11:50:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Champagne",
+            "flavor_id": "1380",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "606",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blue Raspberry Slush",
+            "flavor_id": "2970",
+            "millipercent": 8000,
+            "vendor": "OSD"
+        }
+    ],
+    "author": "Apexified",
+    "views": "15332",
+    "created_at": "2016-07-31",
+    "slug": "blue_frost",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9179.jpg",
+    "total_flavoring": "17.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Chewymidget",
+            "score": 5,
+            "text": "This chucks the tits!"
+        },
+        {
+            "user": "Burgster",
+            "score": 5,
+            "text": "Just mixed up a 10 ml batch. Took 1 pull, and mixed a 120! freakin amazing!!! Kudos kind sir!&#xD;\n&#xD;\n"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "If you've ever wondered what blue raspberry snow cones taste like in heaven, this it. The snow cone stand that gives away this deliciousness is halfway between the beer volcano and the stripper factory and this juice recipe is the only way to taste them on this side of the veil of death.  "
+        },
+        {
+            "user": "ENYAWREKLAW",
+            "score": 4,
+            "text": "Recipe is a great BlueRaz and is a great way to work in Pink Champagne. Delicious. Only gripe is that the Razzleberry seems to kind of tone down the other flavors, even at 1%. "
+        }
+    ]
 }

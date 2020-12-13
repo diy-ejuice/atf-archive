@@ -1,38 +1,38 @@
 {
-  "name": "Thangtrix",
-  "description": "It might be strong on the FE Sweet Rice for some of you. I can't really taste it unless its high. Work in progress. Probably might want to add coconut to this.",
-  "id": 89491,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89491/coconut-sticky-rice-with-banana-and-mango-27298-1.jpeg",
-  "updated_at": "2020-12-07T02:16:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 7000,
-      "vendor": "FE"
-    }
-  ],
-  "author": "chucknasty",
-  "views": "1076",
-  "slug": "thangtrix",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Thangtrix",
+    "description": "It might be strong on the FE Sweet Rice for some of you. I can't really taste it unless its high. Work in progress. Probably might want to add coconut to this.",
+    "id": 89491,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/89491\/coconut-sticky-rice-with-banana-and-mango-27298-1.jpeg",
+    "updated_at": "2020-12-12T02:45:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 7000,
+            "vendor": "FE"
+        }
+    ],
+    "author": "chucknasty",
+    "views": "1084",
+    "created_at": "2018-02-22",
+    "slug": "thangtrix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/89491.jpeg",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Cookie dough ice cream",
-  "description": "Very vanilla ice CREAM forward.  On the back end is when you get the moist cookie dough.  If you get nail polish from Vienna cream wait five days.  That’s all I could give it.  Once I tasted it it was gone lol.  Hope you enjoy ",
-  "id": 112167,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112167/39645E2A-8F53-4D93-91D9-EA3FE32E7117.jpeg",
-  "updated_at": "2020-12-07T22:33:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream and Cookies",
-      "flavor_id": "4381",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Fleming",
-  "views": "2974",
-  "slug": "cookie_dough_ice_cream",
-  "total_flavoring": "8.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "SlashaLO",
-      "score": "3",
-      "text": "Let me start by saying this isn't a bad recipe to my tastes. It is very cream forward, and that part is done well. I love Vienna Cream in all ice creams, just gives an almost authentic flavor to me, LB is an amazing ice cream as well. The issue I had with it, the pairing of Cookie Dough, and Cream and Cookies, turned into a very coffee-esque taste to me. I love cookie dough, solo and in mixes. I feel the addition to the cream and cookies turned it into a burnt coffee for me. The mix was a great ice cream though, and in my taste, if I enjoyed coffee vapes then this would be even better, but it missed the mark to me. "
-    }
-  ]
+    "name": "Cookie dough ice cream",
+    "description": "Very vanilla ice CREAM forward.  On the back end is when you get the moist cookie dough.  If you get nail polish from Vienna cream wait five days.  That\u2019s all I could give it.  Once I tasted it it was gone lol.  Hope you enjoy ",
+    "id": 112167,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112167\/39645E2A-8F53-4D93-91D9-EA3FE32E7117.jpeg",
+    "updated_at": "2020-12-10T13:45:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream and Cookies",
+            "flavor_id": "4381",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Fleming",
+    "views": "2982",
+    "created_at": "2018-07-26",
+    "slug": "cookie_dough_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112167.jpeg",
+    "total_flavoring": "8.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "SlashaLO",
+            "score": 3,
+            "text": "Let me start by saying this isn't a bad recipe to my tastes. It is very cream forward, and that part is done well. I love Vienna Cream in all ice creams, just gives an almost authentic flavor to me, LB is an amazing ice cream as well. The issue I had with it, the pairing of Cookie Dough, and Cream and Cookies, turned into a very coffee-esque taste to me. I love cookie dough, solo and in mixes. I feel the addition to the cream and cookies turned it into a burnt coffee for me. The mix was a great ice cream though, and in my taste, if I enjoyed coffee vapes then this would be even better, but it missed the mark to me. "
+        }
+    ]
 }

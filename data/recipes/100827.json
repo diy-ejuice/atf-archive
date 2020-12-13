@@ -1,50 +1,50 @@
 {
-  "name": "whisky stick",
-  "description": "a rich biscuit vape with a good hint of whisky if you like grog flavours then you may want to increase the whisky but other wise at 2% it sits nice in this mix. \r\nThe RF choc hazelnut spread brings a hint of choc and some nuts to the party that really supports the biscuit and graham cracker ",
-  "id": 100827,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100827/whiskybiscuit3_400x400.jpg",
-  "updated_at": "2020-12-02T08:14:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Whisky",
-      "flavor_id": "556",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker V2",
-      "flavor_id": "63",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Chocolate Hazelnut Spread – Super Concentrate",
-      "flavor_id": "7859",
-      "millipercent": 500,
-      "vendor": "RF"
-    }
-  ],
-  "author": "Benoz",
-  "views": "911",
-  "slug": "whisky_stick",
-  "total_flavoring": "6.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "whisky stick",
+    "description": "a rich biscuit vape with a good hint of whisky if you like grog flavours then you may want to increase the whisky but other wise at 2% it sits nice in this mix. \r\nThe RF choc hazelnut spread brings a hint of choc and some nuts to the party that really supports the biscuit and graham cracker ",
+    "id": 100827,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/100827\/whiskybiscuit3_400x400.jpg",
+    "updated_at": "2020-12-11T14:03:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Whisky",
+            "flavor_id": "556",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker V2",
+            "flavor_id": "63",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Chocolate Hazelnut Spread \u2013 Super Concentrate",
+            "flavor_id": "7859",
+            "millipercent": 500,
+            "vendor": "RF"
+        }
+    ],
+    "author": "Benoz",
+    "views": "920",
+    "created_at": "2018-05-13",
+    "slug": "whisky_stick",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/100827.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Strawberry honeydew",
-  "description": "Strawberry honeydew. Tasty, refreshing, different. Nice little recipe to mix things up. Hope you all enjoy!",
-  "id": 133290,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133290/09D6D232-18AC-41EE-8495-29027196FB47.jpeg",
-  "updated_at": "2020-12-06T22:03:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 100,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1555",
-  "slug": "strawberry_honeydew",
-  "total_flavoring": "13.6%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry honeydew",
+    "description": "Strawberry honeydew. Tasty, refreshing, different. Nice little recipe to mix things up. Hope you all enjoy!",
+    "id": 133290,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/133290\/09D6D232-18AC-41EE-8495-29027196FB47.jpeg",
+    "updated_at": "2020-12-12T20:30:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 100,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1565",
+    "created_at": "2019-01-02",
+    "slug": "strawberry_honeydew",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/133290.jpeg",
+    "total_flavoring": "13.6%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

@@ -1,50 +1,50 @@
 {
-  "name": "mlNikon's Pudding",
-  "description": "Luscious and thick vanilla pudding with a bit of chocolate cookie on the bottom. ",
-  "id": 124055,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124055/pudding.jpg",
-  "updated_at": "2020-12-05T13:09:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "1258",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "White Fudge SC",
-      "flavor_id": "8383",
-      "millipercent": 2000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1620",
-  "slug": "mlnikons_pudding",
-  "total_flavoring": "13.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Pudding",
+    "description": "Luscious and thick vanilla pudding with a bit of chocolate cookie on the bottom. ",
+    "id": 124055,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124055\/pudding.jpg",
+    "updated_at": "2020-12-11T14:17:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "1258",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "White Fudge SC",
+            "flavor_id": "8383",
+            "millipercent": 2000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1629",
+    "created_at": "2018-10-21",
+    "slug": "mlnikons_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124055.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

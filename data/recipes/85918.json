@@ -1,56 +1,56 @@
 {
-  "name": "peaches and cream",
-  "description": "best p&c recipe base on voodootroll recipe. Its a good peach and cream not harsh right after you mix it",
-  "id": 85918,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85918/images.jpeg",
-  "updated_at": "2020-12-07T20:32:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peaches And Cream",
-      "flavor_id": "95",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Error404",
-  "views": "1768",
-  "slug": "peaches_and_cream",
-  "total_flavoring": "13.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "peaches and cream",
+    "description": "best p&c recipe base on voodootroll recipe. Its a good peach and cream not harsh right after you mix it",
+    "id": 85918,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85918\/images.jpeg",
+    "updated_at": "2020-12-11T21:44:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peaches And Cream",
+            "flavor_id": "95",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Error404",
+    "views": "1776",
+    "created_at": "2018-01-28",
+    "slug": "peaches_and_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85918.jpeg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

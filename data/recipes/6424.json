@@ -1,51 +1,53 @@
 {
-  "name": "1-2-3-4 Creme Brulee",
-  "description": "Easy peasy banana creme brulee inspired by Jimmy the Juice Man. Does absolutely not taste like actual creme brulee.",
-  "id": 6424,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6424/6202101197_a2dd31a449_b.jpg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Catalan Cream",
-      "flavor_id": "483",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "altneurose",
-  "views": "3118",
-  "slug": "1234_creme_brulee",
-  "total_flavoring": "10.0%",
-  "steep_days": "3",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RainSong",
-      "score": "5",
-      "text": "Really nice banana custard. I mix for a couple people and everyone enjoys this one. Also looking forward to trying other fruits on this custard base. Thanks for a great recipe!"
-    }
-  ]
+    "name": "1-2-3-4 Creme Brulee",
+    "description": "Easy peasy banana creme brulee inspired by Jimmy the Juice Man. Does absolutely not taste like actual creme brulee.",
+    "id": 6424,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6424\/6202101197_a2dd31a449_b.jpg",
+    "updated_at": "2020-12-12T10:32:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Catalan Cream",
+            "flavor_id": "483",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "altneurose",
+    "views": "3126",
+    "created_at": "2016-07-03",
+    "slug": "1234_creme_brulee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6424.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RainSong",
+            "score": 5,
+            "text": "Really nice banana custard. I mix for a couple people and everyone enjoys this one. Also looking forward to trying other fruits on this custard base. Thanks for a great recipe!"
+        }
+    ]
 }

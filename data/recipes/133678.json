@@ -1,56 +1,56 @@
 {
-  "name": "Birthday Suit",
-  "description": "Birthday cake cupcake. Rich buttercream frosting layered over a melt in your mouth cupcake.\r\nWanted to keep this simple using as few flavors as possible. I will make changes as needed, but this is just my starting point wanna see how this steeps together.",
-  "id": 133678,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133678/FBE73164-D367-49DE-8498-AB7FE5C26F32.jpeg",
-  "updated_at": "2020-12-07T17:35:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cake Batter Dip",
-      "flavor_id": "1223",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Smash4reason",
-  "views": "897",
-  "slug": "birthday_suit",
-  "total_flavoring": "10.25%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Birthday Suit",
+    "description": "Birthday cake cupcake. Rich buttercream frosting layered over a melt in your mouth cupcake.\r\nWanted to keep this simple using as few flavors as possible. I will make changes as needed, but this is just my starting point wanna see how this steeps together.",
+    "id": 133678,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/133678\/FBE73164-D367-49DE-8498-AB7FE5C26F32.jpeg",
+    "updated_at": "2020-12-10T16:01:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cake Batter Dip",
+            "flavor_id": "1223",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Smash4reason",
+    "views": "903",
+    "created_at": "2019-01-05",
+    "slug": "birthday_suit",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/133678.jpeg",
+    "total_flavoring": "10.25%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

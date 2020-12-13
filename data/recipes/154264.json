@@ -1,56 +1,56 @@
 {
-  "name": "Triple Threat 3,2,1,1,2,3",
-  "description": "A rich salted caramel ice cream that’s full of flavour and mouthfeel. Sweetener optional,I used 0.50% cap super sweet and that’s exactly what I would recommend. Enjoy 😎",
-  "id": 154264,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154264/7F85294C-7C49-4E27-9CD8-AFA60EB44BBE.jpeg",
-  "updated_at": "2020-12-07T10:44:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "French Vanilla Ice Cream",
-      "flavor_id": "8880",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel Toffee",
-      "flavor_id": "2121",
-      "millipercent": 1000,
-      "vendor": "HS"
-    }
-  ],
-  "author": "FuriousMixer",
-  "views": "1473",
-  "slug": "triple_threat_321123",
-  "total_flavoring": "12.0%",
-  "steep_days": "5",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Triple Threat 3,2,1,1,2,3",
+    "description": "A rich salted caramel ice cream that\u2019s full of flavour and mouthfeel. Sweetener optional,I used 0.50% cap super sweet and that\u2019s exactly what I would recommend. Enjoy \ud83d\ude0e",
+    "id": 154264,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154264\/7F85294C-7C49-4E27-9CD8-AFA60EB44BBE.jpeg",
+    "updated_at": "2020-12-10T17:58:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "French Vanilla Ice Cream",
+            "flavor_id": "8880",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel Toffee",
+            "flavor_id": "2121",
+            "millipercent": 1000,
+            "vendor": "HS"
+        }
+    ],
+    "author": "FuriousMixer",
+    "views": "1477",
+    "created_at": "2019-06-04",
+    "slug": "triple_threat_321123",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154264.jpeg",
+    "total_flavoring": "12.0%",
+    "steep_days": "5",
+    "best_vg": "75%",
+    "temperature": "0"
 }

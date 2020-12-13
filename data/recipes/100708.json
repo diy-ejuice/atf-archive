@@ -1,50 +1,49 @@
 {
-  "name": "Momma's Mix V2",
-  "description": "My wife actually chose the flavors and I figured the percentages. Nice Strawberry Cheesecake recipe. Need a steep time of at least 2 weeks, though the longer the steep, the better the juice is.",
-  "id": 100708,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:34:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "1420",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "partzman2",
-  "views": "897",
-  "slug": "mommas_mix_v2",
-  "total_flavoring": "16.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Momma's Mix V2",
+    "description": "My wife actually chose the flavors and I figured the percentages. Nice Strawberry Cheesecake recipe. Need a steep time of at least 2 weeks, though the longer the steep, the better the juice is.",
+    "id": 100708,
+    "image_url": null,
+    "updated_at": "2020-12-12T03:45:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "1420",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "partzman2",
+    "views": "906",
+    "created_at": "2018-05-12",
+    "slug": "mommas_mix_v2",
+    "total_flavoring": "16.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

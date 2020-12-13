@@ -1,45 +1,47 @@
 {
-  "name": "Shut the F@¢k up!",
-  "description": "Simple coffee and cream... I'm an avid coffee lover and coffee vapes seem to be on the difficult side to nail down... Just wanted to make this nice and simple, 1st version, should be nice and creamy once steeped...",
-  "id": 12525,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12525/small-20170104-18032-bsnxj.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cup A Joe",
-      "flavor_id": "44",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "1838",
-  "slug": "shut_the_fk_up",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rockwise",
-      "score": "5",
-      "text": "Simple but good after a long steep,thx"
-    }
-  ]
+    "name": "Shut the F@\u00a2k up!",
+    "description": "Simple coffee and cream... I'm an avid coffee lover and coffee vapes seem to be on the difficult side to nail down... Just wanted to make this nice and simple, 1st version, should be nice and creamy once steeped...",
+    "id": 12525,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12525\/small-20170104-18032-bsnxj.jpg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cup A Joe",
+            "flavor_id": "44",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "1845",
+    "created_at": "2016-09-04",
+    "slug": "shut_the_fk_up",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12525.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rockwise",
+            "score": 5,
+            "text": "Simple but good after a long steep,thx"
+        }
+    ]
 }

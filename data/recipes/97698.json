@@ -1,68 +1,68 @@
 {
-  "name": "Gun Free Zone",
-  "description": "In honor of Detroit and ECC, I proudly present a Gun Free Zone! Sweet potato whiskey pie!",
-  "id": 97698,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97698/gun_free.jpg",
-  "updated_at": "2020-12-05T08:05:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yam",
-      "flavor_id": "8575",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 5,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "920",
-  "slug": "gun_free_zone",
-  "total_flavoring": "7.005%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "400",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gun Free Zone",
+    "description": "In honor of Detroit and ECC, I proudly present a Gun Free Zone! Sweet potato whiskey pie!",
+    "id": 97698,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/97698\/gun_free.jpg",
+    "updated_at": "2020-12-10T19:00:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yam",
+            "flavor_id": "8575",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 5,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "927",
+    "created_at": "2018-04-21",
+    "slug": "gun_free_zone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/97698.jpg",
+    "total_flavoring": "7.005%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "400"
 }

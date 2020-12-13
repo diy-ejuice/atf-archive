@@ -1,68 +1,68 @@
 {
-  "name": "Scooby Snack (Drink)",
-  "description": "Coconut Rum\r\nMelon Liqueur \r\nBanana Liqueur\r\nPineapple Juice\r\nWhipped Cream\r\n\r\nIf you dont want the Rum note you could totally omit the FA Jamaican Special. Make it just a sweet fruity drink.\r\n\r\nThis one is pretty straightforward! Lemme know what ya think!",
-  "id": 190484,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190484/scooby-snack-cocktail.jpg",
-  "updated_at": "2020-12-07T19:16:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut Rum SC",
-      "flavor_id": "10012",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Funky Pineapple",
-      "flavor_id": "1515",
-      "millipercent": 2000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "EyeM2sRus",
-  "views": "885",
-  "slug": "scooby_snack_drink",
-  "total_flavoring": "13.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Scooby Snack (Drink)",
+    "description": "Coconut Rum\r\nMelon Liqueur \r\nBanana Liqueur\r\nPineapple Juice\r\nWhipped Cream\r\n\r\nIf you dont want the Rum note you could totally omit the FA Jamaican Special. Make it just a sweet fruity drink.\r\n\r\nThis one is pretty straightforward! Lemme know what ya think!",
+    "id": 190484,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190484\/scooby-snack-cocktail.jpg",
+    "updated_at": "2020-12-12T00:42:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut Rum SC",
+            "flavor_id": "10012",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Funky Pineapple",
+            "flavor_id": "1515",
+            "millipercent": 2000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "EyeM2sRus",
+    "views": "892",
+    "created_at": "2020-04-07",
+    "slug": "scooby_snack_drink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190484.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

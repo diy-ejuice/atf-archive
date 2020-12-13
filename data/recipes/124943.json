@@ -1,50 +1,50 @@
 {
-  "name": "Tyson Tea",
-  "description": "Took the melon tea idea from Wayne, and adding  FLV black tea from another user...I can't remember though. I think it was called paradise - I loved the idea and I had 100ml of JF Honeydew that I couldn't manage to use.  Turned out I was using it way too low. Here's what happened.",
-  "id": 124943,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124943/tyson.jpg",
-  "updated_at": "2020-11-29T21:45:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 12000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Black tea",
-      "flavor_id": "9377",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 350,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 650,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "cmyjones",
-  "views": "936",
-  "slug": "tyson_tea",
-  "total_flavoring": "13.8%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tyson Tea",
+    "description": "Took the melon tea idea from Wayne, and adding  FLV black tea from another user...I can't remember though. I think it was called paradise - I loved the idea and I had 100ml of JF Honeydew that I couldn't manage to use.  Turned out I was using it way too low. Here's what happened.",
+    "id": 124943,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124943\/tyson.jpg",
+    "updated_at": "2020-12-11T14:08:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 12000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Black tea",
+            "flavor_id": "9377",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 350,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 650,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "cmyjones",
+    "views": "946",
+    "created_at": "2018-10-28",
+    "slug": "tyson_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124943.jpg",
+    "total_flavoring": "13.8%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

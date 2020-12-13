@@ -1,45 +1,47 @@
 {
-  "name": "1-2-3 BERTYGURT",
-  "description": "Simple 1-2-3 boysenberry yogurt. In my opinion this is spot on \"Yoplait\", those small dessert style vanilla yogurts.\r\n\r\nWhat really makes it here is the combo of **FW Yogurt** and **DFS Holy Vanilla**, as it brings that creamy vanilla yogurt flavor and mouthfeel. Added a relatively high dose of **FLV Boysenberry** for that very sweet, jammy and delicious berry flavor on top of that.",
-  "id": 149977,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149977/bertygurt3.png",
-  "updated_at": "2020-12-08T00:50:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "staybert",
-  "views": "1565",
-  "slug": "123_bertygurt",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "XleaDrof",
-      "score": "5",
-      "text": "This a spot on, easy to mix, berry yogurt. My girlfriend has gone through almost 200mls in a little over 2 weeks. Mix it if ya got it!"
-    }
-  ]
+    "name": "1-2-3 BERTYGURT",
+    "description": "Simple 1-2-3 boysenberry yogurt. In my opinion this is spot on \"Yoplait\", those small dessert style vanilla yogurts.\r\n\r\nWhat really makes it here is the combo of **FW Yogurt** and **DFS Holy Vanilla**, as it brings that creamy vanilla yogurt flavor and mouthfeel. Added a relatively high dose of **FLV Boysenberry** for that very sweet, jammy and delicious berry flavor on top of that.",
+    "id": 149977,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149977\/bertygurt3.png",
+    "updated_at": "2020-12-12T15:40:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "staybert",
+    "views": "1575",
+    "created_at": "2019-05-04",
+    "slug": "123_bertygurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149977.png",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "XleaDrof",
+            "score": 5,
+            "text": "This a spot on, easy to mix, berry yogurt. My girlfriend has gone through almost 200mls in a little over 2 weeks. Mix it if ya got it!"
+        }
+    ]
 }

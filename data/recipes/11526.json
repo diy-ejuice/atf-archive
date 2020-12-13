@@ -1,32 +1,32 @@
 {
-  "name": "Purple Lizard",
-  "description": "Best way to describe is it is a grape limeade.  I didn't have any ice or koolada flavoring but you could easily add some of that into this as well maybe 1-2% whatever makes the taste buds happy.",
-  "id": 11526,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11526/ShadowSauce_Logo.jpg",
-  "updated_at": "2020-12-06T11:39:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "662",
-      "millipercent": 3000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Apoc17",
-  "views": "1423",
-  "slug": "purple_lizard",
-  "total_flavoring": "13.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Purple Lizard",
+    "description": "Best way to describe is it is a grape limeade.  I didn't have any ice or koolada flavoring but you could easily add some of that into this as well maybe 1-2% whatever makes the taste buds happy.",
+    "id": 11526,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11526\/ShadowSauce_Logo.jpg",
+    "updated_at": "2020-12-10T13:44:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "662",
+            "millipercent": 3000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Apoc17",
+    "views": "1430",
+    "created_at": "2016-08-25",
+    "slug": "purple_lizard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11526.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

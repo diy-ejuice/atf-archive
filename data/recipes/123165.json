@@ -1,87 +1,89 @@
 {
-  "name": "Blue Monday",
-  "description": "The Blueberry Custard to end all blueberry custards. Or is it a Blueberry Cream? Wait, it kind of tastes like a Cheesecake, too! This mix plays tricks with your mind. I've even heard some getting waffle from it. FW Blueberry, TPA Blueberry, and FA Bilberry complete the trinity, along with INW Lemon Mix to really drive that blueberry forward.\r\n\r\nINW Custard, INW Yes We Cheesecake, TFA Bavarian Cream, TFA Sweet Cream, TFA Marshmallow and DIYFS Holy Vanilla all combine to give a well rounded creamy as hell custardpiecakewaffle. ",
-  "id": 123165,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123165/PicsArt_01-11-07.42.45.jpg",
-  "updated_at": "2020-12-08T00:50:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Mix",
-      "flavor_id": "698",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2389",
-  "slug": "blue_monday",
-  "total_flavoring": "17.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "asmirm",
-      "score": "5",
-      "text": "What kind of sorcery is this? Where's the gritty crust coming from? I can't tell you how many cheesecake recipes I've mixed and I've never tasted the \"cheesecake\" part of it. It's usually some fruit with muddled cream mess. This, this has it all. The crust, the cheesecake and subtle blueberries.&#xD;\nAmazing job! Thank you!"
-    }
-  ]
+    "name": "Blue Monday",
+    "description": "The Blueberry Custard to end all blueberry custards. Or is it a Blueberry Cream? Wait, it kind of tastes like a Cheesecake, too! This mix plays tricks with your mind. I've even heard some getting waffle from it. FW Blueberry, TPA Blueberry, and FA Bilberry complete the trinity, along with INW Lemon Mix to really drive that blueberry forward.\r\n\r\nINW Custard, INW Yes We Cheesecake, TFA Bavarian Cream, TFA Sweet Cream, TFA Marshmallow and DIYFS Holy Vanilla all combine to give a well rounded creamy as hell custardpiecakewaffle. ",
+    "id": 123165,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123165\/PicsArt_01-11-07.42.45.jpg",
+    "updated_at": "2020-12-12T14:06:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Mix",
+            "flavor_id": "698",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2398",
+    "created_at": "2018-10-14",
+    "slug": "blue_monday",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123165.jpg",
+    "total_flavoring": "17.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "asmirm",
+            "score": 5,
+            "text": "What kind of sorcery is this? Where's the gritty crust coming from? I can't tell you how many cheesecake recipes I've mixed and I've never tasted the \"cheesecake\" part of it. It's usually some fruit with muddled cream mess. This, this has it all. The crust, the cheesecake and subtle blueberries.&#xD;\nAmazing job! Thank you!"
+        }
+    ]
 }

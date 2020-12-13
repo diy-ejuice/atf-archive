@@ -1,57 +1,59 @@
 {
-  "name": "Grapefruit Peach Passion (Flavorbook Entry Recipe)",
-  "description": "This is a citrusy and floral fruit cocktail with Grapefruit, Peach, Hibiscus, and Passion fruit.\r\nMade for Flavor Book entry \"INW WHITE GRAPEFRUIT\"\r\n\r\n-> http://nolife.link/inw-wht-grpfrt\r\n\r\n(NOTE: All Flavorbook Entry recipes are meant to showcase a specific flavoring, and aren't recipes based upon final profiles)",
-  "id": 106232,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106232/flavorbook-ATF.jpg",
-  "updated_at": "2020-12-08T00:50:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Grapefruit",
-      "flavor_id": "892",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Grapefruit",
-      "flavor_id": "65",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion Fruit",
-      "flavor_id": "4409",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4624",
-  "slug": "grapefruit_peach_passion_flavorbook_entry_recipe",
-  "total_flavoring": "9.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "KingPiggums",
-      "score": "4",
-      "text": "Mixed at 80/20 VG/PG. I definitely recommend a minimum of a one day steep. Fairly sharp throat hit immediately after mixing, but that's completely gone after a day. I get the grape fruit and passion fruit up front with the peach supporting it all with a juicy sweetness. Great recipe all around, I'll definitely be mixing up more of this one."
-    }
-  ]
+    "name": "Grapefruit Peach Passion (Flavorbook Entry Recipe)",
+    "description": "This is a citrusy and floral fruit cocktail with Grapefruit, Peach, Hibiscus, and Passion fruit.\r\nMade for Flavor Book entry \"INW WHITE GRAPEFRUIT\"\r\n\r\n-> http:\/\/nolife.link\/inw-wht-grpfrt\r\n\r\n(NOTE: All Flavorbook Entry recipes are meant to showcase a specific flavoring, and aren't recipes based upon final profiles)",
+    "id": 106232,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/106232\/flavorbook-ATF.jpg",
+    "updated_at": "2020-12-12T18:29:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Grapefruit",
+            "flavor_id": "892",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Grapefruit",
+            "flavor_id": "65",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion Fruit",
+            "flavor_id": "4409",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4635",
+    "created_at": "2018-06-19",
+    "slug": "grapefruit_peach_passion_flavorbook_entry_recipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/106232.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "KingPiggums",
+            "score": 4,
+            "text": "Mixed at 80\/20 VG\/PG. I definitely recommend a minimum of a one day steep. Fairly sharp throat hit immediately after mixing, but that's completely gone after a day. I get the grape fruit and passion fruit up front with the peach supporting it all with a juicy sweetness. Great recipe all around, I'll definitely be mixing up more of this one."
+        }
+    ]
 }

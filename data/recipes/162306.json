@@ -1,50 +1,50 @@
 {
-  "name": "Soda Poppin MTL",
-  "description": "Great Shake and Vape.\r\nJust a fun, bright, delicous soda.\r\nLemme know what you think.\r\nSweeten to taste.\r\nTested in MTL/Low wattage",
-  "id": 162306,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162306/rhubarb-hibiscus-iced-tea-rose-petals-garden-drink-55295833.jpg",
-  "updated_at": "2020-12-07T17:35:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 700,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet and Sour Rhubarb SC",
-      "flavor_id": "10126",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "fadedjay1",
-  "views": "1084",
-  "slug": "soda_poppin_mtl",
-  "total_flavoring": "4.4%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Soda Poppin MTL",
+    "description": "Great Shake and Vape.\r\nJust a fun, bright, delicous soda.\r\nLemme know what you think.\r\nSweeten to taste.\r\nTested in MTL\/Low wattage",
+    "id": 162306,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/162306\/rhubarb-hibiscus-iced-tea-rose-petals-garden-drink-55295833.jpg",
+    "updated_at": "2020-12-11T20:42:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 700,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet and Sour Rhubarb SC",
+            "flavor_id": "10126",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "fadedjay1",
+    "views": "1098",
+    "created_at": "2019-08-07",
+    "slug": "soda_poppin_mtl",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/162306.jpg",
+    "total_flavoring": "4.4%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

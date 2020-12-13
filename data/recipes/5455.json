@@ -1,51 +1,52 @@
 {
-  "name": "Turkish T.",
-  "description": "Flavor profile inspired by Charlie Noble's Tripoli (spiced turkish tobacco with fig)\r\n\r\nSteep Time: Min. 4 weeks ",
-  "id": 5455,
-  "image_url": null,
-  "updated_at": "2020-12-04T23:27:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fig",
-      "flavor_id": "54",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tobacco Turkish",
-      "flavor_id": "699",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Exotic Roots",
-      "flavor_id": "655",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "JuiceMunkeh",
-  "views": "1721",
-  "slug": "turkish_t",
-  "total_flavoring": "9.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "xx"
-    }
-  ]
+    "name": "Turkish T.",
+    "description": "Flavor profile inspired by Charlie Noble's Tripoli (spiced turkish tobacco with fig)\r\n\r\nSteep Time: Min. 4 weeks ",
+    "id": 5455,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:11:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fig",
+            "flavor_id": "54",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tobacco Turkish",
+            "flavor_id": "699",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Exotic Roots",
+            "flavor_id": "655",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "JuiceMunkeh",
+    "views": "1725",
+    "created_at": "2016-06-17",
+    "slug": "turkish_t",
+    "total_flavoring": "9.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "xx"
+        }
+    ]
 }

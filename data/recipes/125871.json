@@ -1,62 +1,62 @@
 {
-  "name": "Ginger Lime Coke ",
-  "description": "Nice refreshing can of coke with a hint of ginger & lime.",
-  "id": 125871,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/125871/Ginger_Lime.JPG",
-  "updated_at": "2020-12-07T17:35:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ginger",
-      "flavor_id": "1293",
-      "millipercent": 250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Ginger Ale",
-      "flavor_id": "354",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Usa Pleasure (cola)",
-      "flavor_id": "552",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "8062282",
-  "views": "1052",
-  "slug": "ginger_lime_coke",
-  "total_flavoring": "8.25%",
-  "steep_days": "5",
-  "best_vg": "30%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ginger Lime Coke ",
+    "description": "Nice refreshing can of coke with a hint of ginger & lime.",
+    "id": 125871,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/125871\/Ginger_Lime.JPG",
+    "updated_at": "2020-12-10T14:52:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ginger",
+            "flavor_id": "1293",
+            "millipercent": 250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Ginger Ale",
+            "flavor_id": "354",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Usa Pleasure (cola)",
+            "flavor_id": "552",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "8062282",
+    "views": "1060",
+    "created_at": "2018-11-03",
+    "slug": "ginger_lime_coke",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/125871.JPG",
+    "total_flavoring": "8.25%",
+    "steep_days": "5",
+    "best_vg": "30%",
+    "temperature": "0"
 }

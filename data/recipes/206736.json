@@ -1,69 +1,71 @@
 {
-  "name": "Fairground Butterscotch Custard Tobacco #DevelopedFLV",
-  "description": "A tobacco recipe with creamy butterscotch custard topped with caramel popcorn and peanuts. \r\n\r\nI love FLV tobaccos so, as its an all FLV recipe, I really wanted to do some sort of a tobacco mix. I used Vanilla Pudding as the custard base with a little added creaminess and mouthfeel from the Cream. FLV Butterscotch is one of my favourites, it's such a great butterscotch top note. Popcorn and Beer Nuts is a really nice combo plus the caramel note in Popcorn fills out the Butterscotch. I used a bolder, darker tobacco which adds some more depth and dimension to the mix. \r\n\r\nMinimum steep - 7 days. But it takes 10-14 days for the tobacco and popcorn to fully come through. \r\n\r\nTested on Citadel RDA, 0.6ohms, around 35w. \r\n",
-  "id": 206736,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206736/F3D5A788-2E02-4D63-8FDA-18F386D0A193.jpeg",
-  "updated_at": "2020-12-08T00:51:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 900,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Beer Nuts",
-      "flavor_id": "4391",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DixxleRoo",
-  "views": "606",
-  "slug": "fairground_butterscotch_custard_tobacco_developedflv",
-  "total_flavoring": "7.7%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Deftohms",
-      "score": "5",
-      "text": "Steeped for about 20 days, this stuff is awesome! I never thought of using flv popcorn with a tobacco but its a combo i can see in alot of recipes. Although, I'm not complaining, but for some reason I get a very distinctive chocolate note in here. I have no idea what it could be coming from, nothing in here has ever come off as chocolatey, but yeah thats what I get at a longer steep. Its delicious, to me its like tobacco with kettle corn along with the same chocolate note you'd get from red burley. I may be broken to flv butterscotch haha. Thanks for this one!"
-    }
-  ]
+    "name": "Fairground Butterscotch Custard Tobacco #DevelopedFLV",
+    "description": "A tobacco recipe with creamy butterscotch custard topped with caramel popcorn and peanuts. \r\n\r\nI love FLV tobaccos so, as its an all FLV recipe, I really wanted to do some sort of a tobacco mix. I used Vanilla Pudding as the custard base with a little added creaminess and mouthfeel from the Cream. FLV Butterscotch is one of my favourites, it's such a great butterscotch top note. Popcorn and Beer Nuts is a really nice combo plus the caramel note in Popcorn fills out the Butterscotch. I used a bolder, darker tobacco which adds some more depth and dimension to the mix. \r\n\r\nMinimum steep - 7 days. But it takes 10-14 days for the tobacco and popcorn to fully come through. \r\n\r\nTested on Citadel RDA, 0.6ohms, around 35w. \r\n",
+    "id": 206736,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/206736\/F3D5A788-2E02-4D63-8FDA-18F386D0A193.jpeg",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 900,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Beer Nuts",
+            "flavor_id": "4391",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DixxleRoo",
+    "views": "617",
+    "created_at": "2020-10-07",
+    "slug": "fairground_butterscotch_custard_tobacco_developedflv",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/206736.jpeg",
+    "total_flavoring": "7.7%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Deftohms",
+            "score": 5,
+            "text": "Steeped for about 20 days, this stuff is awesome! I never thought of using flv popcorn with a tobacco but its a combo i can see in alot of recipes. Although, I'm not complaining, but for some reason I get a very distinctive chocolate note in here. I have no idea what it could be coming from, nothing in here has ever come off as chocolatey, but yeah thats what I get at a longer steep. Its delicious, to me its like tobacco with kettle corn along with the same chocolate note you'd get from red burley. I may be broken to flv butterscotch haha. Thanks for this one!"
+        }
+    ]
 }

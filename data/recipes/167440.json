@@ -1,69 +1,71 @@
 {
-  "name": "Hell No, You Can’t Take My Flavors Bruh! ",
-  "description": "My buddy Sean Maddox loves Wookie Cookie and mixed his first DIY recipe this week!  Bravo to you my friend for saying hell no to all the crazy flavor ban stuff and deciding to take the plunge. As a tribute to him and his new mixing journey I made a version based off the recipe he created. I’ve never tried the original, based one what he’s told me this seems to be in the same ball park.  \r\n\r\nThe profile from what I understand is graham cracker/caramel/cream. For that I used FA joker and graham crust to create to spicy cookie. INW Yes We Cheesecake and VT Creme Brulee for a decadent cream layer and WF Caramel Butter and FW Butterscotch Ripple for the caramel, well...for the caramel.  FA Meringue adds just the right amount of sweetness without being cloying. \r\n\r\nFor a different twist sub VT Sweet Cream or FA Vienna Cream for the cheesecake.  Either combo is delicious \r\n\r\nAnd to anyone else thinking about mixing your own E-Liquid just do it!  Hell No you can’t take my flavors bruh\r\n\r\nTested on a Dvarw DL, 0.40 ohm Ni80 Clapton coil at 25 watts",
-  "id": 167440,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/167440/E9CCB087-E104-4E96-AE90-D45EF29BFB25.jpeg",
-  "updated_at": "2020-12-08T00:51:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "8864",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Graham Crust",
-      "flavor_id": "9950",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pazzo Burlone (Joker)",
-      "flavor_id": "9911",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 3000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "R2ME2",
-  "views": "1075",
-  "slug": "hell_no_you_cant_take_my_flavors_bruh",
-  "total_flavoring": "11.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "PhyllisRae",
-      "score": "5",
-      "text": "Cheers Maddox! I'll try it too."
-    }
-  ]
+    "name": "Hell No, You Can\u2019t Take My Flavors Bruh! ",
+    "description": "My buddy Sean Maddox loves Wookie Cookie and mixed his first DIY recipe this week!  Bravo to you my friend for saying hell no to all the crazy flavor ban stuff and deciding to take the plunge. As a tribute to him and his new mixing journey I made a version based off the recipe he created. I\u2019ve never tried the original, based one what he\u2019s told me this seems to be in the same ball park.  \r\n\r\nThe profile from what I understand is graham cracker\/caramel\/cream. For that I used FA joker and graham crust to create to spicy cookie. INW Yes We Cheesecake and VT Creme Brulee for a decadent cream layer and WF Caramel Butter and FW Butterscotch Ripple for the caramel, well...for the caramel.  FA Meringue adds just the right amount of sweetness without being cloying. \r\n\r\nFor a different twist sub VT Sweet Cream or FA Vienna Cream for the cheesecake.  Either combo is delicious \r\n\r\nAnd to anyone else thinking about mixing your own E-Liquid just do it!  Hell No you can\u2019t take my flavors bruh\r\n\r\nTested on a Dvarw DL, 0.40 ohm Ni80 Clapton coil at 25 watts",
+    "id": 167440,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/167440\/E9CCB087-E104-4E96-AE90-D45EF29BFB25.jpeg",
+    "updated_at": "2020-12-12T11:53:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "8864",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Graham Crust",
+            "flavor_id": "9950",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pazzo Burlone (Joker)",
+            "flavor_id": "9911",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 3000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "R2ME2",
+    "views": "1084",
+    "created_at": "2019-09-21",
+    "slug": "hell_no_you_cant_take_my_flavors_bruh",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/167440.jpeg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "PhyllisRae",
+            "score": 5,
+            "text": "Cheers Maddox! I'll try it too."
+        }
+    ]
 }

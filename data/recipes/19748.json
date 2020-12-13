@@ -1,86 +1,88 @@
 {
-  "name": "Collhouse Tookies",
-  "description": "\r\n*After many iterations, I landed on a chocolate chip cookie that not only tastes great--but also fills the room with the smell of fresh out-of-the-oven cookies!*\r\n  \r\n\r\n\r\n**If you like your cookies sweeter(I do!), Add 1 drop CAP Super Sweet per 10ml.**\r\n  \r\n*NOT a shake & vape!*\r\n\r\n**Do not take it upon yourself to copy and publish this recipe over to ELR. THIS ACTION IS STRICTLY FORBIDDEN.** \r\nRespect mixers, they are not your ticket to success...They are your friends.\r\n\r\n#EJUICEMAKERS",
-  "id": 19748,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/19748/chocolate-chip-cookies-216.jpg",
-  "updated_at": "2020-12-08T00:48:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2300,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Double Dutch Twister",
-      "flavor_id": "1270",
-      "millipercent": 1500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "SixStrings952",
-  "views": "4592",
-  "slug": "collhouse_tookies",
-  "total_flavoring": "16.5%",
-  "steep_days": "18",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "Good job on this mix. It tastes very delicious! I steeped it a month and the balance between the gooey, greasy cookie dough and the chocolate is done very well. I only made a 10ml batch and immediately reret it. "
-    },
-    {
-      "user": "AARONV123",
-      "score": "5",
-      "text": "Mixed this up 6 days ago an really enjoying it ! nails the profile of a fresh baked cookie an the buttery choc chip bit hits the spot ! only sub i made was INW milk choc for  fw dutch choc ! very good recipe mate cheers"
-    }
-  ]
+    "name": "Collhouse Tookies",
+    "description": "\r\n*After many iterations, I landed on a chocolate chip cookie that not only tastes great--but also fills the room with the smell of fresh out-of-the-oven cookies!*\r\n  \r\n\r\n\r\n**If you like your cookies sweeter(I do!), Add 1 drop CAP Super Sweet per 10ml.**\r\n  \r\n*NOT a shake & vape!*\r\n\r\n**Do not take it upon yourself to copy and publish this recipe over to ELR. THIS ACTION IS STRICTLY FORBIDDEN.** \r\nRespect mixers, they are not your ticket to success...They are your friends.\r\n\r\n#EJUICEMAKERS",
+    "id": 19748,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/19748\/chocolate-chip-cookies-216.jpg",
+    "updated_at": "2020-12-12T15:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2300,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Double Dutch Twister",
+            "flavor_id": "1270",
+            "millipercent": 1500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "SixStrings952",
+    "views": "4606",
+    "created_at": "2016-11-11",
+    "slug": "collhouse_tookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/19748.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "18",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "Good job on this mix. It tastes very delicious! I steeped it a month and the balance between the gooey, greasy cookie dough and the chocolate is done very well. I only made a 10ml batch and immediately reret it. "
+        },
+        {
+            "user": "AARONV123",
+            "score": 5,
+            "text": "Mixed this up 6 days ago an really enjoying it ! nails the profile of a fresh baked cookie an the buttery choc chip bit hits the spot ! only sub i made was INW milk choc for  fw dutch choc ! very good recipe mate cheers"
+        }
+    ]
 }

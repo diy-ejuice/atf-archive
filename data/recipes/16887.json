@@ -1,74 +1,74 @@
 {
-  "name": "Tropiq",
-  "description": "Work in progress fresh tropical smoothie, this tastes like tropical fruits blended with milk",
-  "id": 16887,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16887/smuzy_bananovy.jpg",
-  "updated_at": "2020-12-06T08:36:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Orange Mango With Stevia",
-      "flavor_id": "92",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Wa1km3n",
-  "views": "1221",
-  "slug": "tropiq",
-  "total_flavoring": "12.5%",
-  "steep_days": "3",
-  "best_vg": "180%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tropiq",
+    "description": "Work in progress fresh tropical smoothie, this tastes like tropical fruits blended with milk",
+    "id": 16887,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16887\/smuzy_bananovy.jpg",
+    "updated_at": "2020-12-10T13:44:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Orange Mango With Stevia",
+            "flavor_id": "92",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Wa1km3n",
+    "views": "1228",
+    "created_at": "2016-10-20",
+    "slug": "tropiq",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16887.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "3",
+    "best_vg": "180%",
+    "temperature": "0"
 }

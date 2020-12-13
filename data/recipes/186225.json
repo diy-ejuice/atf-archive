@@ -1,87 +1,89 @@
 {
-  "name": "Cookie No 21",
-  "description": "Soft Vanilla Cookie blah blah blah.\r\nsimple and delicious\r\n______________________\r\n",
-  "id": 186225,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186225/Screenshot_20200228-084909_Boat_Browser.jpg",
-  "updated_at": "2020-12-08T00:51:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 850,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 1300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ooooNaSuGamisoooo",
-  "views": "2340",
-  "slug": "cookie_no_21",
-  "total_flavoring": "9.9%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "nks",
-      "score": "5",
-      "text": "excellent taste,needs more steeping than the suggested 7 days,at least for my buds.But it is worth to wait a few more days!&#xD;\n"
-    }
-  ]
+    "name": "Cookie No 21",
+    "description": "Soft Vanilla Cookie blah blah blah.\r\nsimple and delicious\r\n______________________\r\n",
+    "id": 186225,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/186225\/Screenshot_20200228-084909_Boat_Browser.jpg",
+    "updated_at": "2020-12-12T10:16:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 850,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 1300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ooooNaSuGamisoooo",
+    "views": "2354",
+    "created_at": "2020-02-28",
+    "slug": "cookie_no_21",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/186225.jpg",
+    "total_flavoring": "9.9%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "nks",
+            "score": 5,
+            "text": "excellent taste,needs more steeping than the suggested 7 days,at least for my buds.But it is worth to wait a few more days!&#xD;\n"
+        }
+    ]
 }

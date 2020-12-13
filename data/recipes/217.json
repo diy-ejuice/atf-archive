@@ -1,119 +1,121 @@
 {
-  "name": "Guava-Lime Candy",
-  "description": "Guava-Lime candy with hints of tropical/citrus notes.",
-  "id": 217,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/217/small-20170610-22737-1j0wrwi.jpg",
-  "updated_at": "2020-12-08T00:48:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "662",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NotCharlesManson",
-  "views": "11740",
-  "slug": "guavalime_candy",
-  "total_flavoring": "6.55%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 11,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "BathtubBooze",
-      "score": "5",
-      "text": "This is such a great warm weather recipe. Goes prefect with IPAs and lighter beers. I've made a lot of recipes on here and this is one of my favorites. I do find it a bit sweet to vape day after day though. "
-    },
-    {
-      "user": "xx2000xx",
-      "score": "none",
-      "text": "My favorite and only citrus/lime/lemonade based recipe that I've mixed more than once and a perfect application for Pink Guava that I've ever seen as it doesn't distract or act like the bully it is. I naturally changed the SS to FW's Sweetener at the same % however, after playing around a bit I'm digging FE Lemon at 2% instead of the Lemon Lime and I don't find it harsh what-so-ever. "
-    },
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "Thadentman",
-      "score": "5",
-      "text": "This is excellent, I figured cap lemon lime and inw lime would rip my throat but this recipe is extremely balanced, great job, Ncm!"
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "I always go back to this recipe. Even when I'm mixing I always have a bottle of this mixed on hand. It's too powerful to be an adv, but that isn't a bad thing. That just means the flavor is potent enough to make this a special treat every once in a while to help treat that pesky mixers block. This is THE recipe that has inspired multiple mixes for me. Thanks Manson for this super underrated banger."
-    },
-    {
-      "user": "triangulatethisdick",
-      "score": "5",
-      "text": "One word... Love"
-    },
-    {
-      "user": "Rhinox04",
-      "score": "5",
-      "text": "Super bright and refreshing. The flavors are vibrant and wonderful and juicy. The only downside here is nothing Manson could have improved upon. The throat hit on this, and as far as I can tell anything with lime, is pretty harsh. I can only vape this for about a day before it becomes way too much. This is 100% worth mixing and, if you don't have a bitch-ass throat, it'll make it into your daily rotation easily."
-    },
-    {
-      "user": "ConcreteRiver",
-      "score": "5",
-      "text": "Big fan of this juice.  This has some really interesting flavors that play really well together.  Great mouthfeel, as well."
-    },
-    {
-      "user": "Vurve",
-      "score": "5",
-      "text": "Pretty damn good."
-    },
-    {
-      "user": "bubbles_is_my_dog",
-      "score": "5",
-      "text": "Really enjoying this at lower wattage, MTL setup. Tangy, tart, sweet, and refreshing.  "
-    }
-  ]
+    "name": "Guava-Lime Candy",
+    "description": "Guava-Lime candy with hints of tropical\/citrus notes.",
+    "id": 217,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/217\/small-20170610-22737-1j0wrwi.jpg",
+    "updated_at": "2020-12-12T09:12:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "662",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NotCharlesManson",
+    "views": "11760",
+    "created_at": "2016-03-02",
+    "slug": "guavalime_candy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/217.jpg",
+    "total_flavoring": "6.55%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 11,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "BathtubBooze",
+            "score": 5,
+            "text": "This is such a great warm weather recipe. Goes prefect with IPAs and lighter beers. I've made a lot of recipes on here and this is one of my favorites. I do find it a bit sweet to vape day after day though. "
+        },
+        {
+            "user": "xx2000xx",
+            "score": 0,
+            "text": "My favorite and only citrus\/lime\/lemonade based recipe that I've mixed more than once and a perfect application for Pink Guava that I've ever seen as it doesn't distract or act like the bully it is. I naturally changed the SS to FW's Sweetener at the same % however, after playing around a bit I'm digging FE Lemon at 2% instead of the Lemon Lime and I don't find it harsh what-so-ever. "
+        },
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "Thadentman",
+            "score": 5,
+            "text": "This is excellent, I figured cap lemon lime and inw lime would rip my throat but this recipe is extremely balanced, great job, Ncm!"
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "I always go back to this recipe. Even when I'm mixing I always have a bottle of this mixed on hand. It's too powerful to be an adv, but that isn't a bad thing. That just means the flavor is potent enough to make this a special treat every once in a while to help treat that pesky mixers block. This is THE recipe that has inspired multiple mixes for me. Thanks Manson for this super underrated banger."
+        },
+        {
+            "user": "triangulatethisdick",
+            "score": 5,
+            "text": "One word... Love"
+        },
+        {
+            "user": "Rhinox04",
+            "score": 5,
+            "text": "Super bright and refreshing. The flavors are vibrant and wonderful and juicy. The only downside here is nothing Manson could have improved upon. The throat hit on this, and as far as I can tell anything with lime, is pretty harsh. I can only vape this for about a day before it becomes way too much. This is 100% worth mixing and, if you don't have a bitch-ass throat, it'll make it into your daily rotation easily."
+        },
+        {
+            "user": "ConcreteRiver",
+            "score": 5,
+            "text": "Big fan of this juice.  This has some really interesting flavors that play really well together.  Great mouthfeel, as well."
+        },
+        {
+            "user": "Vurve",
+            "score": 5,
+            "text": "Pretty damn good."
+        },
+        {
+            "user": "bubbles_is_my_dog",
+            "score": 5,
+            "text": "Really enjoying this at lower wattage, MTL setup. Tangy, tart, sweet, and refreshing.  "
+        }
+    ]
 }

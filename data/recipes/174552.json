@@ -1,62 +1,61 @@
 {
-  "name": "Apple Pie Filling",
-  "description": "This ok on the shake and vape, but flavors really come alive after a week of steeping.  On the shake and vape the rum is overpowering it a bit and the cinnamon lacking.  Reminds me of cinnamon apple pie filling made fresh.\r\n\r\nNot really original as I varied from other recipes out there.  To me it is very tasty.",
-  "id": 174552,
-  "image_url": null,
-  "updated_at": "2020-12-07T20:33:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "2216",
-      "millipercent": 4000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Jamaican Rum",
-      "flavor_id": "1323",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Danish Swirl V2",
-      "flavor_id": "36",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "photohap",
-  "views": "700",
-  "slug": "apple_pie_filling",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple Pie Filling",
+    "description": "This ok on the shake and vape, but flavors really come alive after a week of steeping.  On the shake and vape the rum is overpowering it a bit and the cinnamon lacking.  Reminds me of cinnamon apple pie filling made fresh.\r\n\r\nNot really original as I varied from other recipes out there.  To me it is very tasty.",
+    "id": 174552,
+    "image_url": null,
+    "updated_at": "2020-12-12T01:42:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "2216",
+            "millipercent": 4000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Jamaican Rum",
+            "flavor_id": "1323",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Danish Swirl V2",
+            "flavor_id": "36",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "photohap",
+    "views": "709",
+    "created_at": "2019-11-15",
+    "slug": "apple_pie_filling",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Hey Red Team, We Can Have Our Cake AND Vape It Too",
-  "description": "Blue Team's Recipe from Mixer Showdown #2 on the DIY_ejuice Discord. \r\n\r\nMixers: @NordicFlavours, @UnappreciatedRobot, and @eyemakepizza.\r\n\r\n\r\nWe stole the candy from Candy Mountain and stuffed it into a cupcake. We made sure to bury red team in the process. Since we're team BLUE... blueberry!\r\n\r\nJF Yellow Cake makes the base for the cupcake. VT Yogurt Drink makes the impromptu frosting loaded with delicious Blueberry from FA Bilberry and FW Blueberry. VT Fizzy Sherbet brings the pop rocks! All that backed by some lemon to brighten the Blueberry from VT Yogurt Drink and VT Fizzy Sherbet.\r\n\r\nCome join us on Discord! https://discord.gg/ufVTyAQ",
-  "id": 152196,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152196/4161424622_cd5bd4245c_b.jpg",
-  "updated_at": "2020-12-08T00:50:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 3000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "diy_discord",
-  "views": "10190",
-  "slug": "hey_red_team_we_can_have_our_cake_and_vape_it_too",
-  "total_flavoring": "12.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "seltzgenius",
-      "score": "5",
-      "text": "This idea is weird as hell but it works.  I mixed up a tester last night and am just getting around to trying it now.  I'm not sure this one translates to anything that exists in real life--it's not quite bakery, not quite candy, not quite fruity, but some strange unholy mixture of the three.  But whatever it is, it works and I keep coming back for more.  "
-    }
-  ]
+    "name": "Hey Red Team, We Can Have Our Cake AND Vape It Too",
+    "description": "Blue Team's Recipe from Mixer Showdown #2 on the DIY_ejuice Discord. \r\n\r\nMixers: @NordicFlavours, @UnappreciatedRobot, and @eyemakepizza.\r\n\r\n\r\nWe stole the candy from Candy Mountain and stuffed it into a cupcake. We made sure to bury red team in the process. Since we're team BLUE... blueberry!\r\n\r\nJF Yellow Cake makes the base for the cupcake. VT Yogurt Drink makes the impromptu frosting loaded with delicious Blueberry from FA Bilberry and FW Blueberry. VT Fizzy Sherbet brings the pop rocks! All that backed by some lemon to brighten the Blueberry from VT Yogurt Drink and VT Fizzy Sherbet.\r\n\r\nCome join us on Discord! https:\/\/discord.gg\/ufVTyAQ",
+    "id": 152196,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/152196\/4161424622_cd5bd4245c_b.jpg",
+    "updated_at": "2020-12-12T17:12:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 3000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "diy_discord",
+    "views": "10198",
+    "created_at": "2019-05-20",
+    "slug": "hey_red_team_we_can_have_our_cake_and_vape_it_too",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/152196.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "seltzgenius",
+            "score": 5,
+            "text": "This idea is weird as hell but it works.  I mixed up a tester last night and am just getting around to trying it now.  I'm not sure this one translates to anything that exists in real life--it's not quite bakery, not quite candy, not quite fruity, but some strange unholy mixture of the three.  But whatever it is, it works and I keep coming back for more.  "
+        }
+    ]
 }

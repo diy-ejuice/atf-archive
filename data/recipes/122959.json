@@ -1,51 +1,53 @@
 {
-  "name": "Fresh Pudding",
-  "description": "This is a concept By Fresh03 & Alfred Pudding I mixed on our show :) \r\nFull Description and how this came about is here: https://youtu.be/nvqlu_ZcqhI?t=4363",
-  "id": 122959,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/122959/fresh_pudding.jpg",
-  "updated_at": "2020-12-08T00:50:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Milkshake Base",
-      "flavor_id": "8927",
-      "millipercent": 600,
-      "vendor": "VT"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "DIYDownunderPippa",
-  "views": "1991",
-  "slug": "fresh_pudding",
-  "total_flavoring": "10.1%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "4",
-      "text": "I enjoyed this one, interesting with the VT Devon cream,  I recently got these VT flavours and I think I'll have to SFT to work out what each brings to this recipe, but that VT banana custard is a winner, really nice banana recipe. Good job guys!"
-    }
-  ]
+    "name": "Fresh Pudding",
+    "description": "This is a concept By Fresh03 & Alfred Pudding I mixed on our show :) \r\nFull Description and how this came about is here: https:\/\/youtu.be\/nvqlu_ZcqhI?t=4363",
+    "id": 122959,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/122959\/fresh_pudding.jpg",
+    "updated_at": "2020-12-12T14:06:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Milkshake Base",
+            "flavor_id": "8927",
+            "millipercent": 600,
+            "vendor": "VT"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "DIYDownunderPippa",
+    "views": "2001",
+    "created_at": "2018-10-13",
+    "slug": "fresh_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/122959.jpg",
+    "total_flavoring": "10.1%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 4,
+            "text": "I enjoyed this one, interesting with the VT Devon cream,  I recently got these VT flavours and I think I'll have to SFT to work out what each brings to this recipe, but that VT banana custard is a winner, really nice banana recipe. Good job guys!"
+        }
+    ]
 }

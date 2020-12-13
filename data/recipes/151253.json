@@ -1,80 +1,82 @@
 {
-  "name": "Xenomorph",
-  "description": "I started out with an idea of an **Alien** franchise inspired mix. Originally I thought Nostromo would be a fitting name, but was left not really feeling the inspiration. Then Xenomorph came into play. For those not familiar, those are the adult form of the creatures in the films.\r\n\r\nThis is a fizzy, lime soda with just that touch of Ginger Ale to give it a push. \r\n\r\nIt was easy where I had to go with this then. Xenomorphs have green, acidic blood. So Lime was a given. And I knew I wanted it to be an in your face, intense recipe.\r\n\r\nI originally chose VT Shisha Lime and FA Aurora as my base, but it seemed that Aurora was smoothing out the lime too much and that is not what I wanted. With a second opinion from u/FomentLife, I decided to scrap Aurora and add FA Lime Tahity Distilled to get some wonderful zest going in the mix.\r\n\r\nu/Staybert found success with FLV Citrus Soda in his Citrasberry recipe, and I knew right away it belonged here. \r\n\r\nu/OdieDoodah gave me the suggestion of TFA Ginger Ale to add an extra level to the \"blood\".\r\n\r\nCAP Hibiscus brings some syrupy goodness into the fold.\r\n\r\nThis came together in an AHA! moment and I'm quite pleased with the results.",
-  "id": 151253,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151253/PicsArt_05-15-12.24.56.jpg",
-  "updated_at": "2020-12-08T00:50:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Lime",
-      "flavor_id": "9898",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ginger Ale",
-      "flavor_id": "354",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Distilled",
-      "flavor_id": "415",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 400,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "1929",
-  "slug": "xenomorph",
-  "total_flavoring": "9.65%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "beeker",
-      "score": "5",
-      "text": "This is a truly refreshing and delicious soda recipe, and it's my favorite lime ejuice by far. If you're looking for a zesty, sweet, smooth yet punchy lime flavor, your search has ended. Game over, man."
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "a perfect fucking citra-lime soda with tiny hints at complexity that keep you coming back for more. top tier recipe. "
-    }
-  ]
+    "name": "Xenomorph",
+    "description": "I started out with an idea of an **Alien** franchise inspired mix. Originally I thought Nostromo would be a fitting name, but was left not really feeling the inspiration. Then Xenomorph came into play. For those not familiar, those are the adult form of the creatures in the films.\r\n\r\nThis is a fizzy, lime soda with just that touch of Ginger Ale to give it a push. \r\n\r\nIt was easy where I had to go with this then. Xenomorphs have green, acidic blood. So Lime was a given. And I knew I wanted it to be an in your face, intense recipe.\r\n\r\nI originally chose VT Shisha Lime and FA Aurora as my base, but it seemed that Aurora was smoothing out the lime too much and that is not what I wanted. With a second opinion from u\/FomentLife, I decided to scrap Aurora and add FA Lime Tahity Distilled to get some wonderful zest going in the mix.\r\n\r\nu\/Staybert found success with FLV Citrus Soda in his Citrasberry recipe, and I knew right away it belonged here. \r\n\r\nu\/OdieDoodah gave me the suggestion of TFA Ginger Ale to add an extra level to the \"blood\".\r\n\r\nCAP Hibiscus brings some syrupy goodness into the fold.\r\n\r\nThis came together in an AHA! moment and I'm quite pleased with the results.",
+    "id": 151253,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151253\/PicsArt_05-15-12.24.56.jpg",
+    "updated_at": "2020-12-12T15:40:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Lime",
+            "flavor_id": "9898",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ginger Ale",
+            "flavor_id": "354",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Distilled",
+            "flavor_id": "415",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 400,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "1934",
+    "created_at": "2019-05-13",
+    "slug": "xenomorph",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151253.jpg",
+    "total_flavoring": "9.65%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "beeker",
+            "score": 5,
+            "text": "This is a truly refreshing and delicious soda recipe, and it's my favorite lime ejuice by far. If you're looking for a zesty, sweet, smooth yet punchy lime flavor, your search has ended. Game over, man."
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "a perfect fucking citra-lime soda with tiny hints at complexity that keep you coming back for more. top tier recipe. "
+        }
+    ]
 }

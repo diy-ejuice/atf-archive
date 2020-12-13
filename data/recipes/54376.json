@@ -1,69 +1,71 @@
 {
-  "name": "Blue Day Caker",
-  "description": "Thanks to /u/ID10-T for the suggestions from the Weekly Suggest a Recipe thread: https://www.reddit.com/r/DIY_eJuice/comments/6kfi1h/weekly_suggest_a_recipe_for_my_flavors_thread/\r\n\r\nThis is great after a 3-4 day steep but gets even better after about a week. I was looking for a solid cakey blueberry vape but wasn't having any luck. Thanks to the DiY-Ejuice community and /u/ID10-T for this suggestion because it hits the spot. The blueberry is perfectly balanced and the cakey flavor balances with it perfectly.",
-  "id": 54376,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54376/baked-goods-1839263_640.jpg",
-  "updated_at": "2020-12-08T00:49:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cupcake batter",
-      "flavor_id": "2596",
-      "millipercent": 4500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bern",
-  "views": "1334",
-  "slug": "blue_day_caker",
-  "total_flavoring": "14.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lmhobbs",
-      "score": "5",
-      "text": "I LOVE THIS! I'm going to need to buy more FLV Cupcake Batter because it's all going to go into this recipe :-) I might try it out with a bit more Bilberry to see how that affects the blueberry- maybe get it a tad more realistic. Great job!"
-    }
-  ]
+    "name": "Blue Day Caker",
+    "description": "Thanks to \/u\/ID10-T for the suggestions from the Weekly Suggest a Recipe thread: https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/6kfi1h\/weekly_suggest_a_recipe_for_my_flavors_thread\/\r\n\r\nThis is great after a 3-4 day steep but gets even better after about a week. I was looking for a solid cakey blueberry vape but wasn't having any luck. Thanks to the DiY-Ejuice community and \/u\/ID10-T for this suggestion because it hits the spot. The blueberry is perfectly balanced and the cakey flavor balances with it perfectly.",
+    "id": 54376,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54376\/baked-goods-1839263_640.jpg",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cupcake batter",
+            "flavor_id": "2596",
+            "millipercent": 4500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bern",
+    "views": "1338",
+    "created_at": "2017-07-07",
+    "slug": "blue_day_caker",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54376.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lmhobbs",
+            "score": 5,
+            "text": "I LOVE THIS! I'm going to need to buy more FLV Cupcake Batter because it's all going to go into this recipe :-) I might try it out with a bit more Bilberry to see how that affects the blueberry- maybe get it a tad more realistic. Great job!"
+        }
+    ]
 }

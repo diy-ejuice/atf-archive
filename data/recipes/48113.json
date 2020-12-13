@@ -1,62 +1,61 @@
 {
-  "name": "Monkey Nuts Split",
-  "description": "Simple bananas, ice cream with a light dusting of crushed hazelnuts.",
-  "id": 48113,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:38:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banò (banana)",
-      "flavor_id": "501",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Creamy Hazelnut",
-      "flavor_id": "1265",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "1351",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Moonunit",
-  "views": "963",
-  "slug": "monkey_nuts_split",
-  "total_flavoring": "9.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Monkey Nuts Split",
+    "description": "Simple bananas, ice cream with a light dusting of crushed hazelnuts.",
+    "id": 48113,
+    "image_url": null,
+    "updated_at": "2020-12-11T22:43:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Ban\u00f2 (banana)",
+            "flavor_id": "501",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Creamy Hazelnut",
+            "flavor_id": "1265",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "1351",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Moonunit",
+    "views": "968",
+    "created_at": "2017-05-28",
+    "slug": "monkey_nuts_split",
+    "total_flavoring": "9.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

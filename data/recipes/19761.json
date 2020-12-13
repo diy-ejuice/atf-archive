@@ -1,81 +1,83 @@
 {
-  "name": "Blue Cream",
-  "description": "This is my rendition of a wonderful blueberry cream medley that I believe is a winner.  The combination of 5 blueberry flavorings at these percentages is the perfect mix - FA Bilberry for earthy note, FW Blueberry, & TFA Blueberry Extra for dark, syrupy depth; and CAP Blueberry Jam & TFA Blueberry Candy for brighter notes & to fill out body.  The Bavarian Cream / Marshmallow give the fluffy, light & smooth feel.  The Meringue & Sweet Cream boost the sugary sweetness & mouth feel to nice combo.  All 9 flavors blend very well.  Shake & Vape is interesting, but 7 day steep allows all the blueberries to meld & the creams to fully come out to play.  Mix 70/30 VG/PG   Enjoy!!  ",
-  "id": 19761,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/19761/Bluberries_and_Cream.jpg",
-  "updated_at": "2020-12-08T00:48:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "J-Rizzle",
-  "views": "1899",
-  "slug": "blue_cream",
-  "total_flavoring": "17.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "350",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "showstoppah420",
-      "score": "5",
-      "text": "This is really good!  I only let is sit 24 hours and it tastes amazing!  All the blueberries blend together very well.  Thanks for sharing!!"
-    }
-  ]
+    "name": "Blue Cream",
+    "description": "This is my rendition of a wonderful blueberry cream medley that I believe is a winner.  The combination of 5 blueberry flavorings at these percentages is the perfect mix - FA Bilberry for earthy note, FW Blueberry, & TFA Blueberry Extra for dark, syrupy depth; and CAP Blueberry Jam & TFA Blueberry Candy for brighter notes & to fill out body.  The Bavarian Cream \/ Marshmallow give the fluffy, light & smooth feel.  The Meringue & Sweet Cream boost the sugary sweetness & mouth feel to nice combo.  All 9 flavors blend very well.  Shake & Vape is interesting, but 7 day steep allows all the blueberries to meld & the creams to fully come out to play.  Mix 70\/30 VG\/PG   Enjoy!!  ",
+    "id": 19761,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/19761\/Bluberries_and_Cream.jpg",
+    "updated_at": "2020-12-12T15:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "J-Rizzle",
+    "views": "1912",
+    "created_at": "2016-11-12",
+    "slug": "blue_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/19761.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "350",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "showstoppah420",
+            "score": 5,
+            "text": "This is really good!  I only let is sit 24 hours and it tastes amazing!  All the blueberries blend together very well.  Thanks for sharing!!"
+        }
+    ]
 }

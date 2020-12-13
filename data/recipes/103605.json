@@ -1,81 +1,82 @@
 {
-  "name": "Baby Food",
-  "description": "trying this out for the first let me know what you guys think feedback is always nice thanks & enjoy",
-  "id": 103605,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yogurt Parfait",
-      "flavor_id": "4145",
-      "millipercent": 3500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberries & Cream",
-      "flavor_id": "2224",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1274",
-  "slug": "baby_food",
-  "total_flavoring": "19.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "110",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "matthewkocanda",
-      "score": "5",
-      "text": "Now you're thinkin like a true genius, meaning me. You're thinking like me now. Great work."
-    }
-  ]
+    "name": "Baby Food",
+    "description": "trying this out for the first let me know what you guys think feedback is always nice thanks & enjoy",
+    "id": 103605,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:11:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "flavor_id": "4145",
+            "millipercent": 3500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberries & Cream",
+            "flavor_id": "2224",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1281",
+    "created_at": "2018-05-31",
+    "slug": "baby_food",
+    "total_flavoring": "19.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "110",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "matthewkocanda",
+            "score": 5,
+            "text": "Now you're thinkin like a true genius, meaning me. You're thinking like me now. Great work."
+        }
+    ]
 }

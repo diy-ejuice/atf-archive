@@ -1,50 +1,50 @@
 {
-  "name": "Twink",
-  "description": "Spot on Twinkie, actually more like a Trader joe's fancy twinkie. VT sweet cream is the perfect filling. Much like twinkies, this recipe is made for the vapeacolypse and will last forever.",
-  "id": 152908,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152908/5jUMR.jpg",
-  "updated_at": "2020-12-05T06:49:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creamy Sponge Cake",
-      "flavor_id": "8478",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 3000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 400,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DumHed",
-  "views": "1460",
-  "slug": "twink",
-  "total_flavoring": "10.4%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "420%",
-  "temperature": "666",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Twink",
+    "description": "Spot on Twinkie, actually more like a Trader joe's fancy twinkie. VT sweet cream is the perfect filling. Much like twinkies, this recipe is made for the vapeacolypse and will last forever.",
+    "id": 152908,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/152908\/5jUMR.jpg",
+    "updated_at": "2020-12-10T17:58:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creamy Sponge Cake",
+            "flavor_id": "8478",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 3000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 400,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DumHed",
+    "views": "1464",
+    "created_at": "2019-05-25",
+    "slug": "twink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/152908.jpg",
+    "total_flavoring": "10.4%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "420%",
+    "temperature": "666"
 }

@@ -1,44 +1,44 @@
 {
-  "name": "Blueberry Bliss ",
-  "description": "This was great on the first try, but better after upping the bavarian cream ",
-  "id": 20521,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20521/small-20171004-30191-4q5fpu.jpg",
-  "updated_at": "2020-12-05T23:54:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "921",
-      "millipercent": 12000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "penincali",
-  "views": "1826",
-  "slug": "blueberry_bliss",
-  "total_flavoring": "14.6%",
-  "steep_days": "8",
-  "best_vg": "100%",
-  "temperature": "30",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Bliss ",
+    "description": "This was great on the first try, but better after upping the bavarian cream ",
+    "id": 20521,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20521\/small-20171004-30191-4q5fpu.jpg",
+    "updated_at": "2020-12-10T14:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "921",
+            "millipercent": 12000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "penincali",
+    "views": "1833",
+    "created_at": "2016-11-19",
+    "slug": "blueberry_bliss",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20521.jpg",
+    "total_flavoring": "14.6%",
+    "steep_days": "8",
+    "best_vg": "100%",
+    "temperature": "30"
 }

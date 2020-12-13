@@ -1,83 +1,85 @@
 {
-  "name": "Puff'd Up",
-  "description": "I've been really enjoying banana vapes lately, Puff'd is one of my favorites.\r\nThe combination of cake and light banana gooeyness is just lovely.\r\nIf you enjoy it please remember to leave a rating.\r\nShort notes for this one as it's Friday night and I want to play.\r\n\r\nPro Tip: To boost the cake note even more, Throw in DIYFS Pound Cake @ .25% if you have it on hand.\r\nOmitted from the public recipe for the sake of availability.\r\n\r\n-------------------------------------------------------------------------------\r\n\r\n**CAP Sugar Cookie** It's inclusion is intended to boost the bakery note. The sugary graininess really helps the overall mix.\r\n\r\n**TFA Bavarian Cream** Playing as a not-so-shy emulsifier in this recipe as it serves to thicken and provide some vanilla boost, As well as providing a 'buffer' between the cream and pastry.\r\n\r\n**VT Banana Custard** Brings a light but noticeable banana note to the party. It's a creamy banana, Suitable sub would be TFA Banana Cream @ 1%\r\n\r\n**JF Yellow Cake** A little light handed here it serves as a cake backnote allowing the \"cream\" to shine a little more.\r\n\r\n**FLV Frosting** Up front vanilla with a little texture to bring to the game. Provides an almost gooey sugary perception to the cream filling. Pairs incredibly well with 'cake' concentrates.\r\n\r\n**CAP Super Sweet** When I mix this recipe I omit sweetener, But including it you'll find brings it more toward the traditional \"manufacturer\" variety.\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nBe sure to follow me on YouTube for future mixing updates:\r\nhttp://www.youtube.com/c/SteamCraft",
-  "id": 114490,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/114490/Puffd.png",
-  "updated_at": "2020-12-08T00:50:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SteamOn",
-  "views": "7110",
-  "slug": "puffd_up",
-  "total_flavoring": "9.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "It’s super delicious and tastes like the photo, one of my new favs, thanks! "
-    },
-    {
-      "user": "308_hobbiest",
-      "score": "5",
-      "text": "Really good! I'm usually not too keen on banana Vapes but this one is spot-on. I subbed flavor West yellow cake for the jungle flavors because that's what I had on hand."
-    },
-    {
-      "user": "ambzizbanannerz",
-      "score": "5",
-      "text": "My hubby swears by this one I've been using TPA banana cream though because I can't convince him to order vt 😔"
-    },
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "Great mix. I'm usually not a fan of most banana mixes but I wanted to at least try it, well because it's yours. That VT banana custard sits nicely on top and blends really well with the Bavarian Cream and Frosting. My only critique is that I would like a little more bakery underneath. I may try boosting the sugar cookie and yellow cake just for my own palate. Thanks for the excellent recipe! "
-    },
-    {
-      "user": "gravi-tea",
-      "score": "5",
-      "text": "wow! I went into this with low expectations being I just started following you but man oh man this stuff is good! definitely going in my regular rotation. you the man Steam!"
-    }
-  ]
+    "name": "Puff'd Up",
+    "description": "I've been really enjoying banana vapes lately, Puff'd is one of my favorites.\r\nThe combination of cake and light banana gooeyness is just lovely.\r\nIf you enjoy it please remember to leave a rating.\r\nShort notes for this one as it's Friday night and I want to play.\r\n\r\nPro Tip: To boost the cake note even more, Throw in DIYFS Pound Cake @ .25% if you have it on hand.\r\nOmitted from the public recipe for the sake of availability.\r\n\r\n-------------------------------------------------------------------------------\r\n\r\n**CAP Sugar Cookie** It's inclusion is intended to boost the bakery note. The sugary graininess really helps the overall mix.\r\n\r\n**TFA Bavarian Cream** Playing as a not-so-shy emulsifier in this recipe as it serves to thicken and provide some vanilla boost, As well as providing a 'buffer' between the cream and pastry.\r\n\r\n**VT Banana Custard** Brings a light but noticeable banana note to the party. It's a creamy banana, Suitable sub would be TFA Banana Cream @ 1%\r\n\r\n**JF Yellow Cake** A little light handed here it serves as a cake backnote allowing the \"cream\" to shine a little more.\r\n\r\n**FLV Frosting** Up front vanilla with a little texture to bring to the game. Provides an almost gooey sugary perception to the cream filling. Pairs incredibly well with 'cake' concentrates.\r\n\r\n**CAP Super Sweet** When I mix this recipe I omit sweetener, But including it you'll find brings it more toward the traditional \"manufacturer\" variety.\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nBe sure to follow me on YouTube for future mixing updates:\r\nhttp:\/\/www.youtube.com\/c\/SteamCraft",
+    "id": 114490,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/114490\/Puffd.png",
+    "updated_at": "2020-12-12T10:34:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SteamOn",
+    "views": "7121",
+    "created_at": "2018-08-10",
+    "slug": "puffd_up",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/114490.png",
+    "total_flavoring": "9.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "It\u2019s super delicious and tastes like the photo, one of my new favs, thanks! "
+        },
+        {
+            "user": "308_hobbiest",
+            "score": 5,
+            "text": "Really good! I'm usually not too keen on banana Vapes but this one is spot-on. I subbed flavor West yellow cake for the jungle flavors because that's what I had on hand."
+        },
+        {
+            "user": "ambzizbanannerz",
+            "score": 5,
+            "text": "My hubby swears by this one I've been using TPA banana cream though because I can't convince him to order vt \ud83d\ude14"
+        },
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "Great mix. I'm usually not a fan of most banana mixes but I wanted to at least try it, well because it's yours. That VT banana custard sits nicely on top and blends really well with the Bavarian Cream and Frosting. My only critique is that I would like a little more bakery underneath. I may try boosting the sugar cookie and yellow cake just for my own palate. Thanks for the excellent recipe! "
+        },
+        {
+            "user": "gravi-tea",
+            "score": 5,
+            "text": "wow! I went into this with low expectations being I just started following you but man oh man this stuff is good! definitely going in my regular rotation. you the man Steam!"
+        }
+    ]
 }

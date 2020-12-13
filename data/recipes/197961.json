@@ -1,62 +1,62 @@
 {
-  "name": "The OC",
-  "description": "My take on the orange creamsicle. Tastes spot on imo. \r\n\r\nAdd whatever cooling agent you desire, just not into cooling myself. ",
-  "id": 197961,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197961/471-107781-otg_creamsicle_bar_300x300-1__52155.1523649112.png",
-  "updated_at": "2020-12-08T00:51:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "720",
-  "slug": "the_oc",
-  "total_flavoring": "13.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The OC",
+    "description": "My take on the orange creamsicle. Tastes spot on imo. \r\n\r\nAdd whatever cooling agent you desire, just not into cooling myself. ",
+    "id": 197961,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197961\/471-107781-otg_creamsicle_bar_300x300-1__52155.1523649112.png",
+    "updated_at": "2020-12-10T19:01:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "726",
+    "created_at": "2020-06-17",
+    "slug": "the_oc",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197961.png",
+    "total_flavoring": "13.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,80 +1,79 @@
 {
-  "name": "Iced Mint Refresher",
-  "description": "I wanted to make something of a Candy/Drink flavor with this batch something mellow, and sweet to calm my cravings. you can make this and tweak it a bit i want to perfect this so any recommendations or advice would be nice \r\n",
-  "id": 87466,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:32:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape",
-      "flavor_id": "784",
-      "millipercent": 3200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Natural Mint",
-      "flavor_id": "856",
-      "millipercent": 100,
-      "vendor": "INW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 100,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Smooth",
-      "flavor_id": "381",
-      "millipercent": 200,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "xnxanatorx",
-  "views": "1230",
-  "slug": "iced_mint_refresher",
-  "total_flavoring": "11.4%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Iced Mint Refresher",
+    "description": "I wanted to make something of a Candy\/Drink flavor with this batch something mellow, and sweet to calm my cravings. you can make this and tweak it a bit i want to perfect this so any recommendations or advice would be nice \r\n",
+    "id": 87466,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:41:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape",
+            "flavor_id": "784",
+            "millipercent": 3200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Natural Mint",
+            "flavor_id": "856",
+            "millipercent": 100,
+            "vendor": "INW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 100,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Smooth",
+            "flavor_id": "381",
+            "millipercent": 200,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "xnxanatorx",
+    "views": "1240",
+    "created_at": "2018-02-08",
+    "slug": "iced_mint_refresher",
+    "total_flavoring": "11.4%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

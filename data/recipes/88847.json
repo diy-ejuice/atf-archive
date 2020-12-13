@@ -1,80 +1,79 @@
 {
-  "name": "Pistlime cracker cake",
-  "description": "Looked in a cookbook came up with this. Still ongoing changes nice start though.",
-  "id": 88847,
-  "image_url": null,
-  "updated_at": "2020-12-07T20:32:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pistachio Cream SC",
-      "flavor_id": "8376",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 1800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Cold Pressed",
-      "flavor_id": "4891",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pistacchio (Pistachio)",
-      "flavor_id": "439",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Hapster27",
-  "views": "955",
-  "slug": "pistlime_cracker_cake",
-  "total_flavoring": "12.45%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pistlime cracker cake",
+    "description": "Looked in a cookbook came up with this. Still ongoing changes nice start though.",
+    "id": 88847,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:41:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pistachio Cream SC",
+            "flavor_id": "8376",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 1800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Cold Pressed",
+            "flavor_id": "4891",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pistacchio (Pistachio)",
+            "flavor_id": "439",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Hapster27",
+    "views": "963",
+    "created_at": "2018-02-17",
+    "slug": "pistlime_cracker_cake",
+    "total_flavoring": "12.45%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

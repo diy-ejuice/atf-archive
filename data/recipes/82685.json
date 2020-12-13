@@ -1,86 +1,86 @@
 {
-  "name": "The Nightfighter",
-  "description": "Vanilla cream cookies dropped in a cup of coffee. \r\nP.S. INW Coffee in the original mix is INW Kawa at the same percentage. INW Kawa, unfortunately, is missing from the All the Flavors data base. ",
-  "id": 82685,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/82685/lancaster-searchlights-595x458.jpg",
-  "updated_at": "2020-12-06T23:07:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coffee",
-      "flavor_id": "716",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4388",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kahlua & Cream",
-      "flavor_id": "1327",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 600,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Alx86",
-  "views": "1203",
-  "slug": "the_nightfighter",
-  "total_flavoring": "13.3%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Nightfighter",
+    "description": "Vanilla cream cookies dropped in a cup of coffee. \r\nP.S. INW Coffee in the original mix is INW Kawa at the same percentage. INW Kawa, unfortunately, is missing from the All the Flavors data base. ",
+    "id": 82685,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/82685\/lancaster-searchlights-595x458.jpg",
+    "updated_at": "2020-12-12T11:51:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coffee",
+            "flavor_id": "716",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4388",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kahlua & Cream",
+            "flavor_id": "1327",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 600,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Alx86",
+    "views": "1215",
+    "created_at": "2018-01-09",
+    "slug": "the_nightfighter",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/82685.jpg",
+    "total_flavoring": "13.3%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

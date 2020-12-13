@@ -1,68 +1,70 @@
 {
-  "name": "Strawberry Blondie",
-  "description": "A creamy cigar with hints of honey that’s been kissed with some strawberry. \r\n\r\nAlso, leave out the strawberry for a pretty nice Acid Blondie type of thing. ",
-  "id": 73314,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73314/BE1D0104-B2E4-4244-ABE1-F568CF9F9484.jpeg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Tobacco Absolute Cuban Cigar",
-      "flavor_id": "8505",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "2425",
-  "slug": "strawberry_blondie",
-  "total_flavoring": "8.3%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Beautifully done cigar style tobacco with touch of creaminess, honey &amp; a hint of strawberry. The milk and honey is definitely needed here to keep from being too dry for my likings. Your useage of the flv tobaccos work perfectly and the cuban absolute keep this from being overly moist/wet. "
-    },
-    {
-      "user": "asmirm",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Strawberry Blondie",
+    "description": "A creamy cigar with hints of honey that\u2019s been kissed with some strawberry. \r\n\r\nAlso, leave out the strawberry for a pretty nice Acid Blondie type of thing. ",
+    "id": 73314,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/73314\/BE1D0104-B2E4-4244-ABE1-F568CF9F9484.jpeg",
+    "updated_at": "2020-12-12T15:39:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Tobacco Absolute Cuban Cigar",
+            "flavor_id": "8505",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "2437",
+    "created_at": "2017-11-09",
+    "slug": "strawberry_blondie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/73314.jpeg",
+    "total_flavoring": "8.3%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Beautifully done cigar style tobacco with touch of creaminess, honey &amp; a hint of strawberry. The milk and honey is definitely needed here to keep from being too dry for my likings. Your useage of the flv tobaccos work perfectly and the cuban absolute keep this from being overly moist\/wet. "
+        },
+        {
+            "user": "asmirm",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

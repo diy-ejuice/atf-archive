@@ -1,63 +1,65 @@
 {
-  "name": "Cant-Trip",
-  "description": "So, @Shyndo and I were talking. It came into conversation that I would do something fun with one of his recipes. This recipe is a remix of his Cantrips:\r\n\r\nhttps://alltheflavors.com/recipes/42467#cantrips_by_shyndo\r\n\r\nIn Cantrips, he pairs Honeysuckle with flavors that bolster that Honeysuckle up, making it a little more prominent in the vape; that was how I felt about it. It had good flavor pairings. My take on this, isn't to bolster the honeysuckle to the top and leave it there, but to pair it with items that play well with it, for more of a slight Honeysuckle forward vape, with support flavors to add a wild complexity. ",
-  "id": 64485,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64485/E02B1FE1-2DE7-4DEF-98FD-98604337176D.jpeg",
-  "updated_at": "2020-12-08T00:49:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Basil",
-      "flavor_id": "4387",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Carrot",
-      "flavor_id": "8552",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mint",
-      "flavor_id": "683",
-      "millipercent": 100,
-      "vendor": "INW"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1744",
-  "slug": "canttrip",
-  "total_flavoring": "6.2%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "400",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "I vaped a whole 30ml of this weird shit. All I can say is I'm surprised you got these flavors to work the way they did. Excellent job. It's floral, fruity, minty, and captures the essence of that throat thump from the original. Honestly, I'll probably be mixing this again come springtime! "
-    }
-  ]
+    "name": "Cant-Trip",
+    "description": "So, @Shyndo and I were talking. It came into conversation that I would do something fun with one of his recipes. This recipe is a remix of his Cantrips:\r\n\r\nhttps:\/\/alltheflavors.com\/recipes\/42467#cantrips_by_shyndo\r\n\r\nIn Cantrips, he pairs Honeysuckle with flavors that bolster that Honeysuckle up, making it a little more prominent in the vape; that was how I felt about it. It had good flavor pairings. My take on this, isn't to bolster the honeysuckle to the top and leave it there, but to pair it with items that play well with it, for more of a slight Honeysuckle forward vape, with support flavors to add a wild complexity. ",
+    "id": 64485,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/64485\/E02B1FE1-2DE7-4DEF-98FD-98604337176D.jpeg",
+    "updated_at": "2020-12-12T10:33:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Basil",
+            "flavor_id": "4387",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Carrot",
+            "flavor_id": "8552",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mint",
+            "flavor_id": "683",
+            "millipercent": 100,
+            "vendor": "INW"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1756",
+    "created_at": "2017-09-19",
+    "slug": "canttrip",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/64485.jpeg",
+    "total_flavoring": "6.2%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "400",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "I vaped a whole 30ml of this weird shit. All I can say is I'm surprised you got these flavors to work the way they did. Excellent job. It's floral, fruity, minty, and captures the essence of that throat thump from the original. Honestly, I'll probably be mixing this again come springtime! "
+        }
+    ]
 }

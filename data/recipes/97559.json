@@ -1,44 +1,43 @@
 {
-  "name": "Calicustard v2",
-  "description": "This is a recipe from a friend that is now my all-day every-day flavour.\r\nEveryone that tastes it becomes addicted and currently I have to make this liquid for all my colleagues.",
-  "id": 97559,
-  "image_url": null,
-  "updated_at": "2020-12-07T11:44:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Calipitter Chow",
-      "flavor_id": "6702",
-      "millipercent": 6000,
-      "vendor": "MPV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 7500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "160",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 100,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "dhiemstra",
-  "views": "1642",
-  "slug": "calicustard_v2",
-  "total_flavoring": "15.1%",
-  "steep_days": "30",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Calicustard v2",
+    "description": "This is a recipe from a friend that is now my all-day every-day flavour.\r\nEveryone that tastes it becomes addicted and currently I have to make this liquid for all my colleagues.",
+    "id": 97559,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Calipitter Chow",
+            "flavor_id": "6702",
+            "millipercent": 6000,
+            "vendor": "MPV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 7500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "160",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 100,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "dhiemstra",
+    "views": "1647",
+    "created_at": "2018-04-20",
+    "slug": "calicustard_v2",
+    "total_flavoring": "15.1%",
+    "steep_days": "30",
+    "best_vg": "50%",
+    "temperature": "0"
 }

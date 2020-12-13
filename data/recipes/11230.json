@@ -1,50 +1,49 @@
 {
-  "name": "Atlantis, maybe?",
-  "description": "Credit to Beaufort Batches on ELR\r\n\r\nAlmond (FA) 1.5%\r\nBlack Cherry (FA) 2%\r\nMarzipan (FA) 1/2%\r\nVanilla Tahity (FA) 1%\r\nVienna Cream (FA) 1%\r\n\r\nI didn't have the marzipan or tahity so I adapted for what I did have on hand\r\n\r\nhttp://e-liquid-recipes.com/recipe/412645/Cherry+Almond",
-  "id": 11230,
-  "image_url": null,
-  "updated_at": "2020-11-30T17:51:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "286",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherryl (cherry, Black)",
-      "flavor_id": "468",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Madagascar Vanilla",
-      "flavor_id": "1341",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Black Cherry",
-      "flavor_id": "1190",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Karma",
-  "views": "1023",
-  "slug": "atlantis_maybe",
-  "total_flavoring": "7.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Atlantis, maybe?",
+    "description": "Credit to Beaufort Batches on ELR\r\n\r\nAlmond (FA) 1.5%\r\nBlack Cherry (FA) 2%\r\nMarzipan (FA) 1\/2%\r\nVanilla Tahity (FA) 1%\r\nVienna Cream (FA) 1%\r\n\r\nI didn't have the marzipan or tahity so I adapted for what I did have on hand\r\n\r\nhttp:\/\/e-liquid-recipes.com\/recipe\/412645\/Cherry+Almond",
+    "id": 11230,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:44:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "286",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherryl (cherry, Black)",
+            "flavor_id": "468",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Madagascar Vanilla",
+            "flavor_id": "1341",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Black Cherry",
+            "flavor_id": "1190",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Karma",
+    "views": "1030",
+    "created_at": "2016-08-22",
+    "slug": "atlantis_maybe",
+    "total_flavoring": "7.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

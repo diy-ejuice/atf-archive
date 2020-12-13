@@ -1,50 +1,49 @@
 {
-  "name": "Scake",
-  "description": "Simple strawberrry cake. I hope hit con this. Any review is appreciated.",
-  "id": 146188,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "oros",
-  "views": "847",
-  "slug": "scake",
-  "total_flavoring": "6.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Scake",
+    "description": "Simple strawberrry cake. I hope hit con this. Any review is appreciated.",
+    "id": 146188,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:58:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "oros",
+    "views": "853",
+    "created_at": "2019-04-07",
+    "slug": "scake",
+    "total_flavoring": "6.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

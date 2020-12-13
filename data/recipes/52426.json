@@ -1,63 +1,65 @@
 {
-  "name": "Infinite Mint (V2 Menthol Remix)",
-  "description": "**Koolada is 1-2 drops per 10ml for the cool sensation on the exhale. Can leave out but will only have cooling on the inhale\r\n\r\nA friend vapes V2 menthol as an ADV and asked me to make something similar. This is my version of what a straight up menthol juice should be and they loved it even more than V2. \r\n\r\nSpearmint is added for a refreshing flavor, the rest is what builds that cool sensation. The marshmallow adds body and fluffs it up a bit so it's not too thin. Can sub with TFA or FW at the same percentage. If you have to use FA then lower it to .75",
-  "id": 52426,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52426/31B85966DA88B2014FFD49532E051400.jpg",
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Extreme Ice",
-      "flavor_id": "1280",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 150,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Menthol (liquid)",
-      "flavor_id": "1353",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "White Winter (spearmint)",
-      "flavor_id": "557",
-      "millipercent": 2500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Gachatay",
-  "views": "6596",
-  "slug": "infinite_mint_v2_menthol_remix",
-  "total_flavoring": "8.15%",
-  "steep_days": "1",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This is excellent! Great balance of spearmint and menthol. Thanks for sharing!"
-    }
-  ]
+    "name": "Infinite Mint (V2 Menthol Remix)",
+    "description": "**Koolada is 1-2 drops per 10ml for the cool sensation on the exhale. Can leave out but will only have cooling on the inhale\r\n\r\nA friend vapes V2 menthol as an ADV and asked me to make something similar. This is my version of what a straight up menthol juice should be and they loved it even more than V2. \r\n\r\nSpearmint is added for a refreshing flavor, the rest is what builds that cool sensation. The marshmallow adds body and fluffs it up a bit so it's not too thin. Can sub with TFA or FW at the same percentage. If you have to use FA then lower it to .75",
+    "id": 52426,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/52426\/31B85966DA88B2014FFD49532E051400.jpg",
+    "updated_at": "2020-12-12T17:10:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Extreme Ice",
+            "flavor_id": "1280",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 150,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Menthol (liquid)",
+            "flavor_id": "1353",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "White Winter (spearmint)",
+            "flavor_id": "557",
+            "millipercent": 2500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Gachatay",
+    "views": "6611",
+    "created_at": "2017-06-24",
+    "slug": "infinite_mint_v2_menthol_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/52426.jpg",
+    "total_flavoring": "8.15%",
+    "steep_days": "1",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This is excellent! Great balance of spearmint and menthol. Thanks for sharing!"
+        }
+    ]
 }

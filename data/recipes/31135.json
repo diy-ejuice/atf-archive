@@ -1,51 +1,52 @@
 {
-  "name": "Shipper Menthol",
-  "description": "A recipe named after my friend, nicknamed \"Shipper\". He likes his menthols and this is what got him off the smokes for good.",
-  "id": 31135,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Menthol",
-      "flavor_id": "728",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "foxda",
-  "views": "2137",
-  "slug": "shipper_menthol",
-  "total_flavoring": "5.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Whooptidooh",
-      "score": "5",
-      "text": "Up until five minutes ago, my nose was completely clogged up; could hardly breathe and can't smell a thing. Can't taste anything either, but this is a life saver at the moment! Thanks for the recipe, and I'll let you know how it tastes as soon as that sense comes back to me. "
-    }
-  ]
+    "name": "Shipper Menthol",
+    "description": "A recipe named after my friend, nicknamed \"Shipper\". He likes his menthols and this is what got him off the smokes for good.",
+    "id": 31135,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:28:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Menthol",
+            "flavor_id": "728",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "foxda",
+    "views": "2149",
+    "created_at": "2017-02-09",
+    "slug": "shipper_menthol",
+    "total_flavoring": "5.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Whooptidooh",
+            "score": 5,
+            "text": "Up until five minutes ago, my nose was completely clogged up; could hardly breathe and can't smell a thing. Can't taste anything either, but this is a life saver at the moment! Thanks for the recipe, and I'll let you know how it tastes as soon as that sense comes back to me. "
+        }
+    ]
 }

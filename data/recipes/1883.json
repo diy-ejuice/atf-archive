@@ -1,44 +1,43 @@
 {
-  "name": "My Bowden's Mate",
-  "description": "Creamy and minty with cinammon undertones. At least overnight steep, but gets creamier and better up until about 30 days (it never lasts that  long in my house)",
-  "id": 1883,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:06:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Red Hot",
-      "flavor_id": "300",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "194",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mint Candy",
-      "flavor_id": "282",
-      "millipercent": 3340,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanillin 10% (pg)",
-      "flavor_id": "190",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Legoman05",
-  "views": "1091",
-  "slug": "my_bowdens_mate",
-  "total_flavoring": "10.84%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "My Bowden's Mate",
+    "description": "Creamy and minty with cinammon undertones. At least overnight steep, but gets creamier and better up until about 30 days (it never lasts that  long in my house)",
+    "id": 1883,
+    "image_url": null,
+    "updated_at": "2020-12-11T00:31:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Red Hot",
+            "flavor_id": "300",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "194",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mint Candy",
+            "flavor_id": "282",
+            "millipercent": 3340,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanillin 10% (pg)",
+            "flavor_id": "190",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Legoman05",
+    "views": "1099",
+    "created_at": "2016-04-09",
+    "slug": "my_bowdens_mate",
+    "total_flavoring": "10.84%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Michelin Man",
-  "description": "Rich whipped cream sandwiched between crisp, airy, meringues. \r\n\r\nMain aim was to try and get the airy yet full dense mouthfeel whilst keeping the recipie really simple and percentages low so it can be used as a base for fruit if wanted... Any normal person would just go buy a whipped cream concentrate!\r\n\r\nThe MTS really helps the false sense of thickness...It also helps counter the sweetness - the mix is still on the sweet side for one of my mixes but the MTS helps focus down on the middle notes of the Meringue rather than the top sweet notes.\r\n\r\nI keep trying to combine fruit into it too (raspberry) but think the MTS is retarding the flavour too much, thus releasing this as it's own individual entity. It's kinda bland but strangely addictive and satisfying!\r\n\r\nOvernight steep.",
-  "id": 32961,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32961/0433-624x499_2.jpg",
-  "updated_at": "2020-12-08T00:49:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Betamax",
-  "views": "1609",
-  "slug": "michelin_man",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "SweetPoisonKim",
-      "score": "5",
-      "text": "Mixed this at max vg subbing holy vanilla for the French one as didn't have HV at the time and slightly upped a couple of percentages but this is brilliant! Really does taste/ feel like eating meringue and cream. Great for neutralising a tank between heavy flavours too. Thanks dude 👍"
-    }
-  ]
+    "name": "Michelin Man",
+    "description": "Rich whipped cream sandwiched between crisp, airy, meringues. \r\n\r\nMain aim was to try and get the airy yet full dense mouthfeel whilst keeping the recipie really simple and percentages low so it can be used as a base for fruit if wanted... Any normal person would just go buy a whipped cream concentrate!\r\n\r\nThe MTS really helps the false sense of thickness...It also helps counter the sweetness - the mix is still on the sweet side for one of my mixes but the MTS helps focus down on the middle notes of the Meringue rather than the top sweet notes.\r\n\r\nI keep trying to combine fruit into it too (raspberry) but think the MTS is retarding the flavour too much, thus releasing this as it's own individual entity. It's kinda bland but strangely addictive and satisfying!\r\n\r\nOvernight steep.",
+    "id": 32961,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32961\/0433-624x499_2.jpg",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Betamax",
+    "views": "1616",
+    "created_at": "2017-02-20",
+    "slug": "michelin_man",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32961.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "SweetPoisonKim",
+            "score": 5,
+            "text": "Mixed this at max vg subbing holy vanilla for the French one as didn't have HV at the time and slightly upped a couple of percentages but this is brilliant! Really does taste\/ feel like eating meringue and cream. Great for neutralising a tank between heavy flavours too. Thanks dude \ud83d\udc4d"
+        }
+    ]
 }

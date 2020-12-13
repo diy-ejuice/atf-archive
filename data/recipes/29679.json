@@ -1,50 +1,50 @@
 {
-  "name": "DIY or Pie",
-  "description": "This is a very simple Aplle Pie recipe.\r\n\r\nApple Pie (FA) provides the base for a good apple pie but lacks a bit in the apple filling. By itself it is a slightly sweet pie crust with a hint of apples and cinnamon. The Butter Cream (CAP) adds a richness to the flavor of the crust.\r\n\r\nFuji Apple (FA) mixed with Brown Sugar (TFA) and Liquid Amber (FA) enhance the exsiting apples and cinamon to bring the pie filling to the top.\r\n\r\nThis recipe tastes very good right after a good shake but it has a little bit of harshness. Give it a couple days and it is much smoother. After two weeks it is a very nice warm apple pie fresh from the oven.",
-  "id": 29679,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29679/Apple_Pie.jpg",
-  "updated_at": "2020-12-07T23:35:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "louiesquared",
-  "views": "1198",
-  "slug": "diy_or_pie",
-  "total_flavoring": "7.5%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "DIY or Pie",
+    "description": "This is a very simple Aplle Pie recipe.\r\n\r\nApple Pie (FA) provides the base for a good apple pie but lacks a bit in the apple filling. By itself it is a slightly sweet pie crust with a hint of apples and cinnamon. The Butter Cream (CAP) adds a richness to the flavor of the crust.\r\n\r\nFuji Apple (FA) mixed with Brown Sugar (TFA) and Liquid Amber (FA) enhance the exsiting apples and cinamon to bring the pie filling to the top.\r\n\r\nThis recipe tastes very good right after a good shake but it has a little bit of harshness. Give it a couple days and it is much smoother. After two weeks it is a very nice warm apple pie fresh from the oven.",
+    "id": 29679,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29679\/Apple_Pie.jpg",
+    "updated_at": "2020-12-12T06:57:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "louiesquared",
+    "views": "1213",
+    "created_at": "2017-01-30",
+    "slug": "diy_or_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29679.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

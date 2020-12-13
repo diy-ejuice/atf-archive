@@ -1,62 +1,61 @@
 {
-  "name": "Smooth Toddy",
-  "description": "Inspired by a hot toddy with ginger in, i ended up adding lots of cream to take the edge of the ginger which is quite strong. Essentially you have ginger and lemon with some molasses (from the Black Honey). The French Vanilla 'seasons' the Black Honey while adding a little more to the dynamic.",
-  "id": 169502,
-  "image_url": null,
-  "updated_at": "2020-12-06T22:03:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Black Honey",
-      "flavor_id": "370",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "170",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ginger",
-      "flavor_id": "1293",
-      "millipercent": 700,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon (water Soluble)",
-      "flavor_id": "243",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Marshmallow",
-      "flavor_id": "8744",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DontTrustTheRabbit",
-  "views": "561",
-  "slug": "smooth_toddy",
-  "total_flavoring": "9.45%",
-  "steep_days": "8",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Smooth Toddy",
+    "description": "Inspired by a hot toddy with ginger in, i ended up adding lots of cream to take the edge of the ginger which is quite strong. Essentially you have ginger and lemon with some molasses (from the Black Honey). The French Vanilla 'seasons' the Black Honey while adding a little more to the dynamic.",
+    "id": 169502,
+    "image_url": null,
+    "updated_at": "2020-12-11T22:45:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Black Honey",
+            "flavor_id": "370",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "170",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ginger",
+            "flavor_id": "1293",
+            "millipercent": 700,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon (water Soluble)",
+            "flavor_id": "243",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Marshmallow",
+            "flavor_id": "8744",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DontTrustTheRabbit",
+    "views": "570",
+    "created_at": "2019-10-08",
+    "slug": "smooth_toddy",
+    "total_flavoring": "9.45%",
+    "steep_days": "8",
+    "best_vg": "0%",
+    "temperature": "0"
 }

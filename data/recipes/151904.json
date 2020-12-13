@@ -1,62 +1,61 @@
 {
-  "name": "Mango Chill",
-  "description": "*NR MANGO is Drip Hacks Mango.\r\n\r\nMORE WORDS... and some more words.",
-  "id": 151904,
-  "image_url": null,
-  "updated_at": "2020-11-29T13:27:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "African Horned Cucumber SC",
-      "flavor_id": "9012",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "7580",
-      "millipercent": 6000,
-      "vendor": "NR"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 750,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Ceylon",
-      "flavor_id": "497",
-      "millipercent": 200,
-      "vendor": "FA"
-    }
-  ],
-  "author": "CCivinski",
-  "views": "991",
-  "slug": "mango_chill",
-  "total_flavoring": "10.2%",
-  "steep_days": "4",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Chill",
+    "description": "*NR MANGO is Drip Hacks Mango.\r\n\r\nMORE WORDS... and some more words.",
+    "id": 151904,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:17:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "African Horned Cucumber SC",
+            "flavor_id": "9012",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "7580",
+            "millipercent": 6000,
+            "vendor": "NR"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 750,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Ceylon",
+            "flavor_id": "497",
+            "millipercent": 200,
+            "vendor": "FA"
+        }
+    ],
+    "author": "CCivinski",
+    "views": "998",
+    "created_at": "2019-05-18",
+    "slug": "mango_chill",
+    "total_flavoring": "10.2%",
+    "steep_days": "4",
+    "best_vg": "60%",
+    "temperature": "0"
 }

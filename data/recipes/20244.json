@@ -1,75 +1,77 @@
 {
-  "name": "Pistachio Green Salad",
-  "description": "This is a holiday dessert that I grew up with as a child, and is something I still make during Thanksgiving. Its a creamy, marshmallow dessert with light pistachio and pineapple flavors, its really cheap and easy to make, this this recipe is damn near spot on.\r\nThe version I make at home is pistachio Jello mix, miniature marshmallows, chopped pineapple, Cool Whip, and cottage cheese. Once its all mixed together I also add crushed pistachios on top.\r\nThe HS Ice Cream mixed with the TFA VBIC, and FA Meringue and TFA Bavarian Cream Makes the perfect mixture to create the flavor of Cool Whip with the thickness of cottage cheese and perfectly compliments the TFA Toasted Marshmallow, while adding sweetness to the TFA Pistachio. The FA Walnut is at just the right amount to help the richness of the Pistachio without overwhelming the flavor. CAP Golden Pineapple is my favorite pineapple flavor, and I think it works well in this recipe at 1.5%, but it's very light and mostly works as a fruit sweetness but can easily go up to 2.5% for a pineapple flavor, or can be changed out for another pineapple entirely dependent on your preference.",
-  "id": 20244,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20244/f1825c91b6913b61426f5cddf1e7f306.jpg",
-  "updated_at": "2020-12-08T00:48:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pistachio",
-      "flavor_id": "293",
-      "millipercent": 3200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "536",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ice Cream",
-      "flavor_id": "4449",
-      "millipercent": 2000,
-      "vendor": "HS"
-    }
-  ],
-  "author": "Rageisalotofwork",
-  "views": "2334",
-  "slug": "pistachio_green_salad",
-  "total_flavoring": "13.15%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TogiraIkonoka0618",
-      "score": "5",
-      "text": "I was actually debating on trying to create a pistachio fluff salad recipe myself and but now I don't need to. I get a very pistachio forward flavor out of this with hints of the pineapple and a very nice creamy background.  I might try tweaking this to get a bit more separation of the flavors or get the pineapple to come out a bit more. Great recipe and a very enjoyable vape!"
-    }
-  ]
+    "name": "Pistachio Green Salad",
+    "description": "This is a holiday dessert that I grew up with as a child, and is something I still make during Thanksgiving. Its a creamy, marshmallow dessert with light pistachio and pineapple flavors, its really cheap and easy to make, this this recipe is damn near spot on.\r\nThe version I make at home is pistachio Jello mix, miniature marshmallows, chopped pineapple, Cool Whip, and cottage cheese. Once its all mixed together I also add crushed pistachios on top.\r\nThe HS Ice Cream mixed with the TFA VBIC, and FA Meringue and TFA Bavarian Cream Makes the perfect mixture to create the flavor of Cool Whip with the thickness of cottage cheese and perfectly compliments the TFA Toasted Marshmallow, while adding sweetness to the TFA Pistachio. The FA Walnut is at just the right amount to help the richness of the Pistachio without overwhelming the flavor. CAP Golden Pineapple is my favorite pineapple flavor, and I think it works well in this recipe at 1.5%, but it's very light and mostly works as a fruit sweetness but can easily go up to 2.5% for a pineapple flavor, or can be changed out for another pineapple entirely dependent on your preference.",
+    "id": 20244,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20244\/f1825c91b6913b61426f5cddf1e7f306.jpg",
+    "updated_at": "2020-12-12T15:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pistachio",
+            "flavor_id": "293",
+            "millipercent": 3200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "536",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ice Cream",
+            "flavor_id": "4449",
+            "millipercent": 2000,
+            "vendor": "HS"
+        }
+    ],
+    "author": "Rageisalotofwork",
+    "views": "2352",
+    "created_at": "2016-11-17",
+    "slug": "pistachio_green_salad",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20244.jpg",
+    "total_flavoring": "13.15%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TogiraIkonoka0618",
+            "score": 5,
+            "text": "I was actually debating on trying to create a pistachio fluff salad recipe myself and but now I don't need to. I get a very pistachio forward flavor out of this with hints of the pineapple and a very nice creamy background.  I might try tweaking this to get a bit more separation of the flavors or get the pineapple to come out a bit more. Great recipe and a very enjoyable vape!"
+        }
+    ]
 }

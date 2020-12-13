@@ -1,75 +1,77 @@
 {
-  "name": " Jammin with the Cronuts",
-  "description": "So  I thought why not give a try my hand at a  Cronut  (which is a fried croissant in the shape of a donut- it is very much like a french crueler dounut)  -  with some of the  croissant flavors now available. The challenge is  getting the  buttery  fried Croissant  with light flaky airy inside  to stand out and be noticeable especially when adding a strong sweet jam filling  \r\n  WF fried dough,  croisant and glazed donut along with some cap butter  get  close to that cronut pastry ..  The bakery in this takes a 5 - 7 day steep to come forward  and for the contrasting fruit to  settle in a bit     \r\n\r\nI really love VT jam fruits  they are really a true jam  but will tend to fade a wee bit.   Although for this application  that is fine \r\n\r\npowdersugar  because  well I love powder sugar and more is better for me \r\n\r\nSweetner of choice for that  super sweet - teeth rattling  donut filling sweetness \r\nMade for Mixn in the kitchen  sunday youtube show \r\nhttps://youtu.be/Bq6AhYxbeUs\r\n",
-  "id": 99780,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99780/cronut.JPG",
-  "updated_at": "2020-12-08T00:50:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry Jam",
-      "flavor_id": "9373",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Deep Fried Pastry Dough SC",
-      "flavor_id": "8367",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "8976",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "MECH_MOD_RN",
-  "views": "2401",
-  "slug": "jammin_with_the_cronuts",
-  "total_flavoring": "11.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "5",
-      "text": "such a great and well balanced recipe!  I had yet to find a donut recipe that didn't taste play-do or yeasty from overuse of joy.  I had all but given up when I found this. Its buttery, rich &amp; tastes like sugary calories!  The fruits manage to not overtake but are nestled in there just like they are in the real thing.  This is a difficult profile to nail down but this rises to the challenge.  Will be keeping this in rotation steeped and ready to go.   ps: I did make one sub, VT glazed strawberries as I didn't have strawberry jam, though I doubt that made a massive difference.  much thanks!"
-    }
-  ]
+    "name": " Jammin with the Cronuts",
+    "description": "So  I thought why not give a try my hand at a  Cronut  (which is a fried croissant in the shape of a donut- it is very much like a french crueler dounut)  -  with some of the  croissant flavors now available. The challenge is  getting the  buttery  fried Croissant  with light flaky airy inside  to stand out and be noticeable especially when adding a strong sweet jam filling  \r\n  WF fried dough,  croisant and glazed donut along with some cap butter  get  close to that cronut pastry ..  The bakery in this takes a 5 - 7 day steep to come forward  and for the contrasting fruit to  settle in a bit     \r\n\r\nI really love VT jam fruits  they are really a true jam  but will tend to fade a wee bit.   Although for this application  that is fine \r\n\r\npowdersugar  because  well I love powder sugar and more is better for me \r\n\r\nSweetner of choice for that  super sweet - teeth rattling  donut filling sweetness \r\nMade for Mixn in the kitchen  sunday youtube show \r\nhttps:\/\/youtu.be\/Bq6AhYxbeUs\r\n",
+    "id": 99780,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/99780\/cronut.JPG",
+    "updated_at": "2020-12-12T15:39:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry Jam",
+            "flavor_id": "9373",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Deep Fried Pastry Dough SC",
+            "flavor_id": "8367",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "8976",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "MECH_MOD_RN",
+    "views": "2415",
+    "created_at": "2018-05-06",
+    "slug": "jammin_with_the_cronuts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/99780.JPG",
+    "total_flavoring": "11.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 5,
+            "text": "such a great and well balanced recipe!  I had yet to find a donut recipe that didn't taste play-do or yeasty from overuse of joy.  I had all but given up when I found this. Its buttery, rich &amp; tastes like sugary calories!  The fruits manage to not overtake but are nestled in there just like they are in the real thing.  This is a difficult profile to nail down but this rises to the challenge.  Will be keeping this in rotation steeped and ready to go.   ps: I did make one sub, VT glazed strawberries as I didn't have strawberry jam, though I doubt that made a massive difference.  much thanks!"
+        }
+    ]
 }

@@ -1,62 +1,64 @@
 {
-  "name": "Torrone Custard By: Boogenshizzle",
-  "description": "Imagine taking white creamy American Nougat and mixing with a fantastic pastry/cannoli cream. \r\nTorrone for the nougat.\r\nMarshmallow and fresh together for that velvety and extra texture.\r\nCustard for the base. \r\nAlmond to help the almonds in the nougat.\r\nA personal favorite. I keep a few hundred mils at all times.\r\n",
-  "id": 26508,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/26508/images.jpg",
-  "updated_at": "2020-12-08T00:48:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 600,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Boogenshizzle",
-  "views": "2209",
-  "slug": "torrone_custard_by_boogenshizzle",
-  "total_flavoring": "7.75%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "ObiWanCannoli",
-      "score": "4",
-      "text": "This is a great recipe for being all FA. Not exactly my cup of tea but that wont stop me from giving this a good review. The lemon notes in the custard and torrone work well for this one. I would like to try this with the new premium custard from FA either replacing or in addition to the regular custard. Also to note, this was a touch harsh for me. I tend to get off notes and a strange aftertaste from some FA flavors so I had to add a bit of sweetener to help with that. Other than that, this recipe is balanced nicely and all of the flavors work well together. Solid recipe"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I had to sub in CAP vanilla custard, but this is a stroke of genius."
-    }
-  ]
+    "name": "Torrone Custard By: Boogenshizzle",
+    "description": "Imagine taking white creamy American Nougat and mixing with a fantastic pastry\/cannoli cream. \r\nTorrone for the nougat.\r\nMarshmallow and fresh together for that velvety and extra texture.\r\nCustard for the base. \r\nAlmond to help the almonds in the nougat.\r\nA personal favorite. I keep a few hundred mils at all times.\r\n",
+    "id": 26508,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/26508\/images.jpg",
+    "updated_at": "2020-12-12T18:29:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 600,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Boogenshizzle",
+    "views": "2223",
+    "created_at": "2017-01-13",
+    "slug": "torrone_custard_by_boogenshizzle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/26508.jpg",
+    "total_flavoring": "7.75%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ObiWanCannoli",
+            "score": 4,
+            "text": "This is a great recipe for being all FA. Not exactly my cup of tea but that wont stop me from giving this a good review. The lemon notes in the custard and torrone work well for this one. I would like to try this with the new premium custard from FA either replacing or in addition to the regular custard. Also to note, this was a touch harsh for me. I tend to get off notes and a strange aftertaste from some FA flavors so I had to add a bit of sweetener to help with that. Other than that, this recipe is balanced nicely and all of the flavors work well together. Solid recipe"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I had to sub in CAP vanilla custard, but this is a stroke of genius."
+        }
+    ]
 }

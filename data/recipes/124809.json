@@ -1,86 +1,86 @@
 {
-  "name": "Carnival Cooler #MixinVixins",
-  "description": "I wanted to make a wine and grapefruit shandy cooler garnished with fresh herbs.  None of the grapes worked on their own as a wine so I had to combine INW-Grape and TPA Grape Juice along with a touch of CAP-Blueberry Jam and FA-Brandy to deepen the grapes into a more wine like flavor.  The FA-Champagne combined with the FA-Grapefruit and FLV-Yakima Hops form my shandy and add some light carbonation to the mix.  The INW-Cactus is there to add some tartness to the grapefruit as well as adding more of the moist mouthfeel.  The FA-Zen Garden combines with the FA-White Winter (spearmint) to bring some freshly muddled herbs into the mix.",
-  "id": 124809,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124809/38204272_10155638390893461_4419443574316204032_n.jpg",
-  "updated_at": "2020-12-07T21:32:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wine Champagne",
-      "flavor_id": "457",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Grapefruit",
-      "flavor_id": "544",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "784",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Brandy",
-      "flavor_id": "493",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zen Garden",
-      "flavor_id": "478",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "White Winter (spearmint)",
-      "flavor_id": "557",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 400,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bitters",
-      "flavor_id": "8829",
-      "millipercent": 800,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Demented76",
-  "views": "1435",
-  "slug": "carnival_cooler_mixinvixins",
-  "total_flavoring": "10.05%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Carnival Cooler #MixinVixins",
+    "description": "I wanted to make a wine and grapefruit shandy cooler garnished with fresh herbs.  None of the grapes worked on their own as a wine so I had to combine INW-Grape and TPA Grape Juice along with a touch of CAP-Blueberry Jam and FA-Brandy to deepen the grapes into a more wine like flavor.  The FA-Champagne combined with the FA-Grapefruit and FLV-Yakima Hops form my shandy and add some light carbonation to the mix.  The INW-Cactus is there to add some tartness to the grapefruit as well as adding more of the moist mouthfeel.  The FA-Zen Garden combines with the FA-White Winter (spearmint) to bring some freshly muddled herbs into the mix.",
+    "id": 124809,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124809\/38204272_10155638390893461_4419443574316204032_n.jpg",
+    "updated_at": "2020-12-12T06:59:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wine Champagne",
+            "flavor_id": "457",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Grapefruit",
+            "flavor_id": "544",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "784",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Brandy",
+            "flavor_id": "493",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zen Garden",
+            "flavor_id": "478",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "White Winter (spearmint)",
+            "flavor_id": "557",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 400,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bitters",
+            "flavor_id": "8829",
+            "millipercent": 800,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Demented76",
+    "views": "1445",
+    "created_at": "2018-10-27",
+    "slug": "carnival_cooler_mixinvixins",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124809.jpg",
+    "total_flavoring": "10.05%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

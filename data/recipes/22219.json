@@ -1,50 +1,50 @@
 {
-  "name": "Popular Sides",
-  "description": "Still tweaking, but this is great.\r\n\r\nA dreamy banana ice cream drizzled with caramel topping ending in a cream bliss.\r\n\r\nOr maybe my pallette is just shot to shit.\r\n\r\nOh, and peanut butter.",
-  "id": 22219,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/22219/IMG_0006.JPG",
-  "updated_at": "2020-12-06T20:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Sennepsbrynje",
-  "views": "1039",
-  "slug": "popular_sides",
-  "total_flavoring": "11.5%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Popular Sides",
+    "description": "Still tweaking, but this is great.\r\n\r\nA dreamy banana ice cream drizzled with caramel topping ending in a cream bliss.\r\n\r\nOr maybe my pallette is just shot to shit.\r\n\r\nOh, and peanut butter.",
+    "id": 22219,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/22219\/IMG_0006.JPG",
+    "updated_at": "2020-12-10T14:51:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Sennepsbrynje",
+    "views": "1047",
+    "created_at": "2016-12-07",
+    "slug": "popular_sides",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/22219.JPG",
+    "total_flavoring": "11.5%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

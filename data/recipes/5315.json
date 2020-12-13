@@ -1,133 +1,134 @@
 {
-  "name": "Simply Cannoli",
-  "description": "A basic cannoli recipe limited to 6 flavours from FW, FA, TFA, Cap, & INW Biscuit",
-  "id": 5315,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 600,
-      "vendor": "INW"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 400,
-      "vendor": "FA"
-    }
-  ],
-  "author": "tranceinate",
-  "views": "54298",
-  "slug": "simply_cannoli",
-  "total_flavoring": "8.15%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "92%",
-  "temperature": "",
-  "total_reviews": 15,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Noelspark",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "Elvieann",
-      "score": "5",
-      "text": "Great flavor!  I'm keeping a 120ml of this on hand at all times.  I've let others try it and everyone liked it, no negatives!"
-    },
-    {
-      "user": "wh1skeyk1ng",
-      "score": "5",
-      "text": "It's an enjoyable and rather authentic taste at just over 8% flavoring.  Impressive!"
-    },
-    {
-      "user": "Exercyst",
-      "score": "5",
-      "text": "This has been the only juice my buddy has vaped since this recipe came out. Impressive Cannoli!"
-    },
-    {
-      "user": "KenWhitfield",
-      "score": "5",
-      "text": "This is really great as is, but I want to expand at some point by adding a kiss of lemon to brighten the cream like a true cannoli. Very well done my friend!!"
-    },
-    {
-      "user": "Bogey_Again",
-      "score": "5",
-      "text": "This is my favorite cannoli out of the 8 top 10 recipes in the contest. "
-    },
-    {
-      "user": "BCrunk",
-      "score": "5",
-      "text": "Ay yo fam. This juice is like totes lit, yo. Shiz on fleek."
-    },
-    {
-      "user": "tonyp1119",
-      "score": "5",
-      "text": "This is absolutely outstanding my friend. Very well put together. Ready to mix a bigger batch. Didn't took to long to steep, I pu it in my sonic cleaner for 2 hr and waited 3 days to tested. Is like eating the real thing, great job @tranceinate Thank you for sharing..."
-    },
-    {
-      "user": "Dalpho",
-      "score": "5",
-      "text": "You did it man. its just like the real thing.&#xD;\n&#xD;\nEdit: after a week steep the cream is just amazing. "
-    },
-    {
-      "user": "iboga",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "crisk",
-      "score": "5",
-      "text": "The cream on this one is just plain poetry. Delicious recipe!"
-    },
-    {
-      "user": "AlexDNYC",
-      "score": "5",
-      "text": "Mixed and steeped two weeks - totally nails the cannoli cream profile - not getting alot of the pastry shell but loving the flavor anyway!"
-    },
-    {
-      "user": "Queuetue",
-      "score": "5",
-      "text": "Delicious, didn't stop until a full 60 was gone. Making a 120 so i can see what it's like after it ages a few weeks.  This recipe got me interested in custards again."
-    },
-    {
-      "user": "Coildad",
-      "score": "5",
-      "text": "I mixed this up 3 days ago and only have about 10 ml's of the 30 left. It's very yummy, Nailed the Cannnoli profile! I'm mixing a 120 right now, want to see what a few week steep does to it.&#xD;\nThanks Trance. "
-    },
-    {
-      "user": "Vurve",
-      "score": "5",
-      "text": "Pretty good recipe. I happily vaped through 100ml of this and it's fairly spot on. The use of CAP NY Cheesecake and CAP Vanilla Custard mimics the cream of a cannoli very well."
-    }
-  ]
+    "name": "Simply Cannoli",
+    "description": "A basic cannoli recipe limited to 6 flavours from FW, FA, TFA, Cap, & INW Biscuit",
+    "id": 5315,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 600,
+            "vendor": "INW"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 400,
+            "vendor": "FA"
+        }
+    ],
+    "author": "tranceinate",
+    "views": "54321",
+    "created_at": "2016-06-15",
+    "slug": "simply_cannoli",
+    "total_flavoring": "8.15%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "92%",
+    "temperature": "",
+    "total_reviews": 15,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Noelspark",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "Elvieann",
+            "score": 5,
+            "text": "Great flavor!  I'm keeping a 120ml of this on hand at all times.  I've let others try it and everyone liked it, no negatives!"
+        },
+        {
+            "user": "wh1skeyk1ng",
+            "score": 5,
+            "text": "It's an enjoyable and rather authentic taste at just over 8% flavoring.  Impressive!"
+        },
+        {
+            "user": "Exercyst",
+            "score": 5,
+            "text": "This has been the only juice my buddy has vaped since this recipe came out. Impressive Cannoli!"
+        },
+        {
+            "user": "KenWhitfield",
+            "score": 5,
+            "text": "This is really great as is, but I want to expand at some point by adding a kiss of lemon to brighten the cream like a true cannoli. Very well done my friend!!"
+        },
+        {
+            "user": "Bogey_Again",
+            "score": 5,
+            "text": "This is my favorite cannoli out of the 8 top 10 recipes in the contest. "
+        },
+        {
+            "user": "BCrunk",
+            "score": 5,
+            "text": "Ay yo fam. This juice is like totes lit, yo. Shiz on fleek."
+        },
+        {
+            "user": "tonyp1119",
+            "score": 5,
+            "text": "This is absolutely outstanding my friend. Very well put together. Ready to mix a bigger batch. Didn't took to long to steep, I pu it in my sonic cleaner for 2 hr and waited 3 days to tested. Is like eating the real thing, great job @tranceinate Thank you for sharing..."
+        },
+        {
+            "user": "Dalpho",
+            "score": 5,
+            "text": "You did it man. its just like the real thing.&#xD;\n&#xD;\nEdit: after a week steep the cream is just amazing. "
+        },
+        {
+            "user": "iboga",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "crisk",
+            "score": 5,
+            "text": "The cream on this one is just plain poetry. Delicious recipe!"
+        },
+        {
+            "user": "AlexDNYC",
+            "score": 5,
+            "text": "Mixed and steeped two weeks - totally nails the cannoli cream profile - not getting alot of the pastry shell but loving the flavor anyway!"
+        },
+        {
+            "user": "Queuetue",
+            "score": 5,
+            "text": "Delicious, didn't stop until a full 60 was gone. Making a 120 so i can see what it's like after it ages a few weeks.  This recipe got me interested in custards again."
+        },
+        {
+            "user": "Coildad",
+            "score": 5,
+            "text": "I mixed this up 3 days ago and only have about 10 ml's of the 30 left. It's very yummy, Nailed the Cannnoli profile! I'm mixing a 120 right now, want to see what a few week steep does to it.&#xD;\nThanks Trance. "
+        },
+        {
+            "user": "Vurve",
+            "score": 5,
+            "text": "Pretty good recipe. I happily vaped through 100ml of this and it's fairly spot on. The use of CAP NY Cheesecake and CAP Vanilla Custard mimics the cream of a cannoli very well."
+        }
+    ]
 }

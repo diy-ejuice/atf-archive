@@ -1,105 +1,107 @@
 {
-  "name": "Pink Eye",
-  "description": "Instead of pouring cinnamon powder on my cornflakes, I chopped up some sugar-coated strawberries and tossed them in the bowl.\r\n\r\nToasted Redux #1. I replaced Rich Cinnamon with a couple strawberries. I also bumped Cereal 27 from 3% to 5% so it will stand up to the strawberries enough. Really simple adaptation, yet it radically changes the profile. See Toasted for the cereal notes if you're interested.\r\n\r\nFlavor Notes:\r\n\r\nCAP Sweet Strawberry is a bright, sugary, candied flavor. It's exactly the kind of Strawberry you want in your cornflakes. At 4%, it’s present without totally overtaking everything.\r\n\r\nTPA Strawberry Ripe brings a touch of that authentic, fresh strawberry flavor to the mix. 2% isn't very apparent, but it fleshes out the CAP Sweet Strawberry. There's not much else to say about it.\r\n\r\nThis is a good shake and vape. Let it sit for 1-3 days first and you will be rewarded.\r\n\r\nHappy mixing. 👽",
-  "id": 45045,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/45045/IMG_4712.JPG",
-  "updated_at": "2020-12-08T00:49:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MrBurgundy",
-  "views": "5705",
-  "slug": "pink_eye",
-  "total_flavoring": "16.25%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 7,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Awesome recipe full of flavor. Easy 5 🌟"
-    },
-    {
-      "user": "Pt102185",
-      "score": "5",
-      "text": "Awesome juice, I think I’m going to bump up the sweetener but to me it somewhat resembles” the one” juice. Good job!!"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Damn this is nice"
-    },
-    {
-      "user": "Kudo",
-      "score": "5",
-      "text": "This is pretty awesome, by day 3 tastes exactly as you would expect"
-    },
-    {
-      "user": "Spittser",
-      "score": "5",
-      "text": "I've mixed around 1000ml of this juice. I've given it to friends and everyone loves It. Definitely in my top 3. Thank you so much for this recipe. "
-    },
-    {
-      "user": "OldAgeVaper",
-      "score": "5",
-      "text": "Steeped mine for 13 days bypassed the dripper and put it straight into the hurricane tank as i liked the look of the profile.First to hit my taste buds are the strawberries then on the exhale the very slight taste of the cereal and toasted.The more i vape it the more together it becomes .. But i think i might enjoy it with the AP instead of the gcc more and a little dairy/milk maybe.&#xD;\nIn the end still a good mix and im puffing through a tank right now well done."
-    },
-    {
-      "user": "Screwdriver",
-      "score": "5",
-      "text": "This is a banger recipe, I can't get enough of this... so flavorful. &#xD;\nCan't believe there's no appreciation for this one. &#xD;\nThis is in my top 10 and I've mixed over 350 recipes to date. &#xD;\nMany thx for this one MrBurgundy."
-    }
-  ]
+    "name": "Pink Eye",
+    "description": "Instead of pouring cinnamon powder on my cornflakes, I chopped up some sugar-coated strawberries and tossed them in the bowl.\r\n\r\nToasted Redux #1. I replaced Rich Cinnamon with a couple strawberries. I also bumped Cereal 27 from 3% to 5% so it will stand up to the strawberries enough. Really simple adaptation, yet it radically changes the profile. See Toasted for the cereal notes if you're interested.\r\n\r\nFlavor Notes:\r\n\r\nCAP Sweet Strawberry is a bright, sugary, candied flavor. It's exactly the kind of Strawberry you want in your cornflakes. At 4%, it\u2019s present without totally overtaking everything.\r\n\r\nTPA Strawberry Ripe brings a touch of that authentic, fresh strawberry flavor to the mix. 2% isn't very apparent, but it fleshes out the CAP Sweet Strawberry. There's not much else to say about it.\r\n\r\nThis is a good shake and vape. Let it sit for 1-3 days first and you will be rewarded.\r\n\r\nHappy mixing. \ud83d\udc7d",
+    "id": 45045,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/45045\/IMG_4712.JPG",
+    "updated_at": "2020-12-12T14:05:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MrBurgundy",
+    "views": "5718",
+    "created_at": "2017-05-07",
+    "slug": "pink_eye",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/45045.JPG",
+    "total_flavoring": "16.25%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 7,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Awesome recipe full of flavor. Easy 5 \ud83c\udf1f"
+        },
+        {
+            "user": "Pt102185",
+            "score": 5,
+            "text": "Awesome juice, I think I\u2019m going to bump up the sweetener but to me it somewhat resembles\u201d the one\u201d juice. Good job!!"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Damn this is nice"
+        },
+        {
+            "user": "Kudo",
+            "score": 5,
+            "text": "This is pretty awesome, by day 3 tastes exactly as you would expect"
+        },
+        {
+            "user": "Spittser",
+            "score": 5,
+            "text": "I've mixed around 1000ml of this juice. I've given it to friends and everyone loves It. Definitely in my top 3. Thank you so much for this recipe. "
+        },
+        {
+            "user": "OldAgeVaper",
+            "score": 5,
+            "text": "Steeped mine for 13 days bypassed the dripper and put it straight into the hurricane tank as i liked the look of the profile.First to hit my taste buds are the strawberries then on the exhale the very slight taste of the cereal and toasted.The more i vape it the more together it becomes .. But i think i might enjoy it with the AP instead of the gcc more and a little dairy\/milk maybe.&#xD;\nIn the end still a good mix and im puffing through a tank right now well done."
+        },
+        {
+            "user": "Screwdriver",
+            "score": 5,
+            "text": "This is a banger recipe, I can't get enough of this... so flavorful. &#xD;\nCan't believe there's no appreciation for this one. &#xD;\nThis is in my top 10 and I've mixed over 350 recipes to date. &#xD;\nMany thx for this one MrBurgundy."
+        }
+    ]
 }

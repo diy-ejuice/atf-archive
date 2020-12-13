@@ -1,44 +1,43 @@
 {
-  "name": "Vain Deer",
-  "description": "Cherry mix sour cool. Tast a new recipe. Very nice.",
-  "id": 162414,
-  "image_url": null,
-  "updated_at": "2020-11-27T20:27:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tart Cherry",
-      "flavor_id": "10052",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Black Cherry",
-      "flavor_id": "212",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cool",
-      "flavor_id": "1291",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Powerful Sour",
-      "flavor_id": "10054",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Volfgam",
-  "views": "604",
-  "slug": "vain_deer",
-  "total_flavoring": "7.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vain Deer",
+    "description": "Cherry mix sour cool. Tast a new recipe. Very nice.",
+    "id": 162414,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tart Cherry",
+            "flavor_id": "10052",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Black Cherry",
+            "flavor_id": "212",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cool",
+            "flavor_id": "1291",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Powerful Sour",
+            "flavor_id": "10054",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Volfgam",
+    "views": "612",
+    "created_at": "2019-08-08",
+    "slug": "vain_deer",
+    "total_flavoring": "7.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

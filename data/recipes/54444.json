@@ -1,51 +1,53 @@
 {
-  "name": "Strawberry custard?",
-  "description": "More like  flan especially with the wet caramel sauce... \r\n\r\nSnv, its so surprising I can taste the wetness of the caramel \r\n\r\n1 week steep. Not much has changed it all mellowed down and came together. But nothing special has changed. \r\n\r\nPs. Sorry I fking suck at notes  \r\n\r\n",
-  "id": 54444,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54444/images__5_.jpg",
-  "updated_at": "2020-12-02T15:33:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "CGM",
-  "views": "1255",
-  "slug": "strawberry_custard",
-  "total_flavoring": "7.75%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "VERSE187",
-      "score": "none",
-      "text": "Can I switch out sweet strawberry with strawberry tfa ?"
-    }
-  ]
+    "name": "Strawberry custard?",
+    "description": "More like  flan especially with the wet caramel sauce... \r\n\r\nSnv, its so surprising I can taste the wetness of the caramel \r\n\r\n1 week steep. Not much has changed it all mellowed down and came together. But nothing special has changed. \r\n\r\nPs. Sorry I fking suck at notes  \r\n\r\n",
+    "id": 54444,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54444\/images__5_.jpg",
+    "updated_at": "2020-12-10T17:56:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "CGM",
+    "views": "1257",
+    "created_at": "2017-07-07",
+    "slug": "strawberry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54444.jpg",
+    "total_flavoring": "7.75%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "VERSE187",
+            "score": 0,
+            "text": "Can I switch out sweet strawberry with strawberry tfa ?"
+        }
+    ]
 }

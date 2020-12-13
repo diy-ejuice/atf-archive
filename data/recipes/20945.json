@@ -1,69 +1,71 @@
 {
-  "name": "B.F.C #REMIXMONTH",
-  "description": "My reference for this was BFB - Straight Outta The Toaster. \r\n\r\n",
-  "id": 20945,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20945/bfc.jpg",
-  "updated_at": "2020-12-08T00:48:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "2309",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake Batter Dip",
-      "flavor_id": "1223",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "method1",
-  "views": "3471",
-  "slug": "bfc_remixmonth",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Screwdriver",
-      "score": "5",
-      "text": "This is truly delicious, you nailed it with this one. One week steep time is accurate. This is in my rotation now for sure. Congratz and many thx."
-    }
-  ]
+    "name": "B.F.C #REMIXMONTH",
+    "description": "My reference for this was BFB - Straight Outta The Toaster. \r\n\r\n",
+    "id": 20945,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20945\/bfc.jpg",
+    "updated_at": "2020-12-12T15:38:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "2309",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake Batter Dip",
+            "flavor_id": "1223",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "method1",
+    "views": "3481",
+    "created_at": "2016-11-24",
+    "slug": "bfc_remixmonth",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20945.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Screwdriver",
+            "score": 5,
+            "text": "This is truly delicious, you nailed it with this one. One week steep time is accurate. This is in my rotation now for sure. Congratz and many thx."
+        }
+    ]
 }

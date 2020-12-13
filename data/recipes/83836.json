@@ -1,56 +1,56 @@
 {
-  "name": "Butter Pecan Delight",
-  "description": "This is a decadent realistic butter pecan ice cream.  Its a long steep due to the cream cheese but well worth the wait!!  Its creamy, pecan nutty and simply divine!  If you need a little more sweetness you can add 1% (TFA) sweetner.",
-  "id": 83836,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83836/Butter_Pecan_-_Ice_Cream_-_H_agen-Dazs_.jpg",
-  "updated_at": "2020-12-07T03:31:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "7744",
-      "millipercent": 5000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Butter Nut",
-      "flavor_id": "7126",
-      "millipercent": 1000,
-      "vendor": "NF"
-    }
-  ],
-  "author": "Jazzy_girl",
-  "views": "1300",
-  "slug": "butter_pecan_delight",
-  "total_flavoring": "12.0%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Butter Pecan Delight",
+    "description": "This is a decadent realistic butter pecan ice cream.  Its a long steep due to the cream cheese but well worth the wait!!  Its creamy, pecan nutty and simply divine!  If you need a little more sweetness you can add 1% (TFA) sweetner.",
+    "id": 83836,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83836\/Butter_Pecan_-_Ice_Cream_-_H_agen-Dazs_.jpg",
+    "updated_at": "2020-12-10T16:00:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "7744",
+            "millipercent": 5000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Butter Nut",
+            "flavor_id": "7126",
+            "millipercent": 1000,
+            "vendor": "NF"
+        }
+    ],
+    "author": "Jazzy_girl",
+    "views": "1308",
+    "created_at": "2018-01-15",
+    "slug": "butter_pecan_delight",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83836.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Looney Tubes",
-  "description": "Experience a delicious spoonful of Fruit Loops Cereal w/ a touch of Milk in every pull.\r\nNice crunchy texture up front, and finished with sweet fruity Cereal Milk. :)\r\nQuick note: If anyone has seen this recipe posted elsewhere by The Vape Gourmet, that is because he is me. I also go by Soulchkn, but that will change here soon! Lol\r\nHAPPY MIXING, & HAPPY VAPING!!! ;)",
-  "id": 170792,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/170792/Looney_Tubes.jpg",
-  "updated_at": "2020-12-08T00:51:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fruit Circles",
-      "flavor_id": "8742",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "soulchkn",
-  "views": "1859",
-  "slug": "looney_tubes",
-  "total_flavoring": "10.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MCrane81",
-      "score": "5",
-      "text": "Delicious recipe. I tried the original from Instagram, but this one is definitely better. Small tweaks with a decent improvement. Keep up the good work 😁"
-    }
-  ]
+    "name": "Looney Tubes",
+    "description": "Experience a delicious spoonful of Fruit Loops Cereal w\/ a touch of Milk in every pull.\r\nNice crunchy texture up front, and finished with sweet fruity Cereal Milk. :)\r\nQuick note: If anyone has seen this recipe posted elsewhere by The Vape Gourmet, that is because he is me. I also go by Soulchkn, but that will change here soon! Lol\r\nHAPPY MIXING, & HAPPY VAPING!!! ;)",
+    "id": 170792,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/170792\/Looney_Tubes.jpg",
+    "updated_at": "2020-12-12T14:07:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fruit Circles",
+            "flavor_id": "8742",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "soulchkn",
+    "views": "1867",
+    "created_at": "2019-10-16",
+    "slug": "looney_tubes",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/170792.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MCrane81",
+            "score": 5,
+            "text": "Delicious recipe. I tried the original from Instagram, but this one is definitely better. Small tweaks with a decent improvement. Keep up the good work \ud83d\ude01"
+        }
+    ]
 }

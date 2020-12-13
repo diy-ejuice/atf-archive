@@ -1,56 +1,56 @@
 {
-  "name": "Cherry Sprite",
-  "description": "Recently picked up a bunch of flavors and was really wanting a good cherry recipe. I took the base from u/ID10-T's 1-2-3 Cranberry Sprite and replaced the FLV Cranberry with a combination of INW Cherries and TPA Cherry Extract. Didn't really know where to start with them so I kind of just guessed. The result is my Cherry Sprite recipe.\r\n\r\nGood SnV, but after a couple days steeping it really shines. Doesn't have that medicinal cherry taste. The cherries are definitely at the forefront, but the Sprite is there just enough in the background to give it a subtle fizzy lemon lime taste on the exhale. I also added some Polar Blast and WS-23 to really give it that chilled soda feel. \r\n\r\nTested on Citadel with 3.5mm, 0.22Ω, 28ga Badazd Super Flat Quad coil at 55w",
-  "id": 178272,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178272/51LXEC197eL._SX522_.jpg",
-  "updated_at": "2020-12-07T22:33:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cherry Extract",
-      "flavor_id": "222",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherries",
-      "flavor_id": "757",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 250,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "morencyam",
-  "views": "1273",
-  "slug": "cherry_sprite",
-  "total_flavoring": "8.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherry Sprite",
+    "description": "Recently picked up a bunch of flavors and was really wanting a good cherry recipe. I took the base from u\/ID10-T's 1-2-3 Cranberry Sprite and replaced the FLV Cranberry with a combination of INW Cherries and TPA Cherry Extract. Didn't really know where to start with them so I kind of just guessed. The result is my Cherry Sprite recipe.\r\n\r\nGood SnV, but after a couple days steeping it really shines. Doesn't have that medicinal cherry taste. The cherries are definitely at the forefront, but the Sprite is there just enough in the background to give it a subtle fizzy lemon lime taste on the exhale. I also added some Polar Blast and WS-23 to really give it that chilled soda feel. \r\n\r\nTested on Citadel with 3.5mm, 0.22\u03a9, 28ga Badazd Super Flat Quad coil at 55w",
+    "id": 178272,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178272\/51LXEC197eL._SX522_.jpg",
+    "updated_at": "2020-12-12T10:16:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cherry Extract",
+            "flavor_id": "222",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherries",
+            "flavor_id": "757",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 250,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "morencyam",
+    "views": "1292",
+    "created_at": "2019-12-20",
+    "slug": "cherry_sprite",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178272.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "The Hideous Barista ",
-  "description": "This is a simple Caramel Brulee frappuccino you would receive from your local barista at your favorite coffee house.\r\n\r\nEnjoy",
-  "id": 75477,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75477/7444686804_470f458fc8.jpg",
-  "updated_at": "2020-12-05T02:13:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brulee",
-      "flavor_id": "8551",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "151",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Smoked Butterscotch",
-      "flavor_id": "8569",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Smooth Cappuccino Cream",
-      "flavor_id": "6060",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ZestyVapes",
-  "views": "1989",
-  "slug": "the_hideous_barista",
-  "total_flavoring": "9.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Hideous Barista ",
+    "description": "This is a simple Caramel Brulee frappuccino you would receive from your local barista at your favorite coffee house.\r\n\r\nEnjoy",
+    "id": 75477,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75477\/7444686804_470f458fc8.jpg",
+    "updated_at": "2020-12-10T16:00:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brulee",
+            "flavor_id": "8551",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "151",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Smoked Butterscotch",
+            "flavor_id": "8569",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Smooth Cappuccino Cream",
+            "flavor_id": "6060",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ZestyVapes",
+    "views": "1996",
+    "created_at": "2017-11-22",
+    "slug": "the_hideous_barista",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75477.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

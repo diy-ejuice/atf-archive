@@ -1,66 +1,67 @@
 {
-  "name": "Da Vida Loca",
-  "description": "In a Godda Da Vida was just missing something, for me personally. CAP Mango goes so well with TFA Papaya. All credit for original recipe goes to mlNikon. I only added the mango",
-  "id": 50504,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MediocreVibes",
-  "views": "3533",
-  "slug": "da_vida_loca",
-  "total_flavoring": "6.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "robolto78",
-      "score": "5",
-      "text": "This recipe is simply amazing. It uses minimal concentrates but produces great mouth watering flavor. It doesn't use sweetener but it damn sure doesn't need any. Like it's inspiration, it is easy on your coils and that is the proverbial icing on the cake. If you like fruity, tropical flavors, I can't reccomend this mix enough. In a Godda Da Vida was great, but 1% of CAP Sweet Mango puts it over the edge. It's a simple, but brillant addition. "
-    },
-    {
-      "user": "alexis666",
-      "score": "5",
-      "text": "I seem to be one of the only people in the world who doesn’t get on well with In a Godda Da Vida, it gives me a nasty aftertaste. This recipe though makes it so much more palatable, I still get a note of that aftertaste but the mango smooths it out so that I can enjoy the tropical noes and not be hit with a smack of bitterness. "
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "My palate rejects the premise that In Godda Da Vida was missing anything at all. In fact I consider that assertion to be something akin to heresy or sacrilege. However, this made for a slightly different and equally delicious vape as Godda, with the Sweet Mango blending in and sweetening and ripening the Papaya part. It makes me want to play around with adding a little summin summin to Godda as well, something I previously would not have entertained, as it seems like desecrating a DIY treasure.  So this recipe is either inspirational or a bad influence, depending on your point of view. But the bottom line is that it's a helluva great vape. "
-    },
-    {
-      "user": "Coldsolace",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Da Vida Loca",
+    "description": "In a Godda Da Vida was just missing something, for me personally. CAP Mango goes so well with TFA Papaya. All credit for original recipe goes to mlNikon. I only added the mango",
+    "id": 50504,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:10:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MediocreVibes",
+    "views": "3548",
+    "created_at": "2017-06-12",
+    "slug": "da_vida_loca",
+    "total_flavoring": "6.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "robolto78",
+            "score": 5,
+            "text": "This recipe is simply amazing. It uses minimal concentrates but produces great mouth watering flavor. It doesn't use sweetener but it damn sure doesn't need any. Like it's inspiration, it is easy on your coils and that is the proverbial icing on the cake. If you like fruity, tropical flavors, I can't reccomend this mix enough. In a Godda Da Vida was great, but 1% of CAP Sweet Mango puts it over the edge. It's a simple, but brillant addition. "
+        },
+        {
+            "user": "alexis666",
+            "score": 5,
+            "text": "I seem to be one of the only people in the world who doesn\u2019t get on well with In a Godda Da Vida, it gives me a nasty aftertaste. This recipe though makes it so much more palatable, I still get a note of that aftertaste but the mango smooths it out so that I can enjoy the tropical noes and not be hit with a smack of bitterness. "
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "My palate rejects the premise that In Godda Da Vida was missing anything at all. In fact I consider that assertion to be something akin to heresy or sacrilege. However, this made for a slightly different and equally delicious vape as Godda, with the Sweet Mango blending in and sweetening and ripening the Papaya part. It makes me want to play around with adding a little summin summin to Godda as well, something I previously would not have entertained, as it seems like desecrating a DIY treasure.  So this recipe is either inspirational or a bad influence, depending on your point of view. But the bottom line is that it's a helluva great vape. "
+        },
+        {
+            "user": "Coldsolace",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

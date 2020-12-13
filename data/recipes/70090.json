@@ -1,56 +1,55 @@
 {
-  "name": "Sweet Vanilla Pecan Tobacco V2",
-  "description": "This is only 8 days steeped giving another 6 days before i try it. This is version 1, so i know i will be revising this soon to my taste..\r\n\r\n****Revised version : I bumped RJ4 .5% to 3% , RY4D .5% upto 1.5% , and bumped Cuban Supreme by .25% to 2.75%...",
-  "id": 70090,
-  "image_url": null,
-  "updated_at": "2020-12-07T19:15:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cuban Supreme",
-      "flavor_id": "433",
-      "millipercent": 2750,
-      "vendor": "FA"
-    },
-    {
-      "name": "RJ4",
-      "flavor_id": "6317",
-      "millipercent": 3000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Lucky Shot",
-      "flavor_id": "4349",
-      "millipercent": 2000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "JJ1977",
-  "views": "1445",
-  "slug": "sweet_vanilla_pecan_tobacco_v2",
-  "total_flavoring": "14.25%",
-  "steep_days": "14",
-  "best_vg": "85%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sweet Vanilla Pecan Tobacco V2",
+    "description": "This is only 8 days steeped giving another 6 days before i try it. This is version 1, so i know i will be revising this soon to my taste..\r\n\r\n****Revised version : I bumped RJ4 .5% to 3% , RY4D .5% upto 1.5% , and bumped Cuban Supreme by .25% to 2.75%...",
+    "id": 70090,
+    "image_url": null,
+    "updated_at": "2020-12-11T04:37:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cuban Supreme",
+            "flavor_id": "433",
+            "millipercent": 2750,
+            "vendor": "FA"
+        },
+        {
+            "name": "RJ4",
+            "flavor_id": "6317",
+            "millipercent": 3000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Lucky Shot",
+            "flavor_id": "4349",
+            "millipercent": 2000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "JJ1977",
+    "views": "1452",
+    "created_at": "2017-10-23",
+    "slug": "sweet_vanilla_pecan_tobacco_v2",
+    "total_flavoring": "14.25%",
+    "steep_days": "14",
+    "best_vg": "85%",
+    "temperature": "0"
 }

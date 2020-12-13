@@ -1,68 +1,68 @@
 {
-  "name": "Toffee Apple Dip",
-  "description": "Delicious crisp apples dipped in a rich, buttery, toffee cream. \r\n\r\nGreat ADV on warm or cool days. \r\n\r\nGive it 7 days plus for the cream and toffee to blend and the slight buttery goodness from the butter cream to come through. ",
-  "id": 163603,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163603/20190818_211937.jpg",
-  "updated_at": "2020-12-07T14:14:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji Apple",
-      "flavor_id": "8456",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "1211",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "English Toffee",
-      "flavor_id": "167",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Saline (0.9%)",
-      "flavor_id": "5960",
-      "millipercent": 150,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "821",
-  "slug": "toffee_apple_dip",
-  "total_flavoring": "10.4%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Toffee Apple Dip",
+    "description": "Delicious crisp apples dipped in a rich, buttery, toffee cream. \r\n\r\nGreat ADV on warm or cool days. \r\n\r\nGive it 7 days plus for the cream and toffee to blend and the slight buttery goodness from the butter cream to come through. ",
+    "id": 163603,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163603\/20190818_211937.jpg",
+    "updated_at": "2020-12-11T22:45:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji Apple",
+            "flavor_id": "8456",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "1211",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "English Toffee",
+            "flavor_id": "167",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Saline (0.9%)",
+            "flavor_id": "5960",
+            "millipercent": 150,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "832",
+    "created_at": "2019-08-18",
+    "slug": "toffee_apple_dip",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163603.jpg",
+    "total_flavoring": "10.4%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

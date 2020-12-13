@@ -1,50 +1,50 @@
 {
-  "name": "Mango Melon Gum",
-  "description": "Mango watermelon bubblegum. To me it varies from hit to hit. One hit i will taste mostly mango bubble gum, the next will be mostly watermelon bubble gum, next they blend together. Its very interesting, and very tasty.",
-  "id": 43200,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/43200/BeFunky_Design.jpg",
-  "updated_at": "2020-12-07T14:12:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Watermelon",
-      "flavor_id": "126",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Watermelon Candy",
-      "flavor_id": "275",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "1210",
-      "millipercent": 5000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "CptJMorgan91",
-  "views": "2257",
-  "slug": "mango_melon_gum",
-  "total_flavoring": "10.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Melon Gum",
+    "description": "Mango watermelon bubblegum. To me it varies from hit to hit. One hit i will taste mostly mango bubble gum, the next will be mostly watermelon bubble gum, next they blend together. Its very interesting, and very tasty.",
+    "id": 43200,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/43200\/BeFunky_Design.jpg",
+    "updated_at": "2020-12-10T16:00:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Watermelon",
+            "flavor_id": "126",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Watermelon Candy",
+            "flavor_id": "275",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "1210",
+            "millipercent": 5000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "CptJMorgan91",
+    "views": "2262",
+    "created_at": "2017-04-27",
+    "slug": "mango_melon_gum",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/43200.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

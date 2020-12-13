@@ -1,68 +1,68 @@
 {
-  "name": "Sweet and Savory",
-  "description": "An off the wall, sweet and savory style cookie. I wanted to throw some odd flavors in there, so here it is. Sweeten to taste. This should sit for 7 days minimum, but I'm a 14 day person with this mix personally. If you can wait, a month and it seems to just taste even better to me. ",
-  "id": 181518,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181518/PBCookie.jpg",
-  "updated_at": "2020-12-07T02:17:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Dx Peanut Butter",
-      "flavor_id": "288",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Basil",
-      "flavor_id": "4387",
-      "millipercent": 800,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "782",
-  "slug": "sweet_and_savory",
-  "total_flavoring": "12.3%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "425",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sweet and Savory",
+    "description": "An off the wall, sweet and savory style cookie. I wanted to throw some odd flavors in there, so here it is. Sweeten to taste. This should sit for 7 days minimum, but I'm a 14 day person with this mix personally. If you can wait, a month and it seems to just taste even better to me. ",
+    "id": 181518,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/181518\/PBCookie.jpg",
+    "updated_at": "2020-12-12T20:31:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Dx Peanut Butter",
+            "flavor_id": "288",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Basil",
+            "flavor_id": "4387",
+            "millipercent": 800,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "791",
+    "created_at": "2020-01-18",
+    "slug": "sweet_and_savory",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/181518.jpg",
+    "total_flavoring": "12.3%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "425"
 }

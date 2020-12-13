@@ -1,63 +1,64 @@
 {
-  "name": "The Average",
-  "description": "I got nosy yesterday and came up with the idea to mix some of the top ATF flavors with their average percentages.  Luckily I had the first 6 in my stash so I mixed it up and it turned out pretty tasty.  Tastes like custard with a dash of custard.\r\n\r\nSo here are the top 6 ATF Flavors with their average percentages as of 23-Feb-2017.\r\n\r\nEnjoy :)",
-  "id": 33467,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1160,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3030,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4140,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2420,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3340,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3350,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "HerrHut",
-  "views": "2881",
-  "slug": "the_average",
-  "total_flavoring": "17.44%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "xela",
-      "score": "5",
-      "text": "Love it …"
-    }
-  ]
+    "name": "The Average",
+    "description": "I got nosy yesterday and came up with the idea to mix some of the top ATF flavors with their average percentages.  Luckily I had the first 6 in my stash so I mixed it up and it turned out pretty tasty.  Tastes like custard with a dash of custard.\r\n\r\nSo here are the top 6 ATF Flavors with their average percentages as of 23-Feb-2017.\r\n\r\nEnjoy :)",
+    "id": 33467,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1160,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3030,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4140,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2420,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3340,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3350,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "HerrHut",
+    "views": "2895",
+    "created_at": "2017-02-23",
+    "slug": "the_average",
+    "total_flavoring": "17.44%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "xela",
+            "score": 5,
+            "text": "Love it \u2026"
+        }
+    ]
 }

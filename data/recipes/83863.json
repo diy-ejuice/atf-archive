@@ -1,68 +1,68 @@
 {
-  "name": "Pecan Toucan Ice Cream",
-  "description": "Just a little idea I have had for a while mulling in my head and then it was down on paper for a while.... Only recently I thought of mixing this up and wasn't so sure if they recipe would turn out to what I was thinking and the fact the low percentages of the overall recipe is something I strive for now in my recipes..\r\nSaline @ .03% would actually be 3 drops for 30ml..",
-  "id": 83863,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83863/pecan.jpg",
-  "updated_at": "2020-12-07T10:43:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pecan",
-      "flavor_id": "1373",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 150,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1807",
-      "millipercent": 150,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Saline (0.9%)",
-      "flavor_id": "5960",
-      "millipercent": 30,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "MarkSr",
-  "views": "1149",
-  "slug": "pecan_toucan_ice_cream",
-  "total_flavoring": "5.08%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pecan Toucan Ice Cream",
+    "description": "Just a little idea I have had for a while mulling in my head and then it was down on paper for a while.... Only recently I thought of mixing this up and wasn't so sure if they recipe would turn out to what I was thinking and the fact the low percentages of the overall recipe is something I strive for now in my recipes..\r\nSaline @ .03% would actually be 3 drops for 30ml..",
+    "id": 83863,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83863\/pecan.jpg",
+    "updated_at": "2020-12-12T20:29:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pecan",
+            "flavor_id": "1373",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 150,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1807",
+            "millipercent": 150,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Saline (0.9%)",
+            "flavor_id": "5960",
+            "millipercent": 30,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "MarkSr",
+    "views": "1159",
+    "created_at": "2018-01-15",
+    "slug": "pecan_toucan_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83863.jpg",
+    "total_flavoring": "5.08%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

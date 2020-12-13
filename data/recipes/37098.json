@@ -1,44 +1,43 @@
 {
-  "name": "Blue rasberry lemonade ",
-  "description": "First attempt at this...im not sure on the percentages.  I mixed it am waiting for the steep...",
-  "id": 37098,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:33:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raz",
-      "flavor_id": "2222",
-      "millipercent": 8000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "2265",
-      "millipercent": 6000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Trista_C",
-  "views": "1559",
-  "slug": "blue_rasberry_lemonade",
-  "total_flavoring": "15.7%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue rasberry lemonade ",
+    "description": "First attempt at this...im not sure on the percentages.  I mixed it am waiting for the steep...",
+    "id": 37098,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raz",
+            "flavor_id": "2222",
+            "millipercent": 8000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "2265",
+            "millipercent": 6000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Trista_C",
+    "views": "1566",
+    "created_at": "2017-03-17",
+    "slug": "blue_rasberry_lemonade",
+    "total_flavoring": "15.7%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

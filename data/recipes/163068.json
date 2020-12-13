@@ -1,50 +1,50 @@
 {
-  "name": "Mango Sunrise",
-  "description": "Well this came as a request from a friend I started mixing for.  He wanted a mango pineapple juice type of mix so I went hard on the mango and pineapple.  I've found the 3%-1% INW Pineapple to Golden Pineapple is really a sweet spot.  For the main mango's I went with the staples FLV and VT Shisha.  Like many FLV flavors their mango is potent and on point.  When you open Shisha Mango and smell it, its just straight mango nectar.  The mango & tango is one of my new favorites.  It definitely needs Mango support and the tango, whatever it is, helps the pineapple pop.  If want something fruity try this and add WS-23 if you want, go nuts.",
-  "id": 163068,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163068/Mango-Sunrise-courtesy-of-New-Amsterdam-vodka-720x959.png",
-  "updated_at": "2020-12-02T15:38:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mango & Tango",
-      "flavor_id": "10158",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Mango",
-      "flavor_id": "8964",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1432",
-  "slug": "mango_sunrise",
-  "total_flavoring": "9.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Sunrise",
+    "description": "Well this came as a request from a friend I started mixing for.  He wanted a mango pineapple juice type of mix so I went hard on the mango and pineapple.  I've found the 3%-1% INW Pineapple to Golden Pineapple is really a sweet spot.  For the main mango's I went with the staples FLV and VT Shisha.  Like many FLV flavors their mango is potent and on point.  When you open Shisha Mango and smell it, its just straight mango nectar.  The mango & tango is one of my new favorites.  It definitely needs Mango support and the tango, whatever it is, helps the pineapple pop.  If want something fruity try this and add WS-23 if you want, go nuts.",
+    "id": 163068,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163068\/Mango-Sunrise-courtesy-of-New-Amsterdam-vodka-720x959.png",
+    "updated_at": "2020-12-11T14:05:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mango & Tango",
+            "flavor_id": "10158",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Mango",
+            "flavor_id": "8964",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1442",
+    "created_at": "2019-08-14",
+    "slug": "mango_sunrise",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163068.png",
+    "total_flavoring": "9.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

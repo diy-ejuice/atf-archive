@@ -1,44 +1,44 @@
 {
-  "name": "GREEN ",
-  "description": "This is a green apple jolly candy recipe inspired by Camp tiger claw recipe . ",
-  "id": 203783,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/203783/955EC0A3-07BF-4C5D-AB2E-66F78CCA0CD9.jpeg",
-  "updated_at": "2020-12-07T12:48:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Green Apple Hard Candy",
-      "flavor_id": "10001",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Green Jolly Candy",
-      "flavor_id": "6055",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sour Apple",
-      "flavor_id": "4379",
-      "millipercent": 3500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BigRed",
-  "views": "640",
-  "slug": "green",
-  "total_flavoring": "15.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "GREEN ",
+    "description": "This is a green apple jolly candy recipe inspired by Camp tiger claw recipe . ",
+    "id": 203783,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/203783\/955EC0A3-07BF-4C5D-AB2E-66F78CCA0CD9.jpeg",
+    "updated_at": "2020-12-12T05:51:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Green Apple Hard Candy",
+            "flavor_id": "10001",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Green Jolly Candy",
+            "flavor_id": "6055",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sour Apple",
+            "flavor_id": "4379",
+            "millipercent": 3500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BigRed",
+    "views": "648",
+    "created_at": "2020-08-21",
+    "slug": "green",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/203783.jpeg",
+    "total_flavoring": "15.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

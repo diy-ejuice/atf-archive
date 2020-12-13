@@ -1,62 +1,62 @@
 {
-  "name": "Deli Choc Croissant",
-  "description": "Just delicious Choc Croissant - a delightful fresh baked, oven warm pastry with nutty - nougat - chocolate spread filling. \r\n\r\n\r\n\r\nPhoto by inspiredtaste.net",
-  "id": 100688,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100688/JBZDQbF.jpg",
-  "updated_at": "2020-12-07T07:00:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "zylonality",
-  "views": "1294",
-  "slug": "deli_choc_croissant",
-  "total_flavoring": "11.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Deli Choc Croissant",
+    "description": "Just delicious Choc Croissant - a delightful fresh baked, oven warm pastry with nutty - nougat - chocolate spread filling. \r\n\r\n\r\n\r\nPhoto by inspiredtaste.net",
+    "id": 100688,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/100688\/JBZDQbF.jpg",
+    "updated_at": "2020-12-11T22:44:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "zylonality",
+    "views": "1307",
+    "created_at": "2018-05-12",
+    "slug": "deli_choc_croissant",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/100688.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0"
 }

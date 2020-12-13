@@ -1,69 +1,71 @@
 {
-  "name": "brazilian bananas",
-  "description": "A few weeks ago some friends and I went out to a brazilian steak house to celebrate me winning a BJJ tournament and one thing they bring is fried banana to the table. They are incredible, sweet, creamy, buttery, but not overwhelming. I knew I had to recreate this in a vape. Super simple and super easy.\r\nGood to SnV but better with 3 days steep.\r\n\r\n\r\nIf you don't have HS caramel you can use FLV in place, or FA. If using FA adding in .25-.5% FLV butterscotch helps creating a creamy, buttery caramel.",
-  "id": 14507,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14507/Fried_Banana_ATF.jpg",
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banò (banana)",
-      "flavor_id": "501",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "2120",
-      "millipercent": 1250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": null,
-      "flavor_id": "null",
-      "millipercent": 0,
-      "vendor": null
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 100,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Trevorxgage",
-  "views": "3172",
-  "slug": "brazilian_bananas",
-  "total_flavoring": "6.6%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "brazilian bananas",
+    "description": "A few weeks ago some friends and I went out to a brazilian steak house to celebrate me winning a BJJ tournament and one thing they bring is fried banana to the table. They are incredible, sweet, creamy, buttery, but not overwhelming. I knew I had to recreate this in a vape. Super simple and super easy.\r\nGood to SnV but better with 3 days steep.\r\n\r\n\r\nIf you don't have HS caramel you can use FLV in place, or FA. If using FA adding in .25-.5% FLV butterscotch helps creating a creamy, buttery caramel.",
+    "id": 14507,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14507\/Fried_Banana_ATF.jpg",
+    "updated_at": "2020-12-12T14:04:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ban\u00f2 (banana)",
+            "flavor_id": "501",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "2120",
+            "millipercent": 1250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": null,
+            "flavor_id": "",
+            "millipercent": 0,
+            "vendor": null
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 100,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Trevorxgage",
+    "views": "3183",
+    "created_at": "2016-09-26",
+    "slug": "brazilian_bananas",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14507.jpg",
+    "total_flavoring": "6.6%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

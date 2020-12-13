@@ -1,50 +1,50 @@
 {
-  "name": "Peanut Butter Cookie",
-  "description": "A simple but accurate representation of a classic peanut butter cookie.",
-  "id": 167001,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/167001/peanut-butter-cookies-horiz-a-1800-768x512.jpg",
-  "updated_at": "2020-12-07T17:35:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "robolto78",
-  "views": "1072",
-  "slug": "peanut_butter_cookie",
-  "total_flavoring": "7.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peanut Butter Cookie",
+    "description": "A simple but accurate representation of a classic peanut butter cookie.",
+    "id": 167001,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/167001\/peanut-butter-cookies-horiz-a-1800-768x512.jpg",
+    "updated_at": "2020-12-12T00:42:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "robolto78",
+    "views": "1082",
+    "created_at": "2019-09-17",
+    "slug": "peanut_butter_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/167001.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Fig Walnut Ice Cream",
-  "description": "Rich vanilla ice cream with sweet fresh figs and earthy walnuts.",
-  "id": 54865,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54865/Anjeerwalnut1PS-_1-of-6_.jpg",
-  "updated_at": "2020-12-02T17:04:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fig Fresh",
-      "flavor_id": "518",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "536",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pistacchio (Pistachio)",
-      "flavor_id": "439",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 2000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1300,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "bqbdm8",
-  "views": "903",
-  "slug": "fig_walnut_ice_cream",
-  "total_flavoring": "15.3%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fig Walnut Ice Cream",
+    "description": "Rich vanilla ice cream with sweet fresh figs and earthy walnuts.",
+    "id": 54865,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54865\/Anjeerwalnut1PS-_1-of-6_.jpg",
+    "updated_at": "2020-12-10T17:56:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fig Fresh",
+            "flavor_id": "518",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "536",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pistacchio (Pistachio)",
+            "flavor_id": "439",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 2000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1300,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "bqbdm8",
+    "views": "908",
+    "created_at": "2017-07-09",
+    "slug": "fig_walnut_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54865.jpg",
+    "total_flavoring": "15.3%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

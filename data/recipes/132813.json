@@ -1,44 +1,43 @@
 {
-  "name": "Sour Strawberry Laces",
-  "description": "Another of my roommate's favorites that I also LOVE. Not sure where he got it but he said he got it online. ",
-  "id": 132813,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:35:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 6000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ClouDude",
-  "views": "2004",
-  "slug": "sour_strawberry_laces",
-  "total_flavoring": "13.5%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sour Strawberry Laces",
+    "description": "Another of my roommate's favorites that I also LOVE. Not sure where he got it but he said he got it online. ",
+    "id": 132813,
+    "image_url": null,
+    "updated_at": "2020-12-12T06:59:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 6000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ClouDude",
+    "views": "2013",
+    "created_at": "2018-12-29",
+    "slug": "sour_strawberry_laces",
+    "total_flavoring": "13.5%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,69 +1,70 @@
 {
-  "name": "Apple Cinnamon Muffin",
-  "description": "fairly close attempt at a remix of  popular eliquid, apple cinn muffin is the profile.  Similar recipes out there but i made my own adjustments and this version tastes the best to me, of course taste is subjective.  Let this sit for a good week and the apple cereal cardboard taste will fade away to pure deliciousness",
-  "id": 24293,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 3200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Jacks Type",
-      "flavor_id": "1179",
-      "millipercent": 4800,
-      "vendor": "FW"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "8",
-      "millipercent": 3200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 800,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "CloudChef",
-  "views": "1638",
-  "slug": "apple_cinnamon_muffin",
-  "total_flavoring": "16.6%",
-  "steep_days": "3",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "H3ly",
-      "score": "5",
-      "text": "Just recently decided to get back in to mixing after I found out there's a magnetic mixer on the market that doesn't cost hundreds of dollars, and also had these flavors around that are now close to expiring soon from a similar recipe (sans CAP Cinnamon Danish Swirl..Just Cinnamon Danish from when I found it)..&#xD;\n&#xD;\nMixed it up and tried a couple drops after a few hours...Already on point to the flavor I was expecting versus what I got originally when I tried the original 'shake, breathe, steep' method we've all been taught...&#xD;\n&#xD;\nJust have to try to get through 120ml of flavouring before they turn on me now..."
-    }
-  ]
+    "name": "Apple Cinnamon Muffin",
+    "description": "fairly close attempt at a remix of  popular eliquid, apple cinn muffin is the profile.  Similar recipes out there but i made my own adjustments and this version tastes the best to me, of course taste is subjective.  Let this sit for a good week and the apple cereal cardboard taste will fade away to pure deliciousness",
+    "id": 24293,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:10:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 3200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Jacks Type",
+            "flavor_id": "1179",
+            "millipercent": 4800,
+            "vendor": "FW"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "8",
+            "millipercent": 3200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 800,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "CloudChef",
+    "views": "1646",
+    "created_at": "2016-12-27",
+    "slug": "apple_cinnamon_muffin",
+    "total_flavoring": "16.6%",
+    "steep_days": "3",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "H3ly",
+            "score": 5,
+            "text": "Just recently decided to get back in to mixing after I found out there's a magnetic mixer on the market that doesn't cost hundreds of dollars, and also had these flavors around that are now close to expiring soon from a similar recipe (sans CAP Cinnamon Danish Swirl..Just Cinnamon Danish from when I found it)..&#xD;\n&#xD;\nMixed it up and tried a couple drops after a few hours...Already on point to the flavor I was expecting versus what I got originally when I tried the original 'shake, breathe, steep' method we've all been taught...&#xD;\n&#xD;\nJust have to try to get through 120ml of flavouring before they turn on me now..."
+        }
+    ]
 }

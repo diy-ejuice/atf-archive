@@ -1,44 +1,44 @@
 {
-  "name": "Blue Cream",
-  "description": "Smells amazing after a 2 week steep. Friend of mine keeps asking for more, so i figured id share. \r\n\r\nI add .25%-.50% Cap Super Sweet.",
-  "id": 93267,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/93267/blue.jpg",
-  "updated_at": "2020-12-08T00:50:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Mathematical",
-  "views": "1779",
-  "slug": "blue_cream",
-  "total_flavoring": "11.5%",
-  "steep_days": "12",
-  "best_vg": "69%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Cream",
+    "description": "Smells amazing after a 2 week steep. Friend of mine keeps asking for more, so i figured id share. \r\n\r\nI add .25%-.50% Cap Super Sweet.",
+    "id": 93267,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/93267\/blue.jpg",
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Mathematical",
+    "views": "1790",
+    "created_at": "2018-03-20",
+    "slug": "blue_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/93267.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "12",
+    "best_vg": "69%",
+    "temperature": "420"
 }

@@ -1,86 +1,88 @@
 {
-  "name": "Devil Donuts",
-  "description": "Give in to temptation! You won't be able to resist these caramel and apple glazed cinnamon donuts topped with toasted almonds! It's not only the temptation you won't be able to resist, it is the joy of never being able to give in to this sinful joy! \r\n*NOTE: This recipe is in concept stage and while this is in \"concept\" stage presently I will update you on how this steeps. While some educated choices of flavoring have been made in this recipe I can't guarantee the devil wont spike you with a pitchfork yet lol. I will update with further notes over coming days and keep you all updated. Thank you for joining me on the Devil's side of this journey! Bwahahaha!!  \r\n(This for the DIY MIXERS CHALLENGE)\r\nMixed live on my you tube channel: https://www.youtube.com/watch?v=n-Lcn7u47M0\r\nAfter the shake this recipe is exactly what I was hoping for (dreaming in hope lol). After just one day and much dripping this is an addictive temptation that brings all the baked apple notes with the right balance of caramel and cinnamon. I expect after a few more days the textual elements such as the gooyness and sweet donut breadiness will become more prominent. This could be my best public recipe yet it seems! Enjoy! :) ",
-  "id": 75479,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75479/dEVIL_DONUTS.jpg",
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "DIYDownunderPippa",
-  "views": "3382",
-  "slug": "devil_donuts",
-  "total_flavoring": "14.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "jlhenry",
-      "score": "5",
-      "text": "Mixed on June 14, tested June 22, I love the this juice. We have a bakery that sells a spiced apple donut. It is a yeast donut filled with apple cinnamon pie like filling  and rolled in cinnamon sugar. I feel this vape taste exactly like the donut we get from the bakery. If you like apple filled donuts mix this up you will not be disappointed. "
-    },
-    {
-      "user": "KylezKloudz",
-      "score": "5",
-      "text": "Mixed it up last night for the wife and I... Both agree it's got great flavor right off the rip... Day 2 now and it's nice and balanced with apples, caramel, and donut... Going out on a limb, but figure this is just gonna keep getting better with time so I'm gonna rate it now... Great job! 👍👍 Perfect fall time recipe!"
-    }
-  ]
+    "name": "Devil Donuts",
+    "description": "Give in to temptation! You won't be able to resist these caramel and apple glazed cinnamon donuts topped with toasted almonds! It's not only the temptation you won't be able to resist, it is the joy of never being able to give in to this sinful joy! \r\n*NOTE: This recipe is in concept stage and while this is in \"concept\" stage presently I will update you on how this steeps. While some educated choices of flavoring have been made in this recipe I can't guarantee the devil wont spike you with a pitchfork yet lol. I will update with further notes over coming days and keep you all updated. Thank you for joining me on the Devil's side of this journey! Bwahahaha!!  \r\n(This for the DIY MIXERS CHALLENGE)\r\nMixed live on my you tube channel: https:\/\/www.youtube.com\/watch?v=n-Lcn7u47M0\r\nAfter the shake this recipe is exactly what I was hoping for (dreaming in hope lol). After just one day and much dripping this is an addictive temptation that brings all the baked apple notes with the right balance of caramel and cinnamon. I expect after a few more days the textual elements such as the gooyness and sweet donut breadiness will become more prominent. This could be my best public recipe yet it seems! Enjoy! :) ",
+    "id": 75479,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75479\/dEVIL_DONUTS.jpg",
+    "updated_at": "2020-12-12T15:39:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "DIYDownunderPippa",
+    "views": "3391",
+    "created_at": "2017-11-22",
+    "slug": "devil_donuts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75479.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "jlhenry",
+            "score": 5,
+            "text": "Mixed on June 14, tested June 22, I love the this juice. We have a bakery that sells a spiced apple donut. It is a yeast donut filled with apple cinnamon pie like filling  and rolled in cinnamon sugar. I feel this vape taste exactly like the donut we get from the bakery. If you like apple filled donuts mix this up you will not be disappointed. "
+        },
+        {
+            "user": "KylezKloudz",
+            "score": 5,
+            "text": "Mixed it up last night for the wife and I... Both agree it's got great flavor right off the rip... Day 2 now and it's nice and balanced with apples, caramel, and donut... Going out on a limb, but figure this is just gonna keep getting better with time so I'm gonna rate it now... Great job! \ud83d\udc4d\ud83d\udc4d Perfect fall time recipe!"
+        }
+    ]
 }

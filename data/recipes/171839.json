@@ -1,63 +1,65 @@
 {
-  "name": "Mocha Mulatto ",
-  "description": "A simple rich and creamy White Chocolate Mocha.   \r\nHAPPY MIXING, & HAPPY VAPING!!! :)",
-  "id": 171839,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/171839/20191024_015130-01.jpeg",
-  "updated_at": "2020-12-08T00:51:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow Vanilla",
-      "flavor_id": "10092",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Toffee",
-      "flavor_id": "4425",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "4444",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "soulchkn",
-  "views": "804",
-  "slug": "mocha_mulatto",
-  "total_flavoring": "5.3%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "MaschelleMEcfs",
-      "score": "4",
-      "text": "I mixed this up and waited for that semisweet chocolate flavor to pop, and it didn't for me.  Maybe a \"Mulato\" is supposed to be less darker chocolate forward?  If so, this could be exactly what the mixer had in mind.  I also wonder if this was created for the vaper that uses the drip method?  I have a tank.  All 3 versions of the Falcon.  I prefer recipes that do well in my tank.  If you like a gentle \"white\" vape.. here you go!  no off notes yet no chocolate coffee notes either. "
-    }
-  ]
+    "name": "Mocha Mulatto ",
+    "description": "A simple rich and creamy White Chocolate Mocha.   \r\nHAPPY MIXING, & HAPPY VAPING!!! :)",
+    "id": 171839,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/171839\/20191024_015130-01.jpeg",
+    "updated_at": "2020-12-12T14:07:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow Vanilla",
+            "flavor_id": "10092",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Toffee",
+            "flavor_id": "4425",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "4444",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "soulchkn",
+    "views": "812",
+    "created_at": "2019-10-24",
+    "slug": "mocha_mulatto",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/171839.jpeg",
+    "total_flavoring": "5.3%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "MaschelleMEcfs",
+            "score": 4,
+            "text": "I mixed this up and waited for that semisweet chocolate flavor to pop, and it didn't for me.  Maybe a \"Mulato\" is supposed to be less darker chocolate forward?  If so, this could be exactly what the mixer had in mind.  I also wonder if this was created for the vaper that uses the drip method?  I have a tank.  All 3 versions of the Falcon.  I prefer recipes that do well in my tank.  If you like a gentle \"white\" vape.. here you go!  no off notes yet no chocolate coffee notes either. "
+        }
+    ]
 }

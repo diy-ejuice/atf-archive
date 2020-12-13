@@ -1,68 +1,67 @@
 {
-  "name": "Starlight",
-  "description": "My best recipe by far. Strawberry cream, very smooth. Needs 7 days to be good. 14 days will be magnificent.",
-  "id": 70585,
-  "image_url": null,
-  "updated_at": "2020-12-07T14:12:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Tahity",
-      "flavor_id": "555",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "cexshun",
-  "views": "860",
-  "slug": "starlight",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Starlight",
+    "description": "My best recipe by far. Strawberry cream, very smooth. Needs 7 days to be good. 14 days will be magnificent.",
+    "id": 70585,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:55:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Tahity",
+            "flavor_id": "555",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "cexshun",
+    "views": "864",
+    "created_at": "2017-10-26",
+    "slug": "starlight",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

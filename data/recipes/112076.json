@@ -1,50 +1,50 @@
 {
-  "name": "The Crown",
-  "description": "A fairly light yet rich coconut brownie. The RF Brownie and blend of FA and JF coconut combine to be present but not overpowering. \r\nA slight bit of Vanilla Swirl and a dollop of Sweet Cream add a little natural sweetness and a smooth mouthfeel.",
-  "id": 112076,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112076/Fudgy-Brownies-with-Coconut-Frosting-2-words.png",
-  "updated_at": "2020-12-07T15:21:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut",
-      "flavor_id": "7255",
-      "millipercent": 1250,
-      "vendor": "JF"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brownie – SC",
-      "flavor_id": "7464",
-      "millipercent": 2750,
-      "vendor": "RF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Fukktard",
-  "views": "929",
-  "slug": "the_crown",
-  "total_flavoring": "6.0%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Crown",
+    "description": "A fairly light yet rich coconut brownie. The RF Brownie and blend of FA and JF coconut combine to be present but not overpowering. \r\nA slight bit of Vanilla Swirl and a dollop of Sweet Cream add a little natural sweetness and a smooth mouthfeel.",
+    "id": 112076,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112076\/Fudgy-Brownies-with-Coconut-Frosting-2-words.png",
+    "updated_at": "2020-12-11T01:35:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut",
+            "flavor_id": "7255",
+            "millipercent": 1250,
+            "vendor": "JF"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brownie \u2013 SC",
+            "flavor_id": "7464",
+            "millipercent": 2750,
+            "vendor": "RF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Fukktard",
+    "views": "937",
+    "created_at": "2018-07-26",
+    "slug": "the_crown",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112076.png",
+    "total_flavoring": "6.0%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0"
 }

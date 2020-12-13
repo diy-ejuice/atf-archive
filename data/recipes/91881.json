@@ -1,68 +1,70 @@
 {
-  "name": "Iced Cherry Blossom",
-  "description": "A spin on the Japanese Sakura ice cream with a hint of honey. FLV added to give a little more of the floral note. If you don't want the floral, you can take it out and increase TPA up about .5% for the deeper sweeter, less floral cherry blossom. ",
-  "id": 91881,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/91881/Blossom.jpg",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 350,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cherry Blossom (pg)",
-      "flavor_id": "221",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherry Blossom",
-      "flavor_id": "8553",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1812",
-  "slug": "iced_cherry_blossom",
-  "total_flavoring": "8.1%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "400",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Cruisett3",
-      "score": "5",
-      "text": "This is absolutely fantastic! Everything blends together so nicely into a delicious ADV for me. (Note: Swapped TPA VBIC for LB VIC because I'm a pepper taster.) "
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "Delicious as fuck. A perfect all day vape with a nice sweet floral top note. The honey here actually works really well and I'm truly surprised how much I enjoy this simple ice cream base."
-    }
-  ]
+    "name": "Iced Cherry Blossom",
+    "description": "A spin on the Japanese Sakura ice cream with a hint of honey. FLV added to give a little more of the floral note. If you don't want the floral, you can take it out and increase TPA up about .5% for the deeper sweeter, less floral cherry blossom. ",
+    "id": 91881,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/91881\/Blossom.jpg",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 350,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cherry Blossom (pg)",
+            "flavor_id": "221",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherry Blossom",
+            "flavor_id": "8553",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1822",
+    "created_at": "2018-03-10",
+    "slug": "iced_cherry_blossom",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/91881.jpg",
+    "total_flavoring": "8.1%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "400",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Cruisett3",
+            "score": 5,
+            "text": "This is absolutely fantastic! Everything blends together so nicely into a delicious ADV for me. (Note: Swapped TPA VBIC for LB VIC because I'm a pepper taster.) "
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "Delicious as fuck. A perfect all day vape with a nice sweet floral top note. The honey here actually works really well and I'm truly surprised how much I enjoy this simple ice cream base."
+        }
+    ]
 }

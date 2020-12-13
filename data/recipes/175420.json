@@ -1,57 +1,59 @@
 {
-  "name": "Lumi - Puddings and Things - EP#88",
-  "description": "Blah, blah, blah. blah, blah, blah, something about flavorings...it tastes good. Lumi doesn't do descriptions. ",
-  "id": 175420,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/175420/berry_custard_pic.png",
-  "updated_at": "2020-12-08T00:51:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Boysenberry Raspberry SC",
-      "flavor_id": "10255",
-      "millipercent": 190,
-      "vendor": "WF"
-    },
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 1920,
-      "vendor": "WF"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 90,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2870,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Berry Cobbler ala Mode",
-      "flavor_id": "8499",
-      "millipercent": 1720,
-      "vendor": "FW"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "765",
-  "slug": "lumi_puddings_and_things_ep88",
-  "total_flavoring": "6.79%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "rougeislander401",
-      "score": "4",
-      "text": "Mixed this and let it steep for 5 days then started immediately sqounking it in my asgard mini, good work even with that whacked out percentages its balanced quite well. Personally I may try and raise the inw raspberry just a smidge if I remix this"
-    }
-  ]
+    "name": "Lumi - Puddings and Things - EP#88",
+    "description": "Blah, blah, blah. blah, blah, blah, something about flavorings...it tastes good. Lumi doesn't do descriptions. ",
+    "id": 175420,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/175420\/berry_custard_pic.png",
+    "updated_at": "2020-12-12T17:12:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Boysenberry Raspberry SC",
+            "flavor_id": "10255",
+            "millipercent": 190,
+            "vendor": "WF"
+        },
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 1920,
+            "vendor": "WF"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 90,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2870,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Berry Cobbler ala Mode",
+            "flavor_id": "8499",
+            "millipercent": 1720,
+            "vendor": "FW"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "777",
+    "created_at": "2019-11-23",
+    "slug": "lumi_puddings_and_things_ep88",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/175420.png",
+    "total_flavoring": "6.79%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "rougeislander401",
+            "score": 4,
+            "text": "Mixed this and let it steep for 5 days then started immediately sqounking it in my asgard mini, good work even with that whacked out percentages its balanced quite well. Personally I may try and raise the inw raspberry just a smidge if I remix this"
+        }
+    ]
 }

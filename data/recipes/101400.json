@@ -1,62 +1,62 @@
 {
-  "name": "A Better World",
-  "description": "Sometimes life doesn't go the way you planned... \r\nbut remember the unicorn puke at the end of the rainbow sherbet\r\nlooming in the distance.. \r\nA BETTER WORLD.\r\n\r\n",
-  "id": 101400,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101400/jam_.jpg",
-  "updated_at": "2020-12-07T03:31:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Madagascar Bourbon Vanilla Flavor",
-      "flavor_id": "4193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "method1",
-  "views": "3088",
-  "slug": "a_better_world",
-  "total_flavoring": "11.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "A Better World",
+    "description": "Sometimes life doesn't go the way you planned... \r\nbut remember the unicorn puke at the end of the rainbow sherbet\r\nlooming in the distance.. \r\nA BETTER WORLD.\r\n\r\n",
+    "id": 101400,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101400\/jam_.jpg",
+    "updated_at": "2020-12-10T13:45:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Madagascar Bourbon Vanilla Flavor",
+            "flavor_id": "4193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "method1",
+    "views": "3096",
+    "created_at": "2018-05-16",
+    "slug": "a_better_world",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101400.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

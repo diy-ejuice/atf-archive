@@ -1,68 +1,68 @@
 {
-  "name": "Blue Muff",
-  "description": "Somewhere between a blueberry muffin and a blueberry scone. Its still a work in progress. ",
-  "id": 89052,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89052/scone.jpeg",
-  "updated_at": "2020-12-06T14:07:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon Cake",
-      "flavor_id": "661",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "chucknasty",
-  "views": "1164",
-  "slug": "blue_muff",
-  "total_flavoring": "12.2%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Muff",
+    "description": "Somewhere between a blueberry muffin and a blueberry scone. Its still a work in progress. ",
+    "id": 89052,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/89052\/scone.jpeg",
+    "updated_at": "2020-12-10T17:57:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon Cake",
+            "flavor_id": "661",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "chucknasty",
+    "views": "1171",
+    "created_at": "2018-02-18",
+    "slug": "blue_muff",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/89052.jpeg",
+    "total_flavoring": "12.2%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

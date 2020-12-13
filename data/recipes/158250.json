@@ -1,69 +1,71 @@
 {
-  "name": "Peach Cream Pie",
-  "description": "Profile: Peach Cream Pie\r\n\r\nNotes:\r\nWorked a bit on this for a while, trying to balance the peaches.\r\nProblem with WF Peach Pie & Cream is, that it's really just peach & cream - no pie! So to construct a light pie, I used 1% AP, 1% FA Apple Pie and a little INW Biscuit for some texture.\r\nFLV Cream at 0.75% are there to boost the creaminess.\r\nI felt JF Honey Peach would work well with WF Peach Pie & Cream to add some sweetness to the mix.\r\nFA Custard Prem is used here as a filler for the pie itself.\r\n\r\nBest after steeping a week.\r\n\r\nEnjoy!",
-  "id": 158250,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158250/Peach-and-Cream-1.jpg",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Peach Pie & Cream",
-      "flavor_id": "6058",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "1320",
-  "slug": "peach_cream_pie",
-  "total_flavoring": "9.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TheJuiceJackBuilt",
-      "score": "5",
-      "text": "Kitty knocks it out of the park again with this banger! Lovely bold inhale of baked peach pie refreshing creamy peach on the exhale. WD Mr claws, nailed this profile a treat! "
-    }
-  ]
+    "name": "Peach Cream Pie",
+    "description": "Profile: Peach Cream Pie\r\n\r\nNotes:\r\nWorked a bit on this for a while, trying to balance the peaches.\r\nProblem with WF Peach Pie & Cream is, that it's really just peach & cream - no pie! So to construct a light pie, I used 1% AP, 1% FA Apple Pie and a little INW Biscuit for some texture.\r\nFLV Cream at 0.75% are there to boost the creaminess.\r\nI felt JF Honey Peach would work well with WF Peach Pie & Cream to add some sweetness to the mix.\r\nFA Custard Prem is used here as a filler for the pie itself.\r\n\r\nBest after steeping a week.\r\n\r\nEnjoy!",
+    "id": 158250,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/158250\/Peach-and-Cream-1.jpg",
+    "updated_at": "2020-12-12T20:31:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Peach Pie & Cream",
+            "flavor_id": "6058",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1325",
+    "created_at": "2019-07-06",
+    "slug": "peach_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/158250.jpg",
+    "total_flavoring": "9.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TheJuiceJackBuilt",
+            "score": 5,
+            "text": "Kitty knocks it out of the park again with this banger! Lovely bold inhale of baked peach pie refreshing creamy peach on the exhale. WD Mr claws, nailed this profile a treat! "
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Cream filled Maple Bar",
-  "description": "If you like Maple flavours i guess you have a sympathy for this cream filled maple bar.\r\nWork in Progress!",
-  "id": 139231,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/139231/IMG_3167.jpg",
-  "updated_at": "2020-12-06T20:44:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Maple Bar",
-      "flavor_id": "4378",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Smoked Butterscotch",
-      "flavor_id": "8569",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Dough",
-      "flavor_id": "4406",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 400,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "zylonality",
-  "views": "1108",
-  "slug": "cream_filled_maple_bar",
-  "total_flavoring": "4.5%",
-  "steep_days": "3",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cream filled Maple Bar",
+    "description": "If you like Maple flavours i guess you have a sympathy for this cream filled maple bar.\r\nWork in Progress!",
+    "id": 139231,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/139231\/IMG_3167.jpg",
+    "updated_at": "2020-12-10T16:01:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Maple Bar",
+            "flavor_id": "4378",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Smoked Butterscotch",
+            "flavor_id": "8569",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Dough",
+            "flavor_id": "4406",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 400,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "zylonality",
+    "views": "1116",
+    "created_at": "2019-02-15",
+    "slug": "cream_filled_maple_bar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/139231.jpg",
+    "total_flavoring": "4.5%",
+    "steep_days": "3",
+    "best_vg": "80%",
+    "temperature": "0"
 }

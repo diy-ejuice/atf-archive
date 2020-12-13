@@ -1,57 +1,59 @@
 {
-  "name": "MILK OF THE PEBZ",
-  "description": "The left over milk after a nice bowl of fruity pebs. I think 1% fruity flakes is as high as I will go. Much more and I get straight lemon cereal. Hope you all enjoy!",
-  "id": 130848,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130848/05A17A4E-BF87-444B-A13B-E8D91CF2D1C5.jpeg",
-  "updated_at": "2020-12-08T00:50:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fruity Flakes",
-      "flavor_id": "1286",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1324",
-  "slug": "milk_of_the_pebz",
-  "total_flavoring": "7.0%",
-  "steep_days": "7",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "4",
-      "text": "I think everyone over uses FW fruity flakes. 1‰ is just right to me. Nice recipe, i added a tiny bit off tfa sweetener one drop per 5mls "
-    }
-  ]
+    "name": "MILK OF THE PEBZ",
+    "description": "The left over milk after a nice bowl of fruity pebs. I think 1% fruity flakes is as high as I will go. Much more and I get straight lemon cereal. Hope you all enjoy!",
+    "id": 130848,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130848\/05A17A4E-BF87-444B-A13B-E8D91CF2D1C5.jpeg",
+    "updated_at": "2020-12-12T18:30:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fruity Flakes",
+            "flavor_id": "1286",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1331",
+    "created_at": "2018-12-10",
+    "slug": "milk_of_the_pebz",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130848.jpeg",
+    "total_flavoring": "7.0%",
+    "steep_days": "7",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 4,
+            "text": "I think everyone over uses FW fruity flakes. 1\u2030 is just right to me. Nice recipe, i added a tiny bit off tfa sweetener one drop per 5mls "
+        }
+    ]
 }

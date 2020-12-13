@@ -1,50 +1,50 @@
 {
-  "name": "DENIAL",
-  "description": "A chocolate cheesecake with Oreo crust.  As always, sweeten to taste.",
-  "id": 169841,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/169841/triple-chocolate-cheesecake5-600x900.jpg",
-  "updated_at": "2020-12-05T19:51:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "2251",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Chocolate Mousse",
-      "flavor_id": "9371",
-      "millipercent": 2500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1063",
-  "slug": "denial",
-  "total_flavoring": "11.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "DENIAL",
+    "description": "A chocolate cheesecake with Oreo crust.  As always, sweeten to taste.",
+    "id": 169841,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/169841\/triple-chocolate-cheesecake5-600x900.jpg",
+    "updated_at": "2020-12-10T14:53:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "2251",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Chocolate Mousse",
+            "flavor_id": "9371",
+            "millipercent": 2500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1070",
+    "created_at": "2019-10-10",
+    "slug": "denial",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/169841.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

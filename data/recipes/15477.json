@@ -1,62 +1,62 @@
 {
-  "name": "Mango Lassi",
-  "description": "A Mango Lassi that I have been working on. Based on a recipe from reddit that I have adjusted flavoring on and added FA Cardamom! 1 drop per 15ml. Add more to your liking. ",
-  "id": 15477,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15477/Mango_Lassi.jpg",
-  "updated_at": "2020-12-07T19:14:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "664",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "66",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cardamom",
-      "flavor_id": "498",
-      "millipercent": 300,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MrZigglesworth",
-  "views": "2086",
-  "slug": "mango_lassi",
-  "total_flavoring": "13.3%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Lassi",
+    "description": "A Mango Lassi that I have been working on. Based on a recipe from reddit that I have adjusted flavoring on and added FA Cardamom! 1 drop per 15ml. Add more to your liking. ",
+    "id": 15477,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15477\/Mango_Lassi.jpg",
+    "updated_at": "2020-12-10T13:44:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "664",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "66",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cardamom",
+            "flavor_id": "498",
+            "millipercent": 300,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MrZigglesworth",
+    "views": "2093",
+    "created_at": "2016-10-06",
+    "slug": "mango_lassi",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15477.jpg",
+    "total_flavoring": "13.3%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

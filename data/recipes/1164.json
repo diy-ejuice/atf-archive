@@ -1,59 +1,60 @@
 {
-  "name": "Mustard Milk",
-  "description": "Strawberries and cream by fizzmustard.\r\n\r\nhttp://www.reddit.com/r/DIY_eJuice/comments/33ns4t/mustard_milk_or_strawberries_and_cream_the/",
-  "id": 1164,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Queuetue",
-  "views": "24248",
-  "slug": "mustard_milk",
-  "total_flavoring": "14.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "HerrHut",
-      "score": "4",
-      "text": "Very simple and nice starter recipe.  After ~2 weeks steeping a little to thick for my taste."
-    },
-    {
-      "user": "Boogenshizzle",
-      "score": "1",
-      "text": "Vbic overpowers the strawberry on the long steep. Unbalanced. "
-    },
-    {
-      "user": "RegularLunchBox",
-      "score": "5",
-      "text": "Quick and good. Even better with .5% sweetener imo."
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is my go-to recipe recommendation for convincing people who are considering starting or just starting out with DIY that they can make juice just as good -- no, better! -- than what they're paying way too much for at B&amp;M's and online. Thanks for reposting it here, Q! "
-    },
-    {
-      "user": "TekkNinja",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Mustard Milk",
+    "description": "Strawberries and cream by fizzmustard.\r\n\r\nhttp:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/33ns4t\/mustard_milk_or_strawberries_and_cream_the\/",
+    "id": 1164,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Queuetue",
+    "views": "24290",
+    "created_at": "2016-03-28",
+    "slug": "mustard_milk",
+    "total_flavoring": "14.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "HerrHut",
+            "score": 4,
+            "text": "Very simple and nice starter recipe.  After ~2 weeks steeping a little to thick for my taste."
+        },
+        {
+            "user": "Boogenshizzle",
+            "score": 1,
+            "text": "Vbic overpowers the strawberry on the long steep. Unbalanced. "
+        },
+        {
+            "user": "RegularLunchBox",
+            "score": 5,
+            "text": "Quick and good. Even better with .5% sweetener imo."
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is my go-to recipe recommendation for convincing people who are considering starting or just starting out with DIY that they can make juice just as good -- no, better! -- than what they're paying way too much for at B&amp;M's and online. Thanks for reposting it here, Q! "
+        },
+        {
+            "user": "TekkNinja",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

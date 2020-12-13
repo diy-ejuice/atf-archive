@@ -1,63 +1,65 @@
 {
-  "name": "another awesome straw milk",
-  "description": "I didn't get the first awesome box so i made something out of the ingredients i had on me and i think it turned out pretty well.\r\nIt might not be something groundbreaking new,but for sure it's tasty as hell.\r\nFor those who don't know the flavors:\r\nJF Strawberry sweet - a sweet,almost syrup like strawberry\r\nTPA Vanilla Swirl - I want vanilla in my Strawberry milk and Vanilla Swirl does a great job in infusing some vanilla notes combined with creaminess\r\nFA Vienna Cream/Meringue - My number one combo for a sweet Milk taste.those 2 together can't be beaten imo\r\nFW Hazelnut - You won't taste Hazelnut but you get a more malty taste from the Milk\r\nJF Biscuit - It adds some body,some thickness and buttery qualities to the whole mix",
-  "id": 33148,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33148/ap_370x410_16x12_1_f8f8f8_t-pad_420x460_f8f8f8.u1.jpg",
-  "updated_at": "2020-12-08T00:49:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 3500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 250,
-      "vendor": "JF"
-    }
-  ],
-  "author": "Demonic_Mixer",
-  "views": "3318",
-  "slug": "another_awesome_straw_milk",
-  "total_flavoring": "10.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ChefJohn",
-      "score": "4",
-      "text": "I was pleasantly surprised  by this recipe. &#xD;\nIt's a nice and easy s&amp;c. "
-    }
-  ]
+    "name": "another awesome straw milk",
+    "description": "I didn't get the first awesome box so i made something out of the ingredients i had on me and i think it turned out pretty well.\r\nIt might not be something groundbreaking new,but for sure it's tasty as hell.\r\nFor those who don't know the flavors:\r\nJF Strawberry sweet - a sweet,almost syrup like strawberry\r\nTPA Vanilla Swirl - I want vanilla in my Strawberry milk and Vanilla Swirl does a great job in infusing some vanilla notes combined with creaminess\r\nFA Vienna Cream\/Meringue - My number one combo for a sweet Milk taste.those 2 together can't be beaten imo\r\nFW Hazelnut - You won't taste Hazelnut but you get a more malty taste from the Milk\r\nJF Biscuit - It adds some body,some thickness and buttery qualities to the whole mix",
+    "id": 33148,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/33148\/ap_370x410_16x12_1_f8f8f8_t-pad_420x460_f8f8f8.u1.jpg",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 3500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 250,
+            "vendor": "JF"
+        }
+    ],
+    "author": "Demonic_Mixer",
+    "views": "3327",
+    "created_at": "2017-02-21",
+    "slug": "another_awesome_straw_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/33148.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ChefJohn",
+            "score": 4,
+            "text": "I was pleasantly surprised  by this recipe. &#xD;\nIt's a nice and easy s&amp;c. "
+        }
+    ]
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Harvest Cream",
-  "description": "Spent months experimenting to find the perfect compliment to Harvest Berry.  It's one of my favorite flavors and this is what I'm sticking with.  Fresh berries drenched in rich sweet ice cream with a light coating of powdered sugar.   Feel free to use TFA Strawberry Ripe, I just can't taste it.  % May need to be higher, based only on what I've read.  It's fine without sweetener but I find just a tad balances the cream/fruit sweetnesses that I coudln't get by increasing my fruit %s.  Pretty good shake and vape, but the harvest berry is too dominant until about 2-3 days in, and all is right with the world.",
-  "id": 16636,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16636/berries-and-cream-940x600.jpg",
-  "updated_at": "2020-12-07T17:33:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "styx66",
-  "views": "2115",
-  "slug": "harvest_cream",
-  "total_flavoring": "12.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Harvest Cream",
+    "description": "Spent months experimenting to find the perfect compliment to Harvest Berry.  It's one of my favorite flavors and this is what I'm sticking with.  Fresh berries drenched in rich sweet ice cream with a light coating of powdered sugar.   Feel free to use TFA Strawberry Ripe, I just can't taste it.  % May need to be higher, based only on what I've read.  It's fine without sweetener but I find just a tad balances the cream\/fruit sweetnesses that I coudln't get by increasing my fruit %s.  Pretty good shake and vape, but the harvest berry is too dominant until about 2-3 days in, and all is right with the world.",
+    "id": 16636,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16636\/berries-and-cream-940x600.jpg",
+    "updated_at": "2020-12-12T01:40:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "styx66",
+    "views": "2126",
+    "created_at": "2016-10-17",
+    "slug": "harvest_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16636.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Chocolate Therapy",
-  "description": "Creamy chocolate milk or ice cream depending how you perceive it. Took Wayne's cuprian dropped the mint added double chocolate to help out and added a little something to the cream.  ",
-  "id": 17467,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17467/small-20161116-3399-aw48ps.jpg",
-  "updated_at": "2020-12-08T00:48:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 300,
-      "vendor": "HS"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Deejay_mills",
-  "views": "2379",
-  "slug": "chocolate_therapy",
-  "total_flavoring": "12.55%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "this mix is very tasty, I can't put it down and am bummed I only made a 10 ml."
-    }
-  ]
+    "name": "Chocolate Therapy",
+    "description": "Creamy chocolate milk or ice cream depending how you perceive it. Took Wayne's cuprian dropped the mint added double chocolate to help out and added a little something to the cream.  ",
+    "id": 17467,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/17467\/small-20161116-3399-aw48ps.jpg",
+    "updated_at": "2020-12-12T14:04:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 300,
+            "vendor": "HS"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Deejay_mills",
+    "views": "2389",
+    "created_at": "2016-10-24",
+    "slug": "chocolate_therapy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/17467.jpg",
+    "total_flavoring": "12.55%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "this mix is very tasty, I can't put it down and am bummed I only made a 10 ml."
+        }
+    ]
 }

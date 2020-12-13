@@ -1,62 +1,61 @@
 {
-  "name": "Lemon Glaze v3",
-  "description": "Trying to clone treat factory lemon glaze. 2nd attempt\r\n\r\nWhile my first attempt was tasty, it was off.\r\n\r\nCAP juicy lemon: 90% sure this is the right lemon\r\n\r\nTFA Meringue : This is what makes up the \"glaze\" I think this concentrate most closely resembles that glaze flavor I get in the original. \r\n\r\nTFA Marshmallow: Helps that glaze flavor. Sugary sweetness\r\n\r\nFA Custard: I don't know if there's any kind of custard element to this juice. But this helps add body and  helps bring out that slight vanilla flavor to the glaze\r\n\r\nCAP Super sweet: I've got this at 2% which is really high, but the commercial juice is SWEET. Omit if you don't like sweetener.\r\n\r\nV3 notes:\r\n\r\nAdded some FA meringue and cap sugar cookie. Theres a bakery element I think but its light and sweet. I think cap sug cookie could work. Going to give this for a spin and see if I'm closer\r\n\r\nIf the idea of lemon sugar goo sounds appealing to you give this a try. \r\n\r\n\r\nOff the shake this attempt seems closer to the original. Gonna let it steep and test along the way.\r\n\r\n",
-  "id": 124361,
-  "image_url": null,
-  "updated_at": "2020-12-07T20:32:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "julezz",
-  "views": "1050",
-  "slug": "lemon_glaze_v3",
-  "total_flavoring": "12.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Glaze v3",
+    "description": "Trying to clone treat factory lemon glaze. 2nd attempt\r\n\r\nWhile my first attempt was tasty, it was off.\r\n\r\nCAP juicy lemon: 90% sure this is the right lemon\r\n\r\nTFA Meringue : This is what makes up the \"glaze\" I think this concentrate most closely resembles that glaze flavor I get in the original. \r\n\r\nTFA Marshmallow: Helps that glaze flavor. Sugary sweetness\r\n\r\nFA Custard: I don't know if there's any kind of custard element to this juice. But this helps add body and  helps bring out that slight vanilla flavor to the glaze\r\n\r\nCAP Super sweet: I've got this at 2% which is really high, but the commercial juice is SWEET. Omit if you don't like sweetener.\r\n\r\nV3 notes:\r\n\r\nAdded some FA meringue and cap sugar cookie. Theres a bakery element I think but its light and sweet. I think cap sug cookie could work. Going to give this for a spin and see if I'm closer\r\n\r\nIf the idea of lemon sugar goo sounds appealing to you give this a try. \r\n\r\n\r\nOff the shake this attempt seems closer to the original. Gonna let it steep and test along the way.\r\n\r\n",
+    "id": 124361,
+    "image_url": null,
+    "updated_at": "2020-12-11T00:32:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "julezz",
+    "views": "1060",
+    "created_at": "2018-10-23",
+    "slug": "lemon_glaze_v3",
+    "total_flavoring": "12.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

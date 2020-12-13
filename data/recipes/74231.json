@@ -1,32 +1,32 @@
 {
-  "name": "Ribena Lemonade",
-  "description": "A nice back to basics shake and vape. It doesn't need sweetener, but a little WS-23 and/or Vape Train Fizzy Sherbet could be added to give this a nice extra few accents.",
-  "id": 74231,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/74231/small-20171201-24339-jogl46.jpg",
-  "updated_at": "2020-12-07T17:34:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade Clear",
-      "flavor_id": "8916",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Blackcurrant",
-      "flavor_id": "8962",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kemmo",
-  "views": "1998",
-  "slug": "ribena_lemonade",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ribena Lemonade",
+    "description": "A nice back to basics shake and vape. It doesn't need sweetener, but a little WS-23 and\/or Vape Train Fizzy Sherbet could be added to give this a nice extra few accents.",
+    "id": 74231,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/74231\/small-20171201-24339-jogl46.jpg",
+    "updated_at": "2020-12-12T01:40:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade Clear",
+            "flavor_id": "8916",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Blackcurrant",
+            "flavor_id": "8962",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kemmo",
+    "views": "2011",
+    "created_at": "2017-11-14",
+    "slug": "ribena_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/74231.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

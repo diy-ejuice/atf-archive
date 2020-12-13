@@ -1,74 +1,73 @@
 {
-  "name": "Crunchy banana cereal bar",
-  "description": "Its pretty good its pretty good its pretty good.its pretty good",
-  "id": 174351,
-  "image_url": null,
-  "updated_at": "2020-12-06T04:12:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "4369",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "783",
-  "slug": "crunchy_banana_cereal_bar",
-  "total_flavoring": "18.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Crunchy banana cereal bar",
+    "description": "Its pretty good its pretty good its pretty good.its pretty good",
+    "id": 174351,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:40:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "4369",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "792",
+    "created_at": "2019-11-13",
+    "slug": "crunchy_banana_cereal_bar",
+    "total_flavoring": "18.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

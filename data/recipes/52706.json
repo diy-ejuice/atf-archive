@@ -1,62 +1,61 @@
 {
-  "name": "Pink Vanilla Milk",
-  "description": "Old favourite of strawberry milk, testing out some new concentrates ",
-  "id": 52706,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:54:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Condensed Milk",
-      "flavor_id": "4095",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1430",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "2294",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Moonunit",
-  "views": "1137",
-  "slug": "pink_vanilla_milk",
-  "total_flavoring": "8.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pink Vanilla Milk",
+    "description": "Old favourite of strawberry milk, testing out some new concentrates ",
+    "id": 52706,
+    "image_url": null,
+    "updated_at": "2020-12-11T03:37:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Condensed Milk",
+            "flavor_id": "4095",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1430",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "2294",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Moonunit",
+    "views": "1143",
+    "created_at": "2017-06-26",
+    "slug": "pink_vanilla_milk",
+    "total_flavoring": "8.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

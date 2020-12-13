@@ -1,57 +1,59 @@
 {
-  "name": "Mint Milk",
-  "description": "Really wanted a shake-n-vape creamy menthol on this one. Ripped off Cheesecake Graham Crust from Skiddlz's God Milk but went with Cream Fresh and Marshmallow in place of the Bavarian Cream so that steeping would be less necessary. I really like the smooth mint flavor of the Natural Mint so I chose that over others.\r\nGreat 5 minutes after shaking and great 3 days later, haven't really let it sit longer than that. It's a light, creamy, cold mint that's an easy ADV for me.",
-  "id": 41362,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/41362/mintmilk.png",
-  "updated_at": "2020-12-08T00:49:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Natural Mint",
-      "flavor_id": "856",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Menthol Liquid (pg)",
-      "flavor_id": "281",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Rhinox04",
-  "views": "1600",
-  "slug": "mint_milk",
-  "total_flavoring": "4.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "Absolutely fantastic! It tastes so refreshing yet has some creamy depth- I'll definitely be making more! Thanks! "
-    }
-  ]
+    "name": "Mint Milk",
+    "description": "Really wanted a shake-n-vape creamy menthol on this one. Ripped off Cheesecake Graham Crust from Skiddlz's God Milk but went with Cream Fresh and Marshmallow in place of the Bavarian Cream so that steeping would be less necessary. I really like the smooth mint flavor of the Natural Mint so I chose that over others.\r\nGreat 5 minutes after shaking and great 3 days later, haven't really let it sit longer than that. It's a light, creamy, cold mint that's an easy ADV for me.",
+    "id": 41362,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/41362\/mintmilk.png",
+    "updated_at": "2020-12-12T11:50:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Natural Mint",
+            "flavor_id": "856",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Menthol Liquid (pg)",
+            "flavor_id": "281",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Rhinox04",
+    "views": "1610",
+    "created_at": "2017-04-15",
+    "slug": "mint_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/41362.png",
+    "total_flavoring": "4.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "Absolutely fantastic! It tastes so refreshing yet has some creamy depth- I'll definitely be making more! Thanks! "
+        }
+    ]
 }

@@ -1,74 +1,74 @@
 {
-  "name": "Chocolate Puff Pastries",
-  "description": "Golden brown puff pastry swirls, filled with chocolate cream! This really needs 3-4 days of steeping to shine, I hope you like it!",
-  "id": 150704,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150704/palmier-choco_top-min.jpg",
-  "updated_at": "2020-12-07T20:33:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Breakfast Cereals",
-      "flavor_id": "8810",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Chocolate Base (Clear)",
-      "flavor_id": "8851",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Collectron",
-  "views": "2221",
-  "slug": "chocolate_puff_pastries",
-  "total_flavoring": "9.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chocolate Puff Pastries",
+    "description": "Golden brown puff pastry swirls, filled with chocolate cream! This really needs 3-4 days of steeping to shine, I hope you like it!",
+    "id": 150704,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/150704\/palmier-choco_top-min.jpg",
+    "updated_at": "2020-12-10T17:58:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Breakfast Cereals",
+            "flavor_id": "8810",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Chocolate Base (Clear)",
+            "flavor_id": "8851",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Collectron",
+    "views": "2225",
+    "created_at": "2019-05-09",
+    "slug": "chocolate_puff_pastries",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/150704.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

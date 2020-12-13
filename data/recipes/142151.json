@@ -1,44 +1,44 @@
 {
-  "name": "Grapefruit Bourbon Honey",
-  "description": "i know this recipe sounds crazy, but give it a try.\r\nwe all know that sometimes the combination of different flavor profiles can bring something unique.\r\nremember that Kiwi Bourbon? This is the same sort of strange profile, but i like it.\r\nyou can play around with it by lowering the honeycomb to push the grapefruit a bit more.\r\n\r\n",
-  "id": 142151,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/142151/DSC_0964.jpg",
-  "updated_at": "2020-12-05T13:09:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grapefruit",
-      "flavor_id": "65",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bourbon",
-      "flavor_id": "4411",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Honeycomb Ice Cream",
-      "flavor_id": "4226",
-      "millipercent": 4000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Echodub",
-  "views": "699",
-  "slug": "grapefruit_bourbon_honey",
-  "total_flavoring": "8.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grapefruit Bourbon Honey",
+    "description": "i know this recipe sounds crazy, but give it a try.\r\nwe all know that sometimes the combination of different flavor profiles can bring something unique.\r\nremember that Kiwi Bourbon? This is the same sort of strange profile, but i like it.\r\nyou can play around with it by lowering the honeycomb to push the grapefruit a bit more.\r\n\r\n",
+    "id": 142151,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/142151\/DSC_0964.jpg",
+    "updated_at": "2020-12-10T16:01:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grapefruit",
+            "flavor_id": "65",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bourbon",
+            "flavor_id": "4411",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Honeycomb Ice Cream",
+            "flavor_id": "4226",
+            "millipercent": 4000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Echodub",
+    "views": "703",
+    "created_at": "2019-03-10",
+    "slug": "grapefruit_bourbon_honey",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/142151.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

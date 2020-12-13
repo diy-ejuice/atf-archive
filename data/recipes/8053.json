@@ -1,74 +1,76 @@
 {
-  "name": "Show Me Your Melons v1.1",
-  "description": "A refreshing summer mix of melons and mint. Feel free to adjust the spearmint and koolada to your personal preferences.   ",
-  "id": 8053,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/8053/small-20160816-23947-aki3xj.jpg",
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Melon",
-      "flavor_id": "676",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Spearmint",
-      "flavor_id": "113",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MrColtux",
-  "views": "2396",
-  "slug": "show_me_your_melons_v11",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "Delicious! I love spearmint and this really adds a lot to the flavor, nice! "
-    },
-    {
-      "user": "Philosaphucker",
-      "score": "5",
-      "text": "I'm rating this 5 stars with the disclaimer that I did not mix this exactly. Some subs were required. However, it is a damn fine concept and I appreciate the share. I will comment with my subs, but I really enjoyed the INW Melon/Cucumber/Spearmint pairing."
-    }
-  ]
+    "name": "Show Me Your Melons v1.1",
+    "description": "A refreshing summer mix of melons and mint. Feel free to adjust the spearmint and koolada to your personal preferences.   ",
+    "id": 8053,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/8053\/small-20160816-23947-aki3xj.jpg",
+    "updated_at": "2020-12-12T11:50:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Melon",
+            "flavor_id": "676",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Spearmint",
+            "flavor_id": "113",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MrColtux",
+    "views": "2402",
+    "created_at": "2016-07-18",
+    "slug": "show_me_your_melons_v11",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/8053.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "Delicious! I love spearmint and this really adds a lot to the flavor, nice! "
+        },
+        {
+            "user": "Philosaphucker",
+            "score": 5,
+            "text": "I'm rating this 5 stars with the disclaimer that I did not mix this exactly. Some subs were required. However, it is a damn fine concept and I appreciate the share. I will comment with my subs, but I really enjoyed the INW Melon\/Cucumber\/Spearmint pairing."
+        }
+    ]
 }

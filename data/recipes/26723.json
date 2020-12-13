@@ -1,81 +1,83 @@
 {
-  "name": "Peachy icecream",
-  "description": "Vanilla peach icecream on it's best. One of my new ADV's. ",
-  "id": 26723,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/26723/Peach-ice-cream.jpg",
-  "updated_at": "2020-12-08T00:48:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Chefproject",
-  "views": "2194",
-  "slug": "peachy_icecream",
-  "total_flavoring": "15.5%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "KylezKloudz",
-      "score": "5",
-      "text": "Great job! Only 5 days so far and it is delicious! Nice peach flavor and there's something about that ice cream that makes me not wanna put it down! Well done. 👍👍"
-    }
-  ]
+    "name": "Peachy icecream",
+    "description": "Vanilla peach icecream on it's best. One of my new ADV's. ",
+    "id": 26723,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/26723\/Peach-ice-cream.jpg",
+    "updated_at": "2020-12-12T18:29:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Chefproject",
+    "views": "2206",
+    "created_at": "2017-01-14",
+    "slug": "peachy_icecream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/26723.jpg",
+    "total_flavoring": "15.5%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "KylezKloudz",
+            "score": 5,
+            "text": "Great job! Only 5 days so far and it is delicious! Nice peach flavor and there's something about that ice cream that makes me not wanna put it down! Well done. \ud83d\udc4d\ud83d\udc4d"
+        }
+    ]
 }

@@ -1,44 +1,44 @@
 {
-  "name": "mlNikon's Banana Bites",
-  "description": "This is a cinnamon roll with a banana slice and a caramel glaze on top. Caramel cinnamon roll does the heavy lifting in terms of providing most of the bakery here. The banana is a combo of sa Banana flambe which is a nice cooked banana flavor and tfa bananas foster which brings some brown sugar to the mix. VT Salted caramel boosts the caramel note already here and adds to the dark sweetness I was going for. ",
-  "id": 130685,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130685/banana_caramel_roll.jpg",
-  "updated_at": "2020-12-07T20:32:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Flambe",
-      "flavor_id": "9131",
-      "millipercent": 3000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Bananas Foster",
-      "flavor_id": "211",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel Cinnamon Roll",
-      "flavor_id": "1234",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Salted Caramel",
-      "flavor_id": "8959",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1463",
-  "slug": "mlnikons_banana_bites",
-  "total_flavoring": "10.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Banana Bites",
+    "description": "This is a cinnamon roll with a banana slice and a caramel glaze on top. Caramel cinnamon roll does the heavy lifting in terms of providing most of the bakery here. The banana is a combo of sa Banana flambe which is a nice cooked banana flavor and tfa bananas foster which brings some brown sugar to the mix. VT Salted caramel boosts the caramel note already here and adds to the dark sweetness I was going for. ",
+    "id": 130685,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130685\/banana_caramel_roll.jpg",
+    "updated_at": "2020-12-12T11:52:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Flambe",
+            "flavor_id": "9131",
+            "millipercent": 3000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Bananas Foster",
+            "flavor_id": "211",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel Cinnamon Roll",
+            "flavor_id": "1234",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Salted Caramel",
+            "flavor_id": "8959",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1472",
+    "created_at": "2018-12-09",
+    "slug": "mlnikons_banana_bites",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130685.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

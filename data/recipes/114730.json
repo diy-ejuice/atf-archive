@@ -1,57 +1,59 @@
 {
-  "name": "Grape Gadzooka Gum",
-  "description": "To me this taste just like the grape Bazooka Joe bubble gum I remember from when I was a kid. Its flat out delicious. Flavorah Grape is perfect for this recipe and I don't think you can substitute it without changing the entire dynamic of the recipe. I use 2 percent Flavorah Bubble Gum and 1 percent Inw Bubble Gum YC and it makes a less dry bubble gum than if I were to use Flavorah alone. I added half a percent of FA Marshmallow to give this some extra mouthfeel and body and .35 percent Cap Super Sweet to push teh grape and bubble gum flavors up another knotch. I didnt try it as a SnV, I let it steep 4 days before trying but it may be good off the shake as well. If you give this a try I hope you enjoy it as much as I am right now.",
-  "id": 114730,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/114730/gadzookagum2.jpg",
-  "updated_at": "2020-12-08T00:50:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape",
-      "flavor_id": "2593",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "4418",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bubble Gum (yc)",
-      "flavor_id": "709",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 350,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mindcrime",
-  "views": "1871",
-  "slug": "grape_gadzooka_gum",
-  "total_flavoring": "6.85%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "SatJoe563",
-      "score": "4",
-      "text": "As a S&amp;V, the grape is perfect.  I cant taste the gum portion much right now, but will definitely try this again in a few days.  I like the Flv Grape, it is nicely placed.  No throat hit is an added bonus,   Once it steeps, I will make sure to add the final notes.  Thank you for sharing this,"
-    }
-  ]
+    "name": "Grape Gadzooka Gum",
+    "description": "To me this taste just like the grape Bazooka Joe bubble gum I remember from when I was a kid. Its flat out delicious. Flavorah Grape is perfect for this recipe and I don't think you can substitute it without changing the entire dynamic of the recipe. I use 2 percent Flavorah Bubble Gum and 1 percent Inw Bubble Gum YC and it makes a less dry bubble gum than if I were to use Flavorah alone. I added half a percent of FA Marshmallow to give this some extra mouthfeel and body and .35 percent Cap Super Sweet to push teh grape and bubble gum flavors up another knotch. I didnt try it as a SnV, I let it steep 4 days before trying but it may be good off the shake as well. If you give this a try I hope you enjoy it as much as I am right now.",
+    "id": 114730,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/114730\/gadzookagum2.jpg",
+    "updated_at": "2020-12-12T10:34:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape",
+            "flavor_id": "2593",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "4418",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bubble Gum (yc)",
+            "flavor_id": "709",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 350,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mindcrime",
+    "views": "1880",
+    "created_at": "2018-08-12",
+    "slug": "grape_gadzooka_gum",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/114730.jpg",
+    "total_flavoring": "6.85%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SatJoe563",
+            "score": 4,
+            "text": "As a S&amp;V, the grape is perfect.  I cant taste the gum portion much right now, but will definitely try this again in a few days.  I like the Flv Grape, it is nicely placed.  No throat hit is an added bonus,   Once it steeps, I will make sure to add the final notes.  Thank you for sharing this,"
+        }
+    ]
 }

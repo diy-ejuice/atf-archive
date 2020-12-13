@@ -1,63 +1,65 @@
 {
-  "name": "CCCP ☭",
-  "description": "A creamy coconut custard party.\r\n\r\nAdapted from ChrisDvr1's \"Cocconut marshmallow custard ceam\".\r\n\r\n",
-  "id": 13117,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13117/small-20171012-7702-1202kyz.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "3521",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "BCrunk",
-  "views": "1837",
-  "slug": "cccp_",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "This recipe is god damn awesome... Imo definitely better than chrisdvrs recipe you adapted it from.  His is very good as well but this is just better for me.  His is more custardy, this one is just fluffy delicious coconut.  Like coconut flavored marshmallows. ADV. FLV Marshmallow makes it. Recommended"
-    }
-  ]
+    "name": "CCCP \u262d",
+    "description": "A creamy coconut custard party.\r\n\r\nAdapted from ChrisDvr1's \"Cocconut marshmallow custard ceam\".\r\n\r\n",
+    "id": 13117,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13117\/small-20171012-7702-1202kyz.jpg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "3521",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "BCrunk",
+    "views": "1844",
+    "created_at": "2016-09-11",
+    "slug": "cccp_",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13117.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "This recipe is god damn awesome... Imo definitely better than chrisdvrs recipe you adapted it from.  His is very good as well but this is just better for me.  His is more custardy, this one is just fluffy delicious coconut.  Like coconut flavored marshmallows. ADV. FLV Marshmallow makes it. Recommended"
+        }
+    ]
 }

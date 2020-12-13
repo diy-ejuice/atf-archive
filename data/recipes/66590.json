@@ -1,80 +1,80 @@
 {
-  "name": "Mocha Pecan Ice Cream ",
-  "description": "Mocha and pecan ice cream. Used my usual ice cream stone and added espresso and chocolate to emulate a mocha like flavor. ",
-  "id": 66590,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66590/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-07T20:32:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dark Bean (coffee Espresso)",
-      "flavor_id": "504",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Gelato",
-      "flavor_id": "185",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "1050",
-  "slug": "mocha_pecan_ice_cream",
-  "total_flavoring": "13.0%",
-  "steep_days": "20",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mocha Pecan Ice Cream ",
+    "description": "Mocha and pecan ice cream. Used my usual ice cream stone and added espresso and chocolate to emulate a mocha like flavor. ",
+    "id": 66590,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66590\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-10T14:52:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dark Bean (coffee Espresso)",
+            "flavor_id": "504",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Gelato",
+            "flavor_id": "185",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "1054",
+    "created_at": "2017-10-04",
+    "slug": "mocha_pecan_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66590.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "20",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,75 +1,77 @@
 {
-  "name": "Kannoli ",
-  "description": "cannoli with a K . 😉 i used JOKER as our main note with a hint of cannoli shell for some authenticity and the cheesecake , sweet cream , and cream cheese icing is our filling along with some chocolate chips by using mike chocolate by jungle flavors . Then to top it off with some powder sugar dusting ... Please rate and enjoy.",
-  "id": 190421,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190421/BC986B00-A4D0-4CEE-A181-4A9C90AE2265.jpeg",
-  "updated_at": "2020-12-08T00:51:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pazzo Burlone (Joker)",
-      "flavor_id": "9911",
-      "millipercent": 4500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cannoli Shell SC",
-      "flavor_id": "10114",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cheesecake",
-      "flavor_id": "930",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1430",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 250,
-      "vendor": "LA"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 750,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "7685",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "BigRed",
-  "views": "777",
-  "slug": "kannoli",
-  "total_flavoring": "10.0%",
-  "steep_days": "8 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "grumpyoldfart",
-      "score": "5",
-      "text": "holy fk  this  recipe really hits the spot great job on this "
-    }
-  ]
+    "name": "Kannoli ",
+    "description": "cannoli with a K . \ud83d\ude09 i used JOKER as our main note with a hint of cannoli shell for some authenticity and the cheesecake , sweet cream , and cream cheese icing is our filling along with some chocolate chips by using mike chocolate by jungle flavors . Then to top it off with some powder sugar dusting ... Please rate and enjoy.",
+    "id": 190421,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190421\/BC986B00-A4D0-4CEE-A181-4A9C90AE2265.jpeg",
+    "updated_at": "2020-12-12T11:53:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pazzo Burlone (Joker)",
+            "flavor_id": "9911",
+            "millipercent": 4500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cannoli Shell SC",
+            "flavor_id": "10114",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cheesecake",
+            "flavor_id": "930",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1430",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 250,
+            "vendor": "LA"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 750,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "7685",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "BigRed",
+    "views": "789",
+    "created_at": "2020-04-06",
+    "slug": "kannoli",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190421.jpeg",
+    "total_flavoring": "10.0%",
+    "steep_days": "8 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "grumpyoldfart",
+            "score": 5,
+            "text": "holy fk  this  recipe really hits the spot great job on this "
+        }
+    ]
 }

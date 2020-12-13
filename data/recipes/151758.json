@@ -1,57 +1,59 @@
 {
-  "name": "Shaken Iced Hibiscus Tea",
-  "description": "This is the best tea recipe I have made or vaped so far, and while I have been trying to make good tea recipes for years, it is only possible thanks to TPA Sweet Tea and the incredible line of teas from Flavorah.\r\n\r\nTPA Sweet Tea: It is not a perfect black tea but it is (FMPOV) the best we have and since it is sweet, icy and there is a subtle lemon note in the background, it is ideal for this application\r\n\r\nCAP Hibiscus: I am a big fan of this flavor and its versatility. Here it brings the main note, with a distinct tropical floral note, sweet and not as aggressive as FLV Hibiscus. It also provides a full mouthfeel that imitates the syrup sweetener they use in Starbucks.\r\n\r\nFLV Lemon Tea: For me this is not black tea with lemon, but more like lemons boiled with tea. The lemon note is bright and upfront and not too sweet or candied. The tea note is almost infused in the lemon flavor, making it easy to blend in this mix.\r\n\r\nwww.instagram.com/nachef.mixing/\r\n\r\nSalud!",
-  "id": 151758,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151758/SIHT.jpg",
-  "updated_at": "2020-12-08T00:50:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 9000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Tea",
-      "flavor_id": "3515",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 350,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "NaCHeF",
-  "views": "2627",
-  "slug": "shaken_iced_hibiscus_tea",
-  "total_flavoring": "13.85%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This simple recipe is flavorful, perfectly balanced and tastes just like the picture. Just in time for summer! Thanks NaCHeF!"
-    }
-  ]
+    "name": "Shaken Iced Hibiscus Tea",
+    "description": "This is the best tea recipe I have made or vaped so far, and while I have been trying to make good tea recipes for years, it is only possible thanks to TPA Sweet Tea and the incredible line of teas from Flavorah.\r\n\r\nTPA Sweet Tea: It is not a perfect black tea but it is (FMPOV) the best we have and since it is sweet, icy and there is a subtle lemon note in the background, it is ideal for this application\r\n\r\nCAP Hibiscus: I am a big fan of this flavor and its versatility. Here it brings the main note, with a distinct tropical floral note, sweet and not as aggressive as FLV Hibiscus. It also provides a full mouthfeel that imitates the syrup sweetener they use in Starbucks.\r\n\r\nFLV Lemon Tea: For me this is not black tea with lemon, but more like lemons boiled with tea. The lemon note is bright and upfront and not too sweet or candied. The tea note is almost infused in the lemon flavor, making it easy to blend in this mix.\r\n\r\nwww.instagram.com\/nachef.mixing\/\r\n\r\nSalud!",
+    "id": 151758,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151758\/SIHT.jpg",
+    "updated_at": "2020-12-12T17:12:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 9000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Tea",
+            "flavor_id": "3515",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 350,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "NaCHeF",
+    "views": "2638",
+    "created_at": "2019-05-16",
+    "slug": "shaken_iced_hibiscus_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151758.jpg",
+    "total_flavoring": "13.85%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This simple recipe is flavorful, perfectly balanced and tastes just like the picture. Just in time for summer! Thanks NaCHeF!"
+        }
+    ]
 }

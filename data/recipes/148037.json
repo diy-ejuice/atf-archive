@@ -1,44 +1,44 @@
 {
-  "name": "4...3...2...1...Pop Tart",
-  "description": "Simple 4 flavor mix using flavors available at Bull City Flavors. \r\nThis is delicious off the shake; however, is better after a few days steep. \r\nEnjoy \r\n",
-  "id": 148037,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/148037/7E904EEE-FD6E-46A6-9842-7FA36025F0B3.jpeg",
-  "updated_at": "2020-12-07T09:45:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pop Pastry (Strawberry)",
-      "flavor_id": "6516",
-      "millipercent": 4000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ripe Strawberries",
-      "flavor_id": "10273",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "10274",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "TamVapes",
-  "views": "2005",
-  "slug": "4321pop_tart",
-  "total_flavoring": "10.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "4...3...2...1...Pop Tart",
+    "description": "Simple 4 flavor mix using flavors available at Bull City Flavors. \r\nThis is delicious off the shake; however, is better after a few days steep. \r\nEnjoy \r\n",
+    "id": 148037,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/148037\/7E904EEE-FD6E-46A6-9842-7FA36025F0B3.jpeg",
+    "updated_at": "2020-12-12T05:56:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pop Pastry (Strawberry)",
+            "flavor_id": "6516",
+            "millipercent": 4000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ripe Strawberries",
+            "flavor_id": "10273",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "10274",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "TamVapes",
+    "views": "2012",
+    "created_at": "2019-04-21",
+    "slug": "4321pop_tart",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/148037.jpeg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

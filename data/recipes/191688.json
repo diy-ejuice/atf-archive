@@ -1,38 +1,37 @@
 {
-  "name": "Root Beer Chewies",
-  "description": "Karamellbonbon mit Root Beer Geschmack\r\n\r\n\r\n\r\n\r\nCreamy, chewie Root Beer Candy",
-  "id": 191688,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:34:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 1400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "419",
-  "slug": "root_beer_chewies",
-  "total_flavoring": "4.8%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Root Beer Chewies",
+    "description": "Karamellbonbon mit Root Beer Geschmack\r\n\r\n\r\n\r\n\r\nCreamy, chewie Root Beer Candy",
+    "id": 191688,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 1400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "423",
+    "created_at": "2020-04-18",
+    "slug": "root_beer_chewies",
+    "total_flavoring": "4.8%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

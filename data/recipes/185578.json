@@ -1,74 +1,73 @@
 {
-  "name": " Strawberry Watermelon Swirl ",
-  "description": "It was the summer of 2018 and I was about 6 months into my DIY journey when I threw this recipe together with an equally small amount of flavorings, knowledge and notes. It was ‘candied’ and ‘sweet’ I was pursuing, and it had to be creamy too. Almost 2yrs. and hundreds of other mixes have passed and I still enjoy this as one of my first successful ventures. Give it a go, I think you’ll be glad ya did! ",
-  "id": 185578,
-  "image_url": null,
-  "updated_at": "2020-12-07T19:16:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry Taffy",
-      "flavor_id": "4164",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Watermelon Candy",
-      "flavor_id": "275",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 600,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "whthek",
-  "views": "1116",
-  "slug": "strawberry_watermelon_swirl",
-  "total_flavoring": "17.6%",
-  "steep_days": "14",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": " Strawberry Watermelon Swirl ",
+    "description": "It was the summer of 2018 and I was about 6 months into my DIY journey when I threw this recipe together with an equally small amount of flavorings, knowledge and notes. It was \u2018candied\u2019 and \u2018sweet\u2019 I was pursuing, and it had to be creamy too. Almost 2yrs. and hundreds of other mixes have passed and I still enjoy this as one of my first successful ventures. Give it a go, I think you\u2019ll be glad ya did! ",
+    "id": 185578,
+    "image_url": null,
+    "updated_at": "2020-12-11T03:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry Taffy",
+            "flavor_id": "4164",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Watermelon Candy",
+            "flavor_id": "275",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 600,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "whthek",
+    "views": "1124",
+    "created_at": "2020-02-22",
+    "slug": "strawberry_watermelon_swirl",
+    "total_flavoring": "17.6%",
+    "steep_days": "14",
+    "best_vg": "65%",
+    "temperature": "0"
 }

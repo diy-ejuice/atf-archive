@@ -1,38 +1,37 @@
 {
-  "name": "Maple Rum Western rub",
-  "description": "Sweet but nice baccy back taste. Open to any ideas.",
-  "id": 124468,
-  "image_url": null,
-  "updated_at": "2020-12-06T01:08:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Western",
-      "flavor_id": "384",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple Rum Tobacco",
-      "flavor_id": "1348",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Danish Swirl V2",
-      "flavor_id": "36",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Gorby",
-  "views": "1055",
-  "slug": "maple_rum_western_rub",
-  "total_flavoring": "17.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Maple Rum Western rub",
+    "description": "Sweet but nice baccy back taste. Open to any ideas.",
+    "id": 124468,
+    "image_url": null,
+    "updated_at": "2020-12-12T03:46:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Western",
+            "flavor_id": "384",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple Rum Tobacco",
+            "flavor_id": "1348",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Danish Swirl V2",
+            "flavor_id": "36",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Gorby",
+    "views": "1064",
+    "created_at": "2018-10-24",
+    "slug": "maple_rum_western_rub",
+    "total_flavoring": "17.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Philosopher's Milk",
-  "description": "A bangin strawberry kiwi milkshake. Been working on this for a while now. ",
-  "id": 23803,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/23803/small-20170304-15393-16p2arf.jpg",
-  "updated_at": "2020-12-07T21:31:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "PerennialPhilosopher",
-  "views": "1652",
-  "slug": "philosophers_milk",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Philosopher's Milk",
+    "description": "A bangin strawberry kiwi milkshake. Been working on this for a while now. ",
+    "id": 23803,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/23803\/small-20170304-15393-16p2arf.jpg",
+    "updated_at": "2020-12-12T01:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "PerennialPhilosopher",
+    "views": "1664",
+    "created_at": "2016-12-22",
+    "slug": "philosophers_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/23803.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,68 +1,67 @@
 {
-  "name": "Jackfruit Coconut Cream",
-  "description": "Jackfruit and creamy coconut milk with mango and peach notes.",
-  "id": 45624,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:20:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Jackfruit",
-      "flavor_id": "4359",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "665",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Costarica Special (mango)",
-      "flavor_id": "579",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "bqbdm8",
-  "views": "1076",
-  "slug": "jackfruit_coconut_cream",
-  "total_flavoring": "6.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Jackfruit Coconut Cream",
+    "description": "Jackfruit and creamy coconut milk with mango and peach notes.",
+    "id": 45624,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Jackfruit",
+            "flavor_id": "4359",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "665",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Costarica Special (mango)",
+            "flavor_id": "579",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "bqbdm8",
+    "views": "1080",
+    "created_at": "2017-05-10",
+    "slug": "jackfruit_coconut_cream",
+    "total_flavoring": "6.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

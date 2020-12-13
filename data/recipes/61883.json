@@ -1,62 +1,64 @@
 {
-  "name": "Eclipse (Bombies Black Out City Clone)",
-  "description": "This is a clone of Bombies Black Out City, described as a Limoncello, Blueberry and Menthol. My version uses Polar Blast as a cooling agent, instead of menthol. I believe it highlights the lemon and the blueberry better, while still giving the mix an icy profile. Perfectly fine as a shake and vape, though due to the higher amount of Lemon Sicily used, can benefit from a day or two of steeping.",
-  "id": 61883,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/61883/IMG_0266.JPG",
-  "updated_at": "2020-12-08T00:49:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2398",
-  "slug": "eclipse_bombies_black_out_city_clone",
-  "total_flavoring": "12.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "xx2000xx",
-      "score": "none",
-      "text": "The holy trinity :-)"
-    },
-    {
-      "user": "Fiftytrent",
-      "score": "5",
-      "text": "Had to use koolada instead of polar blast, but this is great even as a shake and vape."
-    }
-  ]
+    "name": "Eclipse (Bombies Black Out City Clone)",
+    "description": "This is a clone of Bombies Black Out City, described as a Limoncello, Blueberry and Menthol. My version uses Polar Blast as a cooling agent, instead of menthol. I believe it highlights the lemon and the blueberry better, while still giving the mix an icy profile. Perfectly fine as a shake and vape, though due to the higher amount of Lemon Sicily used, can benefit from a day or two of steeping.",
+    "id": 61883,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/61883\/IMG_0266.JPG",
+    "updated_at": "2020-12-12T10:14:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2410",
+    "created_at": "2017-08-30",
+    "slug": "eclipse_bombies_black_out_city_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/61883.JPG",
+    "total_flavoring": "12.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "xx2000xx",
+            "score": 0,
+            "text": "The holy trinity :-)"
+        },
+        {
+            "user": "Fiftytrent",
+            "score": 5,
+            "text": "Had to use koolada instead of polar blast, but this is great even as a shake and vape."
+        }
+    ]
 }

@@ -1,51 +1,53 @@
 {
-  "name": "Cookie Dough",
-  "description": "This is a cookie dough flavor. I added chocolate  because I like chocolate  chips in my cookie dough or at lie st the cookie dough I remember  eating spoonfuls from my mother's mixing bowl. I added the sweetener because I think the chocolate  needs it. This can be caped alone or added to your  favorite  ice cream blend or anything else you think cookie dough would be good in. This is good as a shake and  vape but is best after 4 days.",
-  "id": 22527,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/22527/IMG_20161209_010034.jpg",
-  "updated_at": "2020-12-08T00:48:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "177",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Tootall",
-  "views": "2595",
-  "slug": "cookie_dough",
-  "total_flavoring": "14.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "When I mix this again, I'm probably going to use a chocolate that's a little more present, but this is still pretty damn good as it is."
-    }
-  ]
+    "name": "Cookie Dough",
+    "description": "This is a cookie dough flavor. I added chocolate  because I like chocolate  chips in my cookie dough or at lie st the cookie dough I remember  eating spoonfuls from my mother's mixing bowl. I added the sweetener because I think the chocolate  needs it. This can be caped alone or added to your  favorite  ice cream blend or anything else you think cookie dough would be good in. This is good as a shake and  vape but is best after 4 days.",
+    "id": 22527,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/22527\/IMG_20161209_010034.jpg",
+    "updated_at": "2020-12-12T17:10:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "177",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Tootall",
+    "views": "2603",
+    "created_at": "2016-12-10",
+    "slug": "cookie_dough",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/22527.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "When I mix this again, I'm probably going to use a chocolate that's a little more present, but this is still pretty damn good as it is."
+        }
+    ]
 }

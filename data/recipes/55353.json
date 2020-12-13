@@ -1,63 +1,64 @@
 {
-  "name": "Mountain Dew Baja blast ",
-  "description": "This is a classic take on mountain dew Baja blast I made this along time on elr and it turned out amazing guys mix it up if your looking for a good soda in the summertime mix it up at 70/30 That's where its best at guys",
-  "id": 55353,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Baja Soda",
-      "flavor_id": "2217",
-      "millipercent": 7000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "2804",
-  "slug": "mountain_dew_baja_blast",
-  "total_flavoring": "13.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "5",
-      "text": "Spot on Baja Blast. Subbed FW Sweetener and WS-23 at same percentages for my taste, but it's amazing. Thanks for the recipe."
-    }
-  ]
+    "name": "Mountain Dew Baja blast ",
+    "description": "This is a classic take on mountain dew Baja blast I made this along time on elr and it turned out amazing guys mix it up if your looking for a good soda in the summertime mix it up at 70\/30 That's where its best at guys",
+    "id": 55353,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Baja Soda",
+            "flavor_id": "2217",
+            "millipercent": 7000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "2813",
+    "created_at": "2017-07-13",
+    "slug": "mountain_dew_baja_blast",
+    "total_flavoring": "13.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 5,
+            "text": "Spot on Baja Blast. Subbed FW Sweetener and WS-23 at same percentages for my taste, but it's amazing. Thanks for the recipe."
+        }
+    ]
 }

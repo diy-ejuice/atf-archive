@@ -1,50 +1,50 @@
 {
-  "name": "Bavarian Cream Bronuts Remix",
-  "description": "All credit goes to the originator if this recipe ENYAWREKLAW.  Check out his recipes on this site and on DIY or Die.\r\n\r\nThis is an alternate take on the massively popular Bronuts recipe with the Bavarian Cream.  I decided to give Capella's yellow cake a try as I'm trying to avoid fructose, sugar syrup, and other things of that nature.  My first batch was 1% yellow cake and it didn't seem strong enough.  Bumped it up to 2% and it was much better.  IMO, Capellas yellow cake needs a steep so give this one about 2 weeks.  At first it tastes super artificial but mellows out long term.\r\n\r\nThanks once again to Wayne for providing this recipe.",
-  "id": 31193,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31193/2B729438-6CF8-40A4-9C7B-E13FD1DE81F1-432-00000053883CB2F2_tmp.png",
-  "updated_at": "2020-12-05T12:08:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Chocolate Glazed Doughnut",
-      "flavor_id": "34",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    }
-  ],
-  "author": "BX1018",
-  "views": "2933",
-  "slug": "bavarian_cream_bronuts_remix",
-  "total_flavoring": "13.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bavarian Cream Bronuts Remix",
+    "description": "All credit goes to the originator if this recipe ENYAWREKLAW.  Check out his recipes on this site and on DIY or Die.\r\n\r\nThis is an alternate take on the massively popular Bronuts recipe with the Bavarian Cream.  I decided to give Capella's yellow cake a try as I'm trying to avoid fructose, sugar syrup, and other things of that nature.  My first batch was 1% yellow cake and it didn't seem strong enough.  Bumped it up to 2% and it was much better.  IMO, Capellas yellow cake needs a steep so give this one about 2 weeks.  At first it tastes super artificial but mellows out long term.\r\n\r\nThanks once again to Wayne for providing this recipe.",
+    "id": 31193,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31193\/2B729438-6CF8-40A4-9C7B-E13FD1DE81F1-432-00000053883CB2F2_tmp.png",
+    "updated_at": "2020-12-10T14:55:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Chocolate Glazed Doughnut",
+            "flavor_id": "34",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        }
+    ],
+    "author": "BX1018",
+    "views": "2941",
+    "created_at": "2017-02-09",
+    "slug": "bavarian_cream_bronuts_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/31193.png",
+    "total_flavoring": "13.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Bloodsicle",
-  "description": "Blood Orange Creamy Vanilla Ice Cream\r\n\r\nAdd cooling if you want. I hate it.\r\n\r\nFW Blood Orange is really good buut I find it super harsh on my throat parts. So I used it at 1% and filled up the orange flavor with Juicy Orange. Added a touch of Dragonfruit to make it even juicier. \r\n\r\nOOO Whipped Cream for body and a light vanilla note. TPA Vanilla Bean Ice Cream because its tried and true. ",
-  "id": 196397,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196397/images.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "785",
-  "slug": "bloodsicle",
-  "total_flavoring": "9.25%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Bloodsicle",
+    "description": "Blood Orange Creamy Vanilla Ice Cream\r\n\r\nAdd cooling if you want. I hate it.\r\n\r\nFW Blood Orange is really good buut I find it super harsh on my throat parts. So I used it at 1% and filled up the orange flavor with Juicy Orange. Added a touch of Dragonfruit to make it even juicier. \r\n\r\nOOO Whipped Cream for body and a light vanilla note. TPA Vanilla Bean Ice Cream because its tried and true. ",
+    "id": 196397,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196397\/images.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "798",
+    "created_at": "2020-06-01",
+    "slug": "bloodsicle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196397.jpg",
+    "total_flavoring": "9.25%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

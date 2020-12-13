@@ -1,56 +1,56 @@
 {
-  "name": "Apple Pie",
-  "description": "As Vape Train concentrates are on there way to the USA very soon, hopefully it won't be too long till everyone gets to mix this bad boy up. This is without doubt, a spot on Mc Donald's Apple Pie. Sweet, gooey and slightly spiced. Enjoy!\r\n\r\nSub VT Cinnamon Doughnut for Capella Cinnamon Danish Swirl at the same percentage if you need to.",
-  "id": 83290,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83290/download.jpg",
-  "updated_at": "2020-12-06T12:55:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Donut",
-      "flavor_id": "8853",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Acetyl Pyrazine 6%",
-      "flavor_id": "9168",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Green Apple",
-      "flavor_id": "8893",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "English Marmalade",
-      "flavor_id": "8872",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Salted Caramel",
-      "flavor_id": "8959",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Mate",
-      "flavor_id": "8981",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kemmo",
-  "views": "1810",
-  "slug": "apple_pie",
-  "total_flavoring": "5.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple Pie",
+    "description": "As Vape Train concentrates are on there way to the USA very soon, hopefully it won't be too long till everyone gets to mix this bad boy up. This is without doubt, a spot on Mc Donald's Apple Pie. Sweet, gooey and slightly spiced. Enjoy!\r\n\r\nSub VT Cinnamon Doughnut for Capella Cinnamon Danish Swirl at the same percentage if you need to.",
+    "id": 83290,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83290\/download.jpg",
+    "updated_at": "2020-12-12T03:45:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Donut",
+            "flavor_id": "8853",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Acetyl Pyrazine 6%",
+            "flavor_id": "9168",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Green Apple",
+            "flavor_id": "8893",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "English Marmalade",
+            "flavor_id": "8872",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Salted Caramel",
+            "flavor_id": "8959",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Mate",
+            "flavor_id": "8981",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kemmo",
+    "views": "1822",
+    "created_at": "2018-01-13",
+    "slug": "apple_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83290.jpg",
+    "total_flavoring": "5.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

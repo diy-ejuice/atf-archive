@@ -1,32 +1,31 @@
 {
-  "name": "Smokedbuttercream",
-  "description": "This recipe is my ADV. It is very good as a SNV. The recipe really gains character the longer you let it steep. I have mixed it from Max PG all the way to 70pg/30vg and it is excellent throughout. My favorite times in steep are 10-15 days and anything after a month as there is an awkward period from 15 days to a month. I have some that is 3 months old and is still at its best",
-  "id": 122411,
-  "image_url": null,
-  "updated_at": "2020-12-06T07:15:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Smoked Butterscotch",
-      "flavor_id": "8569",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Oldedb",
-  "views": "1063",
-  "slug": "smokedbuttercream",
-  "total_flavoring": "3.5%",
-  "steep_days": "30 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Smokedbuttercream",
+    "description": "This recipe is my ADV. It is very good as a SNV. The recipe really gains character the longer you let it steep. I have mixed it from Max PG all the way to 70pg\/30vg and it is excellent throughout. My favorite times in steep are 10-15 days and anything after a month as there is an awkward period from 15 days to a month. I have some that is 3 months old and is still at its best",
+    "id": 122411,
+    "image_url": null,
+    "updated_at": "2020-12-12T06:59:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Smoked Butterscotch",
+            "flavor_id": "8569",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Oldedb",
+    "views": "1071",
+    "created_at": "2018-10-09",
+    "slug": "smokedbuttercream",
+    "total_flavoring": "3.5%",
+    "steep_days": "30 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

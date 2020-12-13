@@ -1,80 +1,82 @@
 {
-  "name": "PUDDIN",
-  "description": "Surgery sweet cake and rich vanilla pudding really needs a steep and you cant substitute FW yellow cake unfortunately...",
-  "id": 195493,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/195493/FB_IMG_1590358650746.jpg",
-  "updated_at": "2020-12-08T00:51:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1250,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 3500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Slushy",
-  "views": "1682",
-  "slug": "puddin",
-  "total_flavoring": "13.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Grfxman",
-      "score": "5",
-      "text": "Sometimes you can just look at a recipe and know it is going to be good. This is one of those ... was nice at the 14 day steep, but it is even better at the 30 day mark - just gets deeper and richer and thicker. This is a great vanilla / cake / mild ADV flavor you can rock all the time. The yellow cake and sugar cookie do the heavy lifting here and provide a soft cake layer backed by that vanilla cream pudding coming from a great layer of FA CP and FLV pudding. Easily one of the best pudding vapes I have mixed. Will be making this on the regular."
-    },
-    {
-      "user": "BadaG",
-      "score": "5",
-      "text": "I’m loving this one, it’s really nice to have a cake profile that emphasises the actual cake flavour without it hiding behind a strong top note. Really nice mouthfeel and well balanced Vanilla after a three day steep. Can’t wait to taste it after the full two weeks. Delicious "
-    }
-  ]
+    "name": "PUDDIN",
+    "description": "Surgery sweet cake and rich vanilla pudding really needs a steep and you cant substitute FW yellow cake unfortunately...",
+    "id": 195493,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/195493\/FB_IMG_1590358650746.jpg",
+    "updated_at": "2020-12-12T14:08:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1250,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 3500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1691",
+    "created_at": "2020-05-24",
+    "slug": "puddin",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/195493.jpg",
+    "total_flavoring": "13.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Grfxman",
+            "score": 5,
+            "text": "Sometimes you can just look at a recipe and know it is going to be good. This is one of those ... was nice at the 14 day steep, but it is even better at the 30 day mark - just gets deeper and richer and thicker. This is a great vanilla \/ cake \/ mild ADV flavor you can rock all the time. The yellow cake and sugar cookie do the heavy lifting here and provide a soft cake layer backed by that vanilla cream pudding coming from a great layer of FA CP and FLV pudding. Easily one of the best pudding vapes I have mixed. Will be making this on the regular."
+        },
+        {
+            "user": "BadaG",
+            "score": 5,
+            "text": "I\u2019m loving this one, it\u2019s really nice to have a cake profile that emphasises the actual cake flavour without it hiding behind a strong top note. Really nice mouthfeel and well balanced Vanilla after a three day steep. Can\u2019t wait to taste it after the full two weeks. Delicious "
+        }
+    ]
 }

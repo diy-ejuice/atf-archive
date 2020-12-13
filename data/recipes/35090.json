@@ -1,62 +1,61 @@
 {
-  "name": "Butter biscuits",
-  "description": "Salted caramel really makes the recipe and fw butterscotch adds a smooth delicious  almost shortbread .\r\n",
-  "id": 35090,
-  "image_url": null,
-  "updated_at": "2020-12-04T21:23:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Mongoman",
-  "views": "1184",
-  "slug": "butter_biscuits",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "80%",
-  "temperature": "45",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Butter biscuits",
+    "description": "Salted caramel really makes the recipe and fw butterscotch adds a smooth delicious  almost shortbread .\r\n",
+    "id": 35090,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Mongoman",
+    "views": "1193",
+    "created_at": "2017-03-04",
+    "slug": "butter_biscuits",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "80%",
+    "temperature": "45"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Grape Germaine",
-  "description": "My final piece working with the Flavor Monks Gin line this year, but with many more expected after new years is over!\r\n\r\nI started with a grape base using both INW Grapes and FLV Grape. INW has a slightly candied finish, where FLV comes closer to grape juice. I wanted both of those qualities to show, so we started at equal parts both at 2.5% allows them both to shine without overpowering the other. Earlier versions I went lower and higher with the other but they just balance better at even ratios.\r\n\r\nFLV Elderflower, if you've ever had a cocktail with St Germaine in it, you'll know this flavor straight away. A niche floral for most, but it's ideal for these sort of bright, herbal gin flavors. Brightly floral with a distinct elderflower flavor that you can't miss. A bit potent fresh, but just fine after 2-3 days steep.\r\n\r\nFM OMGin: Hands down my favorite gin from their line. It's simply super versatile. At 3% it stands out just enough to cut through some of the thicker sweet notes in the grape base and support those light floral notes in the FLV Elderflower. FM OMGin has lovely bright juniper flavor, without the nasty cheap gin flavor I sometimes get from FA Gin. There's a dash of bitters/vermouth in the background, which makes it ideal for complex cocktail flavors.\r\n\r\nBeing a fan of sweet cocktails I added 2% Erythritol (5% in VG) in my final recipe, but it's super optional if you're into a more bitter/less sweet cocktail. In closing, here's",
-  "id": 26334,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/26334/8089f7276635a968cfcbbc09a15756b3.jpg",
-  "updated_at": "2020-12-05T23:54:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Erythritol 5%",
-      "flavor_id": "4528",
-      "millipercent": 2000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "2593",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "784",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "OMGin",
-      "flavor_id": "6021",
-      "millipercent": 3000,
-      "vendor": "FM"
-    }
-  ],
-  "author": "Kopel",
-  "views": "1776",
-  "slug": "grape_germaine",
-  "total_flavoring": "10.25%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "Smoky",
-      "score": "3",
-      "text": "Didnt love this tbh, I dont think the OMGIN is for me"
-    }
-  ]
+    "name": "Grape Germaine",
+    "description": "My final piece working with the Flavor Monks Gin line this year, but with many more expected after new years is over!\r\n\r\nI started with a grape base using both INW Grapes and FLV Grape. INW has a slightly candied finish, where FLV comes closer to grape juice. I wanted both of those qualities to show, so we started at equal parts both at 2.5% allows them both to shine without overpowering the other. Earlier versions I went lower and higher with the other but they just balance better at even ratios.\r\n\r\nFLV Elderflower, if you've ever had a cocktail with St Germaine in it, you'll know this flavor straight away. A niche floral for most, but it's ideal for these sort of bright, herbal gin flavors. Brightly floral with a distinct elderflower flavor that you can't miss. A bit potent fresh, but just fine after 2-3 days steep.\r\n\r\nFM OMGin: Hands down my favorite gin from their line. It's simply super versatile. At 3% it stands out just enough to cut through some of the thicker sweet notes in the grape base and support those light floral notes in the FLV Elderflower. FM OMGin has lovely bright juniper flavor, without the nasty cheap gin flavor I sometimes get from FA Gin. There's a dash of bitters\/vermouth in the background, which makes it ideal for complex cocktail flavors.\r\n\r\nBeing a fan of sweet cocktails I added 2% Erythritol (5% in VG) in my final recipe, but it's super optional if you're into a more bitter\/less sweet cocktail. In closing, here's",
+    "id": 26334,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/26334\/8089f7276635a968cfcbbc09a15756b3.jpg",
+    "updated_at": "2020-12-11T19:40:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Erythritol 5%",
+            "flavor_id": "4528",
+            "millipercent": 2000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "2593",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "784",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "OMGin",
+            "flavor_id": "6021",
+            "millipercent": 3000,
+            "vendor": "FM"
+        }
+    ],
+    "author": "Kopel",
+    "views": "1785",
+    "created_at": "2017-01-12",
+    "slug": "grape_germaine",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/26334.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "Smoky",
+            "score": 3,
+            "text": "Didnt love this tbh, I dont think the OMGIN is for me"
+        }
+    ]
 }

@@ -1,32 +1,32 @@
 {
-  "name": "Tickly Victory",
-  "description": "Went off of Hash's idea for Prickly Victory (guava + cactus) and whipped up a simple passionfruit. Trying to stay true to the concept. Barebones. Clean flavor. SNV. Bit of a throat scratch from the Passion fruit but it's the only one I've got right now D:",
-  "id": 111812,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111812/Gendo_the_Hedgehog_6111053153-1.jpg",
-  "updated_at": "2020-12-07T10:44:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Passion Fruit",
-      "flavor_id": "93",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus - Lime",
-      "flavor_id": "2179",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "amouthforwar",
-  "views": "1742",
-  "slug": "tickly_victory",
-  "total_flavoring": "5.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tickly Victory",
+    "description": "Went off of Hash's idea for Prickly Victory (guava + cactus) and whipped up a simple passionfruit. Trying to stay true to the concept. Barebones. Clean flavor. SNV. Bit of a throat scratch from the Passion fruit but it's the only one I've got right now D:",
+    "id": 111812,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/111812\/Gendo_the_Hedgehog_6111053153-1.jpg",
+    "updated_at": "2020-12-11T13:44:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Passion Fruit",
+            "flavor_id": "93",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus - Lime",
+            "flavor_id": "2179",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "amouthforwar",
+    "views": "1750",
+    "created_at": "2018-07-24",
+    "slug": "tickly_victory",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/111812.jpg",
+    "total_flavoring": "5.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

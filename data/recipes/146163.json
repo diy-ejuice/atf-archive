@@ -1,62 +1,62 @@
 {
-  "name": "Extra-Thicc ",
-  "description": "Strawberry milkshake, plain & simple. Vanilla bean ice cream can be swapped for any ice cream, milkshake base can be bumped up if want added malt. Milkshake base does get extra malty higher than 1.5% imo.",
-  "id": 146163,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146163/88DF9317-C185-482E-8867-A619A2A2D2A0.jpeg",
-  "updated_at": "2020-12-06T23:08:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "626",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry Milkshake",
-      "flavor_id": "2296",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Milkshake Base",
-      "flavor_id": "8927",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake",
-      "flavor_id": "9361",
-      "millipercent": 400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "McLovin",
-  "views": "1048",
-  "slug": "extrathicc",
-  "total_flavoring": "10.7%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Extra-Thicc ",
+    "description": "Strawberry milkshake, plain & simple. Vanilla bean ice cream can be swapped for any ice cream, milkshake base can be bumped up if want added malt. Milkshake base does get extra malty higher than 1.5% imo.",
+    "id": 146163,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146163\/88DF9317-C185-482E-8867-A619A2A2D2A0.jpeg",
+    "updated_at": "2020-12-11T14:09:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "626",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry Milkshake",
+            "flavor_id": "2296",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Milkshake Base",
+            "flavor_id": "8927",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake",
+            "flavor_id": "9361",
+            "millipercent": 400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "McLovin",
+    "views": "1055",
+    "created_at": "2019-04-07",
+    "slug": "extrathicc",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146163.jpeg",
+    "total_flavoring": "10.7%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "420"
 }

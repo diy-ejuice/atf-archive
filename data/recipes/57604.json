@@ -1,57 +1,58 @@
 {
-  "name": "Vanilla Custard Cornbread Pudding",
-  "description": "Creme Brule and VCCC are used for a rich custard base.  Vanilla pudding and marshmallow are used for a sweet vanilla pudding with a smooth mouth feel.  Slight toasted note to the corn bread from the CB.",
-  "id": 57604,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard Cheesecake",
-      "flavor_id": "6532",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "1783",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "3625",
-  "slug": "vanilla_custard_cornbread_pudding",
-  "total_flavoring": "7.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "4",
-      "text": "Lightly flavored but its good. I’ll tweak the percentages and try to get it more to my likings"
-    }
-  ]
+    "name": "Vanilla Custard Cornbread Pudding",
+    "description": "Creme Brule and VCCC are used for a rich custard base.  Vanilla pudding and marshmallow are used for a sweet vanilla pudding with a smooth mouth feel.  Slight toasted note to the corn bread from the CB.",
+    "id": 57604,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard Cheesecake",
+            "flavor_id": "6532",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "1783",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "3636",
+    "created_at": "2017-07-29",
+    "slug": "vanilla_custard_cornbread_pudding",
+    "total_flavoring": "7.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 4,
+            "text": "Lightly flavored but its good. I\u2019ll tweak the percentages and try to get it more to my likings"
+        }
+    ]
 }

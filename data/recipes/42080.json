@@ -1,63 +1,65 @@
 {
-  "name": "Juicy",
-  "description": "\"It was all a dream, I used to read Word Up magazine\" \r\n\r\nThis is my first original recipe that I've felt was worthy of making public.  I think it's fantastic.  The 3 watermelon's blend together well and the cactus just makes it perfect juicy watermelon deliciousness.",
-  "id": 42080,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/42080/sdut-watermelon_drink_2-20160824.jpg",
-  "updated_at": "2020-12-07T17:34:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 6000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 2000,
-      "vendor": "LA"
-    }
-  ],
-  "author": "super8line",
-  "views": "1899",
-  "slug": "juicy",
-  "total_flavoring": "12.25%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "Chrisdvr1",
-      "score": "3",
-      "text": "Not a big fan of this one but I guess taste is subjective"
-    }
-  ]
+    "name": "Juicy",
+    "description": "\"It was all a dream, I used to read Word Up magazine\" \r\n\r\nThis is my first original recipe that I've felt was worthy of making public.  I think it's fantastic.  The 3 watermelon's blend together well and the cactus just makes it perfect juicy watermelon deliciousness.",
+    "id": 42080,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/42080\/sdut-watermelon_drink_2-20160824.jpg",
+    "updated_at": "2020-12-11T19:40:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 6000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 2000,
+            "vendor": "LA"
+        }
+    ],
+    "author": "super8line",
+    "views": "1905",
+    "created_at": "2017-04-20",
+    "slug": "juicy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/42080.jpg",
+    "total_flavoring": "12.25%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "Chrisdvr1",
+            "score": 3,
+            "text": "Not a big fan of this one but I guess taste is subjective"
+        }
+    ]
 }

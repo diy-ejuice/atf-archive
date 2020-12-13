@@ -1,0 +1,73 @@
+{
+    "name": "Apple pie cupcakes v4",
+    "description": "this is a delicious apple pie cupcake that can be vaped while sitting around the Christmas \ud83c\udf84 ",
+    "id": 209471,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:31:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie V2",
+            "flavor_id": "9",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Country Apple",
+            "flavor_id": "7754",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Cinnamon Danish Swirl V2",
+            "flavor_id": "36",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cake Batter Dip",
+            "flavor_id": "1223",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanillin 10% (pg)",
+            "flavor_id": "190",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "98",
+    "created_at": "2020-12-09",
+    "slug": "apple_pie_cupcakes_v4",
+    "total_flavoring": "16.75%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "110"
+}

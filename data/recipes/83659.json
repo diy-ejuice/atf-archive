@@ -1,69 +1,71 @@
 {
-  "name": "Creme de bacco #theyearofmixing",
-  "description": "Mixed this up for the Flavor pro weekly mixers challenge.  I wanted a blended minty, creamy, tobacco mix.  The creme de menth is the main note and the vanilla bourbon and fresh cream support that and add some extra cream.  I did some digging and decided to combine the burley, native, and cured for the tobaaco.  The torrone is to add some sweetness to the tobaccos and blend it all together.  I'm digging it off the shake, but we will see how it steeps.  ",
-  "id": 83659,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83659/Screen_Shot_2016-05-11_at_11.16.41_AM.png",
-  "updated_at": "2020-12-08T00:49:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "CrÈme De Menthe",
-      "flavor_id": "1266",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Deweysuds",
-  "views": "1447",
-  "slug": "creme_de_bacco_theyearofmixing",
-  "total_flavoring": "11.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Seakow",
-      "score": "5",
-      "text": "I honestly thought cream fresh and tobacco would not work, but this is damn good. Well done!"
-    }
-  ]
+    "name": "Creme de bacco #theyearofmixing",
+    "description": "Mixed this up for the Flavor pro weekly mixers challenge.  I wanted a blended minty, creamy, tobacco mix.  The creme de menth is the main note and the vanilla bourbon and fresh cream support that and add some extra cream.  I did some digging and decided to combine the burley, native, and cured for the tobaaco.  The torrone is to add some sweetness to the tobaccos and blend it all together.  I'm digging it off the shake, but we will see how it steeps.  ",
+    "id": 83659,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83659\/Screen_Shot_2016-05-11_at_11.16.41_AM.png",
+    "updated_at": "2020-12-12T20:29:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cr\u00c8me De Menthe",
+            "flavor_id": "1266",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Deweysuds",
+    "views": "1454",
+    "created_at": "2018-01-14",
+    "slug": "creme_de_bacco_theyearofmixing",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83659.png",
+    "total_flavoring": "11.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Seakow",
+            "score": 5,
+            "text": "I honestly thought cream fresh and tobacco would not work, but this is damn good. Well done!"
+        }
+    ]
 }

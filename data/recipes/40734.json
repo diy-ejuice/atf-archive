@@ -1,62 +1,61 @@
 {
-  "name": "Blueberry Fluffs",
-  "description": "this is straight up blueberry cotton candy and very delicious mix this up and enjoy",
-  "id": 40734,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:26:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Cotton Candy",
-      "flavor_id": "1202",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "2225",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1423",
-  "slug": "blueberry_fluffs",
-  "total_flavoring": "14.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Fluffs",
+    "description": "this is straight up blueberry cotton candy and very delicious mix this up and enjoy",
+    "id": 40734,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Cotton Candy",
+            "flavor_id": "1202",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "2225",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1427",
+    "created_at": "2017-04-11",
+    "slug": "blueberry_fluffs",
+    "total_flavoring": "14.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95"
 }

@@ -1,50 +1,49 @@
 {
-  "name": "Nightsicle",
-  "description": "A creamy vanilla lime flavor. \r\n\r\nBalancing this recipe has been quite a challenge. \r\n\r\nLet's jump in. \r\n\r\nThere are 3 main notes. \r\n\r\nThe Creamy Texture. INW Yes We Cheesecake and TPA Vanilla Bean Ice Cream both have a wonderful creamy body that fills out this flavor. The butter from the CAP Sugar Cookie gives the cream depth and cuts through the citrus.  \r\n\r\nThe Vanilla. TPA Vanilla Bean Ice Cream (use LB if you're a pepper) is a medium dark vanilla. It holds up well against the zesty citrus. \r\n\r\n The Lime. The combination of VTA Persian Lime & FA Bergamot gives a bright natural lime flavor with lots of zest and most importantly it's not going to fade. \r\n\r\nI sweeten this recipe with 0.5% FW Sweetener. \r\n\r\nWatch the Video Here:\r\n\r\nhttps://youtu.be/53pRCV_iQL0",
-  "id": 200954,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 750,
-      "vendor": "VT"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "429",
-  "slug": "nightsicle",
-  "total_flavoring": "7.25%",
-  "steep_days": "3",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nightsicle",
+    "description": "A creamy vanilla lime flavor. \r\n\r\nBalancing this recipe has been quite a challenge. \r\n\r\nLet's jump in. \r\n\r\nThere are 3 main notes. \r\n\r\nThe Creamy Texture. INW Yes We Cheesecake and TPA Vanilla Bean Ice Cream both have a wonderful creamy body that fills out this flavor. The butter from the CAP Sugar Cookie gives the cream depth and cuts through the citrus.  \r\n\r\nThe Vanilla. TPA Vanilla Bean Ice Cream (use LB if you're a pepper) is a medium dark vanilla. It holds up well against the zesty citrus. \r\n\r\n The Lime. The combination of VTA Persian Lime & FA Bergamot gives a bright natural lime flavor with lots of zest and most importantly it's not going to fade. \r\n\r\nI sweeten this recipe with 0.5% FW Sweetener. \r\n\r\nWatch the Video Here:\r\n\r\nhttps:\/\/youtu.be\/53pRCV_iQL0",
+    "id": 200954,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 750,
+            "vendor": "VT"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "433",
+    "created_at": "2020-07-19",
+    "slug": "nightsicle",
+    "total_flavoring": "7.25%",
+    "steep_days": "3",
+    "best_vg": "80%",
+    "temperature": "0"
 }

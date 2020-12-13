@@ -1,80 +1,80 @@
 {
-  "name": "Chew Chewy ",
-  "description": "Very chewy pastry with rich vanilla cream and almonds. Reminds me of a nougat bar.",
-  "id": 66752,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66752/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-05T11:05:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "933",
-  "slug": "chew_chewy",
-  "total_flavoring": "11.6%",
-  "steep_days": "20",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chew Chewy ",
+    "description": "Very chewy pastry with rich vanilla cream and almonds. Reminds me of a nougat bar.",
+    "id": 66752,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66752\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-10T14:52:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "937",
+    "created_at": "2017-10-05",
+    "slug": "chew_chewy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66752.jpg",
+    "total_flavoring": "11.6%",
+    "steep_days": "20",
+    "best_vg": "70%",
+    "temperature": "0"
 }

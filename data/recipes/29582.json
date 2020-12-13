@@ -1,68 +1,68 @@
 {
-  "name": "Buckeye",
-  "description": "A favorite treat in the state of Ohio - creamy, fluffy peanut butter encased in milky smooth chocolate.\r\n\r\nINW milk chocolate and HS Australian chocolate- INW milk chocolate is good but needs some help, Australian chocolate is more of a dark chocolate that gives it a presence throughout the vape.\r\nTFA peanut butter/TFA cheesecake graham crust/FW cookie butter- TFA peanut butter combined with the cheesecake make it a more creamy, realistic peanut butter, just a touch of cookie butter for the saline that is found within the concentrate.\r\nFA cream fresh/HS vanilla ice cream/FA meringue - these pull it all together, smoothing it, giving it an extra creamy boost and an extra boost of sweetner.\r\nGive this a few days for the peanut butter to settle and for it all to meld. \r\n",
-  "id": 29582,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29582/IMG_2589.JPG",
-  "updated_at": "2020-12-08T00:49:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cookie Butter",
-      "flavor_id": "1257",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Simple_ruby",
-  "views": "1636",
-  "slug": "buckeye",
-  "total_flavoring": "11.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Buckeye",
+    "description": "A favorite treat in the state of Ohio - creamy, fluffy peanut butter encased in milky smooth chocolate.\r\n\r\nINW milk chocolate and HS Australian chocolate- INW milk chocolate is good but needs some help, Australian chocolate is more of a dark chocolate that gives it a presence throughout the vape.\r\nTFA peanut butter\/TFA cheesecake graham crust\/FW cookie butter- TFA peanut butter combined with the cheesecake make it a more creamy, realistic peanut butter, just a touch of cookie butter for the saline that is found within the concentrate.\r\nFA cream fresh\/HS vanilla ice cream\/FA meringue - these pull it all together, smoothing it, giving it an extra creamy boost and an extra boost of sweetner.\r\nGive this a few days for the peanut butter to settle and for it all to meld. \r\n",
+    "id": 29582,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29582\/IMG_2589.JPG",
+    "updated_at": "2020-12-10T14:51:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cookie Butter",
+            "flavor_id": "1257",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Simple_ruby",
+    "views": "1644",
+    "created_at": "2017-01-30",
+    "slug": "buckeye",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29582.JPG",
+    "total_flavoring": "11.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,99 +1,101 @@
 {
-  "name": "Chocolate Banana Nut Bread        ",
-  "description": "Banana nut bread on top melted chocolate and whipped cream",
-  "id": 20593,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20593/bannaa-breadr-1.jpg",
-  "updated_at": "2020-12-06T08:36:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "DX Brown Sugar",
-      "flavor_id": "3499",
-      "millipercent": 200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Chocolate V2",
-      "flavor_id": "47",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberries And Cream",
-      "flavor_id": "270",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dx Sweet Cream",
-      "flavor_id": "165",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "177",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "OhYeah",
-  "views": "1699",
-  "slug": "chocolate_banana_nut_bread",
-  "total_flavoring": "19.7%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Hetch",
-      "score": "none",
-      "text": "Now THAT is a lot of ingredients :) "
-    }
-  ]
+    "name": "Chocolate Banana Nut Bread        ",
+    "description": "Banana nut bread on top melted chocolate and whipped cream",
+    "id": 20593,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20593\/bannaa-breadr-1.jpg",
+    "updated_at": "2020-12-11T14:15:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "DX Brown Sugar",
+            "flavor_id": "3499",
+            "millipercent": 200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Chocolate V2",
+            "flavor_id": "47",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberries And Cream",
+            "flavor_id": "270",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dx Sweet Cream",
+            "flavor_id": "165",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "177",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "OhYeah",
+    "views": "1709",
+    "created_at": "2016-11-20",
+    "slug": "chocolate_banana_nut_bread",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20593.jpg",
+    "total_flavoring": "19.7%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Hetch",
+            "score": 0,
+            "text": "Now THAT is a lot of ingredients :) "
+        }
+    ]
 }

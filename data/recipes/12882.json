@@ -1,74 +1,76 @@
 {
-  "name": "God's Milk",
-  "description": "Strawberries and Cream may be way overdone, but I think this stands out enough to share it with everyone. Delicious strawberry milk taste with hazelnut and sugar cookie thrown in there for body",
-  "id": 12882,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12882/image.jpeg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "3073",
-      "millipercent": 3000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "5209",
-  "slug": "gods_milk",
-  "total_flavoring": "11.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "thefogvlog",
-      "score": "4",
-      "text": "Delicious Strawberry Cream recipe - nice ADV style recipe. Great body and mouthfeel in - enjoy the combo of strawberries in the mix. Wonder how this would work with INW Shisha Strawberry + JF Strawberry Sweet? Might give that a go soon - love the cream base! "
-    },
-    {
-      "user": "qb",
-      "score": "4",
-      "text": "After a 1 week steep, I am finding this to be a very tasty mix. The cream is prominent without being over heavy, with the main body of the mix coming from the cookie/nut. I do like the strawberry, however I prefer a more candied strawberry flavour, so I will swap the ratios of the strawberries around.  Thank you!"
-    }
-  ]
+    "name": "God's Milk",
+    "description": "Strawberries and Cream may be way overdone, but I think this stands out enough to share it with everyone. Delicious strawberry milk taste with hazelnut and sugar cookie thrown in there for body",
+    "id": 12882,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12882\/image.jpeg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "3073",
+            "millipercent": 3000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "5221",
+    "created_at": "2016-09-08",
+    "slug": "gods_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12882.jpeg",
+    "total_flavoring": "11.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "thefogvlog",
+            "score": 4,
+            "text": "Delicious Strawberry Cream recipe - nice ADV style recipe. Great body and mouthfeel in - enjoy the combo of strawberries in the mix. Wonder how this would work with INW Shisha Strawberry + JF Strawberry Sweet? Might give that a go soon - love the cream base! "
+        },
+        {
+            "user": "qb",
+            "score": 4,
+            "text": "After a 1 week steep, I am finding this to be a very tasty mix. The cream is prominent without being over heavy, with the main body of the mix coming from the cookie\/nut. I do like the strawberry, however I prefer a more candied strawberry flavour, so I will swap the ratios of the strawberries around.  Thank you!"
+        }
+    ]
 }

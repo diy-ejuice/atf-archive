@@ -1,44 +1,43 @@
 {
-  "name": "Peach Blossom",
-  "description": "http://e-liquid-recipes.com/recipe/869815/Peach%20Blossom%20\r\n\r\nPG/VG: 35/65\r\nSteep Time: ? (to be announced\r\n",
-  "id": 20572,
-  "image_url": null,
-  "updated_at": "2020-12-05T09:50:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "naiviv334",
-  "views": "1014",
-  "slug": "peach_blossom",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach Blossom",
+    "description": "http:\/\/e-liquid-recipes.com\/recipe\/869815\/Peach%20Blossom%20\r\n\r\nPG\/VG: 35\/65\r\nSteep Time: ? (to be announced\r\n",
+    "id": 20572,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "naiviv334",
+    "views": "1021",
+    "created_at": "2016-11-20",
+    "slug": "peach_blossom",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,51 +1,53 @@
 {
-  "name": "Valencia orange & passionfruit (Remix) ",
-  "description": "This is my remix of ohm boy valencia orange & passionfruit.\r\n\r\nCap sweet tangerine is definitely the main flavour In this juice, so at 5% it stands right at the front. \r\n\r\nCap juicy orange is there just to push that orange flavour even more (although I do believe they are only using cap sweet tangerine)\r\n\r\nI don't really taste too much passionfruit so I put it at 2%, this is enough for it show up in the background.\r\n\r\nIt's a commercial juice so ofcourse we have cap super sweet. \r\n\r\nIt can be snv but I recommend giving it atleast a week for the all the citrus to settle to down a little. ",
-  "id": 197969,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197969/Botanics-Orange-Passion-500x500.jpg",
-  "updated_at": "2020-12-08T00:51:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Tvsty1",
-  "views": "1031",
-  "slug": "valencia_orange_passionfruit_remix",
-  "total_flavoring": "8.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "lolneur0",
-      "score": "4",
-      "text": "This is good but its a little lite on the flavour!! At least for me."
-    }
-  ]
+    "name": "Valencia orange & passionfruit (Remix) ",
+    "description": "This is my remix of ohm boy valencia orange & passionfruit.\r\n\r\nCap sweet tangerine is definitely the main flavour In this juice, so at 5% it stands right at the front. \r\n\r\nCap juicy orange is there just to push that orange flavour even more (although I do believe they are only using cap sweet tangerine)\r\n\r\nI don't really taste too much passionfruit so I put it at 2%, this is enough for it show up in the background.\r\n\r\nIt's a commercial juice so ofcourse we have cap super sweet. \r\n\r\nIt can be snv but I recommend giving it atleast a week for the all the citrus to settle to down a little. ",
+    "id": 197969,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197969\/Botanics-Orange-Passion-500x500.jpg",
+    "updated_at": "2020-12-12T15:41:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Tvsty1",
+    "views": "1038",
+    "created_at": "2020-06-17",
+    "slug": "valencia_orange_passionfruit_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197969.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "lolneur0",
+            "score": 4,
+            "text": "This is good but its a little lite on the flavour!! At least for me."
+        }
+    ]
 }

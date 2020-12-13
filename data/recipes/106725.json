@@ -1,51 +1,53 @@
 {
-  "name": "PB Milkshake (Live Mixing)",
-  "description": "This is a gritty, rich, peanut butter milkshake with more a focus on the PB than the milk\r\n\r\nMade on Live Mixing:\r\nhttps://www.youtube.com/watch?v=G2ek90szkJA",
-  "id": 106725,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/106725/livemixing.jpg",
-  "updated_at": "2020-12-08T00:50:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackout",
-      "flavor_id": "9072",
-      "millipercent": 15000,
-      "vendor": "DOD"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Love DIY",
-      "flavor_id": "8920",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2767",
-  "slug": "pb_milkshake_live_mixing",
-  "total_flavoring": "22.0%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "Finally decided to try this it’s pretty damn good"
-    }
-  ]
+    "name": "PB Milkshake (Live Mixing)",
+    "description": "This is a gritty, rich, peanut butter milkshake with more a focus on the PB than the milk\r\n\r\nMade on Live Mixing:\r\nhttps:\/\/www.youtube.com\/watch?v=G2ek90szkJA",
+    "id": 106725,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/106725\/livemixing.jpg",
+    "updated_at": "2020-12-12T18:29:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackout",
+            "flavor_id": "9072",
+            "millipercent": 15000,
+            "vendor": "DOD"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Love DIY",
+            "flavor_id": "8920",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2776",
+    "created_at": "2018-06-22",
+    "slug": "pb_milkshake_live_mixing",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/106725.jpg",
+    "total_flavoring": "22.0%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "Finally decided to try this it\u2019s pretty damn good"
+        }
+    ]
 }

@@ -1,56 +1,55 @@
 {
-  "name": "Mixxed: Apple Spice Cookie",
-  "description": "Steep time: 1 week. \r\nSo after 12 recipes I think this is the one I'll submit. The idea with this recipe is to really focus on the apple and the spice. JF Fuji and 1.5% gives a solid apple flavors that doesn't overpower the recipe and TPA Strawberry ripe adds some sweetness to the apple to really balance out the tart and spice notes. \r\nFW Hazelnut adds a bit of a malty/nutty/buttery flavor that blends well with the bakery aspects of the recipe. CAP Cinnamon Danish Swirl serves two purposes in this recipe, first it provides the cinnamon for the spice layer, and second it provides a kind of dry bakery note to serve as a base. The CAP Sugar Cookie really just works on this bakery base to help it be a little more buttery and fluffy while sweetening up the recipe as well. Lastly the FA Cardamom is the secret ingredient in the recipe. It really helps nail the fall spice flavor and perfectly works with the cinnamon and apple while also balancing out the pastry elements. ",
-  "id": 18387,
-  "image_url": null,
-  "updated_at": "2020-12-05T17:42:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "4488",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cardamom",
-      "flavor_id": "498",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "MrColtux",
-  "views": "811",
-  "slug": "mixxed_apple_spice_cookie",
-  "total_flavoring": "11.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mixxed: Apple Spice Cookie",
+    "description": "Steep time: 1 week. \r\nSo after 12 recipes I think this is the one I'll submit. The idea with this recipe is to really focus on the apple and the spice. JF Fuji and 1.5% gives a solid apple flavors that doesn't overpower the recipe and TPA Strawberry ripe adds some sweetness to the apple to really balance out the tart and spice notes. \r\nFW Hazelnut adds a bit of a malty\/nutty\/buttery flavor that blends well with the bakery aspects of the recipe. CAP Cinnamon Danish Swirl serves two purposes in this recipe, first it provides the cinnamon for the spice layer, and second it provides a kind of dry bakery note to serve as a base. The CAP Sugar Cookie really just works on this bakery base to help it be a little more buttery and fluffy while sweetening up the recipe as well. Lastly the FA Cardamom is the secret ingredient in the recipe. It really helps nail the fall spice flavor and perfectly works with the cinnamon and apple while also balancing out the pastry elements. ",
+    "id": 18387,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "4488",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cardamom",
+            "flavor_id": "498",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "MrColtux",
+    "views": "821",
+    "created_at": "2016-10-31",
+    "slug": "mixxed_apple_spice_cookie",
+    "total_flavoring": "11.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

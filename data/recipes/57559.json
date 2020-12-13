@@ -1,44 +1,43 @@
 {
-  "name": "Apple Bourbon Ginger (mlNikon)",
-  "description": "Gingerbread and apple with a touch of cinnamon and bourbon warmth",
-  "id": 57559,
-  "image_url": null,
-  "updated_at": "2020-12-06T12:54:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel Cinnamon Roll",
-      "flavor_id": "1234",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "926",
-  "slug": "apple_bourbon_ginger_mlnikon",
-  "total_flavoring": "8.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple Bourbon Ginger (mlNikon)",
+    "description": "Gingerbread and apple with a touch of cinnamon and bourbon warmth",
+    "id": 57559,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel Cinnamon Roll",
+            "flavor_id": "1234",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "930",
+    "created_at": "2017-07-29",
+    "slug": "apple_bourbon_ginger_mlnikon",
+    "total_flavoring": "8.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

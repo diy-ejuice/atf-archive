@@ -1,68 +1,68 @@
 {
-  "name": "Paradise Peach",
-  "description": "Sweet peach with hints of mango, guava, and vanilla cream. Steep for about 2 days and vape away. \r\nFA Peach White and TPA Peach (Juicy) are the stars of the show here, followed by Cap Sweet Mango and Sweet Guava for a tropical top note, TPA Bavarian Cream and Vanilla Swirl for that creamy vanilla, and a touch of FW Blood Orange  just for a little tangy kick.\r\n  ",
-  "id": 125928,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/125928/03130-Peach-and-Mango-Flavoured-Drink-Mix.jpg",
-  "updated_at": "2020-12-06T20:51:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "setkaos",
-  "views": "1692",
-  "slug": "paradise_peach",
-  "total_flavoring": "11.25%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Paradise Peach",
+    "description": "Sweet peach with hints of mango, guava, and vanilla cream. Steep for about 2 days and vape away. \r\nFA Peach White and TPA Peach (Juicy) are the stars of the show here, followed by Cap Sweet Mango and Sweet Guava for a tropical top note, TPA Bavarian Cream and Vanilla Swirl for that creamy vanilla, and a touch of FW Blood Orange  just for a little tangy kick.\r\n  ",
+    "id": 125928,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/125928\/03130-Peach-and-Mango-Flavoured-Drink-Mix.jpg",
+    "updated_at": "2020-12-10T14:52:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "setkaos",
+    "views": "1700",
+    "created_at": "2018-11-04",
+    "slug": "paradise_peach",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/125928.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0"
 }

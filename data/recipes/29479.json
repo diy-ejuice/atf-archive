@@ -1,62 +1,64 @@
 {
-  "name": "Mango Hi-Chew",
-  "description": "The king of all chewy candy, the semi-elusive Mango Hi-Chew. The candy itself is just as much about texture as flavor, as it manages to be the sweet spot between something juicy and sweet like a starburst and chewy and substantial like taffy. I tried to replicate that at best as I could in vape form.\r\n\r\nThe fruit flavor here comes primarily from CAP Sweet Mango. The concentrate has a really soft, almost buttery overripe kind of mango quality that manages to be thick enough it's almost chewy.  It's lacking most of the brightness and acidity you expect from a mango flavor, and it gets super weird at higher percentages so I had to build my juice around the level of mango flavor I could get without dragging up all those buttery earth notes that CAP Sweet Mango can get when it's overdone.\r\n\r\nIn my experience, peach and mango candy flavors are fairly similar, and I've used a a small percentage of a juicy peach to add some spark to the sweet mango without making it taste like a peach candy. CAP Juicy Peach has slightly less throat hit than TFA, and adds some of the acid and wetness to match the actual fruit flavor in the hi-chew. Still fairly potent, and even .25% brings up some throat-hit issues that I had to address.\r\n\r\nCAP Marshmallow is foremost a textual element in here. I want some fluffyness and volume to the juice, helping it hit that taffy kind of mouthfeel.  I think 2% gave me a nice volume without muting out that mango or bringing in too much vanilla.\r\n\r\nTFA Whipped Cream is an accommodation for the contest format, and used mostly as an emulsifier for that mango and marshmallow. It does a lot work here, keeping the throat hit from the peach under control, dulling some of the more ripe notes from the mango,  and pulling down some of the dry sugar and vanilla notes from the marshmallow further into the juice while adding to the thicker mouthfeel. Triacetin is a helluva drug, and it ends up being pretty vital for the shake and vape part of the contest.\r\n\r\nIt's a candy, so I think some sweetener is definitely a fit for the profile. I've gone with 1% of TFA Sweetener, because I wanted some of the inherent ethyl maltol sweetness for the mango note here, as well as the heavier, sugary sucralose to sort of force the juice onto your palate and further deaden the sharp edges on the peach and marshmallow.\r\n\r\nI mixed this at 70%VG and 1.5mg nicotine, just because I felt like the higher pg was accentuating the weird notes in the sweet mango, but it's not a night or day difference in terms of flavor over 60%VG.",
-  "id": 29479,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29479/hi-chew.png",
-  "updated_at": "2020-12-08T00:49:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ConcreteRiver",
-  "views": "7870",
-  "slug": "mango_hichew",
-  "total_flavoring": "7.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "This was pretty light in flavor but it didn’t taste bad. And it was very moist/juicy like a hi chew would be if you were chewing it. I didn’t really get a chewy mouthfeel. Like the real candy, but that is perfectly fine. "
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is a really good, really simple fruit candy recipe.  I dig it."
-    }
-  ]
+    "name": "Mango Hi-Chew",
+    "description": "The king of all chewy candy, the semi-elusive Mango Hi-Chew. The candy itself is just as much about texture as flavor, as it manages to be the sweet spot between something juicy and sweet like a starburst and chewy and substantial like taffy. I tried to replicate that at best as I could in vape form.\r\n\r\nThe fruit flavor here comes primarily from CAP Sweet Mango. The concentrate has a really soft, almost buttery overripe kind of mango quality that manages to be thick enough it's almost chewy.  It's lacking most of the brightness and acidity you expect from a mango flavor, and it gets super weird at higher percentages so I had to build my juice around the level of mango flavor I could get without dragging up all those buttery earth notes that CAP Sweet Mango can get when it's overdone.\r\n\r\nIn my experience, peach and mango candy flavors are fairly similar, and I've used a a small percentage of a juicy peach to add some spark to the sweet mango without making it taste like a peach candy. CAP Juicy Peach has slightly less throat hit than TFA, and adds some of the acid and wetness to match the actual fruit flavor in the hi-chew. Still fairly potent, and even .25% brings up some throat-hit issues that I had to address.\r\n\r\nCAP Marshmallow is foremost a textual element in here. I want some fluffyness and volume to the juice, helping it hit that taffy kind of mouthfeel.  I think 2% gave me a nice volume without muting out that mango or bringing in too much vanilla.\r\n\r\nTFA Whipped Cream is an accommodation for the contest format, and used mostly as an emulsifier for that mango and marshmallow. It does a lot work here, keeping the throat hit from the peach under control, dulling some of the more ripe notes from the mango,  and pulling down some of the dry sugar and vanilla notes from the marshmallow further into the juice while adding to the thicker mouthfeel. Triacetin is a helluva drug, and it ends up being pretty vital for the shake and vape part of the contest.\r\n\r\nIt's a candy, so I think some sweetener is definitely a fit for the profile. I've gone with 1% of TFA Sweetener, because I wanted some of the inherent ethyl maltol sweetness for the mango note here, as well as the heavier, sugary sucralose to sort of force the juice onto your palate and further deaden the sharp edges on the peach and marshmallow.\r\n\r\nI mixed this at 70%VG and 1.5mg nicotine, just because I felt like the higher pg was accentuating the weird notes in the sweet mango, but it's not a night or day difference in terms of flavor over 60%VG.",
+    "id": 29479,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29479\/hi-chew.png",
+    "updated_at": "2020-12-12T20:28:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ConcreteRiver",
+    "views": "7888",
+    "created_at": "2017-01-29",
+    "slug": "mango_hichew",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29479.png",
+    "total_flavoring": "7.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "This was pretty light in flavor but it didn\u2019t taste bad. And it was very moist\/juicy like a hi chew would be if you were chewing it. I didn\u2019t really get a chewy mouthfeel. Like the real candy, but that is perfectly fine. "
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is a really good, really simple fruit candy recipe.  I dig it."
+        }
+    ]
 }

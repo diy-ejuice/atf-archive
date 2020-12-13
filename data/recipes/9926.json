@@ -1,74 +1,76 @@
 {
-  "name": "Idioteque (Lemon Cheesecake)",
-  "description": "Super rich, creamy cheesecake with just the right amount of lemon. Minimum of 1 week steep or the anise in Nonna's cake will be way too strong. Mellows out after that; boosts the lemon and overall thick creaminess of the vape. ",
-  "id": 9926,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9926/image.jpeg",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 6500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "3072",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "McFly",
-  "views": "3147",
-  "slug": "idioteque_lemon_cheesecake",
-  "total_flavoring": "14.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Thadentman",
-      "score": "5",
-      "text": "I wanted to make a lemon cheesecake, and then I seen this. The mix of nonnas cake and jf juicy lemon was a great choice and the meringue too. Great job!"
-    },
-    {
-      "user": "jbird",
-      "score": "5",
-      "text": "This is so good! JF Juicy Lemon is awesome. I really can't get enough of this. Just whipped up another 120ml. Great job!"
-    }
-  ]
+    "name": "Idioteque (Lemon Cheesecake)",
+    "description": "Super rich, creamy cheesecake with just the right amount of lemon. Minimum of 1 week steep or the anise in Nonna's cake will be way too strong. Mellows out after that; boosts the lemon and overall thick creaminess of the vape. ",
+    "id": 9926,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9926\/image.jpeg",
+    "updated_at": "2020-12-12T11:50:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 6500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "3072",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "McFly",
+    "views": "3159",
+    "created_at": "2016-08-07",
+    "slug": "idioteque_lemon_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9926.jpeg",
+    "total_flavoring": "14.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Thadentman",
+            "score": 5,
+            "text": "I wanted to make a lemon cheesecake, and then I seen this. The mix of nonnas cake and jf juicy lemon was a great choice and the meringue too. Great job!"
+        },
+        {
+            "user": "jbird",
+            "score": 5,
+            "text": "This is so good! JF Juicy Lemon is awesome. I really can't get enough of this. Just whipped up another 120ml. Great job!"
+        }
+    ]
 }

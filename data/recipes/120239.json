@@ -1,57 +1,59 @@
 {
-  "name": "mlNikon's Biscoff",
-  "description": "This is my attempt at creating the biscoff cookies in vape form. they are buttery graham cracker type cookies with a bit of gingerbread and molasses. ",
-  "id": 120239,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/120239/Biscoff.jpg",
-  "updated_at": "2020-12-08T00:50:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1709",
-  "slug": "mlnikons_biscoff",
-  "total_flavoring": "5.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "About a month ago we bought some of the Biscoff Cookie Butter both the creamy and the chunky versions.  Not a good idea..  I ate most of it straight from the jar and barely needed a spoon.  Then I thought this would make a great vape, I'm sure some one out there has given it a go.  And here we are.  Really tasty off the shake and the aroma is right on.  Tastes like the cookie that goes into the butter.  This isn't as sweet as the actual food item, but it doesn't need to be.  Great recipe.  Oh and I didn't have JF Buscuit so yeah.. Great fucking recipe."
-    }
-  ]
+    "name": "mlNikon's Biscoff",
+    "description": "This is my attempt at creating the biscoff cookies in vape form. they are buttery graham cracker type cookies with a bit of gingerbread and molasses. ",
+    "id": 120239,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/120239\/Biscoff.jpg",
+    "updated_at": "2020-12-12T11:52:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1720",
+    "created_at": "2018-09-23",
+    "slug": "mlnikons_biscoff",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/120239.jpg",
+    "total_flavoring": "5.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "About a month ago we bought some of the Biscoff Cookie Butter both the creamy and the chunky versions.  Not a good idea..  I ate most of it straight from the jar and barely needed a spoon.  Then I thought this would make a great vape, I'm sure some one out there has given it a go.  And here we are.  Really tasty off the shake and the aroma is right on.  Tastes like the cookie that goes into the butter.  This isn't as sweet as the actual food item, but it doesn't need to be.  Great recipe.  Oh and I didn't have JF Buscuit so yeah.. Great fucking recipe."
+        }
+    ]
 }

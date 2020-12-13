@@ -1,56 +1,55 @@
 {
-  "name": "Chilled to the core ",
-  "description": "Crisp, chilly and a nice little mix for any fan of menthol with the added taste of apple\r\nI would say that although I did create this myself \r\nIt's very simple and every chance it's all been done before.\r\nHaving said that, sometimes keeping it simple to achieve what you set out for is a thing of greatness.\r\n\r\nThis recipe is still being tweeked and I may update this.\r\nDepending on your love of menthol I would say start at 3% maybe go 4%",
-  "id": 20791,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:42:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Menthol",
-      "flavor_id": "728",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 200,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Hackett141",
-  "views": "948",
-  "slug": "chilled_to_the_core",
-  "total_flavoring": "7.2%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chilled to the core ",
+    "description": "Crisp, chilly and a nice little mix for any fan of menthol with the added taste of apple\r\nI would say that although I did create this myself \r\nIt's very simple and every chance it's all been done before.\r\nHaving said that, sometimes keeping it simple to achieve what you set out for is a thing of greatness.\r\n\r\nThis recipe is still being tweeked and I may update this.\r\nDepending on your love of menthol I would say start at 3% maybe go 4%",
+    "id": 20791,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Menthol",
+            "flavor_id": "728",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 200,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Hackett141",
+    "views": "956",
+    "created_at": "2016-11-22",
+    "slug": "chilled_to_the_core",
+    "total_flavoring": "7.2%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

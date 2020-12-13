@@ -1,44 +1,43 @@
 {
-  "name": "Doughberry",
-  "description": "Blueberry doughnut",
-  "id": 14384,
-  "image_url": null,
-  "updated_at": "2020-11-30T16:53:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "PolarizedOath",
-  "views": "1280",
-  "slug": "doughberry",
-  "total_flavoring": "15.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Doughberry",
+    "description": "Blueberry doughnut",
+    "id": 14384,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:44:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "PolarizedOath",
+    "views": "1287",
+    "created_at": "2016-09-24",
+    "slug": "doughberry",
+    "total_flavoring": "15.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

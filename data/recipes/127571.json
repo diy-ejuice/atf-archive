@@ -1,81 +1,83 @@
 {
-  "name": "Ancient Custard",
-  "description": "Thick smooth vanilla custard covered with a caramelized thin crust.\r\n \r\nSteeping: It's really tasty as a shake and vape but for better results you should wait 8-10 days.",
-  "id": 127571,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127571/Ancient_Custard200x200.png",
-  "updated_at": "2020-12-08T00:50:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "vagdal",
-  "views": "2869",
-  "slug": "ancient_custard",
-  "total_flavoring": "12.15%",
-  "steep_days": "8 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Untitled",
-      "score": "4",
-      "text": "I mixed this one up, left it steeping for 7 days and its definitely what you said.... vanilla custard covered by a caramelised thin crust but tbh i don't enjoy it  that much as you did which doesn't mean it's not good! but still interesting profile! :-)"
-    }
-  ]
+    "name": "Ancient Custard",
+    "description": "Thick smooth vanilla custard covered with a caramelized thin crust.\r\n \r\nSteeping: It's really tasty as a shake and vape but for better results you should wait 8-10 days.",
+    "id": 127571,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127571\/Ancient_Custard200x200.png",
+    "updated_at": "2020-12-12T17:12:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "vagdal",
+    "views": "2878",
+    "created_at": "2018-11-16",
+    "slug": "ancient_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127571.png",
+    "total_flavoring": "12.15%",
+    "steep_days": "8 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Untitled",
+            "score": 4,
+            "text": "I mixed this one up, left it steeping for 7 days and its definitely what you said.... vanilla custard covered by a caramelised thin crust but tbh i don't enjoy it  that much as you did which doesn't mean it's not good! but still interesting profile! :-)"
+        }
+    ]
 }

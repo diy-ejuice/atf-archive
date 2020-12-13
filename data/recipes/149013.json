@@ -1,62 +1,64 @@
 {
-  "name": "Dragon Fruit with Creamy Rice",
-  "description": "Hi all,\r\nI don't have to say much, feel free to add some sweetener.",
-  "id": 149013,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149013/FotoJet__1_.jpg",
-  "updated_at": "2020-12-08T00:50:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 5000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Untitled",
-  "views": "1702",
-  "slug": "dragon_fruit_with_creamy_rice",
-  "total_flavoring": "14.75%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "asmirm",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "I saw 5 percent sweet rice and 5 percent dragonfruit. I bit. This is fucking rad  and so so unique. Its milky, thick, starch laden strawberries and it's so so satisfying and unique. Turns out I'm an untitled fan. Cool work dude!"
-    }
-  ]
+    "name": "Dragon Fruit with Creamy Rice",
+    "description": "Hi all,\r\nI don't have to say much, feel free to add some sweetener.",
+    "id": 149013,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149013\/FotoJet__1_.jpg",
+    "updated_at": "2020-12-12T15:40:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 5000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Untitled",
+    "views": "1711",
+    "created_at": "2019-04-28",
+    "slug": "dragon_fruit_with_creamy_rice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149013.jpg",
+    "total_flavoring": "14.75%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "asmirm",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "I saw 5 percent sweet rice and 5 percent dragonfruit. I bit. This is fucking rad  and so so unique. Its milky, thick, starch laden strawberries and it's so so satisfying and unique. Turns out I'm an untitled fan. Cool work dude!"
+        }
+    ]
 }

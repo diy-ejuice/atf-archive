@@ -1,32 +1,32 @@
 {
-  "name": "Thick Cherry Custard",
-  "description": "When used at 4% NF Almond is a thick cooked cherry, very realistic too.\r\nSA VCN does all of the heavy lifting for the custard all by itself.\r\nSimple and delicious. \r\n\r\nUpdate: so my bad, I dumped the 2 testers together to create this and its been pointed out to me that these % should have been cut in half. I'm altering the recipe now to reflect the change.",
-  "id": 189568,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189568/blackcherry.jpg",
-  "updated_at": "2020-12-06T14:09:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "6804",
-      "millipercent": 2000,
-      "vendor": "NF"
-    },
-    {
-      "name": "Vanilla Custard nougatine",
-      "flavor_id": "5840",
-      "millipercent": 1500,
-      "vendor": "SA"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "338",
-  "slug": "thick_cherry_custard",
-  "total_flavoring": "3.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Thick Cherry Custard",
+    "description": "When used at 4% NF Almond is a thick cooked cherry, very realistic too.\r\nSA VCN does all of the heavy lifting for the custard all by itself.\r\nSimple and delicious. \r\n\r\nUpdate: so my bad, I dumped the 2 testers together to create this and its been pointed out to me that these % should have been cut in half. I'm altering the recipe now to reflect the change.",
+    "id": 189568,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189568\/blackcherry.jpg",
+    "updated_at": "2020-12-10T16:01:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "6804",
+            "millipercent": 2000,
+            "vendor": "NF"
+        },
+        {
+            "name": "Vanilla Custard nougatine",
+            "flavor_id": "5840",
+            "millipercent": 1500,
+            "vendor": "SA"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "345",
+    "created_at": "2020-03-29",
+    "slug": "thick_cherry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189568.jpg",
+    "total_flavoring": "3.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

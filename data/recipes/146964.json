@@ -1,57 +1,59 @@
 {
-  "name": "CRM CGR ",
-  "description": "I've been chasing a creamy smooth cigar like sweet tobacco. \r\n\r\nThis is all that, its a cigar like tobacco (Kentucky + Red Burley)  - backed up with a THICC and dirty cream (RY4 Double + CAP Sweet Cream). With a good Vanilla to hold the two together (Holy Vanilla).\r\n\r\nSweeten to taste - I like it at 0.2% SS.",
-  "id": 146964,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146964/POD_CRM_CGR.png",
-  "updated_at": "2020-12-08T00:50:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "thefogvlog",
-  "views": "2050",
-  "slug": "crm_cgr",
-  "total_flavoring": "15.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "Excellent tobacco recipe.  Love the taste of Burley in the morning! Sweet cream took a few days but came in nicely and rounded things out.  Great job  .. update  .  Man this is a great testing recipe using it in my v frenzy pod and loving it. "
-    }
-  ]
+    "name": "CRM CGR ",
+    "description": "I've been chasing a creamy smooth cigar like sweet tobacco. \r\n\r\nThis is all that, its a cigar like tobacco (Kentucky + Red Burley)  - backed up with a THICC and dirty cream (RY4 Double + CAP Sweet Cream). With a good Vanilla to hold the two together (Holy Vanilla).\r\n\r\nSweeten to taste - I like it at 0.2% SS.",
+    "id": 146964,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146964\/POD_CRM_CGR.png",
+    "updated_at": "2020-12-12T14:07:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "thefogvlog",
+    "views": "2057",
+    "created_at": "2019-04-13",
+    "slug": "crm_cgr",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146964.png",
+    "total_flavoring": "15.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "Excellent tobacco recipe.  Love the taste of Burley in the morning! Sweet cream took a few days but came in nicely and rounded things out.  Great job  .. update  .  Man this is a great testing recipe using it in my v frenzy pod and loving it. "
+        }
+    ]
 }

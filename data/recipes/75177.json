@@ -1,75 +1,76 @@
 {
-  "name": "Pumpkin Pie Pudding",
-  "description": "just alil something different too have on the table during thanksgiving nice and creamy with alil hint of pumpkin pie in the background it will be good to enjoy with friends and family while laughing and joking also watching your favorite football teams in the morning and afternoon\r\n\r\nHappy Thanksgiving everyone maybe next year we can all get along as a community ",
-  "id": 75177,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pumpkin Pie",
-      "flavor_id": "5896",
-      "millipercent": 3000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1143",
-  "slug": "pumpkin_pie_pudding",
-  "total_flavoring": "14.0%",
-  "steep_days": "4",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Pumpkin Pie Pudding",
+    "description": "just alil something different too have on the table during thanksgiving nice and creamy with alil hint of pumpkin pie in the background it will be good to enjoy with friends and family while laughing and joking also watching your favorite football teams in the morning and afternoon\r\n\r\nHappy Thanksgiving everyone maybe next year we can all get along as a community ",
+    "id": 75177,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:39:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pumpkin Pie",
+            "flavor_id": "5896",
+            "millipercent": 3000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1150",
+    "created_at": "2017-11-20",
+    "slug": "pumpkin_pie_pudding",
+    "total_flavoring": "14.0%",
+    "steep_days": "4",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

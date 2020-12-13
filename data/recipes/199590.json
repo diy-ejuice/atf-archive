@@ -1,50 +1,50 @@
 {
-  "name": "Simple Boston Cream Pie",
-  "description": "Simple Boston Cream Pie Recipe \r\n\r\nWatch the Video Here: https://youtu.be/XqEKMMRqwA0",
-  "id": 199590,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199590/Boston-Cream-Pie-Birthday-Cake-SQ.jpg",
-  "updated_at": "2020-12-07T17:36:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Glamour Chocolate",
-      "flavor_id": "1552",
-      "millipercent": 2500,
-      "vendor": "MB"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "689",
-  "slug": "simple_boston_cream_pie",
-  "total_flavoring": "9.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Simple Boston Cream Pie",
+    "description": "Simple Boston Cream Pie Recipe \r\n\r\nWatch the Video Here: https:\/\/youtu.be\/XqEKMMRqwA0",
+    "id": 199590,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/199590\/Boston-Cream-Pie-Birthday-Cake-SQ.jpg",
+    "updated_at": "2020-12-12T11:53:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Glamour Chocolate",
+            "flavor_id": "1552",
+            "millipercent": 2500,
+            "vendor": "MB"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "698",
+    "created_at": "2020-07-04",
+    "slug": "simple_boston_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/199590.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

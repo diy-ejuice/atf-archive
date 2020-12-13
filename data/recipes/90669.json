@@ -1,75 +1,77 @@
 {
-  "name": "Fresh's Cream filled Cupcakes",
-  "description": "Week - 9 The Year of Mixing Challenge  \r\n\r\nMy Tribute Recipe to one of my favorite mixers, Fresh03.  I know how much he loves lava cake, and cupcakes, and creamy custardy things, and this recipe hits all of that.  I did not list sweetener in the recipe, but I would suggest 0.5% CAP Super Sweet, or 1% FW Sweetener, or 0.5% FLV Sweetness. Since there were a few options for sweetener I've left it up to the mixer to decide if they want to add it. IF you want to forego the sweetener this recipe works fine without it, but is a little bolder with the sweetener added. \r\n\r\nIf you don't have vape wizard you can skip it out of the recipe and everything will work fine without it. It is there to add just a touch more body to the recipe boosting the creams.  \r\n\r\nThis recipe is just a simple chocolate cupcake with a whipped marshmallow cream filling and the powder sugar helps bring out a frosting type taste. \r\n\r\nI suggest a 2 week steep, you could probably even go a full 4 weeks for the cupcake and creams to fully develop, but if you enjoy these flavors shake and vape, I say go for it. It was unoffensive as a shake and vape, but the flavors really come out better after a few weeks of steeping. ",
-  "id": 90669,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90669/freshy.PNG",
-  "updated_at": "2020-12-08T00:49:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Whipped Marshmallow",
-      "flavor_id": "8744",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 350,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "3318",
-  "slug": "freshs_cream_filled_cupcakes",
-  "total_flavoring": "15.6%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Deweysuds",
-      "score": "4",
-      "text": ":  One month steep.  I’m getting a nice vanilla cupcake with chocolate cream filling.  Very fluffy in texture over all.  You can taste both the chocolate and vanilla separately which is a nice trick.  Chocolate concentrates typically turn the whole vape into a chocolate.  The only shortcoming I’m seeing is that I’m getting a creamy texture over all and really no cake texture.  You do get a cake flavor, just not the texture.  That is tricky to pull off though.  Overall very tasty and the flavor is layered well.  You can taste all the elements.  Good work.  "
-    }
-  ]
+    "name": "Fresh's Cream filled Cupcakes",
+    "description": "Week - 9 The Year of Mixing Challenge  \r\n\r\nMy Tribute Recipe to one of my favorite mixers, Fresh03.  I know how much he loves lava cake, and cupcakes, and creamy custardy things, and this recipe hits all of that.  I did not list sweetener in the recipe, but I would suggest 0.5% CAP Super Sweet, or 1% FW Sweetener, or 0.5% FLV Sweetness. Since there were a few options for sweetener I've left it up to the mixer to decide if they want to add it. IF you want to forego the sweetener this recipe works fine without it, but is a little bolder with the sweetener added. \r\n\r\nIf you don't have vape wizard you can skip it out of the recipe and everything will work fine without it. It is there to add just a touch more body to the recipe boosting the creams.  \r\n\r\nThis recipe is just a simple chocolate cupcake with a whipped marshmallow cream filling and the powder sugar helps bring out a frosting type taste. \r\n\r\nI suggest a 2 week steep, you could probably even go a full 4 weeks for the cupcake and creams to fully develop, but if you enjoy these flavors shake and vape, I say go for it. It was unoffensive as a shake and vape, but the flavors really come out better after a few weeks of steeping. ",
+    "id": 90669,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90669\/freshy.PNG",
+    "updated_at": "2020-12-12T11:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Whipped Marshmallow",
+            "flavor_id": "8744",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 350,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "3329",
+    "created_at": "2018-03-02",
+    "slug": "freshs_cream_filled_cupcakes",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90669.PNG",
+    "total_flavoring": "15.6%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Deweysuds",
+            "score": 4,
+            "text": ":  One month steep.  I\u2019m getting a nice vanilla cupcake with chocolate cream filling.  Very fluffy in texture over all.  You can taste both the chocolate and vanilla separately which is a nice trick.  Chocolate concentrates typically turn the whole vape into a chocolate.  The only shortcoming I\u2019m seeing is that I\u2019m getting a creamy texture over all and really no cake texture.  You do get a cake flavor, just not the texture.  That is tricky to pull off though.  Overall very tasty and the flavor is layered well.  You can taste all the elements.  Good work.  "
+        }
+    ]
 }

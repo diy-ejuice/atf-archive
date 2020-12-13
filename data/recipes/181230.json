@@ -1,87 +1,89 @@
 {
-  "name": "White chocolate Biscuits",
-  "description": "Hello. White chocolate biscuits with cream and some sweet rice. Steep 4-5 days and ready for vape. Enjoy!",
-  "id": 181230,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181230/37235422-a-bunch-of-white-chocolate-biscuit-rings-on-a-white-background.jpg",
-  "updated_at": "2020-12-08T00:51:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookies & Cream",
-      "flavor_id": "8861",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Love DIY",
-      "flavor_id": "8920",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "White Chocolate (Milky Cream)",
-      "flavor_id": "10271",
-      "millipercent": 2000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "1608",
-  "slug": "white_chocolate_biscuits",
-  "total_flavoring": "11.7%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Eirini",
-      "score": "5",
-      "text": "Really tasty and you feel the white chocolate with the biscuit. Ty for sharing!"
-    }
-  ]
+    "name": "White chocolate Biscuits",
+    "description": "Hello. White chocolate biscuits with cream and some sweet rice. Steep 4-5 days and ready for vape. Enjoy!",
+    "id": 181230,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/181230\/37235422-a-bunch-of-white-chocolate-biscuit-rings-on-a-white-background.jpg",
+    "updated_at": "2020-12-12T20:31:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookies & Cream",
+            "flavor_id": "8861",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Love DIY",
+            "flavor_id": "8920",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "White Chocolate (Milky Cream)",
+            "flavor_id": "10271",
+            "millipercent": 2000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "1617",
+    "created_at": "2020-01-15",
+    "slug": "white_chocolate_biscuits",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/181230.jpg",
+    "total_flavoring": "11.7%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Eirini",
+            "score": 5,
+            "text": "Really tasty and you feel the white chocolate with the biscuit. Ty for sharing!"
+        }
+    ]
 }

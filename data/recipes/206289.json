@@ -1,38 +1,37 @@
 {
-  "name": "Summer Paradise",
-  "description": "This is just something simple I made. If you try the recipe out, please provide a review!",
-  "id": 206289,
-  "image_url": null,
-  "updated_at": "2020-12-06T04:12:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "73",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Melon Cantaloupe",
-      "flavor_id": "529",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "YourMainMatt",
-  "views": "352",
-  "slug": "summer_paradise",
-  "total_flavoring": "6.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Summer Paradise",
+    "description": "This is just something simple I made. If you try the recipe out, please provide a review!",
+    "id": 206289,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:53:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "73",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Melon Cantaloupe",
+            "flavor_id": "529",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "YourMainMatt",
+    "views": "358",
+    "created_at": "2020-09-29",
+    "slug": "summer_paradise",
+    "total_flavoring": "6.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

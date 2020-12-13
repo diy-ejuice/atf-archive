@@ -1,51 +1,53 @@
 {
-  "name": "Blackest Nights v3",
-  "description": "A Djarum Black inspired recipe. Still very much a work in progress. ",
-  "id": 94533,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/94533/PicsArt_07-09-07.43.24.jpg",
-  "updated_at": "2020-12-08T00:50:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "7leaves Ultimate",
-      "flavor_id": "465",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Desert Ship Blend",
-      "flavor_id": "431",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Clove",
-      "flavor_id": "639",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "1333",
-  "slug": "blackest_nights_v3",
-  "total_flavoring": "6.05%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Foment_life",
-      "score": "5",
-      "text": "This is the first tobacco recipe I ever actually enjoyed.&#xD;\n&#xD;\nIt is very true to a Djarum black. The only thing it is really missing is the ash. Honestly I don't know that missing that is really a bad thing, but given the inspiration it is the only real criticism I think I can leave for this recipe. This is potent enough to use in a pod, but not overpowering or lacking in balance when used for direct lung "
-    }
-  ]
+    "name": "Blackest Nights v3",
+    "description": "A Djarum Black inspired recipe. Still very much a work in progress. ",
+    "id": 94533,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/94533\/PicsArt_07-09-07.43.24.jpg",
+    "updated_at": "2020-12-12T11:51:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "7leaves Ultimate",
+            "flavor_id": "465",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Desert Ship Blend",
+            "flavor_id": "431",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Clove",
+            "flavor_id": "639",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "1339",
+    "created_at": "2018-03-29",
+    "slug": "blackest_nights_v3",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/94533.jpg",
+    "total_flavoring": "6.05%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Foment_life",
+            "score": 5,
+            "text": "This is the first tobacco recipe I ever actually enjoyed.&#xD;\n&#xD;\nIt is very true to a Djarum black. The only thing it is really missing is the ash. Honestly I don't know that missing that is really a bad thing, but given the inspiration it is the only real criticism I think I can leave for this recipe. This is potent enough to use in a pod, but not overpowering or lacking in balance when used for direct lung "
+        }
+    ]
 }

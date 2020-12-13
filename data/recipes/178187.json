@@ -1,68 +1,70 @@
 {
-  "name": "Almond Roasted Crunch",
-  "description": "In this recipe the idea was to recreate what this image shows.\r\nA sweetened honey milk with a floating toasted almond crunch.\r\n\r\nSo for the milk base i went the classic route with 2% Bavarian Cream and 1% Vanilla swirl, easy simple yet efective. \r\nTo add a honey sweetness vibe Milk & Honey is perfect dark sweetness for this mix.\r\nAnd to make the Roasty almonds a combination between FA Almond and CAP Cereal 27 did the trick for a crunchy roasted almond.\r\n",
-  "id": 178187,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178187/IMG_1420.JPG",
-  "updated_at": "2020-12-08T00:51:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VenSyBoy",
-  "views": "1851",
-  "slug": "almond_roasted_crunch",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ronc",
-      "score": "5",
-      "text": "This deserves more 5 star reviews! Kickass recipe! Great well balanced use of Cereal 27. One problem. I never chain vaped till i filled my tank with this. I literally couldnt put this down. Great job!"
-    },
-    {
-      "user": "Jonnycoldcutz",
-      "score": "5",
-      "text": "It taste just like the image! I've been eating a cereal like this every morning and the taste is spot on! Good job! Great recipe"
-    }
-  ]
+    "name": "Almond Roasted Crunch",
+    "description": "In this recipe the idea was to recreate what this image shows.\r\nA sweetened honey milk with a floating toasted almond crunch.\r\n\r\nSo for the milk base i went the classic route with 2% Bavarian Cream and 1% Vanilla swirl, easy simple yet efective. \r\nTo add a honey sweetness vibe Milk & Honey is perfect dark sweetness for this mix.\r\nAnd to make the Roasty almonds a combination between FA Almond and CAP Cereal 27 did the trick for a crunchy roasted almond.\r\n",
+    "id": 178187,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178187\/IMG_1420.JPG",
+    "updated_at": "2020-12-12T18:30:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VenSyBoy",
+    "views": "1863",
+    "created_at": "2019-12-19",
+    "slug": "almond_roasted_crunch",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178187.JPG",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ronc",
+            "score": 5,
+            "text": "This deserves more 5 star reviews! Kickass recipe! Great well balanced use of Cereal 27. One problem. I never chain vaped till i filled my tank with this. I literally couldnt put this down. Great job!"
+        },
+        {
+            "user": "Jonnycoldcutz",
+            "score": 5,
+            "text": "It taste just like the image! I've been eating a cereal like this every morning and the taste is spot on! Good job! Great recipe"
+        }
+    ]
 }

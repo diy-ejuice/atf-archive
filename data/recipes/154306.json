@@ -1,50 +1,50 @@
 {
-  "name": "Lemon Frost Cupcake",
-  "description": "Simple and good lemon cupcake.\r\n\r\nFa Pandoro: since i tried it i wanted it in everything its awsame, tastes like \"pannetone\" with a bit more lemon than the real one. \r\nMixed with CAP Vanilla Cupcake wich is more of the frosting rather than the bakery makes a deliciuos lemon cupcake. \r\n\r\nCAP Lemon Meringue adds a sweeter lemon to the mix.\r\n\r\nCAP Butter Cream an obvious choice in cupcakes, 1% is my go to percentage and it fits perfectly. Adds a bit of butter, mouthfeel and a sour milky note to the frosting.\r\n\r\nThis recipe could be much more complex but simple things some times are better so.. enjoy! \r\n",
-  "id": 154306,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154306/IMG_1091.JPG",
-  "updated_at": "2020-12-07T23:37:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pandoro",
-      "flavor_id": "538",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VenSyBoy",
-  "views": "1193",
-  "slug": "lemon_frost_cupcake",
-  "total_flavoring": "8.0%",
-  "steep_days": "15 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Frost Cupcake",
+    "description": "Simple and good lemon cupcake.\r\n\r\nFa Pandoro: since i tried it i wanted it in everything its awsame, tastes like \"pannetone\" with a bit more lemon than the real one. \r\nMixed with CAP Vanilla Cupcake wich is more of the frosting rather than the bakery makes a deliciuos lemon cupcake. \r\n\r\nCAP Lemon Meringue adds a sweeter lemon to the mix.\r\n\r\nCAP Butter Cream an obvious choice in cupcakes, 1% is my go to percentage and it fits perfectly. Adds a bit of butter, mouthfeel and a sour milky note to the frosting.\r\n\r\nThis recipe could be much more complex but simple things some times are better so.. enjoy! \r\n",
+    "id": 154306,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154306\/IMG_1091.JPG",
+    "updated_at": "2020-12-11T19:42:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pandoro",
+            "flavor_id": "538",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VenSyBoy",
+    "views": "1198",
+    "created_at": "2019-06-04",
+    "slug": "lemon_frost_cupcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154306.JPG",
+    "total_flavoring": "8.0%",
+    "steep_days": "15 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

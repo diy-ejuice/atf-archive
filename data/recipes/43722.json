@@ -1,97 +1,99 @@
 {
-  "name": "Mama's Apple Pie Wrapped In Donut",
-  "description": "Crazy Good Apple Pie In A Donut... Talked about it on  the show Mixing It Up episode #12   Flakey donut, wrapped around a layered apple pie filling.  THe pie crust adds to the donut flavors, with a rich smattering of cinnamon and a dash of creamy on top. \r\n\r\n\r\n\r\nFor More Mixing Tips and Info Visit my Site and Youtube Channel: \r\nhttp://flavor-pro.com/\r\nhttps://www.youtube.com/channel/UCA6gV-5vxieuG2_TcIKpYCg\r\n",
-  "id": 43722,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/43722/22898899362_708bd851ec_o.jpg",
-  "updated_at": "2020-12-08T00:49:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 130,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 160,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 170,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 80,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 180,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Brie Cheese",
-      "flavor_id": "4414",
-      "millipercent": 110,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "6064",
-  "slug": "mamas_apple_pie_wrapped_in_donut",
-  "total_flavoring": "5.03%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "SteamOn",
-      "score": "5",
-      "text": "Definitely had shaky hands using the brie cheese, But this stuff is good!"
-    },
-    {
-      "user": "Ckemist",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "ItsKame",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Mama's Apple Pie Wrapped In Donut",
+    "description": "Crazy Good Apple Pie In A Donut... Talked about it on  the show Mixing It Up episode #12   Flakey donut, wrapped around a layered apple pie filling.  THe pie crust adds to the donut flavors, with a rich smattering of cinnamon and a dash of creamy on top. \r\n\r\n\r\n\r\nFor More Mixing Tips and Info Visit my Site and Youtube Channel: \r\nhttp:\/\/flavor-pro.com\/\r\nhttps:\/\/www.youtube.com\/channel\/UCA6gV-5vxieuG2_TcIKpYCg\r\n",
+    "id": 43722,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/43722\/22898899362_708bd851ec_o.jpg",
+    "updated_at": "2020-12-12T14:05:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 130,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 160,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 170,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 80,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 180,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Brie Cheese",
+            "flavor_id": "4414",
+            "millipercent": 110,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "6069",
+    "created_at": "2017-04-29",
+    "slug": "mamas_apple_pie_wrapped_in_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/43722.jpg",
+    "total_flavoring": "5.03%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "SteamOn",
+            "score": 5,
+            "text": "Definitely had shaky hands using the brie cheese, But this stuff is good!"
+        },
+        {
+            "user": "Ckemist",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "ItsKame",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

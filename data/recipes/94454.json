@@ -1,57 +1,59 @@
 {
-  "name": " Cinn Apple Ice Cream \"CAP Version\" v4",
-  "description": "doin some lab work with different Ice creams hope everyone enjoys choose your IC",
-  "id": 94454,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/94454/CAIC.jpg",
-  "updated_at": "2020-12-08T00:50:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 7000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DaddyKane91",
-  "views": "1457",
-  "slug": "cinn_apple_ice_cream_cap_version_v4",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "65",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Benoz",
-      "score": "4",
-      "text": "not to bad mate i have given it 7 days steep but may need longer i can see why you call it cinn apple with that apple filling so high just imo it is a bit to high and i feel like i needed more cream or sweetener to dull down a sort of whisky bourbon taste i get from the apple filling. thanks for sharing "
-    }
-  ]
+    "name": " Cinn Apple Ice Cream \"CAP Version\" v4",
+    "description": "doin some lab work with different Ice creams hope everyone enjoys choose your IC",
+    "id": 94454,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/94454\/CAIC.jpg",
+    "updated_at": "2020-12-12T11:51:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 7000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DaddyKane91",
+    "views": "1464",
+    "created_at": "2018-03-28",
+    "slug": "cinn_apple_ice_cream_cap_version_v4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/94454.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "65",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Benoz",
+            "score": 4,
+            "text": "not to bad mate i have given it 7 days steep but may need longer i can see why you call it cinn apple with that apple filling so high just imo it is a bit to high and i feel like i needed more cream or sweetener to dull down a sort of whisky bourbon taste i get from the apple filling. thanks for sharing "
+        }
+    ]
 }

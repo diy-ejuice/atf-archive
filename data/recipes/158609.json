@@ -1,69 +1,71 @@
 {
-  "name": "Strawberry cheesecake ",
-  "description": "Best strawberry cheesecake I’ve ever made let me know what u think",
-  "id": 158609,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158609/B844FB09-DBDE-491D-B0F5-83DF58FACD40.jpeg",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry – SC",
-      "flavor_id": "7550",
-      "millipercent": 2500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cheesecake",
-      "flavor_id": "2239",
-      "millipercent": 450,
-      "vendor": "RF"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Johncox245",
-  "views": "1696",
-  "slug": "strawberry_cheesecake",
-  "total_flavoring": "10.45%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "430",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RagingVapor",
-      "score": "5",
-      "text": "Mixed it up had to change a few things just cause I didn’t have all the flavours on hand. But overall a fantastic creation. Very well done "
-    }
-  ]
+    "name": "Strawberry cheesecake ",
+    "description": "Best strawberry cheesecake I\u2019ve ever made let me know what u think",
+    "id": 158609,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/158609\/B844FB09-DBDE-491D-B0F5-83DF58FACD40.jpeg",
+    "updated_at": "2020-12-12T20:31:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry \u2013 SC",
+            "flavor_id": "7550",
+            "millipercent": 2500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cheesecake",
+            "flavor_id": "2239",
+            "millipercent": 450,
+            "vendor": "RF"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Johncox245",
+    "views": "1702",
+    "created_at": "2019-07-08",
+    "slug": "strawberry_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/158609.jpeg",
+    "total_flavoring": "10.45%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "430",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RagingVapor",
+            "score": 5,
+            "text": "Mixed it up had to change a few things just cause I didn\u2019t have all the flavours on hand. But overall a fantastic creation. Very well done "
+        }
+    ]
 }

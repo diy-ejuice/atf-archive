@@ -1,56 +1,56 @@
 {
-  "name": "Devonshire Custard",
-  "description": "My take on a common profile, also my ADV.\r\nA very rich vanilla custard.",
-  "id": 198324,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/198324/LN_529465_BP_11.jpg",
-  "updated_at": "2020-12-07T17:36:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 2500,
-      "vendor": "CC"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Clotted cream Fudge",
-      "flavor_id": "4217",
-      "millipercent": 2500,
-      "vendor": "CC"
-    }
-  ],
-  "author": "BRDZ",
-  "views": "994",
-  "slug": "devonshire_custard",
-  "total_flavoring": "21.0%",
-  "steep_days": "28",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Devonshire Custard",
+    "description": "My take on a common profile, also my ADV.\r\nA very rich vanilla custard.",
+    "id": 198324,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/198324\/LN_529465_BP_11.jpg",
+    "updated_at": "2020-12-12T14:08:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 2500,
+            "vendor": "CC"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Clotted cream Fudge",
+            "flavor_id": "4217",
+            "millipercent": 2500,
+            "vendor": "CC"
+        }
+    ],
+    "author": "BRDZ",
+    "views": "1014",
+    "created_at": "2020-06-21",
+    "slug": "devonshire_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/198324.jpg",
+    "total_flavoring": "21.0%",
+    "steep_days": "28",
+    "best_vg": "75%",
+    "temperature": "0"
 }

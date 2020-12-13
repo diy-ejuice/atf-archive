@@ -1,62 +1,61 @@
 {
-  "name": "Shamcock shake",
-  "description": "Hypothetical recipe for a shamrock shake from McDonald’s. Untested. Provisional.",
-  "id": 188813,
-  "image_url": null,
-  "updated_at": "2020-12-06T09:38:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "CrÈme De Menthe",
-      "flavor_id": "1266",
-      "millipercent": 1650,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow Vanilla",
-      "flavor_id": "10092",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coffee Milk Froth",
-      "flavor_id": "8858",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Milk",
-      "flavor_id": "523",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milkshake",
-      "flavor_id": "1563",
-      "millipercent": 1000,
-      "vendor": "MB"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "620",
-  "slug": "shamcock_shake",
-  "total_flavoring": "8.2%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Shamcock shake",
+    "description": "Hypothetical recipe for a shamrock shake from McDonald\u2019s. Untested. Provisional.",
+    "id": 188813,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cr\u00c8me De Menthe",
+            "flavor_id": "1266",
+            "millipercent": 1650,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow Vanilla",
+            "flavor_id": "10092",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coffee Milk Froth",
+            "flavor_id": "8858",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Milk",
+            "flavor_id": "523",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milkshake",
+            "flavor_id": "1563",
+            "millipercent": 1000,
+            "vendor": "MB"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "628",
+    "created_at": "2020-03-21",
+    "slug": "shamcock_shake",
+    "total_flavoring": "8.2%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

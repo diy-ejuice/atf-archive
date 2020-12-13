@@ -1,67 +1,69 @@
 {
-  "name": "Simple Almond Cookie",
-  "description": "A tasty simple almond cookie,which can also be used as an Almondstone base \r\n\r\nhttps://www.reddit.com/r/DIY_eJuice/comments/4l67sw/recipe_simple_almond_cookie/",
-  "id": 3908,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/3908/almond-cookies.jpg",
-  "updated_at": "2020-12-08T00:48:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine ",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "1708",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Demonic_Mixer",
-  "views": "2692",
-  "slug": "simple_almond_cookie",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "This is a very nice cookie.  A little dry, maybe, but there was no expectation of a moist cookie just from looking at the ingredients used.  I'm still gonna make a bigger bottle later."
-    },
-    {
-      "user": "CheebaSteeba",
-      "score": "4",
-      "text": "Very nice almond cookie! As the name suggests, it is straight up a simple almond cookie. I like the way Sugar Cookie and Marzipan give it a dense yet fluffy body and the custard sort of smooths things out and bridges the flavors and textures. I can see why the Acetyl Pyrazine was used (brought in there to give it some texture), but I'm not a big fan of the flavor on acetyl pyrazine and typically use it a little lower, so that's why I knocked it a star (maybe some FA Cookie in it's place?). Other than that, this is an excellent recipe and good vape!"
-    },
-    {
-      "user": "Bogey_Again",
-      "score": "5",
-      "text": "Simple almond cookie? Yes but than's why it tastes so good! Good enough to go back and mix 60ml after the first test batch."
-    }
-  ]
+    "name": "Simple Almond Cookie",
+    "description": "A tasty simple almond cookie,which can also be used as an Almondstone base \r\n\r\nhttps:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/4l67sw\/recipe_simple_almond_cookie\/",
+    "id": 3908,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/3908\/almond-cookies.jpg",
+    "updated_at": "2020-12-12T10:32:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine ",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "1708",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Demonic_Mixer",
+    "views": "2702",
+    "created_at": "2016-05-28",
+    "slug": "simple_almond_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/3908.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "This is a very nice cookie.  A little dry, maybe, but there was no expectation of a moist cookie just from looking at the ingredients used.  I'm still gonna make a bigger bottle later."
+        },
+        {
+            "user": "CheebaSteeba",
+            "score": 4,
+            "text": "Very nice almond cookie! As the name suggests, it is straight up a simple almond cookie. I like the way Sugar Cookie and Marzipan give it a dense yet fluffy body and the custard sort of smooths things out and bridges the flavors and textures. I can see why the Acetyl Pyrazine was used (brought in there to give it some texture), but I'm not a big fan of the flavor on acetyl pyrazine and typically use it a little lower, so that's why I knocked it a star (maybe some FA Cookie in it's place?). Other than that, this is an excellent recipe and good vape!"
+        },
+        {
+            "user": "Bogey_Again",
+            "score": 5,
+            "text": "Simple almond cookie? Yes but than's why it tastes so good! Good enough to go back and mix 60ml after the first test batch."
+        }
+    ]
 }

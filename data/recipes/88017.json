@@ -1,50 +1,49 @@
 {
-  "name": "Bombies Jungle Remix v1",
-  "description": "After smelling TPA Pomegranate I knew it was a key part of the original Bombies recipe. This is my first attempt at recreating this recipie, and i'm very happy how it came out. While not really accurate, it's quite delicious. ",
-  "id": 88017,
-  "image_url": null,
-  "updated_at": "2020-12-01T01:13:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "souporman",
-  "views": "1273",
-  "slug": "bombies_jungle_remix_v1",
-  "total_flavoring": "5.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bombies Jungle Remix v1",
+    "description": "After smelling TPA Pomegranate I knew it was a key part of the original Bombies recipe. This is my first attempt at recreating this recipie, and i'm very happy how it came out. While not really accurate, it's quite delicious. ",
+    "id": 88017,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:41:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "souporman",
+    "views": "1281",
+    "created_at": "2018-02-11",
+    "slug": "bombies_jungle_remix_v1",
+    "total_flavoring": "5.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,63 +1,65 @@
 {
-  "name": "My Melon Mix",
-  "description": "A nice summer vape. I really hated honeydew vapes until I found JF honeydew melon. It's phenomenal and cannot be subbed so fuck off. \r\n\r\nErythritol is a great sweetener for fruits so yes I used it here, really not necessary though so you can leave it out. \r\n\r\nCAP cantaloupe is a really nice base for melon mixes, it's a pretty nondescript melon flavor that works best as a background note. JF honeydew is the star of the show at 1%. The watermelon mix sweetens things up and adds a nice depth to the recipe. Cactus is here because juicy yummy and it tastes pretty melon like especially at low %. \r\n\r\nThis is pretty straightforward and honestly it is downright delicious and complex enough for me to enjoy.  I normally don't go for fruity blends but this one kept me going for over 50mls, enjoy!\r\n\r\nShake and vape but as always I let my stuff sit for at least 3 days to homogenize.",
-  "id": 46898,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/46898/freezing_melons_l3.jpg",
-  "updated_at": "2020-12-08T00:49:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Erythritol Solution (5%)",
-      "flavor_id": "5549",
-      "millipercent": 500,
-      "vendor": "NN"
-    }
-  ],
-  "author": "hashslingingslashur",
-  "views": "3569",
-  "slug": "my_melon_mix",
-  "total_flavoring": "9.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Fiftytrent",
-      "score": "5",
-      "text": "I've seen the light.  JF Honeydew is the shit and this mix is great."
-    }
-  ]
+    "name": "My Melon Mix",
+    "description": "A nice summer vape. I really hated honeydew vapes until I found JF honeydew melon. It's phenomenal and cannot be subbed so fuck off. \r\n\r\nErythritol is a great sweetener for fruits so yes I used it here, really not necessary though so you can leave it out. \r\n\r\nCAP cantaloupe is a really nice base for melon mixes, it's a pretty nondescript melon flavor that works best as a background note. JF honeydew is the star of the show at 1%. The watermelon mix sweetens things up and adds a nice depth to the recipe. Cactus is here because juicy yummy and it tastes pretty melon like especially at low %. \r\n\r\nThis is pretty straightforward and honestly it is downright delicious and complex enough for me to enjoy.  I normally don't go for fruity blends but this one kept me going for over 50mls, enjoy!\r\n\r\nShake and vape but as always I let my stuff sit for at least 3 days to homogenize.",
+    "id": 46898,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/46898\/freezing_melons_l3.jpg",
+    "updated_at": "2020-12-12T15:39:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Erythritol Solution (5%)",
+            "flavor_id": "5549",
+            "millipercent": 500,
+            "vendor": "NN"
+        }
+    ],
+    "author": "hashslingingslashur",
+    "views": "3581",
+    "created_at": "2017-05-19",
+    "slug": "my_melon_mix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/46898.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Fiftytrent",
+            "score": 5,
+            "text": "I've seen the light.  JF Honeydew is the shit and this mix is great."
+        }
+    ]
 }

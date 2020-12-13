@@ -1,62 +1,64 @@
 {
-  "name": "Banana Creme Breulee ",
-  "description": "Banana Creme Brulee \r\n\r\nFor the base of this recipe I went with (LB) creme brulee. This flavor is accurate to the description, even down to the slight the nutty note. To add another layer I went with (INW) Creme Brulee and (CAP) vanilla custard.\r\n\r\nI used (TPA) Banana cream because it added to the creaminess of the desert without taking over the mix. \r\n\r\nAnd finally, I used (TPA) toasted marshmallow to add a little sweetness and to add that toasted/caramelized taste. ",
-  "id": 35035,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35035/Screenshot_2017-03-04-13-32-09-1.jpg",
-  "updated_at": "2020-12-08T00:49:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "1487",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Sammy0800",
-  "views": "1720",
-  "slug": "banana_creme_breulee",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "MrBurgundy",
-      "score": "4",
-      "text": "I get a thick custard base with toasty caramel and a subtly sweet banana that melts into the mix. The caramel here is very present and leads the recipe. It dominates the LB Creme Brulee and receives some bolstering from INW Creme Brulee. The INW adds some burnt notes and texture to the otherwise flatter caramel notes of LB. Toasted Marshmallow sweetens the mix up while pulling things together for a cohesive flavor. It also injects some toasty notes. The Banana Cream is used minimally and adds a sweet starchiness to the custard that shows up on the exhale for me. It’s a touch dry with all of the caramel going on, but tasty nonetheless. Great stuff, Sammy!"
-    },
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": " I surprised to be getting any banana out of this, but even at just 1%, it comes through. This really does taste like the picture, with a bit of torched banana on top of a sugar crusted creme brulee. What the picture doesn’t show you is that it has caramel throughout - the thick, rich eggy custard underneath is thoroughly infused with it all the way to the finish. And there’s nothing wrong with that, making a creme brulee out of a caramel custard. But it’s a little dry. This recipe might be improved with a very light touch of sweetener to help with the drier finish, but certainly not more than about 0.25% CAP SS. &#xD;\n"
-    }
-  ]
+    "name": "Banana Creme Breulee ",
+    "description": "Banana Creme Brulee \r\n\r\nFor the base of this recipe I went with (LB) creme brulee. This flavor is accurate to the description, even down to the slight the nutty note. To add another layer I went with (INW) Creme Brulee and (CAP) vanilla custard.\r\n\r\nI used (TPA) Banana cream because it added to the creaminess of the desert without taking over the mix. \r\n\r\nAnd finally, I used (TPA) toasted marshmallow to add a little sweetness and to add that toasted\/caramelized taste. ",
+    "id": 35035,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35035\/Screenshot_2017-03-04-13-32-09-1.jpg",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "1487",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Sammy0800",
+    "views": "1731",
+    "created_at": "2017-03-04",
+    "slug": "banana_creme_breulee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35035.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "MrBurgundy",
+            "score": 4,
+            "text": "I get a thick custard base with toasty caramel and a subtly sweet banana that melts into the mix. The caramel here is very present and leads the recipe. It dominates the LB Creme Brulee and receives some bolstering from INW Creme Brulee. The INW adds some burnt notes and texture to the otherwise flatter caramel notes of LB. Toasted Marshmallow sweetens the mix up while pulling things together for a cohesive flavor. It also injects some toasty notes. The Banana Cream is used minimally and adds a sweet starchiness to the custard that shows up on the exhale for me. It\u2019s a touch dry with all of the caramel going on, but tasty nonetheless. Great stuff, Sammy!"
+        },
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": " I surprised to be getting any banana out of this, but even at just 1%, it comes through. This really does taste like the picture, with a bit of torched banana on top of a sugar crusted creme brulee. What the picture doesn\u2019t show you is that it has caramel throughout - the thick, rich eggy custard underneath is thoroughly infused with it all the way to the finish. And there\u2019s nothing wrong with that, making a creme brulee out of a caramel custard. But it\u2019s a little dry. This recipe might be improved with a very light touch of sweetener to help with the drier finish, but certainly not more than about 0.25% CAP SS. &#xD;\n"
+        }
+    ]
 }

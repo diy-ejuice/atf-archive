@@ -1,81 +1,83 @@
 {
-  "name": "Strawberry Almond Milkshake",
-  "description": "I made this recipe this past spring with inspiration from Wayne's Strawberry Cereal Milk.  I was hopeful to replicate an almond milkshake my better half makes and this is what I came up with.  This recipe is a great example of how low flavoring percentages can pack a good amount of flavor, and more importantly, hold on for a long steep.  I'm vaping a 3 month old steeped bottle as I type this, and it is still delicious.  I enjoy it as a shake and vape just as much as when steeped for what it is worth.  This is another mix designed at max VG for a dripper, outputting 5.88 volts with dual 2mm micros coils built just under 1 ohm.\r\n\r\nAlmond is the star of the show here, and besides it's expected flavor, it has a creaminess to it that lends itself to the theme of the mix.  Marzipan is it's cousin, and it's candied (sugared) almond taste, when combined with Almond, makes for a nice sweet nut add.  Marzipan by itself is typically too much sweet imo, so it accentuates well with the main almond note.  Cheesecake Graham Crust and Malted Milk are here to thicken everything up and to create the weight of a shake.  Vienna Cream adds a sweetened vanilla profile to both.  Meringue is here to add a grainy touch and works wonders to add texture to the base.  Brown Sugar, besides it's sweetening abilities, lends itself to the malt effect I was going for to put this more in the shake range.  Strawberry Sweet has always held up well in combination with almond and marzipan, and to me it is more candy or syrup like...the perfect strawberry for a milkshake.  It is not meant to be the standout flavor here, and it's sweetness falls in line with the rest of the profile.  \r\n\r\nIf you are an almond fan, I hope you give this recipe a try.\r\n\r\nCuda\r\n\r\n",
-  "id": 14658,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14658/Strawberry_Almond_Milkshake.jpg",
-  "updated_at": "2020-12-05T23:54:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 900,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 600,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 800,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Barracuda",
-  "views": "3257",
-  "slug": "strawberry_almond_milkshake",
-  "total_flavoring": "7.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "Strawberry Almond Milkshake",
+    "description": "I made this recipe this past spring with inspiration from Wayne's Strawberry Cereal Milk.  I was hopeful to replicate an almond milkshake my better half makes and this is what I came up with.  This recipe is a great example of how low flavoring percentages can pack a good amount of flavor, and more importantly, hold on for a long steep.  I'm vaping a 3 month old steeped bottle as I type this, and it is still delicious.  I enjoy it as a shake and vape just as much as when steeped for what it is worth.  This is another mix designed at max VG for a dripper, outputting 5.88 volts with dual 2mm micros coils built just under 1 ohm.\r\n\r\nAlmond is the star of the show here, and besides it's expected flavor, it has a creaminess to it that lends itself to the theme of the mix.  Marzipan is it's cousin, and it's candied (sugared) almond taste, when combined with Almond, makes for a nice sweet nut add.  Marzipan by itself is typically too much sweet imo, so it accentuates well with the main almond note.  Cheesecake Graham Crust and Malted Milk are here to thicken everything up and to create the weight of a shake.  Vienna Cream adds a sweetened vanilla profile to both.  Meringue is here to add a grainy touch and works wonders to add texture to the base.  Brown Sugar, besides it's sweetening abilities, lends itself to the malt effect I was going for to put this more in the shake range.  Strawberry Sweet has always held up well in combination with almond and marzipan, and to me it is more candy or syrup like...the perfect strawberry for a milkshake.  It is not meant to be the standout flavor here, and it's sweetness falls in line with the rest of the profile.  \r\n\r\nIf you are an almond fan, I hope you give this recipe a try.\r\n\r\nCuda\r\n\r\n",
+    "id": 14658,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14658\/Strawberry_Almond_Milkshake.jpg",
+    "updated_at": "2020-12-10T13:44:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 900,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 600,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 800,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Barracuda",
+    "views": "3264",
+    "created_at": "2016-09-28",
+    "slug": "strawberry_almond_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14658.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

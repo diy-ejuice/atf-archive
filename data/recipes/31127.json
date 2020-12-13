@@ -1,50 +1,50 @@
 {
-  "name": "Tootall's peanut butter cookie",
-  "description": "This is my peanut butter cookie recipe. It's a fairly straight forward recipe but yet a very well layered cookie. Sorry for no flavor notes I had a whole page wrote and I erased it before i saved it by accident. It tastes just like the peanut butter cookies my mother would make when I was a child. Give it a try you won't regret it.",
-  "id": 31127,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31127/images.jpg",
-  "updated_at": "2020-12-07T12:45:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter Cookie",
-      "flavor_id": "4122",
-      "millipercent": 7500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Tootall",
-  "views": "1975",
-  "slug": "tootalls_peanut_butter_cookie",
-  "total_flavoring": "14.0%",
-  "steep_days": "4",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tootall's peanut butter cookie",
+    "description": "This is my peanut butter cookie recipe. It's a fairly straight forward recipe but yet a very well layered cookie. Sorry for no flavor notes I had a whole page wrote and I erased it before i saved it by accident. It tastes just like the peanut butter cookies my mother would make when I was a child. Give it a try you won't regret it.",
+    "id": 31127,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31127\/images.jpg",
+    "updated_at": "2020-12-10T14:55:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter Cookie",
+            "flavor_id": "4122",
+            "millipercent": 7500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Tootall",
+    "views": "1983",
+    "created_at": "2017-02-09",
+    "slug": "tootalls_peanut_butter_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/31127.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "4",
+    "best_vg": "75%",
+    "temperature": "0"
 }

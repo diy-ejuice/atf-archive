@@ -1,80 +1,79 @@
 {
-  "name": "Luck o'the Irish",
-  "description": "Lucky charms++ with deeper cereal notes. I know, the Cactus choice seems weird. But all it does is give more juiciness to a recipe that otherwise might be a little dry, and it twists the berries' nose just a little. If you like you can add up to 1% Sucralose. I don't. If you do, you might want to decrease the Marshmallow to taste. ",
-  "id": 10056,
-  "image_url": null,
-  "updated_at": "2020-12-05T14:25:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lucky Leprechaun Cereal",
-      "flavor_id": "141",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "DX Graham Cracker",
-      "flavor_id": "3500",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Creamy Hazelnut",
-      "flavor_id": "1265",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Dx Caramel Original",
-      "flavor_id": "162",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dx Banana Cream",
-      "flavor_id": "227",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "coilspotting",
-  "views": "1448",
-  "slug": "luck_othe_irish",
-  "total_flavoring": "15.0%",
-  "steep_days": "3",
-  "best_vg": "85%",
-  "temperature": "440",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Luck o'the Irish",
+    "description": "Lucky charms++ with deeper cereal notes. I know, the Cactus choice seems weird. But all it does is give more juiciness to a recipe that otherwise might be a little dry, and it twists the berries' nose just a little. If you like you can add up to 1% Sucralose. I don't. If you do, you might want to decrease the Marshmallow to taste. ",
+    "id": 10056,
+    "image_url": null,
+    "updated_at": "2020-12-11T22:43:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lucky Leprechaun Cereal",
+            "flavor_id": "141",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "DX Graham Cracker",
+            "flavor_id": "3500",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Creamy Hazelnut",
+            "flavor_id": "1265",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Dx Caramel Original",
+            "flavor_id": "162",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dx Banana Cream",
+            "flavor_id": "227",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "coilspotting",
+    "views": "1460",
+    "created_at": "2016-08-09",
+    "slug": "luck_othe_irish",
+    "total_flavoring": "15.0%",
+    "steep_days": "3",
+    "best_vg": "85%",
+    "temperature": "440"
 }

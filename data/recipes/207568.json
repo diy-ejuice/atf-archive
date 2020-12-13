@@ -1,57 +1,59 @@
 {
-  "name": "Cinner",
-  "description": "Dead simple cinnamon pudding with some bakery notes, great vape to bring in the fall/winter. FLV Pudding and INW Custard make a nice creamy base to build upon. CAP CDS is an awesome concentrate,bringing bakery type cinnamon flavor with FA Cookie added to back up those cake/pastry notes a bit. Sweeten to taste and let this steep for 3-4 days then its golden. Enjoy!\r\n\r\nPlease rate and/or comment if you mix this!\r\n\r\n\r\nVaped on a Variant w/ 2x 3.5mm 36g/26g kanthal claptons ~80w",
-  "id": 207568,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207568/Screenshot_2020-10-26-21-28-26_5.png",
-  "updated_at": "2020-12-08T00:51:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "kontravention",
-  "views": "464",
-  "slug": "cinner",
-  "total_flavoring": "7.0%",
-  "steep_days": "4",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Dobry83",
-      "score": "5",
-      "text": "Absolutely delicious !!"
-    }
-  ]
+    "name": "Cinner",
+    "description": "Dead simple cinnamon pudding with some bakery notes, great vape to bring in the fall\/winter. FLV Pudding and INW Custard make a nice creamy base to build upon. CAP CDS is an awesome concentrate,bringing bakery type cinnamon flavor with FA Cookie added to back up those cake\/pastry notes a bit. Sweeten to taste and let this steep for 3-4 days then its golden. Enjoy!\r\n\r\nPlease rate and\/or comment if you mix this!\r\n\r\n\r\nVaped on a Variant w\/ 2x 3.5mm 36g\/26g kanthal claptons ~80w",
+    "id": 207568,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207568\/Screenshot_2020-10-26-21-28-26_5.png",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "kontravention",
+    "views": "482",
+    "created_at": "2020-10-26",
+    "slug": "cinner",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207568.png",
+    "total_flavoring": "7.0%",
+    "steep_days": "4",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Dobry83",
+            "score": 5,
+            "text": "Absolutely delicious !!"
+        }
+    ]
 }

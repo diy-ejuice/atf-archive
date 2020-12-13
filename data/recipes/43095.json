@@ -1,69 +1,71 @@
 {
-  "name": "Caramel Pear",
-  "description": "A juicy pear drizzled in caramel. Inawera pear is the main player and is upfront at 3% along with the marzipan which pairs perfectly with a lingering caramel exhale.",
-  "id": 43095,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/43095/Caramel-Covered-Pears-a-partridge-in-a-pear-tree_yourhomebasedmom.com_0002.jpg",
-  "updated_at": "2020-12-08T00:49:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "665",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "bqbdm8",
-  "views": "1938",
-  "slug": "caramel_pear",
-  "total_flavoring": "10.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 2,
-  "reviews": [
-    {
-      "user": "KylezKloudz",
-      "score": "2",
-      "text": "Not a bad recipe by any means... I just find that the INW Pear is a little overpowering the caramel for my taste... maybe it's just the % used (inawera is pretty strong) or maybe it could benefit from a combination of a couple different pears... (once again just my opinion) "
-    }
-  ]
+    "name": "Caramel Pear",
+    "description": "A juicy pear drizzled in caramel. Inawera pear is the main player and is upfront at 3% along with the marzipan which pairs perfectly with a lingering caramel exhale.",
+    "id": 43095,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/43095\/Caramel-Covered-Pears-a-partridge-in-a-pear-tree_yourhomebasedmom.com_0002.jpg",
+    "updated_at": "2020-12-12T14:05:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "665",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "bqbdm8",
+    "views": "1943",
+    "created_at": "2017-04-26",
+    "slug": "caramel_pear",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/43095.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 2,
+    "reviews": [
+        {
+            "user": "KylezKloudz",
+            "score": 2,
+            "text": "Not a bad recipe by any means... I just find that the INW Pear is a little overpowering the caramel for my taste... maybe it's just the % used (inawera is pretty strong) or maybe it could benefit from a combination of a couple different pears... (once again just my opinion) "
+        }
+    ]
 }

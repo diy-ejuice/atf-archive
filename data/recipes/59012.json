@@ -1,74 +1,76 @@
 {
-  "name": "Who's the Goose?",
-  "description": "If you aren't into cinnamon, strawberries, bananas, or apples I still have a few tricks up my sleeve for you. Let's try some kiwi this time around!\r\n\r\nToasted Redux #4: Who's the Goose? - Once again, I pulled the cinnamon and adjusted the base. Cereal 27 went up 2%, Meringue and Cream Fresh dropped 0.5%, and some kiwi slid in. Cereal and milk notes are over on Toasted.\r\n\r\nFlavor Notes:\r\n\r\nFA Kiwi kind of reminds me of FA Fuji. This has a more tropical vibe to it though. Kiwi isn't as crisp and crunchy as Fuji. It's creamier and more juicy. It's weak for FA, so I had to push it high. 4% carries through the cream and competes with the cereal.\r\n\r\nThis is a perfectly good shake and vape, but, as with anything, it gets better if you give it some time. Not much happens after 5 days besides the creams figuring themselves out some more.\r\n\r\nHappy mixing. 👽",
-  "id": 59012,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59012/You_Doodle_2017-08-08T13_19_03Z.jpg",
-  "updated_at": "2020-12-08T00:49:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 4000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MrBurgundy",
-  "views": "2470",
-  "slug": "whos_the_goose",
-  "total_flavoring": "13.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "NickG",
-      "score": "5",
-      "text": "One of my favorite cereal recipes. The kiwi isn't something I would have thought to use, but it works wonders. not so bright and sharp as an apple, just a bright, tropical juicy sweetness that compliments the creams and the meringue all so nicely. Thank you for sharing the recipe !"
-    },
-    {
-      "user": "jbird",
-      "score": "5",
-      "text": "What a great idea to bring FA Kiwi into a cereal!It works so good here. The creams are balanced very well with the cereal and I could see using this base for other fruits, as well. I've made 2 bottles, so far. The first was with FA Meringue (because I failed to notice the recipe called for TFA). The 2nd I made it with TFA. Both are good but I can see why the use of TFA. FA is a touch heavier and weighs the creams down a bit and covers up some of the awesomeness of the balancing act. I encourage anyone on the fence about this mix, go for it! If your missing any of the flavors, buy them. They are all staples and should be in every mixers arsenal. &#xD;\n Excellent job! "
-    }
-  ]
+    "name": "Who's the Goose?",
+    "description": "If you aren't into cinnamon, strawberries, bananas, or apples I still have a few tricks up my sleeve for you. Let's try some kiwi this time around!\r\n\r\nToasted Redux #4: Who's the Goose? - Once again, I pulled the cinnamon and adjusted the base. Cereal 27 went up 2%, Meringue and Cream Fresh dropped 0.5%, and some kiwi slid in. Cereal and milk notes are over on Toasted.\r\n\r\nFlavor Notes:\r\n\r\nFA Kiwi kind of reminds me of FA Fuji. This has a more tropical vibe to it though. Kiwi isn't as crisp and crunchy as Fuji. It's creamier and more juicy. It's weak for FA, so I had to push it high. 4% carries through the cream and competes with the cereal.\r\n\r\nThis is a perfectly good shake and vape, but, as with anything, it gets better if you give it some time. Not much happens after 5 days besides the creams figuring themselves out some more.\r\n\r\nHappy mixing. \ud83d\udc7d",
+    "id": 59012,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/59012\/You_Doodle_2017-08-08T13_19_03Z.jpg",
+    "updated_at": "2020-12-12T20:29:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 4000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MrBurgundy",
+    "views": "2475",
+    "created_at": "2017-08-08",
+    "slug": "whos_the_goose",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/59012.jpg",
+    "total_flavoring": "13.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "NickG",
+            "score": 5,
+            "text": "One of my favorite cereal recipes. The kiwi isn't something I would have thought to use, but it works wonders. not so bright and sharp as an apple, just a bright, tropical juicy sweetness that compliments the creams and the meringue all so nicely. Thank you for sharing the recipe !"
+        },
+        {
+            "user": "jbird",
+            "score": 5,
+            "text": "What a great idea to bring FA Kiwi into a cereal!It works so good here. The creams are balanced very well with the cereal and I could see using this base for other fruits, as well. I've made 2 bottles, so far. The first was with FA Meringue (because I failed to notice the recipe called for TFA). The 2nd I made it with TFA. Both are good but I can see why the use of TFA. FA is a touch heavier and weighs the creams down a bit and covers up some of the awesomeness of the balancing act. I encourage anyone on the fence about this mix, go for it! If your missing any of the flavors, buy them. They are all staples and should be in every mixers arsenal. &#xD;\n Excellent job! "
+        }
+    ]
 }

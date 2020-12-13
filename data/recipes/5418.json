@@ -1,81 +1,82 @@
 {
-  "name": "Red Velvet Ice Cake",
-  "description": "",
-  "id": 5418,
-  "image_url": null,
-  "updated_at": "2020-12-05T15:42:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dx Red Velvet",
-      "flavor_id": "164",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "stiddyb77",
-  "views": "1522",
-  "slug": "red_velvet_ice_cake",
-  "total_flavoring": "21.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "op"
-    }
-  ]
+    "name": "Red Velvet Ice Cake",
+    "description": "",
+    "id": 5418,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dx Red Velvet",
+            "flavor_id": "164",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "stiddyb77",
+    "views": "1526",
+    "created_at": "2016-06-16",
+    "slug": "red_velvet_ice_cake",
+    "total_flavoring": "21.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "op"
+        }
+    ]
 }

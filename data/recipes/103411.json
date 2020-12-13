@@ -1,107 +1,109 @@
 {
-  "name": "Mama Js Game Over Custard ",
-  "description": "my personal favorite custard recipe and all day vape. Hope you enjoy it!",
-  "id": 103411,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103411/82645-e612ae602a26eef7d365a76a691994fe.jpg",
-  "updated_at": "2020-12-08T00:50:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "326",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "wllmc",
-  "views": "7704",
-  "slug": "mama_js_game_over_custard",
-  "total_flavoring": "13.8%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "Custard lover since birth and I really enjoyed this off the shake that I made 2 bottles of 120.  The first bottle was gone pretty quick and I let the 2nd steep for 50 days.  Still good but flavor seems to have been quieted. Could be my taste buds have grown used to it.   I still have some left and I have zero self control.  If the 2nd bottle goes just as fast as the first then I'd give it the 5 stars.***UPDATE*** This is one of if not THE BEST custard recipe on this site.  Don't know what I was thinking earlier.  Easy 5 stars"
-    },
-    {
-      "user": "phried",
-      "score": "5",
-      "text": "If you love anything custard, you won't go wrong with having a bottle of this on your shelf. I'm having quite a few ideas on how to utilise this as a base for tobaccos and other fruits - it's really good. And if you've been disappointed with other custards as a DIYer, this one won't. Does leave a little gunk - after about going through 50mL of this stuff - but still worth it. Will definitely remix."
-    },
-    {
-      "user": "FizzChaser",
-      "score": "5",
-      "text": "This turned out to be an incredible custard vape! Great job wllmc"
-    },
-    {
-      "user": "SlashaLO",
-      "score": "5",
-      "text": "This is a great custard. Smooth, sweet, great custard notes, which a good amount of vanilla and mouthfeel. Fell in love with this custard quickly, and have returned to it several times!"
-    },
-    {
-      "user": "gopher_byrd",
-      "score": "5",
-      "text": "GOC is one of my \"On the Road\" juices. I travel a lot for work and this is one of four juices I always take with me. And it's versatile as well. Want a strawberry custard, just add your favorite strawberry. The sky is the limit..."
-    }
-  ]
+    "name": "Mama Js Game Over Custard ",
+    "description": "my personal favorite custard recipe and all day vape. Hope you enjoy it!",
+    "id": 103411,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/103411\/82645-e612ae602a26eef7d365a76a691994fe.jpg",
+    "updated_at": "2020-12-12T17:11:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "326",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "wllmc",
+    "views": "7716",
+    "created_at": "2018-05-30",
+    "slug": "mama_js_game_over_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/103411.jpg",
+    "total_flavoring": "13.8%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "Custard lover since birth and I really enjoyed this off the shake that I made 2 bottles of 120.  The first bottle was gone pretty quick and I let the 2nd steep for 50 days.  Still good but flavor seems to have been quieted. Could be my taste buds have grown used to it.   I still have some left and I have zero self control.  If the 2nd bottle goes just as fast as the first then I'd give it the 5 stars.***UPDATE*** This is one of if not THE BEST custard recipe on this site.  Don't know what I was thinking earlier.  Easy 5 stars"
+        },
+        {
+            "user": "phried",
+            "score": 5,
+            "text": "If you love anything custard, you won't go wrong with having a bottle of this on your shelf. I'm having quite a few ideas on how to utilise this as a base for tobaccos and other fruits - it's really good. And if you've been disappointed with other custards as a DIYer, this one won't. Does leave a little gunk - after about going through 50mL of this stuff - but still worth it. Will definitely remix."
+        },
+        {
+            "user": "FizzChaser",
+            "score": 5,
+            "text": "This turned out to be an incredible custard vape! Great job wllmc"
+        },
+        {
+            "user": "SlashaLO",
+            "score": 5,
+            "text": "This is a great custard. Smooth, sweet, great custard notes, which a good amount of vanilla and mouthfeel. Fell in love with this custard quickly, and have returned to it several times!"
+        },
+        {
+            "user": "gopher_byrd",
+            "score": 5,
+            "text": "GOC is one of my \"On the Road\" juices. I travel a lot for work and this is one of four juices I always take with me. And it's versatile as well. Want a strawberry custard, just add your favorite strawberry. The sky is the limit..."
+        }
+    ]
 }

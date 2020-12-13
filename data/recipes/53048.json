@@ -1,62 +1,64 @@
 {
-  "name": "Strawlicious Ice-Cream",
-  "description": "Who wouldn't like strawberries and cream......\r\n\r\nI really love strawberries and cream, It's something I'll never get tired of. After going through tons of research and trying different recipes that are posted, I finally came up with my all time favorite strawberries and cream recipe that I would love to share. \r\nI LOVE INW Shisha strawberry and with TFA VBIC, it's too damm deliciouss! TFA Strawberry Ripe is there to create a more milky tasting strawberry. \r\nIt's a very milky strawberry ice-cream that I really hope you all enjoy like I do! \r\n\r\n\r\n\r\nPlease excuse my grammar, I'm Thai and I have poor english skills : ( \r\n",
-  "id": 53048,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53048/20150706-strawberry-ice-cream-vicky-wasik-4-thumb-1500xauto-424715.jpg",
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ThailandVapers",
-  "views": "2265",
-  "slug": "strawlicious_icecream",
-  "total_flavoring": "14.0%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "4",
-      "text": "This used to be my ADV for many months. It's an excellent recipe except for one problem. After it steeps longer than a month I get a perfume off note. I think the Shisha Strawberry is doing weird things with the Bavarian Cream, or maybe it's the Marshmallow. I do use TFA Marshmallow instead of Cap's. I'm not sure what is causing it. I would really like to figure it out.  A lot of strawberry and cream recipes get weird after a few months sitting though. This recipe is still very good. I still go back to from time to time. Give it a mix and you will be happy! I would maybe lower the Shisha Straw to 2%"
-    },
-    {
-      "user": "St4ndl3yme",
-      "score": "5",
-      "text": "I'm Lovin this! HANDS DOWN the best dam S&amp;C I've ever had. I can't put this thing down, Great work man keep it up!"
-    }
-  ]
+    "name": "Strawlicious Ice-Cream",
+    "description": "Who wouldn't like strawberries and cream......\r\n\r\nI really love strawberries and cream, It's something I'll never get tired of. After going through tons of research and trying different recipes that are posted, I finally came up with my all time favorite strawberries and cream recipe that I would love to share. \r\nI LOVE INW Shisha strawberry and with TFA VBIC, it's too damm deliciouss! TFA Strawberry Ripe is there to create a more milky tasting strawberry. \r\nIt's a very milky strawberry ice-cream that I really hope you all enjoy like I do! \r\n\r\n\r\n\r\nPlease excuse my grammar, I'm Thai and I have poor english skills : ( \r\n",
+    "id": 53048,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/53048\/20150706-strawberry-ice-cream-vicky-wasik-4-thumb-1500xauto-424715.jpg",
+    "updated_at": "2020-12-12T18:29:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ThailandVapers",
+    "views": "2271",
+    "created_at": "2017-06-29",
+    "slug": "strawlicious_icecream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/53048.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 4,
+            "text": "This used to be my ADV for many months. It's an excellent recipe except for one problem. After it steeps longer than a month I get a perfume off note. I think the Shisha Strawberry is doing weird things with the Bavarian Cream, or maybe it's the Marshmallow. I do use TFA Marshmallow instead of Cap's. I'm not sure what is causing it. I would really like to figure it out.  A lot of strawberry and cream recipes get weird after a few months sitting though. This recipe is still very good. I still go back to from time to time. Give it a mix and you will be happy! I would maybe lower the Shisha Straw to 2%"
+        },
+        {
+            "user": "St4ndl3yme",
+            "score": 5,
+            "text": "I'm Lovin this! HANDS DOWN the best dam S&amp;C I've ever had. I can't put this thing down, Great work man keep it up!"
+        }
+    ]
 }

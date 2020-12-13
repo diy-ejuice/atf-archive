@@ -1,80 +1,82 @@
 {
-  "name": "Peaches n' Cream Cake",
-  "description": "Cheeba Steeba and I have been working together to bring you another great recipe. This mix was inspired by a simple, real life desert I make in the summertime with cake, cream cheese, sugar, and peaches. The breakdown:\r\n\r\nFA Apricot - This adds another dimension to the peach flavor to give it a little more complexity\r\nFW Yellow Cake - is the main cake note in the desert\r\nLA Cream Cheese Icing - is the cream cheese and sugar mixture that gets baked into the dessert\r\nFA Liquid Amber - This flavor adds the much needed baked note to the peaches\r\nCAP Sugar Cookie - yellow cake needed some help and cap sugar cookie works with yc perfectly to add some body and weight to the cake portion without making it too dry.\r\nFLV Peach - is the main peach note, this is a great peach flavor, not nearly as harsh as some peach flavors can be, this makes the recipe vape-able right after a mix.\r\nFW Tres Leches - The hardest part of this mix was making a wet cake, and tres leches does a wonderful job of giving the cake a bit more weight while adding some creamy goodness to help the custard and cream cheese icing out\r\nFLV Vanilla Custard - this flavor is used to add some depth to the cream cheese icing and make it thicker and creamier.\r\n\r\nYou can vape this mix right after a shake but the whole thing comes together better after a few days to a week.",
-  "id": 45276,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/45276/DSC_0100.JPG",
-  "updated_at": "2020-12-08T00:49:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "629",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tres Leches",
-      "flavor_id": "1446",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "5081",
-  "slug": "peaches_n_cream_cake",
-  "total_flavoring": "8.3%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This is delicious Emily! Perfect combination of peaches and creamy cake. I thought it needed just a little more peach so I upped the FLV Peach to 1.5%. Thank you so much for sharing this recipe."
-    },
-    {
-      "user": "Seakow",
-      "score": "5",
-      "text": "This stuff is liquid crack. Thank you for your efforts Emily."
-    }
-  ]
+    "name": "Peaches n' Cream Cake",
+    "description": "Cheeba Steeba and I have been working together to bring you another great recipe. This mix was inspired by a simple, real life desert I make in the summertime with cake, cream cheese, sugar, and peaches. The breakdown:\r\n\r\nFA Apricot - This adds another dimension to the peach flavor to give it a little more complexity\r\nFW Yellow Cake - is the main cake note in the desert\r\nLA Cream Cheese Icing - is the cream cheese and sugar mixture that gets baked into the dessert\r\nFA Liquid Amber - This flavor adds the much needed baked note to the peaches\r\nCAP Sugar Cookie - yellow cake needed some help and cap sugar cookie works with yc perfectly to add some body and weight to the cake portion without making it too dry.\r\nFLV Peach - is the main peach note, this is a great peach flavor, not nearly as harsh as some peach flavors can be, this makes the recipe vape-able right after a mix.\r\nFW Tres Leches - The hardest part of this mix was making a wet cake, and tres leches does a wonderful job of giving the cake a bit more weight while adding some creamy goodness to help the custard and cream cheese icing out\r\nFLV Vanilla Custard - this flavor is used to add some depth to the cream cheese icing and make it thicker and creamier.\r\n\r\nYou can vape this mix right after a shake but the whole thing comes together better after a few days to a week.",
+    "id": 45276,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/45276\/DSC_0100.JPG",
+    "updated_at": "2020-12-12T14:05:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "629",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tres Leches",
+            "flavor_id": "1446",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "5086",
+    "created_at": "2017-05-08",
+    "slug": "peaches_n_cream_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/45276.JPG",
+    "total_flavoring": "8.3%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This is delicious Emily! Perfect combination of peaches and creamy cake. I thought it needed just a little more peach so I upped the FLV Peach to 1.5%. Thank you so much for sharing this recipe."
+        },
+        {
+            "user": "Seakow",
+            "score": 5,
+            "text": "This stuff is liquid crack. Thank you for your efforts Emily."
+        }
+    ]
 }

@@ -1,81 +1,83 @@
 {
-  "name": "Carrot Crack",
-  "description": "Back with a vengeance! I've been playing around with a realistic carrot cake mix for a while now. This mix replaces my initial release, that was far from a final recipe. This mix is feeling very polished now. The two aspects that are very difficult in this profile are the carrot, and the icing. The carrot needs to taste well incorporated, whilst the icing needs to be distinct and slightly separated.\r\n\r\nThe idea of vaping carrot is hideous, and on it's own it lives up to just that... It's weird and confusing. My original mix used only Vt's carrot, but using it as the only carrot ingredient was't working. Just upping the percentage on parano carrot just tasted unpleasant. Adding a small amount of Flavorah carrot boosts it perfectly. Then i layered it in with a fluffy cake base that makes it very familiar and incising. Fa labyrinth, Fw yellow cake (because it's just awesome), and Tfa vanilla cupcake are such a good combination. If i wasn't going to add a icing element, vanilla cupcake wouldn't have made it in here, but it's perfect for this mix. Labyrinth is a different choice to the norm, but i believe it's one of the key ingredients entirely necessary to tie the carrots and the cake together. To date, i'm yet to find a icing/frosting concentrate that can do what Lorann's cream cheese icing can, that's why its here. So now I've linked the carrot to the cake, and the cake to the icing, and the reason i'm happy with this recipe. the only subs for ingredients would be Capella cinnamon danish swirl for Vt cinnamon doughnut. And Capella super sweet for Vt sweet mate. There are no other subs for a reason, I've tried them... Enjoy!",
-  "id": 86492,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86492/IMG_1636277524795.jpeg",
-  "updated_at": "2020-12-08T00:49:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Parano Carrot",
-      "flavor_id": "8933",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Carrot",
-      "flavor_id": "8552",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Labyrinth",
-      "flavor_id": "4474",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Cream",
-      "flavor_id": "8992",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cinnamon Donut",
-      "flavor_id": "8853",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Mate",
-      "flavor_id": "8981",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kemmo",
-  "views": "1727",
-  "slug": "carrot_crack",
-  "total_flavoring": "14.15%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "Anyone chasing this flavor profile should admit defeat and look no further as this profile has been cracked. Forget about buying the $2 slice of carrot cake from the local fair from the light purple haired pensioner and forget about your pompous cafe slice of cake with your oxen skim milk latte and vape this decadent beast. "
-    }
-  ]
+    "name": "Carrot Crack",
+    "description": "Back with a vengeance! I've been playing around with a realistic carrot cake mix for a while now. This mix replaces my initial release, that was far from a final recipe. This mix is feeling very polished now. The two aspects that are very difficult in this profile are the carrot, and the icing. The carrot needs to taste well incorporated, whilst the icing needs to be distinct and slightly separated.\r\n\r\nThe idea of vaping carrot is hideous, and on it's own it lives up to just that... It's weird and confusing. My original mix used only Vt's carrot, but using it as the only carrot ingredient was't working. Just upping the percentage on parano carrot just tasted unpleasant. Adding a small amount of Flavorah carrot boosts it perfectly. Then i layered it in with a fluffy cake base that makes it very familiar and incising. Fa labyrinth, Fw yellow cake (because it's just awesome), and Tfa vanilla cupcake are such a good combination. If i wasn't going to add a icing element, vanilla cupcake wouldn't have made it in here, but it's perfect for this mix. Labyrinth is a different choice to the norm, but i believe it's one of the key ingredients entirely necessary to tie the carrots and the cake together. To date, i'm yet to find a icing\/frosting concentrate that can do what Lorann's cream cheese icing can, that's why its here. So now I've linked the carrot to the cake, and the cake to the icing, and the reason i'm happy with this recipe. the only subs for ingredients would be Capella cinnamon danish swirl for Vt cinnamon doughnut. And Capella super sweet for Vt sweet mate. There are no other subs for a reason, I've tried them... Enjoy!",
+    "id": 86492,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/86492\/IMG_1636277524795.jpeg",
+    "updated_at": "2020-12-12T08:13:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Parano Carrot",
+            "flavor_id": "8933",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Carrot",
+            "flavor_id": "8552",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Labyrinth",
+            "flavor_id": "4474",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Cream",
+            "flavor_id": "8992",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cinnamon Donut",
+            "flavor_id": "8853",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Mate",
+            "flavor_id": "8981",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kemmo",
+    "views": "1739",
+    "created_at": "2018-02-02",
+    "slug": "carrot_crack",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/86492.jpeg",
+    "total_flavoring": "14.15%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "Anyone chasing this flavor profile should admit defeat and look no further as this profile has been cracked. Forget about buying the $2 slice of carrot cake from the local fair from the light purple haired pensioner and forget about your pompous cafe slice of cake with your oxen skim milk latte and vape this decadent beast. "
+        }
+    ]
 }

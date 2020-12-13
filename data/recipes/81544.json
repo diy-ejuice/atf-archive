@@ -1,69 +1,70 @@
 {
-  "name": "Air Factory Blue Razz remix",
-  "description": "taking a stab at airhead type candy since I don't have a taffy flavor I'm trying it this way let me know what you guys think",
-  "id": 81544,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sour Gummy",
-      "flavor_id": "8777",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tarts Type",
-      "flavor_id": "1431",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "2664",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "108",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "2373",
-  "slug": "air_factory_blue_razz_remix",
-  "total_flavoring": "16.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Air Factory Blue Razz remix",
+    "description": "taking a stab at airhead type candy since I don't have a taffy flavor I'm trying it this way let me know what you guys think",
+    "id": 81544,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sour Gummy",
+            "flavor_id": "8777",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tarts Type",
+            "flavor_id": "1431",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "2664",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "108",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "2385",
+    "created_at": "2017-12-31",
+    "slug": "air_factory_blue_razz_remix",
+    "total_flavoring": "16.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

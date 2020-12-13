@@ -1,50 +1,50 @@
 {
-  "name": "Cookie Crumble Custard",
-  "description": "A smooth, buttery, vanilla custard with sugar cookies crumbed within. Enjoy!",
-  "id": 188966,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188966/cremebrulesscookies1.jpg",
-  "updated_at": "2020-12-07T23:38:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie Butter SC",
-      "flavor_id": "10406",
-      "millipercent": 1300,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "8864",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Silky",
-  "views": "1166",
-  "slug": "cookie_crumble_custard",
-  "total_flavoring": "10.6%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cookie Crumble Custard",
+    "description": "A smooth, buttery, vanilla custard with sugar cookies crumbed within. Enjoy!",
+    "id": 188966,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/188966\/cremebrulesscookies1.jpg",
+    "updated_at": "2020-12-12T07:00:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie Butter SC",
+            "flavor_id": "10406",
+            "millipercent": 1300,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "8864",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Silky",
+    "views": "1177",
+    "created_at": "2020-03-22",
+    "slug": "cookie_crumble_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/188966.jpg",
+    "total_flavoring": "10.6%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

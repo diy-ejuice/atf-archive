@@ -1,32 +1,31 @@
 {
-  "name": "Peanut Brittle",
-  "description": "I mixed this one with 50/50 premade 6mg nic base and 70/30 just to see the difference. I am going to let it steep awhile and try them",
-  "id": 92635,
-  "image_url": null,
-  "updated_at": "2020-11-22T06:20:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Brittle – Super Concentrate",
-      "flavor_id": "7946",
-      "millipercent": 13500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 3500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "347",
-  "slug": "peanut_brittle",
-  "total_flavoring": "17.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peanut Brittle",
+    "description": "I mixed this one with 50\/50 premade 6mg nic base and 70\/30 just to see the difference. I am going to let it steep awhile and try them",
+    "id": 92635,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Brittle \u2013 Super Concentrate",
+            "flavor_id": "7946",
+            "millipercent": 13500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 3500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "351",
+    "created_at": "2018-03-16",
+    "slug": "peanut_brittle",
+    "total_flavoring": "17.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

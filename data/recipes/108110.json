@@ -1,56 +1,58 @@
 {
-  "name": "Strawb Guav",
-  "description": "Strawberry, Guava mix great for summer. I hope that you enjoy. Please comment.",
-  "id": 108110,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/108110/StrawbGuav2.jpg",
-  "updated_at": "2020-12-08T00:50:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Helfrd0771",
-  "views": "2044",
-  "slug": "strawb_guav",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "Ihavenoidea",
-      "score": "4",
-      "text": "I'm vaping this right off the shake. Good one! I think the flavors will really come together after steeping 👍"
-    },
-    {
-      "user": "ooooNaSuGamisoooo",
-      "score": "5",
-      "text": "Simple and tasty after a 5 days steep!&#xD;\ni vaped my 10ml sample in one day!&#xD;\ncongrats! "
-    }
-  ]
+    "name": "Strawb Guav",
+    "description": "Strawberry, Guava mix great for summer. I hope that you enjoy. Please comment.",
+    "id": 108110,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/108110\/StrawbGuav2.jpg",
+    "updated_at": "2020-12-12T20:30:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Helfrd0771",
+    "views": "2050",
+    "created_at": "2018-07-01",
+    "slug": "strawb_guav",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/108110.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Ihavenoidea",
+            "score": 4,
+            "text": "I'm vaping this right off the shake. Good one! I think the flavors will really come together after steeping \ud83d\udc4d"
+        },
+        {
+            "user": "ooooNaSuGamisoooo",
+            "score": 5,
+            "text": "Simple and tasty after a 5 days steep!&#xD;\ni vaped my 10ml sample in one day!&#xD;\ncongrats! "
+        }
+    ]
 }

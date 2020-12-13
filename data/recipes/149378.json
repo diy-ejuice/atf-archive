@@ -1,68 +1,68 @@
 {
-  "name": "The Green Man",
-  "description": "Green Mint Chocolate Chip Ice Cream Cone\r\n\r\nThe Green Mint note for the Ice Cream and part of the chip \r\nCreme de Menthe (Flavorah) - Is for the Green Ice Cream note and plays a secondary role in the chocolate chip.\r\n\r\nThe Ice Cream\r\nVanilla Bean Ice Cream (FW) - The main player\r\nVienna Cream (FA) - The support\r\nMadagascar (Vanilla Classic) (FA) - The support\r\n\r\nThe Chocolate Chip\r\nPuff Cereal (Cocoa) (SC) (WF) - Doesn't carry much texture but in a delicate blend it adds just enough to mimic a separated flat chip in the Green Ice Cream.\r\nChocolate Custard (VTA)- Enhances the body of the chip and boost the actual chocolate note  without stepping too much on the Green Ice Cream flavor.\r\n\r\nThe Cone\r\nSugar Cone (SC) (WF) - The main player\r\nWaffle Cone (FW) - The support",
-  "id": 149378,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149378/Jason_Edmiston_-_End_of_the_Party_-_Ice_Cream_Skull_variant_mint_final__1_.jpg",
-  "updated_at": "2020-12-07T14:13:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chocolate Custard",
-      "flavor_id": "9360",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "631",
-      "millipercent": 850,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Puff Cereal (Cocoa) SC",
-      "flavor_id": "10267",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cone SC",
-      "flavor_id": "9050",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Waffle Cone",
-      "flavor_id": "8496",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Vapethoven",
-  "views": "1189",
-  "slug": "the_green_man",
-  "total_flavoring": "13.1%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Green Man",
+    "description": "Green Mint Chocolate Chip Ice Cream Cone\r\n\r\nThe Green Mint note for the Ice Cream and part of the chip \r\nCreme de Menthe (Flavorah) - Is for the Green Ice Cream note and plays a secondary role in the chocolate chip.\r\n\r\nThe Ice Cream\r\nVanilla Bean Ice Cream (FW) - The main player\r\nVienna Cream (FA) - The support\r\nMadagascar (Vanilla Classic) (FA) - The support\r\n\r\nThe Chocolate Chip\r\nPuff Cereal (Cocoa) (SC) (WF) - Doesn't carry much texture but in a delicate blend it adds just enough to mimic a separated flat chip in the Green Ice Cream.\r\nChocolate Custard (VTA)- Enhances the body of the chip and boost the actual chocolate note  without stepping too much on the Green Ice Cream flavor.\r\n\r\nThe Cone\r\nSugar Cone (SC) (WF) - The main player\r\nWaffle Cone (FW) - The support",
+    "id": 149378,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149378\/Jason_Edmiston_-_End_of_the_Party_-_Ice_Cream_Skull_variant_mint_final__1_.jpg",
+    "updated_at": "2020-12-11T22:45:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chocolate Custard",
+            "flavor_id": "9360",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "631",
+            "millipercent": 850,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Puff Cereal (Cocoa) SC",
+            "flavor_id": "10267",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cone SC",
+            "flavor_id": "9050",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Waffle Cone",
+            "flavor_id": "8496",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Vapethoven",
+    "views": "1196",
+    "created_at": "2019-05-01",
+    "slug": "the_green_man",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149378.jpg",
+    "total_flavoring": "13.1%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

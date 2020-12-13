@@ -1,62 +1,61 @@
 {
-  "name": "Chai Clouds",
-  "description": "Based off of Muon Gold. First recipe ever. Extreme WIP",
-  "id": 192880,
-  "image_url": null,
-  "updated_at": "2020-12-06T14:09:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Chai Tea",
-      "flavor_id": "346",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Horchata Smooth",
-      "flavor_id": "356",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish",
-      "flavor_id": "156",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Saaer",
-  "views": "365",
-  "slug": "chai_clouds",
-  "total_flavoring": "20.5%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chai Clouds",
+    "description": "Based off of Muon Gold. First recipe ever. Extreme WIP",
+    "id": 192880,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Chai Tea",
+            "flavor_id": "346",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Horchata Smooth",
+            "flavor_id": "356",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish",
+            "flavor_id": "156",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Saaer",
+    "views": "371",
+    "created_at": "2020-04-27",
+    "slug": "chai_clouds",
+    "total_flavoring": "20.5%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "0"
 }

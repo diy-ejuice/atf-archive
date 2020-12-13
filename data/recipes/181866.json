@@ -1,68 +1,67 @@
 {
-  "name": "Handy Man",
-  "description": "Some inspiration for this recipe is from Maintenance Man by a Phoenix on ELR. ",
-  "id": 181866,
-  "image_url": null,
-  "updated_at": "2020-11-30T21:58:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "R08U57",
-  "views": "755",
-  "slug": "handy_man",
-  "total_flavoring": "13.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Handy Man",
+    "description": "Some inspiration for this recipe is from Maintenance Man by a Phoenix on ELR. ",
+    "id": 181866,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:53:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "R08U57",
+    "views": "762",
+    "created_at": "2020-01-20",
+    "slug": "handy_man",
+    "total_flavoring": "13.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "420"
 }

@@ -1,75 +1,76 @@
 {
-  "name": "Tenacious T (Live Mixing 02/09)",
-  "description": "Papaya puree added to a McDonald's sweet tea. Connecticut shade to add some tea leaf earthiness.",
-  "id": 87595,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 1600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 200,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "2756",
-  "slug": "tenacious_t_live_mixing_0209",
-  "total_flavoring": "13.8%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This isn't what I normally think of when I'm looking for a summer ADV, but I'll be damned if this isn't pretty refreshing outside on a 90+ degree day.  Plenty sweet, plenty fruity, and has a nice earthy feel and near dryness that lends to the authenticity of a real tea."
-    }
-  ]
+    "name": "Tenacious T (Live Mixing 02\/09)",
+    "description": "Papaya puree added to a McDonald's sweet tea. Connecticut shade to add some tea leaf earthiness.",
+    "id": 87595,
+    "image_url": null,
+    "updated_at": "2020-12-12T08:13:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 1600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 200,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "2768",
+    "created_at": "2018-02-09",
+    "slug": "tenacious_t_live_mixing_0209",
+    "total_flavoring": "13.8%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This isn't what I normally think of when I'm looking for a summer ADV, but I'll be damned if this isn't pretty refreshing outside on a 90+ degree day.  Plenty sweet, plenty fruity, and has a nice earthy feel and near dryness that lends to the authenticity of a real tea."
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Sticky Toffee Pudding",
-  "description": "It's Sticky, it's toffee, it's ( what british people call pudding) cakey and served with a scoop of vanilla ice cream. \r\n\r\nFlavorah vanilla Custard and Fw Yellow cake pair awsamely well together to make this spongy sweet cake while Toffee ice cream and Caramel Butter make the toffee sauce very rich, syrupy and buttery.\r\n",
-  "id": 179975,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/179975/IMG_1589.JPG",
-  "updated_at": "2020-12-07T14:14:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VenSyBoy",
-  "views": "925",
-  "slug": "sticky_toffee_pudding",
-  "total_flavoring": "11.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sticky Toffee Pudding",
+    "description": "It's Sticky, it's toffee, it's ( what british people call pudding) cakey and served with a scoop of vanilla ice cream. \r\n\r\nFlavorah vanilla Custard and Fw Yellow cake pair awsamely well together to make this spongy sweet cake while Toffee ice cream and Caramel Butter make the toffee sauce very rich, syrupy and buttery.\r\n",
+    "id": 179975,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/179975\/IMG_1589.JPG",
+    "updated_at": "2020-12-11T14:17:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VenSyBoy",
+    "views": "937",
+    "created_at": "2020-01-04",
+    "slug": "sticky_toffee_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/179975.JPG",
+    "total_flavoring": "11.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

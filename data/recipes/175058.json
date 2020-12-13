@@ -1,68 +1,68 @@
 {
-  "name": "Yoda Milk",
-  "description": "A green apple ice cream with bits of green apple candy.  To taste you must sweeten!",
-  "id": 175058,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/175058/2e5riz.jpg",
-  "updated_at": "2020-12-06T20:45:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Green Apple Hard Candy",
-      "flavor_id": "10001",
-      "millipercent": 5300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Green Apple",
-      "flavor_id": "622",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Granny Smith",
-      "flavor_id": "4423",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow (Gooey) SC",
-      "flavor_id": "10265",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sour Lemon",
-      "flavor_id": "8971",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1237",
-  "slug": "yoda_milk",
-  "total_flavoring": "16.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Yoda Milk",
+    "description": "A green apple ice cream with bits of green apple candy.  To taste you must sweeten!",
+    "id": 175058,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/175058\/2e5riz.jpg",
+    "updated_at": "2020-12-12T14:07:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Green Apple Hard Candy",
+            "flavor_id": "10001",
+            "millipercent": 5300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Green Apple",
+            "flavor_id": "622",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Granny Smith",
+            "flavor_id": "4423",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow (Gooey) SC",
+            "flavor_id": "10265",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sour Lemon",
+            "flavor_id": "8971",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1248",
+    "created_at": "2019-11-19",
+    "slug": "yoda_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/175058.jpg",
+    "total_flavoring": "16.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Cookie Monster Blood",
-  "description": "A delicious blend of all the things I like. The blood orange is really doing something magical here. Enjoy guys!",
-  "id": 154031,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154031/9AD90A6C-BE63-456F-9A60-8C8B203A8637.png",
-  "updated_at": "2020-12-07T17:35:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "4407",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 350,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1327",
-  "slug": "cookie_monster_blood",
-  "total_flavoring": "19.1%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cookie Monster Blood",
+    "description": "A delicious blend of all the things I like. The blood orange is really doing something magical here. Enjoy guys!",
+    "id": 154031,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154031\/9AD90A6C-BE63-456F-9A60-8C8B203A8637.png",
+    "updated_at": "2020-12-10T17:58:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "4407",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 350,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1330",
+    "created_at": "2019-06-02",
+    "slug": "cookie_monster_blood",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154031.png",
+    "total_flavoring": "19.1%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

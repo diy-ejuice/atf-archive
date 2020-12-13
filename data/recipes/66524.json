@@ -1,51 +1,53 @@
 {
-  "name": "Easy Lime",
-  "description": "No-fuss, zesty and sweet lime juice. Comparable to a margarita mix with some fresh lime squeezed on top.\r\nShake and vape.\r\n\r\nTPA Key Lime - Tangy, top notes of the lime. Slight sweetness. On its own can be quite harsh, but marshmallow rounds it off to leave the zesty notes without the sharp throat hit.\r\nFA Lime Tahity CP - A deeper key lime flavour. Plays well off the top notes of the key lime, adding a backdrop of syrup/juice.\r\nMarshmallow - Rounds out the harsh notes of the key lime, adds some inherent sweetness and \"smooth\" balance to the mix.\r\nKoolada - At 0.5% adds a coolness, reminiscent of a cold lime juice.",
-  "id": 66524,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66524/ingredient-lime-juice.jpg",
-  "updated_at": "2020-12-08T00:49:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Jthectic",
-  "views": "1593",
-  "slug": "easy_lime",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Toasty",
-      "score": "4",
-      "text": "Very refreshing, tangy lime. I was honestly surprised by how well the marshmallow works in this mix, but on its own it kinda feels incomplete. I think it would work great as a lime base though. Also, I'd swap out koolada for WS-23, but that might just be personal preference."
-    }
-  ]
+    "name": "Easy Lime",
+    "description": "No-fuss, zesty and sweet lime juice. Comparable to a margarita mix with some fresh lime squeezed on top.\r\nShake and vape.\r\n\r\nTPA Key Lime - Tangy, top notes of the lime. Slight sweetness. On its own can be quite harsh, but marshmallow rounds it off to leave the zesty notes without the sharp throat hit.\r\nFA Lime Tahity CP - A deeper key lime flavour. Plays well off the top notes of the key lime, adding a backdrop of syrup\/juice.\r\nMarshmallow - Rounds out the harsh notes of the key lime, adds some inherent sweetness and \"smooth\" balance to the mix.\r\nKoolada - At 0.5% adds a coolness, reminiscent of a cold lime juice.",
+    "id": 66524,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66524\/ingredient-lime-juice.jpg",
+    "updated_at": "2020-12-12T11:51:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Jthectic",
+    "views": "1601",
+    "created_at": "2017-10-03",
+    "slug": "easy_lime",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66524.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Toasty",
+            "score": 4,
+            "text": "Very refreshing, tangy lime. I was honestly surprised by how well the marshmallow works in this mix, but on its own it kinda feels incomplete. I think it would work great as a lime base though. Also, I'd swap out koolada for WS-23, but that might just be personal preference."
+        }
+    ]
 }

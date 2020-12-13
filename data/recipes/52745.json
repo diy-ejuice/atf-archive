@@ -1,74 +1,76 @@
 {
-  "name": "Relax",
-  "description": "A relaxing pear vape. It is pretty good after 3 days but just gets better over time as everything amalgamates.",
-  "id": 52745,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52745/coconutpear.jpg",
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "665",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "InsidiousBrew",
-  "views": "1334",
-  "slug": "relax",
-  "total_flavoring": "13.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "showstoppah420",
-      "score": "5",
-      "text": "This is really good. Pear on the inhale and not too much coconut on the exhale.  A really good balance for my taste. Waited 3 days to try it out. Been looking for a nice pear vape and I think I found a good one. Not too sweet either. Thank you for sharing."
-    },
-    {
-      "user": "KylezKloudz",
-      "score": "1",
-      "text": "Wayyyy too much Pear! Can't really taste anything over that at all! Now maybe it's me, but it's been almost a week and that's all I'm getting... Its a nice idea for a recipe but it needs some fine tuning (imo) &#xD;\n*** Not trying to be harsh, just trying to give you honest feedback. Hope this helps...🙂"
-    }
-  ]
+    "name": "Relax",
+    "description": "A relaxing pear vape. It is pretty good after 3 days but just gets better over time as everything amalgamates.",
+    "id": 52745,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/52745\/coconutpear.jpg",
+    "updated_at": "2020-12-12T18:29:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "665",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "InsidiousBrew",
+    "views": "1338",
+    "created_at": "2017-06-26",
+    "slug": "relax",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/52745.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "showstoppah420",
+            "score": 5,
+            "text": "This is really good. Pear on the inhale and not too much coconut on the exhale.  A really good balance for my taste. Waited 3 days to try it out. Been looking for a nice pear vape and I think I found a good one. Not too sweet either. Thank you for sharing."
+        },
+        {
+            "user": "KylezKloudz",
+            "score": 1,
+            "text": "Wayyyy too much Pear! Can't really taste anything over that at all! Now maybe it's me, but it's been almost a week and that's all I'm getting... Its a nice idea for a recipe but it needs some fine tuning (imo) &#xD;\n*** Not trying to be harsh, just trying to give you honest feedback. Hope this helps...\ud83d\ude42"
+        }
+    ]
 }

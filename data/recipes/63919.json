@@ -1,62 +1,61 @@
 {
-  "name": "fall time cookies",
-  "description": "A nice simple sugar cookie with hints white chocolate peppermint in the background welcome too fall everyone",
-  "id": 63919,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:40:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Chocolate Peppermint",
-      "flavor_id": "6795",
-      "millipercent": 2500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1013",
-  "slug": "fall_time_cookies",
-  "total_flavoring": "11.5%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "fall time cookies",
+    "description": "A nice simple sugar cookie with hints white chocolate peppermint in the background welcome too fall everyone",
+    "id": 63919,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Chocolate Peppermint",
+            "flavor_id": "6795",
+            "millipercent": 2500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1017",
+    "created_at": "2017-09-15",
+    "slug": "fall_time_cookies",
+    "total_flavoring": "11.5%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "95"
 }

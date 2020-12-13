@@ -1,87 +1,89 @@
 {
-  "name": "Lime Lizards",
-  "description": "Started as Candy Green Apple, then the idea changed to lime candy, then lime-ade. Now it's landed on this concoction of green candy goodness. :) Enjoy it. Let me know your thoughts. \r\nAlso if you're a very seasonal style vaper, save this one for this upcoming spring/summer.",
-  "id": 75368,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75368/Lime_Lizards.png",
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "634",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple (green)",
-      "flavor_id": "1176",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "BradH",
-  "views": "1625",
-  "slug": "lime_lizards",
-  "total_flavoring": "12.3%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "Looks good will have to try sometime "
-    }
-  ]
+    "name": "Lime Lizards",
+    "description": "Started as Candy Green Apple, then the idea changed to lime candy, then lime-ade. Now it's landed on this concoction of green candy goodness. :) Enjoy it. Let me know your thoughts. \r\nAlso if you're a very seasonal style vaper, save this one for this upcoming spring\/summer.",
+    "id": 75368,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75368\/Lime_Lizards.png",
+    "updated_at": "2020-12-12T15:39:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "634",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple (green)",
+            "flavor_id": "1176",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "BradH",
+    "views": "1632",
+    "created_at": "2017-11-21",
+    "slug": "lime_lizards",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75368.png",
+    "total_flavoring": "12.3%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "Looks good will have to try sometime "
+        }
+    ]
 }

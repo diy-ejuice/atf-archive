@@ -1,50 +1,52 @@
 {
-  "name": "Strawberry Kiwi - DEAD SIMPLE",
-  "description": "Tastes like a Strawberry Kiwi Capri Sun. Made for the DEAD SIMPLE recipe series.",
-  "id": 175355,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/175355/kiwi.jpg",
-  "updated_at": "2020-12-08T00:51:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "3773",
-  "slug": "strawberry_kiwi_dead_simple",
-  "total_flavoring": "6.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Bumblebee",
-      "score": "5",
-      "text": "I‘ve only been mixing for a few months and am so grateful to have stumbled across DIYorDIE.com in my first few days of researching and it has proven to be an invaluable resource, member for life. As always, stellar recipe - simple and delicious. Love it! Keep ‘em coming!"
-    },
-    {
-      "user": "robolto78",
-      "score": "5",
-      "text": "I have always loved strawberry and kiwi. It has never translated well for me into the vape realm though. However, seeing as how it is so easy and cheap to make, I made some. I have to say, a found myself vaping it exclusively for the next day and a half. Great balanced mix. Well done once again."
-    }
-  ]
+    "name": "Strawberry Kiwi - DEAD SIMPLE",
+    "description": "Tastes like a Strawberry Kiwi Capri Sun. Made for the DEAD SIMPLE recipe series.",
+    "id": 175355,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/175355\/kiwi.jpg",
+    "updated_at": "2020-12-12T15:40:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "3797",
+    "created_at": "2019-11-23",
+    "slug": "strawberry_kiwi_dead_simple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/175355.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Bumblebee",
+            "score": 5,
+            "text": "I\u2018ve only been mixing for a few months and am so grateful to have stumbled across DIYorDIE.com in my first few days of researching and it has proven to be an invaluable resource, member for life. As always, stellar recipe - simple and delicious. Love it! Keep \u2018em coming!"
+        },
+        {
+            "user": "robolto78",
+            "score": 5,
+            "text": "I have always loved strawberry and kiwi. It has never translated well for me into the vape realm though. However, seeing as how it is so easy and cheap to make, I made some. I have to say, a found myself vaping it exclusively for the next day and a half. Great balanced mix. Well done once again."
+        }
+    ]
 }

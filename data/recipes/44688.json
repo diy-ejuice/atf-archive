@@ -1,63 +1,65 @@
 {
-  "name": "Mesters Bellini",
-  "description": "The Peach Bellini, sweet peach, sparkling wine, refreshing for the summertime",
-  "id": 44688,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/44688/Bellini.jpg",
-  "updated_at": "2020-12-08T00:49:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach",
-      "flavor_id": "542",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sparkling Wine",
-      "flavor_id": "843",
-      "millipercent": 3500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MesterWard",
-  "views": "1525",
-  "slug": "mesters_bellini",
-  "total_flavoring": "13.5%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 2,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "2",
-      "text": "I’d love a good bellini recipe, but I didn’t find this to be one. I tried it to see if it made INW Sparkling Wine work, but I’m still getting what I think is supposed to be a booze note, but instead comes across rhubarb-ish and a little camphorous (and the Cactus doesn’t seem to be helping there), and a base that’s bubble gummy. Also INW Sparkling Wine comes across fairly full flavored at just 1%, this seems like an excessive amount of it. Maybe much less of it would be effective? But I would just scrap it and use a better champagne flavor to build a bellini, FLV Brut Bubble Wine comes to mind but there are others that might work just as well, if not better. "
-    }
-  ]
+    "name": "Mesters Bellini",
+    "description": "The Peach Bellini, sweet peach, sparkling wine, refreshing for the summertime",
+    "id": 44688,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/44688\/Bellini.jpg",
+    "updated_at": "2020-12-12T14:05:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach",
+            "flavor_id": "542",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sparkling Wine",
+            "flavor_id": "843",
+            "millipercent": 3500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MesterWard",
+    "views": "1529",
+    "created_at": "2017-05-05",
+    "slug": "mesters_bellini",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/44688.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 2,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 2,
+            "text": "I\u2019d love a good bellini recipe, but I didn\u2019t find this to be one. I tried it to see if it made INW Sparkling Wine work, but I\u2019m still getting what I think is supposed to be a booze note, but instead comes across rhubarb-ish and a little camphorous (and the Cactus doesn\u2019t seem to be helping there), and a base that\u2019s bubble gummy. Also INW Sparkling Wine comes across fairly full flavored at just 1%, this seems like an excessive amount of it. Maybe much less of it would be effective? But I would just scrap it and use a better champagne flavor to build a bellini, FLV Brut Bubble Wine comes to mind but there are others that might work just as well, if not better. "
+        }
+    ]
 }

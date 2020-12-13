@@ -1,63 +1,65 @@
 {
-  "name": "SCT - Not just another S&C",
-  "description": "This is a strawberry and cream tobacco. It is good, I am too lazy for notes currently. I used stuff that works and is gud.\r\n\r\nTry it.",
-  "id": 94290,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/94290/OnA.png",
-  "updated_at": "2020-12-08T00:50:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry – SC",
-      "flavor_id": "7550",
-      "millipercent": 1400,
-      "vendor": "RF"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla For Pipe",
-      "flavor_id": "886",
-      "millipercent": 1800,
-      "vendor": "INW"
-    },
-    {
-      "name": "French Pipe",
-      "flavor_id": "781",
-      "millipercent": 600,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tahitian Vanilla Cream",
-      "flavor_id": "6065",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Fear",
-  "views": "3864",
-  "slug": "sct_not_just_another_sc",
-  "total_flavoring": "6.8%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "Four years of work deserves 5 stars even if I am strawberry mute."
-    }
-  ]
+    "name": "SCT - Not just another S&C",
+    "description": "This is a strawberry and cream tobacco. It is good, I am too lazy for notes currently. I used stuff that works and is gud.\r\n\r\nTry it.",
+    "id": 94290,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/94290\/OnA.png",
+    "updated_at": "2020-12-12T11:51:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry \u2013 SC",
+            "flavor_id": "7550",
+            "millipercent": 1400,
+            "vendor": "RF"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla For Pipe",
+            "flavor_id": "886",
+            "millipercent": 1800,
+            "vendor": "INW"
+        },
+        {
+            "name": "French Pipe",
+            "flavor_id": "781",
+            "millipercent": 600,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tahitian Vanilla Cream",
+            "flavor_id": "6065",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Fear",
+    "views": "3873",
+    "created_at": "2018-03-27",
+    "slug": "sct_not_just_another_sc",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/94290.png",
+    "total_flavoring": "6.8%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "Four years of work deserves 5 stars even if I am strawberry mute."
+        }
+    ]
 }

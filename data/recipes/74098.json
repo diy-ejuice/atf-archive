@@ -1,81 +1,82 @@
 {
-  "name": "Meet The Flintstones",
-  "description": "this is my best version of fruity pebbles and cheesecake/graham crust helps with the flakiness of the fruity pebbles and the creams make up a nice creamy dairy for the milk",
-  "id": 74098,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Pebbles – Super Concentrate",
-      "flavor_id": "7896",
-      "millipercent": 5000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1359",
-  "slug": "meet_the_flintstones",
-  "total_flavoring": "14.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Meet The Flintstones",
+    "description": "this is my best version of fruity pebbles and cheesecake\/graham crust helps with the flakiness of the fruity pebbles and the creams make up a nice creamy dairy for the milk",
+    "id": 74098,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:39:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Pebbles \u2013 Super Concentrate",
+            "flavor_id": "7896",
+            "millipercent": 5000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1368",
+    "created_at": "2017-11-14",
+    "slug": "meet_the_flintstones",
+    "total_flavoring": "14.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

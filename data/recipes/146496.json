@@ -1,63 +1,65 @@
 {
-  "name": "Irish Coffee",
-  "description": "Creamy coffee with a light smokey hint of whiskey and a touch of vanilla.\r\n\r\nThe coffee is right there on day one, but the booze seems pretty lazy and needs a week or two to finally show up.",
-  "id": 146496,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146496/baileys-irish-coffee.jpg",
-  "updated_at": "2020-12-08T00:50:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cappuccino V2",
-      "flavor_id": "25",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Waffle",
-      "flavor_id": "1457",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Foment_life",
-  "views": "2317",
-  "slug": "irish_coffee",
-  "total_flavoring": "9.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "eyemakepizza",
-      "score": "5",
-      "text": "This recipe single handily changed my mind on booze mixes. Very well done!"
-    }
-  ]
+    "name": "Irish Coffee",
+    "description": "Creamy coffee with a light smokey hint of whiskey and a touch of vanilla.\r\n\r\nThe coffee is right there on day one, but the booze seems pretty lazy and needs a week or two to finally show up.",
+    "id": 146496,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146496\/baileys-irish-coffee.jpg",
+    "updated_at": "2020-12-12T14:07:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cappuccino V2",
+            "flavor_id": "25",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Waffle",
+            "flavor_id": "1457",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Foment_life",
+    "views": "2327",
+    "created_at": "2019-04-09",
+    "slug": "irish_coffee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146496.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "eyemakepizza",
+            "score": 5,
+            "text": "This recipe single handily changed my mind on booze mixes. Very well done!"
+        }
+    ]
 }

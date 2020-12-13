@@ -1,69 +1,70 @@
 {
-  "name": "Unicorn Milk",
-  "description": "CuttwoodSpy \"leak\"",
-  "id": 276,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 8500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "4220",
-  "slug": "unicorn_milk",
-  "total_flavoring": "16.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "It's good"
-    }
-  ]
+    "name": "Unicorn Milk",
+    "description": "CuttwoodSpy \"leak\"",
+    "id": 276,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 8500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "4227",
+    "created_at": "2016-03-06",
+    "slug": "unicorn_milk",
+    "total_flavoring": "16.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "It's good"
+        }
+    ]
 }

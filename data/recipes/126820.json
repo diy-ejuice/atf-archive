@@ -1,57 +1,59 @@
 {
-  "name": "Simple Banana Nut Pudding",
-  "description": "A basic Banana Nut Custard, nothing to crazy but it's a recipe i really like thru the whole day.\r\nPercentages based of ideas of several mixers like Wayne DIEorDie and Fresh03 and others.",
-  "id": 126820,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/126820/IMG_19472.jpg",
-  "updated_at": "2020-12-08T00:50:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Echodub",
-  "views": "1783",
-  "slug": "simple_banana_nut_pudding",
-  "total_flavoring": "8.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "It’s described as a simple banana nut custard, with a picture that looks like pudding or custard with bananas and nuts on top. It doesn’t taste like banana nut pudding in the sense of a pudding with banana and nuts, like the picture. It is more like a banana bread bread pudding - a bread pudding made with banana bread. Which, of course, is pretty tasty. But there are a ton of bready bakery notes in there between the Banana Nut Bread and the Pudding Base. It also left me wanting just a little more banana flavor, like a banana nut bread bread pudding served with a few banana slices on top might taste. "
-    }
-  ]
+    "name": "Simple Banana Nut Pudding",
+    "description": "A basic Banana Nut Custard, nothing to crazy but it's a recipe i really like thru the whole day.\r\nPercentages based of ideas of several mixers like Wayne DIEorDie and Fresh03 and others.",
+    "id": 126820,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/126820\/IMG_19472.jpg",
+    "updated_at": "2020-12-12T17:12:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Echodub",
+    "views": "1793",
+    "created_at": "2018-11-11",
+    "slug": "simple_banana_nut_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/126820.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "It\u2019s described as a simple banana nut custard, with a picture that looks like pudding or custard with bananas and nuts on top. It doesn\u2019t taste like banana nut pudding in the sense of a pudding with banana and nuts, like the picture. It is more like a banana bread bread pudding - a bread pudding made with banana bread. Which, of course, is pretty tasty. But there are a ton of bready bakery notes in there between the Banana Nut Bread and the Pudding Base. It also left me wanting just a little more banana flavor, like a banana nut bread bread pudding served with a few banana slices on top might taste. "
+        }
+    ]
 }

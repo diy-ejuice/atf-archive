@@ -1,56 +1,56 @@
 {
-  "name": "Berry Berry Yogalicious",
-  "description": "Ugh so annoying, lost my description.  Here we go again.  The profile I was going for was a dark berry forward yogurt smoothie with a hint of lemon.  The VT Yoghurt drink takes care of the yogurt with the hint of lemon, but it's not thick enough on its own for a smoothie and FW yogurt provides that thickness without making it overly creamy.  I wanted to make sure the Forrest Fruit didn't get overpowered by the yogurtness of this mix so I boosted all the dark berries.  The FA black currant adds that syrupy sweetness and the FA Bilberry gives it an additional fresh blueberry vibe.  TFA Blackberry is notoriously strong and I didn't want it to overpower the mix, but it just belonged in the dark berry mix.  This started as a collab on the DIY_eJuice Discord with @isuamadog, but we veered in different directions as he wanted to bring the yogurt to the front.   As always fun times on the discord and delicious recipes.",
-  "id": 148788,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/148788/5585f077c6f8af0cc6e9f913ba8121ce.jpg",
-  "updated_at": "2020-12-07T22:33:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "214",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "2627",
-  "slug": "berry_berry_yogalicious",
-  "total_flavoring": "10.75%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Berry Yogalicious",
+    "description": "Ugh so annoying, lost my description.  Here we go again.  The profile I was going for was a dark berry forward yogurt smoothie with a hint of lemon.  The VT Yoghurt drink takes care of the yogurt with the hint of lemon, but it's not thick enough on its own for a smoothie and FW yogurt provides that thickness without making it overly creamy.  I wanted to make sure the Forrest Fruit didn't get overpowered by the yogurtness of this mix so I boosted all the dark berries.  The FA black currant adds that syrupy sweetness and the FA Bilberry gives it an additional fresh blueberry vibe.  TFA Blackberry is notoriously strong and I didn't want it to overpower the mix, but it just belonged in the dark berry mix.  This started as a collab on the DIY_eJuice Discord with @isuamadog, but we veered in different directions as he wanted to bring the yogurt to the front.   As always fun times on the discord and delicious recipes.",
+    "id": 148788,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/148788\/5585f077c6f8af0cc6e9f913ba8121ce.jpg",
+    "updated_at": "2020-12-12T10:15:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "214",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "2634",
+    "created_at": "2019-04-26",
+    "slug": "berry_berry_yogalicious",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/148788.jpg",
+    "total_flavoring": "10.75%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Maiden's Milk",
-  "description": "Requires at least a week of aging. Any vaping beforehand will not taste very cakey (sp?), which sucks. I like it best after day 10 for optimal taste.\r\nIf you would like a blueberry varient, use Blueberry (FW) and omit the strawberry. I would probably lower the percentage from 6 to 4%, although tastes vary.\r\n\r\nI enjoy this one most with a wider airflow.",
-  "id": 29904,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29904/Screen_Shot_2017-02-01_at_1.04.39_PM.png",
-  "updated_at": "2020-12-07T11:43:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ThirdWorldOrder",
-  "views": "1763",
-  "slug": "maidens_milk",
-  "total_flavoring": "16.0%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Maiden's Milk",
+    "description": "Requires at least a week of aging. Any vaping beforehand will not taste very cakey (sp?), which sucks. I like it best after day 10 for optimal taste.\r\nIf you would like a blueberry varient, use Blueberry (FW) and omit the strawberry. I would probably lower the percentage from 6 to 4%, although tastes vary.\r\n\r\nI enjoy this one most with a wider airflow.",
+    "id": 29904,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29904\/Screen_Shot_2017-02-01_at_1.04.39_PM.png",
+    "updated_at": "2020-12-11T19:40:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ThirdWorldOrder",
+    "views": "1774",
+    "created_at": "2017-02-01",
+    "slug": "maidens_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29904.png",
+    "total_flavoring": "16.0%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

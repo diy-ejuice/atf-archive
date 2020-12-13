@@ -1,67 +1,69 @@
 {
-  "name": "Pink Cloud",
-  "description": "Something quick, simple and fruity. Not that complex but still tasty.\r\n\r\nInspired by oriental canned drinks with jelly pieces.\r\n\r\nSweet Lychee and Jelly Candy are the base here and both compliment each other quite well. Although the percentages might seem high, the Jelly helps tone down the floral notes from the lychee.\r\n\r\nBlackcurrant and dragonfruit are added to round out the body and mouth feel. ",
-  "id": 105262,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/105262/pink-fluffy-clouds.jpg",
-  "updated_at": "2020-12-08T00:50:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Lychee",
-      "flavor_id": "119",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Statch",
-  "views": "3428",
-  "slug": "pink_cloud",
-  "total_flavoring": "14.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Deetzz",
-      "score": "5",
-      "text": "This is one Kickass candy recipe!! I never expected the flavor that this made in the end, The Jelly candy completely changes the Lychee but in a Delicious Way. Great recipe and will definitely mix this up very soon, thanks!"
-    },
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "Really enjoyed this one, thanks! Was a bit hesitant due to high percentage of lychee, however, it worked very well in this recipe. I added a bit of menthol and ws-23 and could hardly put it down. Will be mixing this again."
-    },
-    {
-      "user": "Vnation",
-      "score": "5",
-      "text": "Great recipe never thought that my sweet lychee would ever be used and it works well with jelly candy thanks for sharing"
-    }
-  ]
+    "name": "Pink Cloud",
+    "description": "Something quick, simple and fruity. Not that complex but still tasty.\r\n\r\nInspired by oriental canned drinks with jelly pieces.\r\n\r\nSweet Lychee and Jelly Candy are the base here and both compliment each other quite well. Although the percentages might seem high, the Jelly helps tone down the floral notes from the lychee.\r\n\r\nBlackcurrant and dragonfruit are added to round out the body and mouth feel. ",
+    "id": 105262,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/105262\/pink-fluffy-clouds.jpg",
+    "updated_at": "2020-12-12T18:29:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Lychee",
+            "flavor_id": "119",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Statch",
+    "views": "3446",
+    "created_at": "2018-06-12",
+    "slug": "pink_cloud",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/105262.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Deetzz",
+            "score": 5,
+            "text": "This is one Kickass candy recipe!! I never expected the flavor that this made in the end, The Jelly candy completely changes the Lychee but in a Delicious Way. Great recipe and will definitely mix this up very soon, thanks!"
+        },
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "Really enjoyed this one, thanks! Was a bit hesitant due to high percentage of lychee, however, it worked very well in this recipe. I added a bit of menthol and ws-23 and could hardly put it down. Will be mixing this again."
+        },
+        {
+            "user": "Vnation",
+            "score": 5,
+            "text": "Great recipe never thought that my sweet lychee would ever be used and it works well with jelly candy thanks for sharing"
+        }
+    ]
 }

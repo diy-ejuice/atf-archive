@@ -1,50 +1,50 @@
 {
-  "name": "Pops Cereal",
-  "description": "A simple Corn Pops Cereal.",
-  "id": 56100,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56100/Pops_character.png",
-  "updated_at": "2020-12-07T12:46:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "lmhobbs",
-  "views": "1621",
-  "slug": "pops_cereal",
-  "total_flavoring": "13.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "410",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pops Cereal",
+    "description": "A simple Corn Pops Cereal.",
+    "id": 56100,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/56100\/Pops_character.png",
+    "updated_at": "2020-12-10T14:52:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "lmhobbs",
+    "views": "1626",
+    "created_at": "2017-07-18",
+    "slug": "pops_cereal",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/56100.png",
+    "total_flavoring": "13.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "410"
 }

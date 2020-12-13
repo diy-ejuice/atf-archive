@@ -1,63 +1,65 @@
 {
-  "name": "Laid Back (Gin and citrus juice)",
-  "description": "Original Idea: pairing VT Gin with Honey Bee\r\n\r\nProcess: Worked on in the diy_ejuice discord by members who were present. Alfred Pudding was on a mission to find the perfect use for Honey Bee and we were interested in pairing Honey Pomelo with Gin. We were thinking FA gin which is less boozy and mostly juniper, and VT Gin was suggested as an alternative which we went for as it fit better for those alcohol notes. \r\n\r\nDescription: Boozy, citrus, slightly sweet/slightly cool, gin\r\n\r\nResult: This is a great vape if you are finally looking for a use for your FLV Honey Bee. It's potent stuff and it's scary smelling. At 0.25 here it does its magic without overpowering. Links in with the citrus combo: VT Honey Pomelo, FLV Pink Guava, and VT Persian Lime which stand strong as an unusual citrus with a twist of lime on top of the gin base. A little coolant without ruining the hot boozy note and presto! We hope you enjoy this as much as we did!\r\n\r\nJoin the discord and share your ideas! https://discord.gg/ufVTyAQ",
-  "id": 137757,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137757/gin_and_juice.jpg",
-  "updated_at": "2020-12-08T00:50:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Botanical Gin",
-      "flavor_id": "9887",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honey Pomelo",
-      "flavor_id": "8900",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honey Bee",
-      "flavor_id": "2149",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "diy_discord",
-  "views": "945",
-  "slug": "laid_back_gin_and_citrus_juice",
-  "total_flavoring": "12.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JTHerman",
-      "score": "5",
-      "text": "This is a great mix! My favorite of the several gin and juice mixes I’ve tried."
-    }
-  ]
+    "name": "Laid Back (Gin and citrus juice)",
+    "description": "Original Idea: pairing VT Gin with Honey Bee\r\n\r\nProcess: Worked on in the diy_ejuice discord by members who were present. Alfred Pudding was on a mission to find the perfect use for Honey Bee and we were interested in pairing Honey Pomelo with Gin. We were thinking FA gin which is less boozy and mostly juniper, and VT Gin was suggested as an alternative which we went for as it fit better for those alcohol notes. \r\n\r\nDescription: Boozy, citrus, slightly sweet\/slightly cool, gin\r\n\r\nResult: This is a great vape if you are finally looking for a use for your FLV Honey Bee. It's potent stuff and it's scary smelling. At 0.25 here it does its magic without overpowering. Links in with the citrus combo: VT Honey Pomelo, FLV Pink Guava, and VT Persian Lime which stand strong as an unusual citrus with a twist of lime on top of the gin base. A little coolant without ruining the hot boozy note and presto! We hope you enjoy this as much as we did!\r\n\r\nJoin the discord and share your ideas! https:\/\/discord.gg\/ufVTyAQ",
+    "id": 137757,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137757\/gin_and_juice.jpg",
+    "updated_at": "2020-12-12T10:15:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Botanical Gin",
+            "flavor_id": "9887",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honey Pomelo",
+            "flavor_id": "8900",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honey Bee",
+            "flavor_id": "2149",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "diy_discord",
+    "views": "954",
+    "created_at": "2019-02-03",
+    "slug": "laid_back_gin_and_citrus_juice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137757.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JTHerman",
+            "score": 5,
+            "text": "This is a great mix! My favorite of the several gin and juice mixes I\u2019ve tried."
+        }
+    ]
 }

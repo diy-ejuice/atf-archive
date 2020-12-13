@@ -1,63 +1,65 @@
 {
-  "name": "Breezy Lemon",
-  "description": "This is meant to be used in a low watt device like the Aspire Breeze with Nic Salts. I prefer smooth",
-  "id": 56236,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56236/frozen-lemon_square.jpg",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 6000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Aroma Arctic Winter (menthol Artic)",
-      "flavor_id": "514",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Menthol",
-      "flavor_id": "1494",
-      "millipercent": 1000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "thecoffeemann",
-  "views": "1336",
-  "slug": "breezy_lemon",
-  "total_flavoring": "13.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "In the spirit this recipe is intended, I put it into my Icare2. No nic salts though, sorry. &#xD;\n&#xD;\nThis is a very vibrant and juicy lemon, with the tiniest hint of sweet and creamy thickness on the inhale. The exhale is the barest hints of that lemon, but a wealth of mints, coolness, and yet, a thick and creamy taste on the exhale. Very different from the normal juices I come across for this kind of device, but a very welcome difference.&#xD;\n&#xD;\nThis is for lemon lovers, people who love their mint, and those who like it so cool, it's friggin brisk!&#xD;\n&#xD;\nI like my lemon, but not the usual sting, which this lacks. The mints are very refreshing. Color this one an ADV. Nicely done!"
-    }
-  ]
+    "name": "Breezy Lemon",
+    "description": "This is meant to be used in a low watt device like the Aspire Breeze with Nic Salts. I prefer smooth",
+    "id": 56236,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/56236\/frozen-lemon_square.jpg",
+    "updated_at": "2020-12-12T18:29:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 6000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Aroma Arctic Winter (menthol Artic)",
+            "flavor_id": "514",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Menthol",
+            "flavor_id": "1494",
+            "millipercent": 1000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "thecoffeemann",
+    "views": "1342",
+    "created_at": "2017-07-19",
+    "slug": "breezy_lemon",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/56236.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "In the spirit this recipe is intended, I put it into my Icare2. No nic salts though, sorry. &#xD;\n&#xD;\nThis is a very vibrant and juicy lemon, with the tiniest hint of sweet and creamy thickness on the inhale. The exhale is the barest hints of that lemon, but a wealth of mints, coolness, and yet, a thick and creamy taste on the exhale. Very different from the normal juices I come across for this kind of device, but a very welcome difference.&#xD;\n&#xD;\nThis is for lemon lovers, people who love their mint, and those who like it so cool, it's friggin brisk!&#xD;\n&#xD;\nI like my lemon, but not the usual sting, which this lacks. The mints are very refreshing. Color this one an ADV. Nicely done!"
+        }
+    ]
 }

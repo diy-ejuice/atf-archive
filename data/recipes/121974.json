@@ -1,50 +1,50 @@
 {
-  "name": "Strawberry Malt",
-  "description": "Strawberry Malt\r\n\r\nThis is a great way to use TFA Malted Milk. Nice after a 2-3 day steep however, it does benefit extremely well from a 2 week steep.",
-  "id": 121974,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121974/Strawberry-Malt-Milkshake-1.jpg",
-  "updated_at": "2020-12-07T23:37:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BushHogin",
-  "views": "1743",
-  "slug": "strawberry_malt",
-  "total_flavoring": "18.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Malt",
+    "description": "Strawberry Malt\r\n\r\nThis is a great way to use TFA Malted Milk. Nice after a 2-3 day steep however, it does benefit extremely well from a 2 week steep.",
+    "id": 121974,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121974\/Strawberry-Malt-Milkshake-1.jpg",
+    "updated_at": "2020-12-10T14:52:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BushHogin",
+    "views": "1752",
+    "created_at": "2018-10-06",
+    "slug": "strawberry_malt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121974.jpg",
+    "total_flavoring": "18.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

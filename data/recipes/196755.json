@@ -1,69 +1,71 @@
 {
-  "name": "Yuno",
-  "description": "*disclaimer* I don’t taste strawberry well.\r\n\r\nThis was to taste the base up against fruits and it really worked. The base gives off a sweet milk without being overly heavy on the tongue. The original recipe had TFA Pistachio, but it was too much. I thought of WF Macadamia to play into the creaminess and to add nuttiness that would funk up the mix a bit. The WF Macadamia and OOO Cream Milky Undertones are key in this recipe. \r\n\r\nThe base can used with a lot of other flavors.",
-  "id": 196755,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196755/67E805AE-8AFE-48CA-8DFF-1692500946A2.jpeg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (Juicy) SC",
-      "flavor_id": "10412",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Macadamia Nut SC",
-      "flavor_id": "9030",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "768",
-  "slug": "yuno",
-  "total_flavoring": "11.5%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Roedin",
-      "score": "5",
-      "text": "I was really excited to try one of Wolfs recipes and so glad this is the one I tried. After this initial mix, I was even more excited to try it because you could just smell the macadamia but I \"patiently waited out the steep which I did 4 days. Now that I finally got try it I can't seem to put it down. The initial nuttiness mixed with the cheesecake creaminess. The strawberries seem to work its way through adding to the already deliciousness. I honestly felt like I was guilty of cheating on my diet. Fat kid mode initiated and I have no shame, I'm already mixing a larger batch."
-    }
-  ]
+    "name": "Yuno",
+    "description": "*disclaimer* I don\u2019t taste strawberry well.\r\n\r\nThis was to taste the base up against fruits and it really worked. The base gives off a sweet milk without being overly heavy on the tongue. The original recipe had TFA Pistachio, but it was too much. I thought of WF Macadamia to play into the creaminess and to add nuttiness that would funk up the mix a bit. The WF Macadamia and OOO Cream Milky Undertones are key in this recipe. \r\n\r\nThe base can used with a lot of other flavors.",
+    "id": 196755,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196755\/67E805AE-8AFE-48CA-8DFF-1692500946A2.jpeg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (Juicy) SC",
+            "flavor_id": "10412",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Macadamia Nut SC",
+            "flavor_id": "9030",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "776",
+    "created_at": "2020-06-05",
+    "slug": "yuno",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196755.jpeg",
+    "total_flavoring": "11.5%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Roedin",
+            "score": 5,
+            "text": "I was really excited to try one of Wolfs recipes and so glad this is the one I tried. After this initial mix, I was even more excited to try it because you could just smell the macadamia but I \"patiently waited out the steep which I did 4 days. Now that I finally got try it I can't seem to put it down. The initial nuttiness mixed with the cheesecake creaminess. The strawberries seem to work its way through adding to the already deliciousness. I honestly felt like I was guilty of cheating on my diet. Fat kid mode initiated and I have no shame, I'm already mixing a larger batch."
+        }
+    ]
 }

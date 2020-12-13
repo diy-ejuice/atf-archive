@@ -1,51 +1,53 @@
 {
-  "name": "Touched by light",
-  "description": "Stated this picture for 10 minutes waiting for inspiration. Wanted to do a red and green cream I was thinking Strawberry lime but the limitations really affected my ability to use lime. So it turned into a strawberry cream with a kiss of lemon.",
-  "id": 82770,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/82770/FB_IMG_1515568541463.jpg",
-  "updated_at": "2020-12-07T15:20:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Chrisdvr1",
-  "views": "1920",
-  "slug": "touched_by_light",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "69%",
-  "temperature": "421",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "QueerYourVape",
-      "score": "3",
-      "text": "This was a test for me to see if I can taste FA Red Touch. Answer is, I can't. What I get is a very biscuit-y lemon meringue pie. Simple, not bad, totally missing the point for me, and that's on me. It's a bit harsh in taste though, I think it needs to settle a bit longer than 3 days. Or it's the back effect of the strawberry for me. Anyway, not my thing at all."
-    }
-  ]
+    "name": "Touched by light",
+    "description": "Stated this picture for 10 minutes waiting for inspiration. Wanted to do a red and green cream I was thinking Strawberry lime but the limitations really affected my ability to use lime. So it turned into a strawberry cream with a kiss of lemon.",
+    "id": 82770,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/82770\/FB_IMG_1515568541463.jpg",
+    "updated_at": "2020-12-12T10:14:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Chrisdvr1",
+    "views": "1928",
+    "created_at": "2018-01-09",
+    "slug": "touched_by_light",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/82770.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "69%",
+    "temperature": "421",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "QueerYourVape",
+            "score": 3,
+            "text": "This was a test for me to see if I can taste FA Red Touch. Answer is, I can't. What I get is a very biscuit-y lemon meringue pie. Simple, not bad, totally missing the point for me, and that's on me. It's a bit harsh in taste though, I think it needs to settle a bit longer than 3 days. Or it's the back effect of the strawberry for me. Anyway, not my thing at all."
+        }
+    ]
 }

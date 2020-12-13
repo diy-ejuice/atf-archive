@@ -1,74 +1,74 @@
 {
-  "name": "Cherry fried pie",
-  "description": "This is a deep fried cherry pie, just like McDonalds used to make",
-  "id": 104875,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104875/SmartSelect_20180609-190742_Chrome.jpg",
-  "updated_at": "2020-12-07T23:36:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie – SC",
-      "flavor_id": "7551",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cerìse (cherry)",
-      "flavor_id": "488",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter Rum",
-      "flavor_id": "925",
-      "millipercent": 3500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 2250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1445",
-  "slug": "cherry_fried_pie",
-  "total_flavoring": "14.85%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherry fried pie",
+    "description": "This is a deep fried cherry pie, just like McDonalds used to make",
+    "id": 104875,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104875\/SmartSelect_20180609-190742_Chrome.jpg",
+    "updated_at": "2020-12-11T17:20:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie \u2013 SC",
+            "flavor_id": "7551",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cer\u00ecse (cherry)",
+            "flavor_id": "488",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter Rum",
+            "flavor_id": "925",
+            "millipercent": 3500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 2250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1455",
+    "created_at": "2018-06-09",
+    "slug": "cherry_fried_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104875.jpg",
+    "total_flavoring": "14.85%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

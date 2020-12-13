@@ -1,68 +1,67 @@
 {
-  "name": "Bluenicorn",
-  "description": "Die beliebte Einhorn Milch jetzt mit Blaubeeren neu interpretiert!\r\n\r\nEngl:\r\nFamous Unicorn Milk remixed with blueberry instead!",
-  "id": 182478,
-  "image_url": null,
-  "updated_at": "2020-12-02T08:21:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "683",
-  "slug": "bluenicorn",
-  "total_flavoring": "17.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bluenicorn",
+    "description": "Die beliebte Einhorn Milch jetzt mit Blaubeeren neu interpretiert!\r\n\r\nEngl:\r\nFamous Unicorn Milk remixed with blueberry instead!",
+    "id": 182478,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:40:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "691",
+    "created_at": "2020-01-26",
+    "slug": "bluenicorn",
+    "total_flavoring": "17.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

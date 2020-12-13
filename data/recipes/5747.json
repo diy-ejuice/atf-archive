@@ -1,68 +1,68 @@
 {
-  "name": "Maple Monkey",
-  "description": "Banana waffle with maple syrup and cream.\r\n\r\nA long steep is essential to let the maple syrup in the waffle mellow out and play with the butterscotch. Tasty after 2 weeks, best after 4.\r\n\r\n",
-  "id": 5747,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/5747/banana_waffle.jpg",
-  "updated_at": "2020-12-02T10:27:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Waffle (belgian)",
-      "flavor_id": "191",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "312",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "qb",
-  "views": "1781",
-  "slug": "maple_monkey",
-  "total_flavoring": "19.5%",
-  "steep_days": "28",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Maple Monkey",
+    "description": "Banana waffle with maple syrup and cream.\r\n\r\nA long steep is essential to let the maple syrup in the waffle mellow out and play with the butterscotch. Tasty after 2 weeks, best after 4.\r\n\r\n",
+    "id": 5747,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/5747\/banana_waffle.jpg",
+    "updated_at": "2020-12-12T08:12:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Waffle (belgian)",
+            "flavor_id": "191",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "312",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "qb",
+    "views": "1787",
+    "created_at": "2016-06-22",
+    "slug": "maple_monkey",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/5747.jpg",
+    "total_flavoring": "19.5%",
+    "steep_days": "28",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Mango Peach Papaya by SkiddlZ",
-  "description": "A complex mango, peach, and papaya mix. Don't forget to donate.",
-  "id": 57649,
-  "image_url": null,
-  "updated_at": "2020-12-07T07:00:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach Gummy",
-      "flavor_id": "4313",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "584",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "2479",
-  "slug": "mango_peach_papaya_by_skiddlz",
-  "total_flavoring": "7.0%",
-  "steep_days": "8675309 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Peach Papaya by SkiddlZ",
+    "description": "A complex mango, peach, and papaya mix. Don't forget to donate.",
+    "id": 57649,
+    "image_url": null,
+    "updated_at": "2020-12-10T18:59:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach Gummy",
+            "flavor_id": "4313",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "584",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "2484",
+    "created_at": "2017-07-29",
+    "slug": "mango_peach_papaya_by_skiddlz",
+    "total_flavoring": "7.0%",
+    "steep_days": "8675309 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

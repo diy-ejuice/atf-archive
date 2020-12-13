@@ -1,57 +1,59 @@
 {
-  "name": "Broissant",
-  "description": "Ok first things first, this was inspired by Kittybit8.  His version looks damn tasty and we were chatting in the DIY_eJuice mixing lab and we came up with 2 versions of this.   Here is his version http://alltheflavors.com/recipes/145323#french_mornings_by_nordicflavoursv\r\n\r\nSo onto the recipe:  We have a base of VT croissant, which I haven't seen much about at all.  I did see a recipe which combined it with FA cookie to provide some more body to go along with this buttery croissant(http://alltheflavors.com/recipes/131827) and I have to say @Demented76 nailed it.  Its the perfect base.  \r\n\r\nThe bilberry is pretty strong berry, so I didn't want it to overpower the blackcurrant.  The good news is that both have that syrupy texture to go alone with the fruity goodness.  I brought in the TFA marshmallow to sweeten and fluff.   Steep at least one full day or the you'll just taste the base.  Enjoy!",
-  "id": 145179,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145179/15466835.jpg",
-  "updated_at": "2020-12-08T00:50:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1511",
-  "slug": "broissant",
-  "total_flavoring": "8.5%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rougeislander401",
-      "score": "5",
-      "text": "Wow!! I was shocked at how much I enjoyed this even after just a 24 hr steep! It's definitely a pretty sweet and syrupy berry and your right if any more bilberry or less black currant was used, it would be lost in the mix.  Instead it's there upfront but tied in with the syrupy goodness of bilberry. I truly didnt even think I was gonna enjoy this as much as I do as croissants are not among my favorite breakfast pastries but the fa cookie does wonders here to not have it be like a super light/flaky and fading croissant flavor. Excellent work as always!"
-    }
-  ]
+    "name": "Broissant",
+    "description": "Ok first things first, this was inspired by Kittybit8.  His version looks damn tasty and we were chatting in the DIY_eJuice mixing lab and we came up with 2 versions of this.   Here is his version http:\/\/alltheflavors.com\/recipes\/145323#french_mornings_by_nordicflavoursv\r\n\r\nSo onto the recipe:  We have a base of VT croissant, which I haven't seen much about at all.  I did see a recipe which combined it with FA cookie to provide some more body to go along with this buttery croissant(http:\/\/alltheflavors.com\/recipes\/131827) and I have to say @Demented76 nailed it.  Its the perfect base.  \r\n\r\nThe bilberry is pretty strong berry, so I didn't want it to overpower the blackcurrant.  The good news is that both have that syrupy texture to go alone with the fruity goodness.  I brought in the TFA marshmallow to sweeten and fluff.   Steep at least one full day or the you'll just taste the base.  Enjoy!",
+    "id": 145179,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145179\/15466835.jpg",
+    "updated_at": "2020-12-12T14:07:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1518",
+    "created_at": "2019-03-31",
+    "slug": "broissant",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145179.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rougeislander401",
+            "score": 5,
+            "text": "Wow!! I was shocked at how much I enjoyed this even after just a 24 hr steep! It's definitely a pretty sweet and syrupy berry and your right if any more bilberry or less black currant was used, it would be lost in the mix.  Instead it's there upfront but tied in with the syrupy goodness of bilberry. I truly didnt even think I was gonna enjoy this as much as I do as croissants are not among my favorite breakfast pastries but the fa cookie does wonders here to not have it be like a super light\/flaky and fading croissant flavor. Excellent work as always!"
+        }
+    ]
 }

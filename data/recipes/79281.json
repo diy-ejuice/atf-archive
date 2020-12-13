@@ -1,50 +1,52 @@
 {
-  "name": "1-2-3 Van the Man",
-  "description": "I enjoyed the idea of a 1-2-3 recipe ID10T did with his cranberry sprite recipe.  Simple and easy so I made one of my own.  \r\nCreamy and thick vanilla pudding type of recipe wit darker and forward vanilla notes.  Has a few spicy and nutty notes as well.  Simple recipe, but it meets my vanilla needs.  ",
-  "id": 79281,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/79281/images__2_.jpg",
-  "updated_at": "2020-12-08T00:49:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "Deweysuds",
-  "views": "3193",
-  "slug": "123_van_the_man",
-  "total_flavoring": "6.0%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CygnusY1",
-      "score": "5",
-      "text": "Brilliant and simple vanilla pudding style recipe. The vanilla has smoky spicy top-notes and the body fills out nicely. P.S. Sometimes I add 1.5% WF Crispy wafer to give it a bite.  Great work mate! "
-    },
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "Delicious. A rich and simple vanilla. Thank you."
-    }
-  ]
+    "name": "1-2-3 Van the Man",
+    "description": "I enjoyed the idea of a 1-2-3 recipe ID10T did with his cranberry sprite recipe.  Simple and easy so I made one of my own.  \r\nCreamy and thick vanilla pudding type of recipe wit darker and forward vanilla notes.  Has a few spicy and nutty notes as well.  Simple recipe, but it meets my vanilla needs.  ",
+    "id": 79281,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/79281\/images__2_.jpg",
+    "updated_at": "2020-12-12T18:29:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "Deweysuds",
+    "views": "3210",
+    "created_at": "2017-12-16",
+    "slug": "123_van_the_man",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/79281.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "Brilliant and simple vanilla pudding style recipe. The vanilla has smoky spicy top-notes and the body fills out nicely. P.S. Sometimes I add 1.5% WF Crispy wafer to give it a bite.  Great work mate! "
+        },
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "Delicious. A rich and simple vanilla. Thank you."
+        }
+    ]
 }

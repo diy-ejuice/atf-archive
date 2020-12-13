@@ -1,57 +1,58 @@
 {
-  "name": "Watermelon Cucumber Mint",
-  "description": "Great for a refreshing summer flavor, and a great shake n vape. ",
-  "id": 13888,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cucumber",
-      "flavor_id": "225",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cool Mint",
-      "flavor_id": "40",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "ThomasChirafisi",
-  "views": "2780",
-  "slug": "watermelon_cucumber_mint",
-  "total_flavoring": "8.75%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Mathematical",
-      "score": "5",
-      "text": "10/10 love this. I adapted this into an airheads white mystery flavor, the cucumber and the watermelon play well together and the koolada ties everything together. (i didn't have any cool mint) but will mix this 1:1 as soon as i can get some"
-    }
-  ]
+    "name": "Watermelon Cucumber Mint",
+    "description": "Great for a refreshing summer flavor, and a great shake n vape. ",
+    "id": 13888,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cucumber",
+            "flavor_id": "225",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cool Mint",
+            "flavor_id": "40",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "ThomasChirafisi",
+    "views": "2798",
+    "created_at": "2016-09-18",
+    "slug": "watermelon_cucumber_mint",
+    "total_flavoring": "8.75%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Mathematical",
+            "score": 5,
+            "text": "10\/10 love this. I adapted this into an airheads white mystery flavor, the cucumber and the watermelon play well together and the koolada ties everything together. (i didn't have any cool mint) but will mix this 1:1 as soon as i can get some"
+        }
+    ]
 }

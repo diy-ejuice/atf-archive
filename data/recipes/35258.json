@@ -1,74 +1,76 @@
 {
-  "name": "Tropical Island",
-  "description": "This vape reminds me of sitting on a tropical island with a nice cool breeze. Nice fruit & coconut flavor on the inhale & cool exhale. You can up the Koolada if need be, this is where I personally like it. Its absolutely delicious!",
-  "id": 35258,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35258/images.jpg",
-  "updated_at": "2020-12-08T00:49:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 5000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "VaporVixen",
-  "views": "3128",
-  "slug": "tropical_island",
-  "total_flavoring": "20.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Censored23",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "ItsKame",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Tropical Island",
+    "description": "This vape reminds me of sitting on a tropical island with a nice cool breeze. Nice fruit & coconut flavor on the inhale & cool exhale. You can up the Koolada if need be, this is where I personally like it. Its absolutely delicious!",
+    "id": 35258,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35258\/images.jpg",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 5000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "VaporVixen",
+    "views": "3137",
+    "created_at": "2017-03-05",
+    "slug": "tropical_island",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35258.jpg",
+    "total_flavoring": "20.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Censored23",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "ItsKame",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

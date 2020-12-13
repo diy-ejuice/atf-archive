@@ -1,69 +1,71 @@
 {
-  "name": "Round Fruit Cereal",
-  "description": "Fairly simple rendition of a fruit loop recipe. Tastes fantastic S&V. \r\n\r\nMeringue is fairly optional, meant to be the frosting on the fruit loops adding some sweetness, along with the Vanilla Swirl.\r\n\r\nBavarian Cream with Vanilla Swirl creates a nice milk/cream for the fruit loops to sit in.\r\n\r\nOptional: Add .5-1% of FA Fresh Cream for a nice airy mouthfeel. HIGHLY RECOMMENDED !!",
-  "id": 15782,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15782/Fruit_Loops.jpg",
-  "updated_at": "2020-12-07T17:33:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fruit Rings",
-      "flavor_id": "1285",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Drumbtr",
-  "views": "2721",
-  "slug": "round_fruit_cereal",
-  "total_flavoring": "13.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 1,
-  "reviews": [
-    {
-      "user": "Joneser",
-      "score": "1",
-      "text": "This isn't ur recipe either, this isn't meant to be like ELR where we just dump the same old recipes over and over blahhh"
-    }
-  ]
+    "name": "Round Fruit Cereal",
+    "description": "Fairly simple rendition of a fruit loop recipe. Tastes fantastic S&V. \r\n\r\nMeringue is fairly optional, meant to be the frosting on the fruit loops adding some sweetness, along with the Vanilla Swirl.\r\n\r\nBavarian Cream with Vanilla Swirl creates a nice milk\/cream for the fruit loops to sit in.\r\n\r\nOptional: Add .5-1% of FA Fresh Cream for a nice airy mouthfeel. HIGHLY RECOMMENDED !!",
+    "id": 15782,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15782\/Fruit_Loops.jpg",
+    "updated_at": "2020-12-11T02:36:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fruit Rings",
+            "flavor_id": "1285",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Drumbtr",
+    "views": "2733",
+    "created_at": "2016-10-09",
+    "slug": "round_fruit_cereal",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15782.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 1,
+    "reviews": [
+        {
+            "user": "Joneser",
+            "score": 1,
+            "text": "This isn't ur recipe either, this isn't meant to be like ELR where we just dump the same old recipes over and over blahhh"
+        }
+    ]
 }

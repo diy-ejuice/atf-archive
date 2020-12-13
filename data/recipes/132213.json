@@ -1,57 +1,59 @@
 {
-  "name": "Killa Berry",
-  "description": "Kiwi Berry Cream\r\n\r\nI used CAP Harvest Berry & INW Shisha Strawberry. For the berry note in the mix.\r\n\r\nFW Kiwi: I liked it more than FA in here. It is slightly tart & a little on the candied side but it goes well with INW Shisha Strawberry IMO.\r\n\r\nFor the CREAM I used my FAVORITE FLV Cream & paired it with OOO Marshmallow Vanilla to thicken up the the cream a bit & to round off the edges of the fruits.\r\n\r\nFEEL FREE TO ADD YOUR FAVORITE SWEETENER & PLEASE RATE AND REVIEW IF YOU MIX\r\n",
-  "id": 132213,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/132213/killa_berry.jpg",
-  "updated_at": "2020-12-08T00:50:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Ebc88",
-  "views": "1305",
-  "slug": "killa_berry",
-  "total_flavoring": "7.25%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JustMixIt",
-      "score": "5",
-      "text": "Really nice mix, blends good and the flavors compliment each other. I'm not very big on fruits but, this is a nice change of pace for me.  Thanks for sharing."
-    }
-  ]
+    "name": "Killa Berry",
+    "description": "Kiwi Berry Cream\r\n\r\nI used CAP Harvest Berry & INW Shisha Strawberry. For the berry note in the mix.\r\n\r\nFW Kiwi: I liked it more than FA in here. It is slightly tart & a little on the candied side but it goes well with INW Shisha Strawberry IMO.\r\n\r\nFor the CREAM I used my FAVORITE FLV Cream & paired it with OOO Marshmallow Vanilla to thicken up the the cream a bit & to round off the edges of the fruits.\r\n\r\nFEEL FREE TO ADD YOUR FAVORITE SWEETENER & PLEASE RATE AND REVIEW IF YOU MIX\r\n",
+    "id": 132213,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/132213\/killa_berry.jpg",
+    "updated_at": "2020-12-12T18:30:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Ebc88",
+    "views": "1313",
+    "created_at": "2018-12-23",
+    "slug": "killa_berry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/132213.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JustMixIt",
+            "score": 5,
+            "text": "Really nice mix, blends good and the flavors compliment each other. I'm not very big on fruits but, this is a nice change of pace for me.  Thanks for sharing."
+        }
+    ]
 }

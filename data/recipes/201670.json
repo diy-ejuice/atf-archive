@@ -1,44 +1,44 @@
 {
-  "name": "Star Water",
-  "description": "Ooey, gooey, smooth, fruity, tropical candy goodness.  Snv/adv certified with an awesome mouth feel.",
-  "id": 201670,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201670/0.jpeg.jpg",
-  "updated_at": "2020-12-05T20:51:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Starfruit SC",
-      "flavor_id": "8379",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sweet Candy",
-      "flavor_id": "10290",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NOVITEC",
-  "views": "407",
-  "slug": "star_water",
-  "total_flavoring": "8.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Star Water",
+    "description": "Ooey, gooey, smooth, fruity, tropical candy goodness.  Snv\/adv certified with an awesome mouth feel.",
+    "id": 201670,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/201670\/0.jpeg.jpg",
+    "updated_at": "2020-12-12T14:08:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Starfruit SC",
+            "flavor_id": "8379",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sweet Candy",
+            "flavor_id": "10290",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NOVITEC",
+    "views": "412",
+    "created_at": "2020-07-28",
+    "slug": "star_water",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/201670.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

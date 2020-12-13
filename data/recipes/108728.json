@@ -1,56 +1,56 @@
 {
-  "name": "Sunrise Lemonade",
-  "description": "Mix of juicy fruits around the delicious FLV Lemonade. The main notes are FLV Lemonade and FLV Mango, where CAP Juicy Orange blends perfect in between. INW cactus adds some wet feeling and FW Razzleberry is there just to add an interesting dimension and it works!",
-  "id": 108728,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/108728/184148_640x428.jpg",
-  "updated_at": "2020-12-07T20:32:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NaCHeF",
-  "views": "1703",
-  "slug": "sunrise_lemonade",
-  "total_flavoring": "9.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sunrise Lemonade",
+    "description": "Mix of juicy fruits around the delicious FLV Lemonade. The main notes are FLV Lemonade and FLV Mango, where CAP Juicy Orange blends perfect in between. INW cactus adds some wet feeling and FW Razzleberry is there just to add an interesting dimension and it works!",
+    "id": 108728,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/108728\/184148_640x428.jpg",
+    "updated_at": "2020-12-10T13:45:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NaCHeF",
+    "views": "1708",
+    "created_at": "2018-07-06",
+    "slug": "sunrise_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/108728.jpg",
+    "total_flavoring": "9.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Raspberry Lime Sicle | Live Mixing",
-  "description": "In this mix, the Raspberry is the main note, in which all other profiles work on top of. I utilized FA Raspberry and TFA Raspberry Sweet to produce a vivid raspberry flavor that isn't too natural and \"watery\". While it's not particularly deep, it's a great base for a popsicle flavor. Next, I layed in the lime, which is the second dominating accent note. VT Persian Lime + MB Green Lime produce a very tart and bright lime flavor that sits right next to the raspberry, rather than on top of it. Lastly, I filled out the finish with FW Blood Orange, and used Menthol to add a light mint note to the mix.\r\n\r\nLive Mixing:\r\nhttps://www.youtube.com/watch?v=hE9u1yLJBH4",
-  "id": 202710,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202710/livemixing.jpg",
-  "updated_at": "2020-12-08T00:51:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Green Lime",
-      "flavor_id": "1527",
-      "millipercent": 500,
-      "vendor": "MB"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Aroma Arctic Winter (menthol Artic)",
-      "flavor_id": "514",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "1239",
-  "slug": "raspberry_lime_sicle_live_mixing",
-  "total_flavoring": "12.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Toasty",
-      "score": "4",
-      "text": "Great recipe! The raspberry is a bit too \"in your face\" for my liking, but after adding .5% of WS-23 and letting it sit for a few days, it wasn't as overpowering anymore."
-    }
-  ]
+    "name": "Raspberry Lime Sicle | Live Mixing",
+    "description": "In this mix, the Raspberry is the main note, in which all other profiles work on top of. I utilized FA Raspberry and TFA Raspberry Sweet to produce a vivid raspberry flavor that isn't too natural and \"watery\". While it's not particularly deep, it's a great base for a popsicle flavor. Next, I layed in the lime, which is the second dominating accent note. VT Persian Lime + MB Green Lime produce a very tart and bright lime flavor that sits right next to the raspberry, rather than on top of it. Lastly, I filled out the finish with FW Blood Orange, and used Menthol to add a light mint note to the mix.\r\n\r\nLive Mixing:\r\nhttps:\/\/www.youtube.com\/watch?v=hE9u1yLJBH4",
+    "id": 202710,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202710\/livemixing.jpg",
+    "updated_at": "2020-12-12T18:30:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Green Lime",
+            "flavor_id": "1527",
+            "millipercent": 500,
+            "vendor": "MB"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Aroma Arctic Winter (menthol Artic)",
+            "flavor_id": "514",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "1260",
+    "created_at": "2020-08-08",
+    "slug": "raspberry_lime_sicle_live_mixing",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202710.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Toasty",
+            "score": 4,
+            "text": "Great recipe! The raspberry is a bit too \"in your face\" for my liking, but after adding .5% of WS-23 and letting it sit for a few days, it wasn't as overpowering anymore."
+        }
+    ]
 }

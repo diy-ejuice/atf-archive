@@ -1,39 +1,41 @@
 {
-  "name": "Simple Watermelon Lemonade v1",
-  "description": "This is a very simple, easy to mix, easy to understand, Watermelon Lemonade. \r\n\r\nMade for article:\r\n-> http://nolife.link/watermelon-lemonade",
-  "id": 108663,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/108663/watermelon-lemonade-diy-eliquid-thumb.jpg",
-  "updated_at": "2020-12-08T00:50:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Water Malone",
-      "flavor_id": "9928",
-      "millipercent": 10000,
-      "vendor": "DOD"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 5000,
-      "vendor": "LA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "7945",
-  "slug": "simple_watermelon_lemonade_v1",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "an all day vape for me man . amazing you should call this lemonade Malone "
-    }
-  ]
+    "name": "Simple Watermelon Lemonade v1",
+    "description": "This is a very simple, easy to mix, easy to understand, Watermelon Lemonade. \r\n\r\nMade for article:\r\n-> http:\/\/nolife.link\/watermelon-lemonade",
+    "id": 108663,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/108663\/watermelon-lemonade-diy-eliquid-thumb.jpg",
+    "updated_at": "2020-12-12T20:30:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Water Malone",
+            "flavor_id": "9928",
+            "millipercent": 10000,
+            "vendor": "DOD"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 5000,
+            "vendor": "LA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "7957",
+    "created_at": "2018-07-05",
+    "slug": "simple_watermelon_lemonade_v1",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/108663.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "an all day vape for me man . amazing you should call this lemonade Malone "
+        }
+    ]
 }

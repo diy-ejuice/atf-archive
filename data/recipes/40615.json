@@ -1,38 +1,37 @@
 {
-  "name": "Wild Strawberry freshly picked",
-  "description": "Just a wild strawberry, Nothing fancy - of course you can add some cream if you desire.\r\n\r\nBF/INW Wild Strawberry are good flavors on their own, but each of them has their edges. Both mixed together create a very intense and realistic wild strawberry taste. \r\nFreshly mixed INW Wild Strawberry is a quite harsh vape. 3 days steeping is required to mellow out the harshness.\r\n\r\nFLV Alpine strawberry just tops and prolongs the taste of the wild strawberry.\r\n\r\nIf you like you can add some EM, sweetener  or creams - enjoy\r\n      ",
-  "id": 40615,
-  "image_url": null,
-  "updated_at": "2020-12-06T22:01:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Strawberry",
-      "flavor_id": "4076",
-      "millipercent": 1500,
-      "vendor": "BF"
-    },
-    {
-      "name": "Wild Strawberry",
-      "flavor_id": "675",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Hans_Dampft",
-  "views": "1301",
-  "slug": "wild_strawberry_freshly_picked",
-  "total_flavoring": "4.0%",
-  "steep_days": "3",
-  "best_vg": "90%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Wild Strawberry freshly picked",
+    "description": "Just a wild strawberry, Nothing fancy - of course you can add some cream if you desire.\r\n\r\nBF\/INW Wild Strawberry are good flavors on their own, but each of them has their edges. Both mixed together create a very intense and realistic wild strawberry taste. \r\nFreshly mixed INW Wild Strawberry is a quite harsh vape. 3 days steeping is required to mellow out the harshness.\r\n\r\nFLV Alpine strawberry just tops and prolongs the taste of the wild strawberry.\r\n\r\nIf you like you can add some EM, sweetener  or creams - enjoy\r\n      ",
+    "id": 40615,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Strawberry",
+            "flavor_id": "4076",
+            "millipercent": 1500,
+            "vendor": "BF"
+        },
+        {
+            "name": "Wild Strawberry",
+            "flavor_id": "675",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Hans_Dampft",
+    "views": "1306",
+    "created_at": "2017-04-10",
+    "slug": "wild_strawberry_freshly_picked",
+    "total_flavoring": "4.0%",
+    "steep_days": "3",
+    "best_vg": "90%",
+    "temperature": "0"
 }

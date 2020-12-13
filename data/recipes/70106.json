@@ -1,50 +1,49 @@
 {
-  "name": "Melon's 4",
-  "description": "Originally a clone of Monster Melon's, it has evolved along the way so that I can add the original tag.",
-  "id": 70106,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:40:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "partzman2",
-  "views": "1279",
-  "slug": "melons_4",
-  "total_flavoring": "15.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Melon's 4",
+    "description": "Originally a clone of Monster Melon's, it has evolved along the way so that I can add the original tag.",
+    "id": 70106,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:07:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "partzman2",
+    "views": "1284",
+    "created_at": "2017-10-23",
+    "slug": "melons_4",
+    "total_flavoring": "15.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

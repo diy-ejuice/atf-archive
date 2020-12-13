@@ -1,57 +1,59 @@
 {
-  "name": "nitriVenus",
-  "description": "Citrus heavy soda with hints of rose and apple. Deeper notes posted shortly.\r\n\r\nhttps://www.reddit.com/r/DIY_eJuice/comments/chbsl4/nitrivenus/",
-  "id": 160496,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160496/800px-Dante_Gabriel_Rossetti_-_Venus_Verticordia.jpg",
-  "updated_at": "2020-12-08T00:51:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Rose Essence",
-      "flavor_id": "10093",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cherry Extract",
-      "flavor_id": "222",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "matthewkocanda",
-  "views": "2108",
-  "slug": "nitrivenus",
-  "total_flavoring": "9.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Extremely pleasant and brilliantly fits the profile, a bright and fizzy citrus soda with hints of rose and apple. That combination of FLV Citrus Soda and VT Fizzy Sherbet is an awesome base for a legitimately fizzy citrus soda. I don’t think this recipe would be possible without FLV Rose Essence being so subtle, and the way he used a little Cherry Extract to make it a little redder and sweeter was genius. I think I’d like it with a little cooling to make it extra refreshing next time, but not too much that it ruins the balance of flavors here.  "
-    }
-  ]
+    "name": "nitriVenus",
+    "description": "Citrus heavy soda with hints of rose and apple. Deeper notes posted shortly.\r\n\r\nhttps:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/chbsl4\/nitrivenus\/",
+    "id": 160496,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160496\/800px-Dante_Gabriel_Rossetti_-_Venus_Verticordia.jpg",
+    "updated_at": "2020-12-12T08:14:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Rose Essence",
+            "flavor_id": "10093",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cherry Extract",
+            "flavor_id": "222",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "matthewkocanda",
+    "views": "2116",
+    "created_at": "2019-07-24",
+    "slug": "nitrivenus",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/160496.jpg",
+    "total_flavoring": "9.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Extremely pleasant and brilliantly fits the profile, a bright and fizzy citrus soda with hints of rose and apple. That combination of FLV Citrus Soda and VT Fizzy Sherbet is an awesome base for a legitimately fizzy citrus soda. I don\u2019t think this recipe would be possible without FLV Rose Essence being so subtle, and the way he used a little Cherry Extract to make it a little redder and sweeter was genius. I think I\u2019d like it with a little cooling to make it extra refreshing next time, but not too much that it ruins the balance of flavors here.  "
+        }
+    ]
 }

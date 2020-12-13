@@ -1,56 +1,58 @@
 {
-  "name": "mlNikon's Tropical Smoothie",
-  "description": "I got the idea for the premise of this smoothie from Nachefs' OCD. He used cherimoya with dragon fruit and juicy orange. It was really good but I thought the cherimoya was just a little funky for my liking so I used guanabana to keep the tropical vibe going and switched out the juicy orange for cap sweet tangerine for a more syrupy sweet smoothie.",
-  "id": 162763,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162763/coctail.jpg",
-  "updated_at": "2020-12-08T00:51:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Smoothie Base",
-      "flavor_id": "10153",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "5781",
-  "slug": "mlnikons_tropical_smoothie",
-  "total_flavoring": "5.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Excellent usage of Guanabana and dragonfruit. The smoothie base makes a perfect blender to meld everything together. "
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Delicious! If you tried O.C.D., and liked it but thought it was just a little too funky, this is the recipe for you.  "
-    }
-  ]
+    "name": "mlNikon's Tropical Smoothie",
+    "description": "I got the idea for the premise of this smoothie from Nachefs' OCD. He used cherimoya with dragon fruit and juicy orange. It was really good but I thought the cherimoya was just a little funky for my liking so I used guanabana to keep the tropical vibe going and switched out the juicy orange for cap sweet tangerine for a more syrupy sweet smoothie.",
+    "id": 162763,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/162763\/coctail.jpg",
+    "updated_at": "2020-12-12T10:34:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Smoothie Base",
+            "flavor_id": "10153",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "5794",
+    "created_at": "2019-08-11",
+    "slug": "mlnikons_tropical_smoothie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/162763.jpg",
+    "total_flavoring": "5.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Excellent usage of Guanabana and dragonfruit. The smoothie base makes a perfect blender to meld everything together. "
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Delicious! If you tried O.C.D., and liked it but thought it was just a little too funky, this is the recipe for you.  "
+        }
+    ]
 }

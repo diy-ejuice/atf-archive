@@ -1,50 +1,50 @@
 {
-  "name": "Strawberry Custard",
-  "description": "When first smelling FLV Custard it reminded me of a strawberry pudding from nana. So i wanted to build a creamy, sweet pudding without vanilla custard notes. \r\nWF Fresh Strawberry fits very nicely smell and tastewise. \r\nPowdered Sugar gives you nice subtle sweetness with a smooth mothfeel.",
-  "id": 131128,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131128/Download__1_.jpeg",
-  "updated_at": "2020-12-06T20:44:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fresh Strawberries",
-      "flavor_id": "6052",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4388",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "zylonality",
-  "views": "1491",
-  "slug": "strawberry_custard",
-  "total_flavoring": "13.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Custard",
+    "description": "When first smelling FLV Custard it reminded me of a strawberry pudding from nana. So i wanted to build a creamy, sweet pudding without vanilla custard notes. \r\nWF Fresh Strawberry fits very nicely smell and tastewise. \r\nPowdered Sugar gives you nice subtle sweetness with a smooth mothfeel.",
+    "id": 131128,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131128\/Download__1_.jpeg",
+    "updated_at": "2020-12-10T14:56:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fresh Strawberries",
+            "flavor_id": "6052",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4388",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "zylonality",
+    "views": "1499",
+    "created_at": "2018-12-13",
+    "slug": "strawberry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131128.jpeg",
+    "total_flavoring": "13.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

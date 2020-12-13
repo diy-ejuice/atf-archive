@@ -1,61 +1,62 @@
 {
-  "name": "Nude Beach (POD/MTL)",
-  "description": "Smoozie Vapes Maui Waui clone. The original was VERY forward on the pineapple and the strawberry was completely hidden. This version tones down the pineapple and brings the strawberry out a lot more. This is far more balanced than the real juice.",
-  "id": 155580,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Costarica Special (mango)",
-      "flavor_id": "579",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "cexshun",
-  "views": "1915",
-  "slug": "nude_beach_podmtl",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "CrowHop",
-      "score": "5",
-      "text": "Very nice summer time vape"
-    },
-    {
-      "user": "SMILEY",
-      "score": "none",
-      "text": "For pod you need at least 25% flavor otherwise This looks a good mix&#xD;\n"
-    },
-    {
-      "user": "YippYo",
-      "score": "4",
-      "text": "Wow this is a pretty solid MTL recipe. Plenty of flavor. For some reason I get a really strong watermelon note off this, might be the strawberry pineapple combo. The strawberry here is quite natural rather than candied. Don't pick up much mango except a bit lingering on the finish. Nice job!"
-    }
-  ]
+    "name": "Nude Beach (POD\/MTL)",
+    "description": "Smoozie Vapes Maui Waui clone. The original was VERY forward on the pineapple and the strawberry was completely hidden. This version tones down the pineapple and brings the strawberry out a lot more. This is far more balanced than the real juice.",
+    "id": 155580,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:30:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Costarica Special (mango)",
+            "flavor_id": "579",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "cexshun",
+    "views": "1926",
+    "created_at": "2019-06-13",
+    "slug": "nude_beach_podmtl",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "CrowHop",
+            "score": 5,
+            "text": "Very nice summer time vape"
+        },
+        {
+            "user": "SMILEY",
+            "score": 0,
+            "text": "For pod you need at least 25% flavor otherwise This looks a good mix&#xD;\n"
+        },
+        {
+            "user": "YippYo",
+            "score": 4,
+            "text": "Wow this is a pretty solid MTL recipe. Plenty of flavor. For some reason I get a really strong watermelon note off this, might be the strawberry pineapple combo. The strawberry here is quite natural rather than candied. Don't pick up much mango except a bit lingering on the finish. Nice job!"
+        }
+    ]
 }

@@ -1,80 +1,80 @@
 {
-  "name": "Cinnamon cookies",
-  "description": "A delicious cookie with rich cream  and light cinnamon.It could be a snv,but it is better after a week steeping",
-  "id": 151406,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151406/f67c4bc1-7663-4204-87a9-bcddd4677911.jpg",
-  "updated_at": "2020-12-06T14:08:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookies and Cream",
-      "flavor_id": "10008",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Sugar",
-      "flavor_id": "8741",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "nks",
-  "views": "2244",
-  "slug": "cinnamon_cookies",
-  "total_flavoring": "11.8%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnamon cookies",
+    "description": "A delicious cookie with rich cream  and light cinnamon.It could be a snv,but it is better after a week steeping",
+    "id": 151406,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151406\/f67c4bc1-7663-4204-87a9-bcddd4677911.jpg",
+    "updated_at": "2020-12-12T08:14:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookies and Cream",
+            "flavor_id": "10008",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Sugar",
+            "flavor_id": "8741",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "nks",
+    "views": "2254",
+    "created_at": "2019-05-14",
+    "slug": "cinnamon_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151406.jpg",
+    "total_flavoring": "11.8%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

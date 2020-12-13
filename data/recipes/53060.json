@@ -1,51 +1,52 @@
 {
-  "name": "Peanut Butter Milkshake V2",
-  "description": "Quick peanut butter milkshake. I am finally deciding to release this recipe after my fiance says it is the best version yet. So an update on this recipe I have done a revision, and change to TPA Peanut butter (not the DX version) and used the base of my Nesquikness recipe. ",
-  "id": 53060,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "PolarizedOath",
-  "views": "1224",
-  "slug": "peanut_butter_milkshake_v2",
-  "total_flavoring": "13.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "490",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "I got the same thing from this as I get anytime I use capella's peanut butter...peanuts with peanut skin and a nice vanilla cream.  That's not a bad thing.  It's really a nice change from vaping tons of fruits and too-sweet desserts."
-    }
-  ]
+    "name": "Peanut Butter Milkshake V2",
+    "description": "Quick peanut butter milkshake. I am finally deciding to release this recipe after my fiance says it is the best version yet. So an update on this recipe I have done a revision, and change to TPA Peanut butter (not the DX version) and used the base of my Nesquikness recipe. ",
+    "id": 53060,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "PolarizedOath",
+    "views": "1229",
+    "created_at": "2017-06-29",
+    "slug": "peanut_butter_milkshake_v2",
+    "total_flavoring": "13.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "490",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "I got the same thing from this as I get anytime I use capella's peanut butter...peanuts with peanut skin and a nice vanilla cream.  That's not a bad thing.  It's really a nice change from vaping tons of fruits and too-sweet desserts."
+        }
+    ]
 }

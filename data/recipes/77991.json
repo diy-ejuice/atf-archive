@@ -1,90 +1,92 @@
 {
-  "name": "Samurai",
-  "description": "Sweet Rice base by: @ENYAWREKLAW https://alltheflavors.com/recipes/45216\r\n\r\nInspired by: @shyndo https://alltheflavors.com/recipes/56405\r\n\r\nDecember Mixers Club https://www.reddit.com/r/mixersclub/\r\n\r\nCreamy sweet rice with honey peach, honeydew and blueberry.",
-  "id": 77991,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77991/998f6650d553b94d0200086e7e50fd06-1024x576.jpg",
-  "updated_at": "2020-12-08T00:49:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 5000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "LimeDrive",
-  "views": "1967",
-  "slug": "samurai",
-  "total_flavoring": "11.55%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "5",
-      "text": "Absolutely amazing, now one of my top favorite recipes. One breath of this vape leads to satori."
-    },
-    {
-      "user": "MrZigglesworth",
-      "score": "5",
-      "text": "I seriously can't get enough of this recipe! Everything blends together so well. I would highly recommend this one. "
-    },
-    {
-      "user": "cultureviolet",
-      "score": "5",
-      "text": "I LOVE this recipe. Underrepresented for sure, I can't believe I just stumbled across it. You've given me a new use for sweet rice and I am eternally grateful. This has certainly earned a spot in my rotation with its uniqueness so I don't feel like such a POS vaping the same profiles all the time. #winning"
-    },
-    {
-      "user": "Loonicorn",
-      "score": "5",
-      "text": "I was one of four lucky people that got to try this for Mixers Club. Sweet Rice is a great flavor. I never would have thought of mixing it with these fruits, but it really works. The blueberry is very subtle but definitely there. It complements the honey dew and peach flavors, which themselves meld together into some unholy creation of honeydew flesh with peach flavor. I love the ninja blueberry, the peach-melon combo is a nice complement to the sweet rice, and the emulsifying flavors sweeten and smooth everything to perfection. It’s unique, fruity, and fun. Nice job!"
-    }
-  ]
+    "name": "Samurai",
+    "description": "Sweet Rice base by: @ENYAWREKLAW https:\/\/alltheflavors.com\/recipes\/45216\r\n\r\nInspired by: @shyndo https:\/\/alltheflavors.com\/recipes\/56405\r\n\r\nDecember Mixers Club https:\/\/www.reddit.com\/r\/mixersclub\/\r\n\r\nCreamy sweet rice with honey peach, honeydew and blueberry.",
+    "id": 77991,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/77991\/998f6650d553b94d0200086e7e50fd06-1024x576.jpg",
+    "updated_at": "2020-12-12T17:11:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 5000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "LimeDrive",
+    "views": "1976",
+    "created_at": "2017-12-08",
+    "slug": "samurai",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/77991.jpg",
+    "total_flavoring": "11.55%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 5,
+            "text": "Absolutely amazing, now one of my top favorite recipes. One breath of this vape leads to satori."
+        },
+        {
+            "user": "MrZigglesworth",
+            "score": 5,
+            "text": "I seriously can't get enough of this recipe! Everything blends together so well. I would highly recommend this one. "
+        },
+        {
+            "user": "cultureviolet",
+            "score": 5,
+            "text": "I LOVE this recipe. Underrepresented for sure, I can't believe I just stumbled across it. You've given me a new use for sweet rice and I am eternally grateful. This has certainly earned a spot in my rotation with its uniqueness so I don't feel like such a POS vaping the same profiles all the time. #winning"
+        },
+        {
+            "user": "Loonicorn",
+            "score": 5,
+            "text": "I was one of four lucky people that got to try this for Mixers Club. Sweet Rice is a great flavor. I never would have thought of mixing it with these fruits, but it really works. The blueberry is very subtle but definitely there. It complements the honey dew and peach flavors, which themselves meld together into some unholy creation of honeydew flesh with peach flavor. I love the ninja blueberry, the peach-melon combo is a nice complement to the sweet rice, and the emulsifying flavors sweeten and smooth everything to perfection. It\u2019s unique, fruity, and fun. Nice job!"
+        }
+    ]
 }

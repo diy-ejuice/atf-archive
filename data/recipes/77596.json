@@ -1,44 +1,44 @@
 {
-  "name": "Cycladic pie",
-  "description": "It is an island, Cycladic pie! Many may have eaten it and you did not like it because it looks like a sweet slurry. The first time I tried a watermelon was like that. That's why I decided to make my own recipe.\r\n\r\nWatermelon needs attention even though it is a very simple traditional pie!",
-  "id": 77596,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77596/KARPOYZOGLIKO.jpg",
-  "updated_at": "2020-12-07T04:39:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 1300,
-      "vendor": "LA"
-    },
-    {
-      "name": "Nut Mix",
-      "flavor_id": "537",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake",
-      "flavor_id": "930",
-      "millipercent": 800,
-      "vendor": "LA"
-    }
-  ],
-  "author": "Pmnb",
-  "views": "995",
-  "slug": "cycladic_pie",
-  "total_flavoring": "2.5%",
-  "steep_days": "20",
-  "best_vg": "600%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cycladic pie",
+    "description": "It is an island, Cycladic pie! Many may have eaten it and you did not like it because it looks like a sweet slurry. The first time I tried a watermelon was like that. That's why I decided to make my own recipe.\r\n\r\nWatermelon needs attention even though it is a very simple traditional pie!",
+    "id": 77596,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/77596\/KARPOYZOGLIKO.jpg",
+    "updated_at": "2020-12-10T16:00:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 1300,
+            "vendor": "LA"
+        },
+        {
+            "name": "Nut Mix",
+            "flavor_id": "537",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake",
+            "flavor_id": "930",
+            "millipercent": 800,
+            "vendor": "LA"
+        }
+    ],
+    "author": "Pmnb",
+    "views": "1002",
+    "created_at": "2017-12-05",
+    "slug": "cycladic_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/77596.jpg",
+    "total_flavoring": "2.5%",
+    "steep_days": "20",
+    "best_vg": "600%",
+    "temperature": "0"
 }

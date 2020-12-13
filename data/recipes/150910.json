@@ -1,56 +1,58 @@
 {
-  "name": "Magma PODDER ",
-  "description": "A pod version of the original  which was a Strawberry pina colada gummy candy . this is unapologetically a gummy candy and is sweet like a candy should be . adjust the super sweet to your own taste . thank you folk and Alfred for testing and help with the name .",
-  "id": 150910,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150910/84ADAA50-ECB7-4CE0-9DD2-06DCA0BD2724.png",
-  "updated_at": "2020-12-08T00:50:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Gummy Candy SC",
-      "flavor_id": "10097",
-      "millipercent": 6000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pina Colada Candy SC",
-      "flavor_id": "10099",
-      "millipercent": 8000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pineapple Candy SC",
-      "flavor_id": "10119",
-      "millipercent": 4000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DigitalDrops",
-  "views": "1962",
-  "slug": "magma_podder",
-  "total_flavoring": "19.0%",
-  "steep_days": "30 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kev72shell76",
-      "score": "5",
-      "text": "verry nice in a pod will have to try the other in my rtas thanks for sharing&#xD;\nthe stalker"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "About a year, about two dozen different recipes (not counting different versions of pretty much the same recipe) and this is the best thing I've put in a pod so far. It is indeed a strawberry pina colada gummy candy. I did not really think all four of those notes (strawberry, pineapple, coconut, and especially gummy candy body) would play well at 25mg nic salt 50/50 VG/PG in my Caliburn but they absolutely do, perfectly. I'm a little worried that 1% CAP Super Sweet is going to tank my pod very fast and thinking maybe I should have used a little less instead of following the recipe exactly, but I haven't gone through enough yet to have regrets. Just had to go ahead and leave a review about how well this fairly simple recipe delivers the flavor. "
-    }
-  ]
+    "name": "Magma PODDER ",
+    "description": "A pod version of the original  which was a Strawberry pina colada gummy candy . this is unapologetically a gummy candy and is sweet like a candy should be . adjust the super sweet to your own taste . thank you folk and Alfred for testing and help with the name .",
+    "id": 150910,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/150910\/84ADAA50-ECB7-4CE0-9DD2-06DCA0BD2724.png",
+    "updated_at": "2020-12-12T15:40:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Gummy Candy SC",
+            "flavor_id": "10097",
+            "millipercent": 6000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pina Colada Candy SC",
+            "flavor_id": "10099",
+            "millipercent": 8000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pineapple Candy SC",
+            "flavor_id": "10119",
+            "millipercent": 4000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DigitalDrops",
+    "views": "1971",
+    "created_at": "2019-05-10",
+    "slug": "magma_podder",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/150910.png",
+    "total_flavoring": "19.0%",
+    "steep_days": "30 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kev72shell76",
+            "score": 5,
+            "text": "verry nice in a pod will have to try the other in my rtas thanks for sharing&#xD;\nthe stalker"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "About a year, about two dozen different recipes (not counting different versions of pretty much the same recipe) and this is the best thing I've put in a pod so far. It is indeed a strawberry pina colada gummy candy. I did not really think all four of those notes (strawberry, pineapple, coconut, and especially gummy candy body) would play well at 25mg nic salt 50\/50 VG\/PG in my Caliburn but they absolutely do, perfectly. I'm a little worried that 1% CAP Super Sweet is going to tank my pod very fast and thinking maybe I should have used a little less instead of following the recipe exactly, but I haven't gone through enough yet to have regrets. Just had to go ahead and leave a review about how well this fairly simple recipe delivers the flavor. "
+        }
+    ]
 }

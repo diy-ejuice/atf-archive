@@ -1,81 +1,83 @@
 {
-  "name": "Stroconut",
-  "description": "I wanted something other than a strawberry cream. I wanted a next dimension. FW Coconut Cream Pie did the trick. Everybody gets bored with flavors, this is what I always go to when I hate everything else. 5-7 Day Steep",
-  "id": 64737,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64737/No-Bake-Strawberry-Cream-Pie-16.jpg",
-  "updated_at": "2020-12-08T00:49:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coconut Cream Pie",
-      "flavor_id": "1253",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MuuMuu",
-  "views": "1354",
-  "slug": "stroconut",
-  "total_flavoring": "18.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "NaCHeF",
-      "score": "5",
-      "text": "I wasn't expecting much from this recipe but the coconut cream pie caught my attention and thank god it did. This recipe is bright and very well balanced. A little too sweet for my taste but the addition of the coconut gave a complete new dimension and character to a very popular profile. You wouldn't guess there is any coconut without reading the recipe and I will try it with more of it. This is a 5/5 and I probably put this into my rotation of ADVs"
-    }
-  ]
+    "name": "Stroconut",
+    "description": "I wanted something other than a strawberry cream. I wanted a next dimension. FW Coconut Cream Pie did the trick. Everybody gets bored with flavors, this is what I always go to when I hate everything else. 5-7 Day Steep",
+    "id": 64737,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/64737\/No-Bake-Strawberry-Cream-Pie-16.jpg",
+    "updated_at": "2020-12-12T11:51:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coconut Cream Pie",
+            "flavor_id": "1253",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MuuMuu",
+    "views": "1359",
+    "created_at": "2017-09-21",
+    "slug": "stroconut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/64737.jpg",
+    "total_flavoring": "18.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "NaCHeF",
+            "score": 5,
+            "text": "I wasn't expecting much from this recipe but the coconut cream pie caught my attention and thank god it did. This recipe is bright and very well balanced. A little too sweet for my taste but the addition of the coconut gave a complete new dimension and character to a very popular profile. You wouldn't guess there is any coconut without reading the recipe and I will try it with more of it. This is a 5\/5 and I probably put this into my rotation of ADVs"
+        }
+    ]
 }

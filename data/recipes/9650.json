@@ -1,51 +1,53 @@
 {
-  "name": "Benedict Cumbermint",
-  "description": "A refreshing Cucumber-lime and menthol juice perfect for the summertime.",
-  "id": 9650,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9650/image.jpeg",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Aroma Arctic Winter (menthol Artic)",
-      "flavor_id": "514",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "1794",
-  "slug": "benedict_cumbermint",
-  "total_flavoring": "9.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "I really like this a lot for the summer. Very refreshing. I added 0.75 INW Natural Mint and it was really nice with the menthol and Koolada. "
-    }
-  ]
+    "name": "Benedict Cumbermint",
+    "description": "A refreshing Cucumber-lime and menthol juice perfect for the summertime.",
+    "id": 9650,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9650\/image.jpeg",
+    "updated_at": "2020-12-12T11:50:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Aroma Arctic Winter (menthol Artic)",
+            "flavor_id": "514",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "1806",
+    "created_at": "2016-08-04",
+    "slug": "benedict_cumbermint",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9650.jpeg",
+    "total_flavoring": "9.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "I really like this a lot for the summer. Very refreshing. I added 0.75 INW Natural Mint and it was really nice with the menthol and Koolada. "
+        }
+    ]
 }

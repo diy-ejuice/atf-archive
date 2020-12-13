@@ -1,81 +1,83 @@
 {
-  "name": "Heavens Custard ",
-  "description": "This is an excellent Strawberry custard recipe. This is my ADV after I have my morning vape absolutely love this. It's delicious as a Shake and Vape. The  strawberries mixed really make this recipe my favorite. Must use v1 of Cap vanilla custard for it's amazing taste. I simply love this Delicious flavor.\r\n",
-  "id": 30650,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30650/IMG_0191.JPG",
-  "updated_at": "2020-12-08T00:49:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Dragon Fruit",
-      "flavor_id": "1272",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1578",
-  "slug": "heavens_custard",
-  "total_flavoring": "15.25%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "This is a great soft strawberry custard"
-    }
-  ]
+    "name": "Heavens Custard ",
+    "description": "This is an excellent Strawberry custard recipe. This is my ADV after I have my morning vape absolutely love this. It's delicious as a Shake and Vape. The  strawberries mixed really make this recipe my favorite. Must use v1 of Cap vanilla custard for it's amazing taste. I simply love this Delicious flavor.\r\n",
+    "id": 30650,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30650\/IMG_0191.JPG",
+    "updated_at": "2020-12-12T20:28:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Dragon Fruit",
+            "flavor_id": "1272",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1584",
+    "created_at": "2017-02-06",
+    "slug": "heavens_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30650.JPG",
+    "total_flavoring": "15.25%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "This is a great soft strawberry custard"
+        }
+    ]
 }

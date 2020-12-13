@@ -1,62 +1,63 @@
 {
-  "name": "Cotton candy Ice cream sandwich.",
-  "description": "Sweet, fluffy with a nice cookie flavor. Let steep for a week at least",
-  "id": 66763,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Misskittiii",
-  "views": "5032",
-  "slug": "cotton_candy_ice_cream_sandwich",
-  "total_flavoring": "15.5%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "kindground",
-      "score": "3",
-      "text": "Tastes great for about 5ml. Good lord it's a coil killer with all that EM. Especially in conjunction with sugar cookie. Probably just like Mech Sauce. "
-    },
-    {
-      "user": "lococarnage",
-      "score": "5",
-      "text": "5 Stars for being a boss! Congrats on the publicity lol."
-    }
-  ]
+    "name": "Cotton candy Ice cream sandwich.",
+    "description": "Sweet, fluffy with a nice cookie flavor. Let steep for a week at least",
+    "id": 66763,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:51:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Misskittiii",
+    "views": "5038",
+    "created_at": "2017-10-05",
+    "slug": "cotton_candy_ice_cream_sandwich",
+    "total_flavoring": "15.5%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "kindground",
+            "score": 3,
+            "text": "Tastes great for about 5ml. Good lord it's a coil killer with all that EM. Especially in conjunction with sugar cookie. Probably just like Mech Sauce. "
+        },
+        {
+            "user": "lococarnage",
+            "score": 5,
+            "text": "5 Stars for being a boss! Congrats on the publicity lol."
+        }
+    ]
 }

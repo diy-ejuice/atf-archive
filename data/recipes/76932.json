@@ -1,62 +1,61 @@
 {
-  "name": "Fruity Cough Drops",
-  "description": "This is my version of a cold mixture. Easy  to vape when you're clogged up and tasty and refreshing when you're not ill :)",
-  "id": 76932,
-  "image_url": null,
-  "updated_at": "2020-12-06T12:55:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eucalyptus With Mint",
-      "flavor_id": "777",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Menthol",
-      "flavor_id": "728",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blackberry Raspberry",
-      "flavor_id": "707",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Black Cherry",
-      "flavor_id": "212",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Anise",
-      "flavor_id": "7",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "foxda",
-  "views": "1455",
-  "slug": "fruity_cough_drops",
-  "total_flavoring": "7.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fruity Cough Drops",
+    "description": "This is my version of a cold mixture. Easy  to vape when you're clogged up and tasty and refreshing when you're not ill :)",
+    "id": 76932,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eucalyptus With Mint",
+            "flavor_id": "777",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Menthol",
+            "flavor_id": "728",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blackberry Raspberry",
+            "flavor_id": "707",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Black Cherry",
+            "flavor_id": "212",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Anise",
+            "flavor_id": "7",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "foxda",
+    "views": "1462",
+    "created_at": "2017-12-02",
+    "slug": "fruity_cough_drops",
+    "total_flavoring": "7.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

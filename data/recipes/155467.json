@@ -1,44 +1,44 @@
 {
-  "name": "Japanese Melon Gum",
-  "description": "Bang-on for those little melon gum balls from the sushi joint. The only difference is that this won't lose it's flavor after 60 seconds.",
-  "id": 155467,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/155467/melongum2.jpg",
-  "updated_at": "2020-12-06T12:56:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Gummy Candy (pg)",
-      "flavor_id": "234",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 2500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Melon Cantaloupe",
-      "flavor_id": "529",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "921",
-  "slug": "japanese_melon_gum",
-  "total_flavoring": "6.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "390",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Japanese Melon Gum",
+    "description": "Bang-on for those little melon gum balls from the sushi joint. The only difference is that this won't lose it's flavor after 60 seconds.",
+    "id": 155467,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/155467\/melongum2.jpg",
+    "updated_at": "2020-12-11T03:38:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Gummy Candy (pg)",
+            "flavor_id": "234",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 2500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Melon Cantaloupe",
+            "flavor_id": "529",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "924",
+    "created_at": "2019-06-13",
+    "slug": "japanese_melon_gum",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/155467.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "390"
 }

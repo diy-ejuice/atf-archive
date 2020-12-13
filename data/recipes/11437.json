@@ -1,57 +1,59 @@
 {
-  "name": "World 3-3",
-  "description": "I wanted a recipe that was just straight mint and coldness. This was the result. It tastes like strong minty gum, without the pesky gum part getting in the way. The sweet strawberry is just in there to clean up the aftertaste some, you won't actually taste any strawberry at all. It is just mint and cold all the way down. ",
-  "id": 11437,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11437/200px-Powerup-ice-flower-sm.png",
-  "updated_at": "2020-12-08T00:48:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eucalyptus With Mint",
-      "flavor_id": "777",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Spearmint",
-      "flavor_id": "1415",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "100",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Proto-Jetsam",
-  "views": "1618",
-  "slug": "world_33",
-  "total_flavoring": "10.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Seakow",
-      "score": "5",
-      "text": "This stuff will be in my daily rotation now. Solid palate cleanser, thinking about adding some honey to it for times that I get sick."
-    }
-  ]
+    "name": "World 3-3",
+    "description": "I wanted a recipe that was just straight mint and coldness. This was the result. It tastes like strong minty gum, without the pesky gum part getting in the way. The sweet strawberry is just in there to clean up the aftertaste some, you won't actually taste any strawberry at all. It is just mint and cold all the way down. ",
+    "id": 11437,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11437\/200px-Powerup-ice-flower-sm.png",
+    "updated_at": "2020-12-12T11:50:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eucalyptus With Mint",
+            "flavor_id": "777",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Spearmint",
+            "flavor_id": "1415",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "100",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Proto-Jetsam",
+    "views": "1625",
+    "created_at": "2016-08-24",
+    "slug": "world_33",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11437.png",
+    "total_flavoring": "10.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Seakow",
+            "score": 5,
+            "text": "This stuff will be in my daily rotation now. Solid palate cleanser, thinking about adding some honey to it for times that I get sick."
+        }
+    ]
 }

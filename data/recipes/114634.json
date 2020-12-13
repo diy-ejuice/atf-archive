@@ -1,44 +1,44 @@
 {
-  "name": "Rin's Creme Poof",
-  "description": "Creme puff submission for Mixin Vixen 8/12/18.\r\n\r\nOptional *add 0.25% VT Light Rum for a Rumchata infused puff. ",
-  "id": 114634,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/114634/poof.jpg",
-  "updated_at": "2020-12-05T12:09:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Horchata",
-      "flavor_id": "4439",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow Treat",
-      "flavor_id": "4382",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1064",
-  "slug": "rins_creme_poof",
-  "total_flavoring": "1.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Creme Poof",
+    "description": "Creme puff submission for Mixin Vixen 8\/12\/18.\r\n\r\nOptional *add 0.25% VT Light Rum for a Rumchata infused puff. ",
+    "id": 114634,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/114634\/poof.jpg",
+    "updated_at": "2020-12-10T13:45:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Horchata",
+            "flavor_id": "4439",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow Treat",
+            "flavor_id": "4382",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1072",
+    "created_at": "2018-08-11",
+    "slug": "rins_creme_poof",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/114634.jpg",
+    "total_flavoring": "1.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

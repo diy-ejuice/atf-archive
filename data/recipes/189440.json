@@ -1,50 +1,50 @@
 {
-  "name": "Strawberry Glazed Donut",
-  "description": "This is a Strawberry GLAZED Donut, that Kate said didn't taste like a Jolly Rancher and it was 8/10. Which is pretty good for that. So. Try it. \r\n\r\n",
-  "id": 189440,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189440/livemixing.jpg",
-  "updated_at": "2020-12-07T15:22:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2076",
-  "slug": "strawberry_glazed_donut",
-  "total_flavoring": "11.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Glazed Donut",
+    "description": "This is a Strawberry GLAZED Donut, that Kate said didn't taste like a Jolly Rancher and it was 8\/10. Which is pretty good for that. So. Try it. \r\n\r\n",
+    "id": 189440,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189440\/livemixing.jpg",
+    "updated_at": "2020-12-12T11:53:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2093",
+    "created_at": "2020-03-27",
+    "slug": "strawberry_glazed_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189440.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

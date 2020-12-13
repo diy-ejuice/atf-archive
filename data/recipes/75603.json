@@ -1,51 +1,53 @@
 {
-  "name": "Winter Warmth",
-  "description": "It's getting wintry here, bringing memories of winter evenings in cozy pubs. \r\nPeat fire blazing, whiskey and conversation flowing in equal measure. \r\nWarmth and comfort and ease.\r\n\r\nI love whiskey, I'll drink the good ones neat and mix the not-so-good ones with ginger ale.  \r\nI also love ginger cake with custard. \r\nLet's be real: I love custard, and ginger, and whiskey.\r\n\r\nI'm a fan of [Coop's Kiwi Bourbon](https://alltheflavors.com/recipes/21614#coop_s_kiwi_bourbon_by_id10_t), the toasted marshmallow and bourbon really sing together in that recipe, which got me to wondering about where else they might shine together.  (Coop tells me that [ID10-T](https://alltheflavors.com/users/ID10-T) was the one who first mentioned the combo - so hat tip to him too!)\r\n\r\nI recently got some INW Custard and it's the perfect custard to me, it's not overly eggy, it's not terribly sweet, it's velvety and just the right amount of heavy.  It doesn't even need to be steeped, which is some kind of miracle in and of itself.  I'm using it here for both flavor and for mouthfeel.   \r\n\r\nBecause it's holiday season, I wanted to add a little spice, another layer of warmth. I wanted something that'd be well-served by the other aromas, that could add another flavor dimension without being getting lost in the mix or taking it over completely. CAP Gingerbread fit the bill perfectly.\r\n\r\nThis has a decadent boozy sweetness on the inhale, with an almost candied ginger tang that lingers after the creamy custard on the exhale.\r\n \r\nYou can dial back the custard a little if you're not as big a fan as I am (0.75% still works fine), but I wouldn't recommend any substitutions.\r\n\r\nYou can shake and vape if you don't mind a strong bourbon kick, but steeping for 72 hours to let everything come together works better. \r\n   \r\n\r\n \r\n",
-  "id": 75603,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75603/ginger-cake-and-custard.jpg",
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Djuna",
-  "views": "1342",
-  "slug": "winter_warmth",
-  "total_flavoring": "6.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "DixxleRoo",
-      "score": "5",
-      "text": "Really yummy and lovely for the winter. Has a very comforting feel. A nicely spiced version of the TFA Kentucky Bourbon/Toasted Marshmallow combo. Will definitely make it again before spring. "
-    }
-  ]
+    "name": "Winter Warmth",
+    "description": "It's getting wintry here, bringing memories of winter evenings in cozy pubs. \r\nPeat fire blazing, whiskey and conversation flowing in equal measure. \r\nWarmth and comfort and ease.\r\n\r\nI love whiskey, I'll drink the good ones neat and mix the not-so-good ones with ginger ale.  \r\nI also love ginger cake with custard. \r\nLet's be real: I love custard, and ginger, and whiskey.\r\n\r\nI'm a fan of [Coop's Kiwi Bourbon](https:\/\/alltheflavors.com\/recipes\/21614#coop_s_kiwi_bourbon_by_id10_t), the toasted marshmallow and bourbon really sing together in that recipe, which got me to wondering about where else they might shine together.  (Coop tells me that [ID10-T](https:\/\/alltheflavors.com\/users\/ID10-T) was the one who first mentioned the combo - so hat tip to him too!)\r\n\r\nI recently got some INW Custard and it's the perfect custard to me, it's not overly eggy, it's not terribly sweet, it's velvety and just the right amount of heavy.  It doesn't even need to be steeped, which is some kind of miracle in and of itself.  I'm using it here for both flavor and for mouthfeel.   \r\n\r\nBecause it's holiday season, I wanted to add a little spice, another layer of warmth. I wanted something that'd be well-served by the other aromas, that could add another flavor dimension without being getting lost in the mix or taking it over completely. CAP Gingerbread fit the bill perfectly.\r\n\r\nThis has a decadent boozy sweetness on the inhale, with an almost candied ginger tang that lingers after the creamy custard on the exhale.\r\n \r\nYou can dial back the custard a little if you're not as big a fan as I am (0.75% still works fine), but I wouldn't recommend any substitutions.\r\n\r\nYou can shake and vape if you don't mind a strong bourbon kick, but steeping for 72 hours to let everything come together works better. \r\n   \r\n\r\n \r\n",
+    "id": 75603,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75603\/ginger-cake-and-custard.jpg",
+    "updated_at": "2020-12-12T15:39:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Djuna",
+    "views": "1357",
+    "created_at": "2017-11-23",
+    "slug": "winter_warmth",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75603.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "DixxleRoo",
+            "score": 5,
+            "text": "Really yummy and lovely for the winter. Has a very comforting feel. A nicely spiced version of the TFA Kentucky Bourbon\/Toasted Marshmallow combo. Will definitely make it again before spring. "
+        }
+    ]
 }

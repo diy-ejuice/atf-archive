@@ -1,50 +1,52 @@
 {
-  "name": "Propoganda Subliminal Clone v1",
-  "description": "My clone of Propaganda's Subliminal, a take on sweet and sour raspberry belts. This started out pretty complex but after trying to hit all the right notes it wound up being simpler than I would have expected. I want to continue tinkering and getting feedback but I'm happy enough with this that it's ready for public consumption.\r\n\r\nIt's ok as a S&V but really comes into its own after 2 days and it incredibly badass.",
-  "id": 15757,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15757/image3.png",
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Murtidash",
-  "views": "2555",
-  "slug": "propoganda_subliminal_clone_v1",
-  "total_flavoring": "5.75%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "BuryMeInSmoke",
-      "score": "4",
-      "text": "Great recipe - and awesome way to use up the FW Razzleberry I have that I can't seem to find any other use for.  INW Cactus really makes the Razzleberry pop and Ithe TFA Koolada helps it out quite a bit too.  Nice and simple flavouring that's by no means boring.  Best consumed fresh as the Razzleberry fades a lot faster than the Cactus, by the two week mark I found the Cactus a little over powering."
-    },
-    {
-      "user": "Jthectic",
-      "score": "4",
-      "text": "Subtle but refreshing. After 2 week steep, it is quite mellow but pleasant. May lack a strong flavour, in which case raising razzleberry to ~8% or higher may help (I find it to be a weaker flavour below 8%). "
-    }
-  ]
+    "name": "Propoganda Subliminal Clone v1",
+    "description": "My clone of Propaganda's Subliminal, a take on sweet and sour raspberry belts. This started out pretty complex but after trying to hit all the right notes it wound up being simpler than I would have expected. I want to continue tinkering and getting feedback but I'm happy enough with this that it's ready for public consumption.\r\n\r\nIt's ok as a S&V but really comes into its own after 2 days and it incredibly badass.",
+    "id": 15757,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15757\/image3.png",
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Murtidash",
+    "views": "2575",
+    "created_at": "2016-10-09",
+    "slug": "propoganda_subliminal_clone_v1",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15757.png",
+    "total_flavoring": "5.75%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BuryMeInSmoke",
+            "score": 4,
+            "text": "Great recipe - and awesome way to use up the FW Razzleberry I have that I can't seem to find any other use for.  INW Cactus really makes the Razzleberry pop and Ithe TFA Koolada helps it out quite a bit too.  Nice and simple flavouring that's by no means boring.  Best consumed fresh as the Razzleberry fades a lot faster than the Cactus, by the two week mark I found the Cactus a little over powering."
+        },
+        {
+            "user": "Jthectic",
+            "score": 4,
+            "text": "Subtle but refreshing. After 2 week steep, it is quite mellow but pleasant. May lack a strong flavour, in which case raising razzleberry to ~8% or higher may help (I find it to be a weaker flavour below 8%). "
+        }
+    ]
 }

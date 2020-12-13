@@ -1,50 +1,50 @@
 {
-  "name": "Creamy bourbon cookies",
-  "description": "Cream and cookies by flavorah is a nice oreo flavor,with hints of chocolate and cream,but lacks of texture and body.So,i used biscuit base from vta to enhance the bakery side and added the two vanilla creams to improve the texture.Aged bourbon cream by rf,compliments the creams adds body to the mix and also a slight taste of alcohol.The mix needs 10 days steeping,mostly because of vta's biscuit base.\r\nenjoy!",
-  "id": 100457,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100457/bourbon_biscuits_print_final-small-1490361787.png",
-  "updated_at": "2020-12-07T17:34:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Aged Bourbon Cream – Super Concentrate",
-      "flavor_id": "7826",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cream and Cookies",
-      "flavor_id": "4381",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "nks",
-  "views": "1096",
-  "slug": "creamy_bourbon_cookies",
-  "total_flavoring": "6.8%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creamy bourbon cookies",
+    "description": "Cream and cookies by flavorah is a nice oreo flavor,with hints of chocolate and cream,but lacks of texture and body.So,i used biscuit base from vta to enhance the bakery side and added the two vanilla creams to improve the texture.Aged bourbon cream by rf,compliments the creams adds body to the mix and also a slight taste of alcohol.The mix needs 10 days steeping,mostly because of vta's biscuit base.\r\nenjoy!",
+    "id": 100457,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/100457\/bourbon_biscuits_print_final-small-1490361787.png",
+    "updated_at": "2020-12-10T13:45:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Aged Bourbon Cream \u2013 Super Concentrate",
+            "flavor_id": "7826",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cream and Cookies",
+            "flavor_id": "4381",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "nks",
+    "views": "1104",
+    "created_at": "2018-05-10",
+    "slug": "creamy_bourbon_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/100457.png",
+    "total_flavoring": "6.8%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0"
 }

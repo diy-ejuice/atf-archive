@@ -1,57 +1,59 @@
 {
-  "name": "Nova",
-  "description": "Sweet, deep, syrupy stone fruit flavors wrapped around a citrus explosion. It is messy, it is weird, and you probably shouldn't stare directly at it.  \r\n\r\nMost of the edges smooth out after a week.",
-  "id": 16868,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16868/nova.jpg",
-  "updated_at": "2020-12-08T00:48:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Plum",
-      "flavor_id": "810",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Grapefruit",
-      "flavor_id": "785",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 300,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Philosaphucker",
-  "views": "2883",
-  "slug": "nova",
-  "total_flavoring": "3.35%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "horizonism",
-      "score": "5",
-      "text": "Another winner. This is super-refreshing, and another beautifully balanced mix. My only slight issue was a little harshness from INW Grapefruit, but this steeps out if you leave it a few more days. (10 day steep seemed to work well for me.) Thanks for sharing! "
-    }
-  ]
+    "name": "Nova",
+    "description": "Sweet, deep, syrupy stone fruit flavors wrapped around a citrus explosion. It is messy, it is weird, and you probably shouldn't stare directly at it.  \r\n\r\nMost of the edges smooth out after a week.",
+    "id": 16868,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16868\/nova.jpg",
+    "updated_at": "2020-12-12T14:04:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Plum",
+            "flavor_id": "810",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Grapefruit",
+            "flavor_id": "785",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 300,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Philosaphucker",
+    "views": "2895",
+    "created_at": "2016-10-20",
+    "slug": "nova",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16868.jpg",
+    "total_flavoring": "3.35%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "horizonism",
+            "score": 5,
+            "text": "Another winner. This is super-refreshing, and another beautifully balanced mix. My only slight issue was a little harshness from INW Grapefruit, but this steeps out if you leave it a few more days. (10 day steep seemed to work well for me.) Thanks for sharing! "
+        }
+    ]
 }

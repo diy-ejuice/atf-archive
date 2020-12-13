@@ -1,0 +1,61 @@
+{
+    "name": "Christmas fruit punch",
+    "description": "this is delicious guys and perfect for the holidays and Christmas another one too vape around the tree while opening gifts",
+    "id": 209480,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:31:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tropical Fruit Punch",
+            "flavor_id": "9999",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fizz Pop",
+            "flavor_id": "10291",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Lime Soda",
+            "flavor_id": "10198",
+            "millipercent": 5000,
+            "vendor": "NR"
+        },
+        {
+            "name": "Pink Punch",
+            "flavor_id": "10168",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Rainbow Sherbert",
+            "flavor_id": "1501",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "201",
+    "created_at": "2020-12-09",
+    "slug": "christmas_fruit_punch",
+    "total_flavoring": "14.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "110"
+}

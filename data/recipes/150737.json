@@ -1,56 +1,56 @@
 {
-  "name": "Apple of Eden",
-  "description": "This is loosely based off of one my favorite Halo juices Midnight Apple. It really tastes nothing like I just really liked the profile of an apple bourbon tobacco. I would suggest a 14 day steep to give the Arabian time to calm down a bit. ",
-  "id": 150737,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150737/C8EBB9D5-0DA3-47EA-B61D-6A740994D47F.jpeg",
-  "updated_at": "2020-12-06T07:16:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Arabian Tobacco",
-      "flavor_id": "4383",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet and Smokey Tobacco",
-      "flavor_id": "10151",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 750,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Ebc88",
-  "views": "1057",
-  "slug": "apple_of_eden",
-  "total_flavoring": "5.9%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple of Eden",
+    "description": "This is loosely based off of one my favorite Halo juices Midnight Apple. It really tastes nothing like I just really liked the profile of an apple bourbon tobacco. I would suggest a 14 day steep to give the Arabian time to calm down a bit. ",
+    "id": 150737,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/150737\/C8EBB9D5-0DA3-47EA-B61D-6A740994D47F.jpeg",
+    "updated_at": "2020-12-12T02:45:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Arabian Tobacco",
+            "flavor_id": "4383",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet and Smokey Tobacco",
+            "flavor_id": "10151",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 750,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Ebc88",
+    "views": "1062",
+    "created_at": "2019-05-09",
+    "slug": "apple_of_eden",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/150737.jpeg",
+    "total_flavoring": "5.9%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

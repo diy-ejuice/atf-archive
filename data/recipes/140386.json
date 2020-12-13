@@ -1,95 +1,97 @@
 {
-  "name": "Jacked up Sundae",
-  "description": "Absolutely yummy. A cracker jack sundae. \r\nStar of the show is WF SC Caramel Popcorn and Peanuts, the peanuts in this is amazing. The popcorn needs a little boost. As well as the caramel. \r\nThis being a sundae, i have a ice cream base of LB Icecream with HS French Vanilla Ice Cream. This is one of my favorite icecream combinations. The ice cream is layered with caramel, butterscotch, toffee, and cracker jacks And topped with whipped cream \r\nSweeten to your liking. \r\nEnjoy.\r\nupdated 12/28/2019:  Suggested steep, at least 7 days 14 is better.  :) \r\n",
-  "id": 140386,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140386/19E673CC-2EB0-41EE-BE92-58BD7DF0CAD6.png",
-  "updated_at": "2020-12-08T00:50:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel Popcorn and Peanuts",
-      "flavor_id": "10113",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "612",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Toffee",
-      "flavor_id": "4425",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "TamVapes",
-  "views": "3338",
-  "slug": "jacked_up_sundae",
-  "total_flavoring": "13.0%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BadaG",
-      "score": "5",
-      "text": "Really enjoying this, complex, rich and creamy"
-    },
-    {
-      "user": "stevenv84",
-      "score": "5",
-      "text": "This is absolutely incredible, do yourself a favor and try this one out. Thanks Tam"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "So so so sweet wow. I did not know it was possible to make something this sweet without any sweetener, and it’s interesting because you get hit with with the sweetness first, and then the creamier finish. I get everything promised in the description, which is a lot! Caramel, toffee, butterscotch, peanuts, popcorn, and ice cream. Even a little whipped cream in the finish. Yes, it really delivers all of that without being too muddled up. The only thing I have by way of criticism is that it’s a little sharp on top. I gave it six days. I see Pippa’s review with the suggestion to let it steep quite a bit longer and that sounds right to me, so I’m going to set it aside for a couple more weeks and come back to it. I bet that sharp edge will sanded down and the ice cream will come out even more, and I’m looking forward to that. "
-    },
-    {
-      "user": "DIYDownunderPippa",
-      "score": "5",
-      "text": "This is a mix thats worth being patient for 2-3 weeks. Off the shake it's good but is at the edge of sweetness and the popcorn may be a little dry. This mellows after around 1 weeks though. By 2-3 weeks everything comes into balance and is delicious AF !!! I warn you now don't fuss with 30ml, do at least 100ml! When this steeps the texture and caramel tones along with the ice cream will give you cravings for more and more!! Not a simple mix but it is simply a lick your fingers for more great recipe !!! I rate this a 6 out of 5 !!! "
-    },
-    {
-      "user": "Daytimefrank1",
-      "score": "5",
-      "text": "Straight up yummy! Well balanced. The Cracker Jack is clearly present as well as the creaminess from the ice cream. Well done as always!"
-    }
-  ]
+    "name": "Jacked up Sundae",
+    "description": "Absolutely yummy. A cracker jack sundae. \r\nStar of the show is WF SC Caramel Popcorn and Peanuts, the peanuts in this is amazing. The popcorn needs a little boost. As well as the caramel. \r\nThis being a sundae, i have a ice cream base of LB Icecream with HS French Vanilla Ice Cream. This is one of my favorite icecream combinations. The ice cream is layered with caramel, butterscotch, toffee, and cracker jacks And topped with whipped cream \r\nSweeten to your liking. \r\nEnjoy.\r\nupdated 12\/28\/2019:  Suggested steep, at least 7 days 14 is better.  :) \r\n",
+    "id": 140386,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/140386\/19E673CC-2EB0-41EE-BE92-58BD7DF0CAD6.png",
+    "updated_at": "2020-12-12T11:52:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel Popcorn and Peanuts",
+            "flavor_id": "10113",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "612",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Toffee",
+            "flavor_id": "4425",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "TamVapes",
+    "views": "3351",
+    "created_at": "2019-02-24",
+    "slug": "jacked_up_sundae",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/140386.png",
+    "total_flavoring": "13.0%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BadaG",
+            "score": 5,
+            "text": "Really enjoying this, complex, rich and creamy"
+        },
+        {
+            "user": "stevenv84",
+            "score": 5,
+            "text": "This is absolutely incredible, do yourself a favor and try this one out. Thanks Tam"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "So so so sweet wow. I did not know it was possible to make something this sweet without any sweetener, and it\u2019s interesting because you get hit with with the sweetness first, and then the creamier finish. I get everything promised in the description, which is a lot! Caramel, toffee, butterscotch, peanuts, popcorn, and ice cream. Even a little whipped cream in the finish. Yes, it really delivers all of that without being too muddled up. The only thing I have by way of criticism is that it\u2019s a little sharp on top. I gave it six days. I see Pippa\u2019s review with the suggestion to let it steep quite a bit longer and that sounds right to me, so I\u2019m going to set it aside for a couple more weeks and come back to it. I bet that sharp edge will sanded down and the ice cream will come out even more, and I\u2019m looking forward to that. "
+        },
+        {
+            "user": "DIYDownunderPippa",
+            "score": 5,
+            "text": "This is a mix thats worth being patient for 2-3 weeks. Off the shake it's good but is at the edge of sweetness and the popcorn may be a little dry. This mellows after around 1 weeks though. By 2-3 weeks everything comes into balance and is delicious AF !!! I warn you now don't fuss with 30ml, do at least 100ml! When this steeps the texture and caramel tones along with the ice cream will give you cravings for more and more!! Not a simple mix but it is simply a lick your fingers for more great recipe !!! I rate this a 6 out of 5 !!! "
+        },
+        {
+            "user": "Daytimefrank1",
+            "score": 5,
+            "text": "Straight up yummy! Well balanced. The Cracker Jack is clearly present as well as the creaminess from the ice cream. Well done as always!"
+        }
+    ]
 }

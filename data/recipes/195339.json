@@ -1,50 +1,50 @@
 {
-  "name": "Banana pecan doughnut v 0.2",
-  "description": "Super simple, but yet delicious banana doughnut sprinkled with buttery pecan pieces.\r\n\r\nGlazed Doughnut is the base of this recipe. As a Shake'n'Vape you won't notice much of it as it takes some time to settle in the mix.\r\nBanana Cream is a strong, candy like flavor. At first I had it at 3% which was way too much.\r\nButter Pecan fits in between the banana and the doughnut, adding some nutty flavors.\r\nFrench Vanilla is also an addition I added later on, it rounds up the whole mixture, without it something felt missing.\r\n\r\nCan be used as a SNV, good after 3 days, best at 7.",
-  "id": 195339,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/195339/IMG_20200527_141825.jpg",
-  "updated_at": "2020-12-07T12:48:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "8740",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "insan0r",
-  "views": "560",
-  "slug": "banana_pecan_doughnut_v_02",
-  "total_flavoring": "9.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana pecan doughnut v 0.2",
+    "description": "Super simple, but yet delicious banana doughnut sprinkled with buttery pecan pieces.\r\n\r\nGlazed Doughnut is the base of this recipe. As a Shake'n'Vape you won't notice much of it as it takes some time to settle in the mix.\r\nBanana Cream is a strong, candy like flavor. At first I had it at 3% which was way too much.\r\nButter Pecan fits in between the banana and the doughnut, adding some nutty flavors.\r\nFrench Vanilla is also an addition I added later on, it rounds up the whole mixture, without it something felt missing.\r\n\r\nCan be used as a SNV, good after 3 days, best at 7.",
+    "id": 195339,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/195339\/IMG_20200527_141825.jpg",
+    "updated_at": "2020-12-10T19:01:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "8740",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "insan0r",
+    "views": "565",
+    "created_at": "2020-05-23",
+    "slug": "banana_pecan_doughnut_v_02",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/195339.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

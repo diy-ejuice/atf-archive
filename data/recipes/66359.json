@@ -1,68 +1,70 @@
 {
-  "name": "Bleeding Berry Cobbler",
-  "description": "\r\nIt will be 9 years October 16th, that I suffered a brain hemorrhage. Long story short, I almost died, the bleeding in the brain caused a massive stroke, I was only 37. I required brain surgery to save my life, I am a survivor, a fighter, and a warrior. To celebrate my 9 year birthday at life, I have created a recipe representing that day. Perhaps a little morbid? Bizarre? Strange? but what better way to celebrate life in October!\r\n\r\nThis is a beautiful berry cobbler topped with whipped cream. Imagine it is cut open and the bilberries, blueberries, and tons of red strawberries come oozing out. The beautiful dessert that was cut open to bleed out will never be the same again. It will have another purpose. It's beauty will be felt in taste rather than appearance. That is what I hope to convey in this recepie, the beauty of taste.  What once was, still is, only different.\r\nNotes:\r\nCobbler/crust:.FW wild berry cobbler, Flv Sweet Dough\r\nThe sweet Dough keeps the cobbler from being too crusty. That is not what we are going for here. I want a soft doughy cobbler. With slght crust on top.\r\n\r\nFilling:. FLV Boysenberry, OSD Succulent Strawberry and FLV Raspberry\r\nThe berries inside are rich and tart and blend very well together. The raspberry helps the strawberry and boysenberry flavors to be a bit brighter.\r\n\r\nSweeten to your preference, I found, 1 drop of Capella Super Sweet per 10ml did the trick perfectly.\r\n\r\nThis is topped with whipped cream, of course you could use your favorite ice cream.\r\n\r\nEnjoy the bauty of life inside and out.\r\n\r\nPlease give your thoughts and suggestions in the comments. Thank you.\r\n😘Love and peace",
-  "id": 66359,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66359/easy-strawberry-and-blueberry-cobbler-recipe-from-nordstrom.jpg",
-  "updated_at": "2020-12-08T00:49:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Berry Cobbler ala Mode",
-      "flavor_id": "8499",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Dough",
-      "flavor_id": "4406",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "606",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "TamVapes",
-  "views": "2534",
-  "slug": "bleeding_berry_cobbler",
-  "total_flavoring": "7.75%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Daytimefrank1",
-      "score": "5",
-      "text": "Delicious! The bakery and fruits are well balanced. Loaded up my squonker with this and my tastebuds are really happy that I did!"
-    },
-    {
-      "user": "Jerikorayne",
-      "score": "5",
-      "text": "I think you did a really great job here it tastes just as you say the power of suggestion is huge and your description is spot on &#xD;\nI will be making a 120ml of this for my steep box &#xD;\nGood jobs ! Sir "
-    }
-  ]
+    "name": "Bleeding Berry Cobbler",
+    "description": "\r\nIt will be 9 years October 16th, that I suffered a brain hemorrhage. Long story short, I almost died, the bleeding in the brain caused a massive stroke, I was only 37. I required brain surgery to save my life, I am a survivor, a fighter, and a warrior. To celebrate my 9 year birthday at life, I have created a recipe representing that day. Perhaps a little morbid? Bizarre? Strange? but what better way to celebrate life in October!\r\n\r\nThis is a beautiful berry cobbler topped with whipped cream. Imagine it is cut open and the bilberries, blueberries, and tons of red strawberries come oozing out. The beautiful dessert that was cut open to bleed out will never be the same again. It will have another purpose. It's beauty will be felt in taste rather than appearance. That is what I hope to convey in this recepie, the beauty of taste.  What once was, still is, only different.\r\nNotes:\r\nCobbler\/crust:.FW wild berry cobbler, Flv Sweet Dough\r\nThe sweet Dough keeps the cobbler from being too crusty. That is not what we are going for here. I want a soft doughy cobbler. With slght crust on top.\r\n\r\nFilling:. FLV Boysenberry, OSD Succulent Strawberry and FLV Raspberry\r\nThe berries inside are rich and tart and blend very well together. The raspberry helps the strawberry and boysenberry flavors to be a bit brighter.\r\n\r\nSweeten to your preference, I found, 1 drop of Capella Super Sweet per 10ml did the trick perfectly.\r\n\r\nThis is topped with whipped cream, of course you could use your favorite ice cream.\r\n\r\nEnjoy the bauty of life inside and out.\r\n\r\nPlease give your thoughts and suggestions in the comments. Thank you.\r\n\ud83d\ude18Love and peace",
+    "id": 66359,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66359\/easy-strawberry-and-blueberry-cobbler-recipe-from-nordstrom.jpg",
+    "updated_at": "2020-12-12T11:51:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Berry Cobbler ala Mode",
+            "flavor_id": "8499",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Dough",
+            "flavor_id": "4406",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "606",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "TamVapes",
+    "views": "2542",
+    "created_at": "2017-10-02",
+    "slug": "bleeding_berry_cobbler",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66359.jpg",
+    "total_flavoring": "7.75%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Daytimefrank1",
+            "score": 5,
+            "text": "Delicious! The bakery and fruits are well balanced. Loaded up my squonker with this and my tastebuds are really happy that I did!"
+        },
+        {
+            "user": "Jerikorayne",
+            "score": 5,
+            "text": "I think you did a really great job here it tastes just as you say the power of suggestion is huge and your description is spot on &#xD;\nI will be making a 120ml of this for my steep box &#xD;\nGood jobs ! Sir "
+        }
+    ]
 }

@@ -1,75 +1,77 @@
 {
-  "name": "PB  Cookie Crisp",
-  "description": "This is a really unique peanut butter Cookie Flavor.\r\nThe TFA Peanut butter is a must when making a peanut butter cookie flavor as it gives that perfect peanut butter taste.\r\nTFA Bavarian cream gives off a nice sweet flavor that works well in the recipe to really layer it up and give a nice creamy taste to it.\r\nFA Merigue gives the eggy texture that you must have in a cookie.\r\nCap sugar cookie is my go to cookie flavor for making the  a cookie flavor. This flavor makes any cookie recipe feel like you just came from moms house after her baking fresh baked cookies. \r\nFA caramel really helps to make TFA peanut butter really pop and give off awesome flavor.\r\nInw The biscuit adds to make it have that nice pastry note and gives the recipe a nice tart to it without overpowering it. \r\nDFS peanut Really gives the nuttiness and saltiness of a peanut butter cookie.\r\nCap French vanilla adds the vanilla flavoring that really makes the cookie a cookie. \r\nYou can add one drop of Cap super sweet per 30 ml to sweeten if you like. ",
-  "id": 31461,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31461/IMG_0064.JPG",
-  "updated_at": "2020-12-08T00:49:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "AR Peanut (PG)",
-      "flavor_id": "4945",
-      "millipercent": 500,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1399",
-  "slug": "pb_cookie_crisp",
-  "total_flavoring": "15.25%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I mixed it without the DFS peanut, and it's a nice rich PB wafer.  Definitely one of the better TPA peanut butter recipes I've had in a while."
-    }
-  ]
+    "name": "PB  Cookie Crisp",
+    "description": "This is a really unique peanut butter Cookie Flavor.\r\nThe TFA Peanut butter is a must when making a peanut butter cookie flavor as it gives that perfect peanut butter taste.\r\nTFA Bavarian cream gives off a nice sweet flavor that works well in the recipe to really layer it up and give a nice creamy taste to it.\r\nFA Merigue gives the eggy texture that you must have in a cookie.\r\nCap sugar cookie is my go to cookie flavor for making the  a cookie flavor. This flavor makes any cookie recipe feel like you just came from moms house after her baking fresh baked cookies. \r\nFA caramel really helps to make TFA peanut butter really pop and give off awesome flavor.\r\nInw The biscuit adds to make it have that nice pastry note and gives the recipe a nice tart to it without overpowering it. \r\nDFS peanut Really gives the nuttiness and saltiness of a peanut butter cookie.\r\nCap French vanilla adds the vanilla flavoring that really makes the cookie a cookie. \r\nYou can add one drop of Cap super sweet per 30 ml to sweeten if you like. ",
+    "id": 31461,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31461\/IMG_0064.JPG",
+    "updated_at": "2020-12-12T20:28:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "AR Peanut (PG)",
+            "flavor_id": "4945",
+            "millipercent": 500,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1406",
+    "created_at": "2017-02-11",
+    "slug": "pb_cookie_crisp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/31461.JPG",
+    "total_flavoring": "15.25%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I mixed it without the DFS peanut, and it's a nice rich PB wafer.  Definitely one of the better TPA peanut butter recipes I've had in a while."
+        }
+    ]
 }

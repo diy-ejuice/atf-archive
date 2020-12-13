@@ -1,50 +1,50 @@
 {
-  "name": "Heaven & Hell",
-  "description": "This recipe is all about contrast. Fiery and bold tobaccos paired with a bright and sweet mix of cream, vanilla, and caramel.",
-  "id": 88962,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88962/Heaven-and-Hell.jpg",
-  "updated_at": "2020-12-06T04:11:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 2500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 4000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "151",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "MopHead",
-  "views": "1385",
-  "slug": "heaven_hell",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Heaven & Hell",
+    "description": "This recipe is all about contrast. Fiery and bold tobaccos paired with a bright and sweet mix of cream, vanilla, and caramel.",
+    "id": 88962,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/88962\/Heaven-and-Hell.jpg",
+    "updated_at": "2020-12-10T17:57:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 2500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 4000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "151",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "MopHead",
+    "views": "1392",
+    "created_at": "2018-02-18",
+    "slug": "heaven_hell",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/88962.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

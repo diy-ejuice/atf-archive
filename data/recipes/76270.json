@@ -1,38 +1,38 @@
 {
-  "name": "Werther's Ice Cream",
-  "description": "Werther's candy ice cream. Work in progress, need to order more flavors.",
-  "id": 76270,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/76270/43_Werther_S_Original_Hard_-_Qu80_RT1600x1024-_OS879x653-_RD879x653-.jpg",
-  "updated_at": "2020-12-07T21:32:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "150",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DrumPunkD",
-  "views": "1929",
-  "slug": "werthers_ice_cream",
-  "total_flavoring": "10.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Werther's Ice Cream",
+    "description": "Werther's candy ice cream. Work in progress, need to order more flavors.",
+    "id": 76270,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/76270\/43_Werther_S_Original_Hard_-_Qu80_RT1600x1024-_OS879x653-_RD879x653-.jpg",
+    "updated_at": "2020-12-11T21:44:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "150",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DrumPunkD",
+    "views": "1937",
+    "created_at": "2017-11-27",
+    "slug": "werthers_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/76270.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

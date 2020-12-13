@@ -1,56 +1,56 @@
 {
-  "name": "Me Lychee",
-  "description": "I really like CAP sweet lychee and want to make a recipe around it. I developed this a while ago when INW cactus was all the rage and wanted to integrate it, too. I want to tinker with the levels a little but it is a very refreshing all day fruit blend. It even brings to mind the *juiciness* and *fruitiness* of a certain popular gum. I've also bumped the koolada and made it a high nic-salt mix for a pod before and it worked well.",
-  "id": 42421,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/42421/lychee_png_edited.jpeg",
-  "updated_at": "2020-12-07T02:15:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Lychee",
-      "flavor_id": "119",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "TendiesNApplesauce",
-  "views": "1235",
-  "slug": "me_lychee",
-  "total_flavoring": "8.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Me Lychee",
+    "description": "I really like CAP sweet lychee and want to make a recipe around it. I developed this a while ago when INW cactus was all the rage and wanted to integrate it, too. I want to tinker with the levels a little but it is a very refreshing all day fruit blend. It even brings to mind the *juiciness* and *fruitiness* of a certain popular gum. I've also bumped the koolada and made it a high nic-salt mix for a pod before and it worked well.",
+    "id": 42421,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/42421\/lychee_png_edited.jpeg",
+    "updated_at": "2020-12-12T01:40:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Lychee",
+            "flavor_id": "119",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "TendiesNApplesauce",
+    "views": "1245",
+    "created_at": "2017-04-22",
+    "slug": "me_lychee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/42421.jpeg",
+    "total_flavoring": "8.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Lemonades Sugar Cookie",
-  "description": "Tastes just like thos lemonades from Girl Scout cookies. I really like this recipe. Has great flavor and a perfect Amount of crunch with the cookie, graham cracker and biscuit added to it. Definetely a must try. You will not be disappointed.\r\n\r\nFor a Strawberry lemonade add 4% strawberry sweet Capellas. Lower FA custard to 1.5% and lemon Sicily to 1% ",
-  "id": 30644,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30644/IMG_0052.JPG",
-  "updated_at": "2020-12-05T09:50:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1451",
-  "slug": "lemonades_sugar_cookie",
-  "total_flavoring": "15.75%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemonades Sugar Cookie",
+    "description": "Tastes just like thos lemonades from Girl Scout cookies. I really like this recipe. Has great flavor and a perfect Amount of crunch with the cookie, graham cracker and biscuit added to it. Definetely a must try. You will not be disappointed.\r\n\r\nFor a Strawberry lemonade add 4% strawberry sweet Capellas. Lower FA custard to 1.5% and lemon Sicily to 1% ",
+    "id": 30644,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30644\/IMG_0052.JPG",
+    "updated_at": "2020-12-11T18:23:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1458",
+    "created_at": "2017-02-06",
+    "slug": "lemonades_sugar_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30644.JPG",
+    "total_flavoring": "15.75%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0"
 }

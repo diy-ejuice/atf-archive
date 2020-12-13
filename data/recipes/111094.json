@@ -1,71 +1,73 @@
 {
-  "name": "Green Breeze",
-  "description": "Just a super simple casual but very tasty and refreshing recipe. This got my wife off of the stinkies....finally! ",
-  "id": 111094,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111094/Cleaned_up_Kiwi.jpg",
-  "updated_at": "2020-12-08T00:50:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "4628",
-  "slug": "green_breeze",
-  "total_flavoring": "8.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "jamiez9806",
-      "score": "5",
-      "text": "This is a VERY good vape. I've been looking for a good cucumber vape and so far this is my ONLY ADV! Awesome work!!"
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Very good recipe mixed another batch immediately after finishing the bottle. Which i very rarely do excellent job. "
-    },
-    {
-      "user": "Screwdriver",
-      "score": "5",
-      "text": "This is astonishingly good. Few ingredient - Massive taste.  A real winner ADV,  congratz and many thx M.  ;)"
-    },
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "Nice simple summer recipe and a good excuse to use up some of my FW Kiwi. The recipe is very tasty and nicely balanced. The kiwi seems to shift the wild melon slightly into honeydew dominant territory and the cucumber is at a perfect level. Mixed max vg so while still tasty I'm probably not doing this recipe much justice so I will try again at 70/30. Great job here, thanks for the recipe"
-    },
-    {
-      "user": "praotec",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Green Breeze",
+    "description": "Just a super simple casual but very tasty and refreshing recipe. This got my wife off of the stinkies....finally! ",
+    "id": 111094,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/111094\/Cleaned_up_Kiwi.jpg",
+    "updated_at": "2020-12-12T08:13:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "4641",
+    "created_at": "2018-07-19",
+    "slug": "green_breeze",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/111094.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "jamiez9806",
+            "score": 5,
+            "text": "This is a VERY good vape. I've been looking for a good cucumber vape and so far this is my ONLY ADV! Awesome work!!"
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Very good recipe mixed another batch immediately after finishing the bottle. Which i very rarely do excellent job. "
+        },
+        {
+            "user": "Screwdriver",
+            "score": 5,
+            "text": "This is astonishingly good. Few ingredient - Massive taste.  A real winner ADV,  congratz and many thx M.  ;)"
+        },
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "Nice simple summer recipe and a good excuse to use up some of my FW Kiwi. The recipe is very tasty and nicely balanced. The kiwi seems to shift the wild melon slightly into honeydew dominant territory and the cucumber is at a perfect level. Mixed max vg so while still tasty I'm probably not doing this recipe much justice so I will try again at 70\/30. Great job here, thanks for the recipe"
+        },
+        {
+            "user": "praotec",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

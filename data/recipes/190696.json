@@ -1,44 +1,44 @@
 {
-  "name": "Tea test V5",
-  "description": "Trying to make a delicious MTL iced tea flavor\r\n\r\nV2 added Green Tea (2%) and sweetener (0.5%) to the mix, lowered R.berry Sweet to 1% from 2%\r\n\r\nV3 brought Green Tea down to 1%\r\n\r\nV4 Green tea up to 1.5%, R.berry up to 2%\r\n\r\nV5 trying to make it more coil friendly, sweet tea from 10 to 6, green tea up by 0.25, and half the SS. Trying peach instead for variety.",
-  "id": 190696,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190696/Clipart-Email-11041677.png",
-  "updated_at": "2020-12-07T10:44:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Green tea",
-      "flavor_id": "9376",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Lwn3",
-  "views": "389",
-  "slug": "tea_test_v5",
-  "total_flavoring": "12.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "68",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tea test V5",
+    "description": "Trying to make a delicious MTL iced tea flavor\r\n\r\nV2 added Green Tea (2%) and sweetener (0.5%) to the mix, lowered R.berry Sweet to 1% from 2%\r\n\r\nV3 brought Green Tea down to 1%\r\n\r\nV4 Green tea up to 1.5%, R.berry up to 2%\r\n\r\nV5 trying to make it more coil friendly, sweet tea from 10 to 6, green tea up by 0.25, and half the SS. Trying peach instead for variety.",
+    "id": 190696,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190696\/Clipart-Email-11041677.png",
+    "updated_at": "2020-12-11T14:09:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Green tea",
+            "flavor_id": "9376",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Lwn3",
+    "views": "396",
+    "created_at": "2020-04-09",
+    "slug": "tea_test_v5",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190696.png",
+    "total_flavoring": "12.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "68"
 }

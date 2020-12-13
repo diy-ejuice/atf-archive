@@ -1,56 +1,58 @@
 {
-  "name": "Sweet potato custard ",
-  "description": "Just an overnight steep required... Pretty sure yam is now available at ecx and bcf.",
-  "id": 83815,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83815/a116931b9bb6af24d83c79680e58317c515ac33d949bdb91f4ed418ef22a32ca.jpg",
-  "updated_at": "2020-12-08T00:49:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yam",
-      "flavor_id": "8575",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Thadentman",
-  "views": "1864",
-  "slug": "sweet_potato_custard",
-  "total_flavoring": "6.1%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "This is really good. Steeped it for a week. It is very well balanced some recipes i have tried with FLV Yam the yam is alittle too powerful but this one the cream and yam ratio is about perfect been vaping on it for 2 days straight and still haven’t got tired of it which is pretty rare for me excellent job and thanks for sharing. "
-    },
-    {
-      "user": "Deejay_mills",
-      "score": "5",
-      "text": "This stuff is great even after a shake. When i got YAM i knew it smelled so good. This recipe has the perfect amount of sweet to savory with that light dose of cinnamon.. great job my dude"
-    }
-  ]
+    "name": "Sweet potato custard ",
+    "description": "Just an overnight steep required... Pretty sure yam is now available at ecx and bcf.",
+    "id": 83815,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83815\/a116931b9bb6af24d83c79680e58317c515ac33d949bdb91f4ed418ef22a32ca.jpg",
+    "updated_at": "2020-12-12T20:29:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yam",
+            "flavor_id": "8575",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Thadentman",
+    "views": "1880",
+    "created_at": "2018-01-15",
+    "slug": "sweet_potato_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83815.jpg",
+    "total_flavoring": "6.1%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "This is really good. Steeped it for a week. It is very well balanced some recipes i have tried with FLV Yam the yam is alittle too powerful but this one the cream and yam ratio is about perfect been vaping on it for 2 days straight and still haven\u2019t got tired of it which is pretty rare for me excellent job and thanks for sharing. "
+        },
+        {
+            "user": "Deejay_mills",
+            "score": 5,
+            "text": "This stuff is great even after a shake. When i got YAM i knew it smelled so good. This recipe has the perfect amount of sweet to savory with that light dose of cinnamon.. great job my dude"
+        }
+    ]
 }

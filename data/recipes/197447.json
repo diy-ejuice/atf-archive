@@ -1,63 +1,65 @@
 {
-  "name": "Bananas and Custard",
-  "description": "Warm vanilla custard with slices of fresh banana. ",
-  "id": 197447,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197447/5.1.1_banana_custard_pot_1.jpg",
-  "updated_at": "2020-12-08T00:51:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 2000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1234",
-  "slug": "bananas_and_custard",
-  "total_flavoring": "13.5%",
-  "steep_days": "14",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "EyeM2sRus",
-      "score": "5",
-      "text": "This just looks AWESOME"
-    }
-  ]
+    "name": "Bananas and Custard",
+    "description": "Warm vanilla custard with slices of fresh banana. ",
+    "id": 197447,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197447\/5.1.1_banana_custard_pot_1.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 2000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1247",
+    "created_at": "2020-06-11",
+    "slug": "bananas_and_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197447.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "14",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "EyeM2sRus",
+            "score": 5,
+            "text": "This just looks AWESOME"
+        }
+    ]
 }

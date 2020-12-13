@@ -1,81 +1,82 @@
 {
-  "name": "the rebels cheesecake",
-  "description": "this would be a cereal cheesecake for a nice desert after a nice dinner",
-  "id": 27340,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fruit Pebbles – Super Concentrate",
-      "flavor_id": "7896",
-      "millipercent": 3000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1098",
-  "slug": "the_rebels_cheesecake",
-  "total_flavoring": "17.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "110",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "the rebels cheesecake",
+    "description": "this would be a cereal cheesecake for a nice desert after a nice dinner",
+    "id": 27340,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fruit Pebbles \u2013 Super Concentrate",
+            "flavor_id": "7896",
+            "millipercent": 3000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1107",
+    "created_at": "2017-01-17",
+    "slug": "the_rebels_cheesecake",
+    "total_flavoring": "17.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "110",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

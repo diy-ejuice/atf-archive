@@ -1,69 +1,71 @@
 {
-  "name": "Bread Pudding",
-  "description": "A delicious bread pudding with custard. \r\n\r\nIn my honest opinion, this really does taste very authentic. The light eggy baked bread leaving a lovely sweet raisin coating on your palette with the back notes of vanilla custard. \r\n\r\nMy favourite childhood dessert just how I remember it, but in vape form 😁",
-  "id": 154008,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154008/Bread-Pudding-Recipe-Image.jpg",
-  "updated_at": "2020-12-08T00:50:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bread Pudding",
-      "flavor_id": "1985",
-      "millipercent": 4000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1324",
-  "slug": "bread_pudding",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lionhrt9",
-      "score": "5",
-      "text": "hey this is a great bread pudding mix. I did have to sub for nonna cake.  I wanna say I used deep fried pastry dough or funnel cake as a sub.  its steeped for 2 weeks and didnt take notes but I will be making more of this as you nailed the percentages!!  thanks for sharing"
-    }
-  ]
+    "name": "Bread Pudding",
+    "description": "A delicious bread pudding with custard. \r\n\r\nIn my honest opinion, this really does taste very authentic. The light eggy baked bread leaving a lovely sweet raisin coating on your palette with the back notes of vanilla custard. \r\n\r\nMy favourite childhood dessert just how I remember it, but in vape form \ud83d\ude01",
+    "id": 154008,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154008\/Bread-Pudding-Recipe-Image.jpg",
+    "updated_at": "2020-12-12T18:30:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bread Pudding",
+            "flavor_id": "1985",
+            "millipercent": 4000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1330",
+    "created_at": "2019-06-02",
+    "slug": "bread_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154008.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lionhrt9",
+            "score": 5,
+            "text": "hey this is a great bread pudding mix. I did have to sub for nonna cake.  I wanna say I used deep fried pastry dough or funnel cake as a sub.  its steeped for 2 weeks and didnt take notes but I will be making more of this as you nailed the percentages!!  thanks for sharing"
+        }
+    ]
 }

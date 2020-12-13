@@ -1,62 +1,62 @@
 {
-  "name": "Peach Rings",
-  "description": "This recipe owes a lot to the other Peach Ring recipes on ATF. Primarily one that used RF Gummy Candy in it (the creator has since taken it down). All the other Peach Rings I've tried have been lacking compared to it, so I did my best here to recreate it. Give it two days for ideal flavor. ",
-  "id": 127722,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127722/Gummy-Rings-Peach.jpg",
-  "updated_at": "2020-12-07T23:37:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach Gummy",
-      "flavor_id": "4313",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Gummy Candy",
-      "flavor_id": "2262",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Clearkill",
-  "views": "2156",
-  "slug": "peach_rings",
-  "total_flavoring": "8.25%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach Rings",
+    "description": "This recipe owes a lot to the other Peach Ring recipes on ATF. Primarily one that used RF Gummy Candy in it (the creator has since taken it down). All the other Peach Rings I've tried have been lacking compared to it, so I did my best here to recreate it. Give it two days for ideal flavor. ",
+    "id": 127722,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127722\/Gummy-Rings-Peach.jpg",
+    "updated_at": "2020-12-11T21:44:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach Gummy",
+            "flavor_id": "4313",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Gummy Candy",
+            "flavor_id": "2262",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Clearkill",
+    "views": "2177",
+    "created_at": "2018-11-17",
+    "slug": "peach_rings",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127722.jpg",
+    "total_flavoring": "8.25%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

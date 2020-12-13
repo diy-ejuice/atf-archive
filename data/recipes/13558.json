@@ -1,51 +1,53 @@
 {
-  "name": "Claim Your Clone",
-  "description": "A remixed version of \"Claim Your Throne\" by King's Crown aka Suicide Bunny... This is another that is widely posted by bunches of mixers across the interwebs, so I don't know where to give original credit to... \r\n\r\nDefinitely don't think it's a real clone, but it's a tasty remix... Enjoy!",
-  "id": 13558,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13558/Kings_Crown_Claim_Your_Throne_large.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "2653",
-  "slug": "claim_your_clone",
-  "total_flavoring": "14.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "VaperKitten",
-      "score": "5",
-      "text": "I used FW Butter Ripple because it is what I had on hand but amazing...so simple but so good.  Good right off the mixing board but so much better when steeped.  Love to you...Love to all...Kitten.....Yummy"
-    }
-  ]
+    "name": "Claim Your Clone",
+    "description": "A remixed version of \"Claim Your Throne\" by King's Crown aka Suicide Bunny... This is another that is widely posted by bunches of mixers across the interwebs, so I don't know where to give original credit to... \r\n\r\nDefinitely don't think it's a real clone, but it's a tasty remix... Enjoy!",
+    "id": 13558,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13558\/Kings_Crown_Claim_Your_Throne_large.jpg",
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "2662",
+    "created_at": "2016-09-16",
+    "slug": "claim_your_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13558.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "VaperKitten",
+            "score": 5,
+            "text": "I used FW Butter Ripple because it is what I had on hand but amazing...so simple but so good.  Good right off the mixing board but so much better when steeped.  Love to you...Love to all...Kitten.....Yummy"
+        }
+    ]
 }

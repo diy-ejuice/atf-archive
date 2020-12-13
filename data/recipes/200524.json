@@ -1,68 +1,67 @@
 {
-  "name": "Pumpkin 🎃 pie 🥧 milkshake ",
-  "description": "well I guess that Im in the mood for pumpkin stuff already and I came up with a pumpkin 🎃 pie 🥧 🥛 recipe and its a work in progress give it a shot guys ",
-  "id": 200524,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Milkshake",
-      "flavor_id": "10224",
-      "millipercent": 4000,
-      "vendor": "NR"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "1387",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Frozen Yogurt SC",
-      "flavor_id": "8369",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cinnamon Sugar",
-      "flavor_id": "8741",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "460",
-  "slug": "pumpkin_pie_milkshake",
-  "total_flavoring": "12.25%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pumpkin \ud83c\udf83 pie \ud83e\udd67 milkshake ",
+    "description": "well I guess that Im in the mood for pumpkin stuff already and I came up with a pumpkin \ud83c\udf83 pie \ud83e\udd67 \ud83e\udd5b recipe and its a work in progress give it a shot guys ",
+    "id": 200524,
+    "image_url": null,
+    "updated_at": "2020-12-11T18:25:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Milkshake",
+            "flavor_id": "10224",
+            "millipercent": 4000,
+            "vendor": "NR"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "1387",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Frozen Yogurt SC",
+            "flavor_id": "8369",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cinnamon Sugar",
+            "flavor_id": "8741",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "468",
+    "created_at": "2020-07-14",
+    "slug": "pumpkin_pie_milkshake",
+    "total_flavoring": "12.25%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "110"
 }

@@ -1,45 +1,46 @@
 {
-  "name": "Strawberry Taffy",
-  "description": "It tastes a lot like taffy that is strawberry flavored.",
-  "id": 125613,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Taffy",
-      "flavor_id": "4164",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BeardedFolk",
-  "views": "1631",
-  "slug": "strawberry_taffy",
-  "total_flavoring": "11.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "photohap",
-      "score": "4",
-      "text": "Decent vape.  Does taste like taffy.  I left out the super sweet by accident, still sweet enough for me."
-    }
-  ]
+    "name": "Strawberry Taffy",
+    "description": "It tastes a lot like taffy that is strawberry flavored.",
+    "id": 125613,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Taffy",
+            "flavor_id": "4164",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BeardedFolk",
+    "views": "1640",
+    "created_at": "2018-11-02",
+    "slug": "strawberry_taffy",
+    "total_flavoring": "11.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "photohap",
+            "score": 4,
+            "text": "Decent vape.  Does taste like taffy.  I left out the super sweet by accident, still sweet enough for me."
+        }
+    ]
 }

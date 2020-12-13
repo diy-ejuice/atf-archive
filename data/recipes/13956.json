@@ -1,74 +1,76 @@
 {
-  "name": "Dewey cannoli ",
-  "description": "My updated contest cannoli recipe taking all the others for inspiration and tweaking my original.",
-  "id": 13956,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13956/cannoli-spot1.0.jpg",
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Deweysuds",
-  "views": "2274",
-  "slug": "dewey_cannoli",
-  "total_flavoring": "11.25%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is the cannoli recipe to rule them all.  I've had this steeping only a week and it's just damn delicious."
-    }
-  ]
+    "name": "Dewey cannoli ",
+    "description": "My updated contest cannoli recipe taking all the others for inspiration and tweaking my original.",
+    "id": 13956,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13956\/cannoli-spot1.0.jpg",
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Deweysuds",
+    "views": "2282",
+    "created_at": "2016-09-19",
+    "slug": "dewey_cannoli",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13956.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is the cannoli recipe to rule them all.  I've had this steeping only a week and it's just damn delicious."
+        }
+    ]
 }

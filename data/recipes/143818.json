@@ -1,74 +1,73 @@
 {
-  "name": "Arnold Plumber revisted ",
-  "description": "My take on an Arnold Palmer updated with a smoother mix and less angst. While originally created as a concept mix, I did actually enjoy it. This is an updated version largely improved and yet different from original in many profound ways. It is a reimagining of life after being focused on problems, this here is the solution.\r\n\r\nMain Note:\r\nINW Plum/FA BC - Not very many recipes use Plum, but I loved its dryness, yet it was just a hair short of full. Plum to me is a bit thin at 1 and at 2 it's at it's limit. I wanted to give it a deeper fruity vibe and sweeten it up so I went with FA Black Cherry, and a touch of FW Sweetener.\r\n\r\nBase:\r\nFA Black Tea/VT Lemonade Clear/VT Sour lemon - This combo was used to create a lighter tea feel and a less sweet lemonade base to fit the dryness of the fruit. FA BT can probably be bumped up a bit if you want more tea out of it or maybe add a support with something less intense/more forgiving.\r\n\r\nAccents:\r\n\r\nFLV Yakima Hops/Pink Guava/INW Cactus - This adds some very slight funk to the whole mix that at these low levels adds just a hint of tropical funk and wetness. It folds under the rest quite nicely to me.\r\n\r\n(Optional) Coolant:\r\nFA Polar blast - I also mix this with Polar Blast at 0.4%,",
-  "id": 143818,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:32:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Plum",
-      "flavor_id": "810",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherryl (cherry, Black)",
-      "flavor_id": "468",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemonade Clear",
-      "flavor_id": "8916",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Tea Black Water Soluble",
-      "flavor_id": "548",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour Lemon",
-      "flavor_id": "8971",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 400,
-      "vendor": "INW"
-    }
-  ],
-  "author": "nowar",
-  "views": "1092",
-  "slug": "arnold_plumber_revisted",
-  "total_flavoring": "12.15%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Arnold Plumber revisted ",
+    "description": "My take on an Arnold Palmer updated with a smoother mix and less angst. While originally created as a concept mix, I did actually enjoy it. This is an updated version largely improved and yet different from original in many profound ways. It is a reimagining of life after being focused on problems, this here is the solution.\r\n\r\nMain Note:\r\nINW Plum\/FA BC - Not very many recipes use Plum, but I loved its dryness, yet it was just a hair short of full. Plum to me is a bit thin at 1 and at 2 it's at it's limit. I wanted to give it a deeper fruity vibe and sweeten it up so I went with FA Black Cherry, and a touch of FW Sweetener.\r\n\r\nBase:\r\nFA Black Tea\/VT Lemonade Clear\/VT Sour lemon - This combo was used to create a lighter tea feel and a less sweet lemonade base to fit the dryness of the fruit. FA BT can probably be bumped up a bit if you want more tea out of it or maybe add a support with something less intense\/more forgiving.\r\n\r\nAccents:\r\n\r\nFLV Yakima Hops\/Pink Guava\/INW Cactus - This adds some very slight funk to the whole mix that at these low levels adds just a hint of tropical funk and wetness. It folds under the rest quite nicely to me.\r\n\r\n(Optional) Coolant:\r\nFA Polar blast - I also mix this with Polar Blast at 0.4%,",
+    "id": 143818,
+    "image_url": null,
+    "updated_at": "2020-12-12T06:59:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Plum",
+            "flavor_id": "810",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherryl (cherry, Black)",
+            "flavor_id": "468",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemonade Clear",
+            "flavor_id": "8916",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Tea Black Water Soluble",
+            "flavor_id": "548",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour Lemon",
+            "flavor_id": "8971",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 400,
+            "vendor": "INW"
+        }
+    ],
+    "author": "nowar",
+    "views": "1102",
+    "created_at": "2019-03-23",
+    "slug": "arnold_plumber_revisted",
+    "total_flavoring": "12.15%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

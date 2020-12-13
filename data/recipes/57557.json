@@ -1,57 +1,58 @@
 {
-  "name": "Pumpkin Spice Waffle by SkiddlZ",
-  "description": "Warm Belgian waffle with pumpkin spice and a dallop of buttery cream.",
-  "id": 57557,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Belgian Waffle",
-      "flavor_id": "1478",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "1270",
-  "slug": "pumpkin_spice_waffle_by_skiddlz",
-  "total_flavoring": "11.05%",
-  "steep_days": "6969 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 2,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "2",
-      "text": "Excellent idea, unvapable results. The throat hit from 8% Belgian Waffle is fierce. If you're looking for a Pumpkin Spice Waffle, steer clear of this one and try adding 0.75% FLV Pumpkin Spice to \"Waffle Pop\" by Chrisdvr1, which uses the same Belgian Waffle flavor at a much more palatable level, along with making better use of buttery creams to smooth it out. "
-    }
-  ]
+    "name": "Pumpkin Spice Waffle by SkiddlZ",
+    "description": "Warm Belgian waffle with pumpkin spice and a dallop of buttery cream.",
+    "id": 57557,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Belgian Waffle",
+            "flavor_id": "1478",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "1274",
+    "created_at": "2017-07-29",
+    "slug": "pumpkin_spice_waffle_by_skiddlz",
+    "total_flavoring": "11.05%",
+    "steep_days": "6969 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 2,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 2,
+            "text": "Excellent idea, unvapable results. The throat hit from 8% Belgian Waffle is fierce. If you're looking for a Pumpkin Spice Waffle, steer clear of this one and try adding 0.75% FLV Pumpkin Spice to \"Waffle Pop\" by Chrisdvr1, which uses the same Belgian Waffle flavor at a much more palatable level, along with making better use of buttery creams to smooth it out. "
+        }
+    ]
 }

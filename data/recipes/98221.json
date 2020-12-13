@@ -1,51 +1,53 @@
 {
-  "name": "Wicked Regrets",
-  "description": "An explosive bittersweet pom mixed with tart-like, candy-ish blueberry and slight vanilla undertone. Still a work in progress.",
-  "id": 98221,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/98221/fogman.png",
-  "updated_at": "2020-12-08T00:50:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 3700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "fogman",
-  "views": "955",
-  "slug": "wicked_regrets",
-  "total_flavoring": "8.2%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "I was unsure of this at first, with pomegranate used so high.  It's definitely a punch in the mouth when you first try it,  but once the shock wears off it's a pretty damn good recipe.  Obviously pomegranate is the elephant in the room, and it seems to me that the other flavors are knocking the rough edges off rather than adding much of their own flavor...but it just works, and works well."
-    }
-  ]
+    "name": "Wicked Regrets",
+    "description": "An explosive bittersweet pom mixed with tart-like, candy-ish blueberry and slight vanilla undertone. Still a work in progress.",
+    "id": 98221,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/98221\/fogman.png",
+    "updated_at": "2020-12-12T14:06:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 3700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "fogman",
+    "views": "963",
+    "created_at": "2018-04-24",
+    "slug": "wicked_regrets",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/98221.png",
+    "total_flavoring": "8.2%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "I was unsure of this at first, with pomegranate used so high.  It's definitely a punch in the mouth when you first try it,  but once the shock wears off it's a pretty damn good recipe.  Obviously pomegranate is the elephant in the room, and it seems to me that the other flavors are knocking the rough edges off rather than adding much of their own flavor...but it just works, and works well."
+        }
+    ]
 }

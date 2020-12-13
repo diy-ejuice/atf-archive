@@ -1,50 +1,50 @@
 {
-  "name": "Custard Puffs",
-  "description": "It's those dense little custard puffs you used to be able to buy at the local bakery. Light but moist pastry with a pudding like custard and sprinkled with powdered sugar. A throwback to my childhood. ",
-  "id": 129692,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129692/Capture.JPG",
-  "updated_at": "2020-12-07T09:44:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Crepe SC",
-      "flavor_id": "8365",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "hibbadoray",
-  "views": "1438",
-  "slug": "custard_puffs",
-  "total_flavoring": "9.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Custard Puffs",
+    "description": "It's those dense little custard puffs you used to be able to buy at the local bakery. Light but moist pastry with a pudding like custard and sprinkled with powdered sugar. A throwback to my childhood. ",
+    "id": 129692,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/129692\/Capture.JPG",
+    "updated_at": "2020-12-11T14:08:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Crepe SC",
+            "flavor_id": "8365",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "hibbadoray",
+    "views": "1449",
+    "created_at": "2018-12-01",
+    "slug": "custard_puffs",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/129692.JPG",
+    "total_flavoring": "9.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

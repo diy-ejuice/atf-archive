@@ -1,62 +1,62 @@
 {
-  "name": "B.lush",
-  "description": "A ridiculously delicious mix of fruits both sweet and sour. This juice is sure to make your mouth water and have you squeezing your bottle to get the last drops. ",
-  "id": 62976,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62976/tropical-1651423_960_720.jpg",
-  "updated_at": "2020-12-05T19:49:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple (tart Granny Smith)",
-      "flavor_id": "205",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Guava",
-      "flavor_id": "1305",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "1372",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cherry Berry",
-      "flavor_id": "1239",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Squanderrr",
-  "views": "1541",
-  "slug": "blush",
-  "total_flavoring": "14.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "B.lush",
+    "description": "A ridiculously delicious mix of fruits both sweet and sour. This juice is sure to make your mouth water and have you squeezing your bottle to get the last drops. ",
+    "id": 62976,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62976\/tropical-1651423_960_720.jpg",
+    "updated_at": "2020-12-12T02:44:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple (tart Granny Smith)",
+            "flavor_id": "205",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Guava",
+            "flavor_id": "1305",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "1372",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cherry Berry",
+            "flavor_id": "1239",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Squanderrr",
+    "views": "1548",
+    "created_at": "2017-09-08",
+    "slug": "blush",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62976.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

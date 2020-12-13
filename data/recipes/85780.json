@@ -1,38 +1,38 @@
 {
-  "name": "Lime & Lemon Soda",
-  "description": "Tastes just like 7UP. Maybe add WS-23 (30%) at 0.5 to 1%, if you want a cold feel to the juice. Hope you enjoy it..",
-  "id": 85780,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85780/Lemon-Lime.jpg",
-  "updated_at": "2020-11-29T13:26:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Lime Soda SC",
-      "flavor_id": "8372",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "8062282",
-  "views": "2054",
-  "slug": "lime_lemon_soda",
-  "total_flavoring": "5.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lime & Lemon Soda",
+    "description": "Tastes just like 7UP. Maybe add WS-23 (30%) at 0.5 to 1%, if you want a cold feel to the juice. Hope you enjoy it..",
+    "id": 85780,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85780\/Lemon-Lime.jpg",
+    "updated_at": "2020-12-12T17:11:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Lime Soda SC",
+            "flavor_id": "8372",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "8062282",
+    "views": "2065",
+    "created_at": "2018-01-28",
+    "slug": "lime_lemon_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85780.jpg",
+    "total_flavoring": "5.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

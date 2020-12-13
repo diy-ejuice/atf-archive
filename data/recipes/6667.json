@@ -1,51 +1,53 @@
 {
-  "name": "Katy Pearry",
-  "description": "A peachy Honey Pearry remix. This is a full-flavored vape that's round and juicy and sweet and tastes like a Teenage Dream. ",
-  "id": 6667,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6667/Katy_Perry_Blue_Hair__4_.JPG",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "5005",
-  "slug": "katy_pearry",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "69%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CatWillMew",
-      "score": "5",
-      "text": "I get a really off flavor from TPA Pear (it literally makes me feel ill), so I subbed in FA Pear for this.  I really enjoy it this way, and wouldn't say it changes the flavor profile much.  Highly recommend it as a summertime vape.  "
-    }
-  ]
+    "name": "Katy Pearry",
+    "description": "A peachy Honey Pearry remix. This is a full-flavored vape that's round and juicy and sweet and tastes like a Teenage Dream. ",
+    "id": 6667,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6667\/Katy_Perry_Blue_Hair__4_.JPG",
+    "updated_at": "2020-12-12T10:32:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "5016",
+    "created_at": "2016-07-05",
+    "slug": "katy_pearry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6667.JPG",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "69%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CatWillMew",
+            "score": 5,
+            "text": "I get a really off flavor from TPA Pear (it literally makes me feel ill), so I subbed in FA Pear for this.  I really enjoy it this way, and wouldn't say it changes the flavor profile much.  Highly recommend it as a summertime vape.  "
+        }
+    ]
 }

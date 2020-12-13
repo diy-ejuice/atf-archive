@@ -1,57 +1,58 @@
 {
-  "name": "Wapple",
-  "description": "A simple watermelon apple. Best after 3 days for the cactus to settle, but still good as a shake n vape. ",
-  "id": 13887,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 3500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ThomasChirafisi",
-  "views": "4666",
-  "slug": "wapple",
-  "total_flavoring": "10.75%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Wafflepriest1",
-      "score": "5",
-      "text": "I love this stuff. A slightly candied, definitely sweet watermelon and apple combo. The strawberry isn't noticeable as a flavor by itself, but it does add a fruity sweetness to the FA Fuji and helps it blend with LA Watermelon. TPA marshmallow adds density to the body of the vape and cactus makes the mix more 'juicy' and almost gives it the mouthwatering feeling a jolly rancher has. It is a touch harsh on the throat but it is very little and I don't mind it. If you like sweet/candy fruit mixes, give this one a try.  "
-    }
-  ]
+    "name": "Wapple",
+    "description": "A simple watermelon apple. Best after 3 days for the cactus to settle, but still good as a shake n vape. ",
+    "id": 13887,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 3500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ThomasChirafisi",
+    "views": "4678",
+    "created_at": "2016-09-18",
+    "slug": "wapple",
+    "total_flavoring": "10.75%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Wafflepriest1",
+            "score": 5,
+            "text": "I love this stuff. A slightly candied, definitely sweet watermelon and apple combo. The strawberry isn't noticeable as a flavor by itself, but it does add a fruity sweetness to the FA Fuji and helps it blend with LA Watermelon. TPA marshmallow adds density to the body of the vape and cactus makes the mix more 'juicy' and almost gives it the mouthwatering feeling a jolly rancher has. It is a touch harsh on the throat but it is very little and I don't mind it. If you like sweet\/candy fruit mixes, give this one a try.  "
+        }
+    ]
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Float the Boat",
-  "description": "Creamy Root beer float. Inspired by Kalamazoo's very own WMU Broncos and their amazing year in the FBS. Kalamazoo is known for its craft brews and Root beer is no exception as I can remember having a hard Rootbeer at a brewery awhile back and it was absolutely delicious. This is pretty good as a shake and vape but really comes together after 3 days. I added the butterscotch ripple and dulche de leche to add some depth to the root beer float. The rest is just part of a Ice cream base i've been working on. Give it ago and let me know if ya like it I know I do and im not really a fan of root beer but its very tasty and a nice break from the norm for me. ",
-  "id": 25377,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25377/row_the_boat.jpg",
-  "updated_at": "2020-12-08T00:48:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer Float",
-      "flavor_id": "368",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "160",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MixinDAD",
-  "views": "1359",
-  "slug": "float_the_boat",
-  "total_flavoring": "10.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "goldemi1",
-      "score": "5",
-      "text": "For some reason can't comment in the discussion section, so will here.  This is the most interesting root beer recipe I've seen.  How did it turn out?  Would you technically call it a 'root beer float' recipe given the dulce de leche and butterscotch, or is it something very different?  Nonetheless think I'll have to try it as seems simple and deliciously different."
-    }
-  ]
+    "name": "Float the Boat",
+    "description": "Creamy Root beer float. Inspired by Kalamazoo's very own WMU Broncos and their amazing year in the FBS. Kalamazoo is known for its craft brews and Root beer is no exception as I can remember having a hard Rootbeer at a brewery awhile back and it was absolutely delicious. This is pretty good as a shake and vape but really comes together after 3 days. I added the butterscotch ripple and dulche de leche to add some depth to the root beer float. The rest is just part of a Ice cream base i've been working on. Give it ago and let me know if ya like it I know I do and im not really a fan of root beer but its very tasty and a nice break from the norm for me. ",
+    "id": 25377,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/25377\/row_the_boat.jpg",
+    "updated_at": "2020-12-12T18:29:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer Float",
+            "flavor_id": "368",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "160",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MixinDAD",
+    "views": "1372",
+    "created_at": "2017-01-05",
+    "slug": "float_the_boat",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/25377.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "goldemi1",
+            "score": 5,
+            "text": "For some reason can't comment in the discussion section, so will here.  This is the most interesting root beer recipe I've seen.  How did it turn out?  Would you technically call it a 'root beer float' recipe given the dulce de leche and butterscotch, or is it something very different?  Nonetheless think I'll have to try it as seems simple and deliciously different."
+        }
+    ]
 }

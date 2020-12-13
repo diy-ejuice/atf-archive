@@ -1,38 +1,37 @@
 {
-  "name": "Yammy Eggnog #FLV",
-  "description": "Sweetened Eggnog with Yam.\r\nVery special mix, not convenient for everyone.\r\n\r\nFLV Sweetness could be replaced by CAP Super Sweet @0.25%.\r\nMaybe you need some extra Sweetness.\r\n\r\nOptimized for 50/50 VG/PG vaped MTL in Flash-e-Vapor V4.5.\r\nOriginally developed for the #DevelopedFLV contest. I like it, but only one recipe is allowed.",
-  "id": 206681,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yam",
-      "flavor_id": "8575",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "dampfer78",
-  "views": "296",
-  "slug": "yammy_eggnog_flv",
-  "total_flavoring": "2.8%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Yammy Eggnog #FLV",
+    "description": "Sweetened Eggnog with Yam.\r\nVery special mix, not convenient for everyone.\r\n\r\nFLV Sweetness could be replaced by CAP Super Sweet @0.25%.\r\nMaybe you need some extra Sweetness.\r\n\r\nOptimized for 50\/50 VG\/PG vaped MTL in Flash-e-Vapor V4.5.\r\nOriginally developed for the #DevelopedFLV contest. I like it, but only one recipe is allowed.",
+    "id": 206681,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:13:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yam",
+            "flavor_id": "8575",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "dampfer78",
+    "views": "304",
+    "created_at": "2020-10-06",
+    "slug": "yammy_eggnog_flv",
+    "total_flavoring": "2.8%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

@@ -1,38 +1,37 @@
 {
-  "name": "Orange Dragon",
-  "description": "an orange flavor i found and am working  on to find the sweet spot. welcome and comments of this flavor. ",
-  "id": 164311,
-  "image_url": null,
-  "updated_at": "2020-12-05T17:45:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream ",
-      "flavor_id": "9951",
-      "millipercent": 5500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragon Fruit",
-      "flavor_id": "9953",
-      "millipercent": 3400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 8800,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "kenny61",
-  "views": "822",
-  "slug": "orange_dragon",
-  "total_flavoring": "17.7%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Dragon",
+    "description": "an orange flavor i found and am working  on to find the sweet spot. welcome and comments of this flavor. ",
+    "id": 164311,
+    "image_url": null,
+    "updated_at": "2020-12-11T19:42:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream ",
+            "flavor_id": "9951",
+            "millipercent": 5500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragon Fruit",
+            "flavor_id": "9953",
+            "millipercent": 3400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 8800,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "kenny61",
+    "views": "831",
+    "created_at": "2019-08-24",
+    "slug": "orange_dragon",
+    "total_flavoring": "17.7%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

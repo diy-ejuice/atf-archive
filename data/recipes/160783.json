@@ -1,44 +1,44 @@
 {
-  "name": "Cobble Stone",
-  "description": "The goal here is to emulate a thick bready peach cobbler using only LB flavors. I feel I'm on the right track but I feel like something is missing. That being said, this mix is in my daily rotation and enjoyed by friends and family. I hope you enjoy and feel free to leave any suggestions if you have any.",
-  "id": 160783,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160783/Peach-Cobbler-Site-2.jpg",
-  "updated_at": "2020-12-07T17:35:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach",
-      "flavor_id": "1497",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Bakers Touch",
-      "flavor_id": "1476",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Belgian Waffle",
-      "flavor_id": "1478",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "1487",
-      "millipercent": 2000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "robolto78",
-  "views": "796",
-  "slug": "cobble_stone",
-  "total_flavoring": "12.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cobble Stone",
+    "description": "The goal here is to emulate a thick bready peach cobbler using only LB flavors. I feel I'm on the right track but I feel like something is missing. That being said, this mix is in my daily rotation and enjoyed by friends and family. I hope you enjoy and feel free to leave any suggestions if you have any.",
+    "id": 160783,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160783\/Peach-Cobbler-Site-2.jpg",
+    "updated_at": "2020-12-11T04:39:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach",
+            "flavor_id": "1497",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Bakers Touch",
+            "flavor_id": "1476",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Belgian Waffle",
+            "flavor_id": "1478",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "1487",
+            "millipercent": 2000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "robolto78",
+    "views": "802",
+    "created_at": "2019-07-26",
+    "slug": "cobble_stone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/160783.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Caramilk (DMC Milk Challenge)",
-  "description": "my goal was to make a milk vape that imitates high end coffee creamer, the milk I used was TPA DX Milk ( did not have that option when entering recipe)",
-  "id": 86310,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86310/2018-01-31_17.20.09.png",
-  "updated_at": "2020-12-07T22:32:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "194",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 330,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1236",
-  "slug": "caramilk_dmc_milk_challenge",
-  "total_flavoring": "13.33%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Caramilk (DMC Milk Challenge)",
+    "description": "my goal was to make a milk vape that imitates high end coffee creamer, the milk I used was TPA DX Milk ( did not have that option when entering recipe)",
+    "id": 86310,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/86310\/2018-01-31_17.20.09.png",
+    "updated_at": "2020-12-11T14:16:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "194",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 330,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1244",
+    "created_at": "2018-01-31",
+    "slug": "caramilk_dmc_milk_challenge",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/86310.png",
+    "total_flavoring": "13.33%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

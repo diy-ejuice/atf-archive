@@ -1,44 +1,44 @@
 {
-  "name": "Oh-My-Nuts",
-  "description": "Who doesn't like creamy nuts? Delicious and different, you get a heavy, nutty flavor nicely brought together with some cream. The taste is quite intense, work in progress.",
-  "id": 27761,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27761/creamyballs.jpg",
-  "updated_at": "2020-11-30T13:23:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dx Sweet Cream",
-      "flavor_id": "165",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dx Hazelnut",
-      "flavor_id": "287",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "128",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "timonv",
-  "views": "1125",
-  "slug": "ohmynuts",
-  "total_flavoring": "15.0%",
-  "steep_days": "60",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Oh-My-Nuts",
+    "description": "Who doesn't like creamy nuts? Delicious and different, you get a heavy, nutty flavor nicely brought together with some cream. The taste is quite intense, work in progress.",
+    "id": 27761,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/27761\/creamyballs.jpg",
+    "updated_at": "2020-12-10T14:51:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dx Sweet Cream",
+            "flavor_id": "165",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dx Hazelnut",
+            "flavor_id": "287",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "128",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "timonv",
+    "views": "1133",
+    "created_at": "2017-01-20",
+    "slug": "ohmynuts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/27761.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "60",
+    "best_vg": "70%",
+    "temperature": "0"
 }

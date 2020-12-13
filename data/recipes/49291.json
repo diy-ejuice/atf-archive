@@ -1,99 +1,101 @@
 {
-  "name": "Pink Element",
-  "description": "My Version of Elements Pink Lemonade, not as sweet but more tart.\r\n\r\nCredit to Micah from ELR, his Recipe was the Base for this :)",
-  "id": 49291,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49291/IMG_0194.JPG",
-  "updated_at": "2020-12-08T00:49:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cranberry",
-      "flavor_id": "224",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grenadine",
-      "flavor_id": "68",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Mix",
-      "flavor_id": "698",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "662",
-      "millipercent": 50,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Wodde",
-  "views": "2232",
-  "slug": "pink_element",
-  "total_flavoring": "18.55%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CavemanOu2",
-      "score": "5",
-      "text": "I have to say I mixed this a month ago and put it in the drawer and forgot about it.. Took to out and dripped some them put it in my squankmod and it has lived there ever sence..Excellent job is all I have to say and it will be and is in my daily rotation.. Thanks alot for the work and dedication to getting it right"
-    }
-  ]
+    "name": "Pink Element",
+    "description": "My Version of Elements Pink Lemonade, not as sweet but more tart.\r\n\r\nCredit to Micah from ELR, his Recipe was the Base for this :)",
+    "id": 49291,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/49291\/IMG_0194.JPG",
+    "updated_at": "2020-12-12T15:39:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cranberry",
+            "flavor_id": "224",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grenadine",
+            "flavor_id": "68",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Mix",
+            "flavor_id": "698",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "662",
+            "millipercent": 50,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Wodde",
+    "views": "2238",
+    "created_at": "2017-06-05",
+    "slug": "pink_element",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/49291.JPG",
+    "total_flavoring": "18.55%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CavemanOu2",
+            "score": 5,
+            "text": "I have to say I mixed this a month ago and put it in the drawer and forgot about it.. Took to out and dripped some them put it in my squankmod and it has lived there ever sence..Excellent job is all I have to say and it will be and is in my daily rotation.. Thanks alot for the work and dedication to getting it right"
+        }
+    ]
 }

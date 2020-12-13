@@ -1,74 +1,76 @@
 {
-  "name": "Autumn Memories",
-  "description": "Mixer's Club September submission for \"Something autumn\" theme. This is inspired by a dessert called a \"Trifle\" which is a cold dessert with sponge cake and layers of custard, jelly or cream. I used the Yellow cake as well as the gingerbread and pumpkin spice to create a spiced cake. FLV pudding and butterscotch for a butterscotch flavored pudding layer. TFA whipped cream and FLV cream for a whipped cream effect. This profile is not usually my thing but I quite like it.\r\n\r\n\r\nName changed thanks to Dave ;)",
-  "id": 63282,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63282/autumn.jpg",
-  "updated_at": "2020-12-08T00:49:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 1000,
-      "vendor": "JF"
-    }
-  ],
-  "author": "RinVapes",
-  "views": "2852",
-  "slug": "autumn_memories",
-  "total_flavoring": "5.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "I really enjoyed this. The light cake and airiness were unexpected. The balance of spice is perfect considering. I have to admit that I was expecting it to head towards a darker spice cake but I enjoyed it as is. I'll definitely play with adding some dark sweetness to push it further. "
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "So glad this recipe was remembered! I taste something like a soft, cakey cookie with pumpkin-spice frosting. It's undoubtedly autumnal without being so terribly in-your-face with the spices, and both gentle and interesting enough to vape all day. Neither dry nor soggy with the spice bakery notes, just enough richness, a smooth vape, and nothing that tastes weird, out of place, or in need of adjustment. All harmony and balance. I could not ask for anything more out of a recipe with \"fall\" in the name. Something about this is also delightfully feminine. The way it's lightly flavored without being under-flavored, maybe. It's delicate, but not weak. I feel like I'm vaping a woman's take on what a fall flavor should be. It takes me back to happy moment in time that occurred in autumn and involved fall flavors, and then it's gone and I'm reminded of how much I miss that moment, and my heart breaks a little. That is a major compliment to the recipe. It's complex yet free of distraction, and vague enough to be open to interpretation, so it encourages making your own connections. It makes me wonder what autumn memories it might awaken in others."
-    }
-  ]
+    "name": "Autumn Memories",
+    "description": "Mixer's Club September submission for \"Something autumn\" theme. This is inspired by a dessert called a \"Trifle\" which is a cold dessert with sponge cake and layers of custard, jelly or cream. I used the Yellow cake as well as the gingerbread and pumpkin spice to create a spiced cake. FLV pudding and butterscotch for a butterscotch flavored pudding layer. TFA whipped cream and FLV cream for a whipped cream effect. This profile is not usually my thing but I quite like it.\r\n\r\n\r\nName changed thanks to Dave ;)",
+    "id": 63282,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63282\/autumn.jpg",
+    "updated_at": "2020-12-12T10:33:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 1000,
+            "vendor": "JF"
+        }
+    ],
+    "author": "RinVapes",
+    "views": "2858",
+    "created_at": "2017-09-10",
+    "slug": "autumn_memories",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63282.jpg",
+    "total_flavoring": "5.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "I really enjoyed this. The light cake and airiness were unexpected. The balance of spice is perfect considering. I have to admit that I was expecting it to head towards a darker spice cake but I enjoyed it as is. I'll definitely play with adding some dark sweetness to push it further. "
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "So glad this recipe was remembered! I taste something like a soft, cakey cookie with pumpkin-spice frosting. It's undoubtedly autumnal without being so terribly in-your-face with the spices, and both gentle and interesting enough to vape all day. Neither dry nor soggy with the spice bakery notes, just enough richness, a smooth vape, and nothing that tastes weird, out of place, or in need of adjustment. All harmony and balance. I could not ask for anything more out of a recipe with \"fall\" in the name. Something about this is also delightfully feminine. The way it's lightly flavored without being under-flavored, maybe. It's delicate, but not weak. I feel like I'm vaping a woman's take on what a fall flavor should be. It takes me back to happy moment in time that occurred in autumn and involved fall flavors, and then it's gone and I'm reminded of how much I miss that moment, and my heart breaks a little. That is a major compliment to the recipe. It's complex yet free of distraction, and vague enough to be open to interpretation, so it encourages making your own connections. It makes me wonder what autumn memories it might awaken in others."
+        }
+    ]
 }

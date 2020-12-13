@@ -1,51 +1,53 @@
 {
-  "name": "Whipped harvest",
-  "description": "I love harvest berry such a unique flavor. Just simply delicious.",
-  "id": 133403,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133403/downloadfile.jpg",
-  "updated_at": "2020-12-08T00:50:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Moggle33",
-  "views": "1928",
-  "slug": "whipped_harvest",
-  "total_flavoring": "8.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "This is a very simple, very damned delicious juice. The harvest berry is bright and juicy, and is brilliant aided by the creams it's swathed in. Between the Fresh Cream and the Vanilla Whipped Cream, you get a rich, vibrant sweet cream bed for those berries to lay in. The addition of super sweet is just enough extra to make every aspect pop.&#xD;\n&#xD;\nA simple yet elegant juice that just really shines. Nicely done!"
-    }
-  ]
+    "name": "Whipped harvest",
+    "description": "I love harvest berry such a unique flavor. Just simply delicious.",
+    "id": 133403,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/133403\/downloadfile.jpg",
+    "updated_at": "2020-12-12T20:30:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Moggle33",
+    "views": "1939",
+    "created_at": "2019-01-02",
+    "slug": "whipped_harvest",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/133403.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "This is a very simple, very damned delicious juice. The harvest berry is bright and juicy, and is brilliant aided by the creams it's swathed in. Between the Fresh Cream and the Vanilla Whipped Cream, you get a rich, vibrant sweet cream bed for those berries to lay in. The addition of super sweet is just enough extra to make every aspect pop.&#xD;\n&#xD;\nA simple yet elegant juice that just really shines. Nicely done!"
+        }
+    ]
 }

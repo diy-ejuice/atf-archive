@@ -1,50 +1,50 @@
 {
-  "name": "Newton's Pipe",
-  "description": "Fig and dark berry tobacco.\r\n\r\nMy original recipe https://alltheflavors.com/recipes/94745#honey_i_figged_up_the_bacco_by_ebc88. I used Fig @2% and didn't tame all the anise/licorice off that it brings along with it. Then I seen this recipe https://alltheflavors.com/recipes/126455#concrete_newtons_by_alfredpudding, and thought I would give VT Fig another shot. It pairs perfectly with VT Red Dates & the FLV Milk & Honey adds some creaminess and sweetness to the fruits. Flv Native & INW Black for Pipe pair excellently together, & the INW keeps the FLV tobaccos from doing the boomerang fading thing they like to do when they steep. Black for Pipe also has some really great berry notes mixed in with the pipe style tobacco. The VT FIG & Red Dates really bring those notes out.\r\n\r\nI enjoyed this fresh but INW tobaccos need 10-14 days to steep. So they fully come through in the mix.",
-  "id": 137576,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137576/659BE571-8BD8-4000-B715-D24AAC0476CB.jpeg",
-  "updated_at": "2020-12-07T19:15:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fig",
-      "flavor_id": "8877",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Red Dates",
-      "flavor_id": "8952",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Ebc88",
-  "views": "1241",
-  "slug": "newtons_pipe",
-  "total_flavoring": "6.75%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Newton's Pipe",
+    "description": "Fig and dark berry tobacco.\r\n\r\nMy original recipe https:\/\/alltheflavors.com\/recipes\/94745#honey_i_figged_up_the_bacco_by_ebc88. I used Fig @2% and didn't tame all the anise\/licorice off that it brings along with it. Then I seen this recipe https:\/\/alltheflavors.com\/recipes\/126455#concrete_newtons_by_alfredpudding, and thought I would give VT Fig another shot. It pairs perfectly with VT Red Dates & the FLV Milk & Honey adds some creaminess and sweetness to the fruits. Flv Native & INW Black for Pipe pair excellently together, & the INW keeps the FLV tobaccos from doing the boomerang fading thing they like to do when they steep. Black for Pipe also has some really great berry notes mixed in with the pipe style tobacco. The VT FIG & Red Dates really bring those notes out.\r\n\r\nI enjoyed this fresh but INW tobaccos need 10-14 days to steep. So they fully come through in the mix.",
+    "id": 137576,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137576\/659BE571-8BD8-4000-B715-D24AAC0476CB.jpeg",
+    "updated_at": "2020-12-12T08:13:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fig",
+            "flavor_id": "8877",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Red Dates",
+            "flavor_id": "8952",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Ebc88",
+    "views": "1252",
+    "created_at": "2019-02-02",
+    "slug": "newtons_pipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137576.jpeg",
+    "total_flavoring": "6.75%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0"
 }

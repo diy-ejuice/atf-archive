@@ -1,63 +1,65 @@
 {
-  "name": "Magilla's Custard",
-  "description": "Got a request for a banana custard so here it is. Best way I can describe it is if you took the cream out of TPA Banana Cream and replaced it with a heavy custard.",
-  "id": 206844,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206844/custard_monkey_by_shadoelf_d31zc0j-fullview.jpg",
-  "updated_at": "2020-12-08T00:51:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Seakow",
-  "views": "743",
-  "slug": "magillas_custard",
-  "total_flavoring": "8.5%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ayvaluv11",
-      "score": "5",
-      "text": "Can’t wait to try it Seakow! "
-    }
-  ]
+    "name": "Magilla's Custard",
+    "description": "Got a request for a banana custard so here it is. Best way I can describe it is if you took the cream out of TPA Banana Cream and replaced it with a heavy custard.",
+    "id": 206844,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/206844\/custard_monkey_by_shadoelf_d31zc0j-fullview.jpg",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Seakow",
+    "views": "759",
+    "created_at": "2020-10-08",
+    "slug": "magillas_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/206844.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ayvaluv11",
+            "score": 5,
+            "text": "Can\u2019t wait to try it Seakow! "
+        }
+    ]
 }

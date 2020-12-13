@@ -1,57 +1,59 @@
 {
-  "name": "Shyndo Sauce",
-  "description": "USED CAP FUJI  FOR THE RECIPE\r\n\r\nThis is a mash up of two of Shindo's recipes I've enjoyed( D Cream and Cantrips). Took the VBIC and lowered it a little to tone down the density and DAP, paired the FA Pear and CAP Fuji to create a bright apple (CAP Fuji has less of the alcoholic note than FA Fuji and is also a bit softer) and then put in a dash of Honesuckle to boost the fruit florals and a bit of Key Lime to brighten the fruits.\r\n\r\nShake and vapeable but you will probably like it best after a 3-5 day steep.",
-  "id": 47794,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/47794/guts.jpg",
-  "updated_at": "2020-12-08T00:49:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Florida Key Lime",
-      "flavor_id": "7699",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "LocoMojo",
-  "views": "1962",
-  "slug": "shyndo_sauce",
-  "total_flavoring": "12.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "profile so far up my alley I'm questioning my sexuality. This is delicious and creamy but not too creamy. The bright flavors really help it stand up to the vbic. Well balanced vape and really quite perfect for summer"
-    }
-  ]
+    "name": "Shyndo Sauce",
+    "description": "USED CAP FUJI  FOR THE RECIPE\r\n\r\nThis is a mash up of two of Shindo's recipes I've enjoyed( D Cream and Cantrips). Took the VBIC and lowered it a little to tone down the density and DAP, paired the FA Pear and CAP Fuji to create a bright apple (CAP Fuji has less of the alcoholic note than FA Fuji and is also a bit softer) and then put in a dash of Honesuckle to boost the fruit florals and a bit of Key Lime to brighten the fruits.\r\n\r\nShake and vapeable but you will probably like it best after a 3-5 day steep.",
+    "id": 47794,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/47794\/guts.jpg",
+    "updated_at": "2020-12-12T15:39:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Florida Key Lime",
+            "flavor_id": "7699",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "LocoMojo",
+    "views": "1966",
+    "created_at": "2017-05-26",
+    "slug": "shyndo_sauce",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/47794.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "profile so far up my alley I'm questioning my sexuality. This is delicious and creamy but not too creamy. The bright flavors really help it stand up to the vbic. Well balanced vape and really quite perfect for summer"
+        }
+    ]
 }

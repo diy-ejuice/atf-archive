@@ -1,63 +1,64 @@
 {
-  "name": "LESDIY KILO TruBlue",
-  "description": "http://www.lediypourlesnuls.com/kilo-tru-blue/\r\n\r\nadapted to fit my flavor stash",
-  "id": 11227,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:31:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "3083",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Karma",
-  "views": "1428",
-  "slug": "lesdiy_kilo_trublue",
-  "total_flavoring": "24.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "LESDIY KILO TruBlue",
+    "description": "http:\/\/www.lediypourlesnuls.com\/kilo-tru-blue\/\r\n\r\nadapted to fit my flavor stash",
+    "id": 11227,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:44:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "3083",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Karma",
+    "views": "1436",
+    "created_at": "2016-08-22",
+    "slug": "lesdiy_kilo_trublue",
+    "total_flavoring": "24.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Baked Apple Pie",
-  "description": "This is my take on a Apple pie a la mode or Apple Pie with Vanilla Ice Cream on top. First more complex for me to do but because it’s the fall season I was thinking about what a good treat is for this time of the year. \r\nI used Cap Apple Pie V2 for the main Apple pie profile in the recipe. \r\n\r\nCap Danish Cinnamon Swirl to give more to the bready crust notes for the pie and add a bit of cinnamon spice to the apples. \r\n\r\nPUR Country Apple is used because this is one of the best Apple flavours to me and to give more to the apple filling instead of using FLV Apple Filling. \r\n\r\nTPA/TFA Pie Crust is used lower to only give a hint of more doughy notes because I already have the Apple pie and Danish Swirl there as the main Apple Pie profile. \r\n\r\nHS French Vanilla Icecream for the ice cream topping. \r\n\r\nAnd finally the FA Vanilla Ice Cream to have the ice cream pop a bit more so it’s not so subtle in the recipe. \r\n\r\n",
-  "id": 172537,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/172537/150A9F37-BC69-4685-A88D-EA7CDAE4E9A2.jpeg",
-  "updated_at": "2020-12-07T19:16:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie V2",
-      "flavor_id": "9",
-      "millipercent": 3250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl V2",
-      "flavor_id": "36",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Country Apple",
-      "flavor_id": "7754",
-      "millipercent": 3000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 1000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "9957",
-      "millipercent": 3500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "179",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "RagingVapor",
-  "views": "896",
-  "slug": "baked_apple_pie",
-  "total_flavoring": "15.25%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Baked Apple Pie",
+    "description": "This is my take on a Apple pie a la mode or Apple Pie with Vanilla Ice Cream on top. First more complex for me to do but because it\u2019s the fall season I was thinking about what a good treat is for this time of the year. \r\nI used Cap Apple Pie V2 for the main Apple pie profile in the recipe. \r\n\r\nCap Danish Cinnamon Swirl to give more to the bready crust notes for the pie and add a bit of cinnamon spice to the apples. \r\n\r\nPUR Country Apple is used because this is one of the best Apple flavours to me and to give more to the apple filling instead of using FLV Apple Filling. \r\n\r\nTPA\/TFA Pie Crust is used lower to only give a hint of more doughy notes because I already have the Apple pie and Danish Swirl there as the main Apple Pie profile. \r\n\r\nHS French Vanilla Icecream for the ice cream topping. \r\n\r\nAnd finally the FA Vanilla Ice Cream to have the ice cream pop a bit more so it\u2019s not so subtle in the recipe. \r\n\r\n",
+    "id": 172537,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/172537\/150A9F37-BC69-4685-A88D-EA7CDAE4E9A2.jpeg",
+    "updated_at": "2020-12-10T23:34:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie V2",
+            "flavor_id": "9",
+            "millipercent": 3250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl V2",
+            "flavor_id": "36",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Country Apple",
+            "flavor_id": "7754",
+            "millipercent": 3000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 1000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "9957",
+            "millipercent": 3500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "179",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "RagingVapor",
+    "views": "904",
+    "created_at": "2019-10-29",
+    "slug": "baked_apple_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/172537.jpeg",
+    "total_flavoring": "15.25%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "65%",
+    "temperature": "0"
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Lemon Pounder",
-  "description": "If you're looking for a nice, dense Lemon Pound Cake with silky smooth frosting, look no further.\r\n\r\nFLV Pound Cake, FA Pandoro, FW Yellow Cake, and FE Lemon create the lemon cake. Pound cake is good but lacks a bit of body and depth (in my opinion). Throw in some yellow cake for body and FE Lemon for juicy depth and you're set!\r\n\r\nWFSC Buttercream frosting is really delicious, and paired with LA Cream Cheese Icing, it makes a hell of a silky topper to the lemon pound cake.\r\n\r\nSweeten to taste. I actually used 2% Sugar Daddy, but 1% TPA Sweetener should net a similar effect.\r\n\r\n",
-  "id": 97147,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97147/lemon-loafG-1.jpg",
-  "updated_at": "2020-12-08T00:50:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pound Cake",
-      "flavor_id": "4306",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pandoro",
-      "flavor_id": "538",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "heatbbx",
-  "views": "2024",
-  "slug": "lemon_pounder",
-  "total_flavoring": "9.5%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Hawger03",
-      "score": "5",
-      "text": "Super tasty lemon pound cake.  You hit this profile on the head."
-    }
-  ]
+    "name": "Lemon Pounder",
+    "description": "If you're looking for a nice, dense Lemon Pound Cake with silky smooth frosting, look no further.\r\n\r\nFLV Pound Cake, FA Pandoro, FW Yellow Cake, and FE Lemon create the lemon cake. Pound cake is good but lacks a bit of body and depth (in my opinion). Throw in some yellow cake for body and FE Lemon for juicy depth and you're set!\r\n\r\nWFSC Buttercream frosting is really delicious, and paired with LA Cream Cheese Icing, it makes a hell of a silky topper to the lemon pound cake.\r\n\r\nSweeten to taste. I actually used 2% Sugar Daddy, but 1% TPA Sweetener should net a similar effect.\r\n\r\n",
+    "id": 97147,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/97147\/lemon-loafG-1.jpg",
+    "updated_at": "2020-12-12T14:06:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pound Cake",
+            "flavor_id": "4306",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pandoro",
+            "flavor_id": "538",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "heatbbx",
+    "views": "2037",
+    "created_at": "2018-04-16",
+    "slug": "lemon_pounder",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/97147.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Hawger03",
+            "score": 5,
+            "text": "Super tasty lemon pound cake.  You hit this profile on the head."
+        }
+    ]
 }

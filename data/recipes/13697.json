@@ -1,63 +1,65 @@
 {
-  "name": "Strong Style",
-  "description": "An apple cinnamon and asian pear cake. \r\n\r\nEdit: Added a missing ingredient! TFA Quince @ 1%.",
-  "id": 13697,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13697/small-20160916-3058-130gxzk.jpg",
-  "updated_at": "2020-12-06T20:37:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "jamikaze",
-  "views": "972",
-  "slug": "strong_style",
-  "total_flavoring": "8.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "Strong Style",
+    "description": "An apple cinnamon and asian pear cake. \r\n\r\nEdit: Added a missing ingredient! TFA Quince @ 1%.",
+    "id": 13697,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13697\/small-20160916-3058-130gxzk.jpg",
+    "updated_at": "2020-12-10T22:31:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "jamikaze",
+    "views": "980",
+    "created_at": "2016-09-16",
+    "slug": "strong_style",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13697.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

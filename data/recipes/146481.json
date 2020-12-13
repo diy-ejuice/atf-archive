@@ -1,73 +1,75 @@
 {
-  "name": "Blueberry Eggos",
-  "description": "Fresh out of the toaster, frozen blueberry waffles with a little bit of maple syrup and butter.",
-  "id": 146481,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146481/blueberry_eggo.jpeg",
-  "updated_at": "2020-12-08T00:50:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Waffle",
-      "flavor_id": "1457",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Waffle (belgian)",
-      "flavor_id": "191",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "331",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Foment_life",
-  "views": "2460",
-  "slug": "blueberry_eggos",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lionhrt9",
-      "score": "5",
-      "text": "Great separation. Love the fact that you called it eggos as that's exactly what you get. Right out of the frozen section. Thanks for sharing! "
-    },
-    {
-      "user": "zenotek",
-      "score": "5",
-      "text": "TPA's and FW's offering in the waffle department are superior to LB's in my opinion, and after struggling with them I finally came across this recipe and was not disappointed.  You can really taste the waffle, butter, syrup, and blueberry."
-    },
-    {
-      "user": "eyemakepizza",
-      "score": "5",
-      "text": "The picture for this recipe sums it up perfectly. The waffle, the butter, the syrup, the blueberries, they're all there. The only thing the juice doesn't have that the picture does is the cardboard box and well....that's a good thing!"
-    }
-  ]
+    "name": "Blueberry Eggos",
+    "description": "Fresh out of the toaster, frozen blueberry waffles with a little bit of maple syrup and butter.",
+    "id": 146481,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146481\/blueberry_eggo.jpeg",
+    "updated_at": "2020-12-12T14:07:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Waffle",
+            "flavor_id": "1457",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Waffle (belgian)",
+            "flavor_id": "191",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "331",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Foment_life",
+    "views": "2470",
+    "created_at": "2019-04-09",
+    "slug": "blueberry_eggos",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146481.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lionhrt9",
+            "score": 5,
+            "text": "Great separation. Love the fact that you called it eggos as that's exactly what you get. Right out of the frozen section. Thanks for sharing! "
+        },
+        {
+            "user": "zenotek",
+            "score": 5,
+            "text": "TPA's and FW's offering in the waffle department are superior to LB's in my opinion, and after struggling with them I finally came across this recipe and was not disappointed.  You can really taste the waffle, butter, syrup, and blueberry."
+        },
+        {
+            "user": "eyemakepizza",
+            "score": 5,
+            "text": "The picture for this recipe sums it up perfectly. The waffle, the butter, the syrup, the blueberries, they're all there. The only thing the juice doesn't have that the picture does is the cardboard box and well....that's a good thing!"
+        }
+    ]
 }

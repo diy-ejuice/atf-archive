@@ -1,69 +1,71 @@
 {
-  "name": "Mango Peach Soda",
-  "description": "This is a bright and natural mango paired with yellow peach, infused into a lemon lime soda\r\nInspired by Staybert - Citrasperry Soda\r\nhttps://alltheflavors.com/recipes/148968\r\n\r\n",
-  "id": 163136,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163136/mango-peach-soda-1.jpg",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Costarica Special (mango)",
-      "flavor_id": "579",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 250,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4842",
-  "slug": "mango_peach_soda",
-  "total_flavoring": "11.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MrJwp08",
-      "score": "5",
-      "text": "This is going down an absolute treat. Made like for like bar the ws23. Fresh mango, peach, and an all round tropical soda. Almost gives a fizzy feel with the Flv Citrus Soda. Another great vape Mr,Walker"
-    }
-  ]
+    "name": "Mango Peach Soda",
+    "description": "This is a bright and natural mango paired with yellow peach, infused into a lemon lime soda\r\nInspired by Staybert - Citrasperry Soda\r\nhttps:\/\/alltheflavors.com\/recipes\/148968\r\n\r\n",
+    "id": 163136,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163136\/mango-peach-soda-1.jpg",
+    "updated_at": "2020-12-12T10:34:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Costarica Special (mango)",
+            "flavor_id": "579",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 250,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4862",
+    "created_at": "2019-08-15",
+    "slug": "mango_peach_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163136.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MrJwp08",
+            "score": 5,
+            "text": "This is going down an absolute treat. Made like for like bar the ws23. Fresh mango, peach, and an all round tropical soda. Almost gives a fizzy feel with the Flv Citrus Soda. Another great vape Mr,Walker"
+        }
+    ]
 }

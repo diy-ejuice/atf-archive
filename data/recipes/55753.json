@@ -1,44 +1,44 @@
 {
-  "name": "Black&Mild Wine",
-  "description": "INW Gipsy King tastes a lot like I remember these cigars tasting like. Everything else is there to give it a bit more depth and make it feel like you're really smoking one. It's been probably close to 10 years since I've smoked one of these, so my memory may be a bit foggy on it. If you used to enjoy these and decide to mix it up for nostalgia, let me know how close it is!",
-  "id": 55753,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55753/IMG_6589.PNG",
-  "updated_at": "2020-12-07T09:43:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Gipsy King",
-      "flavor_id": "696",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Absolute Cuban Cigar",
-      "flavor_id": "8505",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "1387",
-  "slug": "blackmild_wine",
-  "total_flavoring": "6.0%",
-  "steep_days": "10",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Black&Mild Wine",
+    "description": "INW Gipsy King tastes a lot like I remember these cigars tasting like. Everything else is there to give it a bit more depth and make it feel like you're really smoking one. It's been probably close to 10 years since I've smoked one of these, so my memory may be a bit foggy on it. If you used to enjoy these and decide to mix it up for nostalgia, let me know how close it is!",
+    "id": 55753,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/55753\/IMG_6589.PNG",
+    "updated_at": "2020-12-12T15:39:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Gipsy King",
+            "flavor_id": "696",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Absolute Cuban Cigar",
+            "flavor_id": "8505",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "1397",
+    "created_at": "2017-07-16",
+    "slug": "blackmild_wine",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/55753.PNG",
+    "total_flavoring": "6.0%",
+    "steep_days": "10",
+    "best_vg": "60%",
+    "temperature": "0"
 }

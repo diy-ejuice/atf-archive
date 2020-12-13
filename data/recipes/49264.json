@@ -1,62 +1,61 @@
 {
-  "name": "sail ship",
-  "description": "like fresh tobacco with spicy notes and.a light sweet aftertaste.needs 3 weeks steeping",
-  "id": 49264,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:34:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Burley",
-      "flavor_id": "863",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Desert Ship",
-      "flavor_id": "4877",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Latakia",
-      "flavor_id": "430",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Classic Virginia",
-      "flavor_id": "905",
-      "millipercent": 1800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Madagascar Bourbon Vanilla Flavor",
-      "flavor_id": "4193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "nks",
-  "views": "1312",
-  "slug": "sail_ship",
-  "total_flavoring": "7.7%",
-  "steep_days": "20",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "sail ship",
+    "description": "like fresh tobacco with spicy notes and.a light sweet aftertaste.needs 3 weeks steeping",
+    "id": 49264,
+    "image_url": null,
+    "updated_at": "2020-12-11T05:41:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Burley",
+            "flavor_id": "863",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Desert Ship",
+            "flavor_id": "4877",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Latakia",
+            "flavor_id": "430",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Classic Virginia",
+            "flavor_id": "905",
+            "millipercent": 1800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Madagascar Bourbon Vanilla Flavor",
+            "flavor_id": "4193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "nks",
+    "views": "1322",
+    "created_at": "2017-06-05",
+    "slug": "sail_ship",
+    "total_flavoring": "7.7%",
+    "steep_days": "20",
+    "best_vg": "60%",
+    "temperature": "0"
 }

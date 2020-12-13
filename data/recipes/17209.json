@@ -1,62 +1,62 @@
 {
-  "name": "Green's Gurt",
-  "description": "A very nice Green Apple Kiwi Yogurt. Mixed at 70VG/30PG. Suggest 10-14 days steep time.",
-  "id": 17209,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17209/Green_s_Gurt.jpg",
-  "updated_at": "2020-12-07T11:43:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "66",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple (green)",
-      "flavor_id": "1176",
-      "millipercent": 1750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "MrZigglesworth",
-  "views": "989",
-  "slug": "greens_gurt",
-  "total_flavoring": "10.25%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Green's Gurt",
+    "description": "A very nice Green Apple Kiwi Yogurt. Mixed at 70VG\/30PG. Suggest 10-14 days steep time.",
+    "id": 17209,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/17209\/Green_s_Gurt.jpg",
+    "updated_at": "2020-12-10T13:44:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "66",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple (green)",
+            "flavor_id": "1176",
+            "millipercent": 1750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "MrZigglesworth",
+    "views": "996",
+    "created_at": "2016-10-22",
+    "slug": "greens_gurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/17209.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Fuzzy Melons",
-  "description": "Quick and easy summer vape. Perfect as a SnV when you need something quick.\r\nCool Mint and Sweetener are optional but particularly the cool mint really adds a unique sweetness to the mix.",
-  "id": 51491,
-  "image_url": null,
-  "updated_at": "2020-12-04T21:23:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "629",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 400,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cool Mint",
-      "flavor_id": "40",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Trevorxgage",
-  "views": "1170",
-  "slug": "fuzzy_melons",
-  "total_flavoring": "7.55%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fuzzy Melons",
+    "description": "Quick and easy summer vape. Perfect as a SnV when you need something quick.\r\nCool Mint and Sweetener are optional but particularly the cool mint really adds a unique sweetness to the mix.",
+    "id": 51491,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "629",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 400,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cool Mint",
+            "flavor_id": "40",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Trevorxgage",
+    "views": "1174",
+    "created_at": "2017-06-19",
+    "slug": "fuzzy_melons",
+    "total_flavoring": "7.55%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

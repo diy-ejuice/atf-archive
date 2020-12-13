@@ -1,84 +1,86 @@
 {
-  "name": "Blue Waffles",
-  "description": "Just absolutely on point. I’ve made a crap ton of waffle recipes but none like this. This is a one shot. Blows any blueberry pancake waffle recipe completely out of the water. My customers love this recipe they just love it. Blueberry graham waffle lacks in the waffle so I backed it up with the Belgian waffle and biscuit. Obviously the blueberry from fw is more of a candied blueberry witch fits here because as soon as you dump maple syrup on a real blueberry you’ve got candied blueberries. And the whip cream just tops it off and it’s supposed to be sweet but really it’s not that sweet. It’s just right.  You can literally taste the separate layers in this recipe.  I will be supersizing my 10 ml bottle of blueberry graham waffle by flavor west.  You could use either maple syrups fa or tfa there both great\r\n",
-  "id": 80188,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/80188/A6C51E6F-34BF-4B40-9DB2-F5C5842B2BAE.jpeg",
-  "updated_at": "2020-12-08T00:49:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Graham Waffle",
-      "flavor_id": "1203",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Waffle (belgian)",
-      "flavor_id": "191",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "331",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Fleming",
-  "views": "6148",
-  "slug": "blue_waffles",
-  "total_flavoring": "13.5%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "This is a no doubt banger straight up and ready off the shake.  One of the best Blueberry Graham Waffles recipes!  Authentic."
-    },
-    {
-      "user": "Cumulonimbus",
-      "score": "5",
-      "text": "I actually added a hint of strawberry biscuit (nr) with this, just bc I'm all about berries and wanted to try it but 5 stars for smell alone!"
-    },
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "Wonderful recipe here. Unfortunately all I had was capellas maple pancake syrup so that was the only sub I had to make. I will try again with tpas version but as is this is definitely the tastiest waffle vape I've had since Dr.Fog discontinued their blueberry graham waffle e-juice. This recipe still blows that ejuice out of the water. Definitely tastes more like an eggo over an authentic belgian waffle, but still, undeniably a waffle. Great job 6 stars"
-    },
-    {
-      "user": "Bjorncoetsee",
-      "score": "5",
-      "text": "Looks good will have to mix it up "
-    }
-  ]
+    "name": "Blue Waffles",
+    "description": "Just absolutely on point. I\u2019ve made a crap ton of waffle recipes but none like this. This is a one shot. Blows any blueberry pancake waffle recipe completely out of the water. My customers love this recipe they just love it. Blueberry graham waffle lacks in the waffle so I backed it up with the Belgian waffle and biscuit. Obviously the blueberry from fw is more of a candied blueberry witch fits here because as soon as you dump maple syrup on a real blueberry you\u2019ve got candied blueberries. And the whip cream just tops it off and it\u2019s supposed to be sweet but really it\u2019s not that sweet. It\u2019s just right.  You can literally taste the separate layers in this recipe.  I will be supersizing my 10 ml bottle of blueberry graham waffle by flavor west.  You could use either maple syrups fa or tfa there both great\r\n",
+    "id": 80188,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/80188\/A6C51E6F-34BF-4B40-9DB2-F5C5842B2BAE.jpeg",
+    "updated_at": "2020-12-12T18:29:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Graham Waffle",
+            "flavor_id": "1203",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Waffle (belgian)",
+            "flavor_id": "191",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "331",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Fleming",
+    "views": "6176",
+    "created_at": "2017-12-21",
+    "slug": "blue_waffles",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/80188.jpeg",
+    "total_flavoring": "13.5%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "This is a no doubt banger straight up and ready off the shake.  One of the best Blueberry Graham Waffles recipes!  Authentic."
+        },
+        {
+            "user": "Cumulonimbus",
+            "score": 5,
+            "text": "I actually added a hint of strawberry biscuit (nr) with this, just bc I'm all about berries and wanted to try it but 5 stars for smell alone!"
+        },
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "Wonderful recipe here. Unfortunately all I had was capellas maple pancake syrup so that was the only sub I had to make. I will try again with tpas version but as is this is definitely the tastiest waffle vape I've had since Dr.Fog discontinued their blueberry graham waffle e-juice. This recipe still blows that ejuice out of the water. Definitely tastes more like an eggo over an authentic belgian waffle, but still, undeniably a waffle. Great job 6 stars"
+        },
+        {
+            "user": "Bjorncoetsee",
+            "score": 5,
+            "text": "Looks good will have to mix it up "
+        }
+    ]
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Missionary (Grape & Strawberry Soda)",
-  "description": "This is my strawberry grape soda mix, I really enjoy this simple recipe - and after all the mixes I test and compare, I eventually come right back to this one, almost just like good old missionary - just kidding.  This is a shake and vape, you will find it starts off a bit more Grape forward, but then as time goes by you will taste the strawberry coming through. These two fruits just \"jel\" well together - I wont call it blending ;)\r\n\r\nThis is a sweet sugary soda...... yeah, I have a crazy sweet tooth. \r\n\r\nTFA Strawberry Ripe & CAP Strawberry Sweet &  TFA Strawberry = My syrupy strawberry stone\r\n\r\nCAP Jelly Candy = Adds a bit of texture, also adds some candy vibes to the soda. \r\n\r\nWS23 = Closest thing to a cold fizz you going to get.  (I used a 20% dilution in my mix)",
-  "id": 121572,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121572/Miss.PNG",
-  "updated_at": "2020-12-08T00:50:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Soda",
-      "flavor_id": "1300",
-      "millipercent": 5500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "thefogvlog",
-  "views": "2490",
-  "slug": "missionary_grape_strawberry_soda",
-  "total_flavoring": "12.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rcm1968",
-      "score": "5",
-      "text": "I should have given this a review while back, mixed this like 4-5x now(Ialways have a bottle laying around). When I am looking for a sweet soda type soda, this is great, simple flavors most of us probably all have. I found an older bottle I  thought I lost must have been couple months old, and what I did find, the flavors are not as intense as snv or fairly fresh, is it turns into a nice grapey/strawberry gum, and that\"s not a bad thing :). Need to start a new trend, as we have the trinities now, well, we could call this 2in1 vape, nice soda, then eventually turns into a gum(not sure when it did that as have vaped it upto 3 weeks before and wasn't like that, so guessing monthish maybe?. anyhow, thanks for the share and nice recipe"
-    }
-  ]
+    "name": "Missionary (Grape & Strawberry Soda)",
+    "description": "This is my strawberry grape soda mix, I really enjoy this simple recipe - and after all the mixes I test and compare, I eventually come right back to this one, almost just like good old missionary - just kidding.  This is a shake and vape, you will find it starts off a bit more Grape forward, but then as time goes by you will taste the strawberry coming through. These two fruits just \"jel\" well together - I wont call it blending ;)\r\n\r\nThis is a sweet sugary soda...... yeah, I have a crazy sweet tooth. \r\n\r\nTFA Strawberry Ripe & CAP Strawberry Sweet &  TFA Strawberry = My syrupy strawberry stone\r\n\r\nCAP Jelly Candy = Adds a bit of texture, also adds some candy vibes to the soda. \r\n\r\nWS23 = Closest thing to a cold fizz you going to get.  (I used a 20% dilution in my mix)",
+    "id": 121572,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121572\/Miss.PNG",
+    "updated_at": "2020-12-12T14:06:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Soda",
+            "flavor_id": "1300",
+            "millipercent": 5500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "thefogvlog",
+    "views": "2500",
+    "created_at": "2018-10-03",
+    "slug": "missionary_grape_strawberry_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121572.PNG",
+    "total_flavoring": "12.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rcm1968",
+            "score": 5,
+            "text": "I should have given this a review while back, mixed this like 4-5x now(Ialways have a bottle laying around). When I am looking for a sweet soda type soda, this is great, simple flavors most of us probably all have. I found an older bottle I  thought I lost must have been couple months old, and what I did find, the flavors are not as intense as snv or fairly fresh, is it turns into a nice grapey\/strawberry gum, and that\"s not a bad thing :). Need to start a new trend, as we have the trinities now, well, we could call this 2in1 vape, nice soda, then eventually turns into a gum(not sure when it did that as have vaped it upto 3 weeks before and wasn't like that, so guessing monthish maybe?. anyhow, thanks for the share and nice recipe"
+        }
+    ]
 }

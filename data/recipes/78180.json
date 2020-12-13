@@ -1,50 +1,49 @@
 {
-  "name": "Pumpkin Orchard",
-  "description": "A local orchard sells hot cider and pumpkin cinnamon doughnuts. They are such a fantastic combo that a pumpkin spiced cider seemed like a no brainer. Needs a couple days of steeping to calm the cinnamon down.",
-  "id": 78180,
-  "image_url": null,
-  "updated_at": "2020-11-30T16:54:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "cexshun",
-  "views": "887",
-  "slug": "pumpkin_orchard",
-  "total_flavoring": "5.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pumpkin Orchard",
+    "description": "A local orchard sells hot cider and pumpkin cinnamon doughnuts. They are such a fantastic combo that a pumpkin spiced cider seemed like a no brainer. Needs a couple days of steeping to calm the cinnamon down.",
+    "id": 78180,
+    "image_url": null,
+    "updated_at": "2020-12-10T21:32:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "cexshun",
+    "views": "898",
+    "created_at": "2017-12-09",
+    "slug": "pumpkin_orchard",
+    "total_flavoring": "5.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,56 +1,56 @@
 {
-  "name": "mlNikon's Tasty Tart",
-  "description": "This is a tasty dark and rich treacle tart or some people call it a crack pie or maybe even a chess pie. I added golden syrup, molasses, and flv caramel to make it dark and sticky sweet and wanted more of a caramel note so I added tfa caramel original which is a pretty rich tasting caramel. FA apple pie is the perfect flaky pie crust. The gingerbread adds another dimension with just a taste of spice. None of the real treacle tarts or crack pies have gingerbread but I felt like I needed another layer to make it not so flat and pastry zest did not work. ",
-  "id": 153057,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153057/treacletart.jpg",
-  "updated_at": "2020-12-07T10:44:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "612",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Molasses SC",
-      "flavor_id": "8374",
-      "millipercent": 750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "958",
-  "slug": "mlnikons_tasty_tart",
-  "total_flavoring": "7.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Tasty Tart",
+    "description": "This is a tasty dark and rich treacle tart or some people call it a crack pie or maybe even a chess pie. I added golden syrup, molasses, and flv caramel to make it dark and sticky sweet and wanted more of a caramel note so I added tfa caramel original which is a pretty rich tasting caramel. FA apple pie is the perfect flaky pie crust. The gingerbread adds another dimension with just a taste of spice. None of the real treacle tarts or crack pies have gingerbread but I felt like I needed another layer to make it not so flat and pastry zest did not work. ",
+    "id": 153057,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153057\/treacletart.jpg",
+    "updated_at": "2020-12-12T03:46:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "612",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Molasses SC",
+            "flavor_id": "8374",
+            "millipercent": 750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "964",
+    "created_at": "2019-05-26",
+    "slug": "mlnikons_tasty_tart",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153057.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

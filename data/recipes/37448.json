@@ -1,57 +1,59 @@
 {
-  "name": "Harvest (a Berry Creamy Remix)",
-  "description": "I really love CheebaSteeba's simple mixed berry recipe Berry Creamy ( https://alltheflavors.com/recipes/7840#berry_creamy_by_cheebasteeba ) so I decided to use his cream base to create my own SnV mixed berry cream. \r\n\r\nI used the more \"realistic\" fresh FA Red Touch at 3% because I really wanted the full bodied red flavor to be right up top and really stand out in the mix. \r\nFA Blackcurrant brings in the lower end of the fruit profile with notes simulating darker berries. At 1.5% its not strong enough to overtake the Strawberry but still very noticeable.\r\nThen of course we have the TFA Dragonfruit at 0.75% to bridge the fruits and allow them to brighten a little more. \r\n\r\nSnV all the way, best after a few days steep. Cream will come out a bit more and the fruits will dull slightly. Still very tasty though. ",
-  "id": 37448,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37448/full_berries--coconut-milk-whipped-cream_80Kp5UyjOZK6B.jpg",
-  "updated_at": "2020-12-08T00:49:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "LocoMojo",
-  "views": "2393",
-  "slug": "harvest_a_berry_creamy_remix",
-  "total_flavoring": "8.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "styx66",
-      "score": "4",
-      "text": "I've been messing with CAP Harvest berry for so long trying to get this sweet, dark berries and cream, but since I tried this, I just don't need to any more.  I did bump up everything to make it stronger, and added some EM for some extra sweetness.  But this combo is excellent."
-    }
-  ]
+    "name": "Harvest (a Berry Creamy Remix)",
+    "description": "I really love CheebaSteeba's simple mixed berry recipe Berry Creamy ( https:\/\/alltheflavors.com\/recipes\/7840#berry_creamy_by_cheebasteeba ) so I decided to use his cream base to create my own SnV mixed berry cream. \r\n\r\nI used the more \"realistic\" fresh FA Red Touch at 3% because I really wanted the full bodied red flavor to be right up top and really stand out in the mix. \r\nFA Blackcurrant brings in the lower end of the fruit profile with notes simulating darker berries. At 1.5% its not strong enough to overtake the Strawberry but still very noticeable.\r\nThen of course we have the TFA Dragonfruit at 0.75% to bridge the fruits and allow them to brighten a little more. \r\n\r\nSnV all the way, best after a few days steep. Cream will come out a bit more and the fruits will dull slightly. Still very tasty though. ",
+    "id": 37448,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/37448\/full_berries--coconut-milk-whipped-cream_80Kp5UyjOZK6B.jpg",
+    "updated_at": "2020-12-12T10:33:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "LocoMojo",
+    "views": "2400",
+    "created_at": "2017-03-19",
+    "slug": "harvest_a_berry_creamy_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/37448.jpg",
+    "total_flavoring": "8.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "styx66",
+            "score": 4,
+            "text": "I've been messing with CAP Harvest berry for so long trying to get this sweet, dark berries and cream, but since I tried this, I just don't need to any more.  I did bump up everything to make it stronger, and added some EM for some extra sweetness.  But this combo is excellent."
+        }
+    ]
 }

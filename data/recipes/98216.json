@@ -1,39 +1,41 @@
 {
-  "name": "PNW Mid Spring",
-  "description": "Mixed it for my wife. She likes simple floral juice. The recipe does not have menthol in it but she likes to add some DIY high VG menthol after the batch is made.",
-  "id": 98216,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/98216/Pink-Cherry-Blossom-flowers-34658308-256-256.jpg",
-  "updated_at": "2020-12-08T00:50:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cherry Blossom (pg)",
-      "flavor_id": "221",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "dreamcryer",
-  "views": "1140",
-  "slug": "pnw_mid_spring",
-  "total_flavoring": "2.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "nightshark",
-      "score": "3",
-      "text": "Ok, but has a chemical taste to me after a few days. "
-    }
-  ]
+    "name": "PNW Mid Spring",
+    "description": "Mixed it for my wife. She likes simple floral juice. The recipe does not have menthol in it but she likes to add some DIY high VG menthol after the batch is made.",
+    "id": 98216,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/98216\/Pink-Cherry-Blossom-flowers-34658308-256-256.jpg",
+    "updated_at": "2020-12-10T17:57:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cherry Blossom (pg)",
+            "flavor_id": "221",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "dreamcryer",
+    "views": "1147",
+    "created_at": "2018-04-24",
+    "slug": "pnw_mid_spring",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/98216.jpg",
+    "total_flavoring": "2.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "nightshark",
+            "score": 3,
+            "text": "Ok, but has a chemical taste to me after a few days. "
+        }
+    ]
 }

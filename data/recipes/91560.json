@@ -1,50 +1,49 @@
 {
-  "name": "Creamy Strawberry Bliss",
-  "description": "This is my Strawberry Cheesecake Vape and it is oh so luscious.\r\n\r\nDerived from: https://alltheflavors.com/recipes/3099",
-  "id": 91560,
-  "image_url": null,
-  "updated_at": "2020-11-30T21:57:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "OkiePapist",
-  "views": "1537",
-  "slug": "creamy_strawberry_bliss",
-  "total_flavoring": "26.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creamy Strawberry Bliss",
+    "description": "This is my Strawberry Cheesecake Vape and it is oh so luscious.\r\n\r\nDerived from: https:\/\/alltheflavors.com\/recipes\/3099",
+    "id": 91560,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "OkiePapist",
+    "views": "1545",
+    "created_at": "2018-03-07",
+    "slug": "creamy_strawberry_bliss",
+    "total_flavoring": "26.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,72 +1,74 @@
 {
-  "name": "Peek-in Pie",
-  "description": "Peek-in Pie, my take on a home-made pecan pie! Who doesn't love that thick, sugary, syrup-like center of a freshly baked, toasted pecan pie with a moist sugary crust? Well, that's what I've tried to recreate. \r\nINW Biscuit and CAP Sugar Cookie. These percentages are my goto for a dense sugary, almost, graham cracker-like crust without using graham cracker.\r\nFW Butter Pecan and FLV Milk & Honey pair well together as the silky sweet center of the pecan pie. FW Butter Pecan has a slight nut shell bitterness and the FLV Milk & Honey tones this down a bit and adds a touch of balance to the mix.\r\nCAP Super Sweet is there to give it an extra boost of sweetness. You can mix this without it but,  I have a massive sweet tooth and I enjoy it this way.\r\nThis recipe represents the type of recipes I enjoy. I love creating recipes that simulate real-life recipes we all enjoy. I also try to use as few flavorings as I can. I've learned the more flavorings you use, the more muted the recipe becomes. And also, I try to use flavorings that most mixers have in their inventories so they don't have to purchase more flavorings they may not use very much; \"Recipes for the Masses\". \r\nSteep time is around 5 days but can be a shake and vape if you just can't wait. Please checkout DIY MIXERS CREW on facebook \r\nVisit Freedom To Mix on Discord https://discord.gg/SmSc8Ef\r\nVisit Freedom To Mix on FaceBook https://www.facebook.com/groups/415341418920740/ \r\n\r\nPlease mix, comment, and or rate, it makes us all better mixers. Enjoy :)\r\n",
-  "id": 55591,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55591/Peek-In_Pie.jpg",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "folkart",
-  "views": "7361",
-  "slug": "peekin_pie",
-  "total_flavoring": "7.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RockyHarlow",
-      "score": "5",
-      "text": "Absolute banger. Smooth, rich, thick, milky dark sweetness that just absolutely coats your tastebuds in happy. 3 day steep is okay for me but 5 is even better. You'll know it's ready when the bottle goes dark golden brown. Mix this one in large batches so you don't run out."
-    },
-    {
-      "user": "MotherPunker",
-      "score": "5",
-      "text": "simple yet brilliantly concocted.  2nd time around, I actually added .75%  VT golden syrup &amp; .50% TPA butter to it just to fill in some more of that sticky gooeyness that's in pecan pie along with some buttery diketone goodness.  For my palate, that made a great recipe even more mouth watering.  much thanks folkart, Id not have thought about the addition of milk &amp; honey"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Big shoutout to a butter pecan recipe where the pecan isn't overpowering the rest of the mix.  Bravo, sir...it's delicious"
-    },
-    {
-      "user": "TamVapes",
-      "score": "5",
-      "text": "Delicious Folkart!!!  You hit the profile.  Love the butter Pecan and Milk and Honey together.  Great recipe!"
-    }
-  ]
+    "name": "Peek-in Pie",
+    "description": "Peek-in Pie, my take on a home-made pecan pie! Who doesn't love that thick, sugary, syrup-like center of a freshly baked, toasted pecan pie with a moist sugary crust? Well, that's what I've tried to recreate. \r\nINW Biscuit and CAP Sugar Cookie. These percentages are my goto for a dense sugary, almost, graham cracker-like crust without using graham cracker.\r\nFW Butter Pecan and FLV Milk & Honey pair well together as the silky sweet center of the pecan pie. FW Butter Pecan has a slight nut shell bitterness and the FLV Milk & Honey tones this down a bit and adds a touch of balance to the mix.\r\nCAP Super Sweet is there to give it an extra boost of sweetness. You can mix this without it but,  I have a massive sweet tooth and I enjoy it this way.\r\nThis recipe represents the type of recipes I enjoy. I love creating recipes that simulate real-life recipes we all enjoy. I also try to use as few flavorings as I can. I've learned the more flavorings you use, the more muted the recipe becomes. And also, I try to use flavorings that most mixers have in their inventories so they don't have to purchase more flavorings they may not use very much; \"Recipes for the Masses\". \r\nSteep time is around 5 days but can be a shake and vape if you just can't wait. Please checkout DIY MIXERS CREW on facebook \r\nVisit Freedom To Mix on Discord https:\/\/discord.gg\/SmSc8Ef\r\nVisit Freedom To Mix on FaceBook https:\/\/www.facebook.com\/groups\/415341418920740\/ \r\n\r\nPlease mix, comment, and or rate, it makes us all better mixers. Enjoy :)\r\n",
+    "id": 55591,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/55591\/Peek-In_Pie.jpg",
+    "updated_at": "2020-12-12T18:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "folkart",
+    "views": "7371",
+    "created_at": "2017-07-15",
+    "slug": "peekin_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/55591.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RockyHarlow",
+            "score": 5,
+            "text": "Absolute banger. Smooth, rich, thick, milky dark sweetness that just absolutely coats your tastebuds in happy. 3 day steep is okay for me but 5 is even better. You'll know it's ready when the bottle goes dark golden brown. Mix this one in large batches so you don't run out."
+        },
+        {
+            "user": "MotherPunker",
+            "score": 5,
+            "text": "simple yet brilliantly concocted.  2nd time around, I actually added .75%  VT golden syrup &amp; .50% TPA butter to it just to fill in some more of that sticky gooeyness that's in pecan pie along with some buttery diketone goodness.  For my palate, that made a great recipe even more mouth watering.  much thanks folkart, Id not have thought about the addition of milk &amp; honey"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Big shoutout to a butter pecan recipe where the pecan isn't overpowering the rest of the mix.  Bravo, sir...it's delicious"
+        },
+        {
+            "user": "TamVapes",
+            "score": 5,
+            "text": "Delicious Folkart!!!  You hit the profile.  Love the butter Pecan and Milk and Honey together.  Great recipe!"
+        }
+    ]
 }

@@ -1,87 +1,89 @@
 {
-  "name": "Ugly Butters Remix",
-  "description": "I based this recipe off \"Fugly Butters\" @Ebc88 \"This is a fried banana pudding\" & Bad Drips \"Ugly Butter \" description: \"They don't call it ugly for nothing... Uncle Freddy's famous, fancy fried dough, showered with carnival cultivated cinnamon-sugar, serenaded with a cosby-quality banana pudding.\" \r\n\r\nSo, here it goes...\r\n\r\nFLV Vanilla Pudding/VT Pudding Base: these 2 combined make up a delicious \"Cosby-esque\" vanilla puddin'\r\n\r\nSA Banana Flambe: gives the fried banana aspect and also adds a touch of cinnamon...\r\n\r\nVT Banana Custard: ties together the banana flambe with the pudding while adding some more depth to the banana pudding aspect of the recipe\r\n\r\nFLV Rich Cinnamon: turns up the cinnamon flavor. \r\n\r\nCAP Funnel Cake: In Bad Drips description they talk of funnel cake and Capella had just dropped their funnel cake around the time that Ugly Butter hit the shelves, so I figure it's in there... so why not? \r\n\r\nWF Cinnamon Pastry: no reason other than I just picked this up and wanted to give it a try... plus I figured it would add some more depth to the bakery/dough aspect of the recipe while adding a bit more cinnamon... which it seems to do just fine...\r\n\r\nTPA Toasted Marshmallow: to add a little sweetness, mouthfeel, depth and body to the entire recipe. \r\n\r\nCAP SS: why not?... It's a tooth rotting belt busting State Fair Treat... it needs to be sweet! 0.5% does just that... add more or don't if you want to...\r\n\r\nFA Joy: to bring out the yeasty-ness of the fried dough just a lil more... feel free to omit it... I personally don't care for joy either, but it works well here...\r\n\r\n3 day steep and the banana calms down... day 5 the pudding melds together and everything tastes delicious... didn't make it past a week with the first batch, so I don't know if it'll change much at the 2 week mark...\r\n\r\nPlease rate and review if you mix. \r\n",
-  "id": 130077,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130077/Instagram-863847.png",
-  "updated_at": "2020-12-08T00:50:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Flambe",
-      "flavor_id": "9131",
-      "millipercent": 1500,
-      "vendor": "SA"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Funnel Cake",
-      "flavor_id": "4166",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Pastry",
-      "flavor_id": "6049",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "1772",
-  "slug": "ugly_butters_remix",
-  "total_flavoring": "12.65%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "1975",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lionhrt9",
-      "score": "5",
-      "text": "Right up our alley.  Awesome recipe! I subbed for the banana flambe for banana puree but now gonna have to get the flambe!"
-    }
-  ]
+    "name": "Ugly Butters Remix",
+    "description": "I based this recipe off \"Fugly Butters\" @Ebc88 \"This is a fried banana pudding\" & Bad Drips \"Ugly Butter \" description: \"They don't call it ugly for nothing... Uncle Freddy's famous, fancy fried dough, showered with carnival cultivated cinnamon-sugar, serenaded with a cosby-quality banana pudding.\" \r\n\r\nSo, here it goes...\r\n\r\nFLV Vanilla Pudding\/VT Pudding Base: these 2 combined make up a delicious \"Cosby-esque\" vanilla puddin'\r\n\r\nSA Banana Flambe: gives the fried banana aspect and also adds a touch of cinnamon...\r\n\r\nVT Banana Custard: ties together the banana flambe with the pudding while adding some more depth to the banana pudding aspect of the recipe\r\n\r\nFLV Rich Cinnamon: turns up the cinnamon flavor. \r\n\r\nCAP Funnel Cake: In Bad Drips description they talk of funnel cake and Capella had just dropped their funnel cake around the time that Ugly Butter hit the shelves, so I figure it's in there... so why not? \r\n\r\nWF Cinnamon Pastry: no reason other than I just picked this up and wanted to give it a try... plus I figured it would add some more depth to the bakery\/dough aspect of the recipe while adding a bit more cinnamon... which it seems to do just fine...\r\n\r\nTPA Toasted Marshmallow: to add a little sweetness, mouthfeel, depth and body to the entire recipe. \r\n\r\nCAP SS: why not?... It's a tooth rotting belt busting State Fair Treat... it needs to be sweet! 0.5% does just that... add more or don't if you want to...\r\n\r\nFA Joy: to bring out the yeasty-ness of the fried dough just a lil more... feel free to omit it... I personally don't care for joy either, but it works well here...\r\n\r\n3 day steep and the banana calms down... day 5 the pudding melds together and everything tastes delicious... didn't make it past a week with the first batch, so I don't know if it'll change much at the 2 week mark...\r\n\r\nPlease rate and review if you mix. \r\n",
+    "id": 130077,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130077\/Instagram-863847.png",
+    "updated_at": "2020-12-12T18:30:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Flambe",
+            "flavor_id": "9131",
+            "millipercent": 1500,
+            "vendor": "SA"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Funnel Cake",
+            "flavor_id": "4166",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Pastry",
+            "flavor_id": "6049",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "1783",
+    "created_at": "2018-12-04",
+    "slug": "ugly_butters_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130077.png",
+    "total_flavoring": "12.65%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "1975",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lionhrt9",
+            "score": 5,
+            "text": "Right up our alley.  Awesome recipe! I subbed for the banana flambe for banana puree but now gonna have to get the flambe!"
+        }
+    ]
 }

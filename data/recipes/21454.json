@@ -1,106 +1,108 @@
 {
-  "name": "B.A.M CAKES",
-  "description": "B.A.M Cakes\r\n\r\nBlueberry almond and marzipan cookies\r\n\r\nForget the rest this is bringing in 2017 in full on cookie heaven!!! BAM.....  There has been many a great cookie in 2016 but I give you this creation that truly works and will want you craving more.\r\nButtery cookie base laced with chunky bits of marzipan and toasted almonds all combined with juicy blueberry pieces topped with powdered sugar.\r\nI'm in heaven with this one and I hope you will be too.\r\n\r\nHappy New Year ",
-  "id": 21454,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/21454/BB73C377-46F8-40E9-A4E1-A0CA2A14008B-6790-0000076A9F7A1581_tmp.png",
-  "updated_at": "2020-12-08T00:48:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "1708",
-      "millipercent": 350,
-      "vendor": "INW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "dazcole",
-  "views": "9834",
-  "slug": "bam_cakes",
-  "total_flavoring": "10.4%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TotallyLilt",
-      "score": "5",
-      "text": "Fantastic recipe. Great use of marzipan and blend of blueberry. All your recipes I've tried are top drawer."
-    },
-    {
-      "user": "Vestrit",
-      "score": "5",
-      "text": "still waiting for it to steep properly, the question is will it last until then? this is good, love the blueberry balance."
-    },
-    {
-      "user": "saland",
-      "score": "5",
-      "text": "This recipe is really just amazingly delicious. Master Alchemist Dazcole, thank you."
-    },
-    {
-      "user": "Deweysuds",
-      "score": "5",
-      "text": "Really enjoy this at 2 weeks.  Darren delivers well thought out and balanced recipes...this one is my favorite&#xD;\n"
-    },
-    {
-      "user": "TheGrouch",
-      "score": "5",
-      "text": "Holy shit this stuff is good man! Not even a week steep and it's AMAZING!! I had to sub for FA almond, I gotta pick up some toasted almond my next order! Thanks for the awesome recipes!!"
-    },
-    {
-      "user": "orangetree",
-      "score": "5",
-      "text": "Having Darren in the friend list on facebook gives you a big benefit: Being able to mix his awesome recipes some days before he releases it! This one is absolutely delicious. Marzipan complements so well with blueberry and the cookie base works so well with it. Being able to create profiles like this distinguishes him from a lot of other mixers out there. Thank you!"
-    }
-  ]
+    "name": "B.A.M CAKES",
+    "description": "B.A.M Cakes\r\n\r\nBlueberry almond and marzipan cookies\r\n\r\nForget the rest this is bringing in 2017 in full on cookie heaven!!! BAM.....  There has been many a great cookie in 2016 but I give you this creation that truly works and will want you craving more.\r\nButtery cookie base laced with chunky bits of marzipan and toasted almonds all combined with juicy blueberry pieces topped with powdered sugar.\r\nI'm in heaven with this one and I hope you will be too.\r\n\r\nHappy New Year ",
+    "id": 21454,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/21454\/BB73C377-46F8-40E9-A4E1-A0CA2A14008B-6790-0000076A9F7A1581_tmp.png",
+    "updated_at": "2020-12-12T15:38:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "1708",
+            "millipercent": 350,
+            "vendor": "INW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "dazcole",
+    "views": "9850",
+    "created_at": "2016-11-29",
+    "slug": "bam_cakes",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/21454.png",
+    "total_flavoring": "10.4%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TotallyLilt",
+            "score": 5,
+            "text": "Fantastic recipe. Great use of marzipan and blend of blueberry. All your recipes I've tried are top drawer."
+        },
+        {
+            "user": "Vestrit",
+            "score": 5,
+            "text": "still waiting for it to steep properly, the question is will it last until then? this is good, love the blueberry balance."
+        },
+        {
+            "user": "saland",
+            "score": 5,
+            "text": "This recipe is really just amazingly delicious. Master Alchemist Dazcole, thank you."
+        },
+        {
+            "user": "Deweysuds",
+            "score": 5,
+            "text": "Really enjoy this at 2 weeks.  Darren delivers well thought out and balanced recipes...this one is my favorite&#xD;\n"
+        },
+        {
+            "user": "TheGrouch",
+            "score": 5,
+            "text": "Holy shit this stuff is good man! Not even a week steep and it's AMAZING!! I had to sub for FA almond, I gotta pick up some toasted almond my next order! Thanks for the awesome recipes!!"
+        },
+        {
+            "user": "orangetree",
+            "score": 5,
+            "text": "Having Darren in the friend list on facebook gives you a big benefit: Being able to mix his awesome recipes some days before he releases it! This one is absolutely delicious. Marzipan complements so well with blueberry and the cookie base works so well with it. Being able to create profiles like this distinguishes him from a lot of other mixers out there. Thank you!"
+        }
+    ]
 }

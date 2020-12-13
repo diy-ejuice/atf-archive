@@ -1,50 +1,51 @@
 {
-  "name": "Simply Rollin'",
-  "description": "Pretty good for 3 ingredients. Smells fresh from the oven. Cap's YC is perfect here, and CCI and RC just work together perfectly. Warning: Causes sugar lips! \r\n\r\nWhere can we take this?",
-  "id": 25482,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 300,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "coop34",
-  "views": "2393",
-  "slug": "simply_rollin",
-  "total_flavoring": "6.3%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AndreM",
-      "score": "5",
-      "text": "Simple perfection. Thank you for the recipe."
-    },
-    {
-      "user": "Burritoclock",
-      "score": "5",
-      "text": "Tasty and simple. Good rep of the profile. I feel like this could be expanded to other recipes as a base as well, but just mixed like this it's a pretty good cinnamon vape."
-    }
-  ]
+    "name": "Simply Rollin'",
+    "description": "Pretty good for 3 ingredients. Smells fresh from the oven. Cap's YC is perfect here, and CCI and RC just work together perfectly. Warning: Causes sugar lips! \r\n\r\nWhere can we take this?",
+    "id": 25482,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 300,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "coop34",
+    "views": "2408",
+    "created_at": "2017-01-06",
+    "slug": "simply_rollin",
+    "total_flavoring": "6.3%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AndreM",
+            "score": 5,
+            "text": "Simple perfection. Thank you for the recipe."
+        },
+        {
+            "user": "Burritoclock",
+            "score": 5,
+            "text": "Tasty and simple. Good rep of the profile. I feel like this could be expanded to other recipes as a base as well, but just mixed like this it's a pretty good cinnamon vape."
+        }
+    ]
 }

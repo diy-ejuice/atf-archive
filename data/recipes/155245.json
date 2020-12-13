@@ -1,62 +1,62 @@
 {
-  "name": "The nog roll ",
-  "description": "This ones taste really good may need a bit more cinnamon but good the way it is",
-  "id": 155245,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/155245/791452BC-87B0-483E-88B2-185BF7BD4C62.jpeg",
-  "updated_at": "2020-12-06T20:51:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eggnog",
-      "flavor_id": "1277",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "2234",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish",
-      "flavor_id": "156",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Johncox245",
-  "views": "843",
-  "slug": "the_nog_roll",
-  "total_flavoring": "14.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The nog roll ",
+    "description": "This ones taste really good may need a bit more cinnamon but good the way it is",
+    "id": 155245,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/155245\/791452BC-87B0-483E-88B2-185BF7BD4C62.jpeg",
+    "updated_at": "2020-12-12T05:56:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eggnog",
+            "flavor_id": "1277",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "2234",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish",
+            "flavor_id": "156",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Johncox245",
+    "views": "852",
+    "created_at": "2019-06-12",
+    "slug": "the_nog_roll",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/155245.jpeg",
+    "total_flavoring": "14.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

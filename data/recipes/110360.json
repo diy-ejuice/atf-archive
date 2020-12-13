@@ -1,62 +1,62 @@
 {
-  "name": "Banana Spider",
-  "description": "A refreshing ice cream spider with banana ice cream and a hint of coconut. \r\n\r\nI got my inspiration for this recipe from fond childhood memories of enjoying ice cream sodas on hot afternoons and the smooth creamy coolness of a scoop of ice cream floating in the sweet tangyness of my favourite soft drink.",
-  "id": 110360,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110360/small-20180716-28561-hz0n8x.jpg",
-  "updated_at": "2020-12-02T07:31:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cola Soda",
-      "flavor_id": "4174",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "7737",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Smooth",
-      "flavor_id": "381",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bullfrogi",
-  "views": "1242",
-  "slug": "banana_spider",
-  "total_flavoring": "17.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Spider",
+    "description": "A refreshing ice cream spider with banana ice cream and a hint of coconut. \r\n\r\nI got my inspiration for this recipe from fond childhood memories of enjoying ice cream sodas on hot afternoons and the smooth creamy coolness of a scoop of ice cream floating in the sweet tangyness of my favourite soft drink.",
+    "id": 110360,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/110360\/small-20180716-28561-hz0n8x.jpg",
+    "updated_at": "2020-12-10T13:45:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cola Soda",
+            "flavor_id": "4174",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "7737",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Smooth",
+            "flavor_id": "381",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bullfrogi",
+    "views": "1247",
+    "created_at": "2018-07-15",
+    "slug": "banana_spider",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/110360.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

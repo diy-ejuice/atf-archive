@@ -1,69 +1,71 @@
 {
-  "name": "Rage custard",
-  "description": "A great adv custard with a touch of lemon and the pear changes the feel to the recipe all the rest is gravy",
-  "id": 8716,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/8716/received_1807566046130031.jpeg",
-  "updated_at": "2020-12-07T21:31:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 2200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine ",
-      "flavor_id": "1709",
-      "millipercent": 200,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Ragevapesuk",
-  "views": "1370",
-  "slug": "rage_custard",
-  "total_flavoring": "15.1%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "Rage custard",
+    "description": "A great adv custard with a touch of lemon and the pear changes the feel to the recipe all the rest is gravy",
+    "id": 8716,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/8716\/received_1807566046130031.jpeg",
+    "updated_at": "2020-12-10T17:56:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 2200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine ",
+            "flavor_id": "1709",
+            "millipercent": 200,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Ragevapesuk",
+    "views": "1377",
+    "created_at": "2016-07-26",
+    "slug": "rage_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/8716.jpeg",
+    "total_flavoring": "15.1%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

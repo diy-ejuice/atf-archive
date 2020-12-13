@@ -1,78 +1,80 @@
 {
-  "name": "Grape Pop",
-  "description": "I was asked by a coworker to formulate a grape lollipop, I brought this to him yesterday and he immediately asked for more. I thought I'd share with those of you looking for a solid grape lollipop.\r\n\r\n-----------------------------------------------------------------------------\r\n\r\nNo thorough notes on this one really as this was done in just a few short revisions but....\r\n\r\n**FLV grape** is an awesome candy grape if you're looking to formulate your own. Also, It's very sweet so it carries the heft of sweetness in the mix.\r\n\r\n**TFA Grape Juice** pumps in the little lacking grape POP so to speak.\r\n\r\n**CAP Blueberry Jam** was a concentrate I hadn't found a use for yet but it serves well in this mix to provide a deeper candy \"effect\". Think of it as a \"texturizer\".\r\n\r\n**FA Meringue** isn't used as a sweetener here or even intended for a sugar effect, Instead it's meant to shave off any sharp notes you may perceive from the candy components. \r\n\r\n**FA Marshmallow** is used as an enhancer to serve to thicken up the mix. (Mouthfeel)",
-  "id": 110231,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110231/atf_grapepop.jpg",
-  "updated_at": "2020-12-08T00:50:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape",
-      "flavor_id": "2593",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "SteamOn",
-  "views": "5579",
-  "slug": "grape_pop",
-  "total_flavoring": "8.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 4,
-  "recipe_score": 4.8,
-  "reviews": [
-    {
-      "user": "Woody0707",
-      "score": "4",
-      "text": "Spot on grape lolly. Well done. "
-    },
-    {
-      "user": "ambzizbanannerz",
-      "score": "5",
-      "text": "If any1 is into grape at all this is a must mix! 5 stars!"
-    },
-    {
-      "user": "gravi-tea",
-      "score": "5",
-      "text": "100% grape lollipop my girlfriend can't get enough of this stuff! and it's great from snv too! good job"
-    },
-    {
-      "user": "SheckJuarez",
-      "score": "5",
-      "text": "Awesome. Definitely making this a regular part of the rotation.."
-    }
-  ]
+    "name": "Grape Pop",
+    "description": "I was asked by a coworker to formulate a grape lollipop, I brought this to him yesterday and he immediately asked for more. I thought I'd share with those of you looking for a solid grape lollipop.\r\n\r\n-----------------------------------------------------------------------------\r\n\r\nNo thorough notes on this one really as this was done in just a few short revisions but....\r\n\r\n**FLV grape** is an awesome candy grape if you're looking to formulate your own. Also, It's very sweet so it carries the heft of sweetness in the mix.\r\n\r\n**TFA Grape Juice** pumps in the little lacking grape POP so to speak.\r\n\r\n**CAP Blueberry Jam** was a concentrate I hadn't found a use for yet but it serves well in this mix to provide a deeper candy \"effect\". Think of it as a \"texturizer\".\r\n\r\n**FA Meringue** isn't used as a sweetener here or even intended for a sugar effect, Instead it's meant to shave off any sharp notes you may perceive from the candy components. \r\n\r\n**FA Marshmallow** is used as an enhancer to serve to thicken up the mix. (Mouthfeel)",
+    "id": 110231,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/110231\/atf_grapepop.jpg",
+    "updated_at": "2020-12-12T20:30:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape",
+            "flavor_id": "2593",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "SteamOn",
+    "views": "5590",
+    "created_at": "2018-07-14",
+    "slug": "grape_pop",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/110231.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Woody0707",
+            "score": 4,
+            "text": "Spot on grape lolly. Well done. "
+        },
+        {
+            "user": "ambzizbanannerz",
+            "score": 5,
+            "text": "If any1 is into grape at all this is a must mix! 5 stars!"
+        },
+        {
+            "user": "gravi-tea",
+            "score": 5,
+            "text": "100% grape lollipop my girlfriend can't get enough of this stuff! and it's great from snv too! good job"
+        },
+        {
+            "user": "SheckJuarez",
+            "score": 5,
+            "text": "Awesome. Definitely making this a regular part of the rotation.."
+        }
+    ]
 }

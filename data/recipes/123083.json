@@ -1,38 +1,37 @@
 {
-  "name": "123 mint cookie custard",
-  "description": "Have been keeping it simple lately. This is great for custards lovers with a cold. More notes to come.   ",
-  "id": 123083,
-  "image_url": null,
-  "updated_at": "2020-12-07T14:13:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookies & Cream – SC",
-      "flavor_id": "7484",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "631",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "shakenvape007",
-  "views": "1246",
-  "slug": "123_mint_cookie_custard",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "123 mint cookie custard",
+    "description": "Have been keeping it simple lately. This is great for custards lovers with a cold. More notes to come.   ",
+    "id": 123083,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookies & Cream \u2013 SC",
+            "flavor_id": "7484",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "631",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "shakenvape007",
+    "views": "1254",
+    "created_at": "2018-10-14",
+    "slug": "123_mint_cookie_custard",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0"
 }

@@ -1,44 +1,44 @@
 {
-  "name": "Rin's Yogurt Parfait",
-  "description": "Vanilla yogurt with berries and granola crumble. FLV Greek Yogurt to bump up CAP Creamy Yogurt slightly but this is optional. FA forest fruits for berry. TFA Oatmeal cookie adds a granola like effect as it has an oat flavor with light spices added. ",
-  "id": 194752,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194752/robin_shushack.jpg",
-  "updated_at": "2020-12-08T00:51:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Oatmeal Cookie",
-      "flavor_id": "178",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "615",
-      "millipercent": 200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "632",
-  "slug": "rins_yogurt_parfait",
-  "total_flavoring": "4.2%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Yogurt Parfait",
+    "description": "Vanilla yogurt with berries and granola crumble. FLV Greek Yogurt to bump up CAP Creamy Yogurt slightly but this is optional. FA forest fruits for berry. TFA Oatmeal cookie adds a granola like effect as it has an oat flavor with light spices added. ",
+    "id": 194752,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/194752\/robin_shushack.jpg",
+    "updated_at": "2020-12-12T01:42:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Oatmeal Cookie",
+            "flavor_id": "178",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "615",
+            "millipercent": 200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "638",
+    "created_at": "2020-05-17",
+    "slug": "rins_yogurt_parfait",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/194752.jpg",
+    "total_flavoring": "4.2%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

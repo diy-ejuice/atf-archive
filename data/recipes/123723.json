@@ -1,38 +1,38 @@
 {
-  "name": "Blue Razz Sour Gummy (pod)",
-  "description": "Playing around with some Liquid Barn concentrates. Wanted a candy flavor for my aspire breeze",
-  "id": 123723,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123723/blue_raz_gum.gif",
-  "updated_at": "2020-12-07T09:44:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sour Gummy",
-      "flavor_id": "8777",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "julezz",
-  "views": "2369",
-  "slug": "blue_razz_sour_gummy_pod",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Razz Sour Gummy (pod)",
+    "description": "Playing around with some Liquid Barn concentrates. Wanted a candy flavor for my aspire breeze",
+    "id": 123723,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123723\/blue_raz_gum.gif",
+    "updated_at": "2020-12-12T15:40:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sour Gummy",
+            "flavor_id": "8777",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "julezz",
+    "views": "2378",
+    "created_at": "2018-10-19",
+    "slug": "blue_razz_sour_gummy_pod",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123723.gif",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Milk and Shake Banana",
-  "description": "A milkshake banana full in milk and cream, while the milkshake base its an amazing concentrate and really helps to our mix to get the taste of a real milkshake. Give it 5 to 7 days to steep and enjoy!",
-  "id": 127494,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127494/bananamilkshake-600x860.jpg",
-  "updated_at": "2020-12-07T22:33:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milkshake Base",
-      "flavor_id": "8927",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creamy Custard",
-      "flavor_id": "8863",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla Ice Cream",
-      "flavor_id": "8880",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "1788",
-  "slug": "milk_and_shake_banana",
-  "total_flavoring": "10.3%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Milk and Shake Banana",
+    "description": "A milkshake banana full in milk and cream, while the milkshake base its an amazing concentrate and really helps to our mix to get the taste of a real milkshake. Give it 5 to 7 days to steep and enjoy!",
+    "id": 127494,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127494\/bananamilkshake-600x860.jpg",
+    "updated_at": "2020-12-10T14:52:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milkshake Base",
+            "flavor_id": "8927",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creamy Custard",
+            "flavor_id": "8863",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla Ice Cream",
+            "flavor_id": "8880",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "1797",
+    "created_at": "2018-11-16",
+    "slug": "milk_and_shake_banana",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127494.jpg",
+    "total_flavoring": "10.3%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

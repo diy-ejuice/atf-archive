@@ -1,69 +1,71 @@
 {
-  "name": "Monkey Suite",
-  "description": "A rich, decadent, banana custard tart. Not a shake-n-vape, needs at least a 4-week steep for the custards to develop properly, but thoroughly worth the wait.\r\n\r\nhttps://www.youtube.com/watch?v=nzUY6Iiur6E",
-  "id": 12125,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12125/monkey.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "2446",
-  "slug": "monkey_suite",
-  "total_flavoring": "16.0%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "A delicious blend of custard and banana will definitely make this again thanks"
-    }
-  ]
+    "name": "Monkey Suite",
+    "description": "A rich, decadent, banana custard tart. Not a shake-n-vape, needs at least a 4-week steep for the custards to develop properly, but thoroughly worth the wait.\r\n\r\nhttps:\/\/www.youtube.com\/watch?v=nzUY6Iiur6E",
+    "id": 12125,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12125\/monkey.jpg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "2460",
+    "created_at": "2016-08-31",
+    "slug": "monkey_suite",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12125.jpg",
+    "total_flavoring": "16.0%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "A delicious blend of custard and banana will definitely make this again thanks"
+        }
+    ]
 }

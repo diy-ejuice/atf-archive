@@ -1,80 +1,79 @@
 {
-  "name": "Doughness",
-  "description": "In my quest for that perfect doughnut to suit my wants of greasy doughy frosted sweetness I decided to take a different route. Any flavors I had that matched the dough character I added at around the normally used percentages. What cake out of it was shake and vape goodness that will only get better. To me it tastes like a full bodied old fashioned buttermilk doughnut with that thick sugar glaze coating. Precisely what I wanted it to taste like. I may revisit this and add either cap custard at 2% or fa custard at 2% or maybe even a Bavarian cream at 2% would suit this nicely. If you decide to add some custard to this one I would feel you could safely omit the marshmallow and meringue. ",
-  "id": 12854,
-  "image_url": null,
-  "updated_at": "2020-12-06T03:08:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "wOw",
-      "flavor_id": "4456",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pandoro",
-      "flavor_id": "538",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Metaphor",
-      "flavor_id": "4455",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "R08U57",
-  "views": "2709",
-  "slug": "doughness",
-  "total_flavoring": "16.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Doughness",
+    "description": "In my quest for that perfect doughnut to suit my wants of greasy doughy frosted sweetness I decided to take a different route. Any flavors I had that matched the dough character I added at around the normally used percentages. What cake out of it was shake and vape goodness that will only get better. To me it tastes like a full bodied old fashioned buttermilk doughnut with that thick sugar glaze coating. Precisely what I wanted it to taste like. I may revisit this and add either cap custard at 2% or fa custard at 2% or maybe even a Bavarian cream at 2% would suit this nicely. If you decide to add some custard to this one I would feel you could safely omit the marshmallow and meringue. ",
+    "id": 12854,
+    "image_url": null,
+    "updated_at": "2020-12-10T23:31:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "wOw",
+            "flavor_id": "4456",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pandoro",
+            "flavor_id": "538",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Metaphor",
+            "flavor_id": "4455",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "R08U57",
+    "views": "2719",
+    "created_at": "2016-09-08",
+    "slug": "doughness",
+    "total_flavoring": "16.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

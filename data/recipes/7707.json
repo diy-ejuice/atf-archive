@@ -1,44 +1,43 @@
 {
-  "name": "sneezecake",
-  "description": "Just a basic cheesecake experiment\r\n\r\nI make mine max VG, steep for at least half a week, 3mg",
-  "id": 7707,
-  "image_url": null,
-  "updated_at": "2020-11-29T14:47:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "stark",
-  "views": "1855",
-  "slug": "sneezecake",
-  "total_flavoring": "19.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "sneezecake",
+    "description": "Just a basic cheesecake experiment\r\n\r\nI make mine max VG, steep for at least half a week, 3mg",
+    "id": 7707,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "stark",
+    "views": "1859",
+    "created_at": "2016-07-14",
+    "slug": "sneezecake",
+    "total_flavoring": "19.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,44 +1,43 @@
 {
-  "name": "Wango Tango",
-  "description": "INW mango is actually the new INW Mango & Tango.\r\n\r\nGetting ready for warm weather",
-  "id": 144677,
-  "image_url": null,
-  "updated_at": "2020-12-01T07:52:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Mango & Tango",
-      "flavor_id": "10158",
-      "millipercent": 5000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "xXxLEONIDASxXx",
-  "views": "895",
-  "slug": "wango_tango",
-  "total_flavoring": "9.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Wango Tango",
+    "description": "INW mango is actually the new INW Mango & Tango.\r\n\r\nGetting ready for warm weather",
+    "id": 144677,
+    "image_url": null,
+    "updated_at": "2020-12-10T22:32:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Mango & Tango",
+            "flavor_id": "10158",
+            "millipercent": 5000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "xXxLEONIDASxXx",
+    "views": "900",
+    "created_at": "2019-03-28",
+    "slug": "wango_tango",
+    "total_flavoring": "9.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

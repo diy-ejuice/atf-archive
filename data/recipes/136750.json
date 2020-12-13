@@ -1,56 +1,58 @@
 {
-  "name": "Lemon Curd",
-  "description": "this is a simple, lush, sweet, smooth lemon tart taste with a nice mouth feel, all these flavors pair and play very nicely., ready to vape after the bubbles settle, and gets better each day. ",
-  "id": 136750,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136750/homemade-lemon-curd-16-2.jpg",
-  "updated_at": "2020-12-08T00:50:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "MixandHope",
-  "views": "2088",
-  "slug": "lemon_curd",
-  "total_flavoring": "7.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Kittybit",
-      "score": "5",
-      "text": "Very, very nice and fresh. Good mouth feel. Love it!"
-    },
-    {
-      "user": "fadedjay1",
-      "score": "5",
-      "text": "Love this recipe. Big fan of every ingredient. First time using lemon meringue tart and it’s amazing. Vaping this out of my mtl setup picking up the lemon meringue up front with the vanilla pudding under tones. Vanilla swirl just blends in for me and the yoghurt drink is also blended nicely but I think it will be more present after a longer steep. &#xD;\nThanks for the recipe!"
-    }
-  ]
+    "name": "Lemon Curd",
+    "description": "this is a simple, lush, sweet, smooth lemon tart taste with a nice mouth feel, all these flavors pair and play very nicely., ready to vape after the bubbles settle, and gets better each day. ",
+    "id": 136750,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/136750\/homemade-lemon-curd-16-2.jpg",
+    "updated_at": "2020-12-12T08:13:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "MixandHope",
+    "views": "2107",
+    "created_at": "2019-01-27",
+    "slug": "lemon_curd",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/136750.jpg",
+    "total_flavoring": "7.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Kittybit",
+            "score": 5,
+            "text": "Very, very nice and fresh. Good mouth feel. Love it!"
+        },
+        {
+            "user": "fadedjay1",
+            "score": 5,
+            "text": "Love this recipe. Big fan of every ingredient. First time using lemon meringue tart and it\u2019s amazing. Vaping this out of my mtl setup picking up the lemon meringue up front with the vanilla pudding under tones. Vanilla swirl just blends in for me and the yoghurt drink is also blended nicely but I think it will be more present after a longer steep. &#xD;\nThanks for the recipe!"
+        }
+    ]
 }

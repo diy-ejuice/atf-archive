@@ -1,75 +1,77 @@
 {
-  "name": "Tootall's Banana Cream Pie",
-  "description": "This is my banana cream pie  I made this  flavor  by request from my wife it turned out great. I used banana cream pie and quince for my main profile of my banana flavor. I made the pie crust with fa apple  pie and fa cookie. I made my  creaminess  with a combination I use quite a lot it's 1% of fa meringue and fa Vienna cream and cream freshh or just works. Then I added shisha vanilla because it helps out all the aspects of this recipe. Give it a try we enjoy this in my household.",
-  "id": 29691,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29691/Easy-Banana-Cream-Pie-4.jpg",
-  "updated_at": "2020-12-07T12:45:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Tootall",
-  "views": "2866",
-  "slug": "tootalls_banana_cream_pie",
-  "total_flavoring": "14.0%",
-  "steep_days": "5",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "none",
-      "text": "Oooh, I've got a good feeling about this one TT, I was just smelling the flavours one after the next as  I was mixing this and if Quince had no label, I'd be thinking it was banana based on smell. You're very clever. I'll get back with my thoughts, and I won't forget :)"
-    }
-  ]
+    "name": "Tootall's Banana Cream Pie",
+    "description": "This is my banana cream pie  I made this  flavor  by request from my wife it turned out great. I used banana cream pie and quince for my main profile of my banana flavor. I made the pie crust with fa apple  pie and fa cookie. I made my  creaminess  with a combination I use quite a lot it's 1% of fa meringue and fa Vienna cream and cream freshh or just works. Then I added shisha vanilla because it helps out all the aspects of this recipe. Give it a try we enjoy this in my household.",
+    "id": 29691,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29691\/Easy-Banana-Cream-Pie-4.jpg",
+    "updated_at": "2020-12-12T11:50:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Tootall",
+    "views": "2880",
+    "created_at": "2017-01-30",
+    "slug": "tootalls_banana_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29691.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "5",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 0,
+            "text": "Oooh, I've got a good feeling about this one TT, I was just smelling the flavours one after the next as  I was mixing this and if Quince had no label, I'd be thinking it was banana based on smell. You're very clever. I'll get back with my thoughts, and I won't forget :)"
+        }
+    ]
 }

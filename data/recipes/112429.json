@@ -1,50 +1,50 @@
 {
-  "name": "Hokey Pokey Honeycomb Ice Cream",
-  "description": "The Toffee Ice Cream is Hokey Pokey Ice Cream, but it's not in the database.  (https://www.chefsflavours.co.uk/vape-train-australia/5673-hokey-pokey-ice-cream.html) I'm not very good with complex descriptions. This is tasty & does need the long steep. Hope you enjoy it. ",
-  "id": 112429,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112429/Hokey_Pokey.jpg",
-  "updated_at": "2020-12-07T20:32:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 6000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "9957",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "8062282",
-  "views": "1198",
-  "slug": "hokey_pokey_honeycomb_ice_cream",
-  "total_flavoring": "14.25%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Hokey Pokey Honeycomb Ice Cream",
+    "description": "The Toffee Ice Cream is Hokey Pokey Ice Cream, but it's not in the database.  (https:\/\/www.chefsflavours.co.uk\/vape-train-australia\/5673-hokey-pokey-ice-cream.html) I'm not very good with complex descriptions. This is tasty & does need the long steep. Hope you enjoy it. ",
+    "id": 112429,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112429\/Hokey_Pokey.jpg",
+    "updated_at": "2020-12-11T22:44:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 6000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "9957",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "8062282",
+    "views": "1210",
+    "created_at": "2018-07-28",
+    "slug": "hokey_pokey_honeycomb_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112429.jpg",
+    "total_flavoring": "14.25%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,57 +1,58 @@
 {
-  "name": "Irish Cream",
-  "description": "Along the line of Bailey's. Add 1% CAP super sweet if preferred. Mixed at 80/20.",
-  "id": 1710,
-  "image_url": null,
-  "updated_at": "2020-12-06T10:36:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BMW",
-  "views": "2216",
-  "slug": "irish_cream",
-  "total_flavoring": "6.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "3",
-      "text": "was really excited about this one cuz i looooove irish cream but after 2 weeks steep its just missing something, maybe some whiskey to kick it up or perhaps its the vienna cream that off puts it somehow, i dunno, I'm gonna keep trying for an authentic baileys mix.  nice effort though"
-    }
-  ]
+    "name": "Irish Cream",
+    "description": "Along the line of Bailey's. Add 1% CAP super sweet if preferred. Mixed at 80\/20.",
+    "id": 1710,
+    "image_url": null,
+    "updated_at": "2020-12-12T03:44:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BMW",
+    "views": "2224",
+    "created_at": "2016-04-06",
+    "slug": "irish_cream",
+    "total_flavoring": "6.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 3,
+            "text": "was really excited about this one cuz i looooove irish cream but after 2 weeks steep its just missing something, maybe some whiskey to kick it up or perhaps its the vienna cream that off puts it somehow, i dunno, I'm gonna keep trying for an authentic baileys mix.  nice effort though"
+        }
+    ]
 }

@@ -1,75 +1,76 @@
 {
-  "name": "Happy St. Patties Day everyone",
-  "description": "Ive been trying too make something good for the green beer holiday coming up ",
-  "id": 92462,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "1486",
-      "millipercent": 500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream Milky Undertone VG",
-      "flavor_id": "6541",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 2500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Mint",
-      "flavor_id": "8778",
-      "millipercent": 2000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "981",
-  "slug": "happy_st_patties_day_everyone",
-  "total_flavoring": "16.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Happy St. Patties Day everyone",
+    "description": "Ive been trying too make something good for the green beer holiday coming up ",
+    "id": 92462,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "1486",
+            "millipercent": 500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream Milky Undertone VG",
+            "flavor_id": "6541",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 2500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Mint",
+            "flavor_id": "8778",
+            "millipercent": 2000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "989",
+    "created_at": "2018-03-15",
+    "slug": "happy_st_patties_day_everyone",
+    "total_flavoring": "16.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Candew Milk",
-  "description": "***I adjusted the % on the Cantaloupe and Honeydew to balance the off notes, inherently present in TPA Honeydew at higher %'s. \r\n\r\n\r\nA magnificent melon milk celebrating the awesomeness that is Cantaloupe and Honeydew.\r\n\r\nThe recipe is based on the winning base from Melon Milk by shakenvape007 and the melon combo from Canary Coulis by Charlie Noble.\r\n\r\nThe milk base is a deceptively simple masterpiece and lays the foundation upon which the fruits can shine. \r\n\r\nThe LB Honeydew is not the best honeydew around but it acts here as the neutralizer - it adds a green, unripened honeydew element, which helps to counteract the inherent sweetness from the FW Cantaloupe and TPA Honeydew - sort of my acidic balance. \r\n\r\nThis one does not need a very long rest and will be decent after an overnight sleep, but ideal after 5 days or so.\r\n",
-  "id": 83314,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83314/B606ED39-F171-4F0D-8619-DCC79E33F981.jpeg",
-  "updated_at": "2020-12-08T00:49:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "1227",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "1492",
-      "millipercent": 2000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "RudeRudi",
-  "views": "2095",
-  "slug": "candew_milk",
-  "total_flavoring": "9.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "This is coming across as terribly soapy to me. However, it should be noted that that's quite likely mostly my own damage and is not the mixers' fault. I've found that most of the time when I try someone else's recipe as written with TFA Honeydew, I get a hint of some soap, but then when I go back and mix it again with half as much Honeydew, the soap is gone. So maybe forget about the soap part, that's just me. But it's also an overpowering amount of honeydew. I'm not really getting any cantaloupe flavor. Just a very forward ripe honeydew with a crisper honeydew behind it, with some milky cream underneath. I must say, that cream is nice. I might like to come back and try this again with both of the honeydews cut in half to see if cantaloupe shines though and tastes good. Even if it doesn't, it should be worth a mix just to enjoy that cream base again and give some more thought to stealing/adapting it to other fruit and cream recipes. "
-    }
-  ]
+    "name": "Candew Milk",
+    "description": "***I adjusted the % on the Cantaloupe and Honeydew to balance the off notes, inherently present in TPA Honeydew at higher %'s. \r\n\r\n\r\nA magnificent melon milk celebrating the awesomeness that is Cantaloupe and Honeydew.\r\n\r\nThe recipe is based on the winning base from Melon Milk by shakenvape007 and the melon combo from Canary Coulis by Charlie Noble.\r\n\r\nThe milk base is a deceptively simple masterpiece and lays the foundation upon which the fruits can shine. \r\n\r\nThe LB Honeydew is not the best honeydew around but it acts here as the neutralizer - it adds a green, unripened honeydew element, which helps to counteract the inherent sweetness from the FW Cantaloupe and TPA Honeydew - sort of my acidic balance. \r\n\r\nThis one does not need a very long rest and will be decent after an overnight sleep, but ideal after 5 days or so.\r\n",
+    "id": 83314,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83314\/B606ED39-F171-4F0D-8619-DCC79E33F981.jpeg",
+    "updated_at": "2020-12-12T20:29:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "1227",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "1492",
+            "millipercent": 2000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "RudeRudi",
+    "views": "2111",
+    "created_at": "2018-01-13",
+    "slug": "candew_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83314.jpeg",
+    "total_flavoring": "9.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "This is coming across as terribly soapy to me. However, it should be noted that that's quite likely mostly my own damage and is not the mixers' fault. I've found that most of the time when I try someone else's recipe as written with TFA Honeydew, I get a hint of some soap, but then when I go back and mix it again with half as much Honeydew, the soap is gone. So maybe forget about the soap part, that's just me. But it's also an overpowering amount of honeydew. I'm not really getting any cantaloupe flavor. Just a very forward ripe honeydew with a crisper honeydew behind it, with some milky cream underneath. I must say, that cream is nice. I might like to come back and try this again with both of the honeydews cut in half to see if cantaloupe shines though and tastes good. Even if it doesn't, it should be worth a mix just to enjoy that cream base again and give some more thought to stealing\/adapting it to other fruit and cream recipes. "
+        }
+    ]
 }

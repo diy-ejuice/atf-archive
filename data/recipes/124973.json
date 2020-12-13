@@ -1,50 +1,52 @@
 {
-  "name": "1 2 3 Poinsettia",
-  "description": "A Poinsettia is a cocktail made with orange liqueur, cranberry juice and champagne. 1-2-3 style. ",
-  "id": 124973,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124973/Screenshot_2018-10-27-20-56-14_2.png",
-  "updated_at": "2020-12-08T00:50:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Morning Mimosa",
-      "flavor_id": "8558",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Champagne",
-      "flavor_id": "1380",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "hibbadoray",
-  "views": "1232",
-  "slug": "1_2_3_poinsettia",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "That is a frightening amount of Morning Mimosa, but the tartness of the cranberry and the candy sweetness of the FW Pink Champagne cleans up nicely and makes an awesome simple recipe that really tastes like the picture. Pushing the Mimosa so high gives it a zesty orange top note like the picture. There’s plenty of both orange and cranberry flavors and a sweet champagne base, and that cranberry tartness comes back around in the finish. Overall, just a fantastic combination of three ingredients that tastes like more than that because the Mimosa is so complex. Bravo!   "
-    },
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "Holy hell, this thing is perfect. The pink bubbly and Morning Mimosa combine into the absolute perfect taste of mimosa with pink champagne and orange liqueur.  The cranberry juice side adds that just right amount of tart (that occasionally lingers in the throat even after exhale, and that's a GOOD thing. Adds authenticity) that sets it off perfectly. I went on a binge for these things after I'd first heard of them, and this totally captures it perfectly. Easy ADV, or a good treat to go with brunch.&#xD;\n&#xD;\nNicely done!"
-    }
-  ]
+    "name": "1 2 3 Poinsettia",
+    "description": "A Poinsettia is a cocktail made with orange liqueur, cranberry juice and champagne. 1-2-3 style. ",
+    "id": 124973,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124973\/Screenshot_2018-10-27-20-56-14_2.png",
+    "updated_at": "2020-12-12T15:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Morning Mimosa",
+            "flavor_id": "8558",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Champagne",
+            "flavor_id": "1380",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "hibbadoray",
+    "views": "1242",
+    "created_at": "2018-10-28",
+    "slug": "1_2_3_poinsettia",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124973.png",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "That is a frightening amount of Morning Mimosa, but the tartness of the cranberry and the candy sweetness of the FW Pink Champagne cleans up nicely and makes an awesome simple recipe that really tastes like the picture. Pushing the Mimosa so high gives it a zesty orange top note like the picture. There\u2019s plenty of both orange and cranberry flavors and a sweet champagne base, and that cranberry tartness comes back around in the finish. Overall, just a fantastic combination of three ingredients that tastes like more than that because the Mimosa is so complex. Bravo!   "
+        },
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "Holy hell, this thing is perfect. The pink bubbly and Morning Mimosa combine into the absolute perfect taste of mimosa with pink champagne and orange liqueur.  The cranberry juice side adds that just right amount of tart (that occasionally lingers in the throat even after exhale, and that's a GOOD thing. Adds authenticity) that sets it off perfectly. I went on a binge for these things after I'd first heard of them, and this totally captures it perfectly. Easy ADV, or a good treat to go with brunch.&#xD;\n&#xD;\nNicely done!"
+        }
+    ]
 }

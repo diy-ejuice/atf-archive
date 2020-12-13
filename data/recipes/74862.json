@@ -1,90 +1,92 @@
 {
-  "name": "Next level almond cookie ",
-  "description": "Inspired by the king of cookie Chrisdvr1.  One of the first cookies you can taste on the drawl.  The almond is immediate.  Then following is the crisp cookie with the almond backing it up.  As you exhale you get the Vienna cream an the cream from the sugar. The almond is there to make sure the almond in almond cookie doesn’t get overtaken.  The sugar cookie and crispy wafer battle each other for crispness and moistness do a great job of putting this cookie we’re it Needs to be and holding that line between dry and moist. Then the Vienna cream creams things up with the Bavarian cream to be the glue.",
-  "id": 74862,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/74862/3D84E617-2683-4E93-B50D-FE4A8E026234.jpeg",
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond Cookie SC",
-      "flavor_id": "9013",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Fleming",
-  "views": "3130",
-  "slug": "next_level_almond_cookie",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "5",
-      "text": "After 4 days of steeping, its a really nice cookie for me. Soft, buttery, crispy, all what you expect from a ofen fresh cookie.&#xD;\nAnd the Almond is on point, lingering in the background.. Thanks for the recipe."
-    },
-    {
-      "user": "finsamson",
-      "score": "5",
-      "text": "Wonderful almond cookie. The almond is more subtle which is how I like it as it can get an off flavour to me. The cookie is nice and soft. Perfect combination. Thanks for this one!"
-    },
-    {
-      "user": "Aritria",
-      "score": "5",
-      "text": "Great use of the WF Almond Cookie and great addition of the TFA Butter with the WF Crispy Wafer.  I've mixed this quite a few times and find it to be a thick, balanced, buttery bakery.  This is a great ADV, great with coffee.  I found it great off the shake but perfect after 5 days max steep.  Awesome job Fleming - thanks for sharing your work!!&#xD;\n&#xD;\nSide note, the 2nd time I mixed it I mixed a 120 ml and spilled the whole thing on my keyboard.  Is was that good!"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Outstanding sweet, rich, buttery almond cookie! Should have made a bigger batch, I absolutely love this stuff.  If you have WF Almond Cookie and have been wondering what to do with it or how to make it better, this is the answer. It has, as stated, just the right balance between dry and moist for a homemade type of cookie with almond inside and out, not one of those dried out crumbly ones. I recommend steeping longer than the 3 days suggested by the creator to let the nail polish remover off-note from Vienna Cream fully steep out. I accidentally waited 19 days but 5 to 7 should do it. "
-    }
-  ]
+    "name": "Next level almond cookie ",
+    "description": "Inspired by the king of cookie Chrisdvr1.  One of the first cookies you can taste on the drawl.  The almond is immediate.  Then following is the crisp cookie with the almond backing it up.  As you exhale you get the Vienna cream an the cream from the sugar. The almond is there to make sure the almond in almond cookie doesn\u2019t get overtaken.  The sugar cookie and crispy wafer battle each other for crispness and moistness do a great job of putting this cookie we\u2019re it Needs to be and holding that line between dry and moist. Then the Vienna cream creams things up with the Bavarian cream to be the glue.",
+    "id": 74862,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/74862\/3D84E617-2683-4E93-B50D-FE4A8E026234.jpeg",
+    "updated_at": "2020-12-12T15:39:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond Cookie SC",
+            "flavor_id": "9013",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Fleming",
+    "views": "3147",
+    "created_at": "2017-11-18",
+    "slug": "next_level_almond_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/74862.jpeg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 5,
+            "text": "After 4 days of steeping, its a really nice cookie for me. Soft, buttery, crispy, all what you expect from a ofen fresh cookie.&#xD;\nAnd the Almond is on point, lingering in the background.. Thanks for the recipe."
+        },
+        {
+            "user": "finsamson",
+            "score": 5,
+            "text": "Wonderful almond cookie. The almond is more subtle which is how I like it as it can get an off flavour to me. The cookie is nice and soft. Perfect combination. Thanks for this one!"
+        },
+        {
+            "user": "Aritria",
+            "score": 5,
+            "text": "Great use of the WF Almond Cookie and great addition of the TFA Butter with the WF Crispy Wafer.  I've mixed this quite a few times and find it to be a thick, balanced, buttery bakery.  This is a great ADV, great with coffee.  I found it great off the shake but perfect after 5 days max steep.  Awesome job Fleming - thanks for sharing your work!!&#xD;\n&#xD;\nSide note, the 2nd time I mixed it I mixed a 120 ml and spilled the whole thing on my keyboard.  Is was that good!"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Outstanding sweet, rich, buttery almond cookie! Should have made a bigger batch, I absolutely love this stuff.  If you have WF Almond Cookie and have been wondering what to do with it or how to make it better, this is the answer. It has, as stated, just the right balance between dry and moist for a homemade type of cookie with almond inside and out, not one of those dried out crumbly ones. I recommend steeping longer than the 3 days suggested by the creator to let the nail polish remover off-note from Vienna Cream fully steep out. I accidentally waited 19 days but 5 to 7 should do it. "
+        }
+    ]
 }

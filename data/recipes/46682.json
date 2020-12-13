@@ -1,44 +1,43 @@
 {
-  "name": "Vain Thrills",
-  "description": "A floral, clean mix to highlight FLV Alpine Strawberry. FLV Basil works wonderfully here, pairing with the earthy notes of Alpine, and adding a nice herbal note to compliment the sweetness. FW Huckleberry adds a bit more credibility to FLV Alpine strawberry, an actual berry note to take it from strawberry flavor concentrate to actual strawberry flavor. TFA Honeysuckle went in here to supplement the sweetness of the strawberry and floral-ness of the basil.\r\n\r\nDon't vape this after 24 hours. Wait the full 4 days. You've been warned.",
-  "id": 46682,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Basil",
-      "flavor_id": "4387",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Huckleberry",
-      "flavor_id": "1318",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "1416",
-  "slug": "vain_thrills",
-  "total_flavoring": "4.5%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vain Thrills",
+    "description": "A floral, clean mix to highlight FLV Alpine Strawberry. FLV Basil works wonderfully here, pairing with the earthy notes of Alpine, and adding a nice herbal note to compliment the sweetness. FW Huckleberry adds a bit more credibility to FLV Alpine strawberry, an actual berry note to take it from strawberry flavor concentrate to actual strawberry flavor. TFA Honeysuckle went in here to supplement the sweetness of the strawberry and floral-ness of the basil.\r\n\r\nDon't vape this after 24 hours. Wait the full 4 days. You've been warned.",
+    "id": 46682,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:03:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Basil",
+            "flavor_id": "4387",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Huckleberry",
+            "flavor_id": "1318",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "1420",
+    "created_at": "2017-05-18",
+    "slug": "vain_thrills",
+    "total_flavoring": "4.5%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

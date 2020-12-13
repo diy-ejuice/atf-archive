@@ -1,50 +1,50 @@
 {
-  "name": "Blueberry Tea",
-  "description": "a light splash of cream in a hot cup of black tea with dried blueberries. \r\n\r\nThe FA Black tea works as a slightly astringent black tea, almost as though it were steeped just a bit too long.\r\n\r\nThat's where the creams come in though, helping to bury that astringent note and fill out the body of the tea. Originally the recipe called for twice as much of each cream, but that will lend itself to a faint sour note from the sweet cream. dialing them both back by half left the tea to stand up on its own, while still burying that astringency.\r\n\r\nThe blueberry combo used here is more \"earthy\" and marries well into the tea. Not a shock of bold fresh blueberries, but instead more of the dried berry you'd see in an herbal tea.",
-  "id": 124391,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124391/blueberry_tea.jpg",
-  "updated_at": "2020-12-07T22:33:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tea Black Water Soluble",
-      "flavor_id": "548",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 2700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1850,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1850,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Foment_life",
-  "views": "1334",
-  "slug": "blueberry_tea",
-  "total_flavoring": "12.1%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Tea",
+    "description": "a light splash of cream in a hot cup of black tea with dried blueberries. \r\n\r\nThe FA Black tea works as a slightly astringent black tea, almost as though it were steeped just a bit too long.\r\n\r\nThat's where the creams come in though, helping to bury that astringent note and fill out the body of the tea. Originally the recipe called for twice as much of each cream, but that will lend itself to a faint sour note from the sweet cream. dialing them both back by half left the tea to stand up on its own, while still burying that astringency.\r\n\r\nThe blueberry combo used here is more \"earthy\" and marries well into the tea. Not a shock of bold fresh blueberries, but instead more of the dried berry you'd see in an herbal tea.",
+    "id": 124391,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124391\/blueberry_tea.jpg",
+    "updated_at": "2020-12-11T05:42:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tea Black Water Soluble",
+            "flavor_id": "548",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 2700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1850,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1850,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Foment_life",
+    "views": "1354",
+    "created_at": "2018-10-23",
+    "slug": "blueberry_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124391.jpg",
+    "total_flavoring": "12.1%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

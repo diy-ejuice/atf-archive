@@ -1,44 +1,43 @@
 {
-  "name": "Dunks-a-donut",
-  "description": "Slightly vanilla glazed donut dunked in a creamy milk great shake and vape, even better with two day steep",
-  "id": 20539,
-  "image_url": null,
-  "updated_at": "2020-11-30T20:57:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "PolarizedOath",
-  "views": "2034",
-  "slug": "dunksadonut",
-  "total_flavoring": "11.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dunks-a-donut",
+    "description": "Slightly vanilla glazed donut dunked in a creamy milk great shake and vape, even better with two day steep",
+    "id": 20539,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "PolarizedOath",
+    "views": "2042",
+    "created_at": "2016-11-19",
+    "slug": "dunksadonut",
+    "total_flavoring": "11.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

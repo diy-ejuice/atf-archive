@@ -1,103 +1,105 @@
 {
-  "name": "Peanut Butter Custard Milkshake",
-  "description": "A bold and smooth Peanut Butter Milkshake profile. Nutty, Creamy, Thick! Koolada and Saline are optional.\r\n\r\nVideo for flavor notes: \r\nhttps://www.youtube.com/watch?v=M67_89eFmyE",
-  "id": 33176,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33176/pbcm.png",
-  "updated_at": "2020-12-08T00:49:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 100,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Saline (0.9%)",
-      "flavor_id": "5960",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "SteamOn",
-  "views": "7683",
-  "slug": "peanut_butter_custard_milkshake",
-  "total_flavoring": "17.1%",
-  "steep_days": "14",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "SlashaLO",
-      "score": "5",
-      "text": "Loved this. Its great. Very thick, creamy vape. Great PB taste. Custard and creams are balanced. You can taste the thick shake. Great job!"
-    },
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "I have been craving peanut butter so, upon recommendation from someone else, I decided to mix this up and boy am I glad I did. This is really a delicious recipe. I left out the saline solution since I didn't have any but it is still so very tasty. Very well balanced with the creams and milkshake components with the peanut butter. Nice work sir!"
-    }
-  ]
+    "name": "Peanut Butter Custard Milkshake",
+    "description": "A bold and smooth Peanut Butter Milkshake profile. Nutty, Creamy, Thick! Koolada and Saline are optional.\r\n\r\nVideo for flavor notes: \r\nhttps:\/\/www.youtube.com\/watch?v=M67_89eFmyE",
+    "id": 33176,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/33176\/pbcm.png",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 100,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Saline (0.9%)",
+            "flavor_id": "5960",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "SteamOn",
+    "views": "7697",
+    "created_at": "2017-02-21",
+    "slug": "peanut_butter_custard_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/33176.png",
+    "total_flavoring": "17.1%",
+    "steep_days": "14",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "SlashaLO",
+            "score": 5,
+            "text": "Loved this. Its great. Very thick, creamy vape. Great PB taste. Custard and creams are balanced. You can taste the thick shake. Great job!"
+        },
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "I have been craving peanut butter so, upon recommendation from someone else, I decided to mix this up and boy am I glad I did. This is really a delicious recipe. I left out the saline solution since I didn't have any but it is still so very tasty. Very well balanced with the creams and milkshake components with the peanut butter. Nice work sir!"
+        }
+    ]
 }

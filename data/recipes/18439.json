@@ -1,50 +1,49 @@
 {
-  "name": "Autumn Danish",
-  "description": "Sweet Cinnamon Apple Raspberry Bakery. \r\n\r\nSweet apple raspberry front notes with flakey cinnamon bakery back notes.\r\n\r\nJF Fuji gives the recipe a natural juicy apple taste.\r\nTFA Sweet Raspberry gives the raspberry flavor needed to hit the profile.\r\nTFA Strawberry Ripe gives more overall sweetness and settles in with the sweet raspberry toning down some of the candyness.\r\nCAP Cinnamon Danish Swirl gives the main cinnamon profile and the base layer of the bakery.\r\nCAP Graham Cracker helps boost the cinnamon notes and also adds a nice flakey taste to the profile.\r\n\r\nOverall i think it turned out delicious and I shocked myself with how much mixing knowledge I have learned while trying to come up with this recipe.\r\n",
-  "id": 18439,
-  "image_url": null,
-  "updated_at": "2020-12-05T18:46:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "4488",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Vali",
-  "views": "911",
-  "slug": "autumn_danish",
-  "total_flavoring": "12.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Autumn Danish",
+    "description": "Sweet Cinnamon Apple Raspberry Bakery. \r\n\r\nSweet apple raspberry front notes with flakey cinnamon bakery back notes.\r\n\r\nJF Fuji gives the recipe a natural juicy apple taste.\r\nTFA Sweet Raspberry gives the raspberry flavor needed to hit the profile.\r\nTFA Strawberry Ripe gives more overall sweetness and settles in with the sweet raspberry toning down some of the candyness.\r\nCAP Cinnamon Danish Swirl gives the main cinnamon profile and the base layer of the bakery.\r\nCAP Graham Cracker helps boost the cinnamon notes and also adds a nice flakey taste to the profile.\r\n\r\nOverall i think it turned out delicious and I shocked myself with how much mixing knowledge I have learned while trying to come up with this recipe.\r\n",
+    "id": 18439,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "4488",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Vali",
+    "views": "922",
+    "created_at": "2016-10-31",
+    "slug": "autumn_danish",
+    "total_flavoring": "12.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

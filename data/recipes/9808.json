@@ -1,57 +1,59 @@
 {
-  "name": "Pearapple",
-  "description": "A simple yet satisfying profile: Pear and Pineapple. Check it out!",
-  "id": 9808,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9808/Capture.JPG",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "2295",
-  "slug": "pearapple",
-  "total_flavoring": "8.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Philosaphucker",
-      "score": "5",
-      "text": "This took about 10 days to truly come together, but the result is truly satisfying. Thanks Cheeba!"
-    }
-  ]
+    "name": "Pearapple",
+    "description": "A simple yet satisfying profile: Pear and Pineapple. Check it out!",
+    "id": 9808,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9808\/Capture.JPG",
+    "updated_at": "2020-12-12T11:50:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "2311",
+    "created_at": "2016-08-06",
+    "slug": "pearapple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9808.JPG",
+    "total_flavoring": "8.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Philosaphucker",
+            "score": 5,
+            "text": "This took about 10 days to truly come together, but the result is truly satisfying. Thanks Cheeba!"
+        }
+    ]
 }

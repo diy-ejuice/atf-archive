@@ -1,99 +1,101 @@
 {
-  "name": "Dude.. Wheres My Lemons?",
-  "description": "I wondered what would happen if I removed the strawberry's from \"My Dude\" and added in some Lemon and Meringue... Pure magic happened!! I love it. It's only about 12hours old but its delicious!\r\n\r\nLemon Meringue Ice Cream",
-  "id": 16324,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16324/LMIC.png",
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "WhoIsJayson",
-  "views": "6463",
-  "slug": "dude_wheres_my_lemons",
-  "total_flavoring": "14.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 7,
-  "recipe_score": 4.7,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "5",
-      "text": "I really nice Ice Cream Vape Not to much Lemon, exatly right after 3 days, best after 7days. &#xD;\nLonger steeping mutes the Lemon. I  decreased the sweetener to 0.8%, That helps against the Lemon muting, because there is Etyl Malthol in the TPA Sweetener.. If that is not sweet enough, its better to use CAPs Super Sweet, because there is no EM inside.&#xD;\n&#xD;\nThanks for this great recipe."
-    },
-    {
-      "user": "Ambedo",
-      "score": "5",
-      "text": "Really good flavor! I noticed some muting after it steeped for a long time, but it is nice as a shake and vape, and it get really really good after a 1 week steep. Great work! PS - i lowered the sweetener percentage a bit in my batch. "
-    },
-    {
-      "user": "egorsokolov",
-      "score": "5",
-      "text": "First decent lemon vape I ever encountered, thanks"
-    },
-    {
-      "user": "Friction2600",
-      "score": "5",
-      "text": "This is fantastic! I really enjoy this as a lemon vape, it vapes just as advertised and i let it go for a week. Thanks for sharing!"
-    },
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "This is a winner in my book.  Kind of a basic lemon cream recipe but its so good.  Let it steep for a week and brought it to work and everyone really liked it.  I've been looking for a good sweet lemon cream for a while and never seem to get what I'm looking for.  I dropped the sweetener down just out of personal preference. Definitely be making more of this in the future.  Good adaptation. "
-    },
-    {
-      "user": "Wallacesean77",
-      "score": "4",
-      "text": "Bro you have a good adaptation here"
-    },
-    {
-      "user": "Ripstorm",
-      "score": "4",
-      "text": "Mixed it up last night. Not bad! I also suggest trying Wayne's Funfetti recipe and adding 3% FA Lemon Sicily for a lemon vanilla cake effect. This recipe reminds me of that"
-    }
-  ]
+    "name": "Dude.. Wheres My Lemons?",
+    "description": "I wondered what would happen if I removed the strawberry's from \"My Dude\" and added in some Lemon and Meringue... Pure magic happened!! I love it. It's only about 12hours old but its delicious!\r\n\r\nLemon Meringue Ice Cream",
+    "id": 16324,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16324\/LMIC.png",
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "WhoIsJayson",
+    "views": "6475",
+    "created_at": "2016-10-15",
+    "slug": "dude_wheres_my_lemons",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16324.png",
+    "total_flavoring": "14.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 7,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 5,
+            "text": "I really nice Ice Cream Vape Not to much Lemon, exatly right after 3 days, best after 7days. &#xD;\nLonger steeping mutes the Lemon. I  decreased the sweetener to 0.8%, That helps against the Lemon muting, because there is Etyl Malthol in the TPA Sweetener.. If that is not sweet enough, its better to use CAPs Super Sweet, because there is no EM inside.&#xD;\n&#xD;\nThanks for this great recipe."
+        },
+        {
+            "user": "Ambedo",
+            "score": 5,
+            "text": "Really good flavor! I noticed some muting after it steeped for a long time, but it is nice as a shake and vape, and it get really really good after a 1 week steep. Great work! PS - i lowered the sweetener percentage a bit in my batch. "
+        },
+        {
+            "user": "egorsokolov",
+            "score": 5,
+            "text": "First decent lemon vape I ever encountered, thanks"
+        },
+        {
+            "user": "Friction2600",
+            "score": 5,
+            "text": "This is fantastic! I really enjoy this as a lemon vape, it vapes just as advertised and i let it go for a week. Thanks for sharing!"
+        },
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "This is a winner in my book.  Kind of a basic lemon cream recipe but its so good.  Let it steep for a week and brought it to work and everyone really liked it.  I've been looking for a good sweet lemon cream for a while and never seem to get what I'm looking for.  I dropped the sweetener down just out of personal preference. Definitely be making more of this in the future.  Good adaptation. "
+        },
+        {
+            "user": "Wallacesean77",
+            "score": 4,
+            "text": "Bro you have a good adaptation here"
+        },
+        {
+            "user": "Ripstorm",
+            "score": 4,
+            "text": "Mixed it up last night. Not bad! I also suggest trying Wayne's Funfetti recipe and adding 3% FA Lemon Sicily for a lemon vanilla cake effect. This recipe reminds me of that"
+        }
+    ]
 }

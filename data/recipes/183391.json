@@ -1,87 +1,89 @@
 {
-  "name": "Honey Banana Cookie",
-  "description": "My goal was to recreate a banana cookie with hints of honey and cinnamon that I used to eat as a child. I tried this before with no success because the banana layer just wasn't right because of missing flavors. I nailed this profile as soon as I got some more bananas in my stash.\r\n\r\nThis is good as a SNV but everything goes into place after a week.\r\n\r\n**VT Biscuit Base/FA Cookie** - these two together bring a perfect crunchy buttery cookie\r\n\r\n**Bananas** - At these % this blends into the cookie base perfectly to create a single unit banana cookie\r\n\r\n**FA Honey** - Just enough to give the needed honey\r\n\r\n**VT Honeycomb** - This helps boost the honey and bring some creaminess into the profile\r\n\r\n**CAP Cinnamon Sugar** - This brings a nice cinnamon without overtaking all the other flavors\r\n\r\n**FA Vanilla Tahity** - This was the chosen vanilla for the mix, it fits perfectly into the cookie and cannot be substituted for any other vanillas\r\n\r\n**CAP Super Sweet** - I actually use my own sucralose dilution that is very similar to super sweet in strength but doesn't contain all the other ingredients found in it. As always, add it to your liking but at 0.25 this brings just enough sweetness to the mix\r\n\r\nI have been mixing for around 2 yeas and this is my first contribution to ATF, any input from you on here would be very welcome, good or bad!",
-  "id": 183391,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/183391/external-content.duckduckgo.com.jfif",
-  "updated_at": "2020-12-07T17:36:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cinnamon Sugar",
-      "flavor_id": "8741",
-      "millipercent": 1750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Soft Banana",
-      "flavor_id": "1524",
-      "millipercent": 1000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Vanilla Tahity",
-      "flavor_id": "555",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "LeDiyBR",
-  "views": "774",
-  "slug": "honey_banana_cookie",
-  "total_flavoring": "11.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "none",
-      "text": "I'll pick up biscuit base and vanilla tahity and give this a whirl!"
-    }
-  ]
+    "name": "Honey Banana Cookie",
+    "description": "My goal was to recreate a banana cookie with hints of honey and cinnamon that I used to eat as a child. I tried this before with no success because the banana layer just wasn't right because of missing flavors. I nailed this profile as soon as I got some more bananas in my stash.\r\n\r\nThis is good as a SNV but everything goes into place after a week.\r\n\r\n**VT Biscuit Base\/FA Cookie** - these two together bring a perfect crunchy buttery cookie\r\n\r\n**Bananas** - At these % this blends into the cookie base perfectly to create a single unit banana cookie\r\n\r\n**FA Honey** - Just enough to give the needed honey\r\n\r\n**VT Honeycomb** - This helps boost the honey and bring some creaminess into the profile\r\n\r\n**CAP Cinnamon Sugar** - This brings a nice cinnamon without overtaking all the other flavors\r\n\r\n**FA Vanilla Tahity** - This was the chosen vanilla for the mix, it fits perfectly into the cookie and cannot be substituted for any other vanillas\r\n\r\n**CAP Super Sweet** - I actually use my own sucralose dilution that is very similar to super sweet in strength but doesn't contain all the other ingredients found in it. As always, add it to your liking but at 0.25 this brings just enough sweetness to the mix\r\n\r\nI have been mixing for around 2 yeas and this is my first contribution to ATF, any input from you on here would be very welcome, good or bad!",
+    "id": 183391,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/183391\/external-content.duckduckgo.com.jfif",
+    "updated_at": "2020-12-11T18:25:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cinnamon Sugar",
+            "flavor_id": "8741",
+            "millipercent": 1750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Soft Banana",
+            "flavor_id": "1524",
+            "millipercent": 1000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Vanilla Tahity",
+            "flavor_id": "555",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "LeDiyBR",
+    "views": "785",
+    "created_at": "2020-02-02",
+    "slug": "honey_banana_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/183391.jfif",
+    "total_flavoring": "11.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 0,
+            "text": "I'll pick up biscuit base and vanilla tahity and give this a whirl!"
+        }
+    ]
 }

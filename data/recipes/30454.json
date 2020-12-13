@@ -1,62 +1,62 @@
 {
-  "name": "Bx3",
-  "description": "Blueberry × Blue raspberry x Bilberry ÷ Custard = tasty vape nummy in da tummy ",
-  "id": 30454,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30454/20170204_201549.jpg",
-  "updated_at": "2020-11-30T21:02:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "2664",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Morningstar",
-  "views": "939",
-  "slug": "bx3",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bx3",
+    "description": "Blueberry \u00d7 Blue raspberry x Bilberry \u00f7 Custard = tasty vape nummy in da tummy ",
+    "id": 30454,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30454\/20170204_201549.jpg",
+    "updated_at": "2020-12-11T18:23:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "2664",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Morningstar",
+    "views": "948",
+    "created_at": "2017-02-04",
+    "slug": "bx3",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30454.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

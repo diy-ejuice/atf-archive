@@ -1,68 +1,67 @@
 {
-  "name": "ABC No Rio",
-  "description": "This is my testing space. A placeholder for whatever WIP I'm working on atm, and subject to drastic change at any minute. Vape at your own risk LOL!!",
-  "id": 23942,
-  "image_url": null,
-  "updated_at": "2020-11-30T20:54:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "coilspotting",
-  "views": "943",
-  "slug": "abc_no_rio",
-  "total_flavoring": "15.0%",
-  "steep_days": "5",
-  "best_vg": "90%",
-  "temperature": "440",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "ABC No Rio",
+    "description": "This is my testing space. A placeholder for whatever WIP I'm working on atm, and subject to drastic change at any minute. Vape at your own risk LOL!!",
+    "id": 23942,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "coilspotting",
+    "views": "952",
+    "created_at": "2016-12-24",
+    "slug": "abc_no_rio",
+    "total_flavoring": "15.0%",
+    "steep_days": "5",
+    "best_vg": "90%",
+    "temperature": "440"
 }

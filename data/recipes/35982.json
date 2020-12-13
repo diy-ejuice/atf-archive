@@ -1,62 +1,64 @@
 {
-  "name": "Butterscotch Cookies & Cream",
-  "description": "This is all the flavors I had for the contest that I missed entering, This is a butterscotch cookies with cream.",
-  "id": 35982,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35982/125232.jpg",
-  "updated_at": "2020-12-08T00:49:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 3600,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1300,
-      "vendor": "FA"
-    }
-  ],
-  "author": "KarlitoJackson",
-  "views": "2984",
-  "slug": "butterscotch_cookies_cream",
-  "total_flavoring": "12.8%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "SocialAnxiety",
-      "score": "4",
-      "text": "After 3 days its good but you can tell everything hasn't came together yet. After 13 days its a lot better. Actually does taste like a cookie with butterscotch chunks in it, just like the picture. That is because the butterscotch is sort of blended into the back end. The key here to me is the amount of meringue, it makes it feel fluffy and really pushes the cookie aspect. As far as butterscotch goes this is the best mix I've tried so far, my only addition would be just a tiny bit of richness, maybe some golden butter or a custard, either around 0.5-1% but this is way old so probably not still in progress."
-    },
-    {
-      "user": "KenWhitfield",
-      "score": "4",
-      "text": "Tested at day 7, a little weak. Again at day 14, coming together but still not hitting it. Day 21, here it is. Everything melded together nicely. I personally (my taste) feel like it needs a bump in the butterscotch. The cookie is the front flavor with a background of butterscotch finished with a slight cream back note. Nicely done and I would recommend cookie fans to give this a shot."
-    }
-  ]
+    "name": "Butterscotch Cookies & Cream",
+    "description": "This is all the flavors I had for the contest that I missed entering, This is a butterscotch cookies with cream.",
+    "id": 35982,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35982\/125232.jpg",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 3600,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1300,
+            "vendor": "FA"
+        }
+    ],
+    "author": "KarlitoJackson",
+    "views": "2993",
+    "created_at": "2017-03-10",
+    "slug": "butterscotch_cookies_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35982.jpg",
+    "total_flavoring": "12.8%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SocialAnxiety",
+            "score": 4,
+            "text": "After 3 days its good but you can tell everything hasn't came together yet. After 13 days its a lot better. Actually does taste like a cookie with butterscotch chunks in it, just like the picture. That is because the butterscotch is sort of blended into the back end. The key here to me is the amount of meringue, it makes it feel fluffy and really pushes the cookie aspect. As far as butterscotch goes this is the best mix I've tried so far, my only addition would be just a tiny bit of richness, maybe some golden butter or a custard, either around 0.5-1% but this is way old so probably not still in progress."
+        },
+        {
+            "user": "KenWhitfield",
+            "score": 4,
+            "text": "Tested at day 7, a little weak. Again at day 14, coming together but still not hitting it. Day 21, here it is. Everything melded together nicely. I personally (my taste) feel like it needs a bump in the butterscotch. The cookie is the front flavor with a background of butterscotch finished with a slight cream back note. Nicely done and I would recommend cookie fans to give this a shot."
+        }
+    ]
 }

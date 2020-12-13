@@ -1,50 +1,50 @@
 {
-  "name": "The Fig Lebowski",
-  "description": "This is purely a concept recipe I happened upon while watching an episode of Bob's Burgers. The burger of the day was \"The Fig Lebowski\", so I thought to myself; \"Self... the Dude likes White Russians... I wonder if figs go with coffee, chocolate and cream.\" Well, according to the Flavor Bible they do, so, off I went.\r\n\r\nThe result is surprisingly delicious. Smooth, creamy, with a subtle, dark fruitiness, it almost reminds me of a pipe tobacco! (a touch of your favorite tobacco wouldn't go amiss here) The INW Mocca is just a hint, but it's there. I bet you could swap the ratios between that and CAP Fig if it's more to your taste, but, though this is a first draft, I'm hesitant to mess with it too much, because it's really quite nice where it is. ",
-  "id": 23716,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/23716/fig-lebowski.jpg",
-  "updated_at": "2020-12-05T23:54:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fig",
-      "flavor_id": "54",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mocca (mocha)",
-      "flavor_id": "798",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "1659",
-  "slug": "the_fig_lebowski",
-  "total_flavoring": "13.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Fig Lebowski",
+    "description": "This is purely a concept recipe I happened upon while watching an episode of Bob's Burgers. The burger of the day was \"The Fig Lebowski\", so I thought to myself; \"Self... the Dude likes White Russians... I wonder if figs go with coffee, chocolate and cream.\" Well, according to the Flavor Bible they do, so, off I went.\r\n\r\nThe result is surprisingly delicious. Smooth, creamy, with a subtle, dark fruitiness, it almost reminds me of a pipe tobacco! (a touch of your favorite tobacco wouldn't go amiss here) The INW Mocca is just a hint, but it's there. I bet you could swap the ratios between that and CAP Fig if it's more to your taste, but, though this is a first draft, I'm hesitant to mess with it too much, because it's really quite nice where it is. ",
+    "id": 23716,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/23716\/fig-lebowski.jpg",
+    "updated_at": "2020-12-12T00:40:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fig",
+            "flavor_id": "54",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mocca (mocha)",
+            "flavor_id": "798",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "1675",
+    "created_at": "2016-12-22",
+    "slug": "the_fig_lebowski",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/23716.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

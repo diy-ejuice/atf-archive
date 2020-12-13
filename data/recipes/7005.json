@@ -1,60 +1,62 @@
 {
-  "name": "Batter Up",
-  "description": "Blueberry muffin batter. Age at least 3 days. If you want it a little more complex, try adding either .2% FA Walnut, 1% CAP Vanilla Custard v1, or .25% FA Torrone.",
-  "id": 7005,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/7005/blueberry-muffin-batter.jpg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cupcake batter",
-      "flavor_id": "2596",
-      "millipercent": 4500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "NotCharlesManson",
-  "views": "8211",
-  "slug": "batter_up",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lolwtf",
-      "score": "5",
-      "text": "Definitely 5 stars, no question.  I am loving this juice after only a 1 day steep.  It definitely does need at least that long to come together; I tasted it as a S&amp;V and it was way off compared to now.  NotCharlesManson is a fantastic mixer!&#xD;\n&#xD;\nUPDATE: Figured I would update my review, as I just finished mixing my fourth 100ml bottle of this.  I don't mix big bottles for myself often, except for the two recipes I consider ADV status-- this is definitely one of them.   This time I have made a separate 30ml bottle to try the 1% VC1 addition recommended in the notes.  Hard to imagine this being any tastier, though!  I am also going to try spiking a separate bottle of this recipe as written + 1% FW Tres Leches.  "
-    },
-    {
-      "user": "bonniefcrawford",
-      "score": "5",
-      "text": "I am loving this recipe! Mixed this up yesterday exactly as written. It smelled so good I had to have a taste and I've been vaping it since last night. Great job!"
-    },
-    {
-      "user": "hyperlite310",
-      "score": "5",
-      "text": "This is amazing! Another banger from NCM! Proves that you don't need 8 flavors to get complexity. 5 Stars!"
-    },
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "Simple yet satisfying, the combination of cake batter and nonna's cake give it complexity and the hint of lemon really brightens up the blueberry which is one of my favorite flavorings of all time this one is definitely going into my all day vape rotation"
-    }
-  ]
+    "name": "Batter Up",
+    "description": "Blueberry muffin batter. Age at least 3 days. If you want it a little more complex, try adding either .2% FA Walnut, 1% CAP Vanilla Custard v1, or .25% FA Torrone.",
+    "id": 7005,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/7005\/blueberry-muffin-batter.jpg",
+    "updated_at": "2020-12-12T11:50:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cupcake batter",
+            "flavor_id": "2596",
+            "millipercent": 4500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "NotCharlesManson",
+    "views": "8222",
+    "created_at": "2016-07-07",
+    "slug": "batter_up",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/7005.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lolwtf",
+            "score": 5,
+            "text": "Definitely 5 stars, no question.  I am loving this juice after only a 1 day steep.  It definitely does need at least that long to come together; I tasted it as a S&amp;V and it was way off compared to now.  NotCharlesManson is a fantastic mixer!&#xD;\n&#xD;\nUPDATE: Figured I would update my review, as I just finished mixing my fourth 100ml bottle of this.  I don't mix big bottles for myself often, except for the two recipes I consider ADV status-- this is definitely one of them.   This time I have made a separate 30ml bottle to try the 1% VC1 addition recommended in the notes.  Hard to imagine this being any tastier, though!  I am also going to try spiking a separate bottle of this recipe as written + 1% FW Tres Leches.  "
+        },
+        {
+            "user": "bonniefcrawford",
+            "score": 5,
+            "text": "I am loving this recipe! Mixed this up yesterday exactly as written. It smelled so good I had to have a taste and I've been vaping it since last night. Great job!"
+        },
+        {
+            "user": "hyperlite310",
+            "score": 5,
+            "text": "This is amazing! Another banger from NCM! Proves that you don't need 8 flavors to get complexity. 5 Stars!"
+        },
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "Simple yet satisfying, the combination of cake batter and nonna's cake give it complexity and the hint of lemon really brightens up the blueberry which is one of my favorite flavorings of all time this one is definitely going into my all day vape rotation"
+        }
+    ]
 }

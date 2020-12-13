@@ -1,62 +1,61 @@
 {
-  "name": "mlNikon's Strawmelon Lemonade #MixinVixens",
-  "description": "Here is my take on this weeks profile pic. A strawberry and watermelon lemonade, its good, mix it up.",
-  "id": 109367,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:51:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Big Watermelon",
-      "flavor_id": "1518",
-      "millipercent": 3000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 4000,
-      "vendor": "JF"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 4000,
-      "vendor": "LA"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1283",
-  "slug": "mlnikons_strawmelon_lemonade_mixinvixens",
-  "total_flavoring": "18.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Strawmelon Lemonade #MixinVixens",
+    "description": "Here is my take on this weeks profile pic. A strawberry and watermelon lemonade, its good, mix it up.",
+    "id": 109367,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Big Watermelon",
+            "flavor_id": "1518",
+            "millipercent": 3000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 4000,
+            "vendor": "JF"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 4000,
+            "vendor": "LA"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1290",
+    "created_at": "2018-07-08",
+    "slug": "mlnikons_strawmelon_lemonade_mixinvixens",
+    "total_flavoring": "18.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

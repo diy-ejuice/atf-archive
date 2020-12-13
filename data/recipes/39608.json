@@ -1,81 +1,83 @@
 {
-  "name": "Mission complete",
-  "description": "Finally a strawberry milk that I'm really proud of. Its been a long journey to get here but mission complete. The use of Fw vbic and cap sweetcream with the hazelnut is a perfect sweet milk base. The strawberry bounce off each other to really make a great sweet syrup. The thing that really took it home was the RF pink burst which was the SC version.",
-  "id": 39608,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/39608/e-liquid-strawberry-milk-v3-1_large-compressor_bf3d29eb-d365-43b8-818f-b6731099c67c_large.jpeg",
-  "updated_at": "2020-12-06T20:39:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pink Candy - Burst Type",
-      "flavor_id": "4125",
-      "millipercent": 500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 400,
-      "vendor": "FW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DripperDropz",
-  "views": "2398",
-  "slug": "mission_complete",
-  "total_flavoring": "13.7%",
-  "steep_days": "2",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "none",
-      "text": "Looks what I have been seeking. Gotta order some JF Pink Candy."
-    }
-  ]
+    "name": "Mission complete",
+    "description": "Finally a strawberry milk that I'm really proud of. Its been a long journey to get here but mission complete. The use of Fw vbic and cap sweetcream with the hazelnut is a perfect sweet milk base. The strawberry bounce off each other to really make a great sweet syrup. The thing that really took it home was the RF pink burst which was the SC version.",
+    "id": 39608,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/39608\/e-liquid-strawberry-milk-v3-1_large-compressor_bf3d29eb-d365-43b8-818f-b6731099c67c_large.jpeg",
+    "updated_at": "2020-12-10T15:59:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pink Candy - Burst Type",
+            "flavor_id": "4125",
+            "millipercent": 500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 400,
+            "vendor": "FW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DripperDropz",
+    "views": "2404",
+    "created_at": "2017-04-03",
+    "slug": "mission_complete",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/39608.jpeg",
+    "total_flavoring": "13.7%",
+    "steep_days": "2",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 0,
+            "text": "Looks what I have been seeking. Gotta order some JF Pink Candy."
+        }
+    ]
 }

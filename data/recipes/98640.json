@@ -1,57 +1,59 @@
 {
-  "name": "Ape Vape",
-  "description": "Get that banana out of my face, I don't even want it... JUST KIDDING. Here's my take on a Banana pudding/milkshake. FA Banana is spot on for banana, very smooth wet mouth feel that for me at least really hits the spot when craving a sweet vape.",
-  "id": 98640,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/98640/banana-milkshake.jpg",
-  "updated_at": "2020-12-08T00:50:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "evild",
-  "views": "1528",
-  "slug": "ape_vape",
-  "total_flavoring": "17.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I'm not sure, looking at the ingredients, how this manages to not be dry...but it's far from a dry vape.  Good semi-candy banana profile with a solid cream base backing it up.  I'd be proud of this one, if it were mine."
-    }
-  ]
+    "name": "Ape Vape",
+    "description": "Get that banana out of my face, I don't even want it... JUST KIDDING. Here's my take on a Banana pudding\/milkshake. FA Banana is spot on for banana, very smooth wet mouth feel that for me at least really hits the spot when craving a sweet vape.",
+    "id": 98640,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/98640\/banana-milkshake.jpg",
+    "updated_at": "2020-12-12T15:39:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "evild",
+    "views": "1536",
+    "created_at": "2018-04-28",
+    "slug": "ape_vape",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/98640.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I'm not sure, looking at the ingredients, how this manages to not be dry...but it's far from a dry vape.  Good semi-candy banana profile with a solid cream base backing it up.  I'd be proud of this one, if it were mine."
+        }
+    ]
 }

@@ -1,74 +1,73 @@
 {
-  "name": "Blast Off!  (Lunar Harvest Clone)",
-  "description": "Delicious blend of berries and blue rock candy.  Still a WIP but very close.",
-  "id": 65640,
-  "image_url": null,
-  "updated_at": "2020-12-02T08:19:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry Slush",
-      "flavor_id": "2970",
-      "millipercent": 6000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Apple Candy",
-      "flavor_id": "206",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "947",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Sour Wizard",
-      "flavor_id": "4354",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Citric Acid 10%",
-      "flavor_id": "2521",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sour Apple",
-      "flavor_id": "4379",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Green Apple",
-      "flavor_id": "67",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "kawinskim7",
-  "views": "2127",
-  "slug": "blast_off_lunar_harvest_clone",
-  "total_flavoring": "27.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blast Off!  (Lunar Harvest Clone)",
+    "description": "Delicious blend of berries and blue rock candy.  Still a WIP but very close.",
+    "id": 65640,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry Slush",
+            "flavor_id": "2970",
+            "millipercent": 6000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Apple Candy",
+            "flavor_id": "206",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "947",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Sour Wizard",
+            "flavor_id": "4354",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Citric Acid 10%",
+            "flavor_id": "2521",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sour Apple",
+            "flavor_id": "4379",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Green Apple",
+            "flavor_id": "67",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "kawinskim7",
+    "views": "2133",
+    "created_at": "2017-09-27",
+    "slug": "blast_off_lunar_harvest_clone",
+    "total_flavoring": "27.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

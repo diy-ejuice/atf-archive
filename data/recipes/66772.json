@@ -1,50 +1,50 @@
 {
-  "name": "Papamango ",
-  "description": "One of my favourites. Coconut , mango , pineapple cream ,  papaya and peach. Some sour is needed.  EDIT: For some reason I can't add the Mississippi (INAWERA) concentrate at 1.6% which is the pineapple cream.",
-  "id": 66772,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66772/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-06T01:07:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut",
-      "flavor_id": "650",
-      "millipercent": 1200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 1800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 1800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 1600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "1045",
-  "slug": "papamango",
-  "total_flavoring": "6.9%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Papamango ",
+    "description": "One of my favourites. Coconut , mango , pineapple cream ,  papaya and peach. Some sour is needed.  EDIT: For some reason I can't add the Mississippi (INAWERA) concentrate at 1.6% which is the pineapple cream.",
+    "id": 66772,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66772\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-10T14:52:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut",
+            "flavor_id": "650",
+            "millipercent": 1200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 1800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 1800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 1600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "1049",
+    "created_at": "2017-10-05",
+    "slug": "papamango",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66772.jpg",
+    "total_flavoring": "6.9%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

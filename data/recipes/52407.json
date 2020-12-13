@@ -1,68 +1,70 @@
 {
-  "name": "BlueHue",
-  "description": "A recipe that tastes and feels like the color blue\r\nRecipe created for WEEKEND ASSIGNMENT: BLUE ->",
-  "id": 52407,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52407/blue.jpg",
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "6534",
-  "slug": "bluehue",
-  "total_flavoring": "7.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "BuryMeInSmoke",
-      "score": "4",
-      "text": "Smell out of the bottle and a the first couple of hits off a fresh dripping remind me of blue sour candy (minus the sour).  Flavour dries and thins a little over subsequent puffs though.  Could do with some percentage tweaks for my personal tastes but overall a nice vape."
-    },
-    {
-      "user": "Jthectic",
-      "score": "4",
-      "text": "The flavour of this recipe is great, like a 'dark' berryish cotton candy, though I find it quite harsh and dry overall."
-    }
-  ]
+    "name": "BlueHue",
+    "description": "A recipe that tastes and feels like the color blue\r\nRecipe created for WEEKEND ASSIGNMENT: BLUE ->",
+    "id": 52407,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/52407\/blue.jpg",
+    "updated_at": "2020-12-12T17:10:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "6540",
+    "created_at": "2017-06-24",
+    "slug": "bluehue",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/52407.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BuryMeInSmoke",
+            "score": 4,
+            "text": "Smell out of the bottle and a the first couple of hits off a fresh dripping remind me of blue sour candy (minus the sour).  Flavour dries and thins a little over subsequent puffs though.  Could do with some percentage tweaks for my personal tastes but overall a nice vape."
+        },
+        {
+            "user": "Jthectic",
+            "score": 4,
+            "text": "The flavour of this recipe is great, like a 'dark' berryish cotton candy, though I find it quite harsh and dry overall."
+        }
+    ]
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Gummy bears",
-  "description": "Gummy bears for Adam, enjoy. \r\n\r\nWords words words words gotta have 10 words",
-  "id": 197832,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197832/Screenshot_20200616-214703_Chrome.jpg",
-  "updated_at": "2020-12-08T00:51:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Rainbow Candy",
-      "flavor_id": "1388",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Gummy Candy",
-      "flavor_id": "235",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener (sucralose)",
-      "flavor_id": "2308",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "JQVapes",
-  "views": "682",
-  "slug": "gummy_bears",
-  "total_flavoring": "9.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "25",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "NOVITEC",
-      "score": "5",
-      "text": "Bomb recipe.  Had to sub CAP Rainbow Candy for FW Rainbow Candy but, this is very tasty "
-    }
-  ]
+    "name": "Gummy bears",
+    "description": "Gummy bears for Adam, enjoy. \r\n\r\nWords words words words gotta have 10 words",
+    "id": 197832,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197832\/Screenshot_20200616-214703_Chrome.jpg",
+    "updated_at": "2020-12-12T15:41:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Rainbow Candy",
+            "flavor_id": "1388",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Gummy Candy",
+            "flavor_id": "235",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener (sucralose)",
+            "flavor_id": "2308",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "JQVapes",
+    "views": "688",
+    "created_at": "2020-06-16",
+    "slug": "gummy_bears",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197832.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "25",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "NOVITEC",
+            "score": 5,
+            "text": "Bomb recipe.  Had to sub CAP Rainbow Candy for FW Rainbow Candy but, this is very tasty "
+        }
+    ]
 }

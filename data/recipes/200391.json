@@ -1,62 +1,61 @@
 {
-  "name": "Strawberry and cream pancakes",
-  "description": "An awesome pancake give it a try u won't regret it.",
-  "id": 200391,
-  "image_url": null,
-  "updated_at": "2020-12-07T07:01:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pancake",
-      "flavor_id": "4190",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream SC",
-      "flavor_id": "10404",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "2294",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Johncox",
-  "views": "539",
-  "slug": "strawberry_and_cream_pancakes",
-  "total_flavoring": "13.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry and cream pancakes",
+    "description": "An awesome pancake give it a try u won't regret it.",
+    "id": 200391,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pancake",
+            "flavor_id": "4190",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream SC",
+            "flavor_id": "10404",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "2294",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Johncox",
+    "views": "543",
+    "created_at": "2020-07-13",
+    "slug": "strawberry_and_cream_pancakes",
+    "total_flavoring": "13.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

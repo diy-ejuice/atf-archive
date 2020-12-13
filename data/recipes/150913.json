@@ -1,56 +1,56 @@
 {
-  "name": "MTL - Custard",
-  "description": "A simple nutty custard meant for mouth to lung devices. Made on Live Mixing",
-  "id": 150913,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150913/livemixing.jpg",
-  "updated_at": "2020-12-07T20:33:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "3657",
-  "slug": "mtl_custard",
-  "total_flavoring": "10.25%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "MTL - Custard",
+    "description": "A simple nutty custard meant for mouth to lung devices. Made on Live Mixing",
+    "id": 150913,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/150913\/livemixing.jpg",
+    "updated_at": "2020-12-11T15:03:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "3664",
+    "created_at": "2019-05-10",
+    "slug": "mtl_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/150913.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0"
 }

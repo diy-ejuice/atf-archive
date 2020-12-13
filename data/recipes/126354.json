@@ -1,73 +1,75 @@
 {
-  "name": "Pecan Toffee Cool Whip ",
-  "description": "Whipped toffee-pecan cream with biscuit sprinkle. \r\n\r\nToffee and Butter Pecan were made for each other and this tasty number shows why. \r\n\r\nFLV Toffee is my favourite from Flavorah's dessert line. It's a sweet buttermilk toffee that sits where you want it in a recipe. 1% FLV Toffee is complemented with caramely nutty butter notes from 1.5% FW Butter Pecan. \r\n\r\n2% VT Toffee ice cream has a pleasant toffee taste and is quite buttery but lacks body, hence the inclusion of 1.5% CAP Vanilla Whipped Cream, which thickens as well as blends everything. \r\n\r\n0.75% JF Biscuit adds a slight biscuit accent you get on the exhale. \r\n\r\n0.35% FW Sweetener because it's a dessert. \r\n\r\nThis recipe manages to be sweet and moreish yet is not too rich so is certainly ADV material. It's a nice \"comfort vape\" to get you through those dark wintery nights. \r\n\r\nEnjoy. P. G. \r\n\r\n",
-  "id": 126354,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/126354/pecanpie.jpg",
-  "updated_at": "2020-12-08T00:50:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Toffee",
-      "flavor_id": "4425",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 350,
-      "vendor": "FW"
-    }
-  ],
-  "author": "CygnusY1",
-  "views": "1703",
-  "slug": "pecan_toffee_cool_whip",
-  "total_flavoring": "7.1%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Fleming",
-      "score": "5",
-      "text": "This is the best toffee and maybe even butterscotch recipe I have ever tasted absolutely amazing "
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Excellent recipe, mixed this up to use in one my mtl rdas 9mg 70/30. I did sub INW Biscuit for the JF. The toffee and pecan come through perfectly and blend well with your creams. Once again excellent recipe and thanks for sharing "
-    },
-    {
-      "user": "LaJuanaPipa",
-      "score": "5",
-      "text": "You r abs right. Nice mix we have here. "
-    }
-  ]
+    "name": "Pecan Toffee Cool Whip ",
+    "description": "Whipped toffee-pecan cream with biscuit sprinkle. \r\n\r\nToffee and Butter Pecan were made for each other and this tasty number shows why. \r\n\r\nFLV Toffee is my favourite from Flavorah's dessert line. It's a sweet buttermilk toffee that sits where you want it in a recipe. 1% FLV Toffee is complemented with caramely nutty butter notes from 1.5% FW Butter Pecan. \r\n\r\n2% VT Toffee ice cream has a pleasant toffee taste and is quite buttery but lacks body, hence the inclusion of 1.5% CAP Vanilla Whipped Cream, which thickens as well as blends everything. \r\n\r\n0.75% JF Biscuit adds a slight biscuit accent you get on the exhale. \r\n\r\n0.35% FW Sweetener because it's a dessert. \r\n\r\nThis recipe manages to be sweet and moreish yet is not too rich so is certainly ADV material. It's a nice \"comfort vape\" to get you through those dark wintery nights. \r\n\r\nEnjoy. P. G. \r\n\r\n",
+    "id": 126354,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/126354\/pecanpie.jpg",
+    "updated_at": "2020-12-12T15:40:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Toffee",
+            "flavor_id": "4425",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 350,
+            "vendor": "FW"
+        }
+    ],
+    "author": "CygnusY1",
+    "views": "1712",
+    "created_at": "2018-11-07",
+    "slug": "pecan_toffee_cool_whip",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/126354.jpg",
+    "total_flavoring": "7.1%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Fleming",
+            "score": 5,
+            "text": "This is the best toffee and maybe even butterscotch recipe I have ever tasted absolutely amazing "
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Excellent recipe, mixed this up to use in one my mtl rdas 9mg 70\/30. I did sub INW Biscuit for the JF. The toffee and pecan come through perfectly and blend well with your creams. Once again excellent recipe and thanks for sharing "
+        },
+        {
+            "user": "LaJuanaPipa",
+            "score": 5,
+            "text": "You r abs right. Nice mix we have here. "
+        }
+    ]
 }

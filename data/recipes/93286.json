@@ -1,56 +1,55 @@
 {
-  "name": "Grape Bro",
-  "description": "Do you even grape bro ? Seriously though, do you ? White grape, no skin, juicy ripe center with a tad bit of crispness. Thought of using fuji at .25% but I think it's good as is. Maybe cotton candy at 1% to push a Jolly Rancher taste ? Anyways, steeped in a warm water bath 15 minutes, shake and vape. Let the off notes breath and this really permeates the taste buds and the smell definitely is a strong fresh white grape. Feed backs appreciated and encouraged.",
-  "id": 93286,
-  "image_url": null,
-  "updated_at": "2020-12-01T02:15:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Hanibullecktor",
-  "views": "1583",
-  "slug": "grape_bro",
-  "total_flavoring": "16.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "440",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grape Bro",
+    "description": "Do you even grape bro ? Seriously though, do you ? White grape, no skin, juicy ripe center with a tad bit of crispness. Thought of using fuji at .25% but I think it's good as is. Maybe cotton candy at 1% to push a Jolly Rancher taste ? Anyways, steeped in a warm water bath 15 minutes, shake and vape. Let the off notes breath and this really permeates the taste buds and the smell definitely is a strong fresh white grape. Feed backs appreciated and encouraged.",
+    "id": 93286,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Hanibullecktor",
+    "views": "1589",
+    "created_at": "2018-03-20",
+    "slug": "grape_bro",
+    "total_flavoring": "16.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "440"
 }

@@ -1,56 +1,55 @@
 {
-  "name": "Pinefapple",
-  "description": "A single, distraught Mango finds itself being forced into submission by a tribe of rapey pineapples; A solid White Gummy Bear base, paired with CAP Sweet Mango and french vanilla to round it out. TFA Jackfruit is used to complete the holes that CAP Sweet Mango creates. TFA Toasted Marshmallow assists with the mouthfeel and rounding out the overall profile.",
-  "id": 77669,
-  "image_url": null,
-  "updated_at": "2020-12-02T15:36:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple – SC",
-      "flavor_id": "7531",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "2097",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jackfruit",
-      "flavor_id": "240",
-      "millipercent": 800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "170",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Synergy",
-  "views": "980",
-  "slug": "pinefapple",
-  "total_flavoring": "6.3%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pinefapple",
+    "description": "A single, distraught Mango finds itself being forced into submission by a tribe of rapey pineapples; A solid White Gummy Bear base, paired with CAP Sweet Mango and french vanilla to round it out. TFA Jackfruit is used to complete the holes that CAP Sweet Mango creates. TFA Toasted Marshmallow assists with the mouthfeel and rounding out the overall profile.",
+    "id": 77669,
+    "image_url": null,
+    "updated_at": "2020-12-11T13:44:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple \u2013 SC",
+            "flavor_id": "7531",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "2097",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jackfruit",
+            "flavor_id": "240",
+            "millipercent": 800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "170",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Synergy",
+    "views": "988",
+    "created_at": "2017-12-05",
+    "slug": "pinefapple",
+    "total_flavoring": "6.3%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Elder In Cider",
-  "description": "Slow mulled Elderflower Cider with hints of citrus and spice.\r\n\r\nApple Cider/Liquid Amber: This is the apple cider base. Apple cider provides some of the sweetness and cider taste where liquid amber just adds that \"fermented\" notes to finish it off\r\n\r\nApple Filling/Rich Cinnamon: This is some of the mulling taste. The apple filling gives a deep, cooked apple and spice, the rich cinnamon adds to the mulled notes\r\n\r\nElderflower: This is the hidden gem. It plays very well with the orange and mandarin to give a slightly floral hint. Its a hidden star for sure\r\n\r\nOrange/Mandarin: This is another depth of flavor in the mulling. It adds a nice citrusy note to the mix",
-  "id": 61475,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/61475/cider.jpg",
-  "updated_at": "2020-12-08T00:49:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Cider",
-      "flavor_id": "4368",
-      "millipercent": 600,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Orange",
-      "flavor_id": "500",
-      "millipercent": 650,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1132",
-  "slug": "elder_in_cider",
-  "total_flavoring": "2.65%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "65%",
-  "temperature": "400",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "I found this one to be a little harsh to the extent that it was almost hard to vape. It’s the oranges, especially FA Orange. Also, while orange belongs in a mulling with spice scenario, this seems really orange-forward to the extent that the balance is off. It’s almost like a 50/50 orange juice/cider combination, which is a bit weird. It seems like a easy fix for an otherwise nice elderflower-laced apple cider: Swap out the FA Orange and FA Mandarin for either INW Shisha Punch or FLV Back Bar Bitters for that orange-peel and spice flavor or, if those extra spice notes are unwanted (not sure why they would be in this scenario), some VT Orange Marmalade might do the trick. &#xD;\n"
-    }
-  ]
+    "name": "Elder In Cider",
+    "description": "Slow mulled Elderflower Cider with hints of citrus and spice.\r\n\r\nApple Cider\/Liquid Amber: This is the apple cider base. Apple cider provides some of the sweetness and cider taste where liquid amber just adds that \"fermented\" notes to finish it off\r\n\r\nApple Filling\/Rich Cinnamon: This is some of the mulling taste. The apple filling gives a deep, cooked apple and spice, the rich cinnamon adds to the mulled notes\r\n\r\nElderflower: This is the hidden gem. It plays very well with the orange and mandarin to give a slightly floral hint. Its a hidden star for sure\r\n\r\nOrange\/Mandarin: This is another depth of flavor in the mulling. It adds a nice citrusy note to the mix",
+    "id": 61475,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/61475\/cider.jpg",
+    "updated_at": "2020-12-12T09:12:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Cider",
+            "flavor_id": "4368",
+            "millipercent": 600,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Orange",
+            "flavor_id": "500",
+            "millipercent": 650,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1137",
+    "created_at": "2017-08-26",
+    "slug": "elder_in_cider",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/61475.jpg",
+    "total_flavoring": "2.65%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "65%",
+    "temperature": "400",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "I found this one to be a little harsh to the extent that it was almost hard to vape. It\u2019s the oranges, especially FA Orange. Also, while orange belongs in a mulling with spice scenario, this seems really orange-forward to the extent that the balance is off. It\u2019s almost like a 50\/50 orange juice\/cider combination, which is a bit weird. It seems like a easy fix for an otherwise nice elderflower-laced apple cider: Swap out the FA Orange and FA Mandarin for either INW Shisha Punch or FLV Back Bar Bitters for that orange-peel and spice flavor or, if those extra spice notes are unwanted (not sure why they would be in this scenario), some VT Orange Marmalade might do the trick. &#xD;\n"
+        }
+    ]
 }

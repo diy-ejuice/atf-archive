@@ -1,56 +1,55 @@
 {
-  "name": "Plebes ",
-  "description": "A Fruity Pebbles base.\r\nI really love lemony cereals unlike what seems like everyone else on here.\r\n\r\nEdit: Took out Cap Juicy Lemon. Like in some of my lemonades it gives a syrupy feeling to the mix which doesn't work here. Bumped down some flavor% was giving me palette fatigue.",
-  "id": 53750,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:35:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruity Flakes",
-      "flavor_id": "1286",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Ike_Malkov",
-  "views": "897",
-  "slug": "plebes",
-  "total_flavoring": "10.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Plebes ",
+    "description": "A Fruity Pebbles base.\r\nI really love lemony cereals unlike what seems like everyone else on here.\r\n\r\nEdit: Took out Cap Juicy Lemon. Like in some of my lemonades it gives a syrupy feeling to the mix which doesn't work here. Bumped down some flavor% was giving me palette fatigue.",
+    "id": 53750,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruity Flakes",
+            "flavor_id": "1286",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Ike_Malkov",
+    "views": "901",
+    "created_at": "2017-07-04",
+    "slug": "plebes",
+    "total_flavoring": "10.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

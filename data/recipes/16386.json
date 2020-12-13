@@ -1,62 +1,61 @@
 {
-  "name": "Raspberry adv",
-  "description": "Had to up the raspberries by 1% each. Did not expect the heavy and cream aspects of the custard, bavarian cream and hazelnut to have as strong as an effect on dulling the raspberry as they did especially since I specifically went with FA custard due to its slight citrus note that usually helps to boost fruit flavors. I think due to the generally low flavor % used in each ingredient it is causing this recipe to be sort of bland. I will allow a 2 week steep and see what becomes of it. As it is right now I think I will likely need to bump up the INW raspberry by .5% and TPA sweet raspberry by 1%. Perhaps even subbing bavarian cream for shisha vanilla to reinforce the creamy vanilla aspect I want.",
-  "id": 16386,
-  "image_url": null,
-  "updated_at": "2020-12-06T03:08:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "4466",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "R08U57",
-  "views": "1351",
-  "slug": "raspberry_adv",
-  "total_flavoring": "14.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry adv",
+    "description": "Had to up the raspberries by 1% each. Did not expect the heavy and cream aspects of the custard, bavarian cream and hazelnut to have as strong as an effect on dulling the raspberry as they did especially since I specifically went with FA custard due to its slight citrus note that usually helps to boost fruit flavors. I think due to the generally low flavor % used in each ingredient it is causing this recipe to be sort of bland. I will allow a 2 week steep and see what becomes of it. As it is right now I think I will likely need to bump up the INW raspberry by .5% and TPA sweet raspberry by 1%. Perhaps even subbing bavarian cream for shisha vanilla to reinforce the creamy vanilla aspect I want.",
+    "id": 16386,
+    "image_url": null,
+    "updated_at": "2020-12-11T21:43:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "4466",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "R08U57",
+    "views": "1361",
+    "created_at": "2016-10-16",
+    "slug": "raspberry_adv",
+    "total_flavoring": "14.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

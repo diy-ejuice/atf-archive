@@ -1,63 +1,65 @@
 {
-  "name": "Grilled Pineapple that is no bueno ",
-  "description": "3 day age to let the hickory smoke to mix in properly. I used MF strawberry to tone down the Hickory smoke. Part of the Pineapple base is borrowed from ID10-T but instead of INW  I went with fw natural pineapple its similar and half the price but both work well at the same percentage. DO NOT MIX!!! Very terrible recipe, I will be making a new one in the future with totally different flavorings. But, If you did mix this please rate it 0 out of five stars that it deserves. K thx bye",
-  "id": 10777,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/10777/th.jpg",
-  "updated_at": "2020-12-08T00:48:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple (natural)",
-      "flavor_id": "1379",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hickory Smoke",
-      "flavor_id": "296",
-      "millipercent": 200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "1159",
-      "millipercent": 300,
-      "vendor": "MF"
-    }
-  ],
-  "author": "Thadentman",
-  "views": "1783",
-  "slug": "grilled_pineapple_that_is_no_bueno",
-  "total_flavoring": "8.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "areena",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Grilled Pineapple that is no bueno ",
+    "description": "3 day age to let the hickory smoke to mix in properly. I used MF strawberry to tone down the Hickory smoke. Part of the Pineapple base is borrowed from ID10-T but instead of INW  I went with fw natural pineapple its similar and half the price but both work well at the same percentage. DO NOT MIX!!! Very terrible recipe, I will be making a new one in the future with totally different flavorings. But, If you did mix this please rate it 0 out of five stars that it deserves. K thx bye",
+    "id": 10777,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/10777\/th.jpg",
+    "updated_at": "2020-12-12T11:50:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple (natural)",
+            "flavor_id": "1379",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hickory Smoke",
+            "flavor_id": "296",
+            "millipercent": 200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "1159",
+            "millipercent": 300,
+            "vendor": "MF"
+        }
+    ],
+    "author": "Thadentman",
+    "views": "1791",
+    "created_at": "2016-08-16",
+    "slug": "grilled_pineapple_that_is_no_bueno",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/10777.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "areena",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,74 +1,76 @@
 {
-  "name": "Mouthy Smash",
-  "description": "When I first started vaping, I loved Smash Mouth by Humble. I tried to recreate that first love feeling and ended up creating something deeper. \r\n\r\nI tried using lower %s but it didn't come out quite right.  Feel free to lower or omit the sweetener. If you want it to be more authentic, in reality you would use 1.5 - 2%.\r\n\r\nGood off the shake but 3-5 days steeping is better as usual. I tend to mix my liquids as needed so I rarely steep anything more than a couple days.",
-  "id": 200181,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200181/smash.jpg",
-  "updated_at": "2020-12-08T00:51:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dx Bavarian Cream",
-      "flavor_id": "161",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "xxMikaxx",
-  "views": "905",
-  "slug": "mouthy_smash",
-  "total_flavoring": "16.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "BryanF",
-      "score": "4",
-      "text": "I found it to be a great vape..Shisha was a bit overpowering so I made a second batch with (FA) Red Touch as a sub.. It is just as good only gets rid of an off note that I find in Shisha.. All in all it is good on the SNV."
-    },
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "Awesome! I like your style!!!!!"
-    }
-  ]
+    "name": "Mouthy Smash",
+    "description": "When I first started vaping, I loved Smash Mouth by Humble. I tried to recreate that first love feeling and ended up creating something deeper. \r\n\r\nI tried using lower %s but it didn't come out quite right.  Feel free to lower or omit the sweetener. If you want it to be more authentic, in reality you would use 1.5 - 2%.\r\n\r\nGood off the shake but 3-5 days steeping is better as usual. I tend to mix my liquids as needed so I rarely steep anything more than a couple days.",
+    "id": 200181,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/200181\/smash.jpg",
+    "updated_at": "2020-12-12T17:13:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dx Bavarian Cream",
+            "flavor_id": "161",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "xxMikaxx",
+    "views": "919",
+    "created_at": "2020-07-11",
+    "slug": "mouthy_smash",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/200181.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BryanF",
+            "score": 4,
+            "text": "I found it to be a great vape..Shisha was a bit overpowering so I made a second batch with (FA) Red Touch as a sub.. It is just as good only gets rid of an off note that I find in Shisha.. All in all it is good on the SNV."
+        },
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "Awesome! I like your style!!!!!"
+        }
+    ]
 }

@@ -1,74 +1,73 @@
 {
-  "name": "Apple 🍎 🥧 parfait ",
-  "description": "This was a recipe in development and I finally got it where I wanted it. As soon as you inhale the first thing you will get is the granola graham crackers and on the exhale you will find the apples in cinnamon with a creamy greek yogurt and I find it very delicious give this a mix and tell me whatcha think guys ",
-  "id": 200647,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:22:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "66",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Country Apple",
-      "flavor_id": "7754",
-      "millipercent": 3000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Granola",
-      "flavor_id": "10562",
-      "millipercent": 4000,
-      "vendor": "NR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "370",
-  "slug": "apple__parfait",
-  "total_flavoring": "16.75%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "60%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple \ud83c\udf4e \ud83e\udd67 parfait ",
+    "description": "This was a recipe in development and I finally got it where I wanted it. As soon as you inhale the first thing you will get is the granola graham crackers and on the exhale you will find the apples in cinnamon with a creamy greek yogurt and I find it very delicious give this a mix and tell me whatcha think guys ",
+    "id": 200647,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:16:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "66",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Country Apple",
+            "flavor_id": "7754",
+            "millipercent": 3000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Granola",
+            "flavor_id": "10562",
+            "millipercent": 4000,
+            "vendor": "NR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "379",
+    "created_at": "2020-07-15",
+    "slug": "apple__parfait",
+    "total_flavoring": "16.75%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "60%",
+    "temperature": "110"
 }

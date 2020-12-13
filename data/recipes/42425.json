@@ -1,62 +1,64 @@
 {
-  "name": "Bunny Love",
-  "description": "A sweet glass of strawberry milk rich buttery milky cream with a nice sweet strawberry that will make some bunny love to your tongue.",
-  "id": 42425,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/42425/wall-1401805467_strawberry-falling-in-milk-shake.jpg",
-  "updated_at": "2020-12-08T00:49:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "VaporDude",
-  "views": "2221",
-  "slug": "bunny_love",
-  "total_flavoring": "15.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "Sweet strawberry and butter cream...it's been done a thousand times, but that's because it just works.  Your version of it is a nice vape, both rich and vibrant at the same time."
-    },
-    {
-      "user": "xela",
-      "score": "4",
-      "text": "Nice strawberry ice cream.  Really enjoyed this vape."
-    }
-  ]
+    "name": "Bunny Love",
+    "description": "A sweet glass of strawberry milk rich buttery milky cream with a nice sweet strawberry that will make some bunny love to your tongue.",
+    "id": 42425,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/42425\/wall-1401805467_strawberry-falling-in-milk-shake.jpg",
+    "updated_at": "2020-12-12T11:50:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "VaporDude",
+    "views": "2226",
+    "created_at": "2017-04-22",
+    "slug": "bunny_love",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/42425.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "Sweet strawberry and butter cream...it's been done a thousand times, but that's because it just works.  Your version of it is a nice vape, both rich and vibrant at the same time."
+        },
+        {
+            "user": "xela",
+            "score": 4,
+            "text": "Nice strawberry ice cream.  Really enjoyed this vape."
+        }
+    ]
 }

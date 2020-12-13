@@ -1,68 +1,68 @@
 {
-  "name": "Scottish Coffee",
-  "description": "Note! To be able to save recipe , i had to choose a different type and vendor for alcohol.\r\nThis recipe is originally used with Bolsjehuset Rom. OOO Bourbon Whiskey is not what i use , but might be subbed and maby at a different %\r\nAfter trying to get a good irish cream with mixed results , i figured i make something new.\r\nTo simulate drinking coffee trough cream , i used Cap Vanilla Custard V2 , and TPA Bavarian Cream.\r\nSince the original used brown sugar , my choice was TPA brown sugar(the only one i had).\r\nFA Capouccino at 1.2% leaves the coffee at a softer spot , without hiding the cream and alcohol.\r\n\r\nThis is my first recipe , so show mercy :)\r\nAlso i am still working on it with other creams , so i will update when/if it changes to the better.\r\nAlso i airsteep abit because alcohol.\r\n\r\nSoiDog",
-  "id": 127140,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127140/highland_scotishcoffeeclassic.jpg",
-  "updated_at": "2020-12-07T20:32:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Italian Relax (cappuccino)",
-      "flavor_id": "505",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bourbon Whiskey",
-      "flavor_id": "1971",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "1233",
-      "millipercent": 3000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "SoiDog",
-  "views": "1861",
-  "slug": "scottish_coffee",
-  "total_flavoring": "18.7%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Scottish Coffee",
+    "description": "Note! To be able to save recipe , i had to choose a different type and vendor for alcohol.\r\nThis recipe is originally used with Bolsjehuset Rom. OOO Bourbon Whiskey is not what i use , but might be subbed and maby at a different %\r\nAfter trying to get a good irish cream with mixed results , i figured i make something new.\r\nTo simulate drinking coffee trough cream , i used Cap Vanilla Custard V2 , and TPA Bavarian Cream.\r\nSince the original used brown sugar , my choice was TPA brown sugar(the only one i had).\r\nFA Capouccino at 1.2% leaves the coffee at a softer spot , without hiding the cream and alcohol.\r\n\r\nThis is my first recipe , so show mercy :)\r\nAlso i am still working on it with other creams , so i will update when\/if it changes to the better.\r\nAlso i airsteep abit because alcohol.\r\n\r\nSoiDog",
+    "id": 127140,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127140\/highland_scotishcoffeeclassic.jpg",
+    "updated_at": "2020-12-11T16:20:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Italian Relax (cappuccino)",
+            "flavor_id": "505",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bourbon Whiskey",
+            "flavor_id": "1971",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "1233",
+            "millipercent": 3000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "SoiDog",
+    "views": "1872",
+    "created_at": "2018-11-13",
+    "slug": "scottish_coffee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127140.jpg",
+    "total_flavoring": "18.7%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0"
 }

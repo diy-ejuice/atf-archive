@@ -1,62 +1,61 @@
 {
-  "name": "Decent Sloths",
-  "description": "Caramel Apple inhale with a sweet smooth marshmallow exhale. This is a recipe I can't make fast enough.",
-  "id": 82677,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:32:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1900,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2300,
-      "vendor": "FW"
-    },
-    {
-      "name": "Fuji Apple",
-      "flavor_id": "8456",
-      "millipercent": 2800,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 2900,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "8",
-      "millipercent": 3200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1300,
-      "vendor": "FA"
-    }
-  ],
-  "author": "RocasVapes",
-  "views": "1118",
-  "slug": "decent_sloths",
-  "total_flavoring": "15.6%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "470",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Decent Sloths",
+    "description": "Caramel Apple inhale with a sweet smooth marshmallow exhale. This is a recipe I can't make fast enough.",
+    "id": 82677,
+    "image_url": null,
+    "updated_at": "2020-12-11T17:20:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1900,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2300,
+            "vendor": "FW"
+        },
+        {
+            "name": "Fuji Apple",
+            "flavor_id": "8456",
+            "millipercent": 2800,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 2900,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "8",
+            "millipercent": 3200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1300,
+            "vendor": "FA"
+        }
+    ],
+    "author": "RocasVapes",
+    "views": "1127",
+    "created_at": "2018-01-09",
+    "slug": "decent_sloths",
+    "total_flavoring": "15.6%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "470"
 }

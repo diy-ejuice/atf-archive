@@ -1,87 +1,89 @@
 {
-  "name": "Custard Cream Shortcake",
-  "description": "A creamy custard cream shortcake. \r\n\r\nSweet, creamy and crumbly. \r\n\r\nGreat adv. \r\n\r\nEDIT: Made a couple of adjustments for the better. Changed none Nonna's cake to yellow cake and Inw biscuit to JF biscuit. This combination makes it more true to life",
-  "id": 191462,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191462/20200416_104856.jpg",
-  "updated_at": "2020-12-08T00:51:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1193",
-  "slug": "custard_cream_shortcake",
-  "total_flavoring": "15.0%",
-  "steep_days": "14",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "5",
-      "text": "This is a MASTERPIECE! I have not even let it steep I was craving custard, I even vaped this while eating custard... This is dead on! This recipe manages to be light and velvety while also being rich and luscious and I'm a huge fan. I subbed JF Yellow Cake for FW at this % but otherwise stayed true to the ingredients. I was very happy to see FA Custard Premium in here and the way the biscuit, cookie and Graham add body to this and the milky richness in the creams is just DIVINE. MAGICAL. I love it. Thanks for sharing, I will be mixing up a big bottle of this! Mixed at 80:20 and the flavour is brilliant."
-    }
-  ]
+    "name": "Custard Cream Shortcake",
+    "description": "A creamy custard cream shortcake. \r\n\r\nSweet, creamy and crumbly. \r\n\r\nGreat adv. \r\n\r\nEDIT: Made a couple of adjustments for the better. Changed none Nonna's cake to yellow cake and Inw biscuit to JF biscuit. This combination makes it more true to life",
+    "id": 191462,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/191462\/20200416_104856.jpg",
+    "updated_at": "2020-12-12T11:53:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1201",
+    "created_at": "2020-04-16",
+    "slug": "custard_cream_shortcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/191462.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "14",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 5,
+            "text": "This is a MASTERPIECE! I have not even let it steep I was craving custard, I even vaped this while eating custard... This is dead on! This recipe manages to be light and velvety while also being rich and luscious and I'm a huge fan. I subbed JF Yellow Cake for FW at this % but otherwise stayed true to the ingredients. I was very happy to see FA Custard Premium in here and the way the biscuit, cookie and Graham add body to this and the milky richness in the creams is just DIVINE. MAGICAL. I love it. Thanks for sharing, I will be mixing up a big bottle of this! Mixed at 80:20 and the flavour is brilliant."
+        }
+    ]
 }

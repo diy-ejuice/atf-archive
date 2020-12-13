@@ -1,68 +1,70 @@
 {
-  "name": "Milk Chocolate",
-  "description": "My take on a milk chocolate with flavors that most should have.",
-  "id": 68505,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/68505/650_80.jpg",
-  "updated_at": "2020-12-08T00:49:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "6retro6",
-  "views": "2232",
-  "slug": "milk_chocolate",
-  "total_flavoring": "10.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Trista_C",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is as close to eating milk chocolate as any juice I've found"
-    }
-  ]
+    "name": "Milk Chocolate",
+    "description": "My take on a milk chocolate with flavors that most should have.",
+    "id": 68505,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/68505\/650_80.jpg",
+    "updated_at": "2020-12-12T11:51:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "6retro6",
+    "views": "2236",
+    "created_at": "2017-10-15",
+    "slug": "milk_chocolate",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/68505.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Trista_C",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is as close to eating milk chocolate as any juice I've found"
+        }
+    ]
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Pamplemousse",
-  "description": "Bright Grapefruit supported by strawberry and Blueberry.  Perfect Summer Vape.\r\n\r\nINW grapefruit has a very authentic grapefruit flavor for me. During my testing after I got the flavor, it was quite strong at 5%. I wanted to whip something up that tamed out the bitterness, and added some fruity complexity and sweetness at the same time. I mix this at 75/25 VG/PG and its great as a shake and vape, but the grapefruit mellows a bit after a day or so. Berry base really supports the grapefruit zing and bitterness well.\r\nAn awesome fresh summertime ADV for me\r\nHope you enjoy.",
-  "id": 53491,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53491/grapefruit.jpg",
-  "updated_at": "2020-12-08T00:49:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 1200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 800,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grapefruit",
-      "flavor_id": "785",
-      "millipercent": 3000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Shazbot13",
-  "views": "1205",
-  "slug": "pamplemousse",
-  "total_flavoring": "10.2%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Screwdriver",
-      "score": "4",
-      "text": "A very nice summer-vape indeed, and not too sweet and very refreshing. Very nice pairing of fruits. Also good to add to this one is .5% (CAP) Super Sweet and/or Koolada/WS-23. If it were up to me, the summer can start right away. Many thx for this S&amp;V goodness Shazbot13 "
-    }
-  ]
+    "name": "Pamplemousse",
+    "description": "Bright Grapefruit supported by strawberry and Blueberry.  Perfect Summer Vape.\r\n\r\nINW grapefruit has a very authentic grapefruit flavor for me. During my testing after I got the flavor, it was quite strong at 5%. I wanted to whip something up that tamed out the bitterness, and added some fruity complexity and sweetness at the same time. I mix this at 75\/25 VG\/PG and its great as a shake and vape, but the grapefruit mellows a bit after a day or so. Berry base really supports the grapefruit zing and bitterness well.\r\nAn awesome fresh summertime ADV for me\r\nHope you enjoy.",
+    "id": 53491,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/53491\/grapefruit.jpg",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 1200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 800,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grapefruit",
+            "flavor_id": "785",
+            "millipercent": 3000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Shazbot13",
+    "views": "1210",
+    "created_at": "2017-07-02",
+    "slug": "pamplemousse",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/53491.jpg",
+    "total_flavoring": "10.2%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Screwdriver",
+            "score": 4,
+            "text": "A very nice summer-vape indeed, and not too sweet and very refreshing. Very nice pairing of fruits. Also good to add to this one is .5% (CAP) Super Sweet and\/or Koolada\/WS-23. If it were up to me, the summer can start right away. Many thx for this S&amp;V goodness Shazbot13 "
+        }
+    ]
 }

@@ -1,51 +1,52 @@
 {
-  "name": "Hydee",
-  "description": "For my wife, whose birthday is St Patricks day.",
-  "id": 968,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "1462",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Queuetue",
-  "views": "2061",
-  "slug": "hydee",
-  "total_flavoring": "10.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "A sweet, soothing peppermint cream somewhat reminiscent of a Shamrock Shake. I have the flu and nothing tastes as it should, I can barely vape anything with this cough, but this recipe was a godsend that actually feels good on my sore throat. It's only had a one-day steep at this point, I imagine it will get even better over time as most things with Vanilla Swirl do. "
-    }
-  ]
+    "name": "Hydee",
+    "description": "For my wife, whose birthday is St Patricks day.",
+    "id": 968,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "1462",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Queuetue",
+    "views": "2072",
+    "created_at": "2016-03-16",
+    "slug": "hydee",
+    "total_flavoring": "10.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "A sweet, soothing peppermint cream somewhat reminiscent of a Shamrock Shake. I have the flu and nothing tastes as it should, I can barely vape anything with this cough, but this recipe was a godsend that actually feels good on my sore throat. It's only had a one-day steep at this point, I imagine it will get even better over time as most things with Vanilla Swirl do. "
+        }
+    ]
 }

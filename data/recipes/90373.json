@@ -1,86 +1,86 @@
 {
-  "name": "Orange Creme Churro",
-  "description": "Week 9 Challenge - dedicated to Emily - I am new to this game so I don't know her nickname but I think everyone knows who she is.  I don't have sugar cone or waffle cone which she has been mentioning alot lately or at least in shows where I've seen her.  Churro is my best next go to for a different kind of bakery. \r\n This tastes great shake and vape - I hope it holds up to some steeping.  I thought churro with orange and cream sounded good so I went for it and added a floral dash to it - straight away it's not obvious but the bergamot you can taste right off the bat even at such a small percentage and it adds a nice extra bitter-sweetness somehow.  If you want something sweeter than this you could definitely bump up the super sweet.  The biscuit is silverline but I don't see that here.",
-  "id": 90373,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90373/flowers-background-butterflies-beautiful-87452.jpeg",
-  "updated_at": "2020-12-06T12:55:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Churro",
-      "flavor_id": "4168",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "8737",
-      "millipercent": 1300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream (vanilla)",
-      "flavor_id": "917",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Fresh Strawberries",
-      "flavor_id": "6052",
-      "millipercent": 1800,
-      "vendor": "WF"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lavender",
-      "flavor_id": "510",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Catalan Cream",
-      "flavor_id": "483",
-      "millipercent": 650,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemonade Cookie",
-      "flavor_id": "2367",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "spicygal",
-  "views": "1163",
-  "slug": "orange_creme_churro",
-  "total_flavoring": "11.45%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Creme Churro",
+    "description": "Week 9 Challenge - dedicated to Emily - I am new to this game so I don't know her nickname but I think everyone knows who she is.  I don't have sugar cone or waffle cone which she has been mentioning alot lately or at least in shows where I've seen her.  Churro is my best next go to for a different kind of bakery. \r\n This tastes great shake and vape - I hope it holds up to some steeping.  I thought churro with orange and cream sounded good so I went for it and added a floral dash to it - straight away it's not obvious but the bergamot you can taste right off the bat even at such a small percentage and it adds a nice extra bitter-sweetness somehow.  If you want something sweeter than this you could definitely bump up the super sweet.  The biscuit is silverline but I don't see that here.",
+    "id": 90373,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90373\/flowers-background-butterflies-beautiful-87452.jpeg",
+    "updated_at": "2020-12-11T13:44:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Churro",
+            "flavor_id": "4168",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "8737",
+            "millipercent": 1300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream (vanilla)",
+            "flavor_id": "917",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Fresh Strawberries",
+            "flavor_id": "6052",
+            "millipercent": 1800,
+            "vendor": "WF"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lavender",
+            "flavor_id": "510",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Catalan Cream",
+            "flavor_id": "483",
+            "millipercent": 650,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemonade Cookie",
+            "flavor_id": "2367",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "spicygal",
+    "views": "1170",
+    "created_at": "2018-02-28",
+    "slug": "orange_creme_churro",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90373.jpeg",
+    "total_flavoring": "11.45%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

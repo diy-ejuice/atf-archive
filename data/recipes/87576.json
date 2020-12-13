@@ -1,62 +1,61 @@
 {
-  "name": "Double Barrel (Live Mixing 02/09)",
-  "description": "A shake and vape root beer/cola hard candy. As if cola gummies and root beer barrels had a midnight soire.\r\n\r\nCola Soda is a placeholder for cola fizz until it is added to ATF.",
-  "id": 87576,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 5000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cola Soda",
-      "flavor_id": "4174",
-      "millipercent": 700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Smooth Vanilla",
-      "flavor_id": "8570",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 100,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "1974",
-  "slug": "double_barrel_live_mixing_0209",
-  "total_flavoring": "8.2%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Double Barrel (Live Mixing 02\/09)",
+    "description": "A shake and vape root beer\/cola hard candy. As if cola gummies and root beer barrels had a midnight soire.\r\n\r\nCola Soda is a placeholder for cola fizz until it is added to ATF.",
+    "id": 87576,
+    "image_url": null,
+    "updated_at": "2020-12-11T21:44:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 5000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cola Soda",
+            "flavor_id": "4174",
+            "millipercent": 700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Smooth Vanilla",
+            "flavor_id": "8570",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 100,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "1984",
+    "created_at": "2018-02-09",
+    "slug": "double_barrel_live_mixing_0209",
+    "total_flavoring": "8.2%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

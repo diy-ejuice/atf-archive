@@ -1,56 +1,55 @@
 {
-  "name": "Vanilla Threeway",
-  "description": "A custard, an ice cream, and a panna cotta - the holy trinity of vanilla infused desserts.\r\n\r\nWafer, graham cracker and brown sugar add a bit of texture and keep things interesting.\r\n\r\nI'm in a minority in that I prefer custards fresher, so I SnV this - I think most people would rather at least a week steep. \r\n\r\n",
-  "id": 32980,
-  "image_url": null,
-  "updated_at": "2020-12-07T04:39:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Calipitter Chow",
-      "flavor_id": "6702",
-      "millipercent": 2000,
-      "vendor": "MPV"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "HAMFIST",
-  "views": "1208",
-  "slug": "vanilla_threeway",
-  "total_flavoring": "16.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vanilla Threeway",
+    "description": "A custard, an ice cream, and a panna cotta - the holy trinity of vanilla infused desserts.\r\n\r\nWafer, graham cracker and brown sugar add a bit of texture and keep things interesting.\r\n\r\nI'm in a minority in that I prefer custards fresher, so I SnV this - I think most people would rather at least a week steep. \r\n\r\n",
+    "id": 32980,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Calipitter Chow",
+            "flavor_id": "6702",
+            "millipercent": 2000,
+            "vendor": "MPV"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "HAMFIST",
+    "views": "1215",
+    "created_at": "2017-02-20",
+    "slug": "vanilla_threeway",
+    "total_flavoring": "16.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

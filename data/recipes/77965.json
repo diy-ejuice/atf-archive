@@ -1,51 +1,53 @@
 {
-  "name": "TIA SANDIA (Watermelon girl)",
-  "description": "Fresh and sweet watermelon wrapped with strawberry flavor at the end. A light and refreshing vape for all sunny days.",
-  "id": 77965,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77965/strawberry-watermelon.png",
-  "updated_at": "2020-12-08T00:49:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Watermelon",
-      "flavor_id": "48",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Fertox",
-  "views": "2159",
-  "slug": "tia_sandia_watermelon_girl",
-  "total_flavoring": "17.0%",
-  "steep_days": "15",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "boomshankr",
-      "score": "4",
-      "text": "Great tasting strawberry with a watermelon body. Menthol was a bit too strong to my liking but great tasting vape."
-    }
-  ]
+    "name": "TIA SANDIA (Watermelon girl)",
+    "description": "Fresh and sweet watermelon wrapped with strawberry flavor at the end. A light and refreshing vape for all sunny days.",
+    "id": 77965,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/77965\/strawberry-watermelon.png",
+    "updated_at": "2020-12-12T17:11:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Watermelon",
+            "flavor_id": "48",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Fertox",
+    "views": "2171",
+    "created_at": "2017-12-08",
+    "slug": "tia_sandia_watermelon_girl",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/77965.png",
+    "total_flavoring": "17.0%",
+    "steep_days": "15",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "boomshankr",
+            "score": 4,
+            "text": "Great tasting strawberry with a watermelon body. Menthol was a bit too strong to my liking but great tasting vape."
+        }
+    ]
 }

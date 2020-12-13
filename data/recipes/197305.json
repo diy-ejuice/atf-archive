@@ -1,50 +1,50 @@
 {
-  "name": "Coquito Bonito",
-  "description": "A creamy, coconut, egg nog drink.\r\nSimple and straightfoward.\r\n\r\nDelish mmmuah\r\n\r\nSweeten to your taste!!\r\n\r\nCheck out my other renditions of this, AppleNog and Pumkin Pie Nog.",
-  "id": 197305,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197305/coquito.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow Vanilla",
-      "flavor_id": "10092",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "EyeM2sRus",
-  "views": "498",
-  "slug": "coquito_bonito",
-  "total_flavoring": "4.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coquito Bonito",
+    "description": "A creamy, coconut, egg nog drink.\r\nSimple and straightfoward.\r\n\r\nDelish mmmuah\r\n\r\nSweeten to your taste!!\r\n\r\nCheck out my other renditions of this, AppleNog and Pumkin Pie Nog.",
+    "id": 197305,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197305\/coquito.jpg",
+    "updated_at": "2020-12-10T19:01:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow Vanilla",
+            "flavor_id": "10092",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "EyeM2sRus",
+    "views": "503",
+    "created_at": "2020-06-10",
+    "slug": "coquito_bonito",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197305.jpg",
+    "total_flavoring": "4.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

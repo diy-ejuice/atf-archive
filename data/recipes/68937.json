@@ -1,51 +1,53 @@
 {
-  "name": "Article Recipe: Bacco Graham",
-  "description": "MUST READ ARTICLE BEFORE MIXING\r\nThis is a tobacco graham cracker recipe \r\nMade for article \"Mixing For Closed System Vapor Devices\"\r\n-> https://diyordievaping.com/2017/10/17/mixing-for-closed-system-devices/",
-  "id": 68937,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/68937/article-recipes.jpg",
-  "updated_at": "2020-12-08T00:49:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "RY4 Double",
-      "flavor_id": "4490",
-      "millipercent": 4000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "8167",
-  "slug": "article_recipe_bacco_graham",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "The actual tobacco note in this is very soft, which I expect from Wayne's tobacco mixes.  More of an RY4 with a little edge, and a nice addition from the graham."
-    }
-  ]
+    "name": "Article Recipe: Bacco Graham",
+    "description": "MUST READ ARTICLE BEFORE MIXING\r\nThis is a tobacco graham cracker recipe \r\nMade for article \"Mixing For Closed System Vapor Devices\"\r\n-> https:\/\/diyordievaping.com\/2017\/10\/17\/mixing-for-closed-system-devices\/",
+    "id": 68937,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/68937\/article-recipes.jpg",
+    "updated_at": "2020-12-12T11:51:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "RY4 Double",
+            "flavor_id": "4490",
+            "millipercent": 4000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "8176",
+    "created_at": "2017-10-17",
+    "slug": "article_recipe_bacco_graham",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/68937.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "The actual tobacco note in this is very soft, which I expect from Wayne's tobacco mixes.  More of an RY4 with a little edge, and a nice addition from the graham."
+        }
+    ]
 }

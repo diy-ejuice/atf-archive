@@ -1,56 +1,55 @@
 {
-  "name": "Brad's RY4",
-  "description": "This is my first attempt at a tobacco, and since I'm a die hard RY4 fan I couldn't resist. I usually sweeten my juices a lot, I figure the caramel original and the ry4 double will do enough for this recipe. Suggestions welcome. Thanks ",
-  "id": 42807,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:39:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tab Blended",
-      "flavor_id": "2028",
-      "millipercent": 4000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Ry - 4",
-      "flavor_id": "693",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "BradH",
-  "views": "1767",
-  "slug": "brads_ry4",
-  "total_flavoring": "11.0%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Brad's RY4",
+    "description": "This is my first attempt at a tobacco, and since I'm a die hard RY4 fan I couldn't resist. I usually sweeten my juices a lot, I figure the caramel original and the ry4 double will do enough for this recipe. Suggestions welcome. Thanks ",
+    "id": 42807,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:44:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tab Blended",
+            "flavor_id": "2028",
+            "millipercent": 4000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Ry - 4",
+            "flavor_id": "693",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "BradH",
+    "views": "1773",
+    "created_at": "2017-04-24",
+    "slug": "brads_ry4",
+    "total_flavoring": "11.0%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

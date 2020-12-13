@@ -1,56 +1,58 @@
 {
-  "name": "root beer float",
-  "description": "Just messing around with some new flv flavors, This is the best root beer float I ever had. All other root beer flavors are too overpowering but this one is really hard to mess up.",
-  "id": 62295,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62295/rootbeer__16407.1334362705.220.220.png",
-  "updated_at": "2020-12-08T00:49:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Thadentman",
-  "views": "2604",
-  "slug": "root_beer_float",
-  "total_flavoring": "6.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "It's incredibly hard for me to give this only four stars. That's because it's fucking delicious and absolutely both shake-and-vapeable and all-day-vapable. Do yourself a huge favor and mix it up. But, I was promised a root beer float. Granted, it is much better than something like single-flavor FW Root Beer Float, but it tastes more like a root beer float made out of vanilla whipped cream than thick, rich vanilla ice cream. Or maybe a root beer float with a seriously skimpy ice cream to root beer ratio. FLV Root Beer is magical stuff but it has a small gap between those wonderful top notes and the delightfully foamy finish. Here, the vanilla bean plays well with those spicy top notes and the FW VBIC and CAP Vanilla Whipped Cream fill that gap very well without messing up the root beer at all. I just want a little bit more t h i c c ness in an ice cream float, that's all. Even after steeping for almost a week to see if the creams would come out a bit, I'm still not quite getting that. "
-    },
-    {
-      "user": "praotec",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "root beer float",
+    "description": "Just messing around with some new flv flavors, This is the best root beer float I ever had. All other root beer flavors are too overpowering but this one is really hard to mess up.",
+    "id": 62295,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62295\/rootbeer__16407.1334362705.220.220.png",
+    "updated_at": "2020-12-12T10:33:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Thadentman",
+    "views": "2612",
+    "created_at": "2017-09-02",
+    "slug": "root_beer_float",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62295.png",
+    "total_flavoring": "6.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "It's incredibly hard for me to give this only four stars. That's because it's fucking delicious and absolutely both shake-and-vapeable and all-day-vapable. Do yourself a huge favor and mix it up. But, I was promised a root beer float. Granted, it is much better than something like single-flavor FW Root Beer Float, but it tastes more like a root beer float made out of vanilla whipped cream than thick, rich vanilla ice cream. Or maybe a root beer float with a seriously skimpy ice cream to root beer ratio. FLV Root Beer is magical stuff but it has a small gap between those wonderful top notes and the delightfully foamy finish. Here, the vanilla bean plays well with those spicy top notes and the FW VBIC and CAP Vanilla Whipped Cream fill that gap very well without messing up the root beer at all. I just want a little bit more t h i c c ness in an ice cream float, that's all. Even after steeping for almost a week to see if the creams would come out a bit, I'm still not quite getting that. "
+        },
+        {
+            "user": "praotec",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

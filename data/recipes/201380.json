@@ -1,50 +1,49 @@
 {
-  "name": "Avant Limeade",
-  "description": "CAP Lemon Lime is an ideal base for a limeade. It's pretty well balanced but you get a lot of the lime up front and the lemon sticks around through the exhale. It's sweet, not sour or bitter and has a good amount of body. \r\n\r\nI've added FA Marshmallow to round out the edges and give the profile a nice creamy head. \r\n\r\nCAP Hibiscus is sticky and sweet. It's not a main note here but it does help everything around adding to the authenticity. \r\n\r\nVTA Persian Lime is the star of this show. It is a zesty natural lime that sticks around through the steep. Very Good. \r\n\r\nSome sweetener is essential for this recipe. I use CAP Super Sweet at 0.5% and I think this is a minimum. \r\n\r\nWatch the Video Here:\r\nhttps://youtu.be/4V6orBaLnEw",
-  "id": 201380,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "355",
-  "slug": "avant_limeade",
-  "total_flavoring": "9.0%",
-  "steep_days": "2",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Avant Limeade",
+    "description": "CAP Lemon Lime is an ideal base for a limeade. It's pretty well balanced but you get a lot of the lime up front and the lemon sticks around through the exhale. It's sweet, not sour or bitter and has a good amount of body. \r\n\r\nI've added FA Marshmallow to round out the edges and give the profile a nice creamy head. \r\n\r\nCAP Hibiscus is sticky and sweet. It's not a main note here but it does help everything around adding to the authenticity. \r\n\r\nVTA Persian Lime is the star of this show. It is a zesty natural lime that sticks around through the steep. Very Good. \r\n\r\nSome sweetener is essential for this recipe. I use CAP Super Sweet at 0.5% and I think this is a minimum. \r\n\r\nWatch the Video Here:\r\nhttps:\/\/youtu.be\/4V6orBaLnEw",
+    "id": 201380,
+    "image_url": null,
+    "updated_at": "2020-12-11T22:45:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "362",
+    "created_at": "2020-07-25",
+    "slug": "avant_limeade",
+    "total_flavoring": "9.0%",
+    "steep_days": "2",
+    "best_vg": "80%",
+    "temperature": "0"
 }

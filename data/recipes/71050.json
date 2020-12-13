@@ -1,50 +1,50 @@
 {
-  "name": "Screwed Harambae",
-  "description": "Screwed Harambae is my take on the new Canadian e-juice, a blend of Grapefruit, Citrus, Blood Orange and Guava. \r\nThis one is to die for... Throw in some WS23 or Koolada if that's your thing, I prefer it the way it is without.\r\nSince not all the flavors of my recipe are in the ATF-database, please find the correct ones here below.\r\n\r\n(Natural) Grapefruit  (Inawera) @ 2%\r\nBlood Orange (FA) @ 1%\r\nGuava  (Inawera) @ 1.5%\r\nSo Sour so good  (Inawera) @ 0.25%\r\nSuper Sweet (CAP) between 0.25% and 0.75%\r\n\r\nEnjoy & comment please.\r\nScrewdriver",
-  "id": 71050,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/71050/Screwed_Harambae.png",
-  "updated_at": "2020-12-07T20:32:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grapefruit",
-      "flavor_id": "785",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Guava",
-      "flavor_id": "580",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Screwdriver",
-  "views": "1065",
-  "slug": "screwed_harambae",
-  "total_flavoring": "5.5%",
-  "steep_days": "3",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Screwed Harambae",
+    "description": "Screwed Harambae is my take on the new Canadian e-juice, a blend of Grapefruit, Citrus, Blood Orange and Guava. \r\nThis one is to die for... Throw in some WS23 or Koolada if that's your thing, I prefer it the way it is without.\r\nSince not all the flavors of my recipe are in the ATF-database, please find the correct ones here below.\r\n\r\n(Natural) Grapefruit  (Inawera) @ 2%\r\nBlood Orange (FA) @ 1%\r\nGuava  (Inawera) @ 1.5%\r\nSo Sour so good  (Inawera) @ 0.25%\r\nSuper Sweet (CAP) between 0.25% and 0.75%\r\n\r\nEnjoy & comment please.\r\nScrewdriver",
+    "id": 71050,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/71050\/Screwed_Harambae.png",
+    "updated_at": "2020-12-11T13:44:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grapefruit",
+            "flavor_id": "785",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Guava",
+            "flavor_id": "580",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Screwdriver",
+    "views": "1071",
+    "created_at": "2017-10-28",
+    "slug": "screwed_harambae",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/71050.png",
+    "total_flavoring": "5.5%",
+    "steep_days": "3",
+    "best_vg": "80%",
+    "temperature": "0"
 }

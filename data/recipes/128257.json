@@ -1,57 +1,59 @@
 {
-  "name": "Sexy",
-  "description": "Inspired by SkiddlzNinja’s “God Milk”, I boosted the strawberry and swapped the TPA Cheesecake Graham Crust for INW Yes We Cheesecake because I’ve fallen in love with it ever since the Cheesecake episode of Noted. It’s a little creamier and less “crusty” than TPA but I think it works great in this recipe. ",
-  "id": 128257,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/128257/4ECDC892-8479-419D-BA39-50DEF0771709.jpeg",
-  "updated_at": "2020-12-08T00:50:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "iRaft",
-  "views": "2501",
-  "slug": "sexy",
-  "total_flavoring": "16.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "1FriendlyCactus",
-      "score": "5",
-      "text": "I like this much better than God's Milk. Great recipe."
-    }
-  ]
+    "name": "Sexy",
+    "description": "Inspired by SkiddlzNinja\u2019s \u201cGod Milk\u201d, I boosted the strawberry and swapped the TPA Cheesecake Graham Crust for INW Yes We Cheesecake because I\u2019ve fallen in love with it ever since the Cheesecake episode of Noted. It\u2019s a little creamier and less \u201ccrusty\u201d than TPA but I think it works great in this recipe. ",
+    "id": 128257,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/128257\/4ECDC892-8479-419D-BA39-50DEF0771709.jpeg",
+    "updated_at": "2020-12-12T17:12:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "iRaft",
+    "views": "2511",
+    "created_at": "2018-11-20",
+    "slug": "sexy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/128257.jpeg",
+    "total_flavoring": "16.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "1FriendlyCactus",
+            "score": 5,
+            "text": "I like this much better than God's Milk. Great recipe."
+        }
+    ]
 }

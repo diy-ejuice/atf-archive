@@ -1,44 +1,44 @@
 {
-  "name": "Smooth Operator",
-  "description": "A very simple 4 flavor banger!\r\nFA Black Currant and FA Forest Fruit work really well to add a berry taste to the AMAZING, citrus/yogurt taste of VT Yoghurt Drink. I really like TPA Vanilla Swirl in here to tame, or smooth out some of the lemon notes. \r\n",
-  "id": 132522,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/132522/Mixed_berries.jpg",
-  "updated_at": "2020-12-06T10:38:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 4000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Bonezmcnasty",
-  "views": "1391",
-  "slug": "smooth_operator",
-  "total_flavoring": "8.5%",
-  "steep_days": "4",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Smooth Operator",
+    "description": "A very simple 4 flavor banger!\r\nFA Black Currant and FA Forest Fruit work really well to add a berry taste to the AMAZING, citrus\/yogurt taste of VT Yoghurt Drink. I really like TPA Vanilla Swirl in here to tame, or smooth out some of the lemon notes. \r\n",
+    "id": 132522,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/132522\/Mixed_berries.jpg",
+    "updated_at": "2020-12-10T16:01:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 4000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Bonezmcnasty",
+    "views": "1399",
+    "created_at": "2018-12-27",
+    "slug": "smooth_operator",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/132522.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "4",
+    "best_vg": "70%",
+    "temperature": "0"
 }

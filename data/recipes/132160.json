@@ -1,56 +1,56 @@
 {
-  "name": "Strawberry Cream Cookie",
-  "description": "Sweet cookie with strawberry cream frosting. \r\nThe INW Biscuit and CAP Sugar Cookie make up the main flavor profile. \r\nCAP Sweet Strawberry and TPA Strawberry Ripe for a sweet strawberry top note. \r\nFA Meringue and TPA Bavarian Cream to finish with a toasted, baked creamy flavor. \r\nTastes great as a SNV but steep for 2 weeks for optimal flavor. ",
-  "id": 132160,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/132160/Strawberry-Frosted-Sugar-Cookies-3.jpg",
-  "updated_at": "2020-12-07T20:32:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "setkaos",
-  "views": "2274",
-  "slug": "strawberry_cream_cookie",
-  "total_flavoring": "11.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Cream Cookie",
+    "description": "Sweet cookie with strawberry cream frosting. \r\nThe INW Biscuit and CAP Sugar Cookie make up the main flavor profile. \r\nCAP Sweet Strawberry and TPA Strawberry Ripe for a sweet strawberry top note. \r\nFA Meringue and TPA Bavarian Cream to finish with a toasted, baked creamy flavor. \r\nTastes great as a SNV but steep for 2 weeks for optimal flavor. ",
+    "id": 132160,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/132160\/Strawberry-Frosted-Sugar-Cookies-3.jpg",
+    "updated_at": "2020-12-11T14:04:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "setkaos",
+    "views": "2287",
+    "created_at": "2018-12-22",
+    "slug": "strawberry_cream_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/132160.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

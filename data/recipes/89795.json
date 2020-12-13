@@ -1,74 +1,74 @@
 {
-  "name": "Mandarin Breeze",
-  "description": "A soda-type, cold mandarin drink with some more citrus notes.\r\nPerfect for hot days. Enjoy.\r\n\r\nSteep: SnV (1 or 2 days)\r\n\r\nPS. WS-23 can be used in our own taste, I prefer use it @ 0.5% in this mix.",
-  "id": 89795,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/89795/mand.jpg",
-  "updated_at": "2020-12-06T20:43:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grenadine",
-      "flavor_id": "68",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Citrus Punch",
-      "flavor_id": "348",
-      "millipercent": 1200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime Zinger",
-      "flavor_id": "5397",
-      "millipercent": 1000,
-      "vendor": "DV"
-    },
-    {
-      "name": "Ginger Ale",
-      "flavor_id": "1294",
-      "millipercent": 800,
-      "vendor": "FW"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "daffynash",
-  "views": "1427",
-  "slug": "mandarin_breeze",
-  "total_flavoring": "9.4%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mandarin Breeze",
+    "description": "A soda-type, cold mandarin drink with some more citrus notes.\r\nPerfect for hot days. Enjoy.\r\n\r\nSteep: SnV (1 or 2 days)\r\n\r\nPS. WS-23 can be used in our own taste, I prefer use it @ 0.5% in this mix.",
+    "id": 89795,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/89795\/mand.jpg",
+    "updated_at": "2020-12-11T14:08:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grenadine",
+            "flavor_id": "68",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Citrus Punch",
+            "flavor_id": "348",
+            "millipercent": 1200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime Zinger",
+            "flavor_id": "5397",
+            "millipercent": 1000,
+            "vendor": "DV"
+        },
+        {
+            "name": "Ginger Ale",
+            "flavor_id": "1294",
+            "millipercent": 800,
+            "vendor": "FW"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "daffynash",
+    "views": "1435",
+    "created_at": "2018-02-24",
+    "slug": "mandarin_breeze",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/89795.jpg",
+    "total_flavoring": "9.4%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,75 +1,77 @@
 {
-  "name": "Strawberry Mocha Latte",
-  "description": "Coffee vapes were my first love.  FA.s Up resonates with me...I love this flavor. ",
-  "id": 38600,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38600/IMG_2799.JPG",
-  "updated_at": "2020-12-08T00:49:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "UP (coffee)",
-      "flavor_id": "4473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "R2ME2",
-  "views": "1387",
-  "slug": "strawberry_mocha_latte",
-  "total_flavoring": "8.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Kemmo",
-      "score": "5",
-      "text": "Really well balanced recipe, Many enjoyable flavor notes. Thanks for sharing. "
-    }
-  ]
+    "name": "Strawberry Mocha Latte",
+    "description": "Coffee vapes were my first love.  FA.s Up resonates with me...I love this flavor. ",
+    "id": 38600,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/38600\/IMG_2799.JPG",
+    "updated_at": "2020-12-12T11:50:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "UP (coffee)",
+            "flavor_id": "4473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "R2ME2",
+    "views": "1394",
+    "created_at": "2017-03-27",
+    "slug": "strawberry_mocha_latte",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/38600.JPG",
+    "total_flavoring": "8.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Kemmo",
+            "score": 5,
+            "text": "Really well balanced recipe, Many enjoyable flavor notes. Thanks for sharing. "
+        }
+    ]
 }

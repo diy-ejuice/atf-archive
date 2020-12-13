@@ -1,62 +1,62 @@
 {
-  "name": "Criteria",
-  "description": "INW Custard and FA Caramel - they add a little bit extra caramel, while bringing a bit more body.\r\nFA, HS and TPA Ry4/1 - TPAs all alone is dirty, but not tobacco-y enough. FAs is cleaner and that's exactly it's problem. Hangsen just to bring that classic hangsen tobacco note.\r\nTPA Brown Sugar - i can't really explain but i really dig how it works with RY4d, makes everything a bit darker.\r\nFA Mts Wizz - The mix didn't really work before i threw this in, just blends it all together.\r\n\r\nA couple weeks should do ya. It gets a bit fuller the more you steep it, but starts losing some 'bite' after the 2nd/3rd week.\r\n\r\n-\r\n\r\nV2 Dropped TPA RY4D, upped both FA RY4 and HS RY1",
-  "id": 111838,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111838/VTRY6.jpg",
-  "updated_at": "2020-12-07T17:35:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4",
-      "flavor_id": "475",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "RY1",
-      "flavor_id": "2057",
-      "millipercent": 3750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "CCivinski",
-  "views": "2106",
-  "slug": "criteria",
-  "total_flavoring": "10.0%",
-  "steep_days": "14",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Criteria",
+    "description": "INW Custard and FA Caramel - they add a little bit extra caramel, while bringing a bit more body.\r\nFA, HS and TPA Ry4\/1 - TPAs all alone is dirty, but not tobacco-y enough. FAs is cleaner and that's exactly it's problem. Hangsen just to bring that classic hangsen tobacco note.\r\nTPA Brown Sugar - i can't really explain but i really dig how it works with RY4d, makes everything a bit darker.\r\nFA Mts Wizz - The mix didn't really work before i threw this in, just blends it all together.\r\n\r\nA couple weeks should do ya. It gets a bit fuller the more you steep it, but starts losing some 'bite' after the 2nd\/3rd week.\r\n\r\n-\r\n\r\nV2 Dropped TPA RY4D, upped both FA RY4 and HS RY1",
+    "id": 111838,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/111838\/VTRY6.jpg",
+    "updated_at": "2020-12-11T19:41:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4",
+            "flavor_id": "475",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "RY1",
+            "flavor_id": "2057",
+            "millipercent": 3750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "CCivinski",
+    "views": "2117",
+    "created_at": "2018-07-24",
+    "slug": "criteria",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/111838.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "14",
+    "best_vg": "60%",
+    "temperature": "0"
 }

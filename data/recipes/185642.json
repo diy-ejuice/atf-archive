@@ -1,63 +1,65 @@
 {
-  "name": "Down and Dirty",
-  "description": "Read ‘em and weep... yeh, another recipe, and it will blow you’re mind if you love custards with a slight tobacco edge. Thick eggy vanilla tobacco custard, no explaining needed for this one. Just try it and let it become your new favourite recipe :) if you’re on the outside looking in and think you know what’s going on, think again you know nothing Jon snow ;) #jealousyisadishbestservedwitholiveoilandparmesan #saltybae\r\n\r\nIf you like this recipe and what I do then please rate and review, love you all. 😘\r\n\r\n",
-  "id": 185642,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/185642/1034ADB4-1433-4EBF-ACBF-E69B4B7CF586.png",
-  "updated_at": "2020-12-08T00:51:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "RY4",
-      "flavor_id": "2060",
-      "millipercent": 4500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Classic",
-      "flavor_id": "8991",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "1519",
-  "slug": "down_and_dirty",
-  "total_flavoring": "18.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Wooo! What a banger. I'm a little sensitive to INW Custard but it blends here perfectly. Another great one, Nick!"
-    }
-  ]
+    "name": "Down and Dirty",
+    "description": "Read \u2018em and weep... yeh, another recipe, and it will blow you\u2019re mind if you love custards with a slight tobacco edge. Thick eggy vanilla tobacco custard, no explaining needed for this one. Just try it and let it become your new favourite recipe :) if you\u2019re on the outside looking in and think you know what\u2019s going on, think again you know nothing Jon snow ;) #jealousyisadishbestservedwitholiveoilandparmesan #saltybae\r\n\r\nIf you like this recipe and what I do then please rate and review, love you all. \ud83d\ude18\r\n\r\n",
+    "id": 185642,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/185642\/1034ADB4-1433-4EBF-ACBF-E69B4B7CF586.png",
+    "updated_at": "2020-12-12T08:14:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "RY4",
+            "flavor_id": "2060",
+            "millipercent": 4500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Classic",
+            "flavor_id": "8991",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "1530",
+    "created_at": "2020-02-23",
+    "slug": "down_and_dirty",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/185642.png",
+    "total_flavoring": "18.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Wooo! What a banger. I'm a little sensitive to INW Custard but it blends here perfectly. Another great one, Nick!"
+        }
+    ]
 }

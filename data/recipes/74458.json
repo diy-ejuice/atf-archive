@@ -1,87 +1,89 @@
 {
-  "name": "Turn Me Over",
-  "description": "A lemon turnover pastry topped off with a light sprinkle of powered sugar. \r\n\r\nFinalized! \r\n\r\n",
-  "id": 74458,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/74458/apple-turnovers-using-phyllo-dough-3.jpg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pastry Zest",
-      "flavor_id": "8562",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Dezy",
-  "views": "2843",
-  "slug": "turn_me_over",
-  "total_flavoring": "13.0%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Pam",
-      "score": "5",
-      "text": "This gets rave reviews from my son's friends. They loved a lemon pound cake commercial juice. I saw your post on the FB page when you finalized this and mixed it out of curiosity. I gave a tester to one young man, who came back for more. Another tried it and now raves about it. You have a winner here. Thank you!"
-    }
-  ]
+    "name": "Turn Me Over",
+    "description": "A lemon turnover pastry topped off with a light sprinkle of powered sugar. \r\n\r\nFinalized! \r\n\r\n",
+    "id": 74458,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/74458\/apple-turnovers-using-phyllo-dough-3.jpg",
+    "updated_at": "2020-12-12T15:39:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pastry Zest",
+            "flavor_id": "8562",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Dezy",
+    "views": "2851",
+    "created_at": "2017-11-16",
+    "slug": "turn_me_over",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/74458.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Pam",
+            "score": 5,
+            "text": "This gets rave reviews from my son's friends. They loved a lemon pound cake commercial juice. I saw your post on the FB page when you finalized this and mixed it out of curiosity. I gave a tester to one young man, who came back for more. Another tried it and now raves about it. You have a winner here. Thank you!"
+        }
+    ]
 }

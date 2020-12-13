@@ -1,62 +1,62 @@
 {
-  "name": "Raspberry Cupcake",
-  "description": "This is just a slight variation on a vanilla cupcake recipe that I have been using for a while with a couple of subs and the addition of Capella raspberry.\r\n\r\nI can’t remember we’re I got the original recipe from to be honest though.",
-  "id": 90621,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90621/70304463-C051-412F-B813-E008D355E234.jpeg",
-  "updated_at": "2020-12-05T11:05:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry V2",
-      "flavor_id": "109",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Arod",
-  "views": "1171",
-  "slug": "raspberry_cupcake",
-  "total_flavoring": "11.0%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry Cupcake",
+    "description": "This is just a slight variation on a vanilla cupcake recipe that I have been using for a while with a couple of subs and the addition of Capella raspberry.\r\n\r\nI can\u2019t remember we\u2019re I got the original recipe from to be honest though.",
+    "id": 90621,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90621\/70304463-C051-412F-B813-E008D355E234.jpeg",
+    "updated_at": "2020-12-12T05:55:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry V2",
+            "flavor_id": "109",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Arod",
+    "views": "1179",
+    "created_at": "2018-03-02",
+    "slug": "raspberry_cupcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90621.jpeg",
+    "total_flavoring": "11.0%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

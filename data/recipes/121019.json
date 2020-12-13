@@ -1,56 +1,56 @@
 {
-  "name": "Tickle Lemonade",
-  "description": "Lovely, fruity, cold lemonade. Give it a go, it's really tasty. WS-23 is 30%",
-  "id": 121019,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121019/Tickle_Lemonade.jpg",
-  "updated_at": "2020-12-07T22:33:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tickle Me Pink (CVC)",
-      "flavor_id": "9260",
-      "millipercent": 9000,
-      "vendor": "CHF"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Lime",
-      "flavor_id": "829",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 2000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "8062282",
-  "views": "1116",
-  "slug": "tickle_lemonade",
-  "total_flavoring": "15.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tickle Lemonade",
+    "description": "Lovely, fruity, cold lemonade. Give it a go, it's really tasty. WS-23 is 30%",
+    "id": 121019,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121019\/Tickle_Lemonade.jpg",
+    "updated_at": "2020-12-10T14:52:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tickle Me Pink (CVC)",
+            "flavor_id": "9260",
+            "millipercent": 9000,
+            "vendor": "CHF"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Lime",
+            "flavor_id": "829",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 2000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "8062282",
+    "views": "1124",
+    "created_at": "2018-09-29",
+    "slug": "tickle_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121019.jpg",
+    "total_flavoring": "15.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

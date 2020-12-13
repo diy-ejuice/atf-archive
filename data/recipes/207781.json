@@ -1,57 +1,59 @@
 {
-  "name": "TPA Custard",
-  "description": "A simple and cheap All Tpa custard.\r\n\r\nThe Banana Cream is there to add mouthfeel and authenticity to the profile.\r\n\r\n",
-  "id": 207781,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207781/42E6A3AE-DE55-46E4-AC51-E919F4D6D2B8.jpeg",
-  "updated_at": "2020-12-08T00:51:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "JOE_ROOTS",
-  "views": "1343",
-  "slug": "tpa_custard",
-  "total_flavoring": "9.0%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BRDZ",
-      "score": "5",
-      "text": "This is nice dude, makes a good simple custard that id be happy using as a base/stone aswel. Going to remix and add some fruits or cookies to it 👊"
-    }
-  ]
+    "name": "TPA Custard",
+    "description": "A simple and cheap All Tpa custard.\r\n\r\nThe Banana Cream is there to add mouthfeel and authenticity to the profile.\r\n\r\n",
+    "id": 207781,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207781\/42E6A3AE-DE55-46E4-AC51-E919F4D6D2B8.jpeg",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "JOE_ROOTS",
+    "views": "1384",
+    "created_at": "2020-11-01",
+    "slug": "tpa_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207781.jpeg",
+    "total_flavoring": "9.0%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BRDZ",
+            "score": 5,
+            "text": "This is nice dude, makes a good simple custard that id be happy using as a base\/stone aswel. Going to remix and add some fruits or cookies to it \ud83d\udc4a"
+        }
+    ]
 }

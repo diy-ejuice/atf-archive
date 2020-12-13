@@ -1,56 +1,55 @@
 {
-  "name": "Cherry Cola",
-  "description": "this is a very simple cherry cola mix it up and enjoy it at 60/40",
-  "id": 61308,
-  "image_url": null,
-  "updated_at": "2020-11-30T23:58:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cola Syrup",
-      "flavor_id": "351",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cola",
-      "flavor_id": "1256",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Wild Cherry With Stevia",
-      "flavor_id": "134",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "2255",
-  "slug": "cherry_cola",
-  "total_flavoring": "14.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherry Cola",
+    "description": "this is a very simple cherry cola mix it up and enjoy it at 60\/40",
+    "id": 61308,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cola Syrup",
+            "flavor_id": "351",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cola",
+            "flavor_id": "1256",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Wild Cherry With Stevia",
+            "flavor_id": "134",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "2260",
+    "created_at": "2017-08-25",
+    "slug": "cherry_cola",
+    "total_flavoring": "14.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "95"
 }

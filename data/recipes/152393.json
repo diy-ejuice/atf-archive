@@ -1,68 +1,67 @@
 {
-  "name": "Amorphous 1",
-  "description": "Trying to create a flavor changing mix. Notes available on reddit shortly.",
-  "id": 152393,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:08:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Wine Champagne",
-      "flavor_id": "457",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "matthewkocanda",
-  "views": "1079",
-  "slug": "amorphous_1",
-  "total_flavoring": "15.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Amorphous 1",
+    "description": "Trying to create a flavor changing mix. Notes available on reddit shortly.",
+    "id": 152393,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:58:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Wine Champagne",
+            "flavor_id": "457",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "matthewkocanda",
+    "views": "1084",
+    "created_at": "2019-05-21",
+    "slug": "amorphous_1",
+    "total_flavoring": "15.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

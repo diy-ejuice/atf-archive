@@ -1,78 +1,80 @@
 {
-  "name": "Fresh Nerves",
-  "description": "A tobacco custard. Chocolate and coffee notes play with hints of cinnamon in the sweet and dark custard clouds",
-  "id": 24846,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/24846/1107142327g.jpg",
-  "updated_at": "2020-12-08T00:48:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Classic For Pipe Dark",
-      "flavor_id": "766",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "PerennialPhilosopher",
-  "views": "2119",
-  "slug": "fresh_nerves",
-  "total_flavoring": "12.0%",
-  "steep_days": "17",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CCivinski",
-      "score": "5",
-      "text": "*Had no Cap VC so subbed Inw Custard @2.25%*&#xD;\nI try everything I mix right after a shake and  almost trashed this one, it's awful fresh.&#xD;\nAfter three weeks it's AMAZING, It's rich but not too much, sweet but not too much. This is easily one of the best recipes i've ever tried.&#xD;\nThank you so much!&#xD;\n"
-    },
-    {
-      "user": "Rawtune",
-      "score": "5",
-      "text": "Fair warning: I don't have FA custard, so subbed INW custard at the same percentage. Awesome recipe. Classic for dark is a great flavor which has some ashy, dark, sweet, earthy and a little boozy. It definitely shines through here. I love creamy tobaccos and the custards with the cream, marshmallow, and liquid amber give the right amount of creaminess and moisture back to the tobacco.  One of my favorite flavors atm, will definitely be making a larger batch very soon"
-    },
-    {
-      "user": "CatWillMew",
-      "score": "5",
-      "text": "Great flavor profile here.  Really brings out the Dark for Pipe."
-    },
-    {
-      "user": "Deschain",
-      "score": "5",
-      "text": "I think I'm in love. Amazing recipe, good job man!&#xD;\n&#xD;\nSome details for those still not sure about the recipe. The primary flavor above all in the recipe is Classic for Pipe Dark, which is just an absolutely lovely pipe tobacco flavor that is very spicy and earthy compared to the other for Pipe series from Inawera. I think some people enjoy Black for Pipe over this one, which is a very similar flavor, but personally I like Dark better than Black for Pipe. Most of the other flavors in the recipe help with sweetness and creaminess. If you've never tried a tobacco recipe like this before, this might not sound too appealing, but it is most definitely a very delicious result IMO. If you're looking for a different kind of taste and are only missing a flavor or two this is definitely worth a shot. &#xD;\n&#xD;\nAlso, if you don't have Liquid Amber I feel this ingredient is not 100% essential in my humble opinion, but it'll certainly help. "
-    }
-  ]
+    "name": "Fresh Nerves",
+    "description": "A tobacco custard. Chocolate and coffee notes play with hints of cinnamon in the sweet and dark custard clouds",
+    "id": 24846,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/24846\/1107142327g.jpg",
+    "updated_at": "2020-12-12T18:29:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Classic For Pipe Dark",
+            "flavor_id": "766",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "PerennialPhilosopher",
+    "views": "2136",
+    "created_at": "2017-01-02",
+    "slug": "fresh_nerves",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/24846.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "17",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CCivinski",
+            "score": 5,
+            "text": "*Had no Cap VC so subbed Inw Custard @2.25%*&#xD;\nI try everything I mix right after a shake and  almost trashed this one, it's awful fresh.&#xD;\nAfter three weeks it's AMAZING, It's rich but not too much, sweet but not too much. This is easily one of the best recipes i've ever tried.&#xD;\nThank you so much!&#xD;\n"
+        },
+        {
+            "user": "Rawtune",
+            "score": 5,
+            "text": "Fair warning: I don't have FA custard, so subbed INW custard at the same percentage. Awesome recipe. Classic for dark is a great flavor which has some ashy, dark, sweet, earthy and a little boozy. It definitely shines through here. I love creamy tobaccos and the custards with the cream, marshmallow, and liquid amber give the right amount of creaminess and moisture back to the tobacco.  One of my favorite flavors atm, will definitely be making a larger batch very soon"
+        },
+        {
+            "user": "CatWillMew",
+            "score": 5,
+            "text": "Great flavor profile here.  Really brings out the Dark for Pipe."
+        },
+        {
+            "user": "Deschain",
+            "score": 5,
+            "text": "I think I'm in love. Amazing recipe, good job man!&#xD;\n&#xD;\nSome details for those still not sure about the recipe. The primary flavor above all in the recipe is Classic for Pipe Dark, which is just an absolutely lovely pipe tobacco flavor that is very spicy and earthy compared to the other for Pipe series from Inawera. I think some people enjoy Black for Pipe over this one, which is a very similar flavor, but personally I like Dark better than Black for Pipe. Most of the other flavors in the recipe help with sweetness and creaminess. If you've never tried a tobacco recipe like this before, this might not sound too appealing, but it is most definitely a very delicious result IMO. If you're looking for a different kind of taste and are only missing a flavor or two this is definitely worth a shot. &#xD;\n&#xD;\nAlso, if you don't have Liquid Amber I feel this ingredient is not 100% essential in my humble opinion, but it'll certainly help. "
+        }
+    ]
 }

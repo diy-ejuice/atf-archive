@@ -1,63 +1,65 @@
 {
-  "name": "Summer Somewhere Else",
-  "description": "I made this recipe for my friends in the northern hemisphere that miss summer and those in the south craving for something sweet and refreshing to deal with the heat.\r\n\r\nDo not get carried away by all the tea flavors in this mix, the combination of Sweet Tea, Lemonade and Ruby Red Grapefruit makes a great juicy base, very fresh, fizzy and with a much needed contrast between the tanginess and sweetness of the fruit that turns any regular fruit mix into a tropical delight.\r\n\r\nSweet Currant is the perfect additive and plays a roll similar to what Hibiscus brings to this kind of profiles. It is a deep syrupy flavor that blends perfectly with any lemon or tea and adds an extra dimension and sweetness to the mix.\r\n\r\nSalud!",
-  "id": 176101,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/176101/christmas-beach2.jpg",
-  "updated_at": "2020-12-08T00:51:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ruby Red Grapefruit",
-      "flavor_id": "1404",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon Tea",
-      "flavor_id": "3515",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "1336",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Currant",
-      "flavor_id": "10171",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NaCHeF",
-  "views": "1560",
-  "slug": "summer_somewhere_else",
-  "total_flavoring": "18.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This is very nice. Light and refreshing. Thanks NaCHeF!"
-    }
-  ]
+    "name": "Summer Somewhere Else",
+    "description": "I made this recipe for my friends in the northern hemisphere that miss summer and those in the south craving for something sweet and refreshing to deal with the heat.\r\n\r\nDo not get carried away by all the tea flavors in this mix, the combination of Sweet Tea, Lemonade and Ruby Red Grapefruit makes a great juicy base, very fresh, fizzy and with a much needed contrast between the tanginess and sweetness of the fruit that turns any regular fruit mix into a tropical delight.\r\n\r\nSweet Currant is the perfect additive and plays a roll similar to what Hibiscus brings to this kind of profiles. It is a deep syrupy flavor that blends perfectly with any lemon or tea and adds an extra dimension and sweetness to the mix.\r\n\r\nSalud!",
+    "id": 176101,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/176101\/christmas-beach2.jpg",
+    "updated_at": "2020-12-12T17:12:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ruby Red Grapefruit",
+            "flavor_id": "1404",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon Tea",
+            "flavor_id": "3515",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "1336",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Currant",
+            "flavor_id": "10171",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NaCHeF",
+    "views": "1571",
+    "created_at": "2019-11-30",
+    "slug": "summer_somewhere_else",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/176101.jpg",
+    "total_flavoring": "18.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This is very nice. Light and refreshing. Thanks NaCHeF!"
+        }
+    ]
 }

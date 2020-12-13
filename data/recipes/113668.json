@@ -1,44 +1,44 @@
 {
-  "name": "Peach Keen",
-  "description": "This Peaches and Cream vape was inspired by Fresh03 cream base",
-  "id": 113668,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/113668/SmartSelect_20180805-181355_Chrome.jpg",
-  "updated_at": "2020-12-02T07:31:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1753",
-  "slug": "peach_keen",
-  "total_flavoring": "6.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach Keen",
+    "description": "This Peaches and Cream vape was inspired by Fresh03 cream base",
+    "id": 113668,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/113668\/SmartSelect_20180805-181355_Chrome.jpg",
+    "updated_at": "2020-12-10T13:45:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1761",
+    "created_at": "2018-08-05",
+    "slug": "peach_keen",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/113668.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

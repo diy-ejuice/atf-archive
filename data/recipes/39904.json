@@ -1,86 +1,85 @@
 {
-  "name": "Doughnaut",
-  "description": "Some donut type of flavor, just experimenting around with stuff.",
-  "id": 39904,
-  "image_url": null,
-  "updated_at": "2020-12-07T10:43:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "1273",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla V2",
-      "flavor_id": "57",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Double Chocolate (dark)",
-      "flavor_id": "159",
-      "millipercent": 350,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Weebam-Na",
-  "views": "1123",
-  "slug": "doughnaut",
-  "total_flavoring": "16.1%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Doughnaut",
+    "description": "Some donut type of flavor, just experimenting around with stuff.",
+    "id": 39904,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "1273",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla V2",
+            "flavor_id": "57",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Double Chocolate (dark)",
+            "flavor_id": "159",
+            "millipercent": 350,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Weebam-Na",
+    "views": "1128",
+    "created_at": "2017-04-05",
+    "slug": "doughnaut",
+    "total_flavoring": "16.1%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

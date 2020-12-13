@@ -1,56 +1,56 @@
 {
-  "name": "Apple-Cinnamon-Pie",
-  "description": "A sweet and delicious apple pie with a good note of cinnamon.",
-  "id": 146533,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146533/apple-pie-474954_640.jpg",
-  "updated_at": "2020-12-07T20:33:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "208",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 300,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "xela",
-  "views": "1413",
-  "slug": "applecinnamonpie",
-  "total_flavoring": "11.05%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple-Cinnamon-Pie",
+    "description": "A sweet and delicious apple pie with a good note of cinnamon.",
+    "id": 146533,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146533\/apple-pie-474954_640.jpg",
+    "updated_at": "2020-12-10T17:58:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "208",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 300,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "xela",
+    "views": "1419",
+    "created_at": "2019-04-10",
+    "slug": "applecinnamonpie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146533.jpg",
+    "total_flavoring": "11.05%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

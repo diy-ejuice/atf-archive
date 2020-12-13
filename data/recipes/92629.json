@@ -1,50 +1,49 @@
 {
-  "name": "Berry Crunch Cereal",
-  "description": "Another attempt to make a captain crunch berry cereal. Any suggestions would be appreciated",
-  "id": 92629,
-  "image_url": null,
-  "updated_at": "2020-11-30T13:24:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Capt.crunch Berries",
-      "flavor_id": "1230",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry Extra",
-      "flavor_id": "8739",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 700,
-      "vendor": "FA"
-    }
-  ],
-  "author": "llisahere",
-  "views": "382",
-  "slug": "berry_crunch_cereal",
-  "total_flavoring": "9.4%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Crunch Cereal",
+    "description": "Another attempt to make a captain crunch berry cereal. Any suggestions would be appreciated",
+    "id": 92629,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:45:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Capt.crunch Berries",
+            "flavor_id": "1230",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry Extra",
+            "flavor_id": "8739",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 700,
+            "vendor": "FA"
+        }
+    ],
+    "author": "llisahere",
+    "views": "387",
+    "created_at": "2018-03-16",
+    "slug": "berry_crunch_cereal",
+    "total_flavoring": "9.4%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

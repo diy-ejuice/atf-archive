@@ -1,63 +1,65 @@
 {
-  "name": "Crack Addict Pink Lemonade",
-  "description": "this is basically a simple summertime drink and a remix of vurve's best damn pink lemonade",
-  "id": 56225,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56225/pink_lemonade.jpeg",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pink Lemonade",
-      "flavor_id": "1500",
-      "millipercent": 7000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "thecoffeemann",
-  "views": "2642",
-  "slug": "crack_addict_pink_lemonade",
-  "total_flavoring": "15.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "robolto78",
-      "score": "4",
-      "text": "I have been looking for a good use of my 60ml bottle of LB Pink Lemonade and I believe I found it. This is a pink lemonade with something more...crack maybe? I have been though 120 mls of this juice already and its will remain in my daily rotation for at least the remainder of the summer. Excellent recipe!!"
-    }
-  ]
+    "name": "Crack Addict Pink Lemonade",
+    "description": "this is basically a simple summertime drink and a remix of vurve's best damn pink lemonade",
+    "id": 56225,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/56225\/pink_lemonade.jpeg",
+    "updated_at": "2020-12-12T18:29:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pink Lemonade",
+            "flavor_id": "1500",
+            "millipercent": 7000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "thecoffeemann",
+    "views": "2647",
+    "created_at": "2017-07-19",
+    "slug": "crack_addict_pink_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/56225.jpeg",
+    "total_flavoring": "15.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "robolto78",
+            "score": 4,
+            "text": "I have been looking for a good use of my 60ml bottle of LB Pink Lemonade and I believe I found it. This is a pink lemonade with something more...crack maybe? I have been though 120 mls of this juice already and its will remain in my daily rotation for at least the remainder of the summer. Excellent recipe!!"
+        }
+    ]
 }

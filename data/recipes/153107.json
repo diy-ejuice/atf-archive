@@ -1,50 +1,50 @@
 {
-  "name": "Treat",
-  "description": "Here's a little treat for ya. For me, this isn't an ADV, I don't have a very big sweet tooth. But if you do, you will probably be sucking on this all day. It's wonderfully intense and nice for a change up. There's no hiding here, it tastes exactly like what you would imagine: A grape candy bubblegum lemonade, with peppermint.. lol. Enjoy!\r\n\r\n* 2 drops of peppermint per 15mL",
-  "id": 153107,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153107/3edf139b0effa36606711daa5d51d46b.jpg",
-  "updated_at": "2020-11-30T13:48:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Bubblegum",
-      "flavor_id": "315",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 150,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Horsegame",
-  "views": "1072",
-  "slug": "treat",
-  "total_flavoring": "14.15%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Treat",
+    "description": "Here's a little treat for ya. For me, this isn't an ADV, I don't have a very big sweet tooth. But if you do, you will probably be sucking on this all day. It's wonderfully intense and nice for a change up. There's no hiding here, it tastes exactly like what you would imagine: A grape candy bubblegum lemonade, with peppermint.. lol. Enjoy!\r\n\r\n* 2 drops of peppermint per 15mL",
+    "id": 153107,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153107\/3edf139b0effa36606711daa5d51d46b.jpg",
+    "updated_at": "2020-12-12T10:15:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Bubblegum",
+            "flavor_id": "315",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 150,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Horsegame",
+    "views": "1078",
+    "created_at": "2019-05-27",
+    "slug": "treat",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153107.jpg",
+    "total_flavoring": "14.15%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

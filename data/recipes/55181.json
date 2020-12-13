@@ -1,63 +1,65 @@
 {
-  "name": "Summer Swallow",
-  "description": "*A floral forward vape for the summer, with some dark floral spices and bright fruit to lift it up towards the end.*\r\n\r\n**Summer's Wallow**\r\n\r\nWhat to do, oh what to do.\r\nI don't know\r\nThere's Nothing to do, oh nothing to do,\r\nYet so many things to do...\r\n\r\nWhat to do, oh what to do,\r\nThere's Nothing I want, nothing I want to do.\r\n\r\nWhat to do, oh what to do,\r\nThere's so many things I need to do,\r\nbut nothing that I can do.\r\n\r\nWhat to do, oh what to do,\r\nThere's so many things, too many things,\r\nBut maybe I can do.\r\n\r\n**Artwork courtesy Google Search via https://fineartamerica.com/featured/swallows-in-summer-trudi-doyle.html**\r\n\r\n**Inspiration from [Springtime](https://alltheflavors.com/recipes/41479#springtime_by_hocuskrokus) by /u/HocusKrokus, [Kawayan](https://alltheflavors.com/recipes/53071#kawayan_by_runtdastardly) by /u/RuntDastardly, and the floral episode of [NOTED](https://www.youtube.com/watch?v=a1aWjVpx2AA)**\r\n\r\n**Suggested Soundtrack: [Chariot, by Beach House](https://www.youtube.com/watch?v=8NU-EIgUK3Y)**\r\n\r\n**Recommended Drink: Lime, Seltzer, Wodka, Cactus Pear (or other bright fruit)**",
-  "id": 55181,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55181/Capture.JPG",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 125,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Thai Chai",
-      "flavor_id": "2595",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Soursop",
-      "flavor_id": "4448",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Purple Rain",
-      "flavor_id": "4212",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "3502",
-  "slug": "summer_swallow",
-  "total_flavoring": "3.625%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Chewymidget",
-      "score": "5",
-      "text": "Like most of CheebaSteeba's mixes they are always really unique and push the realm of the tried and true. A true master of florals. This is no exception. This one of the mixes I wanted to try but doubted if it would agree with my palate as I'm not a huge fan of florals most of the time. I was wrong. This is a truly incredible mix. It's a lot less in your face floral and has a calming, soothing flavor. Purple Rain takes the front stage and it tastes beautiful. A light lavender flavor carried by a smooth vanilla. With backing from Elderflower to carry the floral flavor. Pink Guava's citrus top notes take a step right behind the florals and bring an interesting contrast. Thai Chai is a dark flavor that gives a wonderful body along with the Soursop. Yakima Hops provides the earthy flavor for a extra special touch and melds perfectly with the Pink Guava.&#xD;\n&#xD;\nI recommend this to anyone looking for something different. This a gem that I really enjoy."
-    }
-  ]
+    "name": "Summer Swallow",
+    "description": "*A floral forward vape for the summer, with some dark floral spices and bright fruit to lift it up towards the end.*\r\n\r\n**Summer's Wallow**\r\n\r\nWhat to do, oh what to do.\r\nI don't know\r\nThere's Nothing to do, oh nothing to do,\r\nYet so many things to do...\r\n\r\nWhat to do, oh what to do,\r\nThere's Nothing I want, nothing I want to do.\r\n\r\nWhat to do, oh what to do,\r\nThere's so many things I need to do,\r\nbut nothing that I can do.\r\n\r\nWhat to do, oh what to do,\r\nThere's so many things, too many things,\r\nBut maybe I can do.\r\n\r\n**Artwork courtesy Google Search via https:\/\/fineartamerica.com\/featured\/swallows-in-summer-trudi-doyle.html**\r\n\r\n**Inspiration from [Springtime](https:\/\/alltheflavors.com\/recipes\/41479#springtime_by_hocuskrokus) by \/u\/HocusKrokus, [Kawayan](https:\/\/alltheflavors.com\/recipes\/53071#kawayan_by_runtdastardly) by \/u\/RuntDastardly, and the floral episode of [NOTED](https:\/\/www.youtube.com\/watch?v=a1aWjVpx2AA)**\r\n\r\n**Suggested Soundtrack: [Chariot, by Beach House](https:\/\/www.youtube.com\/watch?v=8NU-EIgUK3Y)**\r\n\r\n**Recommended Drink: Lime, Seltzer, Wodka, Cactus Pear (or other bright fruit)**",
+    "id": 55181,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/55181\/Capture.JPG",
+    "updated_at": "2020-12-12T18:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 125,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Thai Chai",
+            "flavor_id": "2595",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Soursop",
+            "flavor_id": "4448",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Purple Rain",
+            "flavor_id": "4212",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "3511",
+    "created_at": "2017-07-12",
+    "slug": "summer_swallow",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/55181.JPG",
+    "total_flavoring": "3.625%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Chewymidget",
+            "score": 5,
+            "text": "Like most of CheebaSteeba's mixes they are always really unique and push the realm of the tried and true. A true master of florals. This is no exception. This one of the mixes I wanted to try but doubted if it would agree with my palate as I'm not a huge fan of florals most of the time. I was wrong. This is a truly incredible mix. It's a lot less in your face floral and has a calming, soothing flavor. Purple Rain takes the front stage and it tastes beautiful. A light lavender flavor carried by a smooth vanilla. With backing from Elderflower to carry the floral flavor. Pink Guava's citrus top notes take a step right behind the florals and bring an interesting contrast. Thai Chai is a dark flavor that gives a wonderful body along with the Soursop. Yakima Hops provides the earthy flavor for a extra special touch and melds perfectly with the Pink Guava.&#xD;\n&#xD;\nI recommend this to anyone looking for something different. This a gem that I really enjoy."
+        }
+    ]
 }

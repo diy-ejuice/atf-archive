@@ -1,50 +1,50 @@
 {
-  "name": "Ryuk",
-  "description": "Spice tea with bright apples and black currant.\r\n\r\nFA Fuji Apple is and will always be the best apple.\r\n\r\nINW Two Apples is to turn it a little more red and add some dryness.\r\n\r\nFA Black Currant for a brighter and sweeter version of the fruit while still being 100% black currant.\r\n\r\nWF Southern Sweet Tea for a nondescript tea flavor.\r\n\r\nVT Chai Masala for all of that clove/nutmeg goodness.\r\n\r\nYou can sweeten this with whatever you like. FW Sweetener keeps the flavors the same. CAP Super Sweet makes it feel a little more like a canned drink.",
-  "id": 208618,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/208618/6C7A0BCB-BFD8-4E42-880C-FC1337E8F8E5.jpeg",
-  "updated_at": "2020-12-08T00:51:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Southern Sweet Tea SC",
-      "flavor_id": "10555",
-      "millipercent": 5000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Chai Masala",
-      "flavor_id": "8847",
-      "millipercent": 400,
-      "vendor": "VT"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "121",
-  "slug": "ryuk",
-  "total_flavoring": "10.65%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ryuk",
+    "description": "Spice tea with bright apples and black currant.\r\n\r\nFA Fuji Apple is and will always be the best apple.\r\n\r\nINW Two Apples is to turn it a little more red and add some dryness.\r\n\r\nFA Black Currant for a brighter and sweeter version of the fruit while still being 100% black currant.\r\n\r\nWF Southern Sweet Tea for a nondescript tea flavor.\r\n\r\nVT Chai Masala for all of that clove\/nutmeg goodness.\r\n\r\nYou can sweeten this with whatever you like. FW Sweetener keeps the flavors the same. CAP Super Sweet makes it feel a little more like a canned drink.",
+    "id": 208618,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/208618\/6C7A0BCB-BFD8-4E42-880C-FC1337E8F8E5.jpeg",
+    "updated_at": "2020-12-12T17:13:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Southern Sweet Tea SC",
+            "flavor_id": "10555",
+            "millipercent": 5000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Chai Masala",
+            "flavor_id": "8847",
+            "millipercent": 400,
+            "vendor": "VT"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "146",
+    "created_at": "2020-11-19",
+    "slug": "ryuk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/208618.jpeg",
+    "total_flavoring": "10.65%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0"
 }

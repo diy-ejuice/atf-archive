@@ -1,50 +1,50 @@
 {
-  "name": "PoMango",
-  "description": "6mg Nicotine juice 100 mg (100% VG) @ 6%\r\nPG/VG ratio: 17/84\r\nFlavor total 16.5%",
-  "id": 13963,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13963/Pomango.jpg",
-  "updated_at": "2020-12-07T12:45:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pomegranate",
-      "flavor_id": "969",
-      "millipercent": 5300,
-      "vendor": "LA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 5300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "961",
-      "millipercent": 5300,
-      "vendor": "LA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 300,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "mikebz5",
-  "views": "1474",
-  "slug": "pomango",
-  "total_flavoring": "16.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "PoMango",
+    "description": "6mg Nicotine juice 100 mg (100% VG) @ 6%\r\nPG\/VG ratio: 17\/84\r\nFlavor total 16.5%",
+    "id": 13963,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13963\/Pomango.jpg",
+    "updated_at": "2020-12-10T13:44:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pomegranate",
+            "flavor_id": "969",
+            "millipercent": 5300,
+            "vendor": "LA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 5300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "961",
+            "millipercent": 5300,
+            "vendor": "LA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 300,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "mikebz5",
+    "views": "1481",
+    "created_at": "2016-09-19",
+    "slug": "pomango",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13963.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

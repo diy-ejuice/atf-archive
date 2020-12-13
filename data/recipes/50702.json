@@ -1,57 +1,59 @@
 {
-  "name": "Caramel bread pudding",
-  "description": "This is a perfect caramel bread pudding in my opinion. Its an all Flavorah recipe so in my opinion the steep time is much less because of it being all Flavorah flavors. I think its good to vape after it settles overnight and is at its best after 3 days. If you like bread pudding then I dare to say you will love this. Not to mention all of these flavors are good highly concentrated flavors that are all worth having in your arsenal. ",
-  "id": 50702,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50702/8576a14f194894aa30096d9d1ce832d9.jpg",
-  "updated_at": "2020-12-08T00:49:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Dough",
-      "flavor_id": "4406",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "4441",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "612",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Tootall",
-  "views": "2893",
-  "slug": "caramel_bread_pudding",
-  "total_flavoring": "7.25%",
-  "steep_days": "3",
-  "best_vg": "75%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Billywilly",
-      "score": "5",
-      "text": "Very enjoyable recipe that doesn't require a long cure. I did add .5% cap super sweet and .5% tpa butter.  "
-    }
-  ]
+    "name": "Caramel bread pudding",
+    "description": "This is a perfect caramel bread pudding in my opinion. Its an all Flavorah recipe so in my opinion the steep time is much less because of it being all Flavorah flavors. I think its good to vape after it settles overnight and is at its best after 3 days. If you like bread pudding then I dare to say you will love this. Not to mention all of these flavors are good highly concentrated flavors that are all worth having in your arsenal. ",
+    "id": 50702,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/50702\/8576a14f194894aa30096d9d1ce832d9.jpg",
+    "updated_at": "2020-12-12T17:10:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Dough",
+            "flavor_id": "4406",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "4441",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "612",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Tootall",
+    "views": "2899",
+    "created_at": "2017-06-14",
+    "slug": "caramel_bread_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/50702.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "3",
+    "best_vg": "75%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Billywilly",
+            "score": 5,
+            "text": "Very enjoyable recipe that doesn't require a long cure. I did add .5% cap super sweet and .5% tpa butter.  "
+        }
+    ]
 }

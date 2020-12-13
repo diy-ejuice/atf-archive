@@ -1,75 +1,77 @@
 {
-  "name": "Vanilla Bean Ice Cream Cone",
-  "description": "This is the first batch I have mixed up. I will see how it goes and add notes after steep.\r\n\r\nAfter steeping for 2 weeks I have tried it out. I really enjoyed this. Vanilla ice cream forward then it finishes with a buttery cone. I am very pleased. I will be trying out a V2 of which I have already posted a recipe. My reasons for changing to a new recipe is I think it could have a bit more dairy flavor. Please don’t let this stop you from mixing it. It really is enjoyable. I like simple flavors and this hits the spot.",
-  "id": 126192,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/126192/ice-cream_circle_3_preview_1400x.jpg",
-  "updated_at": "2020-12-08T00:50:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "chris_walker_ffl",
-  "views": "1856",
-  "slug": "vanilla_bean_ice_cream_cone",
-  "total_flavoring": "12.25%",
-  "steep_days": "14",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BananaSlamma",
-      "score": "5",
-      "text": "All I can say is WOW. You’ve help bring to an end a road I’ve long traveled in search for the ideal vanilla vape. This is just lovely. Sweet, creamy, exploding with vanilla notes accentuated by a wonderful graham to create the presence of a cone. Good job, fellow mixer. Very good job. "
-    }
-  ]
+    "name": "Vanilla Bean Ice Cream Cone",
+    "description": "This is the first batch I have mixed up. I will see how it goes and add notes after steep.\r\n\r\nAfter steeping for 2 weeks I have tried it out. I really enjoyed this. Vanilla ice cream forward then it finishes with a buttery cone. I am very pleased. I will be trying out a V2 of which I have already posted a recipe. My reasons for changing to a new recipe is I think it could have a bit more dairy flavor. Please don\u2019t let this stop you from mixing it. It really is enjoyable. I like simple flavors and this hits the spot.",
+    "id": 126192,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/126192\/ice-cream_circle_3_preview_1400x.jpg",
+    "updated_at": "2020-12-12T15:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "chris_walker_ffl",
+    "views": "1865",
+    "created_at": "2018-11-05",
+    "slug": "vanilla_bean_ice_cream_cone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/126192.jpg",
+    "total_flavoring": "12.25%",
+    "steep_days": "14",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BananaSlamma",
+            "score": 5,
+            "text": "All I can say is WOW. You\u2019ve help bring to an end a road I\u2019ve long traveled in search for the ideal vanilla vape. This is just lovely. Sweet, creamy, exploding with vanilla notes accentuated by a wonderful graham to create the presence of a cone. Good job, fellow mixer. Very good job. "
+        }
+    ]
 }

@@ -1,75 +1,77 @@
 {
-  "name": "Boss Monster",
-  "description": "This is not a recipe, this is a mix of two great clones:\r\nBoss Reserve by folkart and Jam Monster by ENYAWREKLAW\r\nWhat can i say about it? It's the best strawnana possible IMHO\r\nI lowed down the RF strawberry and CAP strawberry from Jam Monster and rised up the TPA banana Cream from Boss reserve in order to balance the fruit better, but the true magic here is the combo of of AP5%, FLV milk&honey and the butter note from RF strawberry jam and toast\r\nGo mix this guys, you will agree with me!\r\n",
-  "id": 131154,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131154/boss-monster.jpg",
-  "updated_at": "2020-12-08T00:50:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry Jam with Toast",
-      "flavor_id": "9143",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "2294",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ITALIAN-VAPE",
-  "views": "2164",
-  "slug": "boss_monster",
-  "total_flavoring": "11.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Rdubu",
-      "score": "5",
-      "text": "This is good, no great stuff, ITALIAN-VAPE!  You are right on about the 7 days, that's when this recipe begins to shine.  Thank you for this great recipe ad truly enjoying!!"
-    }
-  ]
+    "name": "Boss Monster",
+    "description": "This is not a recipe, this is a mix of two great clones:\r\nBoss Reserve by folkart and Jam Monster by ENYAWREKLAW\r\nWhat can i say about it? It's the best strawnana possible IMHO\r\nI lowed down the RF strawberry and CAP strawberry from Jam Monster and rised up the TPA banana Cream from Boss reserve in order to balance the fruit better, but the true magic here is the combo of of AP5%, FLV milk&honey and the butter note from RF strawberry jam and toast\r\nGo mix this guys, you will agree with me!\r\n",
+    "id": 131154,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131154\/boss-monster.jpg",
+    "updated_at": "2020-12-12T18:30:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry Jam with Toast",
+            "flavor_id": "9143",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "2294",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ITALIAN-VAPE",
+    "views": "2173",
+    "created_at": "2018-12-13",
+    "slug": "boss_monster",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131154.jpg",
+    "total_flavoring": "11.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Rdubu",
+            "score": 5,
+            "text": "This is good, no great stuff, ITALIAN-VAPE!  You are right on about the 7 days, that's when this recipe begins to shine.  Thank you for this great recipe ad truly enjoying!!"
+        }
+    ]
 }

@@ -1,62 +1,61 @@
 {
-  "name": "smoko",
-  "description": "First recipe so not sure what to put here, didn't put a steep time as didn't last long enough ",
-  "id": 164875,
-  "image_url": null,
-  "updated_at": "2020-12-06T14:08:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Absolute Virginia",
-      "flavor_id": "8506",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweet and Smokey Tobacco",
-      "flavor_id": "10151",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla V2",
-      "flavor_id": "10314",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "148",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "vanman92uk",
-  "views": "925",
-  "slug": "smoko",
-  "total_flavoring": "14.7%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "smoko",
+    "description": "First recipe so not sure what to put here, didn't put a steep time as didn't last long enough ",
+    "id": 164875,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:42:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Absolute Virginia",
+            "flavor_id": "8506",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweet and Smokey Tobacco",
+            "flavor_id": "10151",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla V2",
+            "flavor_id": "10314",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "148",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "vanman92uk",
+    "views": "933",
+    "created_at": "2019-08-29",
+    "slug": "smoko",
+    "total_flavoring": "14.7%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

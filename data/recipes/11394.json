@@ -1,90 +1,92 @@
 {
-  "name": "The Glazed Doughnut by BrinNutz, Revised",
-  "description": "BrinNutz's donut was wonderful, a real breakthrough. But it had a very slight fermented-type off note for me and was a little nutty. Reducing %'s got rid of that stale-beerish flavor and left behind only a mouthwatering plain glazed donut. ",
-  "id": 11394,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11394/better_donut.jpg",
-  "updated_at": "2020-12-08T00:48:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1125,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1125,
-      "vendor": "INW"
-    },
-    {
-      "name": "Holy Vanilla (DIYFS)",
-      "flavor_id": "2385",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 2250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 3750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "9524",
-  "slug": "the_glazed_doughnut_by_brinnutz_revised",
-  "total_flavoring": "14.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 3.7,
-  "reviews": [
-    {
-      "user": "QueerYourVape",
-      "score": "1",
-      "text": "This juice has been steeping for 4 weeks on my shelf and I don't know what to say, the only thing it tastes of is yeast. I couldn't vape it and I'm sorry about that because I was very much looking forward to it."
-    },
-    {
-      "user": "ghweiss",
-      "score": "none",
-      "text": "total props for taking a shot at the perfect PLAIN glazed doughnut, one that is unafraid to hide behind chocolate/fruit/etc.&#xD;\n&#xD;\nwhile i think the level of joy might be correct for the actual vapor produced by this juice, it's too much for me when it condenses and hits my tongue in liquid form. i can mostly escape it, but as soon as i get a fleck of spitback or condensation, the mild yeastiness explodes on my palate, which is unpleasant and takes me out of the moment."
-    },
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "Vaping this now after a 2 week steep.  Was kind of afraid of the high percentage of Joy, but it works here.  It's a good basic doughnut flavor and seems like it could be modified to add fruit pretty easily.  It's true to its name though.  The only critique I could add is it tastes a little like a mix between a glazed doughnut and glazed bread.  The Joy always tastes like that to me though so I'd still definitely recommend it to anyone looking for this profile.  Most doughnuts I've tried have fruit and rely too much on the fruit flavor and the doughnut flavor gets washed away so props for making a straight plain one.  There is a hint of the bavarian cream that comes through too which is nice."
-    },
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "Made this yesterday and it's already gone wtf guess I need a hundred milliliter bottle😲😲&#xD;\n&#xD;\nJust an update on my review, I can't get enough of this stuff you have ruined me. I have probably paid through a leader of this flavor I do have a little orange to it every once in awhile. This is one of those recipes that just never gets old thanks again"
-    }
-  ]
+    "name": "The Glazed Doughnut by BrinNutz, Revised",
+    "description": "BrinNutz's donut was wonderful, a real breakthrough. But it had a very slight fermented-type off note for me and was a little nutty. Reducing %'s got rid of that stale-beerish flavor and left behind only a mouthwatering plain glazed donut. ",
+    "id": 11394,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11394\/better_donut.jpg",
+    "updated_at": "2020-12-12T11:50:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1125,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1125,
+            "vendor": "INW"
+        },
+        {
+            "name": "Holy Vanilla (DIYFS)",
+            "flavor_id": "2385",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 2250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 3750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "9543",
+    "created_at": "2016-08-24",
+    "slug": "the_glazed_doughnut_by_brinnutz_revised",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11394.jpg",
+    "total_flavoring": "14.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "QueerYourVape",
+            "score": 1,
+            "text": "This juice has been steeping for 4 weeks on my shelf and I don't know what to say, the only thing it tastes of is yeast. I couldn't vape it and I'm sorry about that because I was very much looking forward to it."
+        },
+        {
+            "user": "ghweiss",
+            "score": 0,
+            "text": "total props for taking a shot at the perfect PLAIN glazed doughnut, one that is unafraid to hide behind chocolate\/fruit\/etc.&#xD;\n&#xD;\nwhile i think the level of joy might be correct for the actual vapor produced by this juice, it's too much for me when it condenses and hits my tongue in liquid form. i can mostly escape it, but as soon as i get a fleck of spitback or condensation, the mild yeastiness explodes on my palate, which is unpleasant and takes me out of the moment."
+        },
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "Vaping this now after a 2 week steep.  Was kind of afraid of the high percentage of Joy, but it works here.  It's a good basic doughnut flavor and seems like it could be modified to add fruit pretty easily.  It's true to its name though.  The only critique I could add is it tastes a little like a mix between a glazed doughnut and glazed bread.  The Joy always tastes like that to me though so I'd still definitely recommend it to anyone looking for this profile.  Most doughnuts I've tried have fruit and rely too much on the fruit flavor and the doughnut flavor gets washed away so props for making a straight plain one.  There is a hint of the bavarian cream that comes through too which is nice."
+        },
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "Made this yesterday and it's already gone wtf guess I need a hundred milliliter bottle\ud83d\ude32\ud83d\ude32&#xD;\n&#xD;\nJust an update on my review, I can't get enough of this stuff you have ruined me. I have probably paid through a leader of this flavor I do have a little orange to it every once in awhile. This is one of those recipes that just never gets old thanks again"
+        }
+    ]
 }

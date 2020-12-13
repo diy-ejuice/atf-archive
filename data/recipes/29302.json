@@ -1,62 +1,64 @@
 {
-  "name": "Glazed-4-Daze (Donut)",
-  "description": "Inspired by wh1skeyk1ng's \"More Donuts Please\" -  I went for that breakfast glazed donut that leaves sugar glaze crystals in the crease of your mouth that you can taste everytime you lick your lips hours later, meanwhile every time you look at your hand you find bits of a napkin stuck to your fingers.  A great vape to compliment your cup of coffee in the AM, something to kick that sweet tooth in the afternoon and nice way to cut out dessert in the evening.... For dayz!!\r\n\r\nGive it at least a week, better after two, if you can make it last a month you wont have to stuff your face with a box of a dozen glazed donuts,.. until your bottle is gone, then just mix up some more!  ",
-  "id": 29302,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29302/1491444670724.jpeg",
-  "updated_at": "2020-12-08T00:49:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Mitty",
-  "views": "3998",
-  "slug": "glazed4daze_donut",
-  "total_flavoring": "9.25%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "whatiswiththeworld",
-      "score": "5",
-      "text": "Very nice!! Gooey goodness. "
-    },
-    {
-      "user": "wh1skeyk1ng",
-      "score": "5",
-      "text": "This maxes out the gooey meter.  It truly is everything you wished for and more when it comes to a glazed donut!"
-    }
-  ]
+    "name": "Glazed-4-Daze (Donut)",
+    "description": "Inspired by wh1skeyk1ng's \"More Donuts Please\" -  I went for that breakfast glazed donut that leaves sugar glaze crystals in the crease of your mouth that you can taste everytime you lick your lips hours later, meanwhile every time you look at your hand you find bits of a napkin stuck to your fingers.  A great vape to compliment your cup of coffee in the AM, something to kick that sweet tooth in the afternoon and nice way to cut out dessert in the evening.... For dayz!!\r\n\r\nGive it at least a week, better after two, if you can make it last a month you wont have to stuff your face with a box of a dozen glazed donuts,.. until your bottle is gone, then just mix up some more!  ",
+    "id": 29302,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29302\/1491444670724.jpeg",
+    "updated_at": "2020-12-12T18:29:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Mitty",
+    "views": "4011",
+    "created_at": "2017-01-28",
+    "slug": "glazed4daze_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29302.jpeg",
+    "total_flavoring": "9.25%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "whatiswiththeworld",
+            "score": 5,
+            "text": "Very nice!! Gooey goodness. "
+        },
+        {
+            "user": "wh1skeyk1ng",
+            "score": 5,
+            "text": "This maxes out the gooey meter.  It truly is everything you wished for and more when it comes to a glazed donut!"
+        }
+    ]
 }

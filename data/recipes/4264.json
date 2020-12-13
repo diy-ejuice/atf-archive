@@ -1,69 +1,70 @@
 {
-  "name": "'Nana Puddin'",
-  "description": "Banana pudding with vanilla wafers - Can sub MF with NN Banana Cream Pie",
-  "id": 4264,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "1109",
-      "millipercent": 1000,
-      "vendor": "MF"
-    }
-  ],
-  "author": "tranceinate",
-  "views": "1564",
-  "slug": "nana_puddin",
-  "total_flavoring": "11.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MrColtux",
-      "score": "5",
-      "text": "Tested after a weeks steep, and it was good but not great, but after a month and a half this shit is amazing. So thick and creamy, and leaves an almost gooey/waxy mouth feel. Very, very good. "
-    }
-  ]
+    "name": "'Nana Puddin'",
+    "description": "Banana pudding with vanilla wafers - Can sub MF with NN Banana Cream Pie",
+    "id": 4264,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "1109",
+            "millipercent": 1000,
+            "vendor": "MF"
+        }
+    ],
+    "author": "tranceinate",
+    "views": "1570",
+    "created_at": "2016-05-31",
+    "slug": "nana_puddin",
+    "total_flavoring": "11.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MrColtux",
+            "score": 5,
+            "text": "Tested after a weeks steep, and it was good but not great, but after a month and a half this shit is amazing. So thick and creamy, and leaves an almost gooey\/waxy mouth feel. Very, very good. "
+        }
+    ]
 }

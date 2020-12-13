@@ -1,115 +1,117 @@
 {
-  "name": "The Trinity Vanilla Ice Cream",
-  "description": "Okay, so here is where the development notes should go. Bad news. There are none. I spit out one idea as a starting point and u/AlfredPudding and I mixed it. The end result was \"perfection\" as he described it. There's nothing to add, there's nothing to take out. It's a perfect balance of cream, vanilla, butter, and egginess. Imagine eating a spoonful of vanilla ice cream, you swallow it but you still have that delightful leftover flavor of ice cream in your mouth. This is that, it tastes exactly like you just ate a spoonful of ice cream. \r\n\r\n\r\n**LB VIC**- Brings the creamy, lighlty eggy, butter notes.\r\n\r\n**TFA Vanilla Swirl** - Brings the vanilla soft serve-esque rich vanilla cream.\r\n\r\n**HS FVIC** - Brings the texture to wrap it up. A little bit of malty vanilla on the tail end.",
-  "id": 143364,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143364/cartons_rich-creamy_french-vanilla.jpg",
-  "updated_at": "2020-12-08T00:50:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    }
-  ],
-  "author": "eyemakepizza",
-  "views": "14503",
-  "slug": "the_trinity_vanilla_ice_cream",
-  "total_flavoring": "7.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 15,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Slushy",
-      "score": "5",
-      "text": "Mixing this with holy vanilla in place of Hangsen great mouthfeel and flavor "
-    },
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "I wanted a little more mouthfeel but it's easily fixable. Felt the best after 3 days or so... The best Ice Cream base so far IMHO!! &lt;3"
-    },
-    {
-      "user": "HashVape",
-      "score": "none",
-      "text": "Wow!"
-    },
-    {
-      "user": "Untitled",
-      "score": "5",
-      "text": "Simple and good. Well done bro!"
-    },
-    {
-      "user": "TheJuiceJackBuilt",
-      "score": "5",
-      "text": "Superb. Such a delicious ice cream. Best if tried withoit a doubt. Rich creamy goodness."
-    },
-    {
-      "user": "DumHed",
-      "score": "5",
-      "text": "I have used this as a cream base in a ton of recipes. Its rich, creamy, and works with ANY fruit that you throw at it. (except for a few that dont pair well with hs fvic).  5/5 recipe, great job!"
-    },
-    {
-      "user": "RainbowDragon",
-      "score": "5",
-      "text": "Fantastic, even better with a touch of ws23 and polar blast to really make the experience complete."
-    },
-    {
-      "user": "humanpuck",
-      "score": "5",
-      "text": "I love this ish"
-    },
-    {
-      "user": "staybert",
-      "score": "5",
-      "text": "I've been waiting to get my hands on LB VIC just to mix this, and damn, the hype is real. Fantastic rich vanilla ice cream that you can throw pretty much anything at. Fantastic right off the shake too. Well done Sir."
-    },
-    {
-      "user": "AlfredPudding",
-      "score": "5",
-      "text": "I haven't stopped vaping variants of this since I tried it originally. This is hands down the best ice cream vape I've ever had, and easily in my top 10 favorite recipes. I remember someone describing the mouth feel perfectly, it's almost a haunting sensation. After you finish exhaling, you're left with the most realistic sensation of actual cream in your mouth. The fact that it's so incredibly good right after mixing just adds bonus points on something that was already a 10/10 recipe. I've tried it by itself, with countless fruits, and next on the agenda is seeing how it handles chocolate. Do yourself a favor and mix this up immediately. "
-    },
-    {
-      "user": "McFly",
-      "score": "5",
-      "text": "Using this in an apple pie a la mode currently. Working out very nicely."
-    },
-    {
-      "user": "Abodkins01",
-      "score": "5",
-      "text": "Amazing all day vape for me. Mixed it about an hour ago and almost through 15 mls like nothing. You knocked this out of the park. Way way way out of the park. Good job "
-    },
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "Very nice, tested a drop of FLV apple pie filling in my tank - Instant apple pie and ice cream!! I’m looking at all my flavors in anticipation, who’s going to nail the next strawberry ice cream using this? I better stock up on these three flavors!"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Perfect vanilla ice cream. Add your prefered slight touch of sweetener and go if you just want to vape vanilla ice cream. Or use it as an ingredient. It's practically dangerous for such a terrific vanilla ice cream base to be shake and vapeable like this. How am I supposed to not mix everything with a vanilla ice cream base now?"
-    },
-    {
-      "user": "EdibleMalfunction",
-      "score": "5",
-      "text": "Simply put: Vanilla Ice Cream Perfection. It's one of those mixes that tastes exactly like the real life equivalent. Even to the extent of how it feels. I can't imagine vanilla ice cream in vape form getting any better than this. I will definitely be making a base to use for all my ice cream mixes. Excellent job, pizza man"
-    }
-  ]
+    "name": "The Trinity Vanilla Ice Cream",
+    "description": "Okay, so here is where the development notes should go. Bad news. There are none. I spit out one idea as a starting point and u\/AlfredPudding and I mixed it. The end result was \"perfection\" as he described it. There's nothing to add, there's nothing to take out. It's a perfect balance of cream, vanilla, butter, and egginess. Imagine eating a spoonful of vanilla ice cream, you swallow it but you still have that delightful leftover flavor of ice cream in your mouth. This is that, it tastes exactly like you just ate a spoonful of ice cream. \r\n\r\n\r\n**LB VIC**- Brings the creamy, lighlty eggy, butter notes.\r\n\r\n**TFA Vanilla Swirl** - Brings the vanilla soft serve-esque rich vanilla cream.\r\n\r\n**HS FVIC** - Brings the texture to wrap it up. A little bit of malty vanilla on the tail end.",
+    "id": 143364,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/143364\/cartons_rich-creamy_french-vanilla.jpg",
+    "updated_at": "2020-12-12T11:52:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        }
+    ],
+    "author": "eyemakepizza",
+    "views": "14538",
+    "created_at": "2019-03-20",
+    "slug": "the_trinity_vanilla_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/143364.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 15,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Slushy",
+            "score": 5,
+            "text": "Mixing this with holy vanilla in place of Hangsen great mouthfeel and flavor "
+        },
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "I wanted a little more mouthfeel but it's easily fixable. Felt the best after 3 days or so... The best Ice Cream base so far IMHO!! &lt;3"
+        },
+        {
+            "user": "HashVape",
+            "score": 0,
+            "text": "Wow!"
+        },
+        {
+            "user": "Untitled",
+            "score": 5,
+            "text": "Simple and good. Well done bro!"
+        },
+        {
+            "user": "TheJuiceJackBuilt",
+            "score": 5,
+            "text": "Superb. Such a delicious ice cream. Best if tried withoit a doubt. Rich creamy goodness."
+        },
+        {
+            "user": "DumHed",
+            "score": 5,
+            "text": "I have used this as a cream base in a ton of recipes. Its rich, creamy, and works with ANY fruit that you throw at it. (except for a few that dont pair well with hs fvic).  5\/5 recipe, great job!"
+        },
+        {
+            "user": "RainbowDragon",
+            "score": 5,
+            "text": "Fantastic, even better with a touch of ws23 and polar blast to really make the experience complete."
+        },
+        {
+            "user": "humanpuck",
+            "score": 5,
+            "text": "I love this ish"
+        },
+        {
+            "user": "staybert",
+            "score": 5,
+            "text": "I've been waiting to get my hands on LB VIC just to mix this, and damn, the hype is real. Fantastic rich vanilla ice cream that you can throw pretty much anything at. Fantastic right off the shake too. Well done Sir."
+        },
+        {
+            "user": "AlfredPudding",
+            "score": 5,
+            "text": "I haven't stopped vaping variants of this since I tried it originally. This is hands down the best ice cream vape I've ever had, and easily in my top 10 favorite recipes. I remember someone describing the mouth feel perfectly, it's almost a haunting sensation. After you finish exhaling, you're left with the most realistic sensation of actual cream in your mouth. The fact that it's so incredibly good right after mixing just adds bonus points on something that was already a 10\/10 recipe. I've tried it by itself, with countless fruits, and next on the agenda is seeing how it handles chocolate. Do yourself a favor and mix this up immediately. "
+        },
+        {
+            "user": "McFly",
+            "score": 5,
+            "text": "Using this in an apple pie a la mode currently. Working out very nicely."
+        },
+        {
+            "user": "Abodkins01",
+            "score": 5,
+            "text": "Amazing all day vape for me. Mixed it about an hour ago and almost through 15 mls like nothing. You knocked this out of the park. Way way way out of the park. Good job "
+        },
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "Very nice, tested a drop of FLV apple pie filling in my tank - Instant apple pie and ice cream!! I\u2019m looking at all my flavors in anticipation, who\u2019s going to nail the next strawberry ice cream using this? I better stock up on these three flavors!"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Perfect vanilla ice cream. Add your prefered slight touch of sweetener and go if you just want to vape vanilla ice cream. Or use it as an ingredient. It's practically dangerous for such a terrific vanilla ice cream base to be shake and vapeable like this. How am I supposed to not mix everything with a vanilla ice cream base now?"
+        },
+        {
+            "user": "EdibleMalfunction",
+            "score": 5,
+            "text": "Simply put: Vanilla Ice Cream Perfection. It's one of those mixes that tastes exactly like the real life equivalent. Even to the extent of how it feels. I can't imagine vanilla ice cream in vape form getting any better than this. I will definitely be making a base to use for all my ice cream mixes. Excellent job, pizza man"
+        }
+    ]
 }

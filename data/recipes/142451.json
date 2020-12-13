@@ -1,68 +1,67 @@
 {
-  "name": "Gan Eden",
-  "description": "This is heaven in the mouth and throat area. \r\nSMOOTH. FRESH. SWEET and just the right amount of creamy.\r\nReminds me of the pineapple coconut candy cane sticks at Mexican food restaurants. ",
-  "id": 142451,
-  "image_url": null,
-  "updated_at": "2020-12-07T11:44:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Smoothie",
-      "flavor_id": "9299",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugarloaf Pineapple",
-      "flavor_id": "8978",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "cmyjones",
-  "views": "679",
-  "slug": "gan_eden",
-  "total_flavoring": "14.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "1",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gan Eden",
+    "description": "This is heaven in the mouth and throat area. \r\nSMOOTH. FRESH. SWEET and just the right amount of creamy.\r\nReminds me of the pineapple coconut candy cane sticks at Mexican food restaurants. ",
+    "id": 142451,
+    "image_url": null,
+    "updated_at": "2020-12-11T03:38:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Smoothie",
+            "flavor_id": "9299",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugarloaf Pineapple",
+            "flavor_id": "8978",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "cmyjones",
+    "views": "685",
+    "created_at": "2019-03-12",
+    "slug": "gan_eden",
+    "total_flavoring": "14.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "1"
 }

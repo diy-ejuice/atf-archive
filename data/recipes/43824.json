@@ -1,69 +1,70 @@
 {
-  "name": "Blasting Cold Limes",
-  "description": "this is gonna be a great summertime drink with a blast of cold limes with a touch of sour & sweetness",
-  "id": 43824,
-  "image_url": null,
-  "updated_at": "2020-12-06T08:36:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "1336",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "5572",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tarts Type",
-      "flavor_id": "1431",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1246",
-  "slug": "blasting_cold_limes",
-  "total_flavoring": "17.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "matthewkocanda",
-      "score": "none",
-      "text": "rename it \"too many limes.\""
-    }
-  ]
+    "name": "Blasting Cold Limes",
+    "description": "this is gonna be a great summertime drink with a blast of cold limes with a touch of sour & sweetness",
+    "id": 43824,
+    "image_url": null,
+    "updated_at": "2020-12-11T15:02:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "1336",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "5572",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tarts Type",
+            "flavor_id": "1431",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1254",
+    "created_at": "2017-04-30",
+    "slug": "blasting_cold_limes",
+    "total_flavoring": "17.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "matthewkocanda",
+            "score": 0,
+            "text": "rename it \"too many limes.\""
+        }
+    ]
 }

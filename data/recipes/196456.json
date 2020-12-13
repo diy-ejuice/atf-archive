@@ -1,81 +1,83 @@
 {
-  "name": "The real Banana Nut Bread",
-  "description": "This is a Banana Nut Bread, how i dream from.\r\n\r\nI build it round the TPA Banana Nut Bread flavour, whitch is delish on its own.\r\nI iterate over much flavours. The Vanilla Butter Cream Frosting gave me the last small point, i was missing.\r\nThe flavours itself have so much sweetnes that there is no need to add sweetener. But if you have more than one sweet tooth,\r\nfell free to add some.\r\nI hope you enjoy.",
-  "id": 196456,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196456/Banana-Nut-Bread.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 600,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 1750,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Zugmaschine",
-  "views": "2056",
-  "slug": "the_real_banana_nut_bread",
-  "total_flavoring": "14.25%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JAXXAN",
-      "score": "5",
-      "text": "This is really good. The addition of the marzipan, custard, and cheesecake really help make the banana nut bread taste more dense and moist. Good stuff!"
-    }
-  ]
+    "name": "The real Banana Nut Bread",
+    "description": "This is a Banana Nut Bread, how i dream from.\r\n\r\nI build it round the TPA Banana Nut Bread flavour, whitch is delish on its own.\r\nI iterate over much flavours. The Vanilla Butter Cream Frosting gave me the last small point, i was missing.\r\nThe flavours itself have so much sweetnes that there is no need to add sweetener. But if you have more than one sweet tooth,\r\nfell free to add some.\r\nI hope you enjoy.",
+    "id": 196456,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196456\/Banana-Nut-Bread.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 600,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 1750,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Zugmaschine",
+    "views": "2064",
+    "created_at": "2020-06-02",
+    "slug": "the_real_banana_nut_bread",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196456.jpg",
+    "total_flavoring": "14.25%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JAXXAN",
+            "score": 5,
+            "text": "This is really good. The addition of the marzipan, custard, and cheesecake really help make the banana nut bread taste more dense and moist. Good stuff!"
+        }
+    ]
 }

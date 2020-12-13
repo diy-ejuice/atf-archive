@@ -1,44 +1,43 @@
 {
-  "name": "Blue raz candy cream",
-  "description": "A nice creamy vanilla ice cream with blue raspberry  candies mixed in.",
-  "id": 137423,
-  "image_url": null,
-  "updated_at": "2020-12-06T23:08:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sour Blue Raspberry Candy",
-      "flavor_id": "6061",
-      "millipercent": 6000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Wicket81",
-  "views": "1044",
-  "slug": "blue_raz_candy_cream",
-  "total_flavoring": "13.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "480",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue raz candy cream",
+    "description": "A nice creamy vanilla ice cream with blue raspberry  candies mixed in.",
+    "id": 137423,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:08:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sour Blue Raspberry Candy",
+            "flavor_id": "6061",
+            "millipercent": 6000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Wicket81",
+    "views": "1052",
+    "created_at": "2019-02-01",
+    "slug": "blue_raz_candy_cream",
+    "total_flavoring": "13.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "480"
 }

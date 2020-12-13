@@ -1,85 +1,87 @@
 {
-  "name": "JACKER (Apple, Cereal, Milk)",
-  "description": "Jacker is: Apple, Cereal, and Milk. This is a take on apple jacks cereal but with less apple and cinnamon to be bit more forgiving on the profile. Very pleasant cereal grain that screams whole grain and kid nostalgia. Enjoy no subs and please leave your review.\r\nIngredients:\r\nCap Apple Snax: Dried Apple and Whole Grain Oat Flour.\r\nCap Cereal 27: Whole Grain Corn Flour.\r\nFa Apple Pie: Ascorbic Acid and Wheat Grain.\r\nFa Stark (Apple): Apple Juice Concentrate.\r\nTpa Meringue/OOO Cream Milky Undertones: Sugar and Milk. (Can sub TPA for FA Meringue @ 1%)\r\nFw Sweetener: Sugar.",
-  "id": 107017,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/107017/apple-jacks-concentrate.jpg",
-  "updated_at": "2020-12-08T00:50:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Snacks",
-      "flavor_id": "9903",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Stark (apple)",
-      "flavor_id": "546",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "oddDrop",
-  "views": "3058",
-  "slug": "jacker_apple_cereal_milk",
-  "total_flavoring": "14.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "MrZigglesworth",
-      "score": "5",
-      "text": "This was absolutely delicious. Using FA Apple Pie to back CAP Apple Snacks was a great idea and really made this recipe. To anyone looking at this recipe wanting 100% Apple Jacks. Give this a mix"
-    },
-    {
-      "user": "KylezKloudz",
-      "score": "4",
-      "text": "You hit the profile described in the description... Grainy cereal, apple jacks and milk... Could use just a tiny touch more apple flavor to be spot on, but that's my opinion... Overall, great job! 👍👍"
-    },
-    {
-      "user": "Conradvape",
-      "score": "4",
-      "text": "So Ive been searching for a good apple jacks recipe for along time now and I think you did pretty good on this and this actually hits the spot if your looking for a good apple jacks cereal recipe I would tell other ppl to mix this one up"
-    }
-  ]
+    "name": "JACKER (Apple, Cereal, Milk)",
+    "description": "Jacker is: Apple, Cereal, and Milk. This is a take on apple jacks cereal but with less apple and cinnamon to be bit more forgiving on the profile. Very pleasant cereal grain that screams whole grain and kid nostalgia. Enjoy no subs and please leave your review.\r\nIngredients:\r\nCap Apple Snax: Dried Apple and Whole Grain Oat Flour.\r\nCap Cereal 27: Whole Grain Corn Flour.\r\nFa Apple Pie: Ascorbic Acid and Wheat Grain.\r\nFa Stark (Apple): Apple Juice Concentrate.\r\nTpa Meringue\/OOO Cream Milky Undertones: Sugar and Milk. (Can sub TPA for FA Meringue @ 1%)\r\nFw Sweetener: Sugar.",
+    "id": 107017,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/107017\/apple-jacks-concentrate.jpg",
+    "updated_at": "2020-12-12T18:29:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Snacks",
+            "flavor_id": "9903",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Stark (apple)",
+            "flavor_id": "546",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "oddDrop",
+    "views": "3067",
+    "created_at": "2018-06-24",
+    "slug": "jacker_apple_cereal_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/107017.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "MrZigglesworth",
+            "score": 5,
+            "text": "This was absolutely delicious. Using FA Apple Pie to back CAP Apple Snacks was a great idea and really made this recipe. To anyone looking at this recipe wanting 100% Apple Jacks. Give this a mix"
+        },
+        {
+            "user": "KylezKloudz",
+            "score": 4,
+            "text": "You hit the profile described in the description... Grainy cereal, apple jacks and milk... Could use just a tiny touch more apple flavor to be spot on, but that's my opinion... Overall, great job! \ud83d\udc4d\ud83d\udc4d"
+        },
+        {
+            "user": "Conradvape",
+            "score": 4,
+            "text": "So Ive been searching for a good apple jacks recipe for along time now and I think you did pretty good on this and this actually hits the spot if your looking for a good apple jacks cereal recipe I would tell other ppl to mix this one up"
+        }
+    ]
 }

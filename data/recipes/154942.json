@@ -1,50 +1,49 @@
 {
-  "name": "Rin's Tropical Yogurt",
-  "description": "Tropical yogurt base with passionfruit accent. Whipped cream added for smoothness and body. Needs to steep a few days for the yogurt to mellow. ",
-  "id": 154942,
-  "image_url": null,
-  "updated_at": "2020-11-30T14:41:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Passion Fruit",
-      "flavor_id": "8935",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sunset",
-      "flavor_id": "7786",
-      "millipercent": 1000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6263",
-      "millipercent": 1500,
-      "vendor": "DF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "917",
-  "slug": "rins_tropical_yogurt",
-  "total_flavoring": "5.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Tropical Yogurt",
+    "description": "Tropical yogurt base with passionfruit accent. Whipped cream added for smoothness and body. Needs to steep a few days for the yogurt to mellow. ",
+    "id": 154942,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:45:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Passion Fruit",
+            "flavor_id": "8935",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sunset",
+            "flavor_id": "7786",
+            "millipercent": 1000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6263",
+            "millipercent": 1500,
+            "vendor": "DF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "921",
+    "created_at": "2019-06-09",
+    "slug": "rins_tropical_yogurt",
+    "total_flavoring": "5.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

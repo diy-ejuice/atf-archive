@@ -1,56 +1,56 @@
 {
-  "name": "Ruby Chocolate Donut",
-  "description": "This is a chocolate doughnut with Raspberry Jam\r\n\r\nMade on Live Mixing: Dealers Choice\r\n",
-  "id": 154664,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154664/livemixing.jpg",
-  "updated_at": "2020-12-05T12:09:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ruby Chocolate",
-      "flavor_id": "9278",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2246",
-  "slug": "ruby_chocolate_donut",
-  "total_flavoring": "8.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ruby Chocolate Donut",
+    "description": "This is a chocolate doughnut with Raspberry Jam\r\n\r\nMade on Live Mixing: Dealers Choice\r\n",
+    "id": 154664,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154664\/livemixing.jpg",
+    "updated_at": "2020-12-11T18:25:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ruby Chocolate",
+            "flavor_id": "9278",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2250",
+    "created_at": "2019-06-07",
+    "slug": "ruby_chocolate_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154664.jpg",
+    "total_flavoring": "8.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

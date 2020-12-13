@@ -1,56 +1,56 @@
 {
-  "name": "StrawB Pie",
-  "description": "Strawberry pie topped with whipped cream. Feel free to add sweetener if you don’t find it sweet enough for your likings. Best after a 5-7 day steep. \r\n\r\nPlease rate and review if you mix. ",
-  "id": 180842,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/180842/EF96D939-0F37-4B61-A3D5-E9980ABEA290.jpeg",
-  "updated_at": "2020-12-06T23:08:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Flapper Pie SC",
-      "flavor_id": "10106",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry (Baked)",
-      "flavor_id": "10270",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "10274",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Ebc88",
-  "views": "1306",
-  "slug": "strawb_pie",
-  "total_flavoring": "9.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "StrawB Pie",
+    "description": "Strawberry pie topped with whipped cream. Feel free to add sweetener if you don\u2019t find it sweet enough for your likings. Best after a 5-7 day steep. \r\n\r\nPlease rate and review if you mix. ",
+    "id": 180842,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/180842\/EF96D939-0F37-4B61-A3D5-E9980ABEA290.jpeg",
+    "updated_at": "2020-12-12T03:47:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Flapper Pie SC",
+            "flavor_id": "10106",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry (Baked)",
+            "flavor_id": "10270",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "10274",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Ebc88",
+    "views": "1316",
+    "created_at": "2020-01-11",
+    "slug": "strawb_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/180842.jpeg",
+    "total_flavoring": "9.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

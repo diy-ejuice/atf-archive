@@ -1,68 +1,68 @@
 {
-  "name": "Banana milk",
-  "description": "swapped hs banana for tfa ripe banana\r\n\r\nSmooth, sweet, banana milk.\r\n\r\nWF Banana Puree - A new banana that I've been experimenting with.\r\nHS - Banana - An old favorite.\r\n\r\nINW Custard & HS French Vanilla Ice Cream - Make up the Cream/Milk\r\n\r\nFW Graham Cracker & FW Hazelnut - To round it off",
-  "id": 117841,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/117841/Banana_Milk.jpg",
-  "updated_at": "2020-12-07T17:35:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ripe Banana",
-      "flavor_id": "269",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "HOLY HOLY GRAIL RY4",
-      "flavor_id": "5037",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1250,
-      "vendor": "FW"
-    }
-  ],
-  "author": "BradH",
-  "views": "1562",
-  "slug": "banana_milk",
-  "total_flavoring": "9.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana milk",
+    "description": "swapped hs banana for tfa ripe banana\r\n\r\nSmooth, sweet, banana milk.\r\n\r\nWF Banana Puree - A new banana that I've been experimenting with.\r\nHS - Banana - An old favorite.\r\n\r\nINW Custard & HS French Vanilla Ice Cream - Make up the Cream\/Milk\r\n\r\nFW Graham Cracker & FW Hazelnut - To round it off",
+    "id": 117841,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/117841\/Banana_Milk.jpg",
+    "updated_at": "2020-12-11T18:24:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ripe Banana",
+            "flavor_id": "269",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "HOLY HOLY GRAIL RY4",
+            "flavor_id": "5037",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1250,
+            "vendor": "FW"
+        }
+    ],
+    "author": "BradH",
+    "views": "1570",
+    "created_at": "2018-09-06",
+    "slug": "banana_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/117841.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

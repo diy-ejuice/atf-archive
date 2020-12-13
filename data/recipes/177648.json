@@ -1,38 +1,38 @@
 {
-  "name": "Blue raz sherb",
-  "description": "Derived from waynes recipe. Didn't have fw rainbow sherbet but love vt fizzy so decided to use it here. Probably a better mix for warmer weather but oh well. Lb blue Raspberry is the star obviously but I was looking to support and pull forward the brighter flavors in this one. ",
-  "id": 177648,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177648/Screenshot_20191214-053003_Chrome.jpg",
-  "updated_at": "2020-12-07T09:45:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "lionhrt9",
-  "views": "1177",
-  "slug": "blue_raz_sherb",
-  "total_flavoring": "10.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue raz sherb",
+    "description": "Derived from waynes recipe. Didn't have fw rainbow sherbet but love vt fizzy so decided to use it here. Probably a better mix for warmer weather but oh well. Lb blue Raspberry is the star obviously but I was looking to support and pull forward the brighter flavors in this one. ",
+    "id": 177648,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/177648\/Screenshot_20191214-053003_Chrome.jpg",
+    "updated_at": "2020-12-12T18:30:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "lionhrt9",
+    "views": "1185",
+    "created_at": "2019-12-14",
+    "slug": "blue_raz_sherb",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/177648.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "65%",
+    "temperature": "0"
 }

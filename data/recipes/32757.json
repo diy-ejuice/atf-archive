@@ -1,61 +1,63 @@
 {
-  "name": "Berry Creamy",
-  "description": "A deep and alluring blend of forest berries, basking in a decadent silky vanilla cream.",
-  "id": 32757,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32757/berries-n-cream.jpg",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 2250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1300,
-      "vendor": "FA"
-    }
-  ],
-  "author": "falon1000",
-  "views": "3443",
-  "slug": "berry_creamy",
-  "total_flavoring": "6.55%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "ianerb",
-      "score": "4",
-      "text": "Not got into berry profiles, this is the first of a couple using mixed berries. Very happy with the results of nice berry with the creams laid in and let it steep"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "This is the perfect summer companion to all the bright, fruity mixes I keep on hand when it's hot.  The berries make a nice break from all the tropicals and strawberries I surround myself with."
-    },
-    {
-      "user": "jake1191",
-      "score": "5",
-      "text": "Pretty damn good recipe if I do say so. Steeps nicely @ around 2 weeks as well"
-    }
-  ]
+    "name": "Berry Creamy",
+    "description": "A deep and alluring blend of forest berries, basking in a decadent silky vanilla cream.",
+    "id": 32757,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32757\/berries-n-cream.jpg",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 2250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1300,
+            "vendor": "FA"
+        }
+    ],
+    "author": "falon1000",
+    "views": "3451",
+    "created_at": "2017-02-18",
+    "slug": "berry_creamy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32757.jpg",
+    "total_flavoring": "6.55%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ianerb",
+            "score": 4,
+            "text": "Not got into berry profiles, this is the first of a couple using mixed berries. Very happy with the results of nice berry with the creams laid in and let it steep"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "This is the perfect summer companion to all the bright, fruity mixes I keep on hand when it's hot.  The berries make a nice break from all the tropicals and strawberries I surround myself with."
+        },
+        {
+            "user": "jake1191",
+            "score": 5,
+            "text": "Pretty damn good recipe if I do say so. Steeps nicely @ around 2 weeks as well"
+        }
+    ]
 }

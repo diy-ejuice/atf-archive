@@ -1,50 +1,50 @@
 {
-  "name": "DEPRESSION",
-  "description": "Life got you down?  Dive into Cherry Garcia!\r\n\r\nYou can use either Lava Cake V1 or 2.",
-  "id": 169855,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/169855/Copycat-Cherry-Garcia-Ice-Cream-720x540.jpg",
-  "updated_at": "2020-12-06T20:52:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cherries",
-      "flavor_id": "757",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sprinkles",
-      "flavor_id": "8490",
-      "millipercent": 1750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1567",
-  "slug": "depression",
-  "total_flavoring": "14.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "DEPRESSION",
+    "description": "Life got you down?  Dive into Cherry Garcia!\r\n\r\nYou can use either Lava Cake V1 or 2.",
+    "id": 169855,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/169855\/Copycat-Cherry-Garcia-Ice-Cream-720x540.jpg",
+    "updated_at": "2020-12-12T00:42:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cherries",
+            "flavor_id": "757",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sprinkles",
+            "flavor_id": "8490",
+            "millipercent": 1750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1579",
+    "created_at": "2019-10-10",
+    "slug": "depression",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/169855.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

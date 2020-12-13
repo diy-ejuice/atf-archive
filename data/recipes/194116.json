@@ -1,39 +1,41 @@
 {
-  "name": "Charlie Nobles Smoked Yogurt",
-  "description": "Original recipe from Charlie Nobles Vaults. 🤫 Described as \"Sweet tobacco, velvety vanilla, layers of caramel, and twisted with a smooth yogurt…Sounds crazy, but vapes like a dream!\"\r\nI didn't do anything but throw it up on here...(Part of their not-so-discontinued series)\r\nhttps://charlienoble.com/blogs/the-not-so-discontinued-series/charlie-noble-yogurts",
-  "id": 194116,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194116/5518241_orig.jpg",
-  "updated_at": "2020-12-07T12:48:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 14000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "1158",
-  "slug": "charlie_nobles_smoked_yogurt",
-  "total_flavoring": "20.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "none",
-      "text": "This recipe is very old and not really designed to work with high voltage hardware... just too much of them tasty chemicals so I think lowering Yogurt to ~10% would work. Maybe I'm just sensitive though :)"
-    }
-  ]
+    "name": "Charlie Nobles Smoked Yogurt",
+    "description": "Original recipe from Charlie Nobles Vaults. \ud83e\udd2b Described as \"Sweet tobacco, velvety vanilla, layers of caramel, and twisted with a smooth yogurt\u2026Sounds crazy, but vapes like a dream!\"\r\nI didn't do anything but throw it up on here...(Part of their not-so-discontinued series)\r\nhttps:\/\/charlienoble.com\/blogs\/the-not-so-discontinued-series\/charlie-noble-yogurts",
+    "id": 194116,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/194116\/5518241_orig.jpg",
+    "updated_at": "2020-12-12T10:16:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 14000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "1174",
+    "created_at": "2020-05-11",
+    "slug": "charlie_nobles_smoked_yogurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/194116.jpg",
+    "total_flavoring": "20.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 0,
+            "text": "This recipe is very old and not really designed to work with high voltage hardware... just too much of them tasty chemicals so I think lowering Yogurt to ~10% would work. Maybe I'm just sensitive though :)"
+        }
+    ]
 }

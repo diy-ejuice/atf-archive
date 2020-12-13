@@ -1,62 +1,61 @@
 {
-  "name": "Clonewars: Unicorn Milk",
-  "description": "Mein Rezept zum beliebten Unicorn Milk Liquid\r\n\r\n-eng-\r\nMy take on the famous Unicorn Milk",
-  "id": 182174,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:45:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 8500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "984",
-  "slug": "clonewars_unicorn_milk",
-  "total_flavoring": "19.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Clonewars: Unicorn Milk",
+    "description": "Mein Rezept zum beliebten Unicorn Milk Liquid\r\n\r\n-eng-\r\nMy take on the famous Unicorn Milk",
+    "id": 182174,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:01:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 8500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "993",
+    "created_at": "2020-01-23",
+    "slug": "clonewars_unicorn_milk",
+    "total_flavoring": "19.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

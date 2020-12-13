@@ -1,57 +1,59 @@
 {
-  "name": "Matcha Yoghurt Drink",
-  "description": "Profile: Yoghurt Drink with Matcha\r\n\r\nNotes:\r\n\r\nI'm a giant fan of Lime Drink (http://alltheflavors.com/recipes/151335#lime_drink_by_maxsavage) made by @AlfredPudding and @SavageMax so much, so it inspired me to make this.\r\nCompared to their original recipe, I adjusted the numbers for the VT Yoghurt Drink a little, to not overpower the FLV Eisai tea too much.\r\n\r\nThe idea of adding FLV Eisai to the original recipe came to me the day I first tried Eisai. I found it fitting so well, that I had to try and see if my nose was onto something good here.\r\nThe FLV Eisai tea adds a nice earthy Matcha flavor to the mix, that I find go super well with the remaining ingredients in this.\r\n\r\nI fiddled around with the lime a little, tried a few different ones that I felt would perhaps go well with the Eisai, and I landed on VT Persian lime, as I find it to be a perfect mixture of sweet and zesty for the Eisai. \r\n\r\nTo add a finishing touch, I added a little vanilla into it, as I in the past have experienced with adding vanilla to the Lime Drink recipe and where I have tried a few, everywhere from FA Vanilla Bourbon, CAP French Vanilla, CAP Vanilla Custard, CAP Vanilla Whipped Cream, FLV Vanilla Pudding. But I finally settled on INW Shisha Vanilla, as I find it to give that nice vanilla top note that doesn't bully around so much.\r\n\r\nI have tried to not stray too far off of the original recipe, but I think this what I have here is pretty enjoyable.\r\n\r\nGive it 2 days steep for it all to blend in nicely, but works fine as SNV.\r\n\r\nEnjoy!",
-  "id": 162528,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162528/deda75b6-208f-403f-a24a-d50f2981047c.jpeg",
-  "updated_at": "2020-12-08T00:51:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 200,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "996",
-  "slug": "matcha_yoghurt_drink",
-  "total_flavoring": "8.95%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Illegal_Immigrant",
-      "score": "5",
-      "text": "When VT Yoghurt drink became all the rage, I tried it as a single flavor. It was just OK, I really didn't see what all the hubbub was about. Max's Lime Drink is an amazing recipe, just two flavors and it took VT Yoghurt Drink to a delicious level. I honestly like yours better! It took the original recipe in a whole other direction. The Eisai Tea, as the main note, transforms a basic citrus/cream vape into something else altogether. The lime and cream just compliments the earthiness of the Eisai so well. Very well done! This is some good sh**!"
-    }
-  ]
+    "name": "Matcha Yoghurt Drink",
+    "description": "Profile: Yoghurt Drink with Matcha\r\n\r\nNotes:\r\n\r\nI'm a giant fan of Lime Drink (http:\/\/alltheflavors.com\/recipes\/151335#lime_drink_by_maxsavage) made by @AlfredPudding and @SavageMax so much, so it inspired me to make this.\r\nCompared to their original recipe, I adjusted the numbers for the VT Yoghurt Drink a little, to not overpower the FLV Eisai tea too much.\r\n\r\nThe idea of adding FLV Eisai to the original recipe came to me the day I first tried Eisai. I found it fitting so well, that I had to try and see if my nose was onto something good here.\r\nThe FLV Eisai tea adds a nice earthy Matcha flavor to the mix, that I find go super well with the remaining ingredients in this.\r\n\r\nI fiddled around with the lime a little, tried a few different ones that I felt would perhaps go well with the Eisai, and I landed on VT Persian lime, as I find it to be a perfect mixture of sweet and zesty for the Eisai. \r\n\r\nTo add a finishing touch, I added a little vanilla into it, as I in the past have experienced with adding vanilla to the Lime Drink recipe and where I have tried a few, everywhere from FA Vanilla Bourbon, CAP French Vanilla, CAP Vanilla Custard, CAP Vanilla Whipped Cream, FLV Vanilla Pudding. But I finally settled on INW Shisha Vanilla, as I find it to give that nice vanilla top note that doesn't bully around so much.\r\n\r\nI have tried to not stray too far off of the original recipe, but I think this what I have here is pretty enjoyable.\r\n\r\nGive it 2 days steep for it all to blend in nicely, but works fine as SNV.\r\n\r\nEnjoy!",
+    "id": 162528,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/162528\/deda75b6-208f-403f-a24a-d50f2981047c.jpeg",
+    "updated_at": "2020-12-12T10:16:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 200,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1005",
+    "created_at": "2019-08-09",
+    "slug": "matcha_yoghurt_drink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/162528.jpeg",
+    "total_flavoring": "8.95%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Illegal_Immigrant",
+            "score": 5,
+            "text": "When VT Yoghurt drink became all the rage, I tried it as a single flavor. It was just OK, I really didn't see what all the hubbub was about. Max's Lime Drink is an amazing recipe, just two flavors and it took VT Yoghurt Drink to a delicious level. I honestly like yours better! It took the original recipe in a whole other direction. The Eisai Tea, as the main note, transforms a basic citrus\/cream vape into something else altogether. The lime and cream just compliments the earthiness of the Eisai so well. Very well done! This is some good sh**!"
+        }
+    ]
 }

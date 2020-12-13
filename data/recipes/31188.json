@@ -1,57 +1,59 @@
 {
-  "name": "Strawberry Vanilla Milkshake",
-  "description": "After the last round of DOD worlds, I was really shocked that no one made a Strawberry Milkshake. Well, I felt like one so here we go. \r\n\r\nA fucking simple banging Strawberry Vanilla Milkshake.\r\nThere's nothing crazy going on here, just a simple combo that works amazingly.\r\nJust the INW Shisha Strawberry providing a great strawberry note and the balancing act of vanillas and creams from TPA VBIC and CAP Van Cust. The HS IC and FW Hazelnut really fill out the depths, providing a very straightforward and simple to grasp recipe. \r\nIt's the fucking simple strawberry vanilla milkshake.",
-  "id": 31188,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31188/IMG_20170212_225256_1.jpg",
-  "updated_at": "2020-12-07T17:33:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 500,
-      "vendor": "HS"
-    }
-  ],
-  "author": "Jerrysnaps",
-  "views": "5252",
-  "slug": "strawberry_vanilla_milkshake",
-  "total_flavoring": "11.25%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "none",
-      "text": "Can't give stars, I had to sub FA juicy strawb for the shisha...but it came out thick and delicious with your milkshake base."
-    }
-  ]
+    "name": "Strawberry Vanilla Milkshake",
+    "description": "After the last round of DOD worlds, I was really shocked that no one made a Strawberry Milkshake. Well, I felt like one so here we go. \r\n\r\nA fucking simple banging Strawberry Vanilla Milkshake.\r\nThere's nothing crazy going on here, just a simple combo that works amazingly.\r\nJust the INW Shisha Strawberry providing a great strawberry note and the balancing act of vanillas and creams from TPA VBIC and CAP Van Cust. The HS IC and FW Hazelnut really fill out the depths, providing a very straightforward and simple to grasp recipe. \r\nIt's the fucking simple strawberry vanilla milkshake.",
+    "id": 31188,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31188\/IMG_20170212_225256_1.jpg",
+    "updated_at": "2020-12-10T14:55:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 500,
+            "vendor": "HS"
+        }
+    ],
+    "author": "Jerrysnaps",
+    "views": "5259",
+    "created_at": "2017-02-09",
+    "slug": "strawberry_vanilla_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/31188.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 0,
+            "text": "Can't give stars, I had to sub FA juicy strawb for the shisha...but it came out thick and delicious with your milkshake base."
+        }
+    ]
 }

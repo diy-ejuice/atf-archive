@@ -1,69 +1,71 @@
 {
-  "name": "PB HAZE",
-  "description": "This is a creamy Peanut butter hazelnut custard/ice cream topped with crushed graham cracker giving it that nice smooth nutty cream inhale and a light graham/ crumb texture on the exhale. ",
-  "id": 112431,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112431/4DAFCC71-B448-4EA4-8850-B9C0962B2909.jpeg",
-  "updated_at": "2020-12-08T00:50:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "2202",
-  "slug": "pb_haze",
-  "total_flavoring": "16.25%",
-  "steep_days": "10",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Xist",
-      "score": "5",
-      "text": "Love this mix!  It's nice and rich but stops shy of being real custardy, and gives me that PB I crave.  I take the TPA PB up a bit, and add a little Flavorah PB for that gritty nuttiness.  I enjoy this a SnV.  Well done!"
-    }
-  ]
+    "name": "PB HAZE",
+    "description": "This is a creamy Peanut butter hazelnut custard\/ice cream topped with crushed graham cracker giving it that nice smooth nutty cream inhale and a light graham\/ crumb texture on the exhale. ",
+    "id": 112431,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112431\/4DAFCC71-B448-4EA4-8850-B9C0962B2909.jpeg",
+    "updated_at": "2020-12-12T08:13:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "2211",
+    "created_at": "2018-07-28",
+    "slug": "pb_haze",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112431.jpeg",
+    "total_flavoring": "16.25%",
+    "steep_days": "10",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Xist",
+            "score": 5,
+            "text": "Love this mix!  It's nice and rich but stops shy of being real custardy, and gives me that PB I crave.  I take the TPA PB up a bit, and add a little Flavorah PB for that gritty nuttiness.  I enjoy this a SnV.  Well done!"
+        }
+    ]
 }

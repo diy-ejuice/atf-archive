@@ -1,38 +1,37 @@
 {
-  "name": "Baccy Brulee",
-  "description": "For those of you who know me and my obsession with all things creme brulee, you had to know this day was coming. It's surprisingly good lol. There's a LOT of tobacco flavor here...softened and sweetened and caramelized by the creme brulee. It's a very smooth and dessert vape. I hope you enjoy it. ",
-  "id": 146192,
-  "image_url": null,
-  "updated_at": "2020-12-07T12:47:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "1783",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Tatanka Tobacco",
-      "flavor_id": "4417",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ruyan Custard",
-      "flavor_id": "6066",
-      "millipercent": 3000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "hibbadoray",
-  "views": "825",
-  "slug": "baccy_brulee",
-  "total_flavoring": "6.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Baccy Brulee",
+    "description": "For those of you who know me and my obsession with all things creme brulee, you had to know this day was coming. It's surprisingly good lol. There's a LOT of tobacco flavor here...softened and sweetened and caramelized by the creme brulee. It's a very smooth and dessert vape. I hope you enjoy it. ",
+    "id": 146192,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:09:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "1783",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Tatanka Tobacco",
+            "flavor_id": "4417",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ruyan Custard",
+            "flavor_id": "6066",
+            "millipercent": 3000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "hibbadoray",
+    "views": "833",
+    "created_at": "2019-04-07",
+    "slug": "baccy_brulee",
+    "total_flavoring": "6.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,89 +1,91 @@
 {
-  "name": "Bruleed Lemon Tart | DEVELOPED",
-  "description": "This is a collaborative creation by DEVELOPED: NaChef, Max Savage, Graham, and Folkart.\r\nMaxSavage suggested this profile based on a dessert created by master pastry chefs while he worked in the service industry.  This profile takes a lemon tart and makes it a bit more interesting by caramelizing the top to a golden brown. Full flavor notes on DEVELOPED Episode 37 at https://youtu.be/oZKXD5yRJ1c .\r\n\r\nOur weekly episodes are released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST \r\nCheck out our website at https://www.DevelopedDIY.com\r\nFind us on YouTube https://www.youtube.com/c/DevelopedDIY \r\nFollow us on Instagram: https://www.instagram.com/developeddiy/\r\nCheck out our FaceBook Page at https://www.facebook.com/developeddiy/",
-  "id": 173306,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173306/DEVELOPED_ATF_Bruleed_Lemon_Tart.jpg",
-  "updated_at": "2020-12-08T00:51:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "8864",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 2000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shortbread Cookies SC",
-      "flavor_id": "9045",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Developed",
-  "views": "4205",
-  "slug": "bruleed_lemon_tart_developed",
-  "total_flavoring": "11.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "I mixed this up and let it sit for 2 weeks. Just vaped it this morning and wow is this delicious. The lemon is a nice baked sweet lemon with a little tartness still and is balanced really well with the rest of the mix. I was nervous to mix this up because of the ry4 double but I'm glad I mixed a 30 ml because it works!"
-    },
-    {
-      "user": "RedWagonVapes",
-      "score": "5",
-      "text": "Hands down best lemon meringue tart recipe the creme brulee and ry4 really make the recipe stand out among the rest"
-    },
-    {
-      "user": "DixxleRoo",
-      "score": "5",
-      "text": "Really lovely. The RY4 is an interesting idea and I love FE lemon for these kind of lemony tart like deserts. Yummy! "
-    },
-    {
-      "user": "FuriousMixer",
-      "score": "5",
-      "text": "This is hands down the best lemon profile I’ve vaped in a long long time! It’s layered perfectly and utterly delicious! I did sub TPA RY4 for DFS Holy Grail but it was epic. Well done lads,great work right here. 5 stars ⭐️ "
-    },
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "This is an exquisite recipe. I added 2 drops of VT Sour Lemon per 10ml for that extra touch of tart zing and sweetness instead of the super sweet and it was just right for me. Great work."
-    }
-  ]
+    "name": "Bruleed Lemon Tart | DEVELOPED",
+    "description": "This is a collaborative creation by DEVELOPED: NaChef, Max Savage, Graham, and Folkart.\r\nMaxSavage suggested this profile based on a dessert created by master pastry chefs while he worked in the service industry.  This profile takes a lemon tart and makes it a bit more interesting by caramelizing the top to a golden brown. Full flavor notes on DEVELOPED Episode 37 at https:\/\/youtu.be\/oZKXD5yRJ1c .\r\n\r\nOur weekly episodes are released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST \r\nCheck out our website at https:\/\/www.DevelopedDIY.com\r\nFind us on YouTube https:\/\/www.youtube.com\/c\/DevelopedDIY \r\nFollow us on Instagram: https:\/\/www.instagram.com\/developeddiy\/\r\nCheck out our FaceBook Page at https:\/\/www.facebook.com\/developeddiy\/",
+    "id": 173306,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/173306\/DEVELOPED_ATF_Bruleed_Lemon_Tart.jpg",
+    "updated_at": "2020-12-12T15:40:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "8864",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 2000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shortbread Cookies SC",
+            "flavor_id": "9045",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Developed",
+    "views": "4228",
+    "created_at": "2019-11-05",
+    "slug": "bruleed_lemon_tart_developed",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/173306.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "I mixed this up and let it sit for 2 weeks. Just vaped it this morning and wow is this delicious. The lemon is a nice baked sweet lemon with a little tartness still and is balanced really well with the rest of the mix. I was nervous to mix this up because of the ry4 double but I'm glad I mixed a 30 ml because it works!"
+        },
+        {
+            "user": "RedWagonVapes",
+            "score": 5,
+            "text": "Hands down best lemon meringue tart recipe the creme brulee and ry4 really make the recipe stand out among the rest"
+        },
+        {
+            "user": "DixxleRoo",
+            "score": 5,
+            "text": "Really lovely. The RY4 is an interesting idea and I love FE lemon for these kind of lemony tart like deserts. Yummy! "
+        },
+        {
+            "user": "FuriousMixer",
+            "score": 5,
+            "text": "This is hands down the best lemon profile I\u2019ve vaped in a long long time! It\u2019s layered perfectly and utterly delicious! I did sub TPA RY4 for DFS Holy Grail but it was epic. Well done lads,great work right here. 5 stars \u2b50\ufe0f "
+        },
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "This is an exquisite recipe. I added 2 drops of VT Sour Lemon per 10ml for that extra touch of tart zing and sweetness instead of the super sweet and it was just right for me. Great work."
+        }
+    ]
 }

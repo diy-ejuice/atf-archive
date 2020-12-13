@@ -1,50 +1,50 @@
 {
-  "name": "Mad Biscuit",
-  "description": "Dark brown slightly burnt peach butter biscuit with cream cheese icing.\r\n\r\nCap Sugar Cookie / INW Biscuit / LA CCI -  is the base. Gives the dark brown, slightly burnt and sugary flavor.\r\nCap Butter Cream - adds the buttery feeling on the exhale.\r\nFLV Peach - Very subtle peach tones.\r\nI'd gives this one 2 or 3 weeks steep, crack open your favorite beer and enjoy.",
-  "id": 189715,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189715/unnamed.jpg",
-  "updated_at": "2020-12-06T14:09:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "629",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Zupp6m6n",
-  "views": "397",
-  "slug": "mad_biscuit",
-  "total_flavoring": "10.75%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mad Biscuit",
+    "description": "Dark brown slightly burnt peach butter biscuit with cream cheese icing.\r\n\r\nCap Sugar Cookie \/ INW Biscuit \/ LA CCI -  is the base. Gives the dark brown, slightly burnt and sugary flavor.\r\nCap Butter Cream - adds the buttery feeling on the exhale.\r\nFLV Peach - Very subtle peach tones.\r\nI'd gives this one 2 or 3 weeks steep, crack open your favorite beer and enjoy.",
+    "id": 189715,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189715\/unnamed.jpg",
+    "updated_at": "2020-12-12T10:16:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "629",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Zupp6m6n",
+    "views": "403",
+    "created_at": "2020-03-30",
+    "slug": "mad_biscuit",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189715.jpg",
+    "total_flavoring": "10.75%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

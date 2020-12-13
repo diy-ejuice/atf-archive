@@ -1,92 +1,94 @@
 {
-  "name": "Cobbled Peach",
-  "description": "Deliciously creamy peaches, vanilla ice cream, and a subtle cinnamon and pastry note to tie it all together.\r\nAllow for a 1-2 week steep time.",
-  "id": 13208,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13208/Peach-Cobbler.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "208",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 1750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "3174",
-  "slug": "cobbled_peach",
-  "total_flavoring": "18.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "KenWhitfield",
-      "score": "4",
-      "text": "Very enjoyable with its crisp clean flavors. Well done."
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "The cinnamon pastry note is perfectly light and a delicious addition to the peaches &amp; cream. INW Peach &amp; just a little Juicy peach make great duo. Bravo! "
-    }
-  ]
+    "name": "Cobbled Peach",
+    "description": "Deliciously creamy peaches, vanilla ice cream, and a subtle cinnamon and pastry note to tie it all together.\r\nAllow for a 1-2 week steep time.",
+    "id": 13208,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13208\/Peach-Cobbler.jpg",
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "208",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 1750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "3193",
+    "created_at": "2016-09-12",
+    "slug": "cobbled_peach",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13208.jpg",
+    "total_flavoring": "18.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "KenWhitfield",
+            "score": 4,
+            "text": "Very enjoyable with its crisp clean flavors. Well done."
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "The cinnamon pastry note is perfectly light and a delicious addition to the peaches &amp; cream. INW Peach &amp; just a little Juicy peach make great duo. Bravo! "
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Monkey Balls",
-  "description": "This one has high percentages I know... it's the OSDIY stuff....they need higher percentages. The baked cinnamon roll and lucky shot combo are amazing. the rest are support notes. Sweeten to taste. It's banging!",
-  "id": 32251,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32251/monkey_balls.JPG",
-  "updated_at": "2020-12-06T04:10:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Baked Cinnamon Roll",
-      "flavor_id": "2967",
-      "millipercent": 8000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lucky Shot",
-      "flavor_id": "4349",
-      "millipercent": 5000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "That_Hohmie",
-  "views": "1783",
-  "slug": "monkey_balls",
-  "total_flavoring": "18.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Monkey Balls",
+    "description": "This one has high percentages I know... it's the OSDIY stuff....they need higher percentages. The baked cinnamon roll and lucky shot combo are amazing. the rest are support notes. Sweeten to taste. It's banging!",
+    "id": 32251,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32251\/monkey_balls.JPG",
+    "updated_at": "2020-12-10T14:55:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Baked Cinnamon Roll",
+            "flavor_id": "2967",
+            "millipercent": 8000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lucky Shot",
+            "flavor_id": "4349",
+            "millipercent": 5000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "That_Hohmie",
+    "views": "1790",
+    "created_at": "2017-02-15",
+    "slug": "monkey_balls",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32251.JPG",
+    "total_flavoring": "18.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,64 @@
 {
-  "name": "😤Apple Pie Allah😤",
-  "description": "This is a recipe that friend of mine wanted me to create for him about 6 months ago. After working on it for about 1 month this was the final result. This was one of the few recipes created early in my DIY journey and it was a major motivater for me because it tastes exactly like you would expect Apple Pie with Ice Cream to taste like. (😢sorry about the TFA VBIC manson 😢)  If you like apple and you don't taste pepper when you vape TFA Vanilla Bean Ice Cream I know you will love this. That being said it can be subbed with FW Vanilla Bean Ice Cream and work just as well. I recommend it mixed at Max VG and steep for 8 days. So mix it up, enjoy, comment, and rate it. Happy New Year everyone!!!!!!! ",
-  "id": 24678,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/24678/20170101_082604.png",
-  "updated_at": "2020-12-08T00:48:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "KRUCIAL",
-  "views": "3508",
-  "slug": "apple_pie_allah",
-  "total_flavoring": "11.0%",
-  "steep_days": "8",
-  "best_vg": "89%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "SatJoe563",
-      "score": "5",
-      "text": "Tastes great as a SNV.  Needs a little crust flavor to it, and maybe some Apple Filling FLV (for my taste).  Over all, I like the flavor.  Can definitely see where this would be enjoyed by many."
-    },
-    {
-      "user": "Hawger03",
-      "score": "4",
-      "text": "Awesome dripper juice.  The only thing I would change to my liking is to add a bit of cinnamon to the mix.  I think the next batch I will add a small amount of Rich Cinnamon and see how it works."
-    }
-  ]
+    "name": "\ud83d\ude24Apple Pie Allah\ud83d\ude24",
+    "description": "This is a recipe that friend of mine wanted me to create for him about 6 months ago. After working on it for about 1 month this was the final result. This was one of the few recipes created early in my DIY journey and it was a major motivater for me because it tastes exactly like you would expect Apple Pie with Ice Cream to taste like. (\ud83d\ude22sorry about the TFA VBIC manson \ud83d\ude22)  If you like apple and you don't taste pepper when you vape TFA Vanilla Bean Ice Cream I know you will love this. That being said it can be subbed with FW Vanilla Bean Ice Cream and work just as well. I recommend it mixed at Max VG and steep for 8 days. So mix it up, enjoy, comment, and rate it. Happy New Year everyone!!!!!!! ",
+    "id": 24678,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/24678\/20170101_082604.png",
+    "updated_at": "2020-12-12T17:10:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "KRUCIAL",
+    "views": "3517",
+    "created_at": "2017-01-01",
+    "slug": "apple_pie_allah",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/24678.png",
+    "total_flavoring": "11.0%",
+    "steep_days": "8",
+    "best_vg": "89%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SatJoe563",
+            "score": 5,
+            "text": "Tastes great as a SNV.  Needs a little crust flavor to it, and maybe some Apple Filling FLV (for my taste).  Over all, I like the flavor.  Can definitely see where this would be enjoyed by many."
+        },
+        {
+            "user": "Hawger03",
+            "score": 4,
+            "text": "Awesome dripper juice.  The only thing I would change to my liking is to add a bit of cinnamon to the mix.  I think the next batch I will add a small amount of Rich Cinnamon and see how it works."
+        }
+    ]
 }

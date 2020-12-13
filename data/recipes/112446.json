@@ -1,68 +1,68 @@
 {
-  "name": "Rhubarb Sherbet",
-  "description": "Summertime Recipe\r\nTartness of Rhubarb, the fizzy goodness of VT Sherbet, combined with Quince to introduce some water.\r\nMaltol and FLV Cream are used to simulate the smoothness of a creamy icecream.\r\nIf you like you can add just a touch of cooling if you like so",
-  "id": 112446,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112446/rhubarb-sorbet-horiz-a-1600-600x417.jpg",
-  "updated_at": "2020-12-05T11:05:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rhubarb (yc)",
-      "flavor_id": "711",
-      "millipercent": 400,
-      "vendor": "INW"
-    },
-    {
-      "name": "Rhubarb Compote",
-      "flavor_id": "9192",
-      "millipercent": 600,
-      "vendor": "VT"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Apple",
-      "flavor_id": "814",
-      "millipercent": 100,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 300,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Echodub",
-  "views": "1160",
-  "slug": "rhubarb_sherbet",
-  "total_flavoring": "5.9%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rhubarb Sherbet",
+    "description": "Summertime Recipe\r\nTartness of Rhubarb, the fizzy goodness of VT Sherbet, combined with Quince to introduce some water.\r\nMaltol and FLV Cream are used to simulate the smoothness of a creamy icecream.\r\nIf you like you can add just a touch of cooling if you like so",
+    "id": 112446,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112446\/rhubarb-sorbet-horiz-a-1600-600x417.jpg",
+    "updated_at": "2020-12-12T02:45:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rhubarb (yc)",
+            "flavor_id": "711",
+            "millipercent": 400,
+            "vendor": "INW"
+        },
+        {
+            "name": "Rhubarb Compote",
+            "flavor_id": "9192",
+            "millipercent": 600,
+            "vendor": "VT"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Apple",
+            "flavor_id": "814",
+            "millipercent": 100,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 300,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Echodub",
+    "views": "1171",
+    "created_at": "2018-07-28",
+    "slug": "rhubarb_sherbet",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112446.jpg",
+    "total_flavoring": "5.9%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

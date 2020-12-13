@@ -1,32 +1,31 @@
 {
-  "name": "Fuji Apple Cream",
-  "description": "Einfache Apfeleiscreme, im Sommer gebe ich gerne noch 1-2% WS 23 hinzu für den frischekick\r\n\r\nEngl:\r\nSimple Apple Icecream, in summer i like it with 1-2% WS 23 for the refreshing feeling",
-  "id": 182484,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "995",
-  "slug": "fuji_apple_cream",
-  "total_flavoring": "10.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fuji Apple Cream",
+    "description": "Einfache Apfeleiscreme, im Sommer gebe ich gerne noch 1-2% WS 23 hinzu f\u00fcr den frischekick\r\n\r\nEngl:\r\nSimple Apple Icecream, in summer i like it with 1-2% WS 23 for the refreshing feeling",
+    "id": 182484,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "1001",
+    "created_at": "2020-01-26",
+    "slug": "fuji_apple_cream",
+    "total_flavoring": "10.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

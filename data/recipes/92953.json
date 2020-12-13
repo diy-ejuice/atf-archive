@@ -1,56 +1,55 @@
 {
-  "name": "Escape from Mango Island",
-  "description": "Just a fun experiment in creative substitutions.\r\n\r\nStarted with the recipe Mango Island... but not having any of the ingredients, doing 1:1  subs with the flavors I do have. For example- I don't have INW Coconut,  but since this is /u/chemicalburnvictim, INW DNB should be good at the same level, so in it goes. No FLV Cream or FLV Mango,  but I have FLV Red Burley and FLV Cured, and they work at the same levels, so in they go. No HC flavors, but maybe SC Black Fire will work, so in it goes. FA Melon similarly needed to be replaced and FA Whiskey is handy... And lacking INW Pineapple,  I lastly subbed in INW Tobacco Symphony. So now, the one non-tobacco recipe from CBV has been restored to its proper profile.",
-  "id": 92953,
-  "image_url": null,
-  "updated_at": "2020-12-07T05:57:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Black Fire Tobacco",
-      "flavor_id": "8435",
-      "millipercent": 1800,
-      "vendor": "SC"
-    },
-    {
-      "name": "Whisky",
-      "flavor_id": "556",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tobacco Tobacco Symphony",
-      "flavor_id": "858",
-      "millipercent": 1300,
-      "vendor": "INW"
-    }
-  ],
-  "author": "COB",
-  "views": "1580",
-  "slug": "escape_from_mango_island",
-  "total_flavoring": "7.2%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Escape from Mango Island",
+    "description": "Just a fun experiment in creative substitutions.\r\n\r\nStarted with the recipe Mango Island... but not having any of the ingredients, doing 1:1  subs with the flavors I do have. For example- I don't have INW Coconut,  but since this is \/u\/chemicalburnvictim, INW DNB should be good at the same level, so in it goes. No FLV Cream or FLV Mango,  but I have FLV Red Burley and FLV Cured, and they work at the same levels, so in they go. No HC flavors, but maybe SC Black Fire will work, so in it goes. FA Melon similarly needed to be replaced and FA Whiskey is handy... And lacking INW Pineapple,  I lastly subbed in INW Tobacco Symphony. So now, the one non-tobacco recipe from CBV has been restored to its proper profile.",
+    "id": 92953,
+    "image_url": null,
+    "updated_at": "2020-12-12T01:41:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Black Fire Tobacco",
+            "flavor_id": "8435",
+            "millipercent": 1800,
+            "vendor": "SC"
+        },
+        {
+            "name": "Whisky",
+            "flavor_id": "556",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tobacco Tobacco Symphony",
+            "flavor_id": "858",
+            "millipercent": 1300,
+            "vendor": "INW"
+        }
+    ],
+    "author": "COB",
+    "views": "1593",
+    "created_at": "2018-03-18",
+    "slug": "escape_from_mango_island",
+    "total_flavoring": "7.2%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

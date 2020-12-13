@@ -1,44 +1,46 @@
 {
-  "name": "SBIC",
-  "description": "Mustard Milk with the %'s swapped. Call me a heretic but I like it better this way. ",
-  "id": 6852,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6852/CONTINUOUS-BLOGGING-OF-RECIPES-FOR-ONE-YEAR1.jpg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "8655",
-  "slug": "sbic",
-  "total_flavoring": "14.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Fiftytrent",
-      "score": "5",
-      "text": "I like this better than mustard milk also. Wish I'd thought of trying this sooner. "
-    },
-    {
-      "user": "HerrHut",
-      "score": "5",
-      "text": "Heretic!  Comparing it to Mustard Milk after ~2 weeks steeping, I like this one better.  Decent vape."
-    }
-  ]
+    "name": "SBIC",
+    "description": "Mustard Milk with the %'s swapped. Call me a heretic but I like it better this way. ",
+    "id": 6852,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6852\/CONTINUOUS-BLOGGING-OF-RECIPES-FOR-ONE-YEAR1.jpg",
+    "updated_at": "2020-12-12T11:50:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "8668",
+    "created_at": "2016-07-06",
+    "slug": "sbic",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6852.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Fiftytrent",
+            "score": 5,
+            "text": "I like this better than mustard milk also. Wish I'd thought of trying this sooner. "
+        },
+        {
+            "user": "HerrHut",
+            "score": 5,
+            "text": "Heretic!  Comparing it to Mustard Milk after ~2 weeks steeping, I like this one better.  Decent vape."
+        }
+    ]
 }

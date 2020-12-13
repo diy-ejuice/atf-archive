@@ -1,74 +1,76 @@
 {
-  "name": "Bounty (Abuela de Coco)",
-  "description": "The Cigar from Abuela¹ mixed with the Coconut from Leche de Coco².  It's a thick heavy creamy coconut cigar.\r\n\r\nMix the originals first, otherwise you're missing out.\r\n\r\nI suggest vaping Abuela and this alternately.  You will go \"Oh the mango\" → \"Ooh the coconut\" → \"Oooh the mango\" ∞\r\n\r\n¹ https://alltheflavors.com/recipes/47894#abuela_by_fear\r\n² https://alltheflavors.com/recipes/42350#leche_de_coco_coconut_milk_by_hashslingingslashur",
-  "id": 70669,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/70669/woman-1969113_960_720.jpg",
-  "updated_at": "2020-12-08T00:49:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Virginia Tobacco",
-      "flavor_id": "623",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "HerrHut",
-  "views": "3399",
-  "slug": "bounty_abuela_de_coco",
-  "total_flavoring": "7.6%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "I’ve created a lot of werid tobacco combo. Like honeysuckle and tobacco, but coconut and tobacco never crossed my mind. You took 2 recipes I have tried and enjoyed and blended them together &amp; it works well. Them tobacco combo you used from Abuela works really well in here and doesn’t overpower the coconut. "
-    },
-    {
-      "user": "horrend",
-      "score": "5",
-      "text": "I'll start by saying I lowered the cheesecake graham crust to 0.5% in this (I do the same with leche de coco otherwise I get nothing but graham, my palate is weird). Other than that I mixed this as is, this is a great mash up of two great recipes. I was thinking of what I could sub the mango in Abuela for to make a different vape and the first thing that came to mind was coconut so finding this helped me. It's a great vape, I get the same cigar goodness from Abuela with a light creamy coconut at the back end. I'll definitely be mixing up more of this. "
-    }
-  ]
+    "name": "Bounty (Abuela de Coco)",
+    "description": "The Cigar from Abuela\u00b9 mixed with the Coconut from Leche de Coco\u00b2.  It's a thick heavy creamy coconut cigar.\r\n\r\nMix the originals first, otherwise you're missing out.\r\n\r\nI suggest vaping Abuela and this alternately.  You will go \"Oh the mango\" \u2192 \"Ooh the coconut\" \u2192 \"Oooh the mango\" \u221e\r\n\r\n\u00b9 https:\/\/alltheflavors.com\/recipes\/47894#abuela_by_fear\r\n\u00b2 https:\/\/alltheflavors.com\/recipes\/42350#leche_de_coco_coconut_milk_by_hashslingingslashur",
+    "id": 70669,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/70669\/woman-1969113_960_720.jpg",
+    "updated_at": "2020-12-12T14:05:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Virginia Tobacco",
+            "flavor_id": "623",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "HerrHut",
+    "views": "3408",
+    "created_at": "2017-10-26",
+    "slug": "bounty_abuela_de_coco",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/70669.jpg",
+    "total_flavoring": "7.6%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "I\u2019ve created a lot of werid tobacco combo. Like honeysuckle and tobacco, but coconut and tobacco never crossed my mind. You took 2 recipes I have tried and enjoyed and blended them together &amp; it works well. Them tobacco combo you used from Abuela works really well in here and doesn\u2019t overpower the coconut. "
+        },
+        {
+            "user": "horrend",
+            "score": 5,
+            "text": "I'll start by saying I lowered the cheesecake graham crust to 0.5% in this (I do the same with leche de coco otherwise I get nothing but graham, my palate is weird). Other than that I mixed this as is, this is a great mash up of two great recipes. I was thinking of what I could sub the mango in Abuela for to make a different vape and the first thing that came to mind was coconut so finding this helped me. It's a great vape, I get the same cigar goodness from Abuela with a light creamy coconut at the back end. I'll definitely be mixing up more of this. "
+        }
+    ]
 }

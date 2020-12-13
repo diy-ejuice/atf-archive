@@ -1,51 +1,53 @@
 {
-  "name": "Butterscotch Pecan I Scream",
-  "description": "No rocket science here. Both these flavors, OOO Butter Pecan Ice Cream and WF Butterscotch Cream Pie are great standalone flavors for a recipe. They're incredible and authentic tasting flavors!! I thought by pairing them together it would make a great recipe and boy was I right! Everything is there... The creaminess and body of the butterscotch, the smoothness of the butter pecan ice cream, and a slight hint of caramel. I'm using TPA Caramel Candy as the bridge between the 2 flavors and it did the job. This is a wonderful and simple but complex tasting recipe. \r\n\r\nTry it out and give me your feedback!",
-  "id": 203433,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/203433/butter_pecan.jpg",
-  "updated_at": "2020-12-08T00:51:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan Ice Cream",
-      "flavor_id": "6600",
-      "millipercent": 2500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Butterscotch Cream Pie",
-      "flavor_id": "6045",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "150",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Ledpedal",
-  "views": "688",
-  "slug": "butterscotch_pecan_i_scream",
-  "total_flavoring": "6.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "notsonattynate",
-      "score": "5",
-      "text": "I mixed up a 60ml of this and vaped it at work. It’s pretty bad ass. Good work man. "
-    }
-  ]
+    "name": "Butterscotch Pecan I Scream",
+    "description": "No rocket science here. Both these flavors, OOO Butter Pecan Ice Cream and WF Butterscotch Cream Pie are great standalone flavors for a recipe. They're incredible and authentic tasting flavors!! I thought by pairing them together it would make a great recipe and boy was I right! Everything is there... The creaminess and body of the butterscotch, the smoothness of the butter pecan ice cream, and a slight hint of caramel. I'm using TPA Caramel Candy as the bridge between the 2 flavors and it did the job. This is a wonderful and simple but complex tasting recipe. \r\n\r\nTry it out and give me your feedback!",
+    "id": 203433,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/203433\/butter_pecan.jpg",
+    "updated_at": "2020-12-12T18:31:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan Ice Cream",
+            "flavor_id": "6600",
+            "millipercent": 2500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Butterscotch Cream Pie",
+            "flavor_id": "6045",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "150",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Ledpedal",
+    "views": "695",
+    "created_at": "2020-08-16",
+    "slug": "butterscotch_pecan_i_scream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/203433.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "notsonattynate",
+            "score": 5,
+            "text": "I mixed up a 60ml of this and vaped it at work. It\u2019s pretty bad ass. Good work man. "
+        }
+    ]
 }

@@ -1,69 +1,71 @@
 {
-  "name": "lemon cheesecake",
-  "description": "NO BS lemon cheesecake. Undenialable S&V and of course only gets better",
-  "id": 18522,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/18522/51354_640x428.jpg",
-  "updated_at": "2020-12-08T00:48:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Deejay_mills",
-  "views": "2310",
-  "slug": "lemon_cheesecake",
-  "total_flavoring": "14.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MikeRaf23",
-      "score": "5",
-      "text": "Spot on lemon Cheesecake. always enjoy your recipe mills. Thanks !"
-    }
-  ]
+    "name": "lemon cheesecake",
+    "description": "NO BS lemon cheesecake. Undenialable S&V and of course only gets better",
+    "id": 18522,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/18522\/51354_640x428.jpg",
+    "updated_at": "2020-12-12T15:38:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Deejay_mills",
+    "views": "2317",
+    "created_at": "2016-11-01",
+    "slug": "lemon_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/18522.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MikeRaf23",
+            "score": 5,
+            "text": "Spot on lemon Cheesecake. always enjoy your recipe mills. Thanks !"
+        }
+    ]
 }

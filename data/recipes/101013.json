@@ -1,57 +1,59 @@
 {
-  "name": "Lemon meringue pie",
-  "description": "Nice and Simple lemon meringue pie. Taste good right from the shake. Mixed at 70/30",
-  "id": 101013,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101013/DB13FC19-F48A-49A7-AF35-4510D6F8365B.jpeg",
-  "updated_at": "2020-12-08T00:50:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "1335",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 300,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1982",
-  "slug": "lemon_meringue_pie",
-  "total_flavoring": "10.8%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "I just mixed this up and gave it a shake. Super delicious shake and vape! Its never going to make it through a steep...."
-    }
-  ]
+    "name": "Lemon meringue pie",
+    "description": "Nice and Simple lemon meringue pie. Taste good right from the shake. Mixed at 70\/30",
+    "id": 101013,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101013\/DB13FC19-F48A-49A7-AF35-4510D6F8365B.jpeg",
+    "updated_at": "2020-12-12T15:39:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "1335",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 300,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1994",
+    "created_at": "2018-05-14",
+    "slug": "lemon_meringue_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101013.jpeg",
+    "total_flavoring": "10.8%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "I just mixed this up and gave it a shake. Super delicious shake and vape! Its never going to make it through a steep...."
+        }
+    ]
 }

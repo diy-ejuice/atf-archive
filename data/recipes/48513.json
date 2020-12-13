@@ -1,62 +1,62 @@
 {
-  "name": "Holy Strawberry ",
-  "description": "Sweet strawberry ice cream \r\n\r\nHoly Vanilla - true vanilla ice cream flavor that should be in every mixers arsenal. It's extremely versatile and doesn't need as much of a steep time as other VBIC. Mixes well with any combo of fruits I throw at it.\r\nShisha vanilla is a nice sweet accent\r\nFW, tpa strawberry and tpa ripe strawberry - this combo is Kat's strawberry stone. I use it a lot. Gives a true fresh strawberry flavor. \r\nJF sweet strawberry - this flavor reminds me of juice left in bowl of sugar sweetened strawberries. \r\nFLV sweetness - stevia based sweetness without the aftertaste. At lower percentages it really brightens this mix",
-  "id": 48513,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48513/IMG_4598jet.jpg",
-  "updated_at": "2020-11-26T11:54:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "1420",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 3250,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 100,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "LoriDS1",
-  "views": "1522",
-  "slug": "holy_strawberry",
-  "total_flavoring": "13.6%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Holy Strawberry ",
+    "description": "Sweet strawberry ice cream \r\n\r\nHoly Vanilla - true vanilla ice cream flavor that should be in every mixers arsenal. It's extremely versatile and doesn't need as much of a steep time as other VBIC. Mixes well with any combo of fruits I throw at it.\r\nShisha vanilla is a nice sweet accent\r\nFW, tpa strawberry and tpa ripe strawberry - this combo is Kat's strawberry stone. I use it a lot. Gives a true fresh strawberry flavor. \r\nJF sweet strawberry - this flavor reminds me of juice left in bowl of sugar sweetened strawberries. \r\nFLV sweetness - stevia based sweetness without the aftertaste. At lower percentages it really brightens this mix",
+    "id": 48513,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/48513\/IMG_4598jet.jpg",
+    "updated_at": "2020-12-10T17:56:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "1420",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 3250,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 100,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "LoriDS1",
+    "views": "1526",
+    "created_at": "2017-05-31",
+    "slug": "holy_strawberry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/48513.jpg",
+    "total_flavoring": "13.6%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

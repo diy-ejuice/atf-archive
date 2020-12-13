@@ -1,50 +1,49 @@
 {
-  "name": "Toasted Space",
-  "description": "A Space Jam Venus clone. Shake your peanut butter before you use it.",
-  "id": 4268,
-  "image_url": null,
-  "updated_at": "2020-11-29T14:47:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "tranceinate",
-  "views": "1818",
-  "slug": "toasted_space",
-  "total_flavoring": "9.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Toasted Space",
+    "description": "A Space Jam Venus clone. Shake your peanut butter before you use it.",
+    "id": 4268,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:39:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "tranceinate",
+    "views": "1824",
+    "created_at": "2016-05-31",
+    "slug": "toasted_space",
+    "total_flavoring": "9.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

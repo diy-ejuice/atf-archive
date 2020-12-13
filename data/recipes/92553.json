@@ -1,38 +1,37 @@
 {
-  "name": "Blueberry Cotton Candy",
-  "description": "tasted good not sure how long it should steep so looking for help with recipes . .. beginner but i have sooo many flavors to try",
-  "id": 92553,
-  "image_url": null,
-  "updated_at": "2020-11-29T22:44:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 5300,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "1259",
-      "millipercent": 6670,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 670,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "338",
-  "slug": "blueberry_cotton_candy",
-  "total_flavoring": "12.64%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Cotton Candy",
+    "description": "tasted good not sure how long it should steep so looking for help with recipes . .. beginner but i have sooo many flavors to try",
+    "id": 92553,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 5300,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "1259",
+            "millipercent": 6670,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 670,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "342",
+    "created_at": "2018-03-16",
+    "slug": "blueberry_cotton_candy",
+    "total_flavoring": "12.64%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

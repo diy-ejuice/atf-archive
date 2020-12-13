@@ -1,66 +1,68 @@
 {
-  "name": "Punkberry",
-  "description": "One of the most simple, surprising and delicious juices going has to be coop34's \"Coop's Kiwi Bourbon\". \r\nhttps://alltheflavors.com/recipes/21614#coop_s_kiwi_bourbon_by_id10_t\r\n\r\nSo, applying Coop's awesome Kentucky Bourbon + Toasted Marshmallow + Fruit formula, one of the first fruits I decided to try was FA Forest Fruits, because it's my favorite. It's great right away, but goes through lots of interestingly tasty changes the longer it homogenizes. Plus, it seems to do something a little different with every hit. I loved the results instantly, and vaped it for months, but curiosity got the better of me, so I added one of my favorite enhancers, FA Oba Oba, and it was perfect.\r\n\r\nThis one's fun! Good off the shake, and full of little surprises as time goes on. Vaping it is interesting, too; sometimes it's pleasantly boozy, sometimes it has a pink bubble gum vibe, and sometimes it's just a nice, soft, round berry taste with a vaguely smoked-vanilla-like exhale (the Oba Oba, I think?) \r\n\r\nIf you don't have FA Oba Oba, try it without it, and if you like it, add some to your next order to try it with. It's a pretty fun flavor that does some cool things with the right profile, and in this case, it really rounds it out, making the whole thing softer, fuller and more complex.\r\n\r\n",
-  "id": 160383,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160383/berry-bourbon.jpg",
-  "updated_at": "2020-12-08T00:51:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "1997",
-  "slug": "punkberry",
-  "total_flavoring": "11.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "twodollaregg",
-      "score": "5",
-      "text": "This is delicious. "
-    },
-    {
-      "user": "AutomaticFailure",
-      "score": "5",
-      "text": "This is an odd but great recipe. I got no suggestions or anything. I quite enjoy this and it works great as a DL or MTL vape."
-    },
-    {
-      "user": "NickG",
-      "score": "5",
-      "text": "Coop's Kiwi bourbon is a favorite of mine so I was excited to try this. Just got a bottle of toasted marshmallow in the mail today too, so mixed this right up and even off the shake, it's delicious. I think the oba works well with the marshmallow and between the two a steep isn't as important with this recipe as it is with the kiwi rendition. That said though, I'm excited to see how this will transform over the next couple of days. Thanks for making this up and sharing the recipe. It's tasting good !!! "
-    },
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "A warm welcome back, just like this tasty mix. Thanks."
-    }
-  ]
+    "name": "Punkberry",
+    "description": "One of the most simple, surprising and delicious juices going has to be coop34's \"Coop's Kiwi Bourbon\". \r\nhttps:\/\/alltheflavors.com\/recipes\/21614#coop_s_kiwi_bourbon_by_id10_t\r\n\r\nSo, applying Coop's awesome Kentucky Bourbon + Toasted Marshmallow + Fruit formula, one of the first fruits I decided to try was FA Forest Fruits, because it's my favorite. It's great right away, but goes through lots of interestingly tasty changes the longer it homogenizes. Plus, it seems to do something a little different with every hit. I loved the results instantly, and vaped it for months, but curiosity got the better of me, so I added one of my favorite enhancers, FA Oba Oba, and it was perfect.\r\n\r\nThis one's fun! Good off the shake, and full of little surprises as time goes on. Vaping it is interesting, too; sometimes it's pleasantly boozy, sometimes it has a pink bubble gum vibe, and sometimes it's just a nice, soft, round berry taste with a vaguely smoked-vanilla-like exhale (the Oba Oba, I think?) \r\n\r\nIf you don't have FA Oba Oba, try it without it, and if you like it, add some to your next order to try it with. It's a pretty fun flavor that does some cool things with the right profile, and in this case, it really rounds it out, making the whole thing softer, fuller and more complex.\r\n\r\n",
+    "id": 160383,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160383\/berry-bourbon.jpg",
+    "updated_at": "2020-12-12T20:31:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "2007",
+    "created_at": "2019-07-23",
+    "slug": "punkberry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/160383.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "twodollaregg",
+            "score": 5,
+            "text": "This is delicious. "
+        },
+        {
+            "user": "AutomaticFailure",
+            "score": 5,
+            "text": "This is an odd but great recipe. I got no suggestions or anything. I quite enjoy this and it works great as a DL or MTL vape."
+        },
+        {
+            "user": "NickG",
+            "score": 5,
+            "text": "Coop's Kiwi bourbon is a favorite of mine so I was excited to try this. Just got a bottle of toasted marshmallow in the mail today too, so mixed this right up and even off the shake, it's delicious. I think the oba works well with the marshmallow and between the two a steep isn't as important with this recipe as it is with the kiwi rendition. That said though, I'm excited to see how this will transform over the next couple of days. Thanks for making this up and sharing the recipe. It's tasting good !!! "
+        },
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "A warm welcome back, just like this tasty mix. Thanks."
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Kahlua Ice Cream",
-  "description": "I love 💕 Kahlua and I love 💕Coffee ice cream so I wanted to try and combine the two.  Let me know what you think ",
-  "id": 155128,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/155128/EE67B0D4-0492-472B-BB11-E3F3D53CFB45.jpeg",
-  "updated_at": "2020-12-02T10:29:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Erythritol Solution",
-      "flavor_id": "4491",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Kahlua",
-      "flavor_id": "1326",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "6253",
-      "millipercent": 800,
-      "vendor": "DF"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1900,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MommaDukes",
-  "views": "579",
-  "slug": "kahlua_ice_cream",
-  "total_flavoring": "11.4%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kahlua Ice Cream",
+    "description": "I love \ud83d\udc95 Kahlua and I love \ud83d\udc95Coffee ice cream so I wanted to try and combine the two.  Let me know what you think ",
+    "id": 155128,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/155128\/EE67B0D4-0492-472B-BB11-E3F3D53CFB45.jpeg",
+    "updated_at": "2020-12-11T03:38:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Erythritol Solution",
+            "flavor_id": "4491",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Kahlua",
+            "flavor_id": "1326",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "6253",
+            "millipercent": 800,
+            "vendor": "DF"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1900,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MommaDukes",
+    "views": "584",
+    "created_at": "2019-06-11",
+    "slug": "kahlua_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/155128.jpeg",
+    "total_flavoring": "11.4%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

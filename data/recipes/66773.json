@@ -1,50 +1,50 @@
 {
-  "name": "V-Relax ",
-  "description": "Simple recipe with some burley tobacco, coffee, caramel , biscuit and vanilla (creamy). The coffe flavor used is Coffee Kawa (INAWERA).",
-  "id": 66773,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66773/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-05T17:43:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Burley",
-      "flavor_id": "435",
-      "millipercent": 1700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coffee",
-      "flavor_id": "716",
-      "millipercent": 1200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1300,
-      "vendor": "INW"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "1211",
-  "slug": "vrelax",
-  "total_flavoring": "5.7%",
-  "steep_days": "20",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "V-Relax ",
+    "description": "Simple recipe with some burley tobacco, coffee, caramel , biscuit and vanilla (creamy). The coffe flavor used is Coffee Kawa (INAWERA).",
+    "id": 66773,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66773\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-12T11:51:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Burley",
+            "flavor_id": "435",
+            "millipercent": 1700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coffee",
+            "flavor_id": "716",
+            "millipercent": 1200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1300,
+            "vendor": "INW"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "1217",
+    "created_at": "2017-10-05",
+    "slug": "vrelax",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66773.jpg",
+    "total_flavoring": "5.7%",
+    "steep_days": "20",
+    "best_vg": "70%",
+    "temperature": "0"
 }

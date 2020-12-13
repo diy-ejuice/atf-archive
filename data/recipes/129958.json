@@ -1,57 +1,58 @@
 {
-  "name": "Honeycomb Custard and Cookies",
-  "description": "Custard? Cookies? Who doesn’t like custard and cookies!? This was one of my first recipes using VT Honeycomb.....and probably my most successful. If you don’t have Custard Premium(I’m sorry), then use INW Custard @1.5% and TFA Butter @0.5%.....close, but not quite as good. Mix it, love it. Let me know how y’all like it.",
-  "id": 129958,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Wildgypsy",
-  "views": "1413",
-  "slug": "honeycomb_custard_and_cookies",
-  "total_flavoring": "8.5%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "Well done, this is really tasty! Very well balanced. I let it steep for almost 3 weeks and it hits the spot."
-    }
-  ]
+    "name": "Honeycomb Custard and Cookies",
+    "description": "Custard? Cookies? Who doesn\u2019t like custard and cookies!? This was one of my first recipes using VT Honeycomb.....and probably my most successful. If you don\u2019t have Custard Premium(I\u2019m sorry), then use INW Custard @1.5% and TFA Butter @0.5%.....close, but not quite as good. Mix it, love it. Let me know how y\u2019all like it.",
+    "id": 129958,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:30:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Wildgypsy",
+    "views": "1421",
+    "created_at": "2018-12-03",
+    "slug": "honeycomb_custard_and_cookies",
+    "total_flavoring": "8.5%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "Well done, this is really tasty! Very well balanced. I let it steep for almost 3 weeks and it hits the spot."
+        }
+    ]
 }

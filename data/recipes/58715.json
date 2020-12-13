@@ -1,50 +1,50 @@
 {
-  "name": "Greek yogurt",
-  "description": "Swirling with honey, nuts, from the oldest foods, is one of the great products of tradition in Greece Just follow the recipe we give you and you will have your own homemade yogurt in 5 days",
-  "id": 58715,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/58715/Jogurtovapanakotazmedom_01-1.jpg",
-  "updated_at": "2020-12-07T02:15:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "536",
-      "millipercent": 100,
-      "vendor": "FA"
-    },
-    {
-      "name": "Black Honey",
-      "flavor_id": "370",
-      "millipercent": 900,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 200,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Pmnb",
-  "views": "1471",
-  "slug": "greek_yogurt",
-  "total_flavoring": "4.2%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Greek yogurt",
+    "description": "Swirling with honey, nuts, from the oldest foods, is one of the great products of tradition in Greece Just follow the recipe we give you and you will have your own homemade yogurt in 5 days",
+    "id": 58715,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/58715\/Jogurtovapanakotazmedom_01-1.jpg",
+    "updated_at": "2020-12-10T14:52:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "536",
+            "millipercent": 100,
+            "vendor": "FA"
+        },
+        {
+            "name": "Black Honey",
+            "flavor_id": "370",
+            "millipercent": 900,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 200,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Pmnb",
+    "views": "1475",
+    "created_at": "2017-08-06",
+    "slug": "greek_yogurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/58715.jpg",
+    "total_flavoring": "4.2%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Chocolate Orange",
-  "description": "This is my take on those foil wrapped chocolate oranges. It is sweet with an orange top note and a chocolate undertone. Best after 5 days steep.",
-  "id": 38655,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38655/terrys-dark-chocolate-orange-7377201.jpg",
-  "updated_at": "2020-12-07T17:33:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Tahity",
-      "flavor_id": "555",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Blackblade",
-  "views": "1445",
-  "slug": "chocolate_orange",
-  "total_flavoring": "8.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chocolate Orange",
+    "description": "This is my take on those foil wrapped chocolate oranges. It is sweet with an orange top note and a chocolate undertone. Best after 5 days steep.",
+    "id": 38655,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/38655\/terrys-dark-chocolate-orange-7377201.jpg",
+    "updated_at": "2020-12-11T14:07:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Tahity",
+            "flavor_id": "555",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Blackblade",
+    "views": "1453",
+    "created_at": "2017-03-27",
+    "slug": "chocolate_orange",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/38655.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

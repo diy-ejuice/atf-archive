@@ -1,62 +1,62 @@
 {
-  "name": "Posh Pudding",
-  "description": "##Posh Pudding##\r\nMy version of Southern Cuisine combined at its finest.  Corn Bread and Butter Pecan's, combine together to make the best of Southern Cuisine, **Posh Pudding**.  \r\n\r\nThis is using Fresh03 custard base and One on One Cornbread with Cap 27 to help with the texture.  One on One Butter Pecan is used, it has a very authentic pecan taste.  To add to the taste, I use FW Salted Caramel and Butterscotch.  \r\n\r\nJust Yummy  \r\n\r\n",
-  "id": 130469,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130469/9C7AFEC6-196D-4B87-819C-79A943105765.jpeg",
-  "updated_at": "2020-12-07T22:33:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1720",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "TamVapes",
-  "views": "1466",
-  "slug": "posh_pudding",
-  "total_flavoring": "13.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Posh Pudding",
+    "description": "##Posh Pudding##\r\nMy version of Southern Cuisine combined at its finest.  Corn Bread and Butter Pecan's, combine together to make the best of Southern Cuisine, **Posh Pudding**.  \r\n\r\nThis is using Fresh03 custard base and One on One Cornbread with Cap 27 to help with the texture.  One on One Butter Pecan is used, it has a very authentic pecan taste.  To add to the taste, I use FW Salted Caramel and Butterscotch.  \r\n\r\nJust Yummy  \r\n\r\n",
+    "id": 130469,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130469\/9C7AFEC6-196D-4B87-819C-79A943105765.jpeg",
+    "updated_at": "2020-12-12T15:40:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1720",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "TamVapes",
+    "views": "1476",
+    "created_at": "2018-12-07",
+    "slug": "posh_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130469.jpeg",
+    "total_flavoring": "13.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

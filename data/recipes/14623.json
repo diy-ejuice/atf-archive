@@ -1,39 +1,41 @@
 {
-  "name": "The Doctor Said",
-  "description": "Here's a simple, light, and refreshing coconut-lime, reminiscent of Ocean Water. It has the magical ability to ease hangovers. *1\r\n \r\nSteep: Three days required for the lime to calm down. Longer = creamier coconut and smoother finish. \r\n\r\nKoolada: Absolutely. Stick as much as you like in there. \r\n\r\n\r\n*1 This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.",
-  "id": 14623,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14623/The_Doctor_Says.jpg",
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut",
-      "flavor_id": "650",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lime Tahity Distilled",
-      "flavor_id": "415",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "4383",
-  "slug": "the_doctor_said",
-  "total_flavoring": "2.25%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "wh1skeyk1ng",
-      "score": "5",
-      "text": "I made a batch of this and felt like I should be adding more flavor.  It doesn't need anything else though, the percentages are well utilized here.  FA Lime distilled really carries a much stronger and lingering lime taste than FA lime cold-pressed, not sure why I waited so long to add it to my arsenal.  Great simple and quick recipe.  I enjoyed it after an overnight steep, although it does smooth out a lot given the recommended steep time."
-    }
-  ]
+    "name": "The Doctor Said",
+    "description": "Here's a simple, light, and refreshing coconut-lime, reminiscent of Ocean Water. It has the magical ability to ease hangovers. *1\r\n \r\nSteep: Three days required for the lime to calm down. Longer = creamier coconut and smoother finish. \r\n\r\nKoolada: Absolutely. Stick as much as you like in there. \r\n\r\n\r\n*1 This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+    "id": 14623,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14623\/The_Doctor_Says.jpg",
+    "updated_at": "2020-12-12T14:04:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut",
+            "flavor_id": "650",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lime Tahity Distilled",
+            "flavor_id": "415",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "4396",
+    "created_at": "2016-09-28",
+    "slug": "the_doctor_said",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14623.jpg",
+    "total_flavoring": "2.25%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "wh1skeyk1ng",
+            "score": 5,
+            "text": "I made a batch of this and felt like I should be adding more flavor.  It doesn't need anything else though, the percentages are well utilized here.  FA Lime distilled really carries a much stronger and lingering lime taste than FA lime cold-pressed, not sure why I waited so long to add it to my arsenal.  Great simple and quick recipe.  I enjoyed it after an overnight steep, although it does smooth out a lot given the recommended steep time."
+        }
+    ]
 }

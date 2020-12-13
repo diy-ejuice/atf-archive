@@ -1,50 +1,50 @@
 {
-  "name": "Lemon Meringue Cake",
-  "description": "Imagine a sponge lemon cake glaced with meringue, that's it. Nothing more. \r\nIMO it's damn accurate, and very balanced..\r\n\r\nNotes : \r\n\r\nLemon : FA and CAP make the perfect combo, FA for the tart, CAP for the juiciness.\r\n\r\nMeringue : FA's, as we all know, is the best on the market, Accurate as F###\r\n\r\nCake : For lemon recipes, Nona's was an obvious choice.\r\n\r\nSugar : You can sub FLV by Cap SS at 0.1  , be careful if you add to much sugar (CAP or FLV) you will loose the balance.\r\n\r\nIMPORTANT : This mix absolutly needs 3 weeks of steeping, less than that and you'll have chemical lemon notes and non-existent cake..\r\n",
-  "id": 92605,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92605/Capture_d_e_cran_2018-03-16_a__18.38.50.png",
-  "updated_at": "2020-12-08T00:50:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 350,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Strobcore",
-  "views": "2236",
-  "slug": "lemon_meringue_cake",
-  "total_flavoring": "8.65%",
-  "steep_days": "20",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Meringue Cake",
+    "description": "Imagine a sponge lemon cake glaced with meringue, that's it. Nothing more. \r\nIMO it's damn accurate, and very balanced..\r\n\r\nNotes : \r\n\r\nLemon : FA and CAP make the perfect combo, FA for the tart, CAP for the juiciness.\r\n\r\nMeringue : FA's, as we all know, is the best on the market, Accurate as F###\r\n\r\nCake : For lemon recipes, Nona's was an obvious choice.\r\n\r\nSugar : You can sub FLV by Cap SS at 0.1  , be careful if you add to much sugar (CAP or FLV) you will loose the balance.\r\n\r\nIMPORTANT : This mix absolutly needs 3 weeks of steeping, less than that and you'll have chemical lemon notes and non-existent cake..\r\n",
+    "id": 92605,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92605\/Capture_d_e_cran_2018-03-16_a__18.38.50.png",
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 350,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Strobcore",
+    "views": "2243",
+    "created_at": "2018-03-16",
+    "slug": "lemon_meringue_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92605.png",
+    "total_flavoring": "8.65%",
+    "steep_days": "20",
+    "best_vg": "0%",
+    "temperature": "0"
 }

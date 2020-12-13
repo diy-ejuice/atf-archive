@@ -1,91 +1,93 @@
 {
-  "name": "Yogi Tropico",
-  "description": "This recipe starts with a yogurt base.  For this we took @EdibleMalfunction yogurt base and cut it in half.  It was a bit too strong for this.  I was going for a tropical smoothie.  Inw Pineapple adds the fresh pineapple and the Cap pineapple give that more canned pineapple taste, combined they are pineapple magic.  FA Kiwi just fit and I really wanted a Kiwi Pineapple smoothie.  The TPA marshmallow adds a touch of sweetness and fluffs this up to make it a bit more smoothie like.  Coconut accent and a light WS-23 really makes the yogurt/smoothie pop.  Shout out to @eyemakepizza for encouraging me to mix this and the DIY_eJuice discord to get me mixing more often!",
-  "id": 145091,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145091/yogi.jpg",
-  "updated_at": "2020-12-08T00:50:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "7255",
-      "millipercent": 250,
-      "vendor": "JF"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 250,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "5489",
-  "slug": "yogi_tropico",
-  "total_flavoring": "10.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Love it. Cool tropical fruit topped yogurt, all day. I can't really tell what sort of tropical fruit this is supposed to be, probably because of the stupid long steep this got before I got around to trying it (oops), but it's clearly tropical, sweet, and tangy. The up front touch of coolant is delightful. Personally, I've never been a real fan of yogurt vapes, because... hot yogurt? I mean, yuck. But the cooling makes that sour dairy enjoyable. It prepares the palate, but still leaves room for fruit and then that yogurt, which is authentic and has a super silky mouthfeel. This is a winner, thank you!"
-    },
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "This is most assuredly a tropical yogurt. Even having no clue what was going on, the yogurt, pineapple and coconut were vibrantly there, skirting suntan lotion territory. The vague can't place it taste makes sense that it's kiwi. Never really had one, so. I can confirm that i can taste the vanilla, and there's a good, rich mouthfeel. Like the extra touch of ws-23 to bring that cooling sensation. I actually like it in there.&#xD;\n&#xD;\nDid not realize I liked kiwi. Huh."
-    },
-    {
-      "user": "eyemakepizza",
-      "score": "5",
-      "text": "This is an awesome Tropical Yogurt. The pineapple blend plays off the kiwi so well and its splashed into an always lovely chilled yogurt. It's a super refreshing, perfect warm weather juice."
-    }
-  ]
+    "name": "Yogi Tropico",
+    "description": "This recipe starts with a yogurt base.  For this we took @EdibleMalfunction yogurt base and cut it in half.  It was a bit too strong for this.  I was going for a tropical smoothie.  Inw Pineapple adds the fresh pineapple and the Cap pineapple give that more canned pineapple taste, combined they are pineapple magic.  FA Kiwi just fit and I really wanted a Kiwi Pineapple smoothie.  The TPA marshmallow adds a touch of sweetness and fluffs this up to make it a bit more smoothie like.  Coconut accent and a light WS-23 really makes the yogurt\/smoothie pop.  Shout out to @eyemakepizza for encouraging me to mix this and the DIY_eJuice discord to get me mixing more often!",
+    "id": 145091,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145091\/yogi.jpg",
+    "updated_at": "2020-12-12T14:07:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "7255",
+            "millipercent": 250,
+            "vendor": "JF"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 250,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "5496",
+    "created_at": "2019-03-30",
+    "slug": "yogi_tropico",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145091.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Love it. Cool tropical fruit topped yogurt, all day. I can't really tell what sort of tropical fruit this is supposed to be, probably because of the stupid long steep this got before I got around to trying it (oops), but it's clearly tropical, sweet, and tangy. The up front touch of coolant is delightful. Personally, I've never been a real fan of yogurt vapes, because... hot yogurt? I mean, yuck. But the cooling makes that sour dairy enjoyable. It prepares the palate, but still leaves room for fruit and then that yogurt, which is authentic and has a super silky mouthfeel. This is a winner, thank you!"
+        },
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "This is most assuredly a tropical yogurt. Even having no clue what was going on, the yogurt, pineapple and coconut were vibrantly there, skirting suntan lotion territory. The vague can't place it taste makes sense that it's kiwi. Never really had one, so. I can confirm that i can taste the vanilla, and there's a good, rich mouthfeel. Like the extra touch of ws-23 to bring that cooling sensation. I actually like it in there.&#xD;\n&#xD;\nDid not realize I liked kiwi. Huh."
+        },
+        {
+            "user": "eyemakepizza",
+            "score": 5,
+            "text": "This is an awesome Tropical Yogurt. The pineapple blend plays off the kiwi so well and its splashed into an always lovely chilled yogurt. It's a super refreshing, perfect warm weather juice."
+        }
+    ]
 }

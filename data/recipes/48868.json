@@ -1,73 +1,74 @@
 {
-  "name": "Razzler",
-  "description": "I wanted to create something fresh for the summertime with this one. I decided to start with the base flavor of Raspberry and work with some of its flavor affinities. Enter CAP Lemon Lime, a flavor I've had for awhile but have barely used. That's going to change now. It gives the mix a very nice juicy citrus profile. More lime than lemon with that flavor, but for its place in this recipe, that's a good thing. I decided to go with a third affinity for Raspberry, and that is Blackcurrant. FA Blackcurrant, in my opinion is the one and only Blackcurrant flavor you'll ever need. It also serves to deepen the Raspberry. Depending on how fresh your bottle of Lemon-Lime is, due to the alcohol, this is good as a SnV or overnight steep.",
-  "id": 48868,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 400,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2432",
-  "slug": "razzler",
-  "total_flavoring": "8.15%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "Really like this juice. It's not heavy handed or complicated. Refreshing and light for summer. Berries up front and lemon lime in the back. Love it. "
-    },
-    {
-      "user": "MediocreVibes",
-      "score": "3",
-      "text": "It is interesting. A bit chemical in taste. I'll update review after the recommended steep.&#xD;\n&#xD;\nUpdate: 3-star rating stays. It's interesting but the flavors don't agree with me."
-    },
-    {
-      "user": "Flexmaster_Kermit",
-      "score": "4",
-      "text": "I really liked this recipe, man... I don't know what the profile that you were trying to hit was, but immediately my head went to candy, and I added just a touch of TFA Gummy Candy and CAP Super Sweet. Bomb recipe... Keep up the great work!"
-    }
-  ]
+    "name": "Razzler",
+    "description": "I wanted to create something fresh for the summertime with this one. I decided to start with the base flavor of Raspberry and work with some of its flavor affinities. Enter CAP Lemon Lime, a flavor I've had for awhile but have barely used. That's going to change now. It gives the mix a very nice juicy citrus profile. More lime than lemon with that flavor, but for its place in this recipe, that's a good thing. I decided to go with a third affinity for Raspberry, and that is Blackcurrant. FA Blackcurrant, in my opinion is the one and only Blackcurrant flavor you'll ever need. It also serves to deepen the Raspberry. Depending on how fresh your bottle of Lemon-Lime is, due to the alcohol, this is good as a SnV or overnight steep.",
+    "id": 48868,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:39:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 400,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2440",
+    "created_at": "2017-06-02",
+    "slug": "razzler",
+    "total_flavoring": "8.15%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "Really like this juice. It's not heavy handed or complicated. Refreshing and light for summer. Berries up front and lemon lime in the back. Love it. "
+        },
+        {
+            "user": "MediocreVibes",
+            "score": 3,
+            "text": "It is interesting. A bit chemical in taste. I'll update review after the recommended steep.&#xD;\n&#xD;\nUpdate: 3-star rating stays. It's interesting but the flavors don't agree with me."
+        },
+        {
+            "user": "Flexmaster_Kermit",
+            "score": 4,
+            "text": "I really liked this recipe, man... I don't know what the profile that you were trying to hit was, but immediately my head went to candy, and I added just a touch of TFA Gummy Candy and CAP Super Sweet. Bomb recipe... Keep up the great work!"
+        }
+    ]
 }

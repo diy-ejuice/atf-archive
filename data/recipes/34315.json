@@ -1,44 +1,43 @@
 {
-  "name": "Aide",
-  "description": "I tried a few different cherries here, most notably TFA Black Cherry, FA Black Cherry, and INW Cherries. Wild Cherry by CAP ended up being the one to go for in this case. Yes, it does have stevia. I know. It's sweet. I know. How do we fix that...\r\n\r\n\r\n... With INW Lime. This stuff is the bomb. I love it. It's in-your-face lime action. It's like someone loaded their shot shells with chunks of fresh lime and blasted you in the face with it. It's damn good. This together with the CAP Wild Cherry creates a nice balance of sweet and tart to our mix. Just remember that a little goes a long way, as with most of Inawera's flavors. 1.5% is PLENTY of lime, and, honestly, some people have said it's over limey. Those people aren't me, though, and I love me some lime.\r\n\r\n\r\nNow. We have the cherry. We have the lime. We need the ade. INW Cactus will help with that. Used here at .5%, it make the juice... Juicy. It's a commonly known additive, and it works great here. The TFA Dragonfruit at .5% is used to bring the lime and cherry together. Again, common knowledge, but important nonetheless.\r\n",
-  "id": 34315,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:35:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "662",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Wild Cherry With Stevia",
-      "flavor_id": "134",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SleepersDemon",
-  "views": "971",
-  "slug": "aide",
-  "total_flavoring": "8.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Aide",
+    "description": "I tried a few different cherries here, most notably TFA Black Cherry, FA Black Cherry, and INW Cherries. Wild Cherry by CAP ended up being the one to go for in this case. Yes, it does have stevia. I know. It's sweet. I know. How do we fix that...\r\n\r\n\r\n... With INW Lime. This stuff is the bomb. I love it. It's in-your-face lime action. It's like someone loaded their shot shells with chunks of fresh lime and blasted you in the face with it. It's damn good. This together with the CAP Wild Cherry creates a nice balance of sweet and tart to our mix. Just remember that a little goes a long way, as with most of Inawera's flavors. 1.5% is PLENTY of lime, and, honestly, some people have said it's over limey. Those people aren't me, though, and I love me some lime.\r\n\r\n\r\nNow. We have the cherry. We have the lime. We need the ade. INW Cactus will help with that. Used here at .5%, it make the juice... Juicy. It's a commonly known additive, and it works great here. The TFA Dragonfruit at .5% is used to bring the lime and cherry together. Again, common knowledge, but important nonetheless.\r\n",
+    "id": 34315,
+    "image_url": null,
+    "updated_at": "2020-12-11T17:19:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "662",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Wild Cherry With Stevia",
+            "flavor_id": "134",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SleepersDemon",
+    "views": "982",
+    "created_at": "2017-02-28",
+    "slug": "aide",
+    "total_flavoring": "8.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

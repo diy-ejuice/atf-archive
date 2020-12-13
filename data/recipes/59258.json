@@ -1,62 +1,62 @@
 {
-  "name": "Mr Churro",
-  "description": "Mr Churro, fried doughnut, caramel, creamy, one of my personal favourite mixes, its just amazing!!",
-  "id": 59258,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59258/Churro.jpg",
-  "updated_at": "2020-12-05T23:54:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Churro",
-      "flavor_id": "4168",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "160",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MesterWard",
-  "views": "2566",
-  "slug": "mr_churro",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mr Churro",
+    "description": "Mr Churro, fried doughnut, caramel, creamy, one of my personal favourite mixes, its just amazing!!",
+    "id": 59258,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/59258\/Churro.jpg",
+    "updated_at": "2020-12-10T23:32:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Churro",
+            "flavor_id": "4168",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "160",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MesterWard",
+    "views": "2571",
+    "created_at": "2017-08-10",
+    "slug": "mr_churro",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/59258.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,68 +1,70 @@
 {
-  "name": "Not another tobacco vape",
-  "description": "My first attempt at a tobacco recipe. The Kentucky Blend is strong and hearty and is in the forefront off the shake. The RY4 and vanilla round it out.",
-  "id": 119356,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/119356/tobacco.jpg",
-  "updated_at": "2020-12-08T00:50:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "HOLY HOLY GRAIL RY4",
-      "flavor_id": "5037",
-      "millipercent": 4500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pistachio",
-      "flavor_id": "3520",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 600,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Daytimefrank1",
-  "views": "2622",
-  "slug": "not_another_tobacco_vape",
-  "total_flavoring": "9.85%",
-  "steep_days": "14",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Deetzz",
-      "score": "5",
-      "text": "Well crafted recipe and a selection of some of my favorites blended very well, That pistachio puts another level on this tobacco! Thanks for this one Frank, I Laak it Alot!!"
-    },
-    {
-      "user": "Slushy",
-      "score": "5",
-      "text": "Looks like a good take on Charlie's pistachio ry4 nice"
-    }
-  ]
+    "name": "Not another tobacco vape",
+    "description": "My first attempt at a tobacco recipe. The Kentucky Blend is strong and hearty and is in the forefront off the shake. The RY4 and vanilla round it out.",
+    "id": 119356,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/119356\/tobacco.jpg",
+    "updated_at": "2020-12-12T11:52:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "HOLY HOLY GRAIL RY4",
+            "flavor_id": "5037",
+            "millipercent": 4500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pistachio",
+            "flavor_id": "3520",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 600,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Daytimefrank1",
+    "views": "2633",
+    "created_at": "2018-09-16",
+    "slug": "not_another_tobacco_vape",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/119356.jpg",
+    "total_flavoring": "9.85%",
+    "steep_days": "14",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Deetzz",
+            "score": 5,
+            "text": "Well crafted recipe and a selection of some of my favorites blended very well, That pistachio puts another level on this tobacco! Thanks for this one Frank, I Laak it Alot!!"
+        },
+        {
+            "user": "Slushy",
+            "score": 5,
+            "text": "Looks like a good take on Charlie's pistachio ry4 nice"
+        }
+    ]
 }

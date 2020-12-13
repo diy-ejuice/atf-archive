@@ -1,68 +1,70 @@
 {
-  "name": "Caramel Custard Crisp",
-  "description": "My take on a Caramel Custard.\r\nA Rich Creamy Caramel vape with a slight cookie finish. This one is smooth and heavy on the tongue.\r\nFA Caramel is one of the best caramel flavors in the business. It is not a complete caramel flavor, but with help it was the right one. FW Butterscotch Ripple added rounds out the the caramel and gives it some creaminess. INW Custard adds to the creaminess, further rounds out the caramel a bit more, and gives the mix more weight. It also does not necessarily require a long steep, but it does get better over time. INW Biscuit puts in that gritty cookie background. FW Butter Pecan adds a slight nutty note. Sweetener as with most mixes is optional, but PUR Super Sweet at 0.25% gives a perfect overall sweetness. CAP’s version can be used at the same percentage. Just follow the recipe and use CAP instead. To me PUR’s Super Sweet is a cleaner tasting sweetener.\r\nThis can definitely go off the shake but starts to take shape after a week. The Biscuit gets better and the caramel creams start to melt together. The longer is goes the better it gets. Around three weeks it starts to peak.\r\nEDITED to 1% Biscuit per SlashaLO’s recommendation which was spot on.👍🏻👍🏻",
-  "id": 93761,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/93761/PicsArt_03-24-02.22.12.jpg",
-  "updated_at": "2020-12-08T00:50:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 250,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "carolinavapen",
-  "views": "3705",
-  "slug": "caramel_custard_crisp",
-  "total_flavoring": "6.75%",
-  "steep_days": "21 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "SlashaLO",
-      "score": "4",
-      "text": "I would have to say I really enjoyed this mix. I personally LOVE butter pecan, so thats a huge bonus. I feel that the cookie finish is TOO light here for my taste. I had to search for it. I think the carmel/ripple/pecan combo overpowered it too much. I think next time I mix this one up, I'm going to go for 1% biscuit, and for my taste I feel it will be perfect. Very thick, dense, and smooth vape. Great job. "
-    },
-    {
-      "user": "nks",
-      "score": "5",
-      "text": "lately i have been trying to rate every recipe i mix on atf.this one tastes great,it is smooth and creamy and i really don't think it needs 3 weeks steeping(or at least it will not change that much between 2nd and 3rd week).congrats and thanks for sharing"
-    }
-  ]
+    "name": "Caramel Custard Crisp",
+    "description": "My take on a Caramel Custard.\r\nA Rich Creamy Caramel vape with a slight cookie finish. This one is smooth and heavy on the tongue.\r\nFA Caramel is one of the best caramel flavors in the business. It is not a complete caramel flavor, but with help it was the right one. FW Butterscotch Ripple added rounds out the the caramel and gives it some creaminess. INW Custard adds to the creaminess, further rounds out the caramel a bit more, and gives the mix more weight. It also does not necessarily require a long steep, but it does get better over time. INW Biscuit puts in that gritty cookie background. FW Butter Pecan adds a slight nutty note. Sweetener as with most mixes is optional, but PUR Super Sweet at 0.25% gives a perfect overall sweetness. CAP\u2019s version can be used at the same percentage. Just follow the recipe and use CAP instead. To me PUR\u2019s Super Sweet is a cleaner tasting sweetener.\r\nThis can definitely go off the shake but starts to take shape after a week. The Biscuit gets better and the caramel creams start to melt together. The longer is goes the better it gets. Around three weeks it starts to peak.\r\nEDITED to 1% Biscuit per SlashaLO\u2019s recommendation which was spot on.\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+    "id": 93761,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/93761\/PicsArt_03-24-02.22.12.jpg",
+    "updated_at": "2020-12-12T11:51:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 250,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "carolinavapen",
+    "views": "3713",
+    "created_at": "2018-03-24",
+    "slug": "caramel_custard_crisp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/93761.jpg",
+    "total_flavoring": "6.75%",
+    "steep_days": "21 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SlashaLO",
+            "score": 4,
+            "text": "I would have to say I really enjoyed this mix. I personally LOVE butter pecan, so thats a huge bonus. I feel that the cookie finish is TOO light here for my taste. I had to search for it. I think the carmel\/ripple\/pecan combo overpowered it too much. I think next time I mix this one up, I'm going to go for 1% biscuit, and for my taste I feel it will be perfect. Very thick, dense, and smooth vape. Great job. "
+        },
+        {
+            "user": "nks",
+            "score": 5,
+            "text": "lately i have been trying to rate every recipe i mix on atf.this one tastes great,it is smooth and creamy and i really don't think it needs 3 weeks steeping(or at least it will not change that much between 2nd and 3rd week).congrats and thanks for sharing"
+        }
+    ]
 }

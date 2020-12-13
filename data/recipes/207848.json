@@ -1,62 +1,62 @@
 {
-  "name": "Its so Fluffy",
-  "description": "NOTE: TFA STRAWBERRY RIPE = SSA RIPE STRAWBERRIES\r\nLB VANILLA ICE CREAM = SSA ICE CREAM VANILLA\r\n\r\nThis is a sweet fluffy strawberry cake, using WF Fluffy White Cake as the main base i find its accurate to the profile and packs plenty of puch at this %. SSA Ice Cream Vanilla helps lift the cake by providing some bright vanilla and dairy notes whilst WF Butter Cream Frosting bring in some sweet icing and buttery notes to the cake - Marshmallow vanilla works its magic by some what helping to bind it all together i find, rounds the edges and adds to the fluffy mouthfeel.\r\nThe strawberry combo here is pretty awesome - WF Juicy strawberry needs no intro and SSA Strawberry ripe is very bright and lifts the whole profile to a fluffy strawberry cake.",
-  "id": 207848,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207848/7eb15c9bf6f8122ca51e5ad471dd7b61.jpg",
-  "updated_at": "2020-12-06T20:46:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 3500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Marshmallow Vanilla",
-      "flavor_id": "10092",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Strawberry (Juicy) SC",
-      "flavor_id": "10412",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "BRDZ",
-  "views": "863",
-  "slug": "its_so_fluffy",
-  "total_flavoring": "13.0%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Its so Fluffy",
+    "description": "NOTE: TFA STRAWBERRY RIPE = SSA RIPE STRAWBERRIES\r\nLB VANILLA ICE CREAM = SSA ICE CREAM VANILLA\r\n\r\nThis is a sweet fluffy strawberry cake, using WF Fluffy White Cake as the main base i find its accurate to the profile and packs plenty of puch at this %. SSA Ice Cream Vanilla helps lift the cake by providing some bright vanilla and dairy notes whilst WF Butter Cream Frosting bring in some sweet icing and buttery notes to the cake - Marshmallow vanilla works its magic by some what helping to bind it all together i find, rounds the edges and adds to the fluffy mouthfeel.\r\nThe strawberry combo here is pretty awesome - WF Juicy strawberry needs no intro and SSA Strawberry ripe is very bright and lifts the whole profile to a fluffy strawberry cake.",
+    "id": 207848,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207848\/7eb15c9bf6f8122ca51e5ad471dd7b61.jpg",
+    "updated_at": "2020-12-12T17:13:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 3500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Marshmallow Vanilla",
+            "flavor_id": "10092",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Strawberry (Juicy) SC",
+            "flavor_id": "10412",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "BRDZ",
+    "views": "875",
+    "created_at": "2020-11-02",
+    "slug": "its_so_fluffy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207848.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

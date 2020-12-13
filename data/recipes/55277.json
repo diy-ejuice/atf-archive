@@ -1,57 +1,59 @@
 {
-  "name": "King Berry The Blue",
-  "description": "Simple blueberry vape. Also a great blueberry base for other recipes. Cheers!",
-  "id": 55277,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55277/024869-blue-jelly-icon-culture-crown5-king.png",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Div",
-  "views": "1547",
-  "slug": "king_berry_the_blue",
-  "total_flavoring": "14.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "Very bright, vibrant blueberry mix.  I'm dropping the super sweet to half a percent next time I mix though.  Still...mighty tasty"
-    }
-  ]
+    "name": "King Berry The Blue",
+    "description": "Simple blueberry vape. Also a great blueberry base for other recipes. Cheers!",
+    "id": 55277,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/55277\/024869-blue-jelly-icon-culture-crown5-king.png",
+    "updated_at": "2020-12-12T18:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Div",
+    "views": "1553",
+    "created_at": "2017-07-12",
+    "slug": "king_berry_the_blue",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/55277.png",
+    "total_flavoring": "14.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "Very bright, vibrant blueberry mix.  I'm dropping the super sweet to half a percent next time I mix though.  Still...mighty tasty"
+        }
+    ]
 }

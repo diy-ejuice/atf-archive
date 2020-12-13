@@ -1,75 +1,77 @@
 {
-  "name": "Java Cigar",
-  "description": "Ever had a rocky patel cigar by Drew Estates well I believe you will like this one. It needs 3-4 weeks steep but was really good as an S&V",
-  "id": 32549,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32549/cigar.jpg",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Soho",
-      "flavor_id": "413",
-      "millipercent": 6000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cocoa",
-      "flavor_id": "496",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tobacco Coffee Paradise",
-      "flavor_id": "860",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Oak Wood",
-      "flavor_id": "470",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla For Pipe",
-      "flavor_id": "886",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Classic For Pipe Dark",
-      "flavor_id": "766",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "GotxFuel",
-  "views": "1999",
-  "slug": "java_cigar",
-  "total_flavoring": "14.5%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JTHerman",
-      "score": "5",
-      "text": "Well done! This is a great mix. Cocoa, tobacco, and vanilla are all nicely balanced, nothing over the top. The overall flavor is medium strong, and there’s a mild smokiness to it. The second time I mixed it I added 0.75% FA Walnut, which I find to go very well with it. Most of the mixes I vape are tobaccos, and this is one of the best."
-    }
-  ]
+    "name": "Java Cigar",
+    "description": "Ever had a rocky patel cigar by Drew Estates well I believe you will like this one. It needs 3-4 weeks steep but was really good as an S&V",
+    "id": 32549,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32549\/cigar.jpg",
+    "updated_at": "2020-12-12T20:28:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Soho",
+            "flavor_id": "413",
+            "millipercent": 6000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cocoa",
+            "flavor_id": "496",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tobacco Coffee Paradise",
+            "flavor_id": "860",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Oak Wood",
+            "flavor_id": "470",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla For Pipe",
+            "flavor_id": "886",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Classic For Pipe Dark",
+            "flavor_id": "766",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "GotxFuel",
+    "views": "2013",
+    "created_at": "2017-02-17",
+    "slug": "java_cigar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32549.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JTHerman",
+            "score": 5,
+            "text": "Well done! This is a great mix. Cocoa, tobacco, and vanilla are all nicely balanced, nothing over the top. The overall flavor is medium strong, and there\u2019s a mild smokiness to it. The second time I mixed it I added 0.75% FA Walnut, which I find to go very well with it. Most of the mixes I vape are tobaccos, and this is one of the best."
+        }
+    ]
 }

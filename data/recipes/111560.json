@@ -1,50 +1,49 @@
 {
-  "name": "Blue Raz slushy v1",
-  "description": "Was just messing around with some flavors and ended up making a Blue Raz slushy,w/o Koolada it tast more like a Blue Raz pixie stick ",
-  "id": 111560,
-  "image_url": null,
-  "updated_at": "2020-11-30T02:42:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raz",
-      "flavor_id": "2222",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet And Tart",
-      "flavor_id": "338",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Vaping-viking",
-  "views": "1573",
-  "slug": "blue_raz_slushy_v1",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Raz slushy v1",
+    "description": "Was just messing around with some flavors and ended up making a Blue Raz slushy,w\/o Koolada it tast more like a Blue Raz pixie stick ",
+    "id": 111560,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raz",
+            "flavor_id": "2222",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet And Tart",
+            "flavor_id": "338",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Vaping-viking",
+    "views": "1577",
+    "created_at": "2018-07-22",
+    "slug": "blue_raz_slushy_v1",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

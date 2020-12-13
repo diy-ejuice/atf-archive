@@ -1,69 +1,71 @@
 {
-  "name": "Crimson Cupcake",
-  "description": "This is my take on a Strawberry Cupcake, I really wanted to focus on the entire cupcake and not just certain parts of the profile. This Recipie does need some time to get its full potential of flavor. I reccomend 3-5 day steep. This is an ADV for me.",
-  "id": 40129,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/40129/0ee36f74077f3ae6e829e1cf103d6efc.jpg",
-  "updated_at": "2020-12-08T00:49:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 2000,
-      "vendor": "JF"
-    }
-  ],
-  "author": "ZestyVapes",
-  "views": "2193",
-  "slug": "crimson_cupcake",
-  "total_flavoring": "18.5%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Good recipe i steeped for 2 weeks to get more of a cream cheese note "
-    }
-  ]
+    "name": "Crimson Cupcake",
+    "description": "This is my take on a Strawberry Cupcake, I really wanted to focus on the entire cupcake and not just certain parts of the profile. This Recipie does need some time to get its full potential of flavor. I reccomend 3-5 day steep. This is an ADV for me.",
+    "id": 40129,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/40129\/0ee36f74077f3ae6e829e1cf103d6efc.jpg",
+    "updated_at": "2020-12-12T11:50:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 2000,
+            "vendor": "JF"
+        }
+    ],
+    "author": "ZestyVapes",
+    "views": "2200",
+    "created_at": "2017-04-07",
+    "slug": "crimson_cupcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/40129.jpg",
+    "total_flavoring": "18.5%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Good recipe i steeped for 2 weeks to get more of a cream cheese note "
+        }
+    ]
 }

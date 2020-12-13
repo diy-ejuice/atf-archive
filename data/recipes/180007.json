@@ -1,50 +1,49 @@
 {
-  "name": "Cool Antelope",
-  "description": "Top note of cantaloupe with some sweet/tart undertones from the pineapple and kiwi. Minty cool freshness can probably be added as per your own predilection. Very refreshing, very vapable.",
-  "id": 180007,
-  "image_url": null,
-  "updated_at": "2020-12-07T04:41:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "220",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DontTrustTheRabbit",
-  "views": "501",
-  "slug": "cool_antelope",
-  "total_flavoring": "9.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cool Antelope",
+    "description": "Top note of cantaloupe with some sweet\/tart undertones from the pineapple and kiwi. Minty cool freshness can probably be added as per your own predilection. Very refreshing, very vapable.",
+    "id": 180007,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:53:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "220",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DontTrustTheRabbit",
+    "views": "508",
+    "created_at": "2020-01-04",
+    "slug": "cool_antelope",
+    "total_flavoring": "9.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

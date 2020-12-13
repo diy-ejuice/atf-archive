@@ -1,69 +1,71 @@
 {
-  "name": "Bloghurt",
-  "description": "Fresh, Creamy, Blueberry Yoghurt.\r\nUtilising Manson/Skiddlz' yogurt base, so credit to them for that!\r\n\r\nI was very sceptical about using 4% FLV GY, that stuff smells gank; but oh boy does it taste good! It's thick and luxurious, excellent mouthfeel. Coupled with the FA FC/Yogurt it makes one of the best full bodied yoghurts in vaping.\r\nAdded a solid combo of Blueberries, a touch of Sucralose to round any sour edges and boost the blueberries and voila!\r\nI prefer this as a S&V, the Bilberry isn't as strong off the bat in this recipe, but if you find it strong just let it sit for a couple of days. \r\nEnjoy x\r\n",
-  "id": 54180,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54180/IMG_0360.JPG",
-  "updated_at": "2020-12-08T00:49:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "615",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SweetPoisonKim",
-  "views": "1651",
-  "slug": "bloghurt",
-  "total_flavoring": "12.8%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "lmhobbs",
-      "score": "4",
-      "text": "Just mixed a 60ml and I imagine it'll be gone before it gets a chance to steep :-) Great recipe even as a shake and vape. Not a big fan of sweeteners so I'll probably mix a batch without the Super Sweet and see how it is!"
-    }
-  ]
+    "name": "Bloghurt",
+    "description": "Fresh, Creamy, Blueberry Yoghurt.\r\nUtilising Manson\/Skiddlz' yogurt base, so credit to them for that!\r\n\r\nI was very sceptical about using 4% FLV GY, that stuff smells gank; but oh boy does it taste good! It's thick and luxurious, excellent mouthfeel. Coupled with the FA FC\/Yogurt it makes one of the best full bodied yoghurts in vaping.\r\nAdded a solid combo of Blueberries, a touch of Sucralose to round any sour edges and boost the blueberries and voila!\r\nI prefer this as a S&V, the Bilberry isn't as strong off the bat in this recipe, but if you find it strong just let it sit for a couple of days. \r\nEnjoy x\r\n",
+    "id": 54180,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54180\/IMG_0360.JPG",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "615",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SweetPoisonKim",
+    "views": "1655",
+    "created_at": "2017-07-06",
+    "slug": "bloghurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54180.JPG",
+    "total_flavoring": "12.8%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "lmhobbs",
+            "score": 4,
+            "text": "Just mixed a 60ml and I imagine it'll be gone before it gets a chance to steep :-) Great recipe even as a shake and vape. Not a big fan of sweeteners so I'll probably mix a batch without the Super Sweet and see how it is!"
+        }
+    ]
 }

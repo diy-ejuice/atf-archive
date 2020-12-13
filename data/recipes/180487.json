@@ -1,44 +1,43 @@
 {
-  "name": "Blue Banana",
-  "description": "This is a recipe that aims to do what I did with Blue Mango, except with a banana.\r\n\r\n",
-  "id": 180487,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:21:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "8840",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "1804",
-  "slug": "blue_banana",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Banana",
+    "description": "This is a recipe that aims to do what I did with Blue Mango, except with a banana.\r\n\r\n",
+    "id": 180487,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:53:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "8840",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "1812",
+    "created_at": "2020-01-08",
+    "slug": "blue_banana",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

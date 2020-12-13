@@ -1,74 +1,76 @@
 {
-  "name": "Phucker Cookies",
-  "description": "I wanted to mix INW Cactus into CAP sugar cookie and make something tasty. After quite a bit of work, I managed to create a warm, soft, cactus cookie with a sugar glaze. Full recipe notes here: https://www.reddit.com/r/DIY_eJuice/comments/5rybyl/phucker_cookies/\r\nThis balancing act requires some patience, so give it 10-14 days to steep.",
-  "id": 28251,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28251/cookie.jpg",
-  "updated_at": "2020-12-08T00:49:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Philosaphucker",
-  "views": "2897",
-  "slug": "phucker_cookies",
-  "total_flavoring": "8.75%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "I knew this was going to be good when I got to sample an earlier version with slightly more or less of one ingredient. Finally got around to trying the final version. Wow! I can't believe this Phucker pulled off a Cactus Cookie! "
-    },
-    {
-      "user": "HerrHut",
-      "score": "5",
-      "text": "Wow. I'm testing this every day since I mixed it. It slowly developed from \"Yuk\" over \"That's interesting\" to \"10 days he wrote, put it down\". I'm on day 7 now. How will this continue? How is this possible? Witchcraft?"
-    }
-  ]
+    "name": "Phucker Cookies",
+    "description": "I wanted to mix INW Cactus into CAP sugar cookie and make something tasty. After quite a bit of work, I managed to create a warm, soft, cactus cookie with a sugar glaze. Full recipe notes here: https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/5rybyl\/phucker_cookies\/\r\nThis balancing act requires some patience, so give it 10-14 days to steep.",
+    "id": 28251,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/28251\/cookie.jpg",
+    "updated_at": "2020-12-12T18:29:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Philosaphucker",
+    "views": "2908",
+    "created_at": "2017-01-22",
+    "slug": "phucker_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/28251.jpg",
+    "total_flavoring": "8.75%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "I knew this was going to be good when I got to sample an earlier version with slightly more or less of one ingredient. Finally got around to trying the final version. Wow! I can't believe this Phucker pulled off a Cactus Cookie! "
+        },
+        {
+            "user": "HerrHut",
+            "score": 5,
+            "text": "Wow. I'm testing this every day since I mixed it. It slowly developed from \"Yuk\" over \"That's interesting\" to \"10 days he wrote, put it down\". I'm on day 7 now. How will this continue? How is this possible? Witchcraft?"
+        }
+    ]
 }

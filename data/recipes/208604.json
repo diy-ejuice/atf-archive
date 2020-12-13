@@ -1,69 +1,71 @@
 {
-  "name": "Monkey D. Luffy",
-  "description": "A tropical gummy candy.\r\n\r\n*FA Coco = SSA Ripe Coconut*\r\n\r\nWF Tropical Gummy Candy is just a guava gummy.\r\n\r\nFLV Pink Guava for a little sharpness\r\n\r\nFLV Pineapple to add another layer and wetness.\r\n\r\nCAP 27 Bears for texture and to reinforce the pineapple.\r\n\r\nSSA Ripe Coconut for warmth and a little creaminess.\r\n\r\nTFA Marshmallow to help bind everything together.",
-  "id": 208604,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/208604/040B0EBA-82FA-470D-A99D-A8290B486548.jpeg",
-  "updated_at": "2020-12-08T00:51:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tropical Gummy Candy SC",
-      "flavor_id": "10558",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "4428",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "407",
-  "slug": "monkey_d_luffy",
-  "total_flavoring": "8.3%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Untitled",
-      "score": "5",
-      "text": "5 stars cuz it's the Pirate King! "
-    }
-  ]
+    "name": "Monkey D. Luffy",
+    "description": "A tropical gummy candy.\r\n\r\n*FA Coco = SSA Ripe Coconut*\r\n\r\nWF Tropical Gummy Candy is just a guava gummy.\r\n\r\nFLV Pink Guava for a little sharpness\r\n\r\nFLV Pineapple to add another layer and wetness.\r\n\r\nCAP 27 Bears for texture and to reinforce the pineapple.\r\n\r\nSSA Ripe Coconut for warmth and a little creaminess.\r\n\r\nTFA Marshmallow to help bind everything together.",
+    "id": 208604,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/208604\/040B0EBA-82FA-470D-A99D-A8290B486548.jpeg",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tropical Gummy Candy SC",
+            "flavor_id": "10558",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "4428",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "422",
+    "created_at": "2020-11-19",
+    "slug": "monkey_d_luffy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/208604.jpeg",
+    "total_flavoring": "8.3%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Untitled",
+            "score": 5,
+            "text": "5 stars cuz it's the Pirate King! "
+        }
+    ]
 }

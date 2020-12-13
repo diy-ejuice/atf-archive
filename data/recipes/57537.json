@@ -1,62 +1,61 @@
 {
-  "name": "Fried Banana by SkiddlZ",
-  "description": "Caramelized, fried banana, made for the charity stream. Ten words",
-  "id": 57537,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:07:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel",
-      "flavor_id": "612",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cherimoya (yc)",
-      "flavor_id": "738",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "1642",
-  "slug": "fried_banana_by_skiddlz",
-  "total_flavoring": "4.8%",
-  "steep_days": "9000 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fried Banana by SkiddlZ",
+    "description": "Caramelized, fried banana, made for the charity stream. Ten words",
+    "id": 57537,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel",
+            "flavor_id": "612",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cherimoya (yc)",
+            "flavor_id": "738",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "1646",
+    "created_at": "2017-07-29",
+    "slug": "fried_banana_by_skiddlz",
+    "total_flavoring": "4.8%",
+    "steep_days": "9000 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,44 +1,43 @@
 {
-  "name": "Berry Allen",
-  "description": "A sweet and soft Berry mix that's under progress. None of the berries are sticking out too much but you can taste each ingredient individually. It still needs some adjustments to get it perfect but it's good enough for me to be hooked on. It's best for me as an evening treat when you relax infront of a good show or a long gaming session, as an ADV it's a little too sweet for me but if you like sweet mixes all day then you might like it as an ADV aswell\r\n\r\nThe Forrest Mix is the base. I've always liked this flavouring, but since it's a very deep and sweet flavour you have to mix it up with something bright and fun.\r\n\r\nJuicy Strawberry is the go-to authentic strawberry for me. I love this flavour so much that I use it in almost everything. It works well on it's own but for this recipe I wanted something sweeter to add to the brightness of a sugared strawberry\r\n\r\nSweet Strawberry works well to bring the brightness up of the strawberry. Almost always a good strawberry to add over either Strawberry Ripe or Juicy Strawberry when you want a fulfilling and sweet strawberry\r\n\r\nFLV Sweetness is my sweetener of choice, feel free to use yours or not use one at all. I think I might bring this down to 0.3-4 in my next batch and see how it works. \r\n\r\nLet me know what you think if you decide to mix it up :) ",
-  "id": 114012,
-  "image_url": null,
-  "updated_at": "2020-11-30T20:59:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 8000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 300,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Cloudhead",
-  "views": "949",
-  "slug": "berry_allen",
-  "total_flavoring": "15.8%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Allen",
+    "description": "A sweet and soft Berry mix that's under progress. None of the berries are sticking out too much but you can taste each ingredient individually. It still needs some adjustments to get it perfect but it's good enough for me to be hooked on. It's best for me as an evening treat when you relax infront of a good show or a long gaming session, as an ADV it's a little too sweet for me but if you like sweet mixes all day then you might like it as an ADV aswell\r\n\r\nThe Forrest Mix is the base. I've always liked this flavouring, but since it's a very deep and sweet flavour you have to mix it up with something bright and fun.\r\n\r\nJuicy Strawberry is the go-to authentic strawberry for me. I love this flavour so much that I use it in almost everything. It works well on it's own but for this recipe I wanted something sweeter to add to the brightness of a sugared strawberry\r\n\r\nSweet Strawberry works well to bring the brightness up of the strawberry. Almost always a good strawberry to add over either Strawberry Ripe or Juicy Strawberry when you want a fulfilling and sweet strawberry\r\n\r\nFLV Sweetness is my sweetener of choice, feel free to use yours or not use one at all. I think I might bring this down to 0.3-4 in my next batch and see how it works. \r\n\r\nLet me know what you think if you decide to mix it up :) ",
+    "id": 114012,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 8000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 300,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Cloudhead",
+    "views": "956",
+    "created_at": "2018-08-07",
+    "slug": "berry_allen",
+    "total_flavoring": "15.8%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "0"
 }

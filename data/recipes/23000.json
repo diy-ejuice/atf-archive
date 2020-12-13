@@ -1,56 +1,56 @@
 {
-  "name": "Nutcracker Sweet!",
-  "description": "A tall stack of buttermilk pancakes covered in pralines and cream Mmmmmm...",
-  "id": 23000,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/23000/small-20161222-13171-1e0payc.jpg",
-  "updated_at": "2020-12-05T09:50:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pecan",
-      "flavor_id": "292",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pralines And Cream",
-      "flavor_id": "334",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "4572",
-      "millipercent": 750,
-      "vendor": "JF"
-    }
-  ],
-  "author": "PerennialPhilosopher",
-  "views": "1315",
-  "slug": "nutcracker_sweet",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nutcracker Sweet!",
+    "description": "A tall stack of buttermilk pancakes covered in pralines and cream Mmmmmm...",
+    "id": 23000,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/23000\/small-20161222-13171-1e0payc.jpg",
+    "updated_at": "2020-12-10T14:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pecan",
+            "flavor_id": "292",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pralines And Cream",
+            "flavor_id": "334",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "4572",
+            "millipercent": 750,
+            "vendor": "JF"
+        }
+    ],
+    "author": "PerennialPhilosopher",
+    "views": "1325",
+    "created_at": "2016-12-15",
+    "slug": "nutcracker_sweet",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/23000.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

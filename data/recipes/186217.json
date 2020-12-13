@@ -1,86 +1,88 @@
 {
-  "name": "Semla",
-  "description": "This vape is a swedish pastry traditionally eaten around easter to fatten you up before the fasting.\r\nThere is always a rave in media with extensive testing of different bakeries and so on, and every grociery store and gas station with selfrespect sell them.\r\nOften put in a bowl with some hot milk and eaten with a spoon. In this case it is called \"hetvägg\", meaning hot wall for some reason.\r\nDevelpement notes.\r\nI stole some of that.\r\nCame up with some of this.\r\nMade some changes.\r\nIt is very good and suprisingly acurate.\r\nMy wife's ADV atm.\r\nSteep it for three four days for the TFA Whipped Cream to get properly into the groove.\r\nEnjoy. ",
-  "id": 186217,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186217/Semlor.jpg",
-  "updated_at": "2020-12-08T00:51:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cardamom",
-      "flavor_id": "498",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "1708",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "WalleBiela",
-  "views": "825",
-  "slug": "semla",
-  "total_flavoring": "13.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Domino",
-      "score": "5",
-      "text": "I literally paid for a subscription to leave this review. Ever since I found INW Marzipan, I've been trying to create a decent prinsesstarta recipe. That was my initial goal, but I found this recipe instead. Absolutely fantastic job here, man. I haven't been able to find many \"Swedish\" recipes out there, so it made me insanely happy to see this and it lives up to my expectations in every way. Well done. "
-    },
-    {
-      "user": "keydrive",
-      "score": "5",
-      "text": "Never had a semla but my grandmother baked with cardamom so gave it a chance. It is different and wonderous. Great job. Better after one and then two weeks. Try it. "
-    }
-  ]
+    "name": "Semla",
+    "description": "This vape is a swedish pastry traditionally eaten around easter to fatten you up before the fasting.\r\nThere is always a rave in media with extensive testing of different bakeries and so on, and every grociery store and gas station with selfrespect sell them.\r\nOften put in a bowl with some hot milk and eaten with a spoon. In this case it is called \"hetv\u00e4gg\", meaning hot wall for some reason.\r\nDevelpement notes.\r\nI stole some of that.\r\nCame up with some of this.\r\nMade some changes.\r\nIt is very good and suprisingly acurate.\r\nMy wife's ADV atm.\r\nSteep it for three four days for the TFA Whipped Cream to get properly into the groove.\r\nEnjoy. ",
+    "id": 186217,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/186217\/Semlor.jpg",
+    "updated_at": "2020-12-12T10:16:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cardamom",
+            "flavor_id": "498",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "1708",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "WalleBiela",
+    "views": "836",
+    "created_at": "2020-02-27",
+    "slug": "semla",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/186217.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Domino",
+            "score": 5,
+            "text": "I literally paid for a subscription to leave this review. Ever since I found INW Marzipan, I've been trying to create a decent prinsesstarta recipe. That was my initial goal, but I found this recipe instead. Absolutely fantastic job here, man. I haven't been able to find many \"Swedish\" recipes out there, so it made me insanely happy to see this and it lives up to my expectations in every way. Well done. "
+        },
+        {
+            "user": "keydrive",
+            "score": 5,
+            "text": "Never had a semla but my grandmother baked with cardamom so gave it a chance. It is different and wonderous. Great job. Better after one and then two weeks. Try it. "
+        }
+    ]
 }

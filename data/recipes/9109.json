@@ -1,88 +1,90 @@
 {
-  "name": "Bedrocket",
-  "description": "A creamy vanilla milkshake with Fruity Pebbles whizzed in, topped with a dollop of whipped cream. \r\n\r\nTasty enough as a shake-n-vape, but gets much better after a week when the Fruity Flakes calm down and the Hazelnut, VBIC & Vanilla Swirl blossom into more of a malted vanilla milkshake.\r\n\r\nWilly hears ya' about the sugars in FW Fruity Flakes. Willy don't care.\r\nhttps://www.youtube.com/watch?v=WqfupnpUOoA",
-  "id": 9109,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9109/Bedrocked.jpg",
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruity Flakes",
-      "flavor_id": "1286",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "8659",
-  "slug": "bedrocket",
-  "total_flavoring": "14.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Trista_C",
-      "score": "5",
-      "text": "Delicious....will be a regular mix!"
-    },
-    {
-      "user": "Kriswk",
-      "score": "5",
-      "text": "This recipe gets sooo much better with some time..It was just delicious. The milky creams are perfect. Great great job.. Fruity Flakes kinda hits me in the back of the throat but still, I enjoyed this quite much. Thanks bro."
-    },
-    {
-      "user": "jbird",
-      "score": "5",
-      "text": "Very good recipe! The mix of the creams in this are so good. The Hazelnut gives all the creams that nice thick mouthfeel. I know Fruity Flakes is one of the flavors on the fructose list. But that sweetness is so addicting and I can't stop vaping this. &#xD;\nGreat job!"
-    },
-    {
-      "user": "MrBurgundy",
-      "score": "5",
-      "text": "Cereal vapes aren't my bag, but this right here? This is the ticket. Creamy and sweet with just the right amount of citrus. I could vape on this milky delight all week long. Most impressive!"
-    },
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "I swear to God I have ordered the flavorings for this 6 times and every time I forget one. Finally got all of the men and it was worth the time. Crepe recipe will definitely make this again. The fruity flakes are definitely The prominent top note and have a very lemon lime flavor to them a good representation of Pebbles cereal. If I had any criticism at all I've always felt like Fruity Pebbles contain blueberry . Think I will add blueberry in next time and see how it comes out. Great job I would give you 10 Stars if Scott would let me😂"
-    },
-    {
-      "user": "KylezKloudz",
-      "score": "5",
-      "text": "This stuff is gooood! 👍👍🙌😆 Just mixed up a batch last night and tried it this morning... Hell yeah! Definitely good as a shake &amp; vape... Can't wait to see how much better it gets in a couple days/week... If it lasts that long... Definitely one of the better cereal vapes I've come across! Thanks!"
-    }
-  ]
+    "name": "Bedrocket",
+    "description": "A creamy vanilla milkshake with Fruity Pebbles whizzed in, topped with a dollop of whipped cream. \r\n\r\nTasty enough as a shake-n-vape, but gets much better after a week when the Fruity Flakes calm down and the Hazelnut, VBIC & Vanilla Swirl blossom into more of a malted vanilla milkshake.\r\n\r\nWilly hears ya' about the sugars in FW Fruity Flakes. Willy don't care.\r\nhttps:\/\/www.youtube.com\/watch?v=WqfupnpUOoA",
+    "id": 9109,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9109\/Bedrocked.jpg",
+    "updated_at": "2020-12-12T11:50:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruity Flakes",
+            "flavor_id": "1286",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "8676",
+    "created_at": "2016-07-30",
+    "slug": "bedrocket",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9109.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Trista_C",
+            "score": 5,
+            "text": "Delicious....will be a regular mix!"
+        },
+        {
+            "user": "Kriswk",
+            "score": 5,
+            "text": "This recipe gets sooo much better with some time..It was just delicious. The milky creams are perfect. Great great job.. Fruity Flakes kinda hits me in the back of the throat but still, I enjoyed this quite much. Thanks bro."
+        },
+        {
+            "user": "jbird",
+            "score": 5,
+            "text": "Very good recipe! The mix of the creams in this are so good. The Hazelnut gives all the creams that nice thick mouthfeel. I know Fruity Flakes is one of the flavors on the fructose list. But that sweetness is so addicting and I can't stop vaping this. &#xD;\nGreat job!"
+        },
+        {
+            "user": "MrBurgundy",
+            "score": 5,
+            "text": "Cereal vapes aren't my bag, but this right here? This is the ticket. Creamy and sweet with just the right amount of citrus. I could vape on this milky delight all week long. Most impressive!"
+        },
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "I swear to God I have ordered the flavorings for this 6 times and every time I forget one. Finally got all of the men and it was worth the time. Crepe recipe will definitely make this again. The fruity flakes are definitely The prominent top note and have a very lemon lime flavor to them a good representation of Pebbles cereal. If I had any criticism at all I've always felt like Fruity Pebbles contain blueberry . Think I will add blueberry in next time and see how it comes out. Great job I would give you 10 Stars if Scott would let me\ud83d\ude02"
+        },
+        {
+            "user": "KylezKloudz",
+            "score": 5,
+            "text": "This stuff is gooood! \ud83d\udc4d\ud83d\udc4d\ud83d\ude4c\ud83d\ude06 Just mixed up a batch last night and tried it this morning... Hell yeah! Definitely good as a shake &amp; vape... Can't wait to see how much better it gets in a couple days\/week... If it lasts that long... Definitely one of the better cereal vapes I've come across! Thanks!"
+        }
+    ]
 }

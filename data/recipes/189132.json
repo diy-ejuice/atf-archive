@@ -1,56 +1,56 @@
 {
-  "name": "Corona Lime",
-  "description": "Trying to emulate a Corona with Lime. The lemons, bitters, and hops create the base. The Tobacco adds the hay/wheat like flavor of the beer (trust me, it's not \"tobacco\" flavored) shout out to Max Savage for this suggestion. The Lime Wedge is the lime. \r\n\r\nMade on:\r\nhttps://www.youtube.com/watch?v=_ujGiQEqiKY",
-  "id": 189132,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189132/Untitled-1.jpg",
-  "updated_at": "2020-12-07T21:33:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Lime Wedge",
-      "flavor_id": "4374",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Virginia Tobacco",
-      "flavor_id": "623",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bitters",
-      "flavor_id": "8829",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "930",
-  "slug": "corona_lime",
-  "total_flavoring": "6.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Corona Lime",
+    "description": "Trying to emulate a Corona with Lime. The lemons, bitters, and hops create the base. The Tobacco adds the hay\/wheat like flavor of the beer (trust me, it's not \"tobacco\" flavored) shout out to Max Savage for this suggestion. The Lime Wedge is the lime. \r\n\r\nMade on:\r\nhttps:\/\/www.youtube.com\/watch?v=_ujGiQEqiKY",
+    "id": 189132,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189132\/Untitled-1.jpg",
+    "updated_at": "2020-12-12T11:53:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Lime Wedge",
+            "flavor_id": "4374",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Virginia Tobacco",
+            "flavor_id": "623",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bitters",
+            "flavor_id": "8829",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "941",
+    "created_at": "2020-03-24",
+    "slug": "corona_lime",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189132.jpg",
+    "total_flavoring": "6.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

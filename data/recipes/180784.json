@@ -1,69 +1,70 @@
 {
-  "name": "Thor's Hammer",
-  "description": "An Autumn and Winter concoction that warms the soul and gives you the flavor fix you're looking for. A blend of Apple, Pear, and Fig with a hint of Caramel. This mix is smooth and enjoyable. \r\n\r\nCAP Double Apple - really recreates the crispness of an apple, as opposed to FA Fuji which is much smoother. \r\nFA Pear - Another layer of crispness and also imparts a slightly tart and but mainly sweet flavor.\r\nFA Fig Fresh - This adds another level to the mix, as well as binding the Apple and Pear.\r\nFA Caramel - Who doesn't like caramel with apples???\r\n\r\nCould easily be your new ADV!\r\n ",
-  "id": 180784,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fig Fresh",
-      "flavor_id": "518",
-      "millipercent": 5000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ripe Pear SC",
-      "flavor_id": "9040",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 2250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 350,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 250,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "damazone",
-  "views": "799",
-  "slug": "thors_hammer",
-  "total_flavoring": "14.1%",
-  "steep_days": "3",
-  "best_vg": "55%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Thatzgacho1",
-      "score": "5",
-      "text": "This is a great recipe! Very tasty, and my kind of vape! Great work!"
-    }
-  ]
+    "name": "Thor's Hammer",
+    "description": "An Autumn and Winter concoction that warms the soul and gives you the flavor fix you're looking for. A blend of Apple, Pear, and Fig with a hint of Caramel. This mix is smooth and enjoyable. \r\n\r\nCAP Double Apple - really recreates the crispness of an apple, as opposed to FA Fuji which is much smoother. \r\nFA Pear - Another layer of crispness and also imparts a slightly tart and but mainly sweet flavor.\r\nFA Fig Fresh - This adds another level to the mix, as well as binding the Apple and Pear.\r\nFA Caramel - Who doesn't like caramel with apples???\r\n\r\nCould easily be your new ADV!\r\n ",
+    "id": 180784,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:30:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fig Fresh",
+            "flavor_id": "518",
+            "millipercent": 5000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ripe Pear SC",
+            "flavor_id": "9040",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 2250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 350,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 250,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "damazone",
+    "views": "813",
+    "created_at": "2020-01-11",
+    "slug": "thors_hammer",
+    "total_flavoring": "14.1%",
+    "steep_days": "3",
+    "best_vg": "55%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Thatzgacho1",
+            "score": 5,
+            "text": "This is a great recipe! Very tasty, and my kind of vape! Great work!"
+        }
+    ]
 }

@@ -1,68 +1,67 @@
 {
-  "name": "Common Quolls",
-  "description": "testing a weird banana bread with whatever i have around",
-  "id": 180568,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:33:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Bourbon",
-      "flavor_id": "4411",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "seltzgenius",
-  "views": "486",
-  "slug": "common_quolls",
-  "total_flavoring": "13.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Common Quolls",
+    "description": "testing a weird banana bread with whatever i have around",
+    "id": 180568,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:53:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Bourbon",
+            "flavor_id": "4411",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "seltzgenius",
+    "views": "491",
+    "created_at": "2020-01-09",
+    "slug": "common_quolls",
+    "total_flavoring": "13.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

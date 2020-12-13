@@ -1,69 +1,71 @@
 {
-  "name": "The Best Damn Breakfast of Champions",
-  "description": "This was initially going to be my entry for the first Awesome Box contest, and then I forgot to finish working on it. Typical.\r\n\r\nBreakfast of Champions is the product of a few weeks of fucking about with percentages, adding and subtracting flavours, and pulling my goddamn hair out trying to get the profile down the way I wanted it. Hence me not posting it until now. And the funny thing is, this recipe just needed a steep to really get where it needed to be. So the profile here is supposed to be an ADV friendly waffle that is drizzled in some strawberry syrup with fresh sliced strawberries on top. The intention of \"ADV friendly\" is just that it's balanced and not something that's going to assault your tastebuds and pummel them into olfactory oblivion. I think the steep time makes this a reality. Upon a shake and vape, everything is much more separated, the waffle flavour is more maple-y and in your face, the strawberries are a little harsh and overpowering, but it IS still tasty straight away.\r\n\r\nBut after a week, it starts to blend together nicely. After two weeks, the strawberries mellow out and hit you on the back end, while the waffle flavours and cream notes stay up front. So two weeks is when Breakfast of Champions hits the stride, and I'd recommend mixing this one up and throwing it in the steep drawer til then.",
-  "id": 32663,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32663/noteasy.jpg",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Belgian Waffle",
-      "flavor_id": "1478",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 750,
-      "vendor": "JF"
-    }
-  ],
-  "author": "matthewkocanda",
-  "views": "3873",
-  "slug": "the_best_damn_breakfast_of_champions",
-  "total_flavoring": "10.5%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AlexYanchunis",
-      "score": "5",
-      "text": "Had a few drips of this after steeping for the recommended time and it was mindblowing.. It was that nice golden waffle drizzled with strawberry syrup as mentioned and just perfect! Thanks for the dope recipe man!"
-    }
-  ]
+    "name": "The Best Damn Breakfast of Champions",
+    "description": "This was initially going to be my entry for the first Awesome Box contest, and then I forgot to finish working on it. Typical.\r\n\r\nBreakfast of Champions is the product of a few weeks of fucking about with percentages, adding and subtracting flavours, and pulling my goddamn hair out trying to get the profile down the way I wanted it. Hence me not posting it until now. And the funny thing is, this recipe just needed a steep to really get where it needed to be. So the profile here is supposed to be an ADV friendly waffle that is drizzled in some strawberry syrup with fresh sliced strawberries on top. The intention of \"ADV friendly\" is just that it's balanced and not something that's going to assault your tastebuds and pummel them into olfactory oblivion. I think the steep time makes this a reality. Upon a shake and vape, everything is much more separated, the waffle flavour is more maple-y and in your face, the strawberries are a little harsh and overpowering, but it IS still tasty straight away.\r\n\r\nBut after a week, it starts to blend together nicely. After two weeks, the strawberries mellow out and hit you on the back end, while the waffle flavours and cream notes stay up front. So two weeks is when Breakfast of Champions hits the stride, and I'd recommend mixing this one up and throwing it in the steep drawer til then.",
+    "id": 32663,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32663\/noteasy.jpg",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Belgian Waffle",
+            "flavor_id": "1478",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 750,
+            "vendor": "JF"
+        }
+    ],
+    "author": "matthewkocanda",
+    "views": "3880",
+    "created_at": "2017-02-18",
+    "slug": "the_best_damn_breakfast_of_champions",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32663.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AlexYanchunis",
+            "score": 5,
+            "text": "Had a few drips of this after steeping for the recommended time and it was mindblowing.. It was that nice golden waffle drizzled with strawberry syrup as mentioned and just perfect! Thanks for the dope recipe man!"
+        }
+    ]
 }

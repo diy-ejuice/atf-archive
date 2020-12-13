@@ -1,68 +1,68 @@
 {
-  "name": "Pipsqueak",
-  "description": "I named this recipe after a longtime friend of mine that I’ve affectionately referred to as “Pipsqueak” for the 7 years I’ve known her. \r\n\r\nIt’s a strawberry Greek yogurt. The base of the yogurt uses Liquid Barn’s Greek Yogurt as the foundation with supporting elements derived from FLV cream, FA meringue and Liquid Barn vanilla ice cream. FLV cream helps shoot the creaminess of the yogurt into the stratosphere while FA meringue helps sweeten it up, and Liquid Barn vanilla ice cream further enhances and drives home the dairy note of the yogurt profile. Overall, these elements create a yogurt profile that is incredibly creamy, smooth and tangy. This is the first recipe I’ve ever used LB’s Greek Yogurt and I found myself in love with it. \r\n\r\nThe strawberries used in the recipe create a mix of natural and candied strawberry elements that blend well with the yogurt. \r\n\r\nSweetener is always optional. My first batch I used .5%, and while tasty, felt it made the recipe a bit too sweet. .25% seems to be the sweet spot. No pun intended. ",
-  "id": 177172,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177172/C27C2603-A6C1-45BC-A884-8C6ACED50011.jpeg",
-  "updated_at": "2020-12-05T15:44:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "1490",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 1500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BananaSlamma",
-  "views": "715",
-  "slug": "pipsqueak",
-  "total_flavoring": "15.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pipsqueak",
+    "description": "I named this recipe after a longtime friend of mine that I\u2019ve affectionately referred to as \u201cPipsqueak\u201d for the 7 years I\u2019ve known her. \r\n\r\nIt\u2019s a strawberry Greek yogurt. The base of the yogurt uses Liquid Barn\u2019s Greek Yogurt as the foundation with supporting elements derived from FLV cream, FA meringue and Liquid Barn vanilla ice cream. FLV cream helps shoot the creaminess of the yogurt into the stratosphere while FA meringue helps sweeten it up, and Liquid Barn vanilla ice cream further enhances and drives home the dairy note of the yogurt profile. Overall, these elements create a yogurt profile that is incredibly creamy, smooth and tangy. This is the first recipe I\u2019ve ever used LB\u2019s Greek Yogurt and I found myself in love with it. \r\n\r\nThe strawberries used in the recipe create a mix of natural and candied strawberry elements that blend well with the yogurt. \r\n\r\nSweetener is always optional. My first batch I used .5%, and while tasty, felt it made the recipe a bit too sweet. .25% seems to be the sweet spot. No pun intended. ",
+    "id": 177172,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/177172\/C27C2603-A6C1-45BC-A884-8C6ACED50011.jpeg",
+    "updated_at": "2020-12-12T05:50:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "1490",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BananaSlamma",
+    "views": "724",
+    "created_at": "2019-12-09",
+    "slug": "pipsqueak",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/177172.jpeg",
+    "total_flavoring": "15.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

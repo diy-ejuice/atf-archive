@@ -1,57 +1,59 @@
 {
-  "name": "Cool and Sassy",
-  "description": "A cool, herbal mix inspired by traditional medicinal soft drinks and small beers.  While there is enough sassafras and root beer flavor to remind you of the more familiar supermarket offerings, the creme de menthe, absinthe, and cinnamon give the minty, earthy, and anise notes associated with its traditional, rustic counterpart more of a leading role.\r\n\r\n",
-  "id": 39593,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/39593/root_beer.jpg",
-  "updated_at": "2020-12-08T00:49:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sassafras",
-      "flavor_id": "1410",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "278",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Absinthe",
-      "flavor_id": "341",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "1401",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "juiceIQ",
-  "views": "1381",
-  "slug": "cool_and_sassy",
-  "total_flavoring": "8.9%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JTHerman",
-      "score": "5",
-      "text": "This is immediately one of my favorite mixes out of the 40 or 50 in my rotation. It comes off more like a root beer cocktail than it does the soft drink, thanks to the absinthe and cinnamon giving it a nice kick. Instead of 2% FW Root Beer, I used 1% FW Root Beer, 1% CAP Root Beer, and 1% FLV Root Beer. It’s a very accurate root beer taste, much more so than a root beer flavored gummy, for example. Absolutely first rate!"
-    }
-  ]
+    "name": "Cool and Sassy",
+    "description": "A cool, herbal mix inspired by traditional medicinal soft drinks and small beers.  While there is enough sassafras and root beer flavor to remind you of the more familiar supermarket offerings, the creme de menthe, absinthe, and cinnamon give the minty, earthy, and anise notes associated with its traditional, rustic counterpart more of a leading role.\r\n\r\n",
+    "id": 39593,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/39593\/root_beer.jpg",
+    "updated_at": "2020-12-12T11:50:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sassafras",
+            "flavor_id": "1410",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "278",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Absinthe",
+            "flavor_id": "341",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "1401",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "juiceIQ",
+    "views": "1386",
+    "created_at": "2017-04-03",
+    "slug": "cool_and_sassy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/39593.jpg",
+    "total_flavoring": "8.9%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JTHerman",
+            "score": 5,
+            "text": "This is immediately one of my favorite mixes out of the 40 or 50 in my rotation. It comes off more like a root beer cocktail than it does the soft drink, thanks to the absinthe and cinnamon giving it a nice kick. Instead of 2% FW Root Beer, I used 1% FW Root Beer, 1% CAP Root Beer, and 1% FLV Root Beer. It\u2019s a very accurate root beer taste, much more so than a root beer flavored gummy, for example. Absolutely first rate!"
+        }
+    ]
 }

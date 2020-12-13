@@ -1,68 +1,70 @@
 {
-  "name": "She's A Peach",
-  "description": "A light and sweet peach smoothie. Optionally add 0.5% FA White peach or INW peach for a peachy boost.\r\n\r\nPretty good shake and vape, best after 4-5 days.",
-  "id": 12130,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12130/peach.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 2500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "method1",
-  "views": "3387",
-  "slug": "shes_a_peach",
-  "total_flavoring": "7.3%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "orangetree",
-      "score": "5",
-      "text": "Absolute delicious and light vape. Perfect as an ADV. The yogurt in combination with the honey peach results in a perfectly smooth peach."
-    },
-    {
-      "user": "Thadentman",
-      "score": "5",
-      "text": "This is a very nice peach vape, Very sweet and creamy and the yogurt really pushes it over the top. Yogurt in this recipe was brilliant, Most peaches are very harsh to vape but the yogurt cuts all the harsh notes off and the Tfa vbic is just a great thick ice cream to smooth it out and give it that creamy texture. Great recipe!"
-    }
-  ]
+    "name": "She's A Peach",
+    "description": "A light and sweet peach smoothie. Optionally add 0.5% FA White peach or INW peach for a peachy boost.\r\n\r\nPretty good shake and vape, best after 4-5 days.",
+    "id": 12130,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12130\/peach.jpg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 2500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "method1",
+    "views": "3395",
+    "created_at": "2016-08-31",
+    "slug": "shes_a_peach",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12130.jpg",
+    "total_flavoring": "7.3%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "orangetree",
+            "score": 5,
+            "text": "Absolute delicious and light vape. Perfect as an ADV. The yogurt in combination with the honey peach results in a perfectly smooth peach."
+        },
+        {
+            "user": "Thadentman",
+            "score": 5,
+            "text": "This is a very nice peach vape, Very sweet and creamy and the yogurt really pushes it over the top. Yogurt in this recipe was brilliant, Most peaches are very harsh to vape but the yogurt cuts all the harsh notes off and the Tfa vbic is just a great thick ice cream to smooth it out and give it that creamy texture. Great recipe!"
+        }
+    ]
 }

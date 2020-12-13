@@ -1,62 +1,62 @@
 {
-  "name": "Sombrero",
-  "description": "Kahlua Chili Chocolate Coctail. Mexican Coctail with milk, kahlua, chili and chocolate.",
-  "id": 118177,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118177/SOMBRERO.jpg",
-  "updated_at": "2020-12-05T13:09:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kahlua & Cream",
-      "flavor_id": "1327",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Coffee",
-      "flavor_id": "716",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coffee Milk Froth",
-      "flavor_id": "8858",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Chilli Chocolate",
-      "flavor_id": "9890",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "chocolat au lait",
-      "flavor_id": "5667",
-      "millipercent": 2500,
-      "vendor": "SA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 800,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "Alx86",
-  "views": "958",
-  "slug": "sombrero",
-  "total_flavoring": "15.6%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sombrero",
+    "description": "Kahlua Chili Chocolate Coctail. Mexican Coctail with milk, kahlua, chili and chocolate.",
+    "id": 118177,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/118177\/SOMBRERO.jpg",
+    "updated_at": "2020-12-12T11:52:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kahlua & Cream",
+            "flavor_id": "1327",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Coffee",
+            "flavor_id": "716",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coffee Milk Froth",
+            "flavor_id": "8858",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Chilli Chocolate",
+            "flavor_id": "9890",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "chocolat au lait",
+            "flavor_id": "5667",
+            "millipercent": 2500,
+            "vendor": "SA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 800,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "Alx86",
+    "views": "967",
+    "created_at": "2018-09-08",
+    "slug": "sombrero",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/118177.jpg",
+    "total_flavoring": "15.6%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

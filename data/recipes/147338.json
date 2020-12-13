@@ -1,62 +1,62 @@
 {
-  "name": "Cranberry salad",
-  "description": "Flv-cranberry to add the raw cranberries \r\nFa-Fuji apple, Inw-cactus, and cap-juicy orange for the diced fruit. \r\nFa-black cherry and cap-super sweet to mimic the sauce mix. \r\nAnd finally some Fw-sour to add the some dryness and kill some of the sweetness of the cranberries. ",
-  "id": 147338,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147338/Screenshot_20190415-171055.jpg",
-  "updated_at": "2020-12-06T12:56:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherryl (cherry, Black)",
-      "flavor_id": "468",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "1414",
-      "millipercent": 1500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "308_hobbiest",
-  "views": "726",
-  "slug": "cranberry_salad",
-  "total_flavoring": "9.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cranberry salad",
+    "description": "Flv-cranberry to add the raw cranberries \r\nFa-Fuji apple, Inw-cactus, and cap-juicy orange for the diced fruit. \r\nFa-black cherry and cap-super sweet to mimic the sauce mix. \r\nAnd finally some Fw-sour to add the some dryness and kill some of the sweetness of the cranberries. ",
+    "id": 147338,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/147338\/Screenshot_20190415-171055.jpg",
+    "updated_at": "2020-12-10T17:58:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherryl (cherry, Black)",
+            "flavor_id": "468",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "1414",
+            "millipercent": 1500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "308_hobbiest",
+    "views": "730",
+    "created_at": "2019-04-15",
+    "slug": "cranberry_salad",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/147338.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

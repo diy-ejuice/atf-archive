@@ -1,56 +1,55 @@
 {
-  "name": "Kopel Leaf",
-  "description": "Quick tobacco recipe for the \"thon\" harking back to a casual challenge from His Bearded Majestic Holiness Himselfs.\r\n\r\nThis recipe draws a good bit of inspiration from @shyndo and his The Pink recipe. Dont judge him to harshly on it. I removed the supporting elements :)\r\n\r\nA FLORAL tobacco, something only I will enjoy ;)",
-  "id": 57527,
-  "image_url": null,
-  "updated_at": "2020-12-07T07:00:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cherry Blossom (pg)",
-      "flavor_id": "221",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "1189",
-  "slug": "kopel_leaf",
-  "total_flavoring": "8.95%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kopel Leaf",
+    "description": "Quick tobacco recipe for the \"thon\" harking back to a casual challenge from His Bearded Majestic Holiness Himselfs.\r\n\r\nThis recipe draws a good bit of inspiration from @shyndo and his The Pink recipe. Dont judge him to harshly on it. I removed the supporting elements :)\r\n\r\nA FLORAL tobacco, something only I will enjoy ;)",
+    "id": 57527,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cherry Blossom (pg)",
+            "flavor_id": "221",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "1194",
+    "created_at": "2017-07-29",
+    "slug": "kopel_leaf",
+    "total_flavoring": "8.95%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

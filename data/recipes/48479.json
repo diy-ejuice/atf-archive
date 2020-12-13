@@ -1,44 +1,44 @@
 {
-  "name": "Peach on the beach",
-  "description": "Succulent peach, hanging out on a beach with a pineapple and other tropical pals. Cool Menthol or Koolada to taste.",
-  "id": 48479,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48479/peach-on-a-beach.jpg",
-  "updated_at": "2020-12-06T23:07:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach",
-      "flavor_id": "629",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cool Menthol",
-      "flavor_id": "632",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Tropical Citrus",
-      "flavor_id": "624",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "4428",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "tw2k",
-  "views": "1354",
-  "slug": "peach_on_the_beach",
-  "total_flavoring": "6.6%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach on the beach",
+    "description": "Succulent peach, hanging out on a beach with a pineapple and other tropical pals. Cool Menthol or Koolada to taste.",
+    "id": 48479,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/48479\/peach-on-a-beach.jpg",
+    "updated_at": "2020-12-10T17:56:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach",
+            "flavor_id": "629",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cool Menthol",
+            "flavor_id": "632",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Tropical Citrus",
+            "flavor_id": "624",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "4428",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "tw2k",
+    "views": "1359",
+    "created_at": "2017-05-30",
+    "slug": "peach_on_the_beach",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/48479.jpg",
+    "total_flavoring": "6.6%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

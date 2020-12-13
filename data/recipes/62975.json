@@ -1,44 +1,44 @@
 {
-  "name": "Mr. Jones",
-  "description": "This is a simple and delicious cream soda, no steep needed. Luscious and silky smooth vape, a real treat when you want something sweet. ",
-  "id": 62975,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62975/fred_jones_part_2_by_hikait.jpg",
-  "updated_at": "2020-12-06T14:07:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Soda Type",
-      "flavor_id": "1262",
-      "millipercent": 13000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Squanderrr",
-  "views": "1414",
-  "slug": "mr_jones",
-  "total_flavoring": "16.5%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mr. Jones",
+    "description": "This is a simple and delicious cream soda, no steep needed. Luscious and silky smooth vape, a real treat when you want something sweet. ",
+    "id": 62975,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62975\/fred_jones_part_2_by_hikait.jpg",
+    "updated_at": "2020-12-10T14:52:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Soda Type",
+            "flavor_id": "1262",
+            "millipercent": 13000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Squanderrr",
+    "views": "1418",
+    "created_at": "2017-09-08",
+    "slug": "mr_jones",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62975.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0"
 }

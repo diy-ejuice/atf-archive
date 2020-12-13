@@ -1,57 +1,59 @@
 {
-  "name": "Blueberry Iced Tea",
-  "description": "A sweet blueberry ice tea for y'alls! Shake and vape certified.\r\n\r\nThis doesn't taste like an authentic blueberry tea, but rather like a sugary sweet ice tea that you buy bottled.\r\n\r\nBrief notes:\r\n**VT Bilberry Ripe** is my favourite blueberry flavor, it's more like a blueberry jam, but even though it's so jammy it has a very unique berry sweetness that I like a lot. It's also perfect for this recipe as the bottled ice teas usually are very sweet.\r\n**JF Blueberry**, another top shelf blueberry flavor. It's very similar to FA Bilberry, but better. It adds that tartness that the VT is lacking, together they give a very satisfactory blueberry flavor.\r\n**CAP Hibiscus** helps sweetens up the berries even more, and 0.75% is just the right amount to give a tiny bit of floral note to sell the tea vibe even more.\r\n**FLV Lemon Tea** adds a sweet black tea note, with a touch of lemon to it. We all know that a bit of lemon helps the blueberries pop, which is perfect here.\r\n**WS-23** is optional, it tastes great without it too. Use at your own preferred percentage. I like it at 0.5%, but some like it higher, some lower. If you are new to coolants I suggest you maybe go for 0.25%.",
-  "id": 162049,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162049/bbicetea.png",
-  "updated_at": "2020-12-08T00:51:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry Ripe",
-      "flavor_id": "9886",
-      "millipercent": 1250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Tea",
-      "flavor_id": "3515",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "4741",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "staybert",
-  "views": "1111",
-  "slug": "blueberry_iced_tea",
-  "total_flavoring": "5.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Vishousvapez",
-      "score": "5",
-      "text": "This recipe ha an awesome balance of the floral notes with the berries used ... Would def recommend this for Upcoming spring!! Thanks Bert"
-    }
-  ]
+    "name": "Blueberry Iced Tea",
+    "description": "A sweet blueberry ice tea for y'alls! Shake and vape certified.\r\n\r\nThis doesn't taste like an authentic blueberry tea, but rather like a sugary sweet ice tea that you buy bottled.\r\n\r\nBrief notes:\r\n**VT Bilberry Ripe** is my favourite blueberry flavor, it's more like a blueberry jam, but even though it's so jammy it has a very unique berry sweetness that I like a lot. It's also perfect for this recipe as the bottled ice teas usually are very sweet.\r\n**JF Blueberry**, another top shelf blueberry flavor. It's very similar to FA Bilberry, but better. It adds that tartness that the VT is lacking, together they give a very satisfactory blueberry flavor.\r\n**CAP Hibiscus** helps sweetens up the berries even more, and 0.75% is just the right amount to give a tiny bit of floral note to sell the tea vibe even more.\r\n**FLV Lemon Tea** adds a sweet black tea note, with a touch of lemon to it. We all know that a bit of lemon helps the blueberries pop, which is perfect here.\r\n**WS-23** is optional, it tastes great without it too. Use at your own preferred percentage. I like it at 0.5%, but some like it higher, some lower. If you are new to coolants I suggest you maybe go for 0.25%.",
+    "id": 162049,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/162049\/bbicetea.png",
+    "updated_at": "2020-12-12T08:14:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry Ripe",
+            "flavor_id": "9886",
+            "millipercent": 1250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Tea",
+            "flavor_id": "3515",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "4741",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "staybert",
+    "views": "1124",
+    "created_at": "2019-08-05",
+    "slug": "blueberry_iced_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/162049.png",
+    "total_flavoring": "5.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Vishousvapez",
+            "score": 5,
+            "text": "This recipe ha an awesome balance of the floral notes with the berries used ... Would def recommend this for Upcoming spring!! Thanks Bert"
+        }
+    ]
 }

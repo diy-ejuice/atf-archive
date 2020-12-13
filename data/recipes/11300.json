@@ -1,44 +1,43 @@
 {
-  "name": "Decadence",
-  "description": "Strawberry Cheesecake. Pretty simple, and extremely tasty.  I vape it right away, but it does get a bit better as time goes on, like any custard/creamy profile does. Hope you enjoy it! I typically make this as 70vg/30pg.",
-  "id": 11300,
-  "image_url": null,
-  "updated_at": "2020-12-06T01:07:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "4205",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 7500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Wilciws",
-  "views": "804",
-  "slug": "decadence",
-  "total_flavoring": "17.0%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Decadence",
+    "description": "Strawberry Cheesecake. Pretty simple, and extremely tasty.  I vape it right away, but it does get a bit better as time goes on, like any custard\/creamy profile does. Hope you enjoy it! I typically make this as 70vg\/30pg.",
+    "id": 11300,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:44:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "4205",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 7500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Wilciws",
+    "views": "811",
+    "created_at": "2016-08-23",
+    "slug": "decadence",
+    "total_flavoring": "17.0%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Mister Tea",
-  "description": "feel the need for a cup of tea?\r\nsweet tea with dark and juicy undertones?\r\n\r\nlook no further, i've got you covered\r\n\r\nmaybe you have to lower the percentage of both tea flavours to get a lighter taste",
-  "id": 35364,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35364/indextea.jpg",
-  "updated_at": "2020-12-07T20:31:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "125",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "5571",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Tea",
-      "flavor_id": "3515",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon Zest",
-      "flavor_id": "4854",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Echodub",
-  "views": "1291",
-  "slug": "mister_tea",
-  "total_flavoring": "11.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mister Tea",
+    "description": "feel the need for a cup of tea?\r\nsweet tea with dark and juicy undertones?\r\n\r\nlook no further, i've got you covered\r\n\r\nmaybe you have to lower the percentage of both tea flavours to get a lighter taste",
+    "id": 35364,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35364\/indextea.jpg",
+    "updated_at": "2020-12-12T02:44:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "125",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "5571",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Tea",
+            "flavor_id": "3515",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon Zest",
+            "flavor_id": "4854",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Echodub",
+    "views": "1303",
+    "created_at": "2017-03-06",
+    "slug": "mister_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35364.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Cinnapple Cereal in Strawberry Milk",
-  "description": "My entry into the Beginner Blending MIXXED competition.\r\n\r\nI originally aimed for a CinnApple Danish with strawberry whipped cream, while I was mixing and batching, it hit me that i was getting a more of a cereal note from the original mix. I pushed forward and I think the mixed turned out really well. You get the Cinnamon and apple cereal upfront and then a strawberry milk on the back note. I really hope you enjoy it.\r\n\r\n",
-  "id": 17532,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:06:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "TheDrStore",
-  "views": "1245",
-  "slug": "cinnapple_cereal_in_strawberry_milk",
-  "total_flavoring": "15.75%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnapple Cereal in Strawberry Milk",
+    "description": "My entry into the Beginner Blending MIXXED competition.\r\n\r\nI originally aimed for a CinnApple Danish with strawberry whipped cream, while I was mixing and batching, it hit me that i was getting a more of a cereal note from the original mix. I pushed forward and I think the mixed turned out really well. You get the Cinnamon and apple cereal upfront and then a strawberry milk on the back note. I really hope you enjoy it.\r\n\r\n",
+    "id": 17532,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:44:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "TheDrStore",
+    "views": "1256",
+    "created_at": "2016-10-25",
+    "slug": "cinnapple_cereal_in_strawberry_milk",
+    "total_flavoring": "15.75%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

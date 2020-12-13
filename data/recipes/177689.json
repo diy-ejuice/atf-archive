@@ -1,62 +1,61 @@
 {
-  "name": "White chocolate peppermint mocha",
-  "description": "Well since everyone else is making a mocha recipe I figured that I would put one out there as well give this one a mix and tell me whatcha think and happy holidays and merry Christmas to everyone ",
-  "id": 177689,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Chocolate Peppermint",
-      "flavor_id": "6795",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "77",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "UP (coffee)",
-      "flavor_id": "4473",
-      "millipercent": 100,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "730",
-  "slug": "white_chocolate_peppermint_mocha",
-  "total_flavoring": "16.85%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "White chocolate peppermint mocha",
+    "description": "Well since everyone else is making a mocha recipe I figured that I would put one out there as well give this one a mix and tell me whatcha think and happy holidays and merry Christmas to everyone ",
+    "id": 177689,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:09:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Chocolate Peppermint",
+            "flavor_id": "6795",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "77",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "UP (coffee)",
+            "flavor_id": "4473",
+            "millipercent": 100,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "742",
+    "created_at": "2019-12-14",
+    "slug": "white_chocolate_peppermint_mocha",
+    "total_flavoring": "16.85%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "110"
 }

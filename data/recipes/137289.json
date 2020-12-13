@@ -1,44 +1,43 @@
 {
-  "name": "Grapple berries",
-  "description": "Just a quick shake and vape. Nice grape sour fruity flavor. I add .25 Supersweet but that is optional. Also if you want to sub apples Flv Sour Apple works well at same %. Enjoy ",
-  "id": 137289,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:43:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sour Apple Candy",
-      "flavor_id": "5228",
-      "millipercent": 4000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Shisha Raspberry",
-      "flavor_id": "836",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Ocean Myst",
-      "flavor_id": "5913",
-      "millipercent": 1000,
-      "vendor": "NR"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1071",
-  "slug": "grapple_berries",
-  "total_flavoring": "8.0%",
-  "steep_days": "1",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grapple berries",
+    "description": "Just a quick shake and vape. Nice grape sour fruity flavor. I add .25 Supersweet but that is optional. Also if you want to sub apples Flv Sour Apple works well at same %. Enjoy ",
+    "id": 137289,
+    "image_url": null,
+    "updated_at": "2020-12-11T03:38:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sour Apple Candy",
+            "flavor_id": "5228",
+            "millipercent": 4000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Shisha Raspberry",
+            "flavor_id": "836",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Ocean Myst",
+            "flavor_id": "5913",
+            "millipercent": 1000,
+            "vendor": "NR"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1078",
+    "created_at": "2019-01-31",
+    "slug": "grapple_berries",
+    "total_flavoring": "8.0%",
+    "steep_days": "1",
+    "best_vg": "65%",
+    "temperature": "0"
 }

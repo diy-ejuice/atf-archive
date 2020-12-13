@@ -1,51 +1,53 @@
 {
-  "name": "Pucker Juice",
-  "description": "A very simple recipe. That is an awesome ADV great mix of a tart fruit blend . This mix is The perfect blend of sweet and sour and is so simple to make and tastes so good as a Shake and Vape. No need for any steep time, can substitute pomegranate with TFA. ",
-  "id": 32852,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32852/IMG_0080.JPG",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple (green)",
-      "flavor_id": "1176",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "1384",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sour Wizard",
-      "flavor_id": "4354",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1525",
-  "slug": "pucker_juice",
-  "total_flavoring": "7.5%",
-  "steep_days": "1",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MrBurgundy",
-      "score": "5",
-      "text": "I get a candyish green apple up front with a little bit of peel followed by a sweet pomegranate. They blend in the middle for a sweet and tart combination that’s refreshing and bright. I think the sour wizard might be a little high and muting, but that could be a good thing. It could be keeping that peel note from the green apple in check. Simple and straightforward fruit combo that I definitely enjoy. Job well done, Dodger!"
-    }
-  ]
+    "name": "Pucker Juice",
+    "description": "A very simple recipe. That is an awesome ADV great mix of a tart fruit blend . This mix is The perfect blend of sweet and sour and is so simple to make and tastes so good as a Shake and Vape. No need for any steep time, can substitute pomegranate with TFA. ",
+    "id": 32852,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32852\/IMG_0080.JPG",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple (green)",
+            "flavor_id": "1176",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "1384",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sour Wizard",
+            "flavor_id": "4354",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1532",
+    "created_at": "2017-02-19",
+    "slug": "pucker_juice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32852.JPG",
+    "total_flavoring": "7.5%",
+    "steep_days": "1",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MrBurgundy",
+            "score": 5,
+            "text": "I get a candyish green apple up front with a little bit of peel followed by a sweet pomegranate. They blend in the middle for a sweet and tart combination that\u2019s refreshing and bright. I think the sour wizard might be a little high and muting, but that could be a good thing. It could be keeping that peel note from the green apple in check. Simple and straightforward fruit combo that I definitely enjoy. Job well done, Dodger!"
+        }
+    ]
 }

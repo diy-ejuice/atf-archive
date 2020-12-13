@@ -1,44 +1,43 @@
 {
-  "name": "PiesangKop",
-  "description": "Simple work in progress banana and custard recipe. ",
-  "id": 170452,
-  "image_url": null,
-  "updated_at": "2020-12-05T00:29:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "12",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "J_LE_R",
-  "views": "524",
-  "slug": "piesangkop",
-  "total_flavoring": "6.5%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "PiesangKop",
+    "description": "Simple work in progress banana and custard recipe. ",
+    "id": 170452,
+    "image_url": null,
+    "updated_at": "2020-12-11T00:33:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "12",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "J_LE_R",
+    "views": "532",
+    "created_at": "2019-10-15",
+    "slug": "piesangkop",
+    "total_flavoring": "6.5%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

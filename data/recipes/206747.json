@@ -1,68 +1,68 @@
 {
-  "name": "Alucard",
-  "description": "*CAP Blueberry Jam = SSA Cranberry Jam*\r\n\r\nIt’s a jelly filled powered doughnut, but with cranberry.",
-  "id": 206747,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206747/9061B7FC-8252-4A4E-8B83-ABD5BD9EE11A.jpeg",
-  "updated_at": "2020-12-07T15:22:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bread (Sweet) SC",
-      "flavor_id": "10542",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 2750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Jammy Berry",
-      "flavor_id": "10150",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 1250,
-      "vendor": "VT"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "242",
-  "slug": "alucard",
-  "total_flavoring": "12.9%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Alucard",
+    "description": "*CAP Blueberry Jam = SSA Cranberry Jam*\r\n\r\nIt\u2019s a jelly filled powered doughnut, but with cranberry.",
+    "id": 206747,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/206747\/9061B7FC-8252-4A4E-8B83-ABD5BD9EE11A.jpeg",
+    "updated_at": "2020-12-11T19:43:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bread (Sweet) SC",
+            "flavor_id": "10542",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 2750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Jammy Berry",
+            "flavor_id": "10150",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 1250,
+            "vendor": "VT"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "247",
+    "created_at": "2020-10-07",
+    "slug": "alucard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/206747.jpeg",
+    "total_flavoring": "12.9%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

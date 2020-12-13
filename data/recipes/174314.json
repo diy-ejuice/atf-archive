@@ -1,56 +1,56 @@
 {
-  "name": "Honey Graham",
-  "description": "A honey graham cracker. Nothing more, nothing less. Still needs work",
-  "id": 174314,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174314/Untitled-1.png",
-  "updated_at": "2020-12-07T17:36:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker V2",
-      "flavor_id": "63",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2150",
-  "slug": "honey_graham",
-  "total_flavoring": "13.0%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Honey Graham",
+    "description": "A honey graham cracker. Nothing more, nothing less. Still needs work",
+    "id": 174314,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/174314\/Untitled-1.png",
+    "updated_at": "2020-12-12T05:50:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker V2",
+            "flavor_id": "63",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2162",
+    "created_at": "2019-11-13",
+    "slug": "honey_graham",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/174314.png",
+    "total_flavoring": "13.0%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0"
 }

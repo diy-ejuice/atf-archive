@@ -1,50 +1,50 @@
 {
-  "name": "Cherryade",
-  "description": "This is still a work in progress but it tastes damn good as is.\r\n\r\nCherry layer:\r\nTpa cherry extract is our main cherry flavour. \r\nInw cherries just helps cherry extract not get lost in the mix. \r\n\r\nLemonade layer:\r\n\r\nFlv lemonade is the base of this layer. \r\n\r\nWF lemon Lime Soda brings in a sharper lemon top note while also providing some sweetness. \r\n\r\nVt fizzy sherbet is here to just add a slight fizz. \r\n\r\nFor some reason atf won't allow me to use a picture tho?? \r\n",
-  "id": 200551,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200551/41ymtiPNcIL._AC_SY400_.jpg",
-  "updated_at": "2020-12-07T21:33:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cherries",
-      "flavor_id": "757",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherry Extract",
-      "flavor_id": "222",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Lime Soda SC",
-      "flavor_id": "8372",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Tvsty1",
-  "views": "583",
-  "slug": "cherryade",
-  "total_flavoring": "7.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherryade",
+    "description": "This is still a work in progress but it tastes damn good as is.\r\n\r\nCherry layer:\r\nTpa cherry extract is our main cherry flavour. \r\nInw cherries just helps cherry extract not get lost in the mix. \r\n\r\nLemonade layer:\r\n\r\nFlv lemonade is the base of this layer. \r\n\r\nWF lemon Lime Soda brings in a sharper lemon top note while also providing some sweetness. \r\n\r\nVt fizzy sherbet is here to just add a slight fizz. \r\n\r\nFor some reason atf won't allow me to use a picture tho?? \r\n",
+    "id": 200551,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/200551\/41ymtiPNcIL._AC_SY400_.jpg",
+    "updated_at": "2020-12-11T15:03:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cherries",
+            "flavor_id": "757",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherry Extract",
+            "flavor_id": "222",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Lime Soda SC",
+            "flavor_id": "8372",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Tvsty1",
+    "views": "594",
+    "created_at": "2020-07-14",
+    "slug": "cherryade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/200551.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

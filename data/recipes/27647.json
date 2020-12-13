@@ -1,68 +1,68 @@
 {
-  "name": "Strawberry Shortcake",
-  "description": "Sweet delicious strawberry shortcake.\r\n\r\nCookie and Nonna's Cake make up the airy angel food cake.  Top it with on the of the best strawberry one two punches of TFA Strawberry Ripe and CAP Sweet Strawberry.  Top it all off with a dollop of whipped cream courtesy of FA Whipped Cream and Vienna Cream.  ",
-  "id": 27647,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27647/images.jpg",
-  "updated_at": "2020-12-06T20:39:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "xXxLEONIDASxXx",
-  "views": "1745",
-  "slug": "strawberry_shortcake",
-  "total_flavoring": "17.5%",
-  "steep_days": "14",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Shortcake",
+    "description": "Sweet delicious strawberry shortcake.\r\n\r\nCookie and Nonna's Cake make up the airy angel food cake.  Top it with on the of the best strawberry one two punches of TFA Strawberry Ripe and CAP Sweet Strawberry.  Top it all off with a dollop of whipped cream courtesy of FA Whipped Cream and Vienna Cream.  ",
+    "id": 27647,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/27647\/images.jpg",
+    "updated_at": "2020-12-12T14:05:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "xXxLEONIDASxXx",
+    "views": "1757",
+    "created_at": "2017-01-19",
+    "slug": "strawberry_shortcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/27647.jpg",
+    "total_flavoring": "17.5%",
+    "steep_days": "14",
+    "best_vg": "80%",
+    "temperature": "0"
 }

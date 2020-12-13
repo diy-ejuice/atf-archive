@@ -1,81 +1,83 @@
 {
-  "name": "#Developedpie strawberry baked pie..or is it a tart?",
-  "description": "Dark baked strawberry pie. \r\nOOO pie crust and cap sugar cookie, and ooo cornbread make up the crust. Ooo cornbread adds an interesting note to the crust, but it's low enough that it really isn't pronounced.\r\nWF strawberry baked and ooo strawberry jam bring the cooked strawberry note. On their own, they were too dark so I added JF strawberry sweet to brighten it up a little bit. \r\nThe golden syrup and vt sweet cream replicate the sugar and cream you would add to this recipe to sweeten and thicken that strawberry filling. \r\nIt needs at least 3 days to settle down. ",
-  "id": 196869,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196869/20200610_083830.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (Baked)",
-      "flavor_id": "10270",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "10274",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "2010",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 750,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 2000,
-      "vendor": "JF"
-    }
-  ],
-  "author": "DJDmix",
-  "views": "929",
-  "slug": "developedpie_strawberry_baked_pieor_is_it_a_tart",
-  "total_flavoring": "12.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RUG_ly",
-      "score": "5",
-      "text": "Using the corn bread with the Pie Crust was genius "
-    }
-  ]
+    "name": "#Developedpie strawberry baked pie..or is it a tart?",
+    "description": "Dark baked strawberry pie. \r\nOOO pie crust and cap sugar cookie, and ooo cornbread make up the crust. Ooo cornbread adds an interesting note to the crust, but it's low enough that it really isn't pronounced.\r\nWF strawberry baked and ooo strawberry jam bring the cooked strawberry note. On their own, they were too dark so I added JF strawberry sweet to brighten it up a little bit. \r\nThe golden syrup and vt sweet cream replicate the sugar and cream you would add to this recipe to sweeten and thicken that strawberry filling. \r\nIt needs at least 3 days to settle down. ",
+    "id": 196869,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196869\/20200610_083830.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (Baked)",
+            "flavor_id": "10270",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "10274",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "2010",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 750,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 2000,
+            "vendor": "JF"
+        }
+    ],
+    "author": "DJDmix",
+    "views": "945",
+    "created_at": "2020-06-06",
+    "slug": "developedpie_strawberry_baked_pieor_is_it_a_tart",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196869.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RUG_ly",
+            "score": 5,
+            "text": "Using the corn bread with the Pie Crust was genius "
+        }
+    ]
 }

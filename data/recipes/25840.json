@@ -1,62 +1,64 @@
 {
-  "name": "Morgendugg",
-  "description": "",
-  "id": 25840,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25840/morgendugg.jpg",
-  "updated_at": "2020-12-08T00:48:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cotton Candy (circus)",
-      "flavor_id": "318",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "JuiceRider",
-  "views": "1787",
-  "slug": "morgendugg",
-  "total_flavoring": "13.5%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Seef",
-      "score": "4",
-      "text": "It's too bad you haven't written a flavour profile, so it's hard to guess, but it's a very nice recipe. I've toned down that super sweet tho, but compared to for example honeydewwy from Wayne, it's a bit thicker, a bit more leaning on the cream. Very good though!"
-    },
-    {
-      "user": "cincinnatiking",
-      "score": "none",
-      "text": " I am new to mixing. I would love to have a cantaloupe ice cream. I only have tfa honey dew v2. Would you even use v2? I ordered it on accident."
-    }
-  ]
+    "name": "Morgendugg",
+    "description": "",
+    "id": 25840,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/25840\/morgendugg.jpg",
+    "updated_at": "2020-12-12T18:29:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cotton Candy (circus)",
+            "flavor_id": "318",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "JuiceRider",
+    "views": "1795",
+    "created_at": "2017-01-09",
+    "slug": "morgendugg",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/25840.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Seef",
+            "score": 4,
+            "text": "It's too bad you haven't written a flavour profile, so it's hard to guess, but it's a very nice recipe. I've toned down that super sweet tho, but compared to for example honeydewwy from Wayne, it's a bit thicker, a bit more leaning on the cream. Very good though!"
+        },
+        {
+            "user": "cincinnatiking",
+            "score": 0,
+            "text": " I am new to mixing. I would love to have a cantaloupe ice cream. I only have tfa honey dew v2. Would you even use v2? I ordered it on accident."
+        }
+    ]
 }

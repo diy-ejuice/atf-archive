@@ -1,38 +1,37 @@
 {
-  "name": "Grape Bubblegum",
-  "description": "The might need a little more grape or another kind with it. I am going to work more with this. Any Suggestions are appreciated",
-  "id": 92621,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:59:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape",
-      "flavor_id": "1298",
-      "millipercent": 8000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "21",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 330,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "320",
-  "slug": "grape_bubblegum",
-  "total_flavoring": "18.33%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grape Bubblegum",
+    "description": "The might need a little more grape or another kind with it. I am going to work more with this. Any Suggestions are appreciated",
+    "id": 92621,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape",
+            "flavor_id": "1298",
+            "millipercent": 8000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "21",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 330,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "324",
+    "created_at": "2018-03-16",
+    "slug": "grape_bubblegum",
+    "total_flavoring": "18.33%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

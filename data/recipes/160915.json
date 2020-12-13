@@ -1,63 +1,64 @@
 {
-  "name": "Blue Fundip",
-  "description": "asdf asdfa sdfasdfa dsfasdfasd fasdfasdfa sdfas dsfasd fasdfadf asdf\r\n\r\nLOP",
-  "id": 160915,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sour Ball Candy SC",
-      "flavor_id": "9046",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour Apple",
-      "flavor_id": "4379",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1463",
-  "slug": "blue_fundip",
-  "total_flavoring": "7.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "nowar",
-      "score": "5",
-      "text": "I mixed this up for my brother who likes commercial liquid candy flavors and I asked around for candy flavors. Puck suggested this one to give it a try. I tried a few pulls and it wasn't for me but I dont really like candy flavors much. This comes a across as a powdery blue fun dip straight up. I was a little distracted by that powdery taste myself, but my brother loved it. I probably mixed him up three blue raspberry mixes and this was his top choice. So, I would suspect this is appealing to candy lovers who want that gritty sugary blue feeling because that's what he loved. Maybe it's not even all that gritty, but I can't get the bottle back from him long enough to test it again to see if I'm crazy. Either way, bro the candy lover gives this a full five stars. You made his half numb taste buds happy."
-    }
-  ]
+    "name": "Blue Fundip",
+    "description": "asdf asdfa sdfasdfa dsfasdfasd fasdfasdfa sdfas dsfasd fasdfadf asdf\r\n\r\nLOP",
+    "id": 160915,
+    "image_url": null,
+    "updated_at": "2020-12-12T08:14:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sour Ball Candy SC",
+            "flavor_id": "9046",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour Apple",
+            "flavor_id": "4379",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1469",
+    "created_at": "2019-07-27",
+    "slug": "blue_fundip",
+    "total_flavoring": "7.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "nowar",
+            "score": 5,
+            "text": "I mixed this up for my brother who likes commercial liquid candy flavors and I asked around for candy flavors. Puck suggested this one to give it a try. I tried a few pulls and it wasn't for me but I dont really like candy flavors much. This comes a across as a powdery blue fun dip straight up. I was a little distracted by that powdery taste myself, but my brother loved it. I probably mixed him up three blue raspberry mixes and this was his top choice. So, I would suspect this is appealing to candy lovers who want that gritty sugary blue feeling because that's what he loved. Maybe it's not even all that gritty, but I can't get the bottle back from him long enough to test it again to see if I'm crazy. Either way, bro the candy lover gives this a full five stars. You made his half numb taste buds happy."
+        }
+    ]
 }

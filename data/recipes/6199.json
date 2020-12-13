@@ -1,56 +1,55 @@
 {
-  "name": "Elrics Cookies and Cream",
-  "description": "A start to a creamy chocolate candy bar.",
-  "id": 6199,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chocolate",
-      "flavor_id": "155",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Soggy0atmeal",
-  "views": "938",
-  "slug": "elrics_cookies_and_cream",
-  "total_flavoring": "13.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Elrics Cookies and Cream",
+    "description": "A start to a creamy chocolate candy bar.",
+    "id": 6199,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chocolate",
+            "flavor_id": "155",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Soggy0atmeal",
+    "views": "943",
+    "created_at": "2016-06-30",
+    "slug": "elrics_cookies_and_cream",
+    "total_flavoring": "13.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

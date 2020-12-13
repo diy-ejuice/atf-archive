@@ -1,63 +1,65 @@
 {
-  "name": "Deez Banana Nutz",
-  "description": "Deez Banana Nutz\r\n\r\nThis is the first in a line of dessert vapes I've been working on inspired by the craze over the Country Clouds line (which I've never even tried by the way) but I happen to enjoy all of those flavor profiles. TFA BNB is obviously doing most of the heavy lifting here but to me it doesn't have enough of a banana note, and I didn't want TOO much banana that would overpower the mix. I also wanted the banana to have that creamy almost custard like texture of a real banana. I also like my BNB more on the \"cake\" side of things but not so much so that it tastes batter-like, hence the use of FW yellow cake (as polarizing as it may be.) One-on-One Cornbread is just an all-around EXCELLENT flavor as it's got that grainy texture you'd associate with something like this and in a mix that doesn't lend itself to an actual cornbread, there's nothing about it distinctly \"corn\" so I think it adds an awesome texture that pairs well with the TFA. I initially was going to go with VCV1 by CAP but opted to go with TFA instead as it's a little more buttery, less oily and less eggy. Although this recipe could benefit from a touch of egg, I wanted to keep it more on the dryer side of things. \r\n\r\nGIVE THIS ONE TIME TO BLOOM. I like to do overnight crockpot steeps on most of my juices (just set to warm) and this recipe was pretty good off the shake, but once that Vanilla Custard settles in and the slight runt vibe of Banana Cream mellows out to a softer more realistic banana, it's pretty delicious, in my humble opinion of course.\r\n\r\nSweetener optional, I chose to leave it out as I like this as is. Season to taste as they say.\r\nHope you enjoy!",
-  "id": 147520,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147520/DeezBananaNutz.jpg",
-  "updated_at": "2020-12-08T00:50:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DeeJayVapes",
-  "views": "1560",
-  "slug": "deez_banana_nutz",
-  "total_flavoring": "14.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "This is fantastic after a steep. changes dramatically for the best! Gotta mix another batch now!&#xD;\nTime for another batch. This is always in my rotation.&#xD;\nThis is my favorite banana recipe."
-    }
-  ]
+    "name": "Deez Banana Nutz",
+    "description": "Deez Banana Nutz\r\n\r\nThis is the first in a line of dessert vapes I've been working on inspired by the craze over the Country Clouds line (which I've never even tried by the way) but I happen to enjoy all of those flavor profiles. TFA BNB is obviously doing most of the heavy lifting here but to me it doesn't have enough of a banana note, and I didn't want TOO much banana that would overpower the mix. I also wanted the banana to have that creamy almost custard like texture of a real banana. I also like my BNB more on the \"cake\" side of things but not so much so that it tastes batter-like, hence the use of FW yellow cake (as polarizing as it may be.) One-on-One Cornbread is just an all-around EXCELLENT flavor as it's got that grainy texture you'd associate with something like this and in a mix that doesn't lend itself to an actual cornbread, there's nothing about it distinctly \"corn\" so I think it adds an awesome texture that pairs well with the TFA. I initially was going to go with VCV1 by CAP but opted to go with TFA instead as it's a little more buttery, less oily and less eggy. Although this recipe could benefit from a touch of egg, I wanted to keep it more on the dryer side of things. \r\n\r\nGIVE THIS ONE TIME TO BLOOM. I like to do overnight crockpot steeps on most of my juices (just set to warm) and this recipe was pretty good off the shake, but once that Vanilla Custard settles in and the slight runt vibe of Banana Cream mellows out to a softer more realistic banana, it's pretty delicious, in my humble opinion of course.\r\n\r\nSweetener optional, I chose to leave it out as I like this as is. Season to taste as they say.\r\nHope you enjoy!",
+    "id": 147520,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/147520\/DeezBananaNutz.jpg",
+    "updated_at": "2020-12-12T14:07:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DeeJayVapes",
+    "views": "1565",
+    "created_at": "2019-04-17",
+    "slug": "deez_banana_nutz",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/147520.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "This is fantastic after a steep. changes dramatically for the best! Gotta mix another batch now!&#xD;\nTime for another batch. This is always in my rotation.&#xD;\nThis is my favorite banana recipe."
+        }
+    ]
 }

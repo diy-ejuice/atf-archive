@@ -1,56 +1,55 @@
 {
-  "name": "My Butterscotch Tobacco",
-  "description": "This is a recipe that came from a desire to add some ash to a previous recipe I've done.\r\n\r\nSince then I retired the old recipe and kicked this out. I loved the old one but this should be better, if you desire a little kick.\r\n\r\nI hope you enjoy.\r\n\r\nAs a note day 1 steep: there is definitely a sweet honey taste as well as a slightly rough tobacco note on the inhale. On the exhale that all seems to go away and it's left with an ashy aftertaste. Based on my previous recipe without the Black Honey this should all go away with a good steep.",
-  "id": 200105,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Honey",
-      "flavor_id": "370",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "148",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "JasonA1121",
-  "views": "877",
-  "slug": "my_butterscotch_tobacco",
-  "total_flavoring": "13.0%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "My Butterscotch Tobacco",
+    "description": "This is a recipe that came from a desire to add some ash to a previous recipe I've done.\r\n\r\nSince then I retired the old recipe and kicked this out. I loved the old one but this should be better, if you desire a little kick.\r\n\r\nI hope you enjoy.\r\n\r\nAs a note day 1 steep: there is definitely a sweet honey taste as well as a slightly rough tobacco note on the inhale. On the exhale that all seems to go away and it's left with an ashy aftertaste. Based on my previous recipe without the Black Honey this should all go away with a good steep.",
+    "id": 200105,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:41:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Honey",
+            "flavor_id": "370",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "148",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "JasonA1121",
+    "views": "883",
+    "created_at": "2020-07-10",
+    "slug": "my_butterscotch_tobacco",
+    "total_flavoring": "13.0%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0"
 }

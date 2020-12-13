@@ -1,81 +1,82 @@
 {
-  "name": "The Real Mcds Shamrock Shake",
-  "description": "Ive been trying too make a good shamrock shake and it has taken me along time but now since I have RF shamrock shake it makes it a lot easier and I used it so far bcuz I don't know how strong the flavor and if its too strong I will more likely turn it down to maybe .5-1% and go from there and see how it tastes",
-  "id": 86760,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shamrock Shake",
-      "flavor_id": "2291",
-      "millipercent": 2500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Gelato",
-      "flavor_id": "185",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "1351",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 4500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cream Milky Undertone VG",
-      "flavor_id": "6541",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mint",
-      "flavor_id": "7112",
-      "millipercent": 1500,
-      "vendor": "NF"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1310",
-  "slug": "the_real_mcds_shamrock_shake",
-  "total_flavoring": "16.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "The Real Mcds Shamrock Shake",
+    "description": "Ive been trying too make a good shamrock shake and it has taken me along time but now since I have RF shamrock shake it makes it a lot easier and I used it so far bcuz I don't know how strong the flavor and if its too strong I will more likely turn it down to maybe .5-1% and go from there and see how it tastes",
+    "id": 86760,
+    "image_url": null,
+    "updated_at": "2020-12-12T08:13:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shamrock Shake",
+            "flavor_id": "2291",
+            "millipercent": 2500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Gelato",
+            "flavor_id": "185",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "1351",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 4500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cream Milky Undertone VG",
+            "flavor_id": "6541",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mint",
+            "flavor_id": "7112",
+            "millipercent": 1500,
+            "vendor": "NF"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1318",
+    "created_at": "2018-02-03",
+    "slug": "the_real_mcds_shamrock_shake",
+    "total_flavoring": "16.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Berry Yogurt ",
-  "description": "Blueberry, Blackberry, and Huckleberry blended together into a wonderful creamy yogurt.\r\n\r\n\r\nThis was my first venture into creamy/yogurt vapes. EdibleMalfunction was kind enough to share his yogurt base with me and that was my starting point. \r\n\r\nI wanted to do a blend of a bunch of different berries rather than just one or two. So I started with the always wonderful FW Blueberry and FA Bilberry combo. For me this makes a great blueberry that's sweet but not over sweet and candied but not over candied. \r\n\r\nI chose TPA Blackberry and TPA Huckleberry to add a depth of sorts to the mix. The blackberry has a nice tart berry flavor that works well with the sweetness of the blueberries. Huckleberry worked wonderfully to work in a nice sweet jammy flavor into the berry blend. These two took a bit of work to get to a good place as they are very strong flavors. My first attempt with the two was at 1% and .75% respectively and they overpowered everything in the mix. Cutting them down to .5% each helped significantly in allowing them to complete the roles I wanted them to without taking away from everything else in the mix. ",
-  "id": 121657,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121657/201002-xl-berry-yogurt-pavlovas-with-chamomile-lavender-syrup.jpg",
-  "updated_at": "2020-12-08T00:50:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "214",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Huckleberry",
-      "flavor_id": "239",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 4000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "eyemakepizza",
-  "views": "1711",
-  "slug": "berry_yogurt",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rougeislander401",
-      "score": "5",
-      "text": "Finally got around to trying this and am loving it, definitely in line with an adv for me. I love what the huckleberry does to kinda make the over all berry flavor be more pronounced."
-    }
-  ]
+    "name": "Berry Yogurt ",
+    "description": "Blueberry, Blackberry, and Huckleberry blended together into a wonderful creamy yogurt.\r\n\r\n\r\nThis was my first venture into creamy\/yogurt vapes. EdibleMalfunction was kind enough to share his yogurt base with me and that was my starting point. \r\n\r\nI wanted to do a blend of a bunch of different berries rather than just one or two. So I started with the always wonderful FW Blueberry and FA Bilberry combo. For me this makes a great blueberry that's sweet but not over sweet and candied but not over candied. \r\n\r\nI chose TPA Blackberry and TPA Huckleberry to add a depth of sorts to the mix. The blackberry has a nice tart berry flavor that works well with the sweetness of the blueberries. Huckleberry worked wonderfully to work in a nice sweet jammy flavor into the berry blend. These two took a bit of work to get to a good place as they are very strong flavors. My first attempt with the two was at 1% and .75% respectively and they overpowered everything in the mix. Cutting them down to .5% each helped significantly in allowing them to complete the roles I wanted them to without taking away from everything else in the mix. ",
+    "id": 121657,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121657\/201002-xl-berry-yogurt-pavlovas-with-chamomile-lavender-syrup.jpg",
+    "updated_at": "2020-12-12T14:06:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "214",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Huckleberry",
+            "flavor_id": "239",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 4000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "eyemakepizza",
+    "views": "1731",
+    "created_at": "2018-10-04",
+    "slug": "berry_yogurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121657.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rougeislander401",
+            "score": 5,
+            "text": "Finally got around to trying this and am loving it, definitely in line with an adv for me. I love what the huckleberry does to kinda make the over all berry flavor be more pronounced."
+        }
+    ]
 }

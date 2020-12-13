@@ -1,50 +1,49 @@
 {
-  "name": "Rin's Banana Pudding Cake",
-  "description": "I used part of my banana pudding (put in) recipe as a base for this cake. (Banana Nut Bread, Inw Biscuit) For the cake portion I wanted a frosting heavy cake as a component so I used fluffy white cake. I added the Philadelphia buttercake to add to the richness and add a buttercake note. Lastly I added the butterscotch cream pie for a light butterscotch note and to add creaminess. ",
-  "id": 205761,
-  "image_url": null,
-  "updated_at": "2020-12-07T04:41:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butterscotch Cream Pie",
-      "flavor_id": "6045",
-      "millipercent": 750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 1250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Philadelphia Butter Cake SC",
-      "flavor_id": "10551",
-      "millipercent": 750,
-      "vendor": "WF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "465",
-  "slug": "rins_banana_pudding_cake",
-  "total_flavoring": "7.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Banana Pudding Cake",
+    "description": "I used part of my banana pudding (put in) recipe as a base for this cake. (Banana Nut Bread, Inw Biscuit) For the cake portion I wanted a frosting heavy cake as a component so I used fluffy white cake. I added the Philadelphia buttercake to add to the richness and add a buttercake note. Lastly I added the butterscotch cream pie for a light butterscotch note and to add creaminess. ",
+    "id": 205761,
+    "image_url": null,
+    "updated_at": "2020-12-12T05:51:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butterscotch Cream Pie",
+            "flavor_id": "6045",
+            "millipercent": 750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 1250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Philadelphia Butter Cake SC",
+            "flavor_id": "10551",
+            "millipercent": 750,
+            "vendor": "WF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "479",
+    "created_at": "2020-09-20",
+    "slug": "rins_banana_pudding_cake",
+    "total_flavoring": "7.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,38 +1,37 @@
 {
-  "name": "Revolution",
-  "description": "Earlier this year I won a giveaway from Vaporham Lincoln and got Revolution, a canteloupe, mango, and cream, juice. Haven't seen any other clone attempts so I thought I would try to make one.",
-  "id": 71900,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:51:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "partzman2",
-  "views": "1175",
-  "slug": "revolution",
-  "total_flavoring": "12.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Revolution",
+    "description": "Earlier this year I won a giveaway from Vaporham Lincoln and got Revolution, a canteloupe, mango, and cream, juice. Haven't seen any other clone attempts so I thought I would try to make one.",
+    "id": 71900,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:55:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "partzman2",
+    "views": "1179",
+    "created_at": "2017-11-02",
+    "slug": "revolution",
+    "total_flavoring": "12.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

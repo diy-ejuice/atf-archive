@@ -1,44 +1,44 @@
 {
-  "name": "Churchill Bourbon ",
-  "description": "Churchill Bourbon if you like cigar tobacco with a shot of whisky try it\r\n",
-  "id": 146433,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/146433/churchill.jpg",
-  "updated_at": "2020-12-02T08:11:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Cherry",
-      "flavor_id": "212",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 850,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tobacco Additive",
-      "flavor_id": "1695",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Win Churchill",
-      "flavor_id": "1704",
-      "millipercent": 1250,
-      "vendor": "FE"
-    }
-  ],
-  "author": "redhousemixes",
-  "views": "762",
-  "slug": "churchill_bourbon",
-  "total_flavoring": "3.6%",
-  "steep_days": "29",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Churchill Bourbon ",
+    "description": "Churchill Bourbon if you like cigar tobacco with a shot of whisky try it\r\n",
+    "id": 146433,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/146433\/churchill.jpg",
+    "updated_at": "2020-12-10T17:58:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Cherry",
+            "flavor_id": "212",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 850,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tobacco Additive",
+            "flavor_id": "1695",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Win Churchill",
+            "flavor_id": "1704",
+            "millipercent": 1250,
+            "vendor": "FE"
+        }
+    ],
+    "author": "redhousemixes",
+    "views": "766",
+    "created_at": "2019-04-09",
+    "slug": "churchill_bourbon",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/146433.jpg",
+    "total_flavoring": "3.6%",
+    "steep_days": "29",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,74 +1,76 @@
 {
-  "name": "Jerry and Ben’s Strawberry cheesecake Icecream ",
-  "description": "this recipes to taste like Ben and jerry’s strawberry cheesecake ice cream . It needs a few days steep to taste perfect but here ya go give it a try i’m sure you could sub the strawberry if needed ",
-  "id": 189797,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189797/1EC7704E-30C0-464C-88C5-90ABE73F579F.jpeg",
-  "updated_at": "2020-12-07T23:38:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1200,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BigRed",
-  "views": "896",
-  "slug": "jerry_and_bens_strawberry_cheesecake_icecream",
-  "total_flavoring": "12.45%",
-  "steep_days": "8 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "seltzgenius",
-      "score": "none",
-      "text": "This is really nice but I added 0.5% of red touch, shisha strawberry, and ripe strawberry to amp up the strawberry taste along with less sweetener, and its giving me more of what I want.  Great recipe!"
-    },
-    {
-      "user": "intense1",
-      "score": "none",
-      "text": "How's the strawberry tasting at 2%?"
-    }
-  ]
+    "name": "Jerry and Ben\u2019s Strawberry cheesecake Icecream ",
+    "description": "this recipes to taste like Ben and jerry\u2019s strawberry cheesecake ice cream . It needs a few days steep to taste perfect but here ya go give it a try i\u2019m sure you could sub the strawberry if needed ",
+    "id": 189797,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189797\/1EC7704E-30C0-464C-88C5-90ABE73F579F.jpeg",
+    "updated_at": "2020-12-12T01:42:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1200,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BigRed",
+    "views": "904",
+    "created_at": "2020-03-30",
+    "slug": "jerry_and_bens_strawberry_cheesecake_icecream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189797.jpeg",
+    "total_flavoring": "12.45%",
+    "steep_days": "8 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "seltzgenius",
+            "score": 0,
+            "text": "This is really nice but I added 0.5% of red touch, shisha strawberry, and ripe strawberry to amp up the strawberry taste along with less sweetener, and its giving me more of what I want.  Great recipe!"
+        },
+        {
+            "user": "intense1",
+            "score": 0,
+            "text": "How's the strawberry tasting at 2%?"
+        }
+    ]
 }

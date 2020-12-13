@@ -1,62 +1,64 @@
 {
-  "name": "Limui Jelly",
-  "description": "A quirky, indescribable jelly candy that will keep you guessing...\r\n\r\nThis is a jelly candy celebrating the unique flavour that is Li Hing Mui.  WTF is Li Hing Mui I hear you ask?\r\n\r\nWell, wiki tells us \"Li Hing Mui is salty dried plum. In most parts of China it is called Huamei. It has a strong, distinctive flavor, and is often said to be an acquired taste, as it has a combination of sweet, sour, and salty taste. It has also been described as tart, and even tangy.\"\r\n\r\nDFS Li Hing Mui can be described as the love child of plum, pomegranate and cranberry with a full, sweet and sour body. The taste is almost impossible to describe - some pick up Red Bull type flavours , some Gatorade type notes and others have absolutely no way to describe this intriguing flavour. The closest profile would be something like FW Jungle Juice, but not quite...\r\n\r\nWhat it is, is delicious though - it is unlike anything you have ever tasted and once you taste it, you will be hooked!! \r\nThis juice turns a magnificent pink colour when mixed and makes it stand out from your stash - almost screaming to be noticed!\r\n\r\nI added a touch of FLV Watermelon to provide a bit of familiarity and boost the juiciness just a tad. FLV can be subbed with PUR or FA Red touch at the same %.\r\n\r\nThe 27 Fish and Jelly candy provides the jelly body (duh!) and sweetness needed to restrain the punchy flavors provided by our main protagonist. This combination provides just the right amount of gummyness and works beautifully in unison.\r\n\r\nThe Vanilla swirl was added thanks to the idea by Wayne and adds that additional chew/fluff and slight vanilla flavour, which combined, takes this to the next level!!\r\n\r\nIf you are feeling adventurous and tired of strawberry, apple and freaking mango - give this one a go - you will thank me later...\r\n\r\nGive this one 3 days to fully settle but it is good after an overnight sleep.\r\n\r\n\r\n",
-  "id": 84045,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/84045/D0E65F29-8CA5-44C1-8F16-7F8EC6262236.jpeg",
-  "updated_at": "2020-12-08T00:49:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Li Hing Mui",
-      "flavor_id": "5055",
-      "millipercent": 6000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "27 Fish",
-      "flavor_id": "8736",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "616",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "RudeRudi",
-  "views": "2476",
-  "slug": "limui_jelly",
-  "total_flavoring": "16.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "AndreM",
-      "score": "5",
-      "text": "This is delicious. Like biting into an exotic jelly.  Thank you for the recipe."
-    },
-    {
-      "user": "cwill111",
-      "score": "4",
-      "text": "This is pretty good. The Li hing was a bit over powering. Made a second bottle and dropped it to 4%. Seems like to watermelon is a bit more balanced now. Thank You for the recipe."
-    }
-  ]
+    "name": "Limui Jelly",
+    "description": "A quirky, indescribable jelly candy that will keep you guessing...\r\n\r\nThis is a jelly candy celebrating the unique flavour that is Li Hing Mui.  WTF is Li Hing Mui I hear you ask?\r\n\r\nWell, wiki tells us \"Li Hing Mui is salty dried plum. In most parts of China it is called Huamei. It has a strong, distinctive flavor, and is often said to be an acquired taste, as it has a combination of sweet, sour, and salty taste. It has also been described as tart, and even tangy.\"\r\n\r\nDFS Li Hing Mui can be described as the love child of plum, pomegranate and cranberry with a full, sweet and sour body. The taste is almost impossible to describe - some pick up Red Bull type flavours , some Gatorade type notes and others have absolutely no way to describe this intriguing flavour. The closest profile would be something like FW Jungle Juice, but not quite...\r\n\r\nWhat it is, is delicious though - it is unlike anything you have ever tasted and once you taste it, you will be hooked!! \r\nThis juice turns a magnificent pink colour when mixed and makes it stand out from your stash - almost screaming to be noticed!\r\n\r\nI added a touch of FLV Watermelon to provide a bit of familiarity and boost the juiciness just a tad. FLV can be subbed with PUR or FA Red touch at the same %.\r\n\r\nThe 27 Fish and Jelly candy provides the jelly body (duh!) and sweetness needed to restrain the punchy flavors provided by our main protagonist. This combination provides just the right amount of gummyness and works beautifully in unison.\r\n\r\nThe Vanilla swirl was added thanks to the idea by Wayne and adds that additional chew\/fluff and slight vanilla flavour, which combined, takes this to the next level!!\r\n\r\nIf you are feeling adventurous and tired of strawberry, apple and freaking mango - give this one a go - you will thank me later...\r\n\r\nGive this one 3 days to fully settle but it is good after an overnight sleep.\r\n\r\n\r\n",
+    "id": 84045,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/84045\/D0E65F29-8CA5-44C1-8F16-7F8EC6262236.jpeg",
+    "updated_at": "2020-12-12T20:29:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Li Hing Mui",
+            "flavor_id": "5055",
+            "millipercent": 6000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "27 Fish",
+            "flavor_id": "8736",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "616",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "RudeRudi",
+    "views": "2486",
+    "created_at": "2018-01-17",
+    "slug": "limui_jelly",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/84045.jpeg",
+    "total_flavoring": "16.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "AndreM",
+            "score": 5,
+            "text": "This is delicious. Like biting into an exotic jelly.  Thank you for the recipe."
+        },
+        {
+            "user": "cwill111",
+            "score": 4,
+            "text": "This is pretty good. The Li hing was a bit over powering. Made a second bottle and dropped it to 4%. Seems like to watermelon is a bit more balanced now. Thank You for the recipe."
+        }
+    ]
 }

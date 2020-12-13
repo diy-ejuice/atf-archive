@@ -1,57 +1,59 @@
 {
-  "name": "Black Cedar RY4",
-  "description": "**DFS is Euro Flavor Orient Tobacco Black** ATF doesn’t seem to have any of the Euro Flavor stuff listed, but a whole lot of the DIYFS tobaccos have mysteriously similar names. Hmmm...\r\n\r\nAnywho, this is a tobacco and cedar forward RY4 recipe. It ain’t the kind of RY4 that’s going to remind you of grandma’s cookies or anything like that. \r\n\r\n**EF Orient Tobacco Black:** Strong cedar note. Like when you open an old cedar chest and breathe in that strong, musty cedar scent. It’s a taste I never realized I was missing in DIY until I got some of the Euro Flavor tobaccos. \r\n\r\n**Black Fire:** Why not burn that cedar a little bit? Give it some bite. \r\n\r\n**Black for Pipe:** You know I just gotsta throw it in there to up the tobacco and bring a less intense smokiness to it than Black Fire brings. \r\n\r\n**RY4 Double:** Pairs well with a stronger tobacco to mellow things out a little, but doesn’t lose the bite. Using the JF here to get away with a shorter steep time, and also because it’s just a bit cleaner and works better with real tobaccos. Doesn’t seem as sweet to me. \r\n\r\n**Vanilla Ruyan Custard:** Has a bit of bite of its own with some nice vanilla notes. Good body as well. \r\n\r\nThis one seems to be good to go fairly quickly. After about three days the Black Fire and Cedar mellow out a considerable amount, and it gets smoother from there. \r\n\r\n",
-  "id": 112786,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112786/1907F5A2-CB92-4B30-AD3A-3907E454252F.jpeg",
-  "updated_at": "2020-12-08T00:50:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "AR Orient Tobacco Black (PG)",
-      "flavor_id": "4904",
-      "millipercent": 1750,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Black Fire",
-      "flavor_id": "458",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "RY4 Double",
-      "flavor_id": "4490",
-      "millipercent": 2500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Ruyan Custard",
-      "flavor_id": "6066",
-      "millipercent": 1500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "2561",
-  "slug": "black_cedar_ry4",
-  "total_flavoring": "8.25%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JTHerman",
-      "score": "5",
-      "text": "This is a highly realistic tobacco mix. Before I started vaping I smoked Dunhill cigarettes, which have a unique flavor, much more fragrant and with a slight sweetness. I get something similar from this mix, but more intense. It comes across somewhere between a regular Dunhill cigarette (not one of the lights) and a mild cigar. The custard is just right, a slight bit of sweetness but not a dessert tobacco. This mix is a regular part of my rotation."
-    }
-  ]
+    "name": "Black Cedar RY4",
+    "description": "**DFS is Euro Flavor Orient Tobacco Black** ATF doesn\u2019t seem to have any of the Euro Flavor stuff listed, but a whole lot of the DIYFS tobaccos have mysteriously similar names. Hmmm...\r\n\r\nAnywho, this is a tobacco and cedar forward RY4 recipe. It ain\u2019t the kind of RY4 that\u2019s going to remind you of grandma\u2019s cookies or anything like that. \r\n\r\n**EF Orient Tobacco Black:** Strong cedar note. Like when you open an old cedar chest and breathe in that strong, musty cedar scent. It\u2019s a taste I never realized I was missing in DIY until I got some of the Euro Flavor tobaccos. \r\n\r\n**Black Fire:** Why not burn that cedar a little bit? Give it some bite. \r\n\r\n**Black for Pipe:** You know I just gotsta throw it in there to up the tobacco and bring a less intense smokiness to it than Black Fire brings. \r\n\r\n**RY4 Double:** Pairs well with a stronger tobacco to mellow things out a little, but doesn\u2019t lose the bite. Using the JF here to get away with a shorter steep time, and also because it\u2019s just a bit cleaner and works better with real tobaccos. Doesn\u2019t seem as sweet to me. \r\n\r\n**Vanilla Ruyan Custard:** Has a bit of bite of its own with some nice vanilla notes. Good body as well. \r\n\r\nThis one seems to be good to go fairly quickly. After about three days the Black Fire and Cedar mellow out a considerable amount, and it gets smoother from there. \r\n\r\n",
+    "id": 112786,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112786\/1907F5A2-CB92-4B30-AD3A-3907E454252F.jpeg",
+    "updated_at": "2020-12-12T08:13:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "AR Orient Tobacco Black (PG)",
+            "flavor_id": "4904",
+            "millipercent": 1750,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Black Fire",
+            "flavor_id": "458",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "RY4 Double",
+            "flavor_id": "4490",
+            "millipercent": 2500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Ruyan Custard",
+            "flavor_id": "6066",
+            "millipercent": 1500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "2573",
+    "created_at": "2018-07-30",
+    "slug": "black_cedar_ry4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112786.jpeg",
+    "total_flavoring": "8.25%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JTHerman",
+            "score": 5,
+            "text": "This is a highly realistic tobacco mix. Before I started vaping I smoked Dunhill cigarettes, which have a unique flavor, much more fragrant and with a slight sweetness. I get something similar from this mix, but more intense. It comes across somewhere between a regular Dunhill cigarette (not one of the lights) and a mild cigar. The custard is just right, a slight bit of sweetness but not a dessert tobacco. This mix is a regular part of my rotation."
+        }
+    ]
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Mango Man v2 (Live Mixing)",
-  "description": "This is a super syrupy, sweet, and vivid Mango flavor.\r\nThink of \"Mango Man\" on the shelf of your local vape store, this is probably what it would taste like.\r\n\r\nMade on \"Live Mixing: Mango Man\"",
-  "id": 111264,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/111264/livemixing.jpg",
-  "updated_at": "2020-12-08T00:50:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "6220",
-      "millipercent": 5000,
-      "vendor": "DF"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fuzzy Navel",
-      "flavor_id": "1288",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "5566",
-  "slug": "mango_man_v2_live_mixing",
-  "total_flavoring": "14.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dwinans",
-      "score": "5",
-      "text": "Went through 30 ml in 4 days.  Great balance, the mango flavor has a \"juicy\" quality to it.  Gets even better at day 3 in my opinion (mixed at 70/30)."
-    }
-  ]
+    "name": "Mango Man v2 (Live Mixing)",
+    "description": "This is a super syrupy, sweet, and vivid Mango flavor.\r\nThink of \"Mango Man\" on the shelf of your local vape store, this is probably what it would taste like.\r\n\r\nMade on \"Live Mixing: Mango Man\"",
+    "id": 111264,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/111264\/livemixing.jpg",
+    "updated_at": "2020-12-12T08:13:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "6220",
+            "millipercent": 5000,
+            "vendor": "DF"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fuzzy Navel",
+            "flavor_id": "1288",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "5575",
+    "created_at": "2018-07-20",
+    "slug": "mango_man_v2_live_mixing",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/111264.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dwinans",
+            "score": 5,
+            "text": "Went through 30 ml in 4 days.  Great balance, the mango flavor has a \"juicy\" quality to it.  Gets even better at day 3 in my opinion (mixed at 70\/30)."
+        }
+    ]
 }

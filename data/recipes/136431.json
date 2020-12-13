@@ -1,56 +1,56 @@
 {
-  "name": "Afternoon Delight",
-  "description": "This is a frosted lemonade recipe designed for low voltage pod systems using nic salts.\r\n\r\nI had a revelation a couple of months ago; it cost three dollars, and it came in a styrofoam cup from the Chick-fil-A drive thru.  They call it \"Frosted Lemonade\"; I'm not sure how long it has been on the menu, but I hadn't noticed it before.  I was planning to order a lemonade anyway, and I thought, \"Treat yo self.\"  It's basically lemonade blended with vanilla ice cream, reminiscent of an Orange Julius or a Dreamsicle, but with a sharp tartness and a little more bite.  I knew immediately that I wanted to vape it.\r\n\r\nINW Lemon Concentrate and INW Lemon Mix do most of the heavy lifting here.  Botboy's classic 3:1 ratio was my starting point, but I ended up having to increase the Lemon Mix to compete with the creaminess of the ice cream to make sure that tart zest flavor carried through.\r\n\r\nTFA Vanilla Bean Ice Cream provides the ice cream base.  In a sub-ohm recipe, I'd probably add some more support, but it does just fine with a small boost from the FLV Cream for a pod recipe.  If TFA VBIC gives you the peppery aftertaste that so many seem to experience, CAP VBIC is a reasonable 1:1 substitute.\r\n\r\nFLV Cream adds that small boost to the creaminess of the VBIC without adding too much to the overall flavor - a hint of milk, a hint of sweet cream, a touch of volume to the mouth feel.  It's subtle, but it's the finishing touch.\r\n\r\nCAP Super Sweet is entirely optional; it's good for just a bit of the sticky sugary lips that real lemonade leaves behind when you drink it.  The percentage of WS-23 is up to you and your personal tolerance.  I've listed it at 1%, though I mix it for myself at 2.5%. ",
-  "id": 136431,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136431/frosted_lemonade.jpg",
-  "updated_at": "2020-12-07T04:40:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemon Mix",
-      "flavor_id": "698",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "BravesFan",
-  "views": "1054",
-  "slug": "afternoon_delight",
-  "total_flavoring": "13.3%",
-  "steep_days": "1",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Afternoon Delight",
+    "description": "This is a frosted lemonade recipe designed for low voltage pod systems using nic salts.\r\n\r\nI had a revelation a couple of months ago; it cost three dollars, and it came in a styrofoam cup from the Chick-fil-A drive thru.  They call it \"Frosted Lemonade\"; I'm not sure how long it has been on the menu, but I hadn't noticed it before.  I was planning to order a lemonade anyway, and I thought, \"Treat yo self.\"  It's basically lemonade blended with vanilla ice cream, reminiscent of an Orange Julius or a Dreamsicle, but with a sharp tartness and a little more bite.  I knew immediately that I wanted to vape it.\r\n\r\nINW Lemon Concentrate and INW Lemon Mix do most of the heavy lifting here.  Botboy's classic 3:1 ratio was my starting point, but I ended up having to increase the Lemon Mix to compete with the creaminess of the ice cream to make sure that tart zest flavor carried through.\r\n\r\nTFA Vanilla Bean Ice Cream provides the ice cream base.  In a sub-ohm recipe, I'd probably add some more support, but it does just fine with a small boost from the FLV Cream for a pod recipe.  If TFA VBIC gives you the peppery aftertaste that so many seem to experience, CAP VBIC is a reasonable 1:1 substitute.\r\n\r\nFLV Cream adds that small boost to the creaminess of the VBIC without adding too much to the overall flavor - a hint of milk, a hint of sweet cream, a touch of volume to the mouth feel.  It's subtle, but it's the finishing touch.\r\n\r\nCAP Super Sweet is entirely optional; it's good for just a bit of the sticky sugary lips that real lemonade leaves behind when you drink it.  The percentage of WS-23 is up to you and your personal tolerance.  I've listed it at 1%, though I mix it for myself at 2.5%. ",
+    "id": 136431,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/136431\/frosted_lemonade.jpg",
+    "updated_at": "2020-12-10T16:01:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemon Mix",
+            "flavor_id": "698",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "BravesFan",
+    "views": "1061",
+    "created_at": "2019-01-25",
+    "slug": "afternoon_delight",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/136431.jpg",
+    "total_flavoring": "13.3%",
+    "steep_days": "1",
+    "best_vg": "60%",
+    "temperature": "0"
 }

@@ -1,75 +1,76 @@
 {
-  "name": "White Chocolate Peppermint Custard",
-  "description": "I'm gonna be getting my fall flavors ready for the holidays so mix this up and steep it for like a week or so and U will have a wonderful custard with a slight peppermint twist",
-  "id": 116956,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Chocolate Peppermint",
-      "flavor_id": "6795",
-      "millipercent": 3500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1475",
-  "slug": "white_chocolate_peppermint_custard",
-  "total_flavoring": "16.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "110",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BananaSlamma",
-      "score": "5",
-      "text": "I can’t believe no one has posted a review on this. This honestly struck me as one of the weirdest combinations of flavors. White chocolate peppermint and custard? No way. But I have to admit that this shit bangs. I’ve been enjoying the hell out of it. It’s sweet, creamy, refreshing and delightful to experience through and through!"
-    }
-  ]
+    "name": "White Chocolate Peppermint Custard",
+    "description": "I'm gonna be getting my fall flavors ready for the holidays so mix this up and steep it for like a week or so and U will have a wonderful custard with a slight peppermint twist",
+    "id": 116956,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:52:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Chocolate Peppermint",
+            "flavor_id": "6795",
+            "millipercent": 3500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1482",
+    "created_at": "2018-08-30",
+    "slug": "white_chocolate_peppermint_custard",
+    "total_flavoring": "16.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "110",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BananaSlamma",
+            "score": 5,
+            "text": "I can\u2019t believe no one has posted a review on this. This honestly struck me as one of the weirdest combinations of flavors. White chocolate peppermint and custard? No way. But I have to admit that this shit bangs. I\u2019ve been enjoying the hell out of it. It\u2019s sweet, creamy, refreshing and delightful to experience through and through!"
+        }
+    ]
 }

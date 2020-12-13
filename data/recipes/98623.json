@@ -1,44 +1,43 @@
 {
-  "name": "Realychee",
-  "description": "Growing up with tropical fruits, lychee was one of my favorites. Inspired by Skweezed Lychee, I wanted to create the lychee flavor that I used to enjoy very much.\r\n\r\nCap Sweet Lychee is very natural and balanced. It has all the characteristics of lychee. However, it's too weak. FA lychee presents the strong perfume scent of lychee, but not natural/fruity enough. FE lychee has the scent of very ripe lychee such as those has been sitting in fruit vendor's cart for several hot days. A bit of cotton candy enhances the sweetness which is presented in most of the tropical fruit.\r\n\r\nFeel free to add a little mint to your preference making it more refreshing. It will lift the ripeness and compliment the floral scent. If you shake and vape, you might want to cut FE lychee even lower as the smell is sharp and even like a chemical to me.\r\n\r\nSnV, steeping 1~2 weeks makes the flavor mellower and blended.",
-  "id": 98623,
-  "image_url": null,
-  "updated_at": "2020-12-06T03:09:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Lychee",
-      "flavor_id": "119",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lychee",
-      "flavor_id": "582",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lychee",
-      "flavor_id": "1657",
-      "millipercent": 500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "dreamcryer",
-  "views": "1268",
-  "slug": "realychee",
-  "total_flavoring": "11.0%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Realychee",
+    "description": "Growing up with tropical fruits, lychee was one of my favorites. Inspired by Skweezed Lychee, I wanted to create the lychee flavor that I used to enjoy very much.\r\n\r\nCap Sweet Lychee is very natural and balanced. It has all the characteristics of lychee. However, it's too weak. FA lychee presents the strong perfume scent of lychee, but not natural\/fruity enough. FE lychee has the scent of very ripe lychee such as those has been sitting in fruit vendor's cart for several hot days. A bit of cotton candy enhances the sweetness which is presented in most of the tropical fruit.\r\n\r\nFeel free to add a little mint to your preference making it more refreshing. It will lift the ripeness and compliment the floral scent. If you shake and vape, you might want to cut FE lychee even lower as the smell is sharp and even like a chemical to me.\r\n\r\nSnV, steeping 1~2 weeks makes the flavor mellower and blended.",
+    "id": 98623,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:45:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Lychee",
+            "flavor_id": "119",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lychee",
+            "flavor_id": "582",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lychee",
+            "flavor_id": "1657",
+            "millipercent": 500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "dreamcryer",
+    "views": "1277",
+    "created_at": "2018-04-28",
+    "slug": "realychee",
+    "total_flavoring": "11.0%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0"
 }

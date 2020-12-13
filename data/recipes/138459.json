@@ -1,69 +1,71 @@
 {
-  "name": "Apple Fritter | Developed",
-  "description": "This is a collaborative creation by DEVELOPED: Skiddlz, AlfredPudding, Max Savage, Graham, folkart, and guest Jerry. \r\nThis recipe is our representation of a Apple Fritter without using CAP Cinnamon Danish Swirl.  Full Development Notes on DEVELOPED Ep. 6 https://www.youtube.com/watch?v=w6IA-bWr8tM \r\n\r\nOur weekly episodes will be released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST https://www.youtube.com/c/developedDIY",
-  "id": 138459,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/138459/APPLE_FRITTER_ATF.png",
-  "updated_at": "2020-12-08T00:50:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pastry Zest",
-      "flavor_id": "8562",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Belgian Waffle",
-      "flavor_id": "1478",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple",
-      "flavor_id": "4364",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bavarian Cream ",
-      "flavor_id": "9951",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 2000,
-      "vendor": "JF"
-    }
-  ],
-  "author": "Developed",
-  "views": "3356",
-  "slug": "apple_fritter_developed",
-  "total_flavoring": "17.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dougc",
-      "score": "5",
-      "text": "This is delicious! A smooth, balanced and flavorful apple fritter, and without the baggage of CDS. Absolute genius. Developed has quickly become my favorite mixing show. The expertise of the members, the banter and the collaborative creative process make this show both educational and entertaining. Thank you all for doing the show and sharing this excellent recipe!"
-    }
-  ]
+    "name": "Apple Fritter | Developed",
+    "description": "This is a collaborative creation by DEVELOPED: Skiddlz, AlfredPudding, Max Savage, Graham, folkart, and guest Jerry. \r\nThis recipe is our representation of a Apple Fritter without using CAP Cinnamon Danish Swirl.  Full Development Notes on DEVELOPED Ep. 6 https:\/\/www.youtube.com\/watch?v=w6IA-bWr8tM \r\n\r\nOur weekly episodes will be released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST https:\/\/www.youtube.com\/c\/developedDIY",
+    "id": 138459,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/138459\/APPLE_FRITTER_ATF.png",
+    "updated_at": "2020-12-12T10:34:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pastry Zest",
+            "flavor_id": "8562",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Belgian Waffle",
+            "flavor_id": "1478",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple",
+            "flavor_id": "4364",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bavarian Cream ",
+            "flavor_id": "9951",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 2000,
+            "vendor": "JF"
+        }
+    ],
+    "author": "Developed",
+    "views": "3371",
+    "created_at": "2019-02-09",
+    "slug": "apple_fritter_developed",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/138459.png",
+    "total_flavoring": "17.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dougc",
+            "score": 5,
+            "text": "This is delicious! A smooth, balanced and flavorful apple fritter, and without the baggage of CDS. Absolute genius. Developed has quickly become my favorite mixing show. The expertise of the members, the banter and the collaborative creative process make this show both educational and entertaining. Thank you all for doing the show and sharing this excellent recipe!"
+        }
+    ]
 }

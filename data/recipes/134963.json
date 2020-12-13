@@ -1,50 +1,50 @@
 {
-  "name": "Coffee Cookie Pudding",
-  "description": "Cappuccino infused pudding with chocolate cookie crumbs throughout, topped with vanilla rich whipped cream.\r\n\r\n",
-  "id": 134963,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/134963/3FD55EEA-CDA9-4D96-B0FB-1ACEE78C3FD0.jpeg",
-  "updated_at": "2020-12-06T04:11:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "2251",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Smooth Cappuccino Cream",
-      "flavor_id": "6060",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "RinVapes",
-  "views": "1431",
-  "slug": "coffee_cookie_pudding",
-  "total_flavoring": "5.15%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coffee Cookie Pudding",
+    "description": "Cappuccino infused pudding with chocolate cookie crumbs throughout, topped with vanilla rich whipped cream.\r\n\r\n",
+    "id": 134963,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/134963\/3FD55EEA-CDA9-4D96-B0FB-1ACEE78C3FD0.jpeg",
+    "updated_at": "2020-12-12T15:40:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "2251",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Smooth Cappuccino Cream",
+            "flavor_id": "6060",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "RinVapes",
+    "views": "1440",
+    "created_at": "2019-01-14",
+    "slug": "coffee_cookie_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/134963.jpeg",
+    "total_flavoring": "5.15%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

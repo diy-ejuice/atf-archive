@@ -1,69 +1,70 @@
 {
-  "name": "Happy Memorial Day",
-  "description": "this is yet another twist on a classic popsicle I love the 4th of firecracker version so I'm trying to remix it for the weekend guys enjoy its very refreshing",
-  "id": 102224,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Boom!",
-      "flavor_id": "1204",
-      "millipercent": 7000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cherry",
-      "flavor_id": "649",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Powerful Sour",
-      "flavor_id": "10054",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1618",
-  "slug": "happy_memorial_day",
-  "total_flavoring": "15.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "110",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Happy Memorial Day",
+    "description": "this is yet another twist on a classic popsicle I love the 4th of firecracker version so I'm trying to remix it for the weekend guys enjoy its very refreshing",
+    "id": 102224,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:11:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Boom!",
+            "flavor_id": "1204",
+            "millipercent": 7000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cherry",
+            "flavor_id": "649",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Powerful Sour",
+            "flavor_id": "10054",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1632",
+    "created_at": "2018-05-23",
+    "slug": "happy_memorial_day",
+    "total_flavoring": "15.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "110",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

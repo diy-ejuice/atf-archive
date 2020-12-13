@@ -1,62 +1,62 @@
 {
-  "name": "ADV Tobacco ",
-  "description": "A recipe based on tobacco , coffee and biscuit. Ideal for all day vaping. The coffee flavor used is Coffee Kawa (Inawera).",
-  "id": 66768,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66768/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-07T10:43:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Black Jack Tobacco",
-      "flavor_id": "714",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coffee",
-      "flavor_id": "716",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Royal Club Tobacco",
-      "flavor_id": "907",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco C",
-      "flavor_id": "864",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "1939",
-  "slug": "adv_tobacco",
-  "total_flavoring": "4.4%",
-  "steep_days": "20",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "ADV Tobacco ",
+    "description": "A recipe based on tobacco , coffee and biscuit. Ideal for all day vaping. The coffee flavor used is Coffee Kawa (Inawera).",
+    "id": 66768,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66768\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-12T11:51:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Black Jack Tobacco",
+            "flavor_id": "714",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coffee",
+            "flavor_id": "716",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Royal Club Tobacco",
+            "flavor_id": "907",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco C",
+            "flavor_id": "864",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "1945",
+    "created_at": "2017-10-05",
+    "slug": "adv_tobacco",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66768.jpg",
+    "total_flavoring": "4.4%",
+    "steep_days": "20",
+    "best_vg": "70%",
+    "temperature": "0"
 }

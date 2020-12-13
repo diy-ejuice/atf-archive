@@ -1,68 +1,70 @@
 {
-  "name": "godsdog",
-  "description": "I dunno what to write here. This is a weird one, but oddly delicious. Inspiration was taken from @concreteriver's Fiestas and Fiascos and anything by @Philosaphucker with his ability to use big percentages of cactus. Just try it and see :)",
-  "id": 154279,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154279/Confucius.jpg",
-  "updated_at": "2020-12-08T00:50:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1250,
-      "vendor": "LA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Horsegame",
-  "views": "1744",
-  "slug": "godsdog",
-  "total_flavoring": "10.25%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "1",
-      "text": "This didn't do it for me one bit. Tasted like awful, spoiled fruit pudding. No bueno."
-    },
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "WOW man. It is pretty amazing and I was able to use some of my TFA Papaya..lol"
-    }
-  ]
+    "name": "godsdog",
+    "description": "I dunno what to write here. This is a weird one, but oddly delicious. Inspiration was taken from @concreteriver's Fiestas and Fiascos and anything by @Philosaphucker with his ability to use big percentages of cactus. Just try it and see :)",
+    "id": 154279,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154279\/Confucius.jpg",
+    "updated_at": "2020-12-12T18:30:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1250,
+            "vendor": "LA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Horsegame",
+    "views": "1748",
+    "created_at": "2019-06-04",
+    "slug": "godsdog",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154279.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 1,
+            "text": "This didn't do it for me one bit. Tasted like awful, spoiled fruit pudding. No bueno."
+        },
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "WOW man. It is pretty amazing and I was able to use some of my TFA Papaya..lol"
+        }
+    ]
 }

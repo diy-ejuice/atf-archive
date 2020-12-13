@@ -1,51 +1,53 @@
 {
-  "name": "BRDZ Bilberry Cuzzy",
-  "description": "Literally one of the first ever juices i made like over 4 years ago now and still find it enjoyable. Dead simple custard with plenty of flavour, gotta love the old skool",
-  "id": 202384,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202384/Blueberry-Cobbler-final2.jpg",
-  "updated_at": "2020-12-08T00:51:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BRDZ",
-  "views": "1090",
-  "slug": "brdz_bilberry_cuzzy",
-  "total_flavoring": "12.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "Been enjoying this mix very much! Time for a second batch."
-    }
-  ]
+    "name": "BRDZ Bilberry Cuzzy",
+    "description": "Literally one of the first ever juices i made like over 4 years ago now and still find it enjoyable. Dead simple custard with plenty of flavour, gotta love the old skool",
+    "id": 202384,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202384\/Blueberry-Cobbler-final2.jpg",
+    "updated_at": "2020-12-12T18:30:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BRDZ",
+    "views": "1101",
+    "created_at": "2020-08-04",
+    "slug": "brdz_bilberry_cuzzy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202384.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "Been enjoying this mix very much! Time for a second batch."
+        }
+    ]
 }

@@ -1,44 +1,44 @@
 {
-  "name": "Butter Pecan Ice Cream",
-  "description": "I used OoO Vanilla Ice Cream Blend III (instead of the one listed above) but it wasn't available to select. \r\n\r\n**I mix low so you may need to increase my percentages from 50%-100% (double)",
-  "id": 59491,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59491/bp.jpg",
-  "updated_at": "2020-12-01T02:14:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1720",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1800,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "8396",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "RinVapes",
-  "views": "1080",
-  "slug": "butter_pecan_ice_cream",
-  "total_flavoring": "7.8%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "20%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Butter Pecan Ice Cream",
+    "description": "I used OoO Vanilla Ice Cream Blend III (instead of the one listed above) but it wasn't available to select. \r\n\r\n**I mix low so you may need to increase my percentages from 50%-100% (double)",
+    "id": 59491,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/59491\/bp.jpg",
+    "updated_at": "2020-12-11T04:37:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1720",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1800,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "8396",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "RinVapes",
+    "views": "1086",
+    "created_at": "2017-08-11",
+    "slug": "butter_pecan_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/59491.jpg",
+    "total_flavoring": "7.8%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "20%",
+    "temperature": "0"
 }

@@ -1,44 +1,44 @@
 {
-  "name": "Pomegranate Lime Cactus",
-  "description": "A pomegranate/lime juice.  Nice and simple.",
-  "id": 84840,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/84840/images__1_.jpeg",
-  "updated_at": "2020-12-05T19:50:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus - Lime",
-      "flavor_id": "2179",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MetalOz",
-  "views": "1490",
-  "slug": "pomegranate_lime_cactus",
-  "total_flavoring": "9.0%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pomegranate Lime Cactus",
+    "description": "A pomegranate\/lime juice.  Nice and simple.",
+    "id": 84840,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/84840\/images__1_.jpeg",
+    "updated_at": "2020-12-11T14:07:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus - Lime",
+            "flavor_id": "2179",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MetalOz",
+    "views": "1498",
+    "created_at": "2018-01-21",
+    "slug": "pomegranate_lime_cactus",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/84840.jpeg",
+    "total_flavoring": "9.0%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0"
 }

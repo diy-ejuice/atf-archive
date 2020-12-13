@@ -1,56 +1,56 @@
 {
-  "name": "Strawnana milkshake v2",
-  "description": "V1 has a really green taste, like you're eating the stem with the berry. or some of the leaves.",
-  "id": 34434,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34434/sbm.jpg",
-  "updated_at": "2020-12-07T22:31:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Lulzor",
-  "views": "2141",
-  "slug": "strawnana_milkshake_v2",
-  "total_flavoring": "16.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawnana milkshake v2",
+    "description": "V1 has a really green taste, like you're eating the stem with the berry. or some of the leaves.",
+    "id": 34434,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/34434\/sbm.jpg",
+    "updated_at": "2020-12-12T02:44:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Lulzor",
+    "views": "2154",
+    "created_at": "2017-03-01",
+    "slug": "strawnana_milkshake_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/34434.jpg",
+    "total_flavoring": "16.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

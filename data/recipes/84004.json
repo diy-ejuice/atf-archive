@@ -1,56 +1,58 @@
 {
-  "name": "Maple Art",
-  "description": "This is a revision of a recipe I made on a Youtube video. I increased percentages for better flavor on the steep. This recipe is good on the shake but really comes into it's own on a week or longer steep. It is also big batch approved, I am vaping some that is months old.\r\n\r\nA tried and tested tobacco pairing.\r\n\r\nFA Maple Syrup for the Maple backed up by CAP Caramel for added richness.\r\n\r\nEnjoy!",
-  "id": 84004,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/84004/Maple_Art.JPG",
-  "updated_at": "2020-12-08T00:49:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "26",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Fear",
-  "views": "4751",
-  "slug": "maple_art",
-  "total_flavoring": "7.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I've been carrying this around at work for a good while now, and it's a banger of a maple tobacco recipe."
-    },
-    {
-      "user": "RdaJunkie",
-      "score": "5",
-      "text": "made with VT golden syrup instead of the maple syrup. this stuff is awesome as always from fear. keeps getting better with age. one of my favorites next to burleyscotch which has been an adv for me. i always have to have some on hand. keep up the good work sir"
-    }
-  ]
+    "name": "Maple Art",
+    "description": "This is a revision of a recipe I made on a Youtube video. I increased percentages for better flavor on the steep. This recipe is good on the shake but really comes into it's own on a week or longer steep. It is also big batch approved, I am vaping some that is months old.\r\n\r\nA tried and tested tobacco pairing.\r\n\r\nFA Maple Syrup for the Maple backed up by CAP Caramel for added richness.\r\n\r\nEnjoy!",
+    "id": 84004,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/84004\/Maple_Art.JPG",
+    "updated_at": "2020-12-12T20:29:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "26",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Fear",
+    "views": "4765",
+    "created_at": "2018-01-16",
+    "slug": "maple_art",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/84004.JPG",
+    "total_flavoring": "7.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I've been carrying this around at work for a good while now, and it's a banger of a maple tobacco recipe."
+        },
+        {
+            "user": "RdaJunkie",
+            "score": 5,
+            "text": "made with VT golden syrup instead of the maple syrup. this stuff is awesome as always from fear. keeps getting better with age. one of my favorites next to burleyscotch which has been an adv for me. i always have to have some on hand. keep up the good work sir"
+        }
+    ]
 }

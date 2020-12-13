@@ -1,51 +1,53 @@
 {
-  "name": "Hibiscus Iced Tea",
-  "description": "This is my first original recipe and is still very much a work in progress! I live in Texas and when it gets hot, it gets HOT! One of the best ways I've found to cool off in the blistering summer months is an ice cold glass of hibiscus iced tea made by someone who really knows how to make it. It has a sour-sweet citrusy flavor that is incredibly refreshing. \r\n\r\nSomething is still missing, so as always, please let me know if you have any suggestions as to how this can be improved or added/subtracted upon.",
-  "id": 150348,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/150348/download.jpeg",
-  "updated_at": "2020-12-06T20:44:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tea Black Water Soluble",
-      "flavor_id": "548",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "shaunculwell",
-  "views": "967",
-  "slug": "hibiscus_iced_tea",
-  "total_flavoring": "4.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "3",
-      "text": "you're right, def something missing.  Id start, first of all, with adding some citrus to it, in this mix id try perhaps, Shisha lemon or Italian Lemon Sicily.  You could also try some sour or tart and sweet to give some sour aspect.  Then to fill out the hibiscus flavor, you could try rounding it out with TPA hibiscus (CAP is great but I find more to give a syrupy mouthfeel as opposed to an actual hibiscus flavour, the two combined though are great) or backing it up with some WF grenadine which may help push the hibiscus forward.  Lastly, Id get rid of the koolada and put in some WS23, the menthol taste in koolada distracts from the profile you're trying to achieve here, with WS23, you're just getting cooling, no taste, start at .25-.50%.  Hope that helps :)"
-    }
-  ]
+    "name": "Hibiscus Iced Tea",
+    "description": "This is my first original recipe and is still very much a work in progress! I live in Texas and when it gets hot, it gets HOT! One of the best ways I've found to cool off in the blistering summer months is an ice cold glass of hibiscus iced tea made by someone who really knows how to make it. It has a sour-sweet citrusy flavor that is incredibly refreshing. \r\n\r\nSomething is still missing, so as always, please let me know if you have any suggestions as to how this can be improved or added\/subtracted upon.",
+    "id": 150348,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/150348\/download.jpeg",
+    "updated_at": "2020-12-11T14:09:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tea Black Water Soluble",
+            "flavor_id": "548",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "shaunculwell",
+    "views": "973",
+    "created_at": "2019-05-06",
+    "slug": "hibiscus_iced_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/150348.jpeg",
+    "total_flavoring": "4.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 3,
+            "text": "you're right, def something missing.  Id start, first of all, with adding some citrus to it, in this mix id try perhaps, Shisha lemon or Italian Lemon Sicily.  You could also try some sour or tart and sweet to give some sour aspect.  Then to fill out the hibiscus flavor, you could try rounding it out with TPA hibiscus (CAP is great but I find more to give a syrupy mouthfeel as opposed to an actual hibiscus flavour, the two combined though are great) or backing it up with some WF grenadine which may help push the hibiscus forward.  Lastly, Id get rid of the koolada and put in some WS23, the menthol taste in koolada distracts from the profile you're trying to achieve here, with WS23, you're just getting cooling, no taste, start at .25-.50%.  Hope that helps :)"
+        }
+    ]
 }

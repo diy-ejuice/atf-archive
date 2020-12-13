@@ -1,57 +1,59 @@
 {
-  "name": "Kanzi ",
-  "description": "Kanzi Clone.  Refreshing delectable mix of Watermelon, Strawberry and Kiwi.     Blanketing your soul      \r\n\r\nLet me know what you think been working on this for a while.   Would love to know what you think good or bad and changes.    Adjust Sweetness to your liking.  SNV or couple days to get everything happy.   ",
-  "id": 187022,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/187022/66CA5EFD-17E5-42C1-9307-D91A141B524A.jpeg",
-  "updated_at": "2020-12-08T00:51:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Watermelon",
-      "flavor_id": "48",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi (double)",
-      "flavor_id": "242",
-      "millipercent": 1300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Rock10574",
-  "views": "1552",
-  "slug": "kanzi",
-  "total_flavoring": "11.8%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Jthectic",
-      "score": "5",
-      "text": "Pretty tasty mix. Good modern percentages on things. Upfront with the kiwi and watermelon."
-    }
-  ]
+    "name": "Kanzi ",
+    "description": "Kanzi Clone.  Refreshing delectable mix of Watermelon, Strawberry and Kiwi.     Blanketing your soul      \r\n\r\nLet me know what you think been working on this for a while.   Would love to know what you think good or bad and changes.    Adjust Sweetness to your liking.  SNV or couple days to get everything happy.   ",
+    "id": 187022,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/187022\/66CA5EFD-17E5-42C1-9307-D91A141B524A.jpeg",
+    "updated_at": "2020-12-12T10:35:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Watermelon",
+            "flavor_id": "48",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi (double)",
+            "flavor_id": "242",
+            "millipercent": 1300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Rock10574",
+    "views": "1560",
+    "created_at": "2020-03-04",
+    "slug": "kanzi",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/187022.jpeg",
+    "total_flavoring": "11.8%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Jthectic",
+            "score": 5,
+            "text": "Pretty tasty mix. Good modern percentages on things. Upfront with the kiwi and watermelon."
+        }
+    ]
 }

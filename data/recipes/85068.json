@@ -1,50 +1,50 @@
 {
-  "name": "orange flower cake",
-  "description": "orange and jasmine over a cake base with some cream and buttercream to sweeten it up - straight after making it it just tastes like cake but I am hoping I put enough orange cream and jasmine in there to make a subtle orange flower taste",
-  "id": 85068,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85068/cake-590815_1920.jpg",
-  "updated_at": "2020-12-02T07:59:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "1755",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Jasmine Natural",
-      "flavor_id": "410",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "spicygal",
-  "views": "885",
-  "slug": "orange_flower_cake",
-  "total_flavoring": "12.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "orange flower cake",
+    "description": "orange and jasmine over a cake base with some cream and buttercream to sweeten it up - straight after making it it just tastes like cake but I am hoping I put enough orange cream and jasmine in there to make a subtle orange flower taste",
+    "id": 85068,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85068\/cake-590815_1920.jpg",
+    "updated_at": "2020-12-10T16:00:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "1755",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Jasmine Natural",
+            "flavor_id": "410",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "spicygal",
+    "views": "892",
+    "created_at": "2018-01-23",
+    "slug": "orange_flower_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85068.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

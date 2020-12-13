@@ -1,57 +1,59 @@
 {
-  "name": "Kahlua & Cream",
-  "description": "Kahlua Coffee-flavored liqueur is made with the finest 100% Arabica coffee beans. These quality beans  are then mixed with sugar cane rum, vanilla bean, and notes of caramel.\r\nThey combine perfectly to make an easy-sipping liqueur.\r\n\r\nDelicious description so i decided to serve it over a sweet melted vanilla ice cream. Enjoy!\r\n\r\nTook VTA Coffee Liqueur up to 8% to make it as thick as possible and added 2% VTA Light Rum to give an extra kick of booziness and rum flavour.\r\nLight rum also has a nice caramelic note that plays wonderfully in the mix.",
-  "id": 164547,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/164547/IMG_1376.JPG",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coffee Liqueur",
-      "flavor_id": "8857",
-      "millipercent": 8000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Light Rum",
-      "flavor_id": "8918",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "VenSyBoy",
-  "views": "725",
-  "slug": "kahlua_cream",
-  "total_flavoring": "16.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "Really digging this recipe.  I originally mixed this with what I thought was VT Light Rum and it was fucking terrible... like scorched cotton terrible.  Then I realized my bottle labeled \"VT Rum\" was actually \"Golden Rum.\"  Eventually I ordered the correct one and remade it and its great. Especially after a steep, gets better and better.  I haven't played with Coffee Liquor enough but this tastes like the dominant flavor by far.  Interested to try different variations on this but this is a great recipe for this type of profile."
-    }
-  ]
+    "name": "Kahlua & Cream",
+    "description": "Kahlua Coffee-flavored liqueur is made with the finest 100% Arabica coffee beans. These quality beans  are then mixed with sugar cane rum, vanilla bean, and notes of caramel.\r\nThey combine perfectly to make an easy-sipping liqueur.\r\n\r\nDelicious description so i decided to serve it over a sweet melted vanilla ice cream. Enjoy!\r\n\r\nTook VTA Coffee Liqueur up to 8% to make it as thick as possible and added 2% VTA Light Rum to give an extra kick of booziness and rum flavour.\r\nLight rum also has a nice caramelic note that plays wonderfully in the mix.",
+    "id": 164547,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/164547\/IMG_1376.JPG",
+    "updated_at": "2020-12-12T10:35:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coffee Liqueur",
+            "flavor_id": "8857",
+            "millipercent": 8000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Light Rum",
+            "flavor_id": "8918",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "VenSyBoy",
+    "views": "733",
+    "created_at": "2019-08-26",
+    "slug": "kahlua_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/164547.JPG",
+    "total_flavoring": "16.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "Really digging this recipe.  I originally mixed this with what I thought was VT Light Rum and it was fucking terrible... like scorched cotton terrible.  Then I realized my bottle labeled \"VT Rum\" was actually \"Golden Rum.\"  Eventually I ordered the correct one and remade it and its great. Especially after a steep, gets better and better.  I haven't played with Coffee Liquor enough but this tastes like the dominant flavor by far.  Interested to try different variations on this but this is a great recipe for this type of profile."
+        }
+    ]
 }

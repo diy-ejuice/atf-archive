@@ -1,57 +1,59 @@
 {
-  "name": "Simple Glazed Donut",
-  "description": "made on Fresh03 Live Vape Rye benefit stream...cross your fingers but its good off the shake for me.. after a few days steep it needs sweetener of your choice for sure..id start at .5%",
-  "id": 178416,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178416/glazed_donut.jpg",
-  "updated_at": "2020-12-08T00:51:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shortbread Cookies SC",
-      "flavor_id": "9045",
-      "millipercent": 750,
-      "vendor": "WF"
-    }
-  ],
-  "author": "VapinTrucker",
-  "views": "1855",
-  "slug": "simple_glazed_donut",
-  "total_flavoring": "6.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "stevenv84",
-      "score": "5",
-      "text": "5 stars alone for the reason this was created. Great job.&#xD;\n"
-    }
-  ]
+    "name": "Simple Glazed Donut",
+    "description": "made on Fresh03 Live Vape Rye benefit stream...cross your fingers but its good off the shake for me.. after a few days steep it needs sweetener of your choice for sure..id start at .5%",
+    "id": 178416,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178416\/glazed_donut.jpg",
+    "updated_at": "2020-12-12T18:30:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shortbread Cookies SC",
+            "flavor_id": "9045",
+            "millipercent": 750,
+            "vendor": "WF"
+        }
+    ],
+    "author": "VapinTrucker",
+    "views": "1868",
+    "created_at": "2019-12-21",
+    "slug": "simple_glazed_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178416.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "stevenv84",
+            "score": 5,
+            "text": "5 stars alone for the reason this was created. Great job.&#xD;\n"
+        }
+    ]
 }

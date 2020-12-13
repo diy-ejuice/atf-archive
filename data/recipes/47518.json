@@ -1,62 +1,62 @@
 {
-  "name": "The June Bug",
-  "description": "A popular cocktail, the June Bug is fruity and sweet with a slight citrus kick",
-  "id": 47518,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/47518/June_Bug.jpg",
-  "updated_at": "2020-12-06T12:54:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "312",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "37",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Cold Pressed",
-      "flavor_id": "4891",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MesterWard",
-  "views": "1949",
-  "slug": "the_june_bug",
-  "total_flavoring": "19.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The June Bug",
+    "description": "A popular cocktail, the June Bug is fruity and sweet with a slight citrus kick",
+    "id": 47518,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/47518\/June_Bug.jpg",
+    "updated_at": "2020-12-11T14:16:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "312",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "37",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Cold Pressed",
+            "flavor_id": "4891",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MesterWard",
+    "views": "1954",
+    "created_at": "2017-05-24",
+    "slug": "the_june_bug",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/47518.jpg",
+    "total_flavoring": "19.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

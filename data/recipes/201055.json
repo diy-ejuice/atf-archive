@@ -1,56 +1,55 @@
 {
-  "name": "Mango Cream",
-  "description": "For this recipe, I was really wanting a to find a good mango centered dessert using creams or milks I had been experimenting with lately. So I decided to K.I.S.S. and just take a stab at a simple Mango Cream which is almost custard-y but more akin to a heavy whipped cream with mango puree folded in a pushed through a sieve. At least that's what I was going for in my mind.\r\n\r\nCream(Milky Undertones) & FLV Cream: These two for me work really well as a duo to add creaminess to a recipe. I have been using them at a 2 to 1 ratio and they compliment each other very well this way, FLV cream adding a lot more weight to the milky undertones..  This creates a nice cream base, along with the vanilla swirl, for the mango to sit on.\r\n\r\nVanilla Swirl: This is used basically as the main body and adds a dessert vanilla note to the mix. At 3% this does the trick. \r\n\r\nFLV Mango: I hear from most people this is the best mango and it didn't disappoint. It is thick and well rounded and really accentuates my favorite aspects of a mango. I used it at 1% because I wanted more of the cream/dessert aspects to come out so the mango didn't take over. I like it where it is, but If you wanted more mango and a little less of the vanilla cream base, I think 2% would work just fine.\r\n\r\nBlood Orange(Natural): Added in a very small quantity to add a bit of acidity to the mix that I thought it needed. The flavor of orange doesn't really come across as much as just the acidity does.\r\n\r\nStrawberry Gummy Candy: This might seem like a weird choice, and admittedly it may be. But I wanted a sort of gelatinous, sweet, candy sort of mouthfeel to round out any harsh edges left over from adding the orange. And I love this flavor so it seemed like even if the strawberry came forward a bit, I would still like the mix. For me, at a half of a percent I don't really taste strawberry but it did  get some of that mouthfeel I was looking for so I kept it in.\r\n\r\nThis is a work in progress and I am always open to any  suggestions to make my mixes better as I am a relatively new mixer (only about 6 months). Enjoy!",
-  "id": 201055,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:45:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry Gummy Candy SC",
-      "flavor_id": "10097",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Badohmbrey",
-  "views": "606",
-  "slug": "mango_cream",
-  "total_flavoring": "9.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Cream",
+    "description": "For this recipe, I was really wanting a to find a good mango centered dessert using creams or milks I had been experimenting with lately. So I decided to K.I.S.S. and just take a stab at a simple Mango Cream which is almost custard-y but more akin to a heavy whipped cream with mango puree folded in a pushed through a sieve. At least that's what I was going for in my mind.\r\n\r\nCream(Milky Undertones) & FLV Cream: These two for me work really well as a duo to add creaminess to a recipe. I have been using them at a 2 to 1 ratio and they compliment each other very well this way, FLV cream adding a lot more weight to the milky undertones..  This creates a nice cream base, along with the vanilla swirl, for the mango to sit on.\r\n\r\nVanilla Swirl: This is used basically as the main body and adds a dessert vanilla note to the mix. At 3% this does the trick. \r\n\r\nFLV Mango: I hear from most people this is the best mango and it didn't disappoint. It is thick and well rounded and really accentuates my favorite aspects of a mango. I used it at 1% because I wanted more of the cream\/dessert aspects to come out so the mango didn't take over. I like it where it is, but If you wanted more mango and a little less of the vanilla cream base, I think 2% would work just fine.\r\n\r\nBlood Orange(Natural): Added in a very small quantity to add a bit of acidity to the mix that I thought it needed. The flavor of orange doesn't really come across as much as just the acidity does.\r\n\r\nStrawberry Gummy Candy: This might seem like a weird choice, and admittedly it may be. But I wanted a sort of gelatinous, sweet, candy sort of mouthfeel to round out any harsh edges left over from adding the orange. And I love this flavor so it seemed like even if the strawberry came forward a bit, I would still like the mix. For me, at a half of a percent I don't really taste strawberry but it did  get some of that mouthfeel I was looking for so I kept it in.\r\n\r\nThis is a work in progress and I am always open to any  suggestions to make my mixes better as I am a relatively new mixer (only about 6 months). Enjoy!",
+    "id": 201055,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:08:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry Gummy Candy SC",
+            "flavor_id": "10097",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Badohmbrey",
+    "views": "621",
+    "created_at": "2020-07-20",
+    "slug": "mango_cream",
+    "total_flavoring": "9.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,50 +1,49 @@
 {
-  "name": "Frosty bowl",
-  "description": "Im just looking to make a simple cereal recipe with few ingredients.",
-  "id": 156840,
-  "image_url": null,
-  "updated_at": "2020-11-30T05:43:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Gruspojken",
-  "views": "993",
-  "slug": "frosty_bowl",
-  "total_flavoring": "9.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Frosty bowl",
+    "description": "Im just looking to make a simple cereal recipe with few ingredients.",
+    "id": 156840,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:30:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Gruspojken",
+    "views": "999",
+    "created_at": "2019-06-23",
+    "slug": "frosty_bowl",
+    "total_flavoring": "9.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

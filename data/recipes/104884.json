@@ -1,62 +1,62 @@
 {
-  "name": "Honey Nutty Cereal",
-  "description": "My attempt at a honey nut cheerios or golden grahams cereal with marshmallows and slight hint of banana",
-  "id": 104884,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104884/Honet_Nut_Cereal.jpg",
-  "updated_at": "2020-12-07T19:15:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Golden Cereal",
-      "flavor_id": "4104",
-      "millipercent": 10000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Baklava",
-      "flavor_id": "4514",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "1183",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "joelbryant1960",
-  "views": "1149",
-  "slug": "honey_nutty_cereal",
-  "total_flavoring": "23.5%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Honey Nutty Cereal",
+    "description": "My attempt at a honey nut cheerios or golden grahams cereal with marshmallows and slight hint of banana",
+    "id": 104884,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104884\/Honet_Nut_Cereal.jpg",
+    "updated_at": "2020-12-11T15:02:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Golden Cereal",
+            "flavor_id": "4104",
+            "millipercent": 10000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Baklava",
+            "flavor_id": "4514",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "1183",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "joelbryant1960",
+    "views": "1162",
+    "created_at": "2018-06-09",
+    "slug": "honey_nutty_cereal",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104884.jpg",
+    "total_flavoring": "23.5%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

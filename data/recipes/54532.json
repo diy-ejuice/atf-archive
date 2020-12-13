@@ -1,68 +1,67 @@
 {
-  "name": "Cascould Extra Flavor",
-  "description": "My Tribute to Cascade with an extra burst of flavor! This is my ADV. If you want more of a bite to it, you can increase the Fuji and decrease the Apple.\r\n\r\nStrawberry Blend - Equal parts TFA Strawberry Ripe, FA Strawberry, and CAP Sweet Strawberry",
-  "id": 54532,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:07:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 9000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Apple",
-      "flavor_id": "207",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Quince",
-      "flavor_id": "264",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry blend",
-      "flavor_id": "2144",
-      "millipercent": 9000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "898",
-  "slug": "cascould_extra_flavor",
-  "total_flavoring": "26.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cascould Extra Flavor",
+    "description": "My Tribute to Cascade with an extra burst of flavor! This is my ADV. If you want more of a bite to it, you can increase the Fuji and decrease the Apple.\r\n\r\nStrawberry Blend - Equal parts TFA Strawberry Ripe, FA Strawberry, and CAP Sweet Strawberry",
+    "id": 54532,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:40:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 9000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Apple",
+            "flavor_id": "207",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Quince",
+            "flavor_id": "264",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry blend",
+            "flavor_id": "2144",
+            "millipercent": 9000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "902",
+    "created_at": "2017-07-08",
+    "slug": "cascould_extra_flavor",
+    "total_flavoring": "26.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

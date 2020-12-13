@@ -1,74 +1,76 @@
 {
-  "name": "Melonious Funk",
-  "description": "Every since I did the cantaloupe peach tea for the DIYorDIE mixathon I wanted to play around with the peach and cantaloupe pairing more. To me it was really close to an heirloom melon by the name of Charentais. The Charentais is a a really rich, sweet, thick and slightly floral cantaloupe-ish melon. Anyways, I wanted a Cantaloupe forward vape that wasn't just a boring melon. This has some nuance and is really close to my target.\r\n\r\nUp front, I have been through a few iterations of this since the mixathon. The only thing missing from my testing is TFA Honeysuckle. It is good with it in it, it is good without the cactus, it is good without the cactus with honeysuckle. I used honeysuckle at 1.5% and at 2%. This is the funky odd version I cant seem to stop vaping. It does work without the WS-23, I have been enjoying it quite a bit lately, Above 0.5% the WS-23 becomes too distracting to me but other people might enjoy it higher.\r\n\r\nFlavor Breakdown\r\n\r\nCAP Cantaloupe - Seriously good cantaloupe, only flaw is the slight to heavy leaning towards candy depending on usage.\r\nINW Cactus - Just enough to pull the melon back towards fruit instead of candy, the little extra juiciness does not hurt the profile.\r\nFA Pear - For some juice and as well to lean even further towards fruit.\r\nINW Peach and JF Honey Peach - This pairing brings some more flesh and thickness into the mix as well as bringing a slightly floral edge to the mix.\r\nINW Custard - An easy button for mouthfeel, texture, body, thickness, etc, etc, etc, Also useful in many other applications. Used here to thicken and add that almost custardy thick note that a really ripe cantaloupe or charentais will have.\r\n\r\nThis does need the 2 days for the cactus to die down and the custard to find it's place.\r\n\r\nFun Food Fact - Diacetyl is present in really ripe Cantaloupe. It is mostly produced through fermentation, a good many fruits/melons/berries start fermenting the second they ripen.",
-  "id": 59185,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59185/Melonious_Funk.jpg",
-  "updated_at": "2020-12-08T00:49:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 300,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Fear",
-  "views": "4131",
-  "slug": "melonious_funk",
-  "total_flavoring": "7.6%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cwill111",
-      "score": "5",
-      "text": "The flavor from this mix really gives your a ripe melon. I believe it the mix of the two peaches that's pushing it. The pear seems to be giving its  watery wetness. I also mixed a second batch of this and subbed the custard for oba oba. It's really good as well, similar mouth feel without the diary note. Will certainly mix again. "
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "It's melonious, it's funky, I really dig it. It gets five stars for accuracy, flavor, and pleasantly scratching my WS-23 itch. It delivers, as advertised, a sweet, juicy, rich, not-your-average cantaloupe flavor. I think this praise needs to come with a caveat, though: This melon is ripe AF. Some will taste it as overly ripe, I'm afraid. If you want some crunch or snap from your cantaloupe, the idea of a mushy melt-in-your-mouth version yucks you out, and you're sensitive to the sometimes cloyingly funkiness of fully ripened melons, it might be a recipe for you to pass over. But if \"that almost custardy thick note that a really ripe cantaloupe\" has is your jam, I say waste no time in getting it mixed up. "
-    }
-  ]
+    "name": "Melonious Funk",
+    "description": "Every since I did the cantaloupe peach tea for the DIYorDIE mixathon I wanted to play around with the peach and cantaloupe pairing more. To me it was really close to an heirloom melon by the name of Charentais. The Charentais is a a really rich, sweet, thick and slightly floral cantaloupe-ish melon. Anyways, I wanted a Cantaloupe forward vape that wasn't just a boring melon. This has some nuance and is really close to my target.\r\n\r\nUp front, I have been through a few iterations of this since the mixathon. The only thing missing from my testing is TFA Honeysuckle. It is good with it in it, it is good without the cactus, it is good without the cactus with honeysuckle. I used honeysuckle at 1.5% and at 2%. This is the funky odd version I cant seem to stop vaping. It does work without the WS-23, I have been enjoying it quite a bit lately, Above 0.5% the WS-23 becomes too distracting to me but other people might enjoy it higher.\r\n\r\nFlavor Breakdown\r\n\r\nCAP Cantaloupe - Seriously good cantaloupe, only flaw is the slight to heavy leaning towards candy depending on usage.\r\nINW Cactus - Just enough to pull the melon back towards fruit instead of candy, the little extra juiciness does not hurt the profile.\r\nFA Pear - For some juice and as well to lean even further towards fruit.\r\nINW Peach and JF Honey Peach - This pairing brings some more flesh and thickness into the mix as well as bringing a slightly floral edge to the mix.\r\nINW Custard - An easy button for mouthfeel, texture, body, thickness, etc, etc, etc, Also useful in many other applications. Used here to thicken and add that almost custardy thick note that a really ripe cantaloupe or charentais will have.\r\n\r\nThis does need the 2 days for the cactus to die down and the custard to find it's place.\r\n\r\nFun Food Fact - Diacetyl is present in really ripe Cantaloupe. It is mostly produced through fermentation, a good many fruits\/melons\/berries start fermenting the second they ripen.",
+    "id": 59185,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/59185\/Melonious_Funk.jpg",
+    "updated_at": "2020-12-12T20:29:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 300,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Fear",
+    "views": "4139",
+    "created_at": "2017-08-09",
+    "slug": "melonious_funk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/59185.jpg",
+    "total_flavoring": "7.6%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cwill111",
+            "score": 5,
+            "text": "The flavor from this mix really gives your a ripe melon. I believe it the mix of the two peaches that's pushing it. The pear seems to be giving its  watery wetness. I also mixed a second batch of this and subbed the custard for oba oba. It's really good as well, similar mouth feel without the diary note. Will certainly mix again. "
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "It's melonious, it's funky, I really dig it. It gets five stars for accuracy, flavor, and pleasantly scratching my WS-23 itch. It delivers, as advertised, a sweet, juicy, rich, not-your-average cantaloupe flavor. I think this praise needs to come with a caveat, though: This melon is ripe AF. Some will taste it as overly ripe, I'm afraid. If you want some crunch or snap from your cantaloupe, the idea of a mushy melt-in-your-mouth version yucks you out, and you're sensitive to the sometimes cloyingly funkiness of fully ripened melons, it might be a recipe for you to pass over. But if \"that almost custardy thick note that a really ripe cantaloupe\" has is your jam, I say waste no time in getting it mixed up. "
+        }
+    ]
 }

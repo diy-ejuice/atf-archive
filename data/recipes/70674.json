@@ -1,63 +1,65 @@
 {
-  "name": "BudderZ",
-  "description": "What can I say. This is pretty much just a nice solid butterscotch custard. Give it a mix and allow to steep for 2-3 weeks and enjoy ",
-  "id": 70674,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/70674/D5706D2D-5942-456F-BF98-DC46CE904F51.jpeg",
-  "updated_at": "2020-12-08T00:49:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanillin 10% (pg)",
-      "flavor_id": "190",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "FlyingCustard",
-  "views": "1667",
-  "slug": "budderz",
-  "total_flavoring": "17.0%",
-  "steep_days": "15",
-  "best_vg": "70%",
-  "temperature": "400",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Hawger03",
-      "score": "5",
-      "text": "Very tasty and only gets better with age.  I think this really hits it's stride at 30 days"
-    }
-  ]
+    "name": "BudderZ",
+    "description": "What can I say. This is pretty much just a nice solid butterscotch custard. Give it a mix and allow to steep for 2-3 weeks and enjoy ",
+    "id": 70674,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/70674\/D5706D2D-5942-456F-BF98-DC46CE904F51.jpeg",
+    "updated_at": "2020-12-12T14:05:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanillin 10% (pg)",
+            "flavor_id": "190",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "FlyingCustard",
+    "views": "1677",
+    "created_at": "2017-10-26",
+    "slug": "budderz",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/70674.jpeg",
+    "total_flavoring": "17.0%",
+    "steep_days": "15",
+    "best_vg": "70%",
+    "temperature": "400",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Hawger03",
+            "score": 5,
+            "text": "Very tasty and only gets better with age.  I think this really hits it's stride at 30 days"
+        }
+    ]
 }

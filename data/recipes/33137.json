@@ -1,75 +1,77 @@
 {
-  "name": "PB&B Waffle",
-  "description": "Peanut Butter and Banana Waffle.\r\nHeavy on peanuts and bakery side, but Bavarian and Whipped Cream rounds out texture. \r\nBanana plays in the background.",
-  "id": 33137,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33137/pbb.jpg",
-  "updated_at": "2020-12-08T00:49:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ripe Banana",
-      "flavor_id": "269",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Waffle (yc)",
-      "flavor_id": "744",
-      "millipercent": 200,
-      "vendor": "INW"
-    }
-  ],
-  "author": "kb_zwrl",
-  "views": "1627",
-  "slug": "pbb_waffle",
-  "total_flavoring": "17.7%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Mati_official",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "PB&B Waffle",
+    "description": "Peanut Butter and Banana Waffle.\r\nHeavy on peanuts and bakery side, but Bavarian and Whipped Cream rounds out texture. \r\nBanana plays in the background.",
+    "id": 33137,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/33137\/pbb.jpg",
+    "updated_at": "2020-12-12T09:12:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ripe Banana",
+            "flavor_id": "269",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Waffle (yc)",
+            "flavor_id": "744",
+            "millipercent": 200,
+            "vendor": "INW"
+        }
+    ],
+    "author": "kb_zwrl",
+    "views": "1637",
+    "created_at": "2017-02-21",
+    "slug": "pbb_waffle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/33137.jpg",
+    "total_flavoring": "17.7%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Mati_official",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

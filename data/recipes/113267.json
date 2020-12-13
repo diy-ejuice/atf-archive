@@ -1,38 +1,38 @@
 {
-  "name": "Supreme Banana Dessert",
-  "description": "Banana cheesecake and ice cream\r\n\r\nA Scrumptious Banana Cheese Cake. Ive found this to be very good after 10 days but feel it could be better with more steep time",
-  "id": 113267,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/113267/small-20180803-23108-xcb45u.jpg",
-  "updated_at": "2020-12-05T06:48:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "7737",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bullfrogi",
-  "views": "1475",
-  "slug": "supreme_banana_dessert",
-  "total_flavoring": "5.5%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Supreme Banana Dessert",
+    "description": "Banana cheesecake and ice cream\r\n\r\nA Scrumptious Banana Cheese Cake. Ive found this to be very good after 10 days but feel it could be better with more steep time",
+    "id": 113267,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/113267\/small-20180803-23108-xcb45u.jpg",
+    "updated_at": "2020-12-10T13:45:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "7737",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bullfrogi",
+    "views": "1482",
+    "created_at": "2018-08-03",
+    "slug": "supreme_banana_dessert",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/113267.jpg",
+    "total_flavoring": "5.5%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

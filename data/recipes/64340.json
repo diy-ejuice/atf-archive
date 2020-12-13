@@ -1,81 +1,83 @@
 {
-  "name": "Cocunut cream pie",
-  "description": "This is a nice light coconut cream pie flavor. Perfect for a nice light dessert vape. This could Definetely be used as a Stone to add fruits to as well. I simply love it just as is. \r\nFLV Coconut - Brings that Authentic cocunut flavor and really make it taste top notch.\r\nTFA Coconut Candy - This adds a nice cocunut sweetness to the recipe bringing it to more of that dessert type flavor.\r\nGraham Cracker Clear and inw biscuit -combine to bring the flaky Crust of a pie to the recipe.\r\nVanilla Swirl TFA - brings a solid vanilla flavor that works well in various bakery recipes.\r\nShisha vanilla - this Adds a nice light sweet Vanilla flavor to add to the goodness of vanilla Swirl.\r\nTFA Butter- just brings a little buttery note to the flaky Crust to make it feel like a true bakery pie fresh out of the oven. \r\nFA Cream Fresh adds that nice dairy note as well as the whipped cream topping that you experience in a real Cocunut cream pie. \r\nCap Supersweet- this is optional, but I think it just gives the recipe a much needed sweetness to make it that much better. Mixed at 70/30. Steep 7 days for best results .",
-  "id": 64340,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64340/IMG_0419.JPG",
-  "updated_at": "2020-12-08T00:49:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut",
-      "flavor_id": "640",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1371",
-  "slug": "cocunut_cream_pie",
-  "total_flavoring": "9.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "SlashaLO",
-      "score": "4",
-      "text": "Did a great job on a coconut cream pie! You can taste the crust, separate from the creams, and the coconut stands out without being too over bearing. That also is my only small complaint. While not being over powering, I get that suntan lotion off note from the coconut here. Only ever so slightly. I don't know how either with as low add the %s are here but that's also just me. This is still very good though. "
-    }
-  ]
+    "name": "Cocunut cream pie",
+    "description": "This is a nice light coconut cream pie flavor. Perfect for a nice light dessert vape. This could Definetely be used as a Stone to add fruits to as well. I simply love it just as is. \r\nFLV Coconut - Brings that Authentic cocunut flavor and really make it taste top notch.\r\nTFA Coconut Candy - This adds a nice cocunut sweetness to the recipe bringing it to more of that dessert type flavor.\r\nGraham Cracker Clear and inw biscuit -combine to bring the flaky Crust of a pie to the recipe.\r\nVanilla Swirl TFA - brings a solid vanilla flavor that works well in various bakery recipes.\r\nShisha vanilla - this Adds a nice light sweet Vanilla flavor to add to the goodness of vanilla Swirl.\r\nTFA Butter- just brings a little buttery note to the flaky Crust to make it feel like a true bakery pie fresh out of the oven. \r\nFA Cream Fresh adds that nice dairy note as well as the whipped cream topping that you experience in a real Cocunut cream pie. \r\nCap Supersweet- this is optional, but I think it just gives the recipe a much needed sweetness to make it that much better. Mixed at 70\/30. Steep 7 days for best results .",
+    "id": 64340,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/64340\/IMG_0419.JPG",
+    "updated_at": "2020-12-12T10:33:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut",
+            "flavor_id": "640",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1375",
+    "created_at": "2017-09-17",
+    "slug": "cocunut_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/64340.JPG",
+    "total_flavoring": "9.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SlashaLO",
+            "score": 4,
+            "text": "Did a great job on a coconut cream pie! You can taste the crust, separate from the creams, and the coconut stands out without being too over bearing. That also is my only small complaint. While not being over powering, I get that suntan lotion off note from the coconut here. Only ever so slightly. I don't know how either with as low add the %s are here but that's also just me. This is still very good though. "
+        }
+    ]
 }

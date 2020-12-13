@@ -1,62 +1,62 @@
 {
-  "name": "Blackberry Milkshake",
-  "description": "I liked VTA Blackberry so good, I thought I run the Gambit on it. The VTA Shisha Blackcurrant is a little cleaner than the rhubarb. The Milkshake Base really thickens up the ice cream into a well rounded vape. Sweetner was added in also, makes the Blackberry shine. Any kind of sweetner would be fine, I just like FLV better.",
-  "id": 136582,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136582/images.jpg",
-  "updated_at": "2020-12-07T09:45:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackberry",
-      "flavor_id": "8832",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Boysenberry Preserves",
-      "flavor_id": "7741",
-      "millipercent": 1500,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Milkshake Base",
-      "flavor_id": "8927",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Blackcurrant",
-      "flavor_id": "8962",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3500,
-      "vendor": "LB"
-    }
-  ],
-  "author": "MixandHope",
-  "views": "1278",
-  "slug": "blackberry_milkshake",
-  "total_flavoring": "11.25%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blackberry Milkshake",
+    "description": "I liked VTA Blackberry so good, I thought I run the Gambit on it. The VTA Shisha Blackcurrant is a little cleaner than the rhubarb. The Milkshake Base really thickens up the ice cream into a well rounded vape. Sweetner was added in also, makes the Blackberry shine. Any kind of sweetner would be fine, I just like FLV better.",
+    "id": 136582,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/136582\/images.jpg",
+    "updated_at": "2020-12-11T15:03:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackberry",
+            "flavor_id": "8832",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Boysenberry Preserves",
+            "flavor_id": "7741",
+            "millipercent": 1500,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Milkshake Base",
+            "flavor_id": "8927",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Blackcurrant",
+            "flavor_id": "8962",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3500,
+            "vendor": "LB"
+        }
+    ],
+    "author": "MixandHope",
+    "views": "1290",
+    "created_at": "2019-01-26",
+    "slug": "blackberry_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/136582.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

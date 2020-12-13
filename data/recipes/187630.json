@@ -1,44 +1,44 @@
 {
-  "name": "Rin's Zinger Cake",
-  "description": "Yellow cake base with cream filling. Light raspberry and coconut outer later. \"Zinger\" style. ",
-  "id": 187630,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/187630/zinger.png",
-  "updated_at": "2020-12-07T23:38:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dessicated Coconut",
-      "flavor_id": "9362",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Raspberry",
-      "flavor_id": "8967",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 1750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 750,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "805",
-  "slug": "rins_zinger_cake",
-  "total_flavoring": "3.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Zinger Cake",
+    "description": "Yellow cake base with cream filling. Light raspberry and coconut outer later. \"Zinger\" style. ",
+    "id": 187630,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/187630\/zinger.png",
+    "updated_at": "2020-12-10T16:01:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dessicated Coconut",
+            "flavor_id": "9362",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Raspberry",
+            "flavor_id": "8967",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 1750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 750,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "812",
+    "created_at": "2020-03-08",
+    "slug": "rins_zinger_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/187630.png",
+    "total_flavoring": "3.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

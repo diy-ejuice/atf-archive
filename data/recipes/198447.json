@@ -1,68 +1,67 @@
 {
-  "name": "Kiberry Melon",
-  "description": "Started out with insparation of the kanzi recipes online.\r\nTweaked to my own liking",
-  "id": 198447,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:46:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kiwi (double)",
-      "flavor_id": "242",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Watermelon",
-      "flavor_id": "126",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Flavordog",
-  "views": "452",
-  "slug": "kiberry_melon",
-  "total_flavoring": "15.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kiberry Melon",
+    "description": "Started out with insparation of the kanzi recipes online.\r\nTweaked to my own liking",
+    "id": 198447,
+    "image_url": null,
+    "updated_at": "2020-12-11T04:40:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kiwi (double)",
+            "flavor_id": "242",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Watermelon",
+            "flavor_id": "126",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Flavordog",
+    "views": "458",
+    "created_at": "2020-06-22",
+    "slug": "kiberry_melon",
+    "total_flavoring": "15.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

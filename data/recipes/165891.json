@@ -1,56 +1,58 @@
 {
-  "name": "Kitty's Pink Mess (Recipe fit for beginners)",
-  "description": "Profile: Strawberry Milk\r\n\r\nNotes:\r\n\r\nThis recipe was specifically made for the episode of Noted: Old World Strawberries, which I participated in.\r\n\r\nDuring all my tests of European strawberry brands, I bumped into MB Strawberry Milk, which happened to be exactly what I was looking for. So I made this the star of the show. It's from their M-line, which kinda makes it a one-shot that lacks something.\r\nTo me, it's more of a cream than an actual milk, but oh boy it does it well in that department.\r\nTo add little bit of roundness to it, I decided in TFA Vanilla Swirl which smoothens out the cream even further and adds just a touch of vanilla.\r\n\r\nI have always loved my strawberry shakes and ice creams with some running gooey caramel. Of all my caramel choices I boiled it down to two: either VT Salted Caramel or FW Caramel (salted). Knowing both flavors well, my choice fell on FW Caramel (salted) as it is just a touch more sweet and gooey than VT Salted Caramel and I wanted this recipe to be sweet.\r\n\r\nThe MB Sweet Strawberry is there to help and boost this strawberry in MB Strawberry Milk, as Strawberry Milk has a tough time to distinguish both flavors and generally are just blended. I needed the strawberry to be a little bit more there and since I had just tried MB Sweet Strawberry and had it in my top 3 for noted as number 1, I figured it would be the perfect choice.\r\n\r\nI consider this a very simple and easy recipe for beginners to get into mixing, as you won't have to worry too much about balancing the strawberries and cream thanks to the perfection MB Strawberry Milk really is.\r\n\r\nWorks perfectly fine as SnV, but if you leave it over night that FW Caramel (salted) really kicks into gear.\r\n\r\nEnjoy!",
-  "id": 165891,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/165891/strawberry-milk-ok.jpg",
-  "updated_at": "2020-12-08T00:51:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Milk",
-      "flavor_id": "10387",
-      "millipercent": 4000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "1514",
-      "millipercent": 2000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "1384",
-  "slug": "kittys_pink_mess_recipe_fit_for_beginners",
-  "total_flavoring": "8.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Mizz",
-      "score": "5",
-      "text": "mixed this last week, great strawberry milk thats unlike other strawberry milks! Thanks Kitty &#xD;\n"
-    },
-    {
-      "user": "stevenv84",
-      "score": "5",
-      "text": "I mixed this one up and reviewed it on Down the rabbit hole mixing. This is a great combination of flavor I would have never thought of. Thanks for this great mix."
-    }
-  ]
+    "name": "Kitty's Pink Mess (Recipe fit for beginners)",
+    "description": "Profile: Strawberry Milk\r\n\r\nNotes:\r\n\r\nThis recipe was specifically made for the episode of Noted: Old World Strawberries, which I participated in.\r\n\r\nDuring all my tests of European strawberry brands, I bumped into MB Strawberry Milk, which happened to be exactly what I was looking for. So I made this the star of the show. It's from their M-line, which kinda makes it a one-shot that lacks something.\r\nTo me, it's more of a cream than an actual milk, but oh boy it does it well in that department.\r\nTo add little bit of roundness to it, I decided in TFA Vanilla Swirl which smoothens out the cream even further and adds just a touch of vanilla.\r\n\r\nI have always loved my strawberry shakes and ice creams with some running gooey caramel. Of all my caramel choices I boiled it down to two: either VT Salted Caramel or FW Caramel (salted). Knowing both flavors well, my choice fell on FW Caramel (salted) as it is just a touch more sweet and gooey than VT Salted Caramel and I wanted this recipe to be sweet.\r\n\r\nThe MB Sweet Strawberry is there to help and boost this strawberry in MB Strawberry Milk, as Strawberry Milk has a tough time to distinguish both flavors and generally are just blended. I needed the strawberry to be a little bit more there and since I had just tried MB Sweet Strawberry and had it in my top 3 for noted as number 1, I figured it would be the perfect choice.\r\n\r\nI consider this a very simple and easy recipe for beginners to get into mixing, as you won't have to worry too much about balancing the strawberries and cream thanks to the perfection MB Strawberry Milk really is.\r\n\r\nWorks perfectly fine as SnV, but if you leave it over night that FW Caramel (salted) really kicks into gear.\r\n\r\nEnjoy!",
+    "id": 165891,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/165891\/strawberry-milk-ok.jpg",
+    "updated_at": "2020-12-12T11:53:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Milk",
+            "flavor_id": "10387",
+            "millipercent": 4000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "1514",
+            "millipercent": 2000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1409",
+    "created_at": "2019-09-07",
+    "slug": "kittys_pink_mess_recipe_fit_for_beginners",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/165891.jpg",
+    "total_flavoring": "8.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Mizz",
+            "score": 5,
+            "text": "mixed this last week, great strawberry milk thats unlike other strawberry milks! Thanks Kitty &#xD;\n"
+        },
+        {
+            "user": "stevenv84",
+            "score": 5,
+            "text": "I mixed this one up and reviewed it on Down the rabbit hole mixing. This is a great combination of flavor I would have never thought of. Thanks for this great mix."
+        }
+    ]
 }

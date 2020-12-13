@@ -1,74 +1,74 @@
 {
-  "name": "StrawCo Pie v2",
-  "description": "It's a revision of my original recipe StrawCo Pie (https://alltheflavors.com/recipes/49954#strawco_pie_by_daffynash) which was one of my first attempts of DIY recipes.\r\n\r\nEven if I was enjoying vaping the first version, I had a feeling that it could be better with some alterations in Concentrates.\r\n\r\nIt gives finally a good feeling of a pastry pie with a base of buttery biscuits, a Caramel layer before the cream with the strawberries and a topping of grated chocolate.\r\n\r\nIt is kinda sweet as is, but for the super sweet vape lovers, you can add some sweetener adjusted to your taste.\r\n\r\nOn strawberries, after 4-5 months working on this recipe, I mixed with dozens of combinations on strawberries and I ended up on this.\r\n\r\nIt can be vaped @ 12-15 days, but the perfect result is after 3 weeks.\r\n\r\nMix and enjoy..",
-  "id": 50705,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50705/25569.jpg",
-  "updated_at": "2020-12-07T17:34:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "daffynash",
-  "views": "1058",
-  "slug": "strawco_pie_v2",
-  "total_flavoring": "17.8%",
-  "steep_days": "20",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "StrawCo Pie v2",
+    "description": "It's a revision of my original recipe StrawCo Pie (https:\/\/alltheflavors.com\/recipes\/49954#strawco_pie_by_daffynash) which was one of my first attempts of DIY recipes.\r\n\r\nEven if I was enjoying vaping the first version, I had a feeling that it could be better with some alterations in Concentrates.\r\n\r\nIt gives finally a good feeling of a pastry pie with a base of buttery biscuits, a Caramel layer before the cream with the strawberries and a topping of grated chocolate.\r\n\r\nIt is kinda sweet as is, but for the super sweet vape lovers, you can add some sweetener adjusted to your taste.\r\n\r\nOn strawberries, after 4-5 months working on this recipe, I mixed with dozens of combinations on strawberries and I ended up on this.\r\n\r\nIt can be vaped @ 12-15 days, but the perfect result is after 3 weeks.\r\n\r\nMix and enjoy..",
+    "id": 50705,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/50705\/25569.jpg",
+    "updated_at": "2020-12-10T17:56:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "daffynash",
+    "views": "1062",
+    "created_at": "2017-06-14",
+    "slug": "strawco_pie_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/50705.jpg",
+    "total_flavoring": "17.8%",
+    "steep_days": "20",
+    "best_vg": "0%",
+    "temperature": "0"
 }

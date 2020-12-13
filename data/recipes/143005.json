@@ -1,68 +1,68 @@
 {
-  "name": "Spicy Professor",
-  "description": "Original Idea: Caramel Nutty Tobacco\r\n\r\nProcess: Worked on in the diy_ejuice discord by members who were present. Finalized in the second iteration, these are the original version's ratios. It had a bit more cream and the unfortunate addition of FLV Connecticut Shade which just overpowered the caramel notes and buried the subtleties of the tobaccos. Some experimentation with the original formula yielded this mix. Added to top it off was just a hair of INW Shisha Vanilla which adds warmth and a sensation of sweet without the added sugar and FLV Clove. Clove dried the mix up quite a bit and played off the rich notes from the CT Shade making this a really rich spiced tobacco blend.\r\n\r\nDescription: Spicy, nutty, creamy, caramel, dry, and tobacco forward\r\n\r\nResult: This alteration to the V1 fixed some of the balancing issues we were having. Adding FLV Clove and Shisha Vanilla really balanced out all the creams and tamed the bullying of CT Shade leaving you with a heavily spiced, RY4 that wasnt too sweet, rich or carmel-ly. We hope you try it and enjoy it as much as we did.\r\n\r\nJoin the discord and share your ideas! https://discord.gg/ufVTyAQ",
-  "id": 143005,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143005/jerry-lewis-nutty-professor.jpg",
-  "updated_at": "2020-12-08T00:50:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "RY1",
-      "flavor_id": "2057",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Hazelnuts & Cream",
-      "flavor_id": "6056",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Clove",
-      "flavor_id": "639",
-      "millipercent": 150,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "diy_discord",
-  "views": "2362",
-  "slug": "spicy_professor",
-  "total_flavoring": "9.4%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Spicy Professor",
+    "description": "Original Idea: Caramel Nutty Tobacco\r\n\r\nProcess: Worked on in the diy_ejuice discord by members who were present. Finalized in the second iteration, these are the original version's ratios. It had a bit more cream and the unfortunate addition of FLV Connecticut Shade which just overpowered the caramel notes and buried the subtleties of the tobaccos. Some experimentation with the original formula yielded this mix. Added to top it off was just a hair of INW Shisha Vanilla which adds warmth and a sensation of sweet without the added sugar and FLV Clove. Clove dried the mix up quite a bit and played off the rich notes from the CT Shade making this a really rich spiced tobacco blend.\r\n\r\nDescription: Spicy, nutty, creamy, caramel, dry, and tobacco forward\r\n\r\nResult: This alteration to the V1 fixed some of the balancing issues we were having. Adding FLV Clove and Shisha Vanilla really balanced out all the creams and tamed the bullying of CT Shade leaving you with a heavily spiced, RY4 that wasnt too sweet, rich or carmel-ly. We hope you try it and enjoy it as much as we did.\r\n\r\nJoin the discord and share your ideas! https:\/\/discord.gg\/ufVTyAQ",
+    "id": 143005,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/143005\/jerry-lewis-nutty-professor.jpg",
+    "updated_at": "2020-12-10T16:01:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "RY1",
+            "flavor_id": "2057",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Hazelnuts & Cream",
+            "flavor_id": "6056",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Clove",
+            "flavor_id": "639",
+            "millipercent": 150,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "diy_discord",
+    "views": "2367",
+    "created_at": "2019-03-17",
+    "slug": "spicy_professor",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/143005.jpg",
+    "total_flavoring": "9.4%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

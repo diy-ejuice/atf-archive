@@ -1,69 +1,70 @@
 {
-  "name": "corn fed puddin",
-  "description": "My attempt at a corn bread pudding type recipe. I wasn't going for a clone but something that gave that sweet corn and cream taste. 3% of OOO Corn Bread used for obvious reasons, it has a sweet wet corn bread smell to it. I couldn't find any AP to support the corn note so I went with 2% CAP Cereal 27 which worked out well with its sweet and flakey type taste/texture. I know the OG Corn Bread Pudding lists a maple note, again not a flavor I had so I improvised with JF Dulce De Leche which has a carmelized sugar not to it I felt would work well. LB Vanilla Ice Cream is just great but its use here is to add buttery creaminess and the vanilla note. To boost the creaminess and thick texture I went with INW Yes, We Cheesecake and INW Custard. This is great right off the shake but a few days of steeping will help out the creams.",
-  "id": 147943,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "4575",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Rick's Sugar Daddy",
-      "flavor_id": "9413",
-      "millipercent": 1000,
-      "vendor": "TBV"
-    }
-  ],
-  "author": "R08U57",
-  "views": "1087",
-  "slug": "corn_fed_puddin",
-  "total_flavoring": "12.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BananaSlamma",
-      "score": "5",
-      "text": "This cornbread custard really hits the spot, my friend. It's sweet, creamy, loaded with notes of vanilla and buttery cornbread goodness. My number one cornbread recipe on ATF was the Country Clouds clone, but this has knocked it off its throne. "
-    }
-  ]
+    "name": "corn fed puddin",
+    "description": "My attempt at a corn bread pudding type recipe. I wasn't going for a clone but something that gave that sweet corn and cream taste. 3% of OOO Corn Bread used for obvious reasons, it has a sweet wet corn bread smell to it. I couldn't find any AP to support the corn note so I went with 2% CAP Cereal 27 which worked out well with its sweet and flakey type taste\/texture. I know the OG Corn Bread Pudding lists a maple note, again not a flavor I had so I improvised with JF Dulce De Leche which has a carmelized sugar not to it I felt would work well. LB Vanilla Ice Cream is just great but its use here is to add buttery creaminess and the vanilla note. To boost the creaminess and thick texture I went with INW Yes, We Cheesecake and INW Custard. This is great right off the shake but a few days of steeping will help out the creams.",
+    "id": 147943,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:07:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "4575",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Rick's Sugar Daddy",
+            "flavor_id": "9413",
+            "millipercent": 1000,
+            "vendor": "TBV"
+        }
+    ],
+    "author": "R08U57",
+    "views": "1093",
+    "created_at": "2019-04-20",
+    "slug": "corn_fed_puddin",
+    "total_flavoring": "12.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BananaSlamma",
+            "score": 5,
+            "text": "This cornbread custard really hits the spot, my friend. It's sweet, creamy, loaded with notes of vanilla and buttery cornbread goodness. My number one cornbread recipe on ATF was the Country Clouds clone, but this has knocked it off its throne. "
+        }
+    ]
 }

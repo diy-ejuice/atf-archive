@@ -1,75 +1,77 @@
 {
-  "name": "Addiction",
-  "description": "We have apples, cream, dark caramel and walnut in this mix that gives us a vaping result for an ADV. Just shake well and its ready! Enjoy!",
-  "id": 139149,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/139149/a0c9f65777633ac564b7b72562268e6b.jpg",
-  "updated_at": "2020-12-08T00:50:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla Ice Cream",
-      "flavor_id": "8880",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "8996",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "1651",
-  "slug": "addiction",
-  "total_flavoring": "6.4%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CygnusY1",
-      "score": "5",
-      "text": "Like this. Lovely profile. Cheers for sharing. "
-    }
-  ]
+    "name": "Addiction",
+    "description": "We have apples, cream, dark caramel and walnut in this mix that gives us a vaping result for an ADV. Just shake well and its ready! Enjoy!",
+    "id": 139149,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/139149\/a0c9f65777633ac564b7b72562268e6b.jpg",
+    "updated_at": "2020-12-12T10:34:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla Ice Cream",
+            "flavor_id": "8880",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "8996",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "1659",
+    "created_at": "2019-02-14",
+    "slug": "addiction",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/139149.jpg",
+    "total_flavoring": "6.4%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "Like this. Lovely profile. Cheers for sharing. "
+        }
+    ]
 }

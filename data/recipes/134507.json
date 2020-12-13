@@ -1,50 +1,50 @@
 {
-  "name": "Peach Pie",
-  "description": "Peach Pie & Cream is the star of this recipe, It has a great cooked peach taste  with a hint of pastry. I added a little Sweet Coconut to enhance the mouth feel, and some Pear to give it a little sweetness and juiciness and to support the peach flavor. Lastly just as touch of Apple Filling to give it a hint of cinnamon to the mix. Sweeten to taste",
-  "id": 134507,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/134507/peach_pie.jpg",
-  "updated_at": "2020-12-07T20:32:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach Pie & Cream",
-      "flavor_id": "6058",
-      "millipercent": 8000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "rickj",
-  "views": "1460",
-  "slug": "peach_pie",
-  "total_flavoring": "11.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach Pie",
+    "description": "Peach Pie & Cream is the star of this recipe, It has a great cooked peach taste  with a hint of pastry. I added a little Sweet Coconut to enhance the mouth feel, and some Pear to give it a little sweetness and juiciness and to support the peach flavor. Lastly just as touch of Apple Filling to give it a hint of cinnamon to the mix. Sweeten to taste",
+    "id": 134507,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/134507\/peach_pie.jpg",
+    "updated_at": "2020-12-10T16:01:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach Pie & Cream",
+            "flavor_id": "6058",
+            "millipercent": 8000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "rickj",
+    "views": "1466",
+    "created_at": "2019-01-11",
+    "slug": "peach_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/134507.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

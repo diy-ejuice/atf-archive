@@ -1,51 +1,53 @@
 {
-  "name": "Cinnaberry Swirl ",
-  "description": "A sweet cinnamon danish, with hints of blueberry on the exhale. Great as a shake and vape, but best if left in a cool, dark place for a few days. ",
-  "id": 15601,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15601/small-20161009-20381-8uk5dl.jpg",
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Flexmaster_Kermit",
-  "views": "2120",
-  "slug": "cinnaberry_swirl",
-  "total_flavoring": "23.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mk0",
-      "score": "5",
-      "text": "Been using it as a shake and vape, delicious! I've gone through 60mls in 4 days"
-    }
-  ]
+    "name": "Cinnaberry Swirl ",
+    "description": "A sweet cinnamon danish, with hints of blueberry on the exhale. Great as a shake and vape, but best if left in a cool, dark place for a few days. ",
+    "id": 15601,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15601\/small-20161009-20381-8uk5dl.jpg",
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Flexmaster_Kermit",
+    "views": "2128",
+    "created_at": "2016-10-08",
+    "slug": "cinnaberry_swirl",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15601.jpg",
+    "total_flavoring": "23.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mk0",
+            "score": 5,
+            "text": "Been using it as a shake and vape, delicious! I've gone through 60mls in 4 days"
+        }
+    ]
 }

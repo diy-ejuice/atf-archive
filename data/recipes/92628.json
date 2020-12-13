@@ -1,38 +1,37 @@
 {
-  "name": "Sour Gummy Candy",
-  "description": "Trying to understand and use sour correctly so this and create a taste of sour gummy bears. My son said this was kind of weak on first day after making. Going to let it steep awhile and try it.",
-  "id": 92628,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:07:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "1414",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "349",
-  "slug": "sour_gummy_candy",
-  "total_flavoring": "15.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sour Gummy Candy",
+    "description": "Trying to understand and use sour correctly so this and create a taste of sour gummy bears. My son said this was kind of weak on first day after making. Going to let it steep awhile and try it.",
+    "id": 92628,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "1414",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "355",
+    "created_at": "2018-03-16",
+    "slug": "sour_gummy_candy",
+    "total_flavoring": "15.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

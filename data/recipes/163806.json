@@ -1,69 +1,71 @@
 {
-  "name": "Bourbon Cream Biscuit",
-  "description": "Profile: Biscuit with Bourbon Cream\r\n\r\nNotes:\r\n\r\nWhen I was a young strapping lad, my favourite biscuit (and still is from time to time) was those with bourbon cream in them as a filling.\r\nSo I set sails to create something like it.\r\n\r\nThe biscuit itself is made using a combo of JF Biscuit as for the base, adding in ooo corn bread for flavor and texture and finalizing the flavor and texture with a notch of AP.\r\nThe cream itself I decided on FA Irish Cream backed up by FLV Bourbon and to add some thickness I added TFA Marshmallow and cream.\r\n\r\nIt's not too overpowering in either the bakery or the booze, but are balanced very well.\r\nBoth inhale and exhale gives you both bakery and booze and people say, that it does smell like a biscuit too.\r\n\r\nI left it for about 7 days steep, to where I found it exactly as I wanted it, but it might turn better over time.\r\n\r\nEnjoy!",
-  "id": 163806,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163806/fireball-chocolate-chip-cookies.jpg",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Corn Bread",
-      "flavor_id": "2007",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon",
-      "flavor_id": "4411",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "1073",
-  "slug": "bourbon_cream_biscuit",
-  "total_flavoring": "9.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "I've long wondered whether I'm more sensitive than most to AP and this recipe convinced me that I am. It's just a little too nutty and kinda corny for a biscuit/cookie here combined with the AP in Biscuit. But I'm not sure it would be better if nutty and corniness were backed down, because it goes really, really well with the rich, sweet bourbon cream just the way it is. "
-    }
-  ]
+    "name": "Bourbon Cream Biscuit",
+    "description": "Profile: Biscuit with Bourbon Cream\r\n\r\nNotes:\r\n\r\nWhen I was a young strapping lad, my favourite biscuit (and still is from time to time) was those with bourbon cream in them as a filling.\r\nSo I set sails to create something like it.\r\n\r\nThe biscuit itself is made using a combo of JF Biscuit as for the base, adding in ooo corn bread for flavor and texture and finalizing the flavor and texture with a notch of AP.\r\nThe cream itself I decided on FA Irish Cream backed up by FLV Bourbon and to add some thickness I added TFA Marshmallow and cream.\r\n\r\nIt's not too overpowering in either the bakery or the booze, but are balanced very well.\r\nBoth inhale and exhale gives you both bakery and booze and people say, that it does smell like a biscuit too.\r\n\r\nI left it for about 7 days steep, to where I found it exactly as I wanted it, but it might turn better over time.\r\n\r\nEnjoy!",
+    "id": 163806,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163806\/fireball-chocolate-chip-cookies.jpg",
+    "updated_at": "2020-12-12T10:34:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Corn Bread",
+            "flavor_id": "2007",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon",
+            "flavor_id": "4411",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1084",
+    "created_at": "2019-08-20",
+    "slug": "bourbon_cream_biscuit",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163806.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "I've long wondered whether I'm more sensitive than most to AP and this recipe convinced me that I am. It's just a little too nutty and kinda corny for a biscuit\/cookie here combined with the AP in Biscuit. But I'm not sure it would be better if nutty and corniness were backed down, because it goes really, really well with the rich, sweet bourbon cream just the way it is. "
+        }
+    ]
 }

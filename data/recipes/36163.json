@@ -1,80 +1,80 @@
 {
-  "name": "Razzleberry Donut",
-  "description": "Delicious donut with a nice Blue raspberry taste on the inhale with a maple donut on the exhale. Just a nice blend. Has a pefect amount of sweetness. ",
-  "id": 36163,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/36163/IMG_0122.JPG",
-  "updated_at": "2020-12-07T12:45:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "AR Blue Raspberry (PG)",
-      "flavor_id": "4910",
-      "millipercent": 3000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1348",
-  "slug": "razzleberry_donut",
-  "total_flavoring": "12.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Razzleberry Donut",
+    "description": "Delicious donut with a nice Blue raspberry taste on the inhale with a maple donut on the exhale. Just a nice blend. Has a pefect amount of sweetness. ",
+    "id": 36163,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/36163\/IMG_0122.JPG",
+    "updated_at": "2020-12-11T14:07:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "AR Blue Raspberry (PG)",
+            "flavor_id": "4910",
+            "millipercent": 3000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1356",
+    "created_at": "2017-03-11",
+    "slug": "razzleberry_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/36163.JPG",
+    "total_flavoring": "12.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

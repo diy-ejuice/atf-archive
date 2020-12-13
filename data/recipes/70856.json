@@ -1,78 +1,80 @@
 {
-  "name": "Peanut Butter Shake",
-  "description": "My take on my favorite ice cream treat. I've been working on this for a while I think it's as close as I'm going to get. I think peanut butter fans will enjoy it. I add 0.5% super sweet but I like a sweet vape. Sweeten to your liking. Hope ya enjoy and comments and criticism(constructive) always welcome.",
-  "id": 70856,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/70856/image.jpeg",
-  "updated_at": "2020-12-08T00:49:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 800,
-      "vendor": "FW"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1200,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Dx Peanut Butter",
-      "flavor_id": "288",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "heatho72",
-  "views": "3649",
-  "slug": "peanut_butter_shake",
-  "total_flavoring": "14.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "staybert",
-      "score": "5",
-      "text": "Never had a peanut butter shake, but this is exactly how I'd imagine it tastes like. Perfect recipie! Also gotten big praise from many of my friends. Mix this up if you like peanut butter."
-    },
-    {
-      "user": "Asire",
-      "score": "3",
-      "text": "After the 7 day steep the peanut butter sadly comes of a bit muted and while containing lots of creams its still not really that creamy. I have to admit its really a PB recipe thats not dry. So for me sadly still only a mediocre recipe"
-    },
-    {
-      "user": "Eyehategod",
-      "score": "5",
-      "text": "Very delicious, love the choice of creams as they are completely complimentary to the more dryer PB notes. Thank you much"
-    },
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "A delicious, creamy peanut butter vape. LB is my favorite ice cream flavor, but am curious to sub with HS French Vanilla Ice cream and push the creaminess even further. Thanks for the tasty recipe. "
-    }
-  ]
+    "name": "Peanut Butter Shake",
+    "description": "My take on my favorite ice cream treat. I've been working on this for a while I think it's as close as I'm going to get. I think peanut butter fans will enjoy it. I add 0.5% super sweet but I like a sweet vape. Sweeten to your liking. Hope ya enjoy and comments and criticism(constructive) always welcome.",
+    "id": 70856,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/70856\/image.jpeg",
+    "updated_at": "2020-12-12T14:05:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 800,
+            "vendor": "FW"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1200,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Dx Peanut Butter",
+            "flavor_id": "288",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "heatho72",
+    "views": "3656",
+    "created_at": "2017-10-27",
+    "slug": "peanut_butter_shake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/70856.jpeg",
+    "total_flavoring": "14.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "staybert",
+            "score": 5,
+            "text": "Never had a peanut butter shake, but this is exactly how I'd imagine it tastes like. Perfect recipie! Also gotten big praise from many of my friends. Mix this up if you like peanut butter."
+        },
+        {
+            "user": "Asire",
+            "score": 3,
+            "text": "After the 7 day steep the peanut butter sadly comes of a bit muted and while containing lots of creams its still not really that creamy. I have to admit its really a PB recipe thats not dry. So for me sadly still only a mediocre recipe"
+        },
+        {
+            "user": "Eyehategod",
+            "score": 5,
+            "text": "Very delicious, love the choice of creams as they are completely complimentary to the more dryer PB notes. Thank you much"
+        },
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "A delicious, creamy peanut butter vape. LB is my favorite ice cream flavor, but am curious to sub with HS French Vanilla Ice cream and push the creaminess even further. Thanks for the tasty recipe. "
+        }
+    ]
 }

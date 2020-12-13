@@ -1,50 +1,49 @@
 {
-  "name": "Sushi",
-  "description": "Delectable Streaks of Bambou, Swedish Fish brazed lightly in Cinnamon served on a bed of rice and finished off with freash creamy avocado.",
-  "id": 145395,
-  "image_url": null,
-  "updated_at": "2020-12-06T03:09:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bambou",
-      "flavor_id": "5634",
-      "millipercent": 5000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Swedish Fish Type",
-      "flavor_id": "1429",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Fish",
-      "flavor_id": "6184",
-      "millipercent": 1000,
-      "vendor": "DF"
-    },
-    {
-      "name": "Thai Sticky Rice",
-      "flavor_id": "9899",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Avocado",
-      "flavor_id": "9380",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "lesvaches",
-  "views": "801",
-  "slug": "sushi",
-  "total_flavoring": "13.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sushi",
+    "description": "Delectable Streaks of Bambou, Swedish Fish brazed lightly in Cinnamon served on a bed of rice and finished off with freash creamy avocado.",
+    "id": 145395,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:04:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bambou",
+            "flavor_id": "5634",
+            "millipercent": 5000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Swedish Fish Type",
+            "flavor_id": "1429",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Fish",
+            "flavor_id": "6184",
+            "millipercent": 1000,
+            "vendor": "DF"
+        },
+        {
+            "name": "Thai Sticky Rice",
+            "flavor_id": "9899",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Avocado",
+            "flavor_id": "9380",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "lesvaches",
+    "views": "805",
+    "created_at": "2019-04-02",
+    "slug": "sushi",
+    "total_flavoring": "13.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,50 +1,49 @@
 {
-  "name": "blueberry cotton candy ",
-  "description": "just a simple blueberry cotton candy just a quick simple mix . ",
-  "id": 167434,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:33:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "2076",
-      "millipercent": 4000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 3000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BigRed",
-  "views": "965",
-  "slug": "blueberry_cotton_candy",
-  "total_flavoring": "9.75%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "blueberry cotton candy ",
+    "description": "just a simple blueberry cotton candy just a quick simple mix . ",
+    "id": 167434,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:42:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "2076",
+            "millipercent": 4000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 3000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BigRed",
+    "views": "976",
+    "created_at": "2019-09-21",
+    "slug": "blueberry_cotton_candy",
+    "total_flavoring": "9.75%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0"
 }

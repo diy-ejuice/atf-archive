@@ -1,68 +1,68 @@
 {
-  "name": "Bee Bee (Lemon Frosted Cereal)",
-  "description": "BEE BEE (Lemon Frosted Cereal)\r\nCAP LEMON MERINGUE PIE/FE LEMON: Lemon Flavoring\r\nCAP CEREAL 27: Whole Grain Corn Flour, Modified Corn Starch\r\nTPA SWEET CEREAL FLAKES: Wheat Flour, Frosting \r\nTPA MERINGUE: Sugar, Oat Flour\r\nOOO CREAM MILKY UNDERTONES: Milk\r\nFW SWEETENER: Sugar",
-  "id": 135037,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135037/3508LEMON_10_03_2012__14_26_53_700.jpg",
-  "updated_at": "2020-12-06T20:44:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Apple Snacks",
-      "flavor_id": "9903",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "oddDrop",
-  "views": "1398",
-  "slug": "bee_bee_lemon_frosted_cereal",
-  "total_flavoring": "14.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bee Bee (Lemon Frosted Cereal)",
+    "description": "BEE BEE (Lemon Frosted Cereal)\r\nCAP LEMON MERINGUE PIE\/FE LEMON: Lemon Flavoring\r\nCAP CEREAL 27: Whole Grain Corn Flour, Modified Corn Starch\r\nTPA SWEET CEREAL FLAKES: Wheat Flour, Frosting \r\nTPA MERINGUE: Sugar, Oat Flour\r\nOOO CREAM MILKY UNDERTONES: Milk\r\nFW SWEETENER: Sugar",
+    "id": 135037,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135037\/3508LEMON_10_03_2012__14_26_53_700.jpg",
+    "updated_at": "2020-12-10T16:01:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Apple Snacks",
+            "flavor_id": "9903",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "oddDrop",
+    "views": "1403",
+    "created_at": "2019-01-15",
+    "slug": "bee_bee_lemon_frosted_cereal",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135037.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

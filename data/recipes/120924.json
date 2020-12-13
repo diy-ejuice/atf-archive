@@ -1,62 +1,62 @@
 {
-  "name": "TABS",
-  "description": "IMPORTANT - RY4 is from Molinberry and not (MPV)\r\n\r\nNot sure if this is for the tobacco-heads or the sweet-tooth vaper but it's a very sweet tobacco. The idea behind the profile was to put Coconut and Native Tobacco up against each other since I find Native to be delicious, but strong. The result was unexpectedly pleasing.\r\n\r\nA very sweet cinnamon thump with a dark tobacco back note.\r\n\r\nUpdate: I have found this to work best as an MTL recipe. I have switched to Molinberry RY4 (Please note that this is marked as MPV flavour house) and included Vanilla Classic (FA) and Butter Cream (CAP).",
-  "id": 120924,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/120924/TABS.png",
-  "updated_at": "2020-11-30T20:59:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "RY4",
-      "flavor_id": "6768",
-      "millipercent": 5000,
-      "vendor": "MPV"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Dx Coconut Candy",
-      "flavor_id": "229",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 600,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "gsm500",
-  "views": "984",
-  "slug": "tabs",
-  "total_flavoring": "8.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "TABS",
+    "description": "IMPORTANT - RY4 is from Molinberry and not (MPV)\r\n\r\nNot sure if this is for the tobacco-heads or the sweet-tooth vaper but it's a very sweet tobacco. The idea behind the profile was to put Coconut and Native Tobacco up against each other since I find Native to be delicious, but strong. The result was unexpectedly pleasing.\r\n\r\nA very sweet cinnamon thump with a dark tobacco back note.\r\n\r\nUpdate: I have found this to work best as an MTL recipe. I have switched to Molinberry RY4 (Please note that this is marked as MPV flavour house) and included Vanilla Classic (FA) and Butter Cream (CAP).",
+    "id": 120924,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/120924\/TABS.png",
+    "updated_at": "2020-12-12T05:50:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "RY4",
+            "flavor_id": "6768",
+            "millipercent": 5000,
+            "vendor": "MPV"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Dx Coconut Candy",
+            "flavor_id": "229",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 600,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "gsm500",
+    "views": "993",
+    "created_at": "2018-09-28",
+    "slug": "tabs",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/120924.png",
+    "total_flavoring": "8.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

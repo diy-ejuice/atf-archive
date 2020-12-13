@@ -1,87 +1,89 @@
 {
-  "name": "Gin Blossom",
-  "description": "A sweet & refreshing Gin cocktail with basil. Modeled after a beverage I had, still a WIP and needs work. Nowadays I would probably sub in FLV Cucumber and Basil.",
-  "id": 14898,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14898/Capture.JPG",
-  "updated_at": "2020-12-08T00:48:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gin",
-      "flavor_id": "519",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Aurora",
-      "flavor_id": "399",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zen Garden",
-      "flavor_id": "478",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "527",
-  "slug": "gin_blossom",
-  "total_flavoring": "11.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ConcreteRiver",
-      "score": "4",
-      "text": "Really really interesting and a great use of basil.  Takes a solid week to pull the juice together.  Sweet and floral.  I'm interested to see where this one goes."
-    }
-  ]
+    "name": "Gin Blossom",
+    "description": "A sweet & refreshing Gin cocktail with basil. Modeled after a beverage I had, still a WIP and needs work. Nowadays I would probably sub in FLV Cucumber and Basil.",
+    "id": 14898,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14898\/Capture.JPG",
+    "updated_at": "2020-12-12T14:04:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gin",
+            "flavor_id": "519",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Aurora",
+            "flavor_id": "399",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zen Garden",
+            "flavor_id": "478",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "541",
+    "created_at": "2016-10-02",
+    "slug": "gin_blossom",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14898.JPG",
+    "total_flavoring": "11.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ConcreteRiver",
+            "score": 4,
+            "text": "Really really interesting and a great use of basil.  Takes a solid week to pull the juice together.  Sweet and floral.  I'm interested to see where this one goes."
+        }
+    ]
 }

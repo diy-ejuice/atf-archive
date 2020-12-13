@@ -1,38 +1,37 @@
 {
-  "name": "Jacked Up Fruits",
-  "description": "This is one of my go-to's. It's very sweet and tangy.",
-  "id": 118685,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Jackfruit",
-      "flavor_id": "240",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 2750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ClouDude",
-  "views": "1499",
-  "slug": "jacked_up_fruits",
-  "total_flavoring": "7.25%",
-  "steep_days": "2",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Jacked Up Fruits",
+    "description": "This is one of my go-to's. It's very sweet and tangy.",
+    "id": 118685,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Jackfruit",
+            "flavor_id": "240",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 2750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ClouDude",
+    "views": "1508",
+    "created_at": "2018-09-12",
+    "slug": "jacked_up_fruits",
+    "total_flavoring": "7.25%",
+    "steep_days": "2",
+    "best_vg": "50%",
+    "temperature": "0"
 }

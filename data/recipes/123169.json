@@ -1,50 +1,50 @@
 {
-  "name": "EncroachMint",
-  "description": "A blueberry mint that will leave you feeling minty fresh!",
-  "id": 123169,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123169/800px_COLOURBOX3193184.jpg",
-  "updated_at": "2020-12-06T20:44:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1600,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 2400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mix Mint",
-      "flavor_id": "797",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Horshack",
-  "views": "1179",
-  "slug": "encroachmint",
-  "total_flavoring": "6.4%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "EncroachMint",
+    "description": "A blueberry mint that will leave you feeling minty fresh!",
+    "id": 123169,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123169\/800px_COLOURBOX3193184.jpg",
+    "updated_at": "2020-12-12T00:41:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1600,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 2400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mix Mint",
+            "flavor_id": "797",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Horshack",
+    "views": "1190",
+    "created_at": "2018-10-14",
+    "slug": "encroachmint",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123169.jpg",
+    "total_flavoring": "6.4%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

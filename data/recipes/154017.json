@@ -1,57 +1,59 @@
 {
-  "name": "Amber",
-  "description": "So a friend of mine got some house liquid at a local vape shop and offered me a puff. I was very very skeptical as most commercial liquids are garbage let alone house juices. But to my surprise it was freaking delicious and I decided right then and there to try to clone it. Well, as many of you know cloning is really freaking hard to do. This mix, however is close enough and scratches that itch I had. Amber was my first and hopefully with this mix, she will be your last.",
-  "id": 154017,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154017/Amber1.jpg",
-  "updated_at": "2020-12-08T00:50:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "3387",
-  "slug": "amber",
-  "total_flavoring": "8.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Gordo",
-      "score": "5",
-      "text": "I love it. Not quite this, not quite that, ….. perfect, delicious."
-    }
-  ]
+    "name": "Amber",
+    "description": "So a friend of mine got some house liquid at a local vape shop and offered me a puff. I was very very skeptical as most commercial liquids are garbage let alone house juices. But to my surprise it was freaking delicious and I decided right then and there to try to clone it. Well, as many of you know cloning is really freaking hard to do. This mix, however is close enough and scratches that itch I had. Amber was my first and hopefully with this mix, she will be your last.",
+    "id": 154017,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154017\/Amber1.jpg",
+    "updated_at": "2020-12-12T18:30:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "3395",
+    "created_at": "2019-06-02",
+    "slug": "amber",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154017.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Gordo",
+            "score": 5,
+            "text": "I love it. Not quite this, not quite that, \u2026.. perfect, delicious."
+        }
+    ]
 }

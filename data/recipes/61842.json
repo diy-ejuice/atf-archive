@@ -1,51 +1,53 @@
 {
-  "name": "Coconut Whipped Cream",
-  "description": "A delicious coconut whipped cream.\r\n\r\nS&V, but best after 3 days.",
-  "id": 61842,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/61842/images.jpg",
-  "updated_at": "2020-12-08T00:49:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MediocreVibes",
-  "views": "1953",
-  "slug": "coconut_whipped_cream",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Illegal_Immigrant",
-      "score": "5",
-      "text": "I keep looking for more coconut flavor in this mix, and I have to remind myself that is is not a coconut vape, but  a coconut whipped cream vape...big difference. The coconut is quite subtle and not an in-your-face coconut flavor. Very very smooth enjoyable vape. Your recipe is featured on this uTube Channel....quite favorably I might add. https://youtu.be/q23rXHJTgYc"
-    }
-  ]
+    "name": "Coconut Whipped Cream",
+    "description": "A delicious coconut whipped cream.\r\n\r\nS&V, but best after 3 days.",
+    "id": 61842,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/61842\/images.jpg",
+    "updated_at": "2020-12-12T10:14:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MediocreVibes",
+    "views": "1960",
+    "created_at": "2017-08-29",
+    "slug": "coconut_whipped_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/61842.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Illegal_Immigrant",
+            "score": 5,
+            "text": "I keep looking for more coconut flavor in this mix, and I have to remind myself that is is not a coconut vape, but  a coconut whipped cream vape...big difference. The coconut is quite subtle and not an in-your-face coconut flavor. Very very smooth enjoyable vape. Your recipe is featured on this uTube Channel....quite favorably I might add. https:\/\/youtu.be\/q23rXHJTgYc"
+        }
+    ]
 }

@@ -1,51 +1,52 @@
 {
-  "name": "Waffle Crisp Cereal",
-  "description": "Really good use of that sadly discontinued waffle. 1-2 drops per 30 ml is plenty. For those that have a little left, try this simple mix! 27 works with so many things, and this is a perfect pairing.",
-  "id": 108013,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Waffle (yc)",
-      "flavor_id": "744",
-      "millipercent": 100,
-      "vendor": "INW"
-    }
-  ],
-  "author": "coop34",
-  "views": "1912",
-  "slug": "waffle_crisp_cereal",
-  "total_flavoring": "7.1%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Luckily I still have about 25mls of INW Waffle and I am glad I do because this is a super tasty recipe. The waffle comes through very well at 0.1%. Your cereal and milk/cream base blend well into the mix too. "
-    }
-  ]
+    "name": "Waffle Crisp Cereal",
+    "description": "Really good use of that sadly discontinued waffle. 1-2 drops per 30 ml is plenty. For those that have a little left, try this simple mix! 27 works with so many things, and this is a perfect pairing.",
+    "id": 108013,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:30:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Waffle (yc)",
+            "flavor_id": "744",
+            "millipercent": 100,
+            "vendor": "INW"
+        }
+    ],
+    "author": "coop34",
+    "views": "1928",
+    "created_at": "2018-07-01",
+    "slug": "waffle_crisp_cereal",
+    "total_flavoring": "7.1%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Luckily I still have about 25mls of INW Waffle and I am glad I do because this is a super tasty recipe. The waffle comes through very well at 0.1%. Your cereal and milk\/cream base blend well into the mix too. "
+        }
+    ]
 }

@@ -1,60 +1,61 @@
 {
-  "name": "'Nana Cream Clone by fizzmustard",
-  "description": "/u/fizzmustard",
-  "id": 3101,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "R08U57",
-  "views": "12560",
-  "slug": "nana_cream_clone_by_fizzmustard",
-  "total_flavoring": "15.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.8,
-  "reviews": [
-    {
-      "user": "BuryMeInSmoke",
-      "score": "4",
-      "text": "I mixed this recipe not long after Fizz first posted it at reddit - this was the first recipe that made me realise DIY juice was viable.  I now find it a little heavy on flavouring for modern type devices but still a classic for atomisers that aren't cloud chuckers. "
-    },
-    {
-      "user": "RobS",
-      "score": "5",
-      "text": "one of my all time favorites"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "An old staple I keep coming back to. Thanks for reposting it here. "
-    },
-    {
-      "user": "crisk",
-      "score": "5",
-      "text": "Finally mixed this up. I simply LOVE it. Amazing juice. "
-    }
-  ]
+    "name": "'Nana Cream Clone by fizzmustard",
+    "description": "\/u\/fizzmustard",
+    "id": 3101,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "R08U57",
+    "views": "12578",
+    "created_at": "2016-05-12",
+    "slug": "nana_cream_clone_by_fizzmustard",
+    "total_flavoring": "15.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BuryMeInSmoke",
+            "score": 4,
+            "text": "I mixed this recipe not long after Fizz first posted it at reddit - this was the first recipe that made me realise DIY juice was viable.  I now find it a little heavy on flavouring for modern type devices but still a classic for atomisers that aren't cloud chuckers. "
+        },
+        {
+            "user": "RobS",
+            "score": 5,
+            "text": "one of my all time favorites"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "An old staple I keep coming back to. Thanks for reposting it here. "
+        },
+        {
+            "user": "crisk",
+            "score": 5,
+            "text": "Finally mixed this up. I simply LOVE it. Amazing juice. "
+        }
+    ]
 }

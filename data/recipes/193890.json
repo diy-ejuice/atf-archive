@@ -1,57 +1,59 @@
 {
-  "name": "Simple Strawberry Cream",
-  "description": "The mix is what it is. Nothing fancy and no fuss. Best to let it sit over night before vaping. ",
-  "id": 193890,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/193890/exps33650_TH1115383D39C.jpg",
-  "updated_at": "2020-12-08T00:51:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "1607",
-  "slug": "simple_strawberry_cream",
-  "total_flavoring": "13.5%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "4",
-      "text": "I mixed this with VT Sweet Strawberry instead of CAP(off notes for me) and LB Vanilla Ice Cream instead of TPA and this is a good mix that's pretty balanced."
-    }
-  ]
+    "name": "Simple Strawberry Cream",
+    "description": "The mix is what it is. Nothing fancy and no fuss. Best to let it sit over night before vaping. ",
+    "id": 193890,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/193890\/exps33650_TH1115383D39C.jpg",
+    "updated_at": "2020-12-12T14:08:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "1615",
+    "created_at": "2020-05-08",
+    "slug": "simple_strawberry_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/193890.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 4,
+            "text": "I mixed this with VT Sweet Strawberry instead of CAP(off notes for me) and LB Vanilla Ice Cream instead of TPA and this is a good mix that's pretty balanced."
+        }
+    ]
 }

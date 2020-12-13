@@ -1,68 +1,70 @@
 {
-  "name": "None More Black",
-  "description": "Smoky tobacco with dark berries. \r\n\r\nThe original idea was to use ingredients with “black” in the name (hence the name), and to try to boost the dark berry notes in Black for Pipe. I think I succeeded with the latter, but the former didn’t quite work out. \r\n\r\nThe first problem with the “Black” idea was TFA Blackberry. Too floral. Same problem with INW Blackcurrant. Wasn’t really feeling it with Black Cherry for Pipe or INW Black Jack either. So to get the main idea to work, I had to pretty much scrap the Blacks.\r\n\r\nFor the tobacco base I ended up going with my Brigade 2506 recipe because that pretty much makes Black for Pipe perfect to me. The berries and Connecticut Shade came together kind of by accident. I asked for some ideas on diy_ejuice and @ID10-T suggested FLV Açaí, and mentioned some cocoa notes. I thought that might be interesting with some FLV Connecticut Shade. I must have read a flavor review for Boysenberry before I went to BCF, because I ended up buying FLV Boysenberry instead of the Açaí. I didn’t realize my mistake until I mixed it up and it tasted pretty good, so I went to thank Dave for the suggestion. Then I saw that he said Açaí. I figured I’d better get that one to see if it’s even better, and it was pretty good too. I knew then that I had to at least try it with both, and by golly it was perfect. \r\n\r\nI have been really digging it in a MTL tank. Those berries are up front on the inhale and then the smoky perfection of Black for Pipe comes in on the back end. ",
-  "id": 63181,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63181/IMG_6864.PNG",
-  "updated_at": "2020-12-08T00:49:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Absolute Cuban Cigar",
-      "flavor_id": "8505",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Acai",
-      "flavor_id": "4357",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "2634",
-  "slug": "none_more_black",
-  "total_flavoring": "6.25%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Holy mother of WOW! I never would have guessed that Brigade 2506 could be improved, but this did it, with these lovely dark sweet berry and cocoa notes. complimenting the robust, smoky, dirty, and delicious tobacco. It's no less satisfying that Brigade - in fact it's more so. Bonus: The room note has gone from \"are you vaping that yucky tobacco again?\" to \"hmmm that one smells good!\"  "
-    },
-    {
-      "user": "brushyyy",
-      "score": "none",
-      "text": "Not too sure why this one is private, but I actually enjoyed this! The blackberry is a HEAVILY dominate profile but I agree with your description on this one, it's very well balanced. This one is for fans of that berry profile with the slightly ashy, tobacco undertones."
-    }
-  ]
+    "name": "None More Black",
+    "description": "Smoky tobacco with dark berries. \r\n\r\nThe original idea was to use ingredients with \u201cblack\u201d in the name (hence the name), and to try to boost the dark berry notes in Black for Pipe. I think I succeeded with the latter, but the former didn\u2019t quite work out. \r\n\r\nThe first problem with the \u201cBlack\u201d idea was TFA Blackberry. Too floral. Same problem with INW Blackcurrant. Wasn\u2019t really feeling it with Black Cherry for Pipe or INW Black Jack either. So to get the main idea to work, I had to pretty much scrap the Blacks.\r\n\r\nFor the tobacco base I ended up going with my Brigade 2506 recipe because that pretty much makes Black for Pipe perfect to me. The berries and Connecticut Shade came together kind of by accident. I asked for some ideas on diy_ejuice and @ID10-T suggested FLV A\u00e7a\u00ed, and mentioned some cocoa notes. I thought that might be interesting with some FLV Connecticut Shade. I must have read a flavor review for Boysenberry before I went to BCF, because I ended up buying FLV Boysenberry instead of the A\u00e7a\u00ed. I didn\u2019t realize my mistake until I mixed it up and it tasted pretty good, so I went to thank Dave for the suggestion. Then I saw that he said A\u00e7a\u00ed. I figured I\u2019d better get that one to see if it\u2019s even better, and it was pretty good too. I knew then that I had to at least try it with both, and by golly it was perfect. \r\n\r\nI have been really digging it in a MTL tank. Those berries are up front on the inhale and then the smoky perfection of Black for Pipe comes in on the back end. ",
+    "id": 63181,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63181\/IMG_6864.PNG",
+    "updated_at": "2020-12-12T10:33:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Absolute Cuban Cigar",
+            "flavor_id": "8505",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Acai",
+            "flavor_id": "4357",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "2644",
+    "created_at": "2017-09-09",
+    "slug": "none_more_black",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63181.PNG",
+    "total_flavoring": "6.25%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Holy mother of WOW! I never would have guessed that Brigade 2506 could be improved, but this did it, with these lovely dark sweet berry and cocoa notes. complimenting the robust, smoky, dirty, and delicious tobacco. It's no less satisfying that Brigade - in fact it's more so. Bonus: The room note has gone from \"are you vaping that yucky tobacco again?\" to \"hmmm that one smells good!\"  "
+        },
+        {
+            "user": "brushyyy",
+            "score": 0,
+            "text": "Not too sure why this one is private, but I actually enjoyed this! The blackberry is a HEAVILY dominate profile but I agree with your description on this one, it's very well balanced. This one is for fans of that berry profile with the slightly ashy, tobacco undertones."
+        }
+    ]
 }

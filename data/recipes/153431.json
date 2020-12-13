@@ -1,92 +1,92 @@
 {
-  "name": "Blueberry Hill",
-  "description": "Blueberry Hill. A bakery recipe with red and blue berries, buttery cream and cream cheese icing. ",
-  "id": 153431,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153431/BBlueberry_Hill.jpg",
-  "updated_at": "2020-12-01T07:52:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1700,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fairy Floss",
-      "flavor_id": "8876",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1800,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry Jam",
-      "flavor_id": "9373",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 100,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 700,
-      "vendor": "LA"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Alx86",
-  "views": "1427",
-  "slug": "blueberry_hill",
-  "total_flavoring": "10.4%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Hill",
+    "description": "Blueberry Hill. A bakery recipe with red and blue berries, buttery cream and cream cheese icing. ",
+    "id": 153431,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153431\/BBlueberry_Hill.jpg",
+    "updated_at": "2020-12-12T14:07:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1700,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fairy Floss",
+            "flavor_id": "8876",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1800,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry Jam",
+            "flavor_id": "9373",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 100,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 700,
+            "vendor": "LA"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Alx86",
+    "views": "1432",
+    "created_at": "2019-05-29",
+    "slug": "blueberry_hill",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153431.jpg",
+    "total_flavoring": "10.4%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

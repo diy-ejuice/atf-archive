@@ -1,50 +1,50 @@
 {
-  "name": "Rum Flappin'",
-  "description": "I like rum, I like oreo cookie; Hence a flapper pie with rum and chocolate crust. Not much else to describe. Sweeten to taste. ",
-  "id": 174645,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174645/Flapper.jpg",
-  "updated_at": "2020-12-05T08:07:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Flapper Pie SC",
-      "flavor_id": "10106",
-      "millipercent": 4000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Marshmallow (Gooey) SC",
-      "flavor_id": "10265",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cookies & Cream – SC",
-      "flavor_id": "7484",
-      "millipercent": 2000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "698",
-  "slug": "rum_flappin",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "425",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rum Flappin'",
+    "description": "I like rum, I like oreo cookie; Hence a flapper pie with rum and chocolate crust. Not much else to describe. Sweeten to taste. ",
+    "id": 174645,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/174645\/Flapper.jpg",
+    "updated_at": "2020-12-11T22:45:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Flapper Pie SC",
+            "flavor_id": "10106",
+            "millipercent": 4000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Marshmallow (Gooey) SC",
+            "flavor_id": "10265",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cookies & Cream \u2013 SC",
+            "flavor_id": "7484",
+            "millipercent": 2000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "708",
+    "created_at": "2019-11-16",
+    "slug": "rum_flappin",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/174645.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "425"
 }

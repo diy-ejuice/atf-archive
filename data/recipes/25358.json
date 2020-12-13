@@ -1,68 +1,68 @@
 {
-  "name": "Straffle ",
-  "description": "Deep fried Ice-cream topped with strawberries.\r\nI'm not blowing my own horn but this recipe its just plain Yumm!\r\nBest mixed at 70PG/30VG",
-  "id": 25358,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25358/fried-ice-cream-17.jpg",
-  "updated_at": "2020-12-07T00:07:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Rice Crunchies",
-      "flavor_id": "142",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "M1K3",
-  "views": "1545",
-  "slug": "straffle",
-  "total_flavoring": "21.9%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Straffle ",
+    "description": "Deep fried Ice-cream topped with strawberries.\r\nI'm not blowing my own horn but this recipe its just plain Yumm!\r\nBest mixed at 70PG\/30VG",
+    "id": 25358,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/25358\/fried-ice-cream-17.jpg",
+    "updated_at": "2020-12-11T03:36:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Rice Crunchies",
+            "flavor_id": "142",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "M1K3",
+    "views": "1558",
+    "created_at": "2017-01-05",
+    "slug": "straffle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/25358.jpg",
+    "total_flavoring": "21.9%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

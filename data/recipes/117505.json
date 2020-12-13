@@ -1,74 +1,73 @@
 {
-  "name": "Deep Fried Oreo's",
-  "description": "So I was sitting in my mixers room on this lovely labor day and the state fair came too mind when I thought of this recipe and its actually pretty tasty mix it up and enjoy",
-  "id": 117505,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Deep Fried Pastry Dough SC",
-      "flavor_id": "8367",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "4466",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "O's Cookie",
-      "flavor_id": "1873",
-      "millipercent": 2500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1393",
-  "slug": "deep_fried_oreos",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Deep Fried Oreo's",
+    "description": "So I was sitting in my mixers room on this lovely labor day and the state fair came too mind when I thought of this recipe and its actually pretty tasty mix it up and enjoy",
+    "id": 117505,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Deep Fried Pastry Dough SC",
+            "flavor_id": "8367",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "4466",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "O's Cookie",
+            "flavor_id": "1873",
+            "millipercent": 2500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1401",
+    "created_at": "2018-09-03",
+    "slug": "deep_fried_oreos",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "110"
 }

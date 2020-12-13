@@ -1,68 +1,67 @@
 {
-  "name": "The Great Crape Escape",
-  "description": "Mixin Vixen's recipe for week 76 -- I think this is going to need a good 3 to 4 week's steep.  At the time of testing it at 4 days, it's still got a ways to go for the DAAP that is in it.  The berry layer seems to be in about the right position, the crust is  still steeping out along with the creams. ",
-  "id": 163615,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:38:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pazzo Burlone (Joker)",
-      "flavor_id": "9911",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pazzo RE (King)",
-      "flavor_id": "9907",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 350,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cane",
-      "flavor_id": "9369",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Blue Moon Ice Cream – Super Concentrate",
-      "flavor_id": "7844",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Bumbleberry SC",
-      "flavor_id": "9017",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Brie Cheese",
-      "flavor_id": "4414",
-      "millipercent": 350,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "1010",
-  "slug": "the_great_crape_escape",
-  "total_flavoring": "8.45%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Great Crape Escape",
+    "description": "Mixin Vixen's recipe for week 76 -- I think this is going to need a good 3 to 4 week's steep.  At the time of testing it at 4 days, it's still got a ways to go for the DAAP that is in it.  The berry layer seems to be in about the right position, the crust is  still steeping out along with the creams. ",
+    "id": 163615,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pazzo Burlone (Joker)",
+            "flavor_id": "9911",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pazzo RE (King)",
+            "flavor_id": "9907",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 350,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cane",
+            "flavor_id": "9369",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Blue Moon Ice Cream \u2013 Super Concentrate",
+            "flavor_id": "7844",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Bumbleberry SC",
+            "flavor_id": "9017",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Brie Cheese",
+            "flavor_id": "4414",
+            "millipercent": 350,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "1018",
+    "created_at": "2019-08-18",
+    "slug": "the_great_crape_escape",
+    "total_flavoring": "8.45%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

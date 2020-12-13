@@ -1,56 +1,55 @@
 {
-  "name": "Christmas Spiced pear Tart",
-  "description": "Totally stole this from Wayne Walker yesterday.\r\nBeen dying to find a good use for the Extra Ginger, and this was it.\r\nIt makes everything feel that little bit more cooked.\r\nOnly had Fw LMP and it does a great job of masking up the clove.\r\nMerry Christmas mixers!!!",
-  "id": 132113,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:32:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "665",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "1335",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Gingerbread Extra Ginger",
-      "flavor_id": "9300",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Neller",
-  "views": "775",
-  "slug": "christmas_spiced_pear_tart",
-  "total_flavoring": "9.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Christmas Spiced pear Tart",
+    "description": "Totally stole this from Wayne Walker yesterday.\r\nBeen dying to find a good use for the Extra Ginger, and this was it.\r\nIt makes everything feel that little bit more cooked.\r\nOnly had Fw LMP and it does a great job of masking up the clove.\r\nMerry Christmas mixers!!!",
+    "id": 132113,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:56:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "665",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "1335",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Gingerbread Extra Ginger",
+            "flavor_id": "9300",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Neller",
+    "views": "783",
+    "created_at": "2018-12-22",
+    "slug": "christmas_spiced_pear_tart",
+    "total_flavoring": "9.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,44 +1,43 @@
 {
-  "name": "Banana Blueberry French Toast",
-  "description": "Hoping this tastes good. will test it soon Your suggestions are always appreciated",
-  "id": 92633,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:39:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bananas Foster",
-      "flavor_id": "211",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberries And Cream",
-      "flavor_id": "114",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 2670,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "352",
-  "slug": "banana_blueberry_french_toast",
-  "total_flavoring": "18.17%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Blueberry French Toast",
+    "description": "Hoping this tastes good. will test it soon Your suggestions are always appreciated",
+    "id": 92633,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bananas Foster",
+            "flavor_id": "211",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberries And Cream",
+            "flavor_id": "114",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 2670,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "356",
+    "created_at": "2018-03-16",
+    "slug": "banana_blueberry_french_toast",
+    "total_flavoring": "18.17%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Sajin",
-  "description": "FLV Yam is the sweet potato.\r\n\r\nI know the FLV Pumpkin Spice seems high, but you need it with everything else going on.\r\n\r\nOOO VC Cheesecake and INW Yes, We because they’re my favorite.\r\n\r\nFW Graham Cracker for the main crust note with a little CAP Cereal 27 for a little savory note on it.\r\n\r\nI recommend the FW Sweetener. I tried it without sweetener and it is very *different*.\r\n",
-  "id": 206139,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/206139/65DAB9EC-F2B8-493A-8883-A834B952CB11.jpeg",
-  "updated_at": "2020-12-07T19:16:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yam",
-      "flavor_id": "8575",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard Cheesecake",
-      "flavor_id": "6532",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 3500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "271",
-  "slug": "sajin",
-  "total_flavoring": "11.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sajin",
+    "description": "FLV Yam is the sweet potato.\r\n\r\nI know the FLV Pumpkin Spice seems high, but you need it with everything else going on.\r\n\r\nOOO VC Cheesecake and INW Yes, We because they\u2019re my favorite.\r\n\r\nFW Graham Cracker for the main crust note with a little CAP Cereal 27 for a little savory note on it.\r\n\r\nI recommend the FW Sweetener. I tried it without sweetener and it is very *different*.\r\n",
+    "id": 206139,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/206139\/65DAB9EC-F2B8-493A-8883-A834B952CB11.jpeg",
+    "updated_at": "2020-12-12T05:56:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yam",
+            "flavor_id": "8575",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard Cheesecake",
+            "flavor_id": "6532",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 3500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "282",
+    "created_at": "2020-09-26",
+    "slug": "sajin",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/206139.jpeg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

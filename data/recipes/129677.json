@@ -1,62 +1,64 @@
 {
-  "name": "Mother Leeds",
-  "description": "My take on a \"Jack Rose\" cocktail, with applejack, grenadine, and lime.  Warm, sweet, and holiday-esque.\r\n\r\nOriginally mixed for a holiday cocktail episode of DIY Downunder, I've been meaning to do something inspired by applejack for a while and this was a pretty good excuse.  Applejack is a traditional-ish american spirit that was originally made by repeatedly freezing the water out of cider until it proofed, so like an ice wine but with apples.  It's usually just done as a distilled apple brandy now, but it's still delicious stuff that tends to be less subtle and a bit more obnoxious than something like Calvados.  I do think it fits in the colder weather really well, and it's something that feels seasonal without tasting like pumpkin spice.\r\n\r\nShoutout to MlNikon for putting the bug in my ear about FA Liquid Amber being the best brandy flavor out, because I completely ran with it.  I think a lot of failed attempts at making an applejack were down to putting the apple first.  I just flipped it, and throw an ungodly amount of liquid amber in to mix to see what it would do.  I liked it.  3% is indeed a whole lot of liquid amber, but it's used as an actual flavor and probably the crux of the recipe instead of the usual sub 1% additive range.  It has a decent amount of texture and a really nice warmth to it to.  \r\n\r\nThe applejack is filled out with some of the amazing funk and depth of FLV Apple Cider at 1%.  The good applejack, the bottled in boud stuff from Laird's, is aged in oak.  So that's the last flavoring component here.  Some TPA Red Oak at 1% gives a solid bourbon char.  I feel like it's less dry and astringent than FA Oakwood so that's probably a good fit.\r\n\r\nThe rest of the cocktail is pretty easy.  TPA Pomegranate Deluxe is fuller, sweet, and doesn't have any weird off notes.  Seems like grenadine to me.  I just wanted a light touch of grenadine here, so 2% seemed about appropriate.   And the lime juice.  Oh the lime juice.  I like FA Florida Key Lime for a non-candied lime juice flavor that doesn't fade out too hard.  3% got me where I wanted to go. \r\n\r\nSo there we go, a holiday cocktail that doesn't involve LB White Chocolate Peppermint.  Look upon my works and tremble.",
-  "id": 129677,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129677/JD.jpg",
-  "updated_at": "2020-12-08T00:50:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Cider",
-      "flavor_id": "4368",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Oak",
-      "flavor_id": "375",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate Deluxe",
-      "flavor_id": "261",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Florida Key Lime",
-      "flavor_id": "7699",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ConcreteRiver",
-  "views": "2141",
-  "slug": "mother_leeds",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "65%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TheVapingSurveyor",
-      "score": "5",
-      "text": "I can't give an honest review of the recipe,I had to sub the regular pomegranate, instead of pomegranate deluxe.&#xD;\nNonetheless, this is a very interesting mix, and I like it.  I'll definitely mix it up with the right ingredients once I make an order."
-    },
-    {
-      "user": "Gachatay",
-      "score": "5",
-      "text": "Let me start with saying, I've never had this drink, nor have I ever had Applejack so I can comment on how close this is. What I can say, is that it's another different mix from concrete that turned out really good. I'm getting a really nice distinct brandy, with a sweet tartness of the pomegranate &amp; lime that all plays perfect together behind that cider. What I appreciate about this, is how two flavors are pushed to the brink where they begin to get weird, but did it on purpose and pulled it off. I never thought I'd use FLV cider at 1%, but here it is and that funk plays right into that liquid amber. At first I thought with having the lime at 3% that it was going to be overwhelming, but it's not even a little bit. Somehow the amber and cider bogged it down it's the back with the pomegranate and at the same time keeping separation. So is this an ADV for me? No, but it's a very interesting mix that tastes very good. I don't drink every day either but sometimes I enjoy sipping on a brandy and I can liken this to that. If you like the profile, it can easily be an ADV for you. It's a great flavor, has nice body and is pleasant to vape. I will come back to this multiple times throughout the winter though, it is a great play on a nontraditional holiday mix. My favorite thing about it is how well it was crafted and not with common flavors to get there. It's a work of art, great job Rick."
-    }
-  ]
+    "name": "Mother Leeds",
+    "description": "My take on a \"Jack Rose\" cocktail, with applejack, grenadine, and lime.  Warm, sweet, and holiday-esque.\r\n\r\nOriginally mixed for a holiday cocktail episode of DIY Downunder, I've been meaning to do something inspired by applejack for a while and this was a pretty good excuse.  Applejack is a traditional-ish american spirit that was originally made by repeatedly freezing the water out of cider until it proofed, so like an ice wine but with apples.  It's usually just done as a distilled apple brandy now, but it's still delicious stuff that tends to be less subtle and a bit more obnoxious than something like Calvados.  I do think it fits in the colder weather really well, and it's something that feels seasonal without tasting like pumpkin spice.\r\n\r\nShoutout to MlNikon for putting the bug in my ear about FA Liquid Amber being the best brandy flavor out, because I completely ran with it.  I think a lot of failed attempts at making an applejack were down to putting the apple first.  I just flipped it, and throw an ungodly amount of liquid amber in to mix to see what it would do.  I liked it.  3% is indeed a whole lot of liquid amber, but it's used as an actual flavor and probably the crux of the recipe instead of the usual sub 1% additive range.  It has a decent amount of texture and a really nice warmth to it to.  \r\n\r\nThe applejack is filled out with some of the amazing funk and depth of FLV Apple Cider at 1%.  The good applejack, the bottled in boud stuff from Laird's, is aged in oak.  So that's the last flavoring component here.  Some TPA Red Oak at 1% gives a solid bourbon char.  I feel like it's less dry and astringent than FA Oakwood so that's probably a good fit.\r\n\r\nThe rest of the cocktail is pretty easy.  TPA Pomegranate Deluxe is fuller, sweet, and doesn't have any weird off notes.  Seems like grenadine to me.  I just wanted a light touch of grenadine here, so 2% seemed about appropriate.   And the lime juice.  Oh the lime juice.  I like FA Florida Key Lime for a non-candied lime juice flavor that doesn't fade out too hard.  3% got me where I wanted to go. \r\n\r\nSo there we go, a holiday cocktail that doesn't involve LB White Chocolate Peppermint.  Look upon my works and tremble.",
+    "id": 129677,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/129677\/JD.jpg",
+    "updated_at": "2020-12-12T18:30:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Cider",
+            "flavor_id": "4368",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Oak",
+            "flavor_id": "375",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate Deluxe",
+            "flavor_id": "261",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Florida Key Lime",
+            "flavor_id": "7699",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ConcreteRiver",
+    "views": "2151",
+    "created_at": "2018-12-01",
+    "slug": "mother_leeds",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/129677.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "65%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TheVapingSurveyor",
+            "score": 5,
+            "text": "I can't give an honest review of the recipe,I had to sub the regular pomegranate, instead of pomegranate deluxe.&#xD;\nNonetheless, this is a very interesting mix, and I like it.  I'll definitely mix it up with the right ingredients once I make an order."
+        },
+        {
+            "user": "Gachatay",
+            "score": 5,
+            "text": "Let me start with saying, I've never had this drink, nor have I ever had Applejack so I can comment on how close this is. What I can say, is that it's another different mix from concrete that turned out really good. I'm getting a really nice distinct brandy, with a sweet tartness of the pomegranate &amp; lime that all plays perfect together behind that cider. What I appreciate about this, is how two flavors are pushed to the brink where they begin to get weird, but did it on purpose and pulled it off. I never thought I'd use FLV cider at 1%, but here it is and that funk plays right into that liquid amber. At first I thought with having the lime at 3% that it was going to be overwhelming, but it's not even a little bit. Somehow the amber and cider bogged it down it's the back with the pomegranate and at the same time keeping separation. So is this an ADV for me? No, but it's a very interesting mix that tastes very good. I don't drink every day either but sometimes I enjoy sipping on a brandy and I can liken this to that. If you like the profile, it can easily be an ADV for you. It's a great flavor, has nice body and is pleasant to vape. I will come back to this multiple times throughout the winter though, it is a great play on a nontraditional holiday mix. My favorite thing about it is how well it was crafted and not with common flavors to get there. It's a work of art, great job Rick."
+        }
+    ]
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Strawberries and Scream ",
-  "description": "Strawberries and cream???? Yea I think so and very good I would say! Y'all let me know what y'all think. \r\nSteep for 5 days to a week at least.",
-  "id": 17727,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17727/04687d2d99cbad472e742afcee71f6b6.jpg",
-  "updated_at": "2020-12-08T00:48:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1690,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 3190,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1610,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3310,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Vapechemist",
-  "views": "1621",
-  "slug": "strawberries_and_scream",
-  "total_flavoring": "14.55%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "Looks incredible! What's up with the percentages? I admit that I started mixing by drops, then got some syringes, and finally bought a decent scale."
-    }
-  ]
+    "name": "Strawberries and Scream ",
+    "description": "Strawberries and cream???? Yea I think so and very good I would say! Y'all let me know what y'all think. \r\nSteep for 5 days to a week at least.",
+    "id": 17727,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/17727\/04687d2d99cbad472e742afcee71f6b6.jpg",
+    "updated_at": "2020-12-12T14:04:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1690,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 3190,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1610,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3310,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Vapechemist",
+    "views": "1631",
+    "created_at": "2016-10-26",
+    "slug": "strawberries_and_scream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/17727.jpg",
+    "total_flavoring": "14.55%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "Looks incredible! What's up with the percentages? I admit that I started mixing by drops, then got some syringes, and finally bought a decent scale."
+        }
+    ]
 }

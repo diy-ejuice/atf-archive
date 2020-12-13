@@ -1,69 +1,71 @@
 {
-  "name": "Kool Banana Shake v5 ",
-  "description": "A nice Kool(ada) Banana shake. WS-32 may give a better cooling effect, but I haven't tried that variation.",
-  "id": 140773,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140773/53806438.cms.gif",
-  "updated_at": "2020-12-02T08:00:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bananas Foster",
-      "flavor_id": "211",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5250,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DarrinMcDougald",
-  "views": "1313",
-  "slug": "kool_banana_shake_v5",
-  "total_flavoring": "14.5%",
-  "steep_days": "2",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "none",
-      "text": "Just mixed this up. I'll check back in a few days."
-    }
-  ]
+    "name": "Kool Banana Shake v5 ",
+    "description": "A nice Kool(ada) Banana shake. WS-32 may give a better cooling effect, but I haven't tried that variation.",
+    "id": 140773,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/140773\/53806438.cms.gif",
+    "updated_at": "2020-12-11T06:44:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bananas Foster",
+            "flavor_id": "211",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5250,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DarrinMcDougald",
+    "views": "1322",
+    "created_at": "2019-02-27",
+    "slug": "kool_banana_shake_v5",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/140773.gif",
+    "total_flavoring": "14.5%",
+    "steep_days": "2",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 0,
+            "text": "Just mixed this up. I'll check back in a few days."
+        }
+    ]
 }

@@ -1,63 +1,64 @@
 {
-  "name": "VCT",
-  "description": "My take on a classic. \r\nAP 5% gives a bit of a toasted note and boosts the RY4\r\nFA vanilla bourbon because why not? Its a good vanilla with a lil bite\r\nHs RY4 because its a nice ry4\r\nFW salted caramel is a great caramel and the salted part of it pairs up well in this mix\r\nCap Vanilla custard to thicken it up and meld all this together.",
-  "id": 62390,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "RY4",
-      "flavor_id": "2060",
-      "millipercent": 7000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Lunchbox",
-  "views": "2667",
-  "slug": "vct",
-  "total_flavoring": "14.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lionhrt9",
-      "score": "5",
-      "text": "this is delicious! thanks for sharing. love the hangsen! "
-    }
-  ]
+    "name": "VCT",
+    "description": "My take on a classic. \r\nAP 5% gives a bit of a toasted note and boosts the RY4\r\nFA vanilla bourbon because why not? Its a good vanilla with a lil bite\r\nHs RY4 because its a nice ry4\r\nFW salted caramel is a great caramel and the salted part of it pairs up well in this mix\r\nCap Vanilla custard to thicken it up and meld all this together.",
+    "id": 62390,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:33:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "RY4",
+            "flavor_id": "2060",
+            "millipercent": 7000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Lunchbox",
+    "views": "2676",
+    "created_at": "2017-09-03",
+    "slug": "vct",
+    "total_flavoring": "14.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lionhrt9",
+            "score": 5,
+            "text": "this is delicious! thanks for sharing. love the hangsen! "
+        }
+    ]
 }

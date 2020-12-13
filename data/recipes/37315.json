@@ -1,44 +1,43 @@
 {
-  "name": "Cinnamon Custard Crunch",
-  "description": "This was an experiment to use FLV Cinnamon crunch and combine the cereal with custard. It takes a while to steep but its so worth it. Development notes: Steeped for 4 weeks, very good cinnamon flavor and some sugar cookie. Custard Flavor is a little light at 4.5%. Raised Custard to 6.25% . Lowering Cinnamon Crunch to 2.5% to bring out more sugar cookie, raising sugar cookie from 2% to 3%. ",
-  "id": 37315,
-  "image_url": null,
-  "updated_at": "2020-12-07T06:59:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 3500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 6250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "letitsteep",
-  "views": "1268",
-  "slug": "cinnamon_custard_crunch",
-  "total_flavoring": "14.0%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnamon Custard Crunch",
+    "description": "This was an experiment to use FLV Cinnamon crunch and combine the cereal with custard. It takes a while to steep but its so worth it. Development notes: Steeped for 4 weeks, very good cinnamon flavor and some sugar cookie. Custard Flavor is a little light at 4.5%. Raised Custard to 6.25% . Lowering Cinnamon Crunch to 2.5% to bring out more sugar cookie, raising sugar cookie from 2% to 3%. ",
+    "id": 37315,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 3500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 6250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "letitsteep",
+    "views": "1275",
+    "created_at": "2017-03-18",
+    "slug": "cinnamon_custard_crunch",
+    "total_flavoring": "14.0%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

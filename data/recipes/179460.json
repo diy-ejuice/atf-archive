@@ -1,44 +1,44 @@
 {
-  "name": "MlNikon's Roasted Hazelnuts",
-  "description": "The main hazelnut profile is provided by fw hazelnut with wf roasted hazelnut. I used WF roasted pecans and cream to add a nice toasty roasted note and flv beer nuts is added to add some salty goodness to the mix for an added touch of authenticity",
-  "id": 179460,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/179460/roasting_chestnuts.png",
-  "updated_at": "2020-12-07T20:33:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Beer Nuts",
-      "flavor_id": "4391",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Roasted Hazelnut SC",
-      "flavor_id": "10411",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Roasted Pecans & Cream",
-      "flavor_id": "6059",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "698",
-  "slug": "mlnikons_roasted_hazelnuts",
-  "total_flavoring": "4.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "MlNikon's Roasted Hazelnuts",
+    "description": "The main hazelnut profile is provided by fw hazelnut with wf roasted hazelnut. I used WF roasted pecans and cream to add a nice toasty roasted note and flv beer nuts is added to add some salty goodness to the mix for an added touch of authenticity",
+    "id": 179460,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/179460\/roasting_chestnuts.png",
+    "updated_at": "2020-12-12T14:07:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Beer Nuts",
+            "flavor_id": "4391",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Roasted Hazelnut SC",
+            "flavor_id": "10411",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Roasted Pecans & Cream",
+            "flavor_id": "6059",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "710",
+    "created_at": "2019-12-29",
+    "slug": "mlnikons_roasted_hazelnuts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/179460.png",
+    "total_flavoring": "4.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

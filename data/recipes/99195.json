@@ -1,51 +1,53 @@
 {
-  "name": "Peachonade",
-  "description": "Using the one and only lemonade combo you'll ever need, add a combination of fresh white peaches and sweet peach syrup. Drink up! ",
-  "id": 99195,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99195/peach_lemonade_recipe_1.jpg",
-  "updated_at": "2020-12-08T00:50:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 6000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2032",
-  "slug": "peachonade",
-  "total_flavoring": "8.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TheJuiceJackBuilt",
-      "score": "5",
-      "text": "A scrumptious bright candy peach lemonade. This is freakin delicious! Mix this and enjoy. "
-    }
-  ]
+    "name": "Peachonade",
+    "description": "Using the one and only lemonade combo you'll ever need, add a combination of fresh white peaches and sweet peach syrup. Drink up! ",
+    "id": 99195,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/99195\/peach_lemonade_recipe_1.jpg",
+    "updated_at": "2020-12-12T15:39:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 6000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2049",
+    "created_at": "2018-05-02",
+    "slug": "peachonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/99195.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TheJuiceJackBuilt",
+            "score": 5,
+            "text": "A scrumptious bright candy peach lemonade. This is freakin delicious! Mix this and enjoy. "
+        }
+    ]
 }

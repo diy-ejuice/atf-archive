@@ -1,50 +1,50 @@
 {
-  "name": "Vanilla Custard Cream",
-  "description": "FA custard= custard premium\r\n\r\nI let this sit for 7 days before I tried it.\r\nSlight spice , smooth vanilla, Very rich and creamy.\r\nThick, full mouth feel.\r\nI mixed at 70 VG",
-  "id": 83170,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83170/vanilla_custard_cream.jpg",
-  "updated_at": "2020-12-06T12:55:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "w00p",
-  "views": "2032",
-  "slug": "vanilla_custard_cream",
-  "total_flavoring": "8.75%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vanilla Custard Cream",
+    "description": "FA custard= custard premium\r\n\r\nI let this sit for 7 days before I tried it.\r\nSlight spice , smooth vanilla, Very rich and creamy.\r\nThick, full mouth feel.\r\nI mixed at 70 VG",
+    "id": 83170,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83170\/vanilla_custard_cream.jpg",
+    "updated_at": "2020-12-10T16:00:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "w00p",
+    "views": "2040",
+    "created_at": "2018-01-12",
+    "slug": "vanilla_custard_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83170.jpg",
+    "total_flavoring": "8.75%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

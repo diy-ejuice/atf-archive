@@ -1,38 +1,37 @@
 {
-  "name": "3-2-1 Pecan Pie",
-  "description": "I love a good 3-2-1 mix. This one's nice and simple and perfect for those cool fall days. \r\n\r\nFW Butter Pecan is the real star of this show. It's an excellent pecan flavor with rich notes of caramel and butter. \r\n\r\nCAP Vanilla Custard is rich and creamy and brings just the right amount of egg. It mixes excellent with the buttery rich pecan . \r\n\r\nFor the crust we just need a little bit of INW Biscuit. It's a dry bakery note with a good amount of butter and it works well with both the pecan and the custard. \r\n\r\nSweeten to taste. \r\n\r\nWatch the Video Here:\r\n\r\nhttps://youtu.be/NLyMZ-fiZWA",
-  "id": 207112,
-  "image_url": null,
-  "updated_at": "2020-12-07T20:33:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "652",
-  "slug": "321_pecan_pie",
-  "total_flavoring": "6.0%",
-  "steep_days": "14",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "3-2-1 Pecan Pie",
+    "description": "I love a good 3-2-1 mix. This one's nice and simple and perfect for those cool fall days. \r\n\r\nFW Butter Pecan is the real star of this show. It's an excellent pecan flavor with rich notes of caramel and butter. \r\n\r\nCAP Vanilla Custard is rich and creamy and brings just the right amount of egg. It mixes excellent with the buttery rich pecan . \r\n\r\nFor the crust we just need a little bit of INW Biscuit. It's a dry bakery note with a good amount of butter and it works well with both the pecan and the custard. \r\n\r\nSweeten to taste. \r\n\r\nWatch the Video Here:\r\n\r\nhttps:\/\/youtu.be\/NLyMZ-fiZWA",
+    "id": 207112,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:53:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "666",
+    "created_at": "2020-10-14",
+    "slug": "321_pecan_pie",
+    "total_flavoring": "6.0%",
+    "steep_days": "14",
+    "best_vg": "80%",
+    "temperature": "0"
 }

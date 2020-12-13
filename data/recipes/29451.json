@@ -1,50 +1,50 @@
 {
-  "name": "Willy Wonk'd",
-  "description": "I am going for a tangy, sweet strawberry profile. I used a high percentage of strawberry taffy(CAP), because it's the main profile and I wanted it as such. The pink lemonade really brings out the tangy flavor well. Marshmallow really pulled this profile off. It helped bring down the throat hit from the strawberry taffy concentrate. It also rounded out the mix of taffy and lemonade. Of course I went with mega sweetness, because it is a candy after all. This is a favorite candy of my wife, and she was blown away by this recipe. The ethyl maltol needed to stay a little low to avoid turning it into cotton candy. Lol. The sweetener helped out the profile to give it what it's made out of, sugar. Hopefully you'll enjoy the sweet and tart flavor of the Willy Wonka candy factory in this stretchy candy we've all had, whether you were a kid or an adult",
-  "id": 29451,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29451/strawberry-laffy-taffy-130816-im_1.jpg",
-  "updated_at": "2020-12-02T10:28:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Taffy",
-      "flavor_id": "4164",
-      "millipercent": 6500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Lemonade",
-      "flavor_id": "3535",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "CenCalVape",
-  "views": "2268",
-  "slug": "willy_wonkd",
-  "total_flavoring": "12.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Willy Wonk'd",
+    "description": "I am going for a tangy, sweet strawberry profile. I used a high percentage of strawberry taffy(CAP), because it's the main profile and I wanted it as such. The pink lemonade really brings out the tangy flavor well. Marshmallow really pulled this profile off. It helped bring down the throat hit from the strawberry taffy concentrate. It also rounded out the mix of taffy and lemonade. Of course I went with mega sweetness, because it is a candy after all. This is a favorite candy of my wife, and she was blown away by this recipe. The ethyl maltol needed to stay a little low to avoid turning it into cotton candy. Lol. The sweetener helped out the profile to give it what it's made out of, sugar. Hopefully you'll enjoy the sweet and tart flavor of the Willy Wonka candy factory in this stretchy candy we've all had, whether you were a kid or an adult",
+    "id": 29451,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29451\/strawberry-laffy-taffy-130816-im_1.jpg",
+    "updated_at": "2020-12-10T19:59:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Taffy",
+            "flavor_id": "4164",
+            "millipercent": 6500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Lemonade",
+            "flavor_id": "3535",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "CenCalVape",
+    "views": "2276",
+    "created_at": "2017-01-29",
+    "slug": "willy_wonkd",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29451.jpg",
+    "total_flavoring": "12.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

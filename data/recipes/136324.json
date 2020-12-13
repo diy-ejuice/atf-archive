@@ -1,74 +1,73 @@
 {
-  "name": "Long John with sprinkles",
-  "description": "this used too be one of my favorite donuts growing up as a kid and still a favorite too this day and its very tasty give it a mix and enjoy guys",
-  "id": 136324,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:51:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sprinkles",
-      "flavor_id": "8490",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1228",
-  "slug": "long_john_with_sprinkles",
-  "total_flavoring": "16.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Long John with sprinkles",
+    "description": "this used too be one of my favorite donuts growing up as a kid and still a favorite too this day and its very tasty give it a mix and enjoy guys",
+    "id": 136324,
+    "image_url": null,
+    "updated_at": "2020-12-11T15:03:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sprinkles",
+            "flavor_id": "8490",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1241",
+    "created_at": "2019-01-24",
+    "slug": "long_john_with_sprinkles",
+    "total_flavoring": "16.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "110"
 }

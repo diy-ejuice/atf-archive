@@ -1,68 +1,70 @@
 {
-  "name": "Crema de Vie aka Essence of Wendy's Moist Vagina",
-  "description": "Shaved Smooth with a hint of a nip at the back end.\r\n\r\nSweeten to taste.",
-  "id": 192015,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/192015/images.jpg",
-  "updated_at": "2020-12-08T00:51:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Condensed Milk",
-      "flavor_id": "7751",
-      "millipercent": 1500,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1757",
-  "slug": "crema_de_vie_aka_essence_of_wendys_moist_vagina",
-  "total_flavoring": "5.3%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TOCMichelleHughes",
-      "score": "5",
-      "text": "I freaking love you!"
-    },
-    {
-      "user": "Slushy",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Crema de Vie aka Essence of Wendy's Moist Vagina",
+    "description": "Shaved Smooth with a hint of a nip at the back end.\r\n\r\nSweeten to taste.",
+    "id": 192015,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/192015\/images.jpg",
+    "updated_at": "2020-12-12T11:53:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Condensed Milk",
+            "flavor_id": "7751",
+            "millipercent": 1500,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1769",
+    "created_at": "2020-04-20",
+    "slug": "crema_de_vie_aka_essence_of_wendys_moist_vagina",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/192015.jpg",
+    "total_flavoring": "5.3%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TOCMichelleHughes",
+            "score": 5,
+            "text": "I freaking love you!"
+        },
+        {
+            "user": "Slushy",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Lemonstraw wafers",
-  "description": "ATTENTION!\r\nLémon cream is Chemnovatic Lemon Cream Wafer.\r\nCan someone please update the flavors??\r\n\r\nI used VT Glazed Strawberries because of their baked profile.\r\nGreat of the shake but best after 3 days.\r\nCurrently testing addition of FA Vienna Cream 1%.",
-  "id": 202332,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202332/20200804_153735.jpg",
-  "updated_at": "2020-12-07T17:36:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lémon Cream",
-      "flavor_id": "5749",
-      "millipercent": 4000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Glazed Strawberries",
-      "flavor_id": "8885",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Spycke",
-  "views": "387",
-  "slug": "lemonstraw_wafers",
-  "total_flavoring": "14.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemonstraw wafers",
+    "description": "ATTENTION!\r\nL\u00e9mon cream is Chemnovatic Lemon Cream Wafer.\r\nCan someone please update the flavors??\r\n\r\nI used VT Glazed Strawberries because of their baked profile.\r\nGreat of the shake but best after 3 days.\r\nCurrently testing addition of FA Vienna Cream 1%.",
+    "id": 202332,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202332\/20200804_153735.jpg",
+    "updated_at": "2020-12-11T14:17:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "L\u00e9mon Cream",
+            "flavor_id": "5749",
+            "millipercent": 4000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Glazed Strawberries",
+            "flavor_id": "8885",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Spycke",
+    "views": "394",
+    "created_at": "2020-08-04",
+    "slug": "lemonstraw_wafers",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202332.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

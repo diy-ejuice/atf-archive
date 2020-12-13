@@ -1,57 +1,59 @@
 {
-  "name": "Yeti's Yogurt",
-  "description": "This recipe is simple yet spectacularly delicious. Sweet juicy berries picked from the forest with a dollop of yogurt. I could picture this being Bigfoot's all day snack.",
-  "id": 83066,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83066/Screenshot_20180111-194520.jpg",
-  "updated_at": "2020-12-08T00:49:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 4750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear Candy",
-      "flavor_id": "256",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MattyWill",
-  "views": "1551",
-  "slug": "yetis_yogurt",
-  "total_flavoring": "12.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "88%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "OldAgeVaper",
-      "score": "4",
-      "text": "On the inhale i get a very very slight taste of vomit from what i think is the 5% creamy yogurt , it then turns into a very nice fruity creamy yogurt taste on the exhale. The more i vaped this the more the vomit taste went away which is a bit crazy, lol now i know what there on about on diy or die Noted with this odd taste from some flavorings.&#xD;\nWell worth a try if your thinking of mixing this ,who knows it might just be my taste buds. Good mix."
-    }
-  ]
+    "name": "Yeti's Yogurt",
+    "description": "This recipe is simple yet spectacularly delicious. Sweet juicy berries picked from the forest with a dollop of yogurt. I could picture this being Bigfoot's all day snack.",
+    "id": 83066,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83066\/Screenshot_20180111-194520.jpg",
+    "updated_at": "2020-12-12T18:29:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 4750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear Candy",
+            "flavor_id": "256",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MattyWill",
+    "views": "1560",
+    "created_at": "2018-01-11",
+    "slug": "yetis_yogurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83066.jpg",
+    "total_flavoring": "12.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "88%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "OldAgeVaper",
+            "score": 4,
+            "text": "On the inhale i get a very very slight taste of vomit from what i think is the 5% creamy yogurt , it then turns into a very nice fruity creamy yogurt taste on the exhale. The more i vaped this the more the vomit taste went away which is a bit crazy, lol now i know what there on about on diy or die Noted with this odd taste from some flavorings.&#xD;\nWell worth a try if your thinking of mixing this ,who knows it might just be my taste buds. Good mix."
+        }
+    ]
 }

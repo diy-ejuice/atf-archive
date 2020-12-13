@@ -1,44 +1,43 @@
 {
-  "name": "Captain Muffin",
-  "description": "A blueberry muffin with Captain Crunch topping.",
-  "id": 3966,
-  "image_url": null,
-  "updated_at": "2020-12-02T10:27:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Muffin",
-      "flavor_id": "608",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "2076",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Crunch Cereal",
-      "flavor_id": "602",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "tranceinate",
-  "views": "1966",
-  "slug": "captain_muffin",
-  "total_flavoring": "7.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Captain Muffin",
+    "description": "A blueberry muffin with Captain Crunch topping.",
+    "id": 3966,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:40:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Muffin",
+            "flavor_id": "608",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "2076",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Crunch Cereal",
+            "flavor_id": "602",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "tranceinate",
+    "views": "1972",
+    "created_at": "2016-05-29",
+    "slug": "captain_muffin",
+    "total_flavoring": "7.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

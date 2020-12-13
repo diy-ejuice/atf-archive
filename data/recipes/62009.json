@@ -1,68 +1,68 @@
 {
-  "name": "Brazilian limeade",
-  "description": "Not your average lemonade, this Brazilian Limeade is creamy, tangy and refreshing, the perfect way to refresh and cool down this summer.\r\n\r\nFor the milky part i used a combination of TPA Malted Milk, FA Condensed Milk (use sparingly, it is very strong and quickly overpowering!) and CAP Horchata with a touch of FLV Sweet Coconut.\r\n\r\nNo limeade without CAP Lemon Lime and supported by FA Florida Key Lime for a light candy touch.\r\nAdd 1 drop per 15ml's FLV Rich Cinnamon to spice up the mix.\r\nFinally but not mandatory, a little sweetener.\r\n\r\nBrazilian Limeade is the creamiest and sweetest limeade you will ever try. It is like summer in a cup!\r\n\r\nSteep: very short, perfect after 5 day's.",
-  "id": 62009,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62009/0QNDdX4.jpg",
-  "updated_at": "2020-12-07T10:43:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk Condensed",
-      "flavor_id": "404",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Florida Key Lime",
-      "flavor_id": "7699",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 3250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Horchata",
-      "flavor_id": "74",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "besejuiced",
-  "views": "2495",
-  "slug": "brazilian_limeade",
-  "total_flavoring": "10.25%",
-  "steep_days": "5",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Brazilian limeade",
+    "description": "Not your average lemonade, this Brazilian Limeade is creamy, tangy and refreshing, the perfect way to refresh and cool down this summer.\r\n\r\nFor the milky part i used a combination of TPA Malted Milk, FA Condensed Milk (use sparingly, it is very strong and quickly overpowering!) and CAP Horchata with a touch of FLV Sweet Coconut.\r\n\r\nNo limeade without CAP Lemon Lime and supported by FA Florida Key Lime for a light candy touch.\r\nAdd 1 drop per 15ml's FLV Rich Cinnamon to spice up the mix.\r\nFinally but not mandatory, a little sweetener.\r\n\r\nBrazilian Limeade is the creamiest and sweetest limeade you will ever try. It is like summer in a cup!\r\n\r\nSteep: very short, perfect after 5 day's.",
+    "id": 62009,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62009\/0QNDdX4.jpg",
+    "updated_at": "2020-12-11T14:07:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk Condensed",
+            "flavor_id": "404",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Florida Key Lime",
+            "flavor_id": "7699",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 3250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Horchata",
+            "flavor_id": "74",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "besejuiced",
+    "views": "2502",
+    "created_at": "2017-08-31",
+    "slug": "brazilian_limeade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62009.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "5",
+    "best_vg": "80%",
+    "temperature": "0"
 }

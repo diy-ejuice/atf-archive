@@ -1,57 +1,59 @@
 {
-  "name": "Peanut Butter Custard",
-  "description": "A beautiful smooth peanut butter in the front with heavy cream and custard notes underneath.  Not too sweet.\r\n\r\nSurprisingly good right away, but develops nicely after a about a week.\r\n\r\nInspired by munday78 g\r\ne-liquid-recipes.com/recipe/528775/Peanut%20Butter%20Custard%20V2\r\n\r\nBecame too sweet after steeping, could not taste peanut butter at all.\r\n\r\nDropped the EM and reduced the Toasted Marshmallow and reduced Custard. \r\nAm hoping these reductions will bring the Peanut butter out.\r\n\r\nSaline solution 1drop per 10ml\r\n\r\nIn future revisions, consider lowering the PB and adding other nuts. Perhaps FW Butter Pecan",
-  "id": 73852,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73852/1C5C401D-8DF4-4900-8605-0C115B76D3DE.jpeg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 6500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Saline (0.9%)",
-      "flavor_id": "5960",
-      "millipercent": 400,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Marnu",
-  "views": "3639",
-  "slug": "peanut_butter_custard",
-  "total_flavoring": "12.9%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "You did well with your adjustments from the other recipe.  I still lose most of the peanut butter once my coils get too hot or if they get a little dry, but when I first drip this and take a few hits it's a very lovely vanilla peanut butter with a good thick mouthfeel.  I'm adding this to my list of stuff to play around with, for sure."
-    }
-  ]
+    "name": "Peanut Butter Custard",
+    "description": "A beautiful smooth peanut butter in the front with heavy cream and custard notes underneath.  Not too sweet.\r\n\r\nSurprisingly good right away, but develops nicely after a about a week.\r\n\r\nInspired by munday78 g\r\ne-liquid-recipes.com\/recipe\/528775\/Peanut%20Butter%20Custard%20V2\r\n\r\nBecame too sweet after steeping, could not taste peanut butter at all.\r\n\r\nDropped the EM and reduced the Toasted Marshmallow and reduced Custard. \r\nAm hoping these reductions will bring the Peanut butter out.\r\n\r\nSaline solution 1drop per 10ml\r\n\r\nIn future revisions, consider lowering the PB and adding other nuts. Perhaps FW Butter Pecan",
+    "id": 73852,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/73852\/1C5C401D-8DF4-4900-8605-0C115B76D3DE.jpeg",
+    "updated_at": "2020-12-12T15:39:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 6500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Saline (0.9%)",
+            "flavor_id": "5960",
+            "millipercent": 400,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Marnu",
+    "views": "3649",
+    "created_at": "2017-11-12",
+    "slug": "peanut_butter_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/73852.jpeg",
+    "total_flavoring": "12.9%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "You did well with your adjustments from the other recipe.  I still lose most of the peanut butter once my coils get too hot or if they get a little dry, but when I first drip this and take a few hits it's a very lovely vanilla peanut butter with a good thick mouthfeel.  I'm adding this to my list of stuff to play around with, for sure."
+        }
+    ]
 }

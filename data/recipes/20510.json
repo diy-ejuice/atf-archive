@@ -1,75 +1,77 @@
 {
-  "name": "It is Butterscotch",
-  "description": "**Butterscotch ice cream** local B&M sales a Butterscotch 20$ for 50ml and this was my 5th attempt and I believe this is it add 1% to 2% tfa sweetener and its the one. This would have never been possible for me without DIYORDIE, Begginer Blending, Cloudstate, ATF and this great diy community! ",
-  "id": 20510,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20510/small-20170116-19564-dvf02m.jpg",
-  "updated_at": "2020-12-06T04:10:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch (natural)",
-      "flavor_id": "1219",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pistachio",
-      "flavor_id": "293",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "LLcoolwhip",
-  "views": "1759",
-  "slug": "it_is_butterscotch",
-  "total_flavoring": "14.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Slushy",
-      "score": "none",
-      "text": "Its looks tasty I'm just curious how the pistachio comes into play.."
-    }
-  ]
+    "name": "It is Butterscotch",
+    "description": "**Butterscotch ice cream** local B&M sales a Butterscotch 20$ for 50ml and this was my 5th attempt and I believe this is it add 1% to 2% tfa sweetener and its the one. This would have never been possible for me without DIYORDIE, Begginer Blending, Cloudstate, ATF and this great diy community! ",
+    "id": 20510,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20510\/small-20170116-19564-dvf02m.jpg",
+    "updated_at": "2020-12-12T10:14:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch (natural)",
+            "flavor_id": "1219",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pistachio",
+            "flavor_id": "293",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "LLcoolwhip",
+    "views": "1771",
+    "created_at": "2016-11-19",
+    "slug": "it_is_butterscotch",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20510.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Slushy",
+            "score": 0,
+            "text": "Its looks tasty I'm just curious how the pistachio comes into play.."
+        }
+    ]
 }

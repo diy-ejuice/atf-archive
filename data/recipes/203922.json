@@ -1,38 +1,37 @@
 {
-  "name": "Lemon Meringue Pie Boosted",
-  "description": "A reddit commenter mentioned (while we were talking about CAP Lemon Meringue Pie as a single flavor) that he'd added a couple of things and really made an OK flavor pop. \r\n\r\nI left out the 1% TPA Pie Crust for the first time around, but he added it as well for that full Lemon Meringue Pie profile.\r\n\r\nCredit to this redditor who gave me the idea:\r\nhttps://www.reddit.com/r/DIY_eJuice/comments/i92ho3/trialstribulations_of_single_flavorings/g1ej954?utm_source=share&utm_medium=web2x&context=3",
-  "id": 203922,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ramblingpariah",
-  "views": "928",
-  "slug": "lemon_meringue_pie_boosted",
-  "total_flavoring": "12.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Meringue Pie Boosted",
+    "description": "A reddit commenter mentioned (while we were talking about CAP Lemon Meringue Pie as a single flavor) that he'd added a couple of things and really made an OK flavor pop. \r\n\r\nI left out the 1% TPA Pie Crust for the first time around, but he added it as well for that full Lemon Meringue Pie profile.\r\n\r\nCredit to this redditor who gave me the idea:\r\nhttps:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/i92ho3\/trialstribulations_of_single_flavorings\/g1ej954?utm_source=share&utm_medium=web2x&context=3",
+    "id": 203922,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:41:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ramblingpariah",
+    "views": "939",
+    "created_at": "2020-08-23",
+    "slug": "lemon_meringue_pie_boosted",
+    "total_flavoring": "12.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

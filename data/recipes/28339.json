@@ -1,80 +1,79 @@
 {
-  "name": "Kick out the Jams, Monster! Blueberry Edition",
-  "description": "Buttered Toast + Blueberry Jam. POW!\r\nJam Monster Blueberry clone. Still tweaking but liking it very much so far. Suggestions welcome!\r\n\r\nUPDATE 1/27/17: add 3% TFA Butter to prev recipe and it's even better (β testers are telling me it's amazing). But. As tasty as it is, it's not the clear, precise clone I'm looking for. Not yet. I'm thinking of starting over, greatly simplifying, just bc right now it's blending very nicely and that makes it hard to discern where the \"problem\" lies. For me, this isn't just to make another tasty juice. The goal is to sharpen my skills at making a specific target. One that can at least somewhat be objectively verified - as much as a decision from taste buds between different individuals can be rendered objectively, anyway. \r\n\r\nTo this end, I'd be immensely grateful if some of you very experienced mixers out there would give this a try and share your comments? Thank you very much in advance...",
-  "id": 28339,
-  "image_url": null,
-  "updated_at": "2020-12-07T05:57:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Breakfast",
-      "flavor_id": "5573",
-      "millipercent": 8000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "coilspotting",
-  "views": "7189",
-  "slug": "kick_out_the_jams_monster_blueberry_edition",
-  "total_flavoring": "25.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kick out the Jams, Monster! Blueberry Edition",
+    "description": "Buttered Toast + Blueberry Jam. POW!\r\nJam Monster Blueberry clone. Still tweaking but liking it very much so far. Suggestions welcome!\r\n\r\nUPDATE 1\/27\/17: add 3% TFA Butter to prev recipe and it's even better (\u03b2 testers are telling me it's amazing). But. As tasty as it is, it's not the clear, precise clone I'm looking for. Not yet. I'm thinking of starting over, greatly simplifying, just bc right now it's blending very nicely and that makes it hard to discern where the \"problem\" lies. For me, this isn't just to make another tasty juice. The goal is to sharpen my skills at making a specific target. One that can at least somewhat be objectively verified - as much as a decision from taste buds between different individuals can be rendered objectively, anyway. \r\n\r\nTo this end, I'd be immensely grateful if some of you very experienced mixers out there would give this a try and share your comments? Thank you very much in advance...",
+    "id": 28339,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:15:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Breakfast",
+            "flavor_id": "5573",
+            "millipercent": 8000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "coilspotting",
+    "views": "7198",
+    "created_at": "2017-01-22",
+    "slug": "kick_out_the_jams_monster_blueberry_edition",
+    "total_flavoring": "25.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": ""
 }

@@ -1,81 +1,83 @@
 {
-  "name": "Strawberry Milkshake V2",
-  "description": "A version 2 strawberry milkshake with some changes that makes the mix even better. I recommend to steep it for at least 5 days and its ready to vape. Enjoy!",
-  "id": 178651,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178651/download__1_.jpg",
-  "updated_at": "2020-12-08T00:51:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fairy Floss",
-      "flavor_id": "8876",
-      "millipercent": 300,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Custard",
-      "flavor_id": "8975",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "8993",
-      "millipercent": 1300,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "2299",
-  "slug": "strawberry_milkshake_v2",
-  "total_flavoring": "11.6%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Eirini",
-      "score": "5",
-      "text": "Ιt is a really delicious milkshake strawberry and i love it! Ty for this"
-    }
-  ]
+    "name": "Strawberry Milkshake V2",
+    "description": "A version 2 strawberry milkshake with some changes that makes the mix even better. I recommend to steep it for at least 5 days and its ready to vape. Enjoy!",
+    "id": 178651,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178651\/download__1_.jpg",
+    "updated_at": "2020-12-12T18:30:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fairy Floss",
+            "flavor_id": "8876",
+            "millipercent": 300,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Custard",
+            "flavor_id": "8975",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "8993",
+            "millipercent": 1300,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "2313",
+    "created_at": "2019-12-22",
+    "slug": "strawberry_milkshake_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178651.jpg",
+    "total_flavoring": "11.6%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Eirini",
+            "score": 5,
+            "text": "\u0399t is a really delicious milkshake strawberry and i love it! Ty for this"
+        }
+    ]
 }

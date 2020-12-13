@@ -1,86 +1,86 @@
 {
-  "name": "U wanna B Cannoli'd ",
-  "description": "I've adjusted this a little bit because I think the Waffle flavor amount I used in this first batch is a little bit much.  I dropped it by 0.10% in this recipe. Originally I used 0.25%.  If you want to try it the original way, there is your percentage.  It is possible, since it's only been steeping for 4 days that the waffle flavor will mellow out more after another 2 weeks of steeping.  \r\n\r\nI don't think this recipe is in any way finished.  I'm going to let this original batch steep for another week or two and revisit it on the show to see how it turned out and what adjustments should be made. \r\n\r\nI think if you like bakeries to be a little sweeter, you may want to add in 0.25% of a sucralose based sweetener, up to 1% if you're using TFAs. ",
-  "id": 53068,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53068/cannoli.png",
-  "updated_at": "2020-12-06T20:40:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Funnel Cake",
-      "flavor_id": "4166",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Waffle (yc)",
-      "flavor_id": "744",
-      "millipercent": 150,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ice Cream",
-      "flavor_id": "4449",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cocoa",
-      "flavor_id": "496",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ice",
-      "flavor_id": "4442",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Brie Cheese",
-      "flavor_id": "4414",
-      "millipercent": 310,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 300,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "2700",
-  "slug": "u_wanna_b_cannolid",
-  "total_flavoring": "8.66%",
-  "steep_days": "25",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "U wanna B Cannoli'd ",
+    "description": "I've adjusted this a little bit because I think the Waffle flavor amount I used in this first batch is a little bit much.  I dropped it by 0.10% in this recipe. Originally I used 0.25%.  If you want to try it the original way, there is your percentage.  It is possible, since it's only been steeping for 4 days that the waffle flavor will mellow out more after another 2 weeks of steeping.  \r\n\r\nI don't think this recipe is in any way finished.  I'm going to let this original batch steep for another week or two and revisit it on the show to see how it turned out and what adjustments should be made. \r\n\r\nI think if you like bakeries to be a little sweeter, you may want to add in 0.25% of a sucralose based sweetener, up to 1% if you're using TFAs. ",
+    "id": 53068,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/53068\/cannoli.png",
+    "updated_at": "2020-12-12T06:58:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Funnel Cake",
+            "flavor_id": "4166",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Waffle (yc)",
+            "flavor_id": "744",
+            "millipercent": 150,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ice Cream",
+            "flavor_id": "4449",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cocoa",
+            "flavor_id": "496",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ice",
+            "flavor_id": "4442",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Brie Cheese",
+            "flavor_id": "4414",
+            "millipercent": 310,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 300,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "2704",
+    "created_at": "2017-06-29",
+    "slug": "u_wanna_b_cannolid",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/53068.png",
+    "total_flavoring": "8.66%",
+    "steep_days": "25",
+    "best_vg": "0%",
+    "temperature": "0"
 }

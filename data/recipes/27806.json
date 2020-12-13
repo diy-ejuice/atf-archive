@@ -1,38 +1,38 @@
 {
-  "name": "Banana Laffy Taffy",
-  "description": "Made this by accident. Was trying to make banana ice cream. Thought it tasted great then a friend pointed it out to me and she was right. This taste just like a Banana Laffy Taffy!!!! It's scary!!!!",
-  "id": 27806,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27806/83244D99-10A7-44DD-92E1-DB61D7AD5C74-20204-00001D54737E07EE_tmp.png",
-  "updated_at": "2020-12-06T07:14:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "1477",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "1486",
-      "millipercent": 4000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "jdhane36",
-  "views": "3288",
-  "slug": "banana_laffy_taffy",
-  "total_flavoring": "16.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Laffy Taffy",
+    "description": "Made this by accident. Was trying to make banana ice cream. Thought it tasted great then a friend pointed it out to me and she was right. This taste just like a Banana Laffy Taffy!!!! It's scary!!!!",
+    "id": 27806,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/27806\/83244D99-10A7-44DD-92E1-DB61D7AD5C74-20204-00001D54737E07EE_tmp.png",
+    "updated_at": "2020-12-10T14:51:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "1477",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "1486",
+            "millipercent": 4000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "jdhane36",
+    "views": "3296",
+    "created_at": "2017-01-20",
+    "slug": "banana_laffy_taffy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/27806.png",
+    "total_flavoring": "16.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

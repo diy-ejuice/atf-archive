@@ -1,63 +1,65 @@
 {
-  "name": "The Factory: Blue",
-  "description": "A remix from a very old recipe of mine. \r\n\r\nThe Factory: Blue is unlike any other BB Cheesecake you have had.  It is intensely rich and creamy in the cheesecake department with a vivid candy blueberry flavor off the shake that slowly becomes more of a baked syrup blueberry as the steep goes on. Don't worry we haven't forgot the crust! It is light and almost flaky that gives everything a solid foundation. \r\n\r\nNow the two secrets to this mix. VT Sweet cream takes NYCC and gives it a velvety smooth and rich cheesecake flavor, unlike any other I have had. Its almost like these were made for each other. Will CAP sweet cream work? I cant say. I love it so much with VT I didn't dare even try CAP. \r\nThe other secret that some may not be aware of, HS Blueberry. Most people know FW BB and FA bilberry go hand in hand. However if you want the best BB experience HS and FW is the only way to go. I find a 2/1 ratio works best for me. \r\n\r\n3 months in development I take more pride in this mix than anything else I have ever created. IF you decide to mix this, first off thank you and secondly please leave a review. I would love to hear if people enjoy this fantastic mix as much as I do.  \r\n\r\nAlthough not listed, this mix does taste better with .25% of FLV sweetness!!!",
-  "id": 109686,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/109686/untitled-82-of-131.jpg",
-  "updated_at": "2020-12-08T00:50:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "2076",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "RdaJunkie",
-  "views": "3901",
-  "slug": "the_factory_blue",
-  "total_flavoring": "10.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Dielan",
-      "score": "5",
-      "text": "This is the best cheesecake recipe I've ever mixed up. It actually tastes like cheesecake and the blueberry combo here has definitely surpassed the old bilberry combo. Great recipe"
-    }
-  ]
+    "name": "The Factory: Blue",
+    "description": "A remix from a very old recipe of mine. \r\n\r\nThe Factory: Blue is unlike any other BB Cheesecake you have had.  It is intensely rich and creamy in the cheesecake department with a vivid candy blueberry flavor off the shake that slowly becomes more of a baked syrup blueberry as the steep goes on. Don't worry we haven't forgot the crust! It is light and almost flaky that gives everything a solid foundation. \r\n\r\nNow the two secrets to this mix. VT Sweet cream takes NYCC and gives it a velvety smooth and rich cheesecake flavor, unlike any other I have had. Its almost like these were made for each other. Will CAP sweet cream work? I cant say. I love it so much with VT I didn't dare even try CAP. \r\nThe other secret that some may not be aware of, HS Blueberry. Most people know FW BB and FA bilberry go hand in hand. However if you want the best BB experience HS and FW is the only way to go. I find a 2\/1 ratio works best for me. \r\n\r\n3 months in development I take more pride in this mix than anything else I have ever created. IF you decide to mix this, first off thank you and secondly please leave a review. I would love to hear if people enjoy this fantastic mix as much as I do.  \r\n\r\nAlthough not listed, this mix does taste better with .25% of FLV sweetness!!!",
+    "id": 109686,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/109686\/untitled-82-of-131.jpg",
+    "updated_at": "2020-12-12T20:30:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "2076",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "RdaJunkie",
+    "views": "3908",
+    "created_at": "2018-07-10",
+    "slug": "the_factory_blue",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/109686.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Dielan",
+            "score": 5,
+            "text": "This is the best cheesecake recipe I've ever mixed up. It actually tastes like cheesecake and the blueberry combo here has definitely surpassed the old bilberry combo. Great recipe"
+        }
+    ]
 }

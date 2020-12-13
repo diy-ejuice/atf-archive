@@ -1,68 +1,68 @@
 {
-  "name": "Choco Nutbar ",
-  "description": "Profile: Nutbar covered with chocolate and salted caramel.\r\n\r\nTPA Bavarian Cream - A must for the arsenal of flavors of all mixers. In this recipe adds some creaminess and binds with the nuts so they do not get so dry.\r\nFA Hazel Grove (hazelnut) - Pure hazelnut and super concentrated. Add realism to the Hazelnut itself.\r\nFW Hazelnut - A very versatile hazelnut that can be applied to various profiles. Upping the percentage brings notes of chocolate.\r\nFLV Pistachio - A pistachio balanced both in body and texture. The skin is present in this flavor such as TPA Pistachio. Incredibly strong and real.\r\nCAP Toasted Almond - Generic almond like the ones we buy at supermarkets. Not much toast but a noticeable note.\r\nTPA Whipped Cream - Recipe emulsifier. Creates a bond between the nuts and the caramel.\r\nFW Salted Caramel - Caramel that is not salty as the name says but simulates the characteristic flavor of salty caramel. That note of caramel that as it took salt has a distinct aroma, different than just caramel made of sugar.\r\nFLV Chocolate Deutsch - Creamy and melted chocolate from the cakes. It is the best possible description for this flavor. Super concentrated too. 1 DROP IS ENOUGH! Together with FW Hazelnut, it brings notes of melted chocolate to the profile.\r\n\r\nSteep: Between 5 to 7 days for the chocolate to calm down and the caramel to be wrapped with the nuts.",
-  "id": 105315,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/105315/La457Su.jpg",
-  "updated_at": "2020-12-08T00:50:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Chocolate Deutsch",
-      "flavor_id": "2151",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pistachio",
-      "flavor_id": "3520",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "128",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Katumbas",
-  "views": "985",
-  "slug": "choco_nutbar",
-  "total_flavoring": "10.85%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Choco Nutbar ",
+    "description": "Profile: Nutbar covered with chocolate and salted caramel.\r\n\r\nTPA Bavarian Cream - A must for the arsenal of flavors of all mixers. In this recipe adds some creaminess and binds with the nuts so they do not get so dry.\r\nFA Hazel Grove (hazelnut) - Pure hazelnut and super concentrated. Add realism to the Hazelnut itself.\r\nFW Hazelnut - A very versatile hazelnut that can be applied to various profiles. Upping the percentage brings notes of chocolate.\r\nFLV Pistachio - A pistachio balanced both in body and texture. The skin is present in this flavor such as TPA Pistachio. Incredibly strong and real.\r\nCAP Toasted Almond - Generic almond like the ones we buy at supermarkets. Not much toast but a noticeable note.\r\nTPA Whipped Cream - Recipe emulsifier. Creates a bond between the nuts and the caramel.\r\nFW Salted Caramel - Caramel that is not salty as the name says but simulates the characteristic flavor of salty caramel. That note of caramel that as it took salt has a distinct aroma, different than just caramel made of sugar.\r\nFLV Chocolate Deutsch - Creamy and melted chocolate from the cakes. It is the best possible description for this flavor. Super concentrated too. 1 DROP IS ENOUGH! Together with FW Hazelnut, it brings notes of melted chocolate to the profile.\r\n\r\nSteep: Between 5 to 7 days for the chocolate to calm down and the caramel to be wrapped with the nuts.",
+    "id": 105315,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/105315\/La457Su.jpg",
+    "updated_at": "2020-12-10T13:45:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Chocolate Deutsch",
+            "flavor_id": "2151",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pistachio",
+            "flavor_id": "3520",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "128",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Katumbas",
+    "views": "992",
+    "created_at": "2018-06-12",
+    "slug": "choco_nutbar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/105315.jpg",
+    "total_flavoring": "10.85%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

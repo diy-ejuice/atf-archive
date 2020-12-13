@@ -1,87 +1,88 @@
 {
-  "name": "Ice cream birthday cake",
-  "description": "now this idea just came too my head without any ideas and it tastes just like the description says and its also very good",
-  "id": 27354,
-  "image_url": null,
-  "updated_at": "2020-12-07T14:12:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "5854",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1541",
-  "slug": "ice_cream_birthday_cake",
-  "total_flavoring": "18.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "85",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "none",
-      "text": ""
-    }
-  ]
+    "name": "Ice cream birthday cake",
+    "description": "now this idea just came too my head without any ideas and it tastes just like the description says and its also very good",
+    "id": 27354,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "5854",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1550",
+    "created_at": "2017-01-17",
+    "slug": "ice_cream_birthday_cake",
+    "total_flavoring": "18.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "85",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 0,
+            "text": ""
+        }
+    ]
 }

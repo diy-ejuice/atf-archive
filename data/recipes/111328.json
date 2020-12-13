@@ -1,56 +1,55 @@
 {
-  "name": "Irish Cappuccino ",
-  "description": "Irish Cappuccino with the amazing Irish cream and layers of vanilla and dark rum with layer of Dulce de leche  ",
-  "id": 111328,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:44:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Italian Relax (cappuccino)",
-      "flavor_id": "505",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dark Rum",
-      "flavor_id": "4177",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "hossamdaoud",
-  "views": "658",
-  "slug": "irish_cappuccino",
-  "total_flavoring": "7.5%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Irish Cappuccino ",
+    "description": "Irish Cappuccino with the amazing Irish cream and layers of vanilla and dark rum with layer of Dulce de leche  ",
+    "id": 111328,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Italian Relax (cappuccino)",
+            "flavor_id": "505",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dark Rum",
+            "flavor_id": "4177",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "hossamdaoud",
+    "views": "662",
+    "created_at": "2018-07-21",
+    "slug": "irish_cappuccino",
+    "total_flavoring": "7.5%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

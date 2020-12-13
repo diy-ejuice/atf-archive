@@ -1,62 +1,61 @@
 {
-  "name": "Strawberry Brie-scake",
-  "description": "Experiment with Fa New York Cheesecake and Flv Brie Cheese. Very interesting and good cheesecake flavor.",
-  "id": 111859,
-  "image_url": null,
-  "updated_at": "2020-11-29T22:45:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "9956",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brie Cheese",
-      "flavor_id": "4414",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 2000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "bqbdm8",
-  "views": "1013",
-  "slug": "strawberry_briescake",
-  "total_flavoring": "11.8%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Brie-scake",
+    "description": "Experiment with Fa New York Cheesecake and Flv Brie Cheese. Very interesting and good cheesecake flavor.",
+    "id": 111859,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "9956",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brie Cheese",
+            "flavor_id": "4414",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 2000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "bqbdm8",
+    "views": "1017",
+    "created_at": "2018-07-24",
+    "slug": "strawberry_briescake",
+    "total_flavoring": "11.8%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

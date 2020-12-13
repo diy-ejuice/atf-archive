@@ -1,44 +1,44 @@
 {
-  "name": "Strawberry Custard",
-  "description": "A real simple Strawberry Custard just with a few ingredients. Good as a primer.",
-  "id": 187695,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/187695/ec4bfd530329523c30ef7b2123471147.jpg",
-  "updated_at": "2020-11-30T21:00:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ripe Strawberries",
-      "flavor_id": "10273",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "gilco",
-  "views": "1012",
-  "slug": "strawberry_custard",
-  "total_flavoring": "5.75%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Custard",
+    "description": "A real simple Strawberry Custard just with a few ingredients. Good as a primer.",
+    "id": 187695,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/187695\/ec4bfd530329523c30ef7b2123471147.jpg",
+    "updated_at": "2020-12-12T10:16:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ripe Strawberries",
+            "flavor_id": "10273",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "gilco",
+    "views": "1021",
+    "created_at": "2020-03-09",
+    "slug": "strawberry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/187695.jpg",
+    "total_flavoring": "5.75%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

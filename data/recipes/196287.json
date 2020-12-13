@@ -1,81 +1,83 @@
 {
-  "name": "Bruised Lemon",
-  "description": "DISCLAIMER: THIS RECIPE USES CHEMNOVATIC LEMON CREAM WAFER NOT SA Lémon Cream\r\n\r\nBlueberry, blackberry, and lemon cake.  \r\n\r\nMB Yellow Cake (carries a slight lemon note, in my opinion), CAP Sugar Cookie, Chemnovatic Lemon Cream Tart, and FA Custard Premium make up the moist, lemon cake.  The cake is dotted with cooked blueberries and blackberries (WF Blueberry Jam and SC Blackberry).\r\n\r\nWF Buttercream Frosting, OoO Whipped Cream, and FE Lemon make up the lemon-tinged, buttery, sugary frosting.  \r\n\r\nEnjoy!",
-  "id": 196287,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196287/bruised.jpg",
-  "updated_at": "2020-12-08T00:51:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Jam SC",
-      "flavor_id": "10115",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Lémon Cream",
-      "flavor_id": "5749",
-      "millipercent": 4000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "10454",
-      "millipercent": 2000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "3591",
-      "millipercent": 1500,
-      "vendor": "SC"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "LonesomeRhodesTN",
-  "views": "606",
-  "slug": "bruised_lemon",
-  "total_flavoring": "17.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": "Yet another recipe that can't add the correct flavors...SMFH....what are we paying for? "
-    }
-  ]
+    "name": "Bruised Lemon",
+    "description": "DISCLAIMER: THIS RECIPE USES CHEMNOVATIC LEMON CREAM WAFER NOT SA L\u00e9mon Cream\r\n\r\nBlueberry, blackberry, and lemon cake.  \r\n\r\nMB Yellow Cake (carries a slight lemon note, in my opinion), CAP Sugar Cookie, Chemnovatic Lemon Cream Tart, and FA Custard Premium make up the moist, lemon cake.  The cake is dotted with cooked blueberries and blackberries (WF Blueberry Jam and SC Blackberry).\r\n\r\nWF Buttercream Frosting, OoO Whipped Cream, and FE Lemon make up the lemon-tinged, buttery, sugary frosting.  \r\n\r\nEnjoy!",
+    "id": 196287,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196287\/bruised.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Jam SC",
+            "flavor_id": "10115",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "L\u00e9mon Cream",
+            "flavor_id": "5749",
+            "millipercent": 4000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "10454",
+            "millipercent": 2000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "3591",
+            "millipercent": 1500,
+            "vendor": "SC"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "LonesomeRhodesTN",
+    "views": "612",
+    "created_at": "2020-05-31",
+    "slug": "bruised_lemon",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196287.jpg",
+    "total_flavoring": "17.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": "Yet another recipe that can't add the correct flavors...SMFH....what are we paying for? "
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Proper Questions",
-  "description": "A raspberry rhubarb custard using my quick custard.  The brown sugar gives you that hint of brulee'ness that works so well with raspberry and rhubarb.",
-  "id": 137649,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137649/rhubarb_tart_with_a_macadamia_nut_crust___raspberry_ice___what_s_cooking_good_looking.jpg",
-  "updated_at": "2020-12-07T11:44:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweet and Sour Rhubarb SC",
-      "flavor_id": "10126",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (Ripe)",
-      "flavor_id": "6668",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1105",
-  "slug": "proper_questions",
-  "total_flavoring": "8.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Proper Questions",
+    "description": "A raspberry rhubarb custard using my quick custard.  The brown sugar gives you that hint of brulee'ness that works so well with raspberry and rhubarb.",
+    "id": 137649,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137649\/rhubarb_tart_with_a_macadamia_nut_crust___raspberry_ice___what_s_cooking_good_looking.jpg",
+    "updated_at": "2020-12-10T16:01:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweet and Sour Rhubarb SC",
+            "flavor_id": "10126",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (Ripe)",
+            "flavor_id": "6668",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1112",
+    "created_at": "2019-02-02",
+    "slug": "proper_questions",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137649.jpg",
+    "total_flavoring": "8.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

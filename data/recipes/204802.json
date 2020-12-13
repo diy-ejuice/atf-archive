@@ -1,44 +1,44 @@
 {
-  "name": "Mango Madness",
-  "description": "Easy, delicious, & icey.... Call it a mango popsicle, call it mango freeze, or drop the WS-23 and call it Mango Madness!",
-  "id": 204802,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/204802/Mango-Madness-Copy.png",
-  "updated_at": "2020-12-07T17:36:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango Indian Special",
-      "flavor_id": "10439",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Costarica Special (mango)",
-      "flavor_id": "579",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "658",
-  "slug": "mango_madness",
-  "total_flavoring": "5.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mango Madness",
+    "description": "Easy, delicious, & icey.... Call it a mango popsicle, call it mango freeze, or drop the WS-23 and call it Mango Madness!",
+    "id": 204802,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/204802\/Mango-Madness-Copy.png",
+    "updated_at": "2020-12-12T11:53:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango Indian Special",
+            "flavor_id": "10439",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Costarica Special (mango)",
+            "flavor_id": "579",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "682",
+    "created_at": "2020-09-04",
+    "slug": "mango_madness",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/204802.png",
+    "total_flavoring": "5.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

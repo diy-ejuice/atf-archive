@@ -1,87 +1,89 @@
 {
-  "name": "Hello Biko",
-  "description": "\r\nBiko is a Filipino rice cake made of sticky rice, coconut cream, coconut milk, and brown sugar. Some recipes include butter; which is always a welcomed addition in the recipe, but not required. This is a traditional Filipino sweet and sticky rice cake that was often eaten during the holidays or during parties when I was small.\r\n\r\nFor this recipe, I wanted to capture this rich, delicious, and very much loved dessert my mother would make for us.\r\n\r\nIt is very tasty right away but 1 week steep would be optimal.\r\n\r\n♥️ I hope you enjoy it ♥️\r\n_______________________________________________________\r\n★Q & A \r\n\r\n• Question: Is this very sweet?\r\n• Answer: Yes. On a sweetness scale: 1 (not sweet) - 5 (very sweet). I would rank it a 4.5.\r\n\r\nNote*\r\nIf you do not prefer added sweeteners like Super Sweet - feel free to substitute with Meringue. Or feel free to leave the sweetener out. It is nice & sweet on its own. \r\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \r\n• Question: Can I mix at a higher VG ratio?\r\n• Answer: Sure thing. 70/30, 80/20, whichever you prefer. However I would increase the steeping time. Approx. 1.5 - 2 weeks.\r\n\r\n______________________________________________________\r\nPhoto Credit: Maria K",
-  "id": 64785,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64785/1.jpg",
-  "updated_at": "2020-12-08T00:49:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "640",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "650",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Condensed Milk – Super Concentrate",
-      "flavor_id": "7873",
-      "millipercent": 250,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 5250,
-      "vendor": "FE"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 250,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "Leilani",
-  "views": "2357",
-  "slug": "hello_biko",
-  "total_flavoring": "12.4%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "55",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Mixed at 70/30 steeped for a little over 2 weeks. Coconut blends well with the rice and vape has a nice creamy mouth feel "
-    }
-  ]
+    "name": "Hello Biko",
+    "description": "\r\nBiko is a Filipino rice cake made of sticky rice, coconut cream, coconut milk, and brown sugar. Some recipes include butter; which is always a welcomed addition in the recipe, but not required. This is a traditional Filipino sweet and sticky rice cake that was often eaten during the holidays or during parties when I was small.\r\n\r\nFor this recipe, I wanted to capture this rich, delicious, and very much loved dessert my mother would make for us.\r\n\r\nIt is very tasty right away but 1 week steep would be optimal.\r\n\r\n\u2665\ufe0f I hope you enjoy it \u2665\ufe0f\r\n_______________________________________________________\r\n\u2605Q & A \r\n\r\n\u2022 Question: Is this very sweet?\r\n\u2022 Answer: Yes. On a sweetness scale: 1 (not sweet) - 5 (very sweet). I would rank it a 4.5.\r\n\r\nNote*\r\nIf you do not prefer added sweeteners like Super Sweet - feel free to substitute with Meringue. Or feel free to leave the sweetener out. It is nice & sweet on its own. \r\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \r\n\u2022 Question: Can I mix at a higher VG ratio?\r\n\u2022 Answer: Sure thing. 70\/30, 80\/20, whichever you prefer. However I would increase the steeping time. Approx. 1.5 - 2 weeks.\r\n\r\n______________________________________________________\r\nPhoto Credit: Maria K",
+    "id": 64785,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/64785\/1.jpg",
+    "updated_at": "2020-12-12T11:51:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "640",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "650",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Condensed Milk \u2013 Super Concentrate",
+            "flavor_id": "7873",
+            "millipercent": 250,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 5250,
+            "vendor": "FE"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 250,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "Leilani",
+    "views": "2362",
+    "created_at": "2017-09-21",
+    "slug": "hello_biko",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/64785.jpg",
+    "total_flavoring": "12.4%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "55",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Mixed at 70\/30 steeped for a little over 2 weeks. Coconut blends well with the rice and vape has a nice creamy mouth feel "
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Gim-let-lime Way",
-  "description": "A sort of Gin-fizz-let with citrus and lime. Refreshing and satisfying!\r\nVT Botanical Gin is aromatic, grassy and delightfully strange. CAP Juicy Lemon tries to stand out but FA Lime Tahity Cold Pressed and VT Bergamot tie it down. Might use a better lemon (FE lemon) when I get it, but its fine as it is.\r\nCould use a little fizz? We'll see if I don't ruin it all by adding some.",
-  "id": 149679,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149679/alcohol_bev_10.jpg",
-  "updated_at": "2020-11-29T09:18:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Botanical Gin",
-      "flavor_id": "9887",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "8827",
-      "millipercent": 250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coolada",
-      "flavor_id": "10313",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "JayWay",
-  "views": "904",
-  "slug": "gimletlime_way",
-  "total_flavoring": "8.05%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gim-let-lime Way",
+    "description": "A sort of Gin-fizz-let with citrus and lime. Refreshing and satisfying!\r\nVT Botanical Gin is aromatic, grassy and delightfully strange. CAP Juicy Lemon tries to stand out but FA Lime Tahity Cold Pressed and VT Bergamot tie it down. Might use a better lemon (FE lemon) when I get it, but its fine as it is.\r\nCould use a little fizz? We'll see if I don't ruin it all by adding some.",
+    "id": 149679,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149679\/alcohol_bev_10.jpg",
+    "updated_at": "2020-12-11T17:21:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Botanical Gin",
+            "flavor_id": "9887",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "8827",
+            "millipercent": 250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coolada",
+            "flavor_id": "10313",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "JayWay",
+    "views": "910",
+    "created_at": "2019-05-02",
+    "slug": "gimletlime_way",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149679.jpg",
+    "total_flavoring": "8.05%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

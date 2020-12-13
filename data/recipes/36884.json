@@ -1,50 +1,50 @@
 {
-  "name": "Each Yo Plums",
-  "description": "We started a challenge on the DIY Advanced Vapers group about a month ago and this is my recipe. The rules were to use any plum flavor, 5 flavor max, and no more than 10% flavor total.\r\n\r\nThe peach and plum meld into a nice sweet fleshy flavor, which is not something that I expected to happen but was quite pleased with how it came out.",
-  "id": 36884,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/36884/220px-Eat_It_Weird_Al.jpg",
-  "updated_at": "2020-12-07T06:59:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "66",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Plum (pg)",
-      "flavor_id": "260",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 500,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "Seakow",
-  "views": "958",
-  "slug": "each_yo_plums",
-  "total_flavoring": "9.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Each Yo Plums",
+    "description": "We started a challenge on the DIY Advanced Vapers group about a month ago and this is my recipe. The rules were to use any plum flavor, 5 flavor max, and no more than 10% flavor total.\r\n\r\nThe peach and plum meld into a nice sweet fleshy flavor, which is not something that I expected to happen but was quite pleased with how it came out.",
+    "id": 36884,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/36884\/220px-Eat_It_Weird_Al.jpg",
+    "updated_at": "2020-12-10T15:59:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "66",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Plum (pg)",
+            "flavor_id": "260",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 500,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "Seakow",
+    "views": "965",
+    "created_at": "2017-03-15",
+    "slug": "each_yo_plums",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/36884.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

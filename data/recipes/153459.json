@@ -1,62 +1,62 @@
 {
-  "name": "Manana Blood Apple Ice",
-  "description": "This is a Mango, Banana, Pineapple, Blood Orange Ice recipe.\r\n\r\nMade on:\r\nhttps://www.youtube.com/watch?v=J9JQXNx7-DY",
-  "id": 153459,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153459/mang-ice.jpg",
-  "updated_at": "2020-12-07T15:21:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2609",
-  "slug": "manana_blood_apple_ice",
-  "total_flavoring": "9.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Manana Blood Apple Ice",
+    "description": "This is a Mango, Banana, Pineapple, Blood Orange Ice recipe.\r\n\r\nMade on:\r\nhttps:\/\/www.youtube.com\/watch?v=J9JQXNx7-DY",
+    "id": 153459,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153459\/mang-ice.jpg",
+    "updated_at": "2020-12-11T14:17:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2615",
+    "created_at": "2019-05-29",
+    "slug": "manana_blood_apple_ice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153459.jpg",
+    "total_flavoring": "9.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

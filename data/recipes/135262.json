@@ -1,62 +1,64 @@
 {
-  "name": "Root Birra",
-  "description": "This recipe reminds me to a hipster homemade root beer I tried a few years ago in Bariloche, Argentina.\r\n\r\nFLV Root Beer is the best in its kind but for my profile I needed more body and sweetness. Flavorah Cream and Butterscotch toghether create a rich caramel cream full of body and texture, and a bit of FLV Milk Chocolate adds warmness and a sutil dark note. FLV Vanilla Bean is an idea I took from @Thadentman and @Kopel and it works great to add a very natural vanilla and also boost the vanilla from other flavors.\r\n\r\nSalud!",
-  "id": 135262,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135262/homemade-root-beer-fb.png",
-  "updated_at": "2020-12-08T00:50:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "4389",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "NaCHeF",
-  "views": "1454",
-  "slug": "root_birra",
-  "total_flavoring": "7.45%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "I really get a full spectrum of flavor. He filled in that hole in FLV Root Beer with creamy butterscotch and that slight hint of chocolate adds a dark point of interest. The result is rich and flavorful and just delightful, Root Beer lovers should definitely give it a try."
-    },
-    {
-      "user": "DumHed",
-      "score": "5",
-      "text": "Very enjoyable."
-    }
-  ]
+    "name": "Root Birra",
+    "description": "This recipe reminds me to a hipster homemade root beer I tried a few years ago in Bariloche, Argentina.\r\n\r\nFLV Root Beer is the best in its kind but for my profile I needed more body and sweetness. Flavorah Cream and Butterscotch toghether create a rich caramel cream full of body and texture, and a bit of FLV Milk Chocolate adds warmness and a sutil dark note. FLV Vanilla Bean is an idea I took from @Thadentman and @Kopel and it works great to add a very natural vanilla and also boost the vanilla from other flavors.\r\n\r\nSalud!",
+    "id": 135262,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135262\/homemade-root-beer-fb.png",
+    "updated_at": "2020-12-12T20:30:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "4389",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "NaCHeF",
+    "views": "1460",
+    "created_at": "2019-01-16",
+    "slug": "root_birra",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135262.png",
+    "total_flavoring": "7.45%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "I really get a full spectrum of flavor. He filled in that hole in FLV Root Beer with creamy butterscotch and that slight hint of chocolate adds a dark point of interest. The result is rich and flavorful and just delightful, Root Beer lovers should definitely give it a try."
+        },
+        {
+            "user": "DumHed",
+            "score": 5,
+            "text": "Very enjoyable."
+        }
+    ]
 }

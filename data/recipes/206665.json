@@ -1,38 +1,37 @@
 {
-  "name": "Lychee Lime #FLV",
-  "description": "Sweet Lychee paired with Orchid sweetness and fresh Lime.\r\n\r\nOptimized for 50/50 VG/PG vaped MTL in Flash-e-Vapor V4.5.\r\nOriginally developed for the #DevelopedFLV contest. I like it, but only one recipe is allowed.",
-  "id": 206665,
-  "image_url": null,
-  "updated_at": "2020-12-06T09:38:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lychee",
-      "flavor_id": "628",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "634",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Orchid",
-      "flavor_id": "8571",
-      "millipercent": 200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "dampfer78",
-  "views": "256",
-  "slug": "lychee_lime_flv",
-  "total_flavoring": "1.7%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lychee Lime #FLV",
+    "description": "Sweet Lychee paired with Orchid sweetness and fresh Lime.\r\n\r\nOptimized for 50\/50 VG\/PG vaped MTL in Flash-e-Vapor V4.5.\r\nOriginally developed for the #DevelopedFLV contest. I like it, but only one recipe is allowed.",
+    "id": 206665,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:08:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lychee",
+            "flavor_id": "628",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "634",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Orchid",
+            "flavor_id": "8571",
+            "millipercent": 200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "dampfer78",
+    "views": "263",
+    "created_at": "2020-10-05",
+    "slug": "lychee_lime_flv",
+    "total_flavoring": "1.7%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

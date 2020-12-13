@@ -1,51 +1,52 @@
 {
-  "name": "Sugar Burr",
-  "description": "Tastes like god damn teddy grahams.\r\n\r\nSteep: Best at 2 weeks, vapable beforehand, though",
-  "id": 3726,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:31:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DataNotAnecdotes",
-  "views": "1101",
-  "slug": "sugar_burr",
-  "total_flavoring": "8.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "?/"
-    }
-  ]
+    "name": "Sugar Burr",
+    "description": "Tastes like god damn teddy grahams.\r\n\r\nSteep: Best at 2 weeks, vapable beforehand, though",
+    "id": 3726,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DataNotAnecdotes",
+    "views": "1108",
+    "created_at": "2016-05-23",
+    "slug": "sugar_burr",
+    "total_flavoring": "8.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "?\/"
+        }
+    ]
 }

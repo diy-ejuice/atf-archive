@@ -1,87 +1,89 @@
 {
-  "name": "Fatty's Delight",
-  "description": "My take on a toaster pastry with a light icing and a mix of black and blueberry drizzle. Think toaster strudel with a more indulgent twist. Vapeable as shake and vape. Yogurts and fruits subside over time. On day three the essence of the flavor profile comes together. Steeping takes this recipe on a journey from a black berry yogurt parfait to a conglomerate of pastry sweetness. The result is what fat kids dream about. \r\nYour feedback is appreciated.  ",
-  "id": 15154,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15154/Screenshot_20161004-145919.png",
-  "updated_at": "2020-12-06T04:10:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "17",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "214",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Greek yogurt ",
-      "flavor_id": "4549",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "4554",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 150,
-      "vendor": "LA"
-    },
-    {
-      "name": null,
-      "flavor_id": "null",
-      "millipercent": 0,
-      "vendor": null
-    }
-  ],
-  "author": "Funkme",
-  "views": "1619",
-  "slug": "fattys_delight",
-  "total_flavoring": "16.15%",
-  "steep_days": "3",
-  "best_vg": "84%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Cman",
-      "score": "none",
-      "text": "Did you really enter this in the contest.  You didn't use the basket ingredients."
-    }
-  ]
+    "name": "Fatty's Delight",
+    "description": "My take on a toaster pastry with a light icing and a mix of black and blueberry drizzle. Think toaster strudel with a more indulgent twist. Vapeable as shake and vape. Yogurts and fruits subside over time. On day three the essence of the flavor profile comes together. Steeping takes this recipe on a journey from a black berry yogurt parfait to a conglomerate of pastry sweetness. The result is what fat kids dream about. \r\nYour feedback is appreciated.  ",
+    "id": 15154,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15154\/Screenshot_20161004-145919.png",
+    "updated_at": "2020-12-10T21:31:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "17",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "214",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Greek yogurt ",
+            "flavor_id": "4549",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "4554",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 150,
+            "vendor": "LA"
+        },
+        {
+            "name": null,
+            "flavor_id": "",
+            "millipercent": 0,
+            "vendor": null
+        }
+    ],
+    "author": "Funkme",
+    "views": "1628",
+    "created_at": "2016-10-04",
+    "slug": "fattys_delight",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15154.png",
+    "total_flavoring": "16.15%",
+    "steep_days": "3",
+    "best_vg": "84%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Cman",
+            "score": 0,
+            "text": "Did you really enter this in the contest.  You didn't use the basket ingredients."
+        }
+    ]
 }

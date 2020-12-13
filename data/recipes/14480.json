@@ -1,44 +1,44 @@
 {
-  "name": "Cookies & Cream Gelato",
-  "description": "A sweet Cookies and Cream Gelato that produces thick rich clouds of milk chocolate and vannila on the inhale and a slightly bitter dark chocolate on the exhale. Needs at least 3 weeks of steeping for the Cookie to mellow out and the Creamy Gelato to come forward.",
-  "id": 14480,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14480/Cookies-n-Cream-Gelato.jpg",
-  "updated_at": "2020-12-07T12:45:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "1258",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Gelato",
-      "flavor_id": "185",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "louiesquared",
-  "views": "2756",
-  "slug": "cookies_cream_gelato",
-  "total_flavoring": "16.5%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cookies & Cream Gelato",
+    "description": "A sweet Cookies and Cream Gelato that produces thick rich clouds of milk chocolate and vannila on the inhale and a slightly bitter dark chocolate on the exhale. Needs at least 3 weeks of steeping for the Cookie to mellow out and the Creamy Gelato to come forward.",
+    "id": 14480,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14480\/Cookies-n-Cream-Gelato.jpg",
+    "updated_at": "2020-12-12T09:12:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "1258",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Gelato",
+            "flavor_id": "185",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "louiesquared",
+    "views": "2769",
+    "created_at": "2016-09-26",
+    "slug": "cookies_cream_gelato",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14480.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

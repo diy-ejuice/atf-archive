@@ -1,57 +1,59 @@
 {
-  "name": " Red Dragon Cartel ",
-  "description": "Ry4  tobacco caramel vanilla custard..... with winter coming soon I'm stocking up on my favorite ADV..mix it try it love it... just a side note version #2 I added 1.5% Graham cracker Clear TPA",
-  "id": 172313,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/172313/20191027_161835.jpg",
-  "updated_at": "2020-12-08T00:51:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ruyan Custard",
-      "flavor_id": "6066",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 500,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "Slushy",
-  "views": "1574",
-  "slug": "red_dragon_cartel",
-  "total_flavoring": "10.8%",
-  "steep_days": "14",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Tried it without TFA Graham Cracker Clear and after a week of steep it's very very good. Simple yet very satisfying! ADV without a doubt, awesome work!"
-    }
-  ]
+    "name": " Red Dragon Cartel ",
+    "description": "Ry4  tobacco caramel vanilla custard..... with winter coming soon I'm stocking up on my favorite ADV..mix it try it love it... just a side note version #2 I added 1.5% Graham cracker Clear TPA",
+    "id": 172313,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/172313\/20191027_161835.jpg",
+    "updated_at": "2020-12-12T15:40:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ruyan Custard",
+            "flavor_id": "6066",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 500,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1582",
+    "created_at": "2019-10-27",
+    "slug": "red_dragon_cartel",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/172313.jpg",
+    "total_flavoring": "10.8%",
+    "steep_days": "14",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Tried it without TFA Graham Cracker Clear and after a week of steep it's very very good. Simple yet very satisfying! ADV without a doubt, awesome work!"
+        }
+    ]
 }

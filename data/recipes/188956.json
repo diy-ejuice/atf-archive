@@ -1,63 +1,65 @@
 {
-  "name": "lumi-tropic yumyum",
-  "description": "Add sweeter if you are that kinda mixer.... Blah blahhh blahhhhhh blahhhh blahh blabblab blabiddyblab P.S I vape on a 5 mm 14 strand Celtic single coil on the DROP rda",
-  "id": 188956,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188956/pap.jpg",
-  "updated_at": "2020-12-08T00:51:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 1230,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 1120,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1370,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Passion Fruit",
-      "flavor_id": "93",
-      "millipercent": 2980,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Smoothie Base",
-      "flavor_id": "10153",
-      "millipercent": 890,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1320,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "709",
-  "slug": "lumitropic_yumyum",
-  "total_flavoring": "8.91%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RUG_ly",
-      "score": "5",
-      "text": "This mix is super good. I subbed in FA Indian mango at 1 for the FLV mango and I subbed in TPA Papaya at 3 for the cantaloupe. "
-    }
-  ]
+    "name": "lumi-tropic yumyum",
+    "description": "Add sweeter if you are that kinda mixer.... Blah blahhh blahhhhhh blahhhh blahh blabblab blabiddyblab P.S I vape on a 5 mm 14 strand Celtic single coil on the DROP rda",
+    "id": 188956,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/188956\/pap.jpg",
+    "updated_at": "2020-12-12T11:53:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 1230,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 1120,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1370,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Passion Fruit",
+            "flavor_id": "93",
+            "millipercent": 2980,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Smoothie Base",
+            "flavor_id": "10153",
+            "millipercent": 890,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1320,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "718",
+    "created_at": "2020-03-22",
+    "slug": "lumitropic_yumyum",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/188956.jpg",
+    "total_flavoring": "8.91%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RUG_ly",
+            "score": 5,
+            "text": "This mix is super good. I subbed in FA Indian mango at 1 for the FLV mango and I subbed in TPA Papaya at 3 for the cantaloupe. "
+        }
+    ]
 }

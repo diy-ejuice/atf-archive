@@ -1,57 +1,59 @@
 {
-  "name": "Kamp Staaldraad",
-  "description": "Dark, rich and rewarding tobacco . This ons is not for feint-hearted. \r\n\r\nLB tobacco/Flv Conneticut shade - dark and morbid with deep fermented tones and accents of cloves and cardemon. In fact, it is so depressing it makes Norilsk seem like Disney land in spring. \r\n\r\nWe then drape the tobacco base in a macabre blanket of flv cured and minora blades while whimsically whisling to the tune of \"Dress rehearsal rags\" by Leonard Cohen. \r\n\r\nFlv virginia - the sweet golden virginia provides the last sliver of hope that helps you cling on to your mortal coil. \r\n\r\nFA black pepper - to burn your tongue, if you dare lick your wounds. \r\n\r\nIts is a fantastically dark and rich tobacco profile with deep aromatic tones and a lingering tobacco aftertaste... Oh and it hits like a ton of bricks. ",
-  "id": 148483,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/148483/JPEG_20190404_133011.jpg",
-  "updated_at": "2020-12-08T00:50:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Tobacco",
-      "flavor_id": "1509",
-      "millipercent": 1250,
-      "vendor": "LB"
-    },
-    {
-      "name": "Virginia Tobacco",
-      "flavor_id": "623",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pepper Black",
-      "flavor_id": "565",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Zander",
-  "views": "1123",
-  "slug": "kamp_staaldraad",
-  "total_flavoring": "3.95%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JTHerman",
-      "score": "5",
-      "text": "This mix is the most like smoking real tobacco of the 20 or so I’ve tried. The pepper gives it a very similar mouth feel. It tastes great!"
-    }
-  ]
+    "name": "Kamp Staaldraad",
+    "description": "Dark, rich and rewarding tobacco . This ons is not for feint-hearted. \r\n\r\nLB tobacco\/Flv Conneticut shade - dark and morbid with deep fermented tones and accents of cloves and cardemon. In fact, it is so depressing it makes Norilsk seem like Disney land in spring. \r\n\r\nWe then drape the tobacco base in a macabre blanket of flv cured and minora blades while whimsically whisling to the tune of \"Dress rehearsal rags\" by Leonard Cohen. \r\n\r\nFlv virginia - the sweet golden virginia provides the last sliver of hope that helps you cling on to your mortal coil. \r\n\r\nFA black pepper - to burn your tongue, if you dare lick your wounds. \r\n\r\nIts is a fantastically dark and rich tobacco profile with deep aromatic tones and a lingering tobacco aftertaste... Oh and it hits like a ton of bricks. ",
+    "id": 148483,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/148483\/JPEG_20190404_133011.jpg",
+    "updated_at": "2020-12-12T15:40:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Tobacco",
+            "flavor_id": "1509",
+            "millipercent": 1250,
+            "vendor": "LB"
+        },
+        {
+            "name": "Virginia Tobacco",
+            "flavor_id": "623",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pepper Black",
+            "flavor_id": "565",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Zander",
+    "views": "1127",
+    "created_at": "2019-04-24",
+    "slug": "kamp_staaldraad",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/148483.jpg",
+    "total_flavoring": "3.95%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JTHerman",
+            "score": 5,
+            "text": "This mix is the most like smoking real tobacco of the 20 or so I\u2019ve tried. The pepper gives it a very similar mouth feel. It tastes great!"
+        }
+    ]
 }

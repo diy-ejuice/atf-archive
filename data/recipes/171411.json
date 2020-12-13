@@ -1,75 +1,77 @@
 {
-  "name": "Irish Frapp",
-  "description": "So I actually didn’t know this was a thing?! One night whilst getting rather merry and knocking back the drinks I thought I was being all creative when I decided to add a decent sized glug of Baileys to my Starbucks (shop brought) cold frappe-chino! I was immediately transported to heaven as this shit was off the chain!!! I mean,it was pretty dam sweet so could only have one of them but nonetheless it was a delicious little cocktail. I honesty thought I had created something new but as it goes these things have been going for years!! 😂😂 oh well, I thought I’d take it one step further and re create this delicious  concoction in vape form and boy oh boy have I nailed it! This recipe took some work but the end result is near on identical apart from the coldness. If you want to add WS-23 @ 0.50% then go for it! I however can’t tolerate the stuff so I left it out. The sweetener is a must in this recipe,it helps the chocolate out and also takes any bitterness away from the coffee. It also makes our cream sweet and silky. This is definitely a steeper, don’t be tempted to go in on it straight away as you’ll be disappointed, 5 days is spot on guys. I hope you enjoy this one and please be so kind to leave a rating and review if you do so choose to mix this up. Happy mixing 💙😎",
-  "id": 171411,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/171411/643791B2-8614-470F-A583-349DF149BE10.jpeg",
-  "updated_at": "2020-12-08T00:51:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coffee Milk Froth",
-      "flavor_id": "8858",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 200,
-      "vendor": "HS"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "9893",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Arabica Coffee",
-      "flavor_id": "8822",
-      "millipercent": 750,
-      "vendor": "VT"
-    }
-  ],
-  "author": "FuriousMixer",
-  "views": "1313",
-  "slug": "irish_frapp",
-  "total_flavoring": "8.45%",
-  "steep_days": "5",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "This uses FLV Irish Cream the only way I think it can be used, in a coffee vape that also incorporates chocolate. In a Starbucked Up thing. Between the FLV Irish Cream and WF Brazilian Coffee in there I get just a wee bit too much of a burnt, stale-ish coffee taste - like coffee that was made just a little too long ago - but overall it’s definitely a coffee vape I’ve enjoyed more than other coffee vapes I’ve tried. It doesn’t have any of the skunk spray or burned microwave popcorn taste that some of the other ones have, and might not even taste a little burnt to everyone, I think there’s something in these flavors that I’m just really sensitive to. It’s sweet and chocolately and has a very thick, velvety smooth feel to it. Really rich and creamy. If I was going to try to improve on it, I’d definitely bring in some VT Irish Cream to really get that booze in there. I might also try bringing down the FLV Irish Cream and WF Brazilian Coffee, but it’s likely that VT Irish Cream could cover that slight edge of excess gas station-y coffee. "
-    }
-  ]
+    "name": "Irish Frapp",
+    "description": "So I actually didn\u2019t know this was a thing?! One night whilst getting rather merry and knocking back the drinks I thought I was being all creative when I decided to add a decent sized glug of Baileys to my Starbucks (shop brought) cold frappe-chino! I was immediately transported to heaven as this shit was off the chain!!! I mean,it was pretty dam sweet so could only have one of them but nonetheless it was a delicious little cocktail. I honesty thought I had created something new but as it goes these things have been going for years!! \ud83d\ude02\ud83d\ude02 oh well, I thought I\u2019d take it one step further and re create this delicious  concoction in vape form and boy oh boy have I nailed it! This recipe took some work but the end result is near on identical apart from the coldness. If you want to add WS-23 @ 0.50% then go for it! I however can\u2019t tolerate the stuff so I left it out. The sweetener is a must in this recipe,it helps the chocolate out and also takes any bitterness away from the coffee. It also makes our cream sweet and silky. This is definitely a steeper, don\u2019t be tempted to go in on it straight away as you\u2019ll be disappointed, 5 days is spot on guys. I hope you enjoy this one and please be so kind to leave a rating and review if you do so choose to mix this up. Happy mixing \ud83d\udc99\ud83d\ude0e",
+    "id": 171411,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/171411\/643791B2-8614-470F-A583-349DF149BE10.jpeg",
+    "updated_at": "2020-12-12T14:07:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coffee Milk Froth",
+            "flavor_id": "8858",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 200,
+            "vendor": "HS"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "9893",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Arabica Coffee",
+            "flavor_id": "8822",
+            "millipercent": 750,
+            "vendor": "VT"
+        }
+    ],
+    "author": "FuriousMixer",
+    "views": "1328",
+    "created_at": "2019-10-20",
+    "slug": "irish_frapp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/171411.jpeg",
+    "total_flavoring": "8.45%",
+    "steep_days": "5",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "This uses FLV Irish Cream the only way I think it can be used, in a coffee vape that also incorporates chocolate. In a Starbucked Up thing. Between the FLV Irish Cream and WF Brazilian Coffee in there I get just a wee bit too much of a burnt, stale-ish coffee taste - like coffee that was made just a little too long ago - but overall it\u2019s definitely a coffee vape I\u2019ve enjoyed more than other coffee vapes I\u2019ve tried. It doesn\u2019t have any of the skunk spray or burned microwave popcorn taste that some of the other ones have, and might not even taste a little burnt to everyone, I think there\u2019s something in these flavors that I\u2019m just really sensitive to. It\u2019s sweet and chocolately and has a very thick, velvety smooth feel to it. Really rich and creamy. If I was going to try to improve on it, I\u2019d definitely bring in some VT Irish Cream to really get that booze in there. I might also try bringing down the FLV Irish Cream and WF Brazilian Coffee, but it\u2019s likely that VT Irish Cream could cover that slight edge of excess gas station-y coffee. "
+        }
+    ]
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Trinity (Vape Evasion)#REMIXMONTH",
-  "description": "A simple and delicious trifecta of peach , papaya and coconut ",
-  "id": 79927,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/79927/e-liquide-trinity-eliquid.jpg",
-  "updated_at": "2020-12-08T00:49:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peach Ring Candy",
-      "flavor_id": "1949",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BotanikBerg",
-  "views": "1910",
-  "slug": "trinity_vape_evasionremixmonth",
-  "total_flavoring": "5.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "Need to try this "
-    }
-  ]
+    "name": "Trinity (Vape Evasion)#REMIXMONTH",
+    "description": "A simple and delicious trifecta of peach , papaya and coconut ",
+    "id": 79927,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/79927\/e-liquide-trinity-eliquid.jpg",
+    "updated_at": "2020-12-12T18:29:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peach Ring Candy",
+            "flavor_id": "1949",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BotanikBerg",
+    "views": "1921",
+    "created_at": "2017-12-20",
+    "slug": "trinity_vape_evasionremixmonth",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/79927.jpg",
+    "total_flavoring": "5.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "Need to try this "
+        }
+    ]
 }

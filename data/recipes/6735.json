@@ -1,39 +1,41 @@
 {
-  "name": "Simple Grapple ",
-  "description": "The grapple is an odd combination of an apple that tastes like a grape. Don't know if you've ever had one but here it is in Vape forum.",
-  "id": 6735,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6735/hero-edge-folding-ninja-grappling-hook-m-0857-only-large.jpg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sparkling Wine",
-      "flavor_id": "843",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Chrisdvr1",
-  "views": "2712",
-  "slug": "simple_grapple",
-  "total_flavoring": "3.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Queuetue",
-      "score": "4",
-      "text": "This is a very accurate flavor.  I've had grapples a few times, and this simple recipe is perfect emulation of that \"real apple, fake grape\" flavor.  I'm torn on the flavor itself - I'm actually not a big fan of grapples, but it's exactly what I expected when I mixed it, and it did not disappoint. "
-    }
-  ]
+    "name": "Simple Grapple ",
+    "description": "The grapple is an odd combination of an apple that tastes like a grape. Don't know if you've ever had one but here it is in Vape forum.",
+    "id": 6735,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6735\/hero-edge-folding-ninja-grappling-hook-m-0857-only-large.jpg",
+    "updated_at": "2020-12-12T11:50:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sparkling Wine",
+            "flavor_id": "843",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Chrisdvr1",
+    "views": "2719",
+    "created_at": "2016-07-05",
+    "slug": "simple_grapple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6735.jpg",
+    "total_flavoring": "3.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Queuetue",
+            "score": 4,
+            "text": "This is a very accurate flavor.  I've had grapples a few times, and this simple recipe is perfect emulation of that \"real apple, fake grape\" flavor.  I'm torn on the flavor itself - I'm actually not a big fan of grapples, but it's exactly what I expected when I mixed it, and it did not disappoint. "
+        }
+    ]
 }

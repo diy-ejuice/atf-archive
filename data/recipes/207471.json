@@ -1,56 +1,56 @@
 {
-  "name": "Americana",
-  "description": "Americana is a classic  New york Cheesecake with a delicious strawberry topping and a buttery graham cookie base.\r\n\r\nWf Strawberry Cheesecake is super good, has a great cheesy note, a great graham base and a good strawberry.\r\nThe only issue is that the strawberry just appears in the finish, so here comes VTA Strawberry Jam that gives the top sweet strawberry note.\r\n\r\nCAP New York Cheescake adds richness to the cheesecake part while Fw Graham Cracker and VTA Butter Base help with the buttery graham base.",
-  "id": 207471,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207471/F44FA4D7-46E5-4137-99BA-AF3E1E0374A8.jpeg",
-  "updated_at": "2020-12-07T23:39:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Cheesecake SC",
-      "flavor_id": "10413",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Butter Base",
-      "flavor_id": "8843",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "8976",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VenSyBoy",
-  "views": "801",
-  "slug": "americana",
-  "total_flavoring": "11.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Americana",
+    "description": "Americana is a classic  New york Cheesecake with a delicious strawberry topping and a buttery graham cookie base.\r\n\r\nWf Strawberry Cheesecake is super good, has a great cheesy note, a great graham base and a good strawberry.\r\nThe only issue is that the strawberry just appears in the finish, so here comes VTA Strawberry Jam that gives the top sweet strawberry note.\r\n\r\nCAP New York Cheescake adds richness to the cheesecake part while Fw Graham Cracker and VTA Butter Base help with the buttery graham base.",
+    "id": 207471,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207471\/F44FA4D7-46E5-4137-99BA-AF3E1E0374A8.jpeg",
+    "updated_at": "2020-12-12T17:13:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Cheesecake SC",
+            "flavor_id": "10413",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Butter Base",
+            "flavor_id": "8843",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "8976",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VenSyBoy",
+    "views": "811",
+    "created_at": "2020-10-25",
+    "slug": "americana",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207471.jpeg",
+    "total_flavoring": "11.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

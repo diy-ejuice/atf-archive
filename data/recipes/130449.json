@@ -1,83 +1,85 @@
 {
-  "name": "Stardrop",
-  "description": "\"A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.\"\r\n</lb>\r\nUpdating this to WF Starfruit because it does the job better.",
-  "id": 130449,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130449/Stardrop.jpg",
-  "updated_at": "2020-12-08T00:50:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Starfruit SC",
-      "flavor_id": "8379",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "AlfredPudding",
-  "views": "3910",
-  "slug": "stardrop",
-  "total_flavoring": "11.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "450",
-  "total_reviews": 5,
-  "recipe_score": 4.4,
-  "reviews": [
-    {
-      "user": "NickG",
-      "score": "5",
-      "text": "I keep coming back to this when I want something tasty, but don't know what. Still can't quite describe what it is, but it is delicious. I appreciate your effort, really been enjoying this. Thank you for sharing !"
-    },
-    {
-      "user": "Brandon451",
-      "score": "2",
-      "text": ""
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Lovely mix of fruit both berry and melon come through. And i also completely agree with your description. It is very tasty but hard to describe. It has a candy like gummy texture, but the fruit doesn’t taste candied it tasty fairly authentic. Excellent job and thanks for sharing "
-    },
-    {
-      "user": "Demented76",
-      "score": "5",
-      "text": "This is a creamy and delicious melon mixture to me.  The other flavors accent the melon very nicely and bend it just a tad so that it is not your ordinary melon.  It has a nice juicy appeal and it is sweetened just the right amount.  It is not quite a candy but not quite a fruit.  If you want something off the beaten path give this one a try.  The starfruit does moist magical things to the melon.  "
-    },
-    {
-      "user": "cultureviolet",
-      "score": "5",
-      "text": "I have been looking for an opportunity to use WF Starfruit in something (and CAPSL 27 bears for that matter) and this definitely fits the bill. Never played Stardew Valley but you've successfully piqued my interest and may have to follow up with that. As far as the flavor goes.... it's scrum-diddley-umptious! Obviously some sort of fusion gummy, this is really growing on me. I'm kinda wondering what it would be like with that starfruit turned up a tad, might try that out.  Either way, great job, I dig it. Curious what was in place of WF Starfruit before the change was made. (AP informed me it was INW Aloe, very interesting!). Just a little update: I know this is technically a SnV but I found it to be best after day 3 and maybe best at day 5. I'm somewhat sensitive to Wild Melon and it took about that long for it to meld into sweet amalgamation. "
-    }
-  ]
+    "name": "Stardrop",
+    "description": "\"A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.\"\r\n<\/lb>\r\nUpdating this to WF Starfruit because it does the job better.",
+    "id": 130449,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130449\/Stardrop.jpg",
+    "updated_at": "2020-12-12T18:30:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Starfruit SC",
+            "flavor_id": "8379",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "AlfredPudding",
+    "views": "3922",
+    "created_at": "2018-12-06",
+    "slug": "stardrop",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130449.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "450",
+    "total_reviews": 5,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "NickG",
+            "score": 5,
+            "text": "I keep coming back to this when I want something tasty, but don't know what. Still can't quite describe what it is, but it is delicious. I appreciate your effort, really been enjoying this. Thank you for sharing !"
+        },
+        {
+            "user": "Brandon451",
+            "score": 2,
+            "text": ""
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Lovely mix of fruit both berry and melon come through. And i also completely agree with your description. It is very tasty but hard to describe. It has a candy like gummy texture, but the fruit doesn\u2019t taste candied it tasty fairly authentic. Excellent job and thanks for sharing "
+        },
+        {
+            "user": "Demented76",
+            "score": 5,
+            "text": "This is a creamy and delicious melon mixture to me.  The other flavors accent the melon very nicely and bend it just a tad so that it is not your ordinary melon.  It has a nice juicy appeal and it is sweetened just the right amount.  It is not quite a candy but not quite a fruit.  If you want something off the beaten path give this one a try.  The starfruit does moist magical things to the melon.  "
+        },
+        {
+            "user": "cultureviolet",
+            "score": 5,
+            "text": "I have been looking for an opportunity to use WF Starfruit in something (and CAPSL 27 bears for that matter) and this definitely fits the bill. Never played Stardew Valley but you've successfully piqued my interest and may have to follow up with that. As far as the flavor goes.... it's scrum-diddley-umptious! Obviously some sort of fusion gummy, this is really growing on me. I'm kinda wondering what it would be like with that starfruit turned up a tad, might try that out.  Either way, great job, I dig it. Curious what was in place of WF Starfruit before the change was made. (AP informed me it was INW Aloe, very interesting!). Just a little update: I know this is technically a SnV but I found it to be best after day 3 and maybe best at day 5. I'm somewhat sensitive to Wild Melon and it took about that long for it to meld into sweet amalgamation. "
+        }
+    ]
 }

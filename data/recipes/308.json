@@ -1,75 +1,77 @@
 {
-  "name": "Shake em bowet uh",
-  "description": "Lime coconut yogurt. Currently a WIP",
-  "id": 308,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/308/11822455_1019234621422726_7847066356615585912_n.jpg",
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "615",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherimoya (yc)",
-      "flavor_id": "738",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "2854",
-  "slug": "shake_em_bowet_uh",
-  "total_flavoring": "11.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "LB",
-      "score": "5",
-      "text": "Just wondering... If its a coconut lime yogurt.. why are there no coconut flavorings in the recipe? just making sure there wasn't a mistake on the recipe"
-    }
-  ]
+    "name": "Shake em bowet uh",
+    "description": "Lime coconut yogurt. Currently a WIP",
+    "id": 308,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/308\/11822455_1019234621422726_7847066356615585912_n.jpg",
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "615",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherimoya (yc)",
+            "flavor_id": "738",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "2862",
+    "created_at": "2016-03-10",
+    "slug": "shake_em_bowet_uh",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/308.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "LB",
+            "score": 5,
+            "text": "Just wondering... If its a coconut lime yogurt.. why are there no coconut flavorings in the recipe? just making sure there wasn't a mistake on the recipe"
+        }
+    ]
 }

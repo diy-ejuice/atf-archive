@@ -1,81 +1,83 @@
 {
-  "name": "Drunken Cookies",
-  "description": "The next installment of my Drunken _________ series, this time we're doing some sugar cookies with a strawberry margarita frosting. This mix is very early in it's development, as these Drunken recipes are definitely my most intricate ones, and I spend a lot of time getting them right. Drunken Pears took nearly 2 months to get to where it is today, but this one is coming along nicely on a first attempt.\r\n\r\nThis vape has a lot going on. On the inhale, expect a nice, sweet strawberry frosting. Immediately after, the warm sugar cookie hits with hints of hazelnut. Finally, the exhale brings the margarita notes.\r\n\r\nShake and vape certified. No need for a steep, but the hazelnut will boost the strawberry flavour after a day or two.\r\n\r\nArt by me : visit http://www.matthew-kocanda.com to view more of my work.",
-  "id": 16663,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16663/suffer.jpg",
-  "updated_at": "2020-12-07T11:43:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 2500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Wine White",
-      "flavor_id": "440",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1250,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "matthewkocanda",
-  "views": "2625",
-  "slug": "drunken_cookies",
-  "total_flavoring": "18.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "3",
-      "text": "This is one where I love the idea a whole lot, not so much the execution. The ingredients and the way it tastes led me to click the little “I” next to Cokecan’s name and sure enough, I see the problem, this recipe was created in 2016. That’s ancient history. The cookie base is fine, Sugar Cookie firmed up with some JF Biscuit, and that dash of Hazelnut is something I’d keep. The strawberry margarita frosting is where this could use some work, especially in the lime and tequila areas, but also the strawberry tastes a little dull and there’s got to be a better way to do frosting now than CAP Vanilla Cupcake, right? A 2021-quality strawberry margarita frosted cookie recipe needs to happen.  "
-    }
-  ]
+    "name": "Drunken Cookies",
+    "description": "The next installment of my Drunken _________ series, this time we're doing some sugar cookies with a strawberry margarita frosting. This mix is very early in it's development, as these Drunken recipes are definitely my most intricate ones, and I spend a lot of time getting them right. Drunken Pears took nearly 2 months to get to where it is today, but this one is coming along nicely on a first attempt.\r\n\r\nThis vape has a lot going on. On the inhale, expect a nice, sweet strawberry frosting. Immediately after, the warm sugar cookie hits with hints of hazelnut. Finally, the exhale brings the margarita notes.\r\n\r\nShake and vape certified. No need for a steep, but the hazelnut will boost the strawberry flavour after a day or two.\r\n\r\nArt by me : visit http:\/\/www.matthew-kocanda.com to view more of my work.",
+    "id": 16663,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16663\/suffer.jpg",
+    "updated_at": "2020-12-12T02:44:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 2500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Wine White",
+            "flavor_id": "440",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1250,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "matthewkocanda",
+    "views": "2638",
+    "created_at": "2016-10-17",
+    "slug": "drunken_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16663.jpg",
+    "total_flavoring": "18.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 3,
+            "text": "This is one where I love the idea a whole lot, not so much the execution. The ingredients and the way it tastes led me to click the little \u201cI\u201d next to Cokecan\u2019s name and sure enough, I see the problem, this recipe was created in 2016. That\u2019s ancient history. The cookie base is fine, Sugar Cookie firmed up with some JF Biscuit, and that dash of Hazelnut is something I\u2019d keep. The strawberry margarita frosting is where this could use some work, especially in the lime and tequila areas, but also the strawberry tastes a little dull and there\u2019s got to be a better way to do frosting now than CAP Vanilla Cupcake, right? A 2021-quality strawberry margarita frosted cookie recipe needs to happen.  "
+        }
+    ]
 }

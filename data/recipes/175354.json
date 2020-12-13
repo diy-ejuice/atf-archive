@@ -1,56 +1,58 @@
 {
-  "name": "Strawberry Banana Shake - DEAD SIMPLE",
-  "description": "A very simple Banana, Strawberry Smoothie. This recipe is part of the DEAD SIMPLE recipe series",
-  "id": 175354,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/175354/ban.jpg",
-  "updated_at": "2020-12-08T00:51:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "3648",
-  "slug": "strawberry_banana_shake_dead_simple",
-  "total_flavoring": "4.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "robolto78",
-      "score": "5",
-      "text": "I agree 💯 with FuriousMixer. Great vape."
-    },
-    {
-      "user": "FuriousMixer",
-      "score": "4",
-      "text": "For a simple recipe this is worth a bash 💯  decent amount of flavour and pretty well balanced. If you enjoy strawberry forward recipes with light banana then get on it! Good job Wayne 👍🏻"
-    }
-  ]
+    "name": "Strawberry Banana Shake - DEAD SIMPLE",
+    "description": "A very simple Banana, Strawberry Smoothie. This recipe is part of the DEAD SIMPLE recipe series",
+    "id": 175354,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/175354\/ban.jpg",
+    "updated_at": "2020-12-12T15:40:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "3665",
+    "created_at": "2019-11-23",
+    "slug": "strawberry_banana_shake_dead_simple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/175354.jpg",
+    "total_flavoring": "4.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "robolto78",
+            "score": 5,
+            "text": "I agree \ud83d\udcaf with FuriousMixer. Great vape."
+        },
+        {
+            "user": "FuriousMixer",
+            "score": 4,
+            "text": "For a simple recipe this is worth a bash \ud83d\udcaf  decent amount of flavour and pretty well balanced. If you enjoy strawberry forward recipes with light banana then get on it! Good job Wayne \ud83d\udc4d\ud83c\udffb"
+        }
+    ]
 }

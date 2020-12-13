@@ -1,78 +1,79 @@
 {
-  "name": "Cookies and Cream Ice Cream",
-  "description": "Flavor Description: https://www.reddit.com/r/DIY_eJuice/comments/4ig65a/cookies_and_cream_ice_cream/",
-  "id": 9714,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "2251",
-      "millipercent": 10000,
-      "vendor": "RF"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Vurve",
-  "views": "6529",
-  "slug": "cookies_and_cream_ice_cream",
-  "total_flavoring": "13.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Chewymidget",
-      "score": "5",
-      "text": "Tastes exactly like it should. I subbed the VG version of C&amp;C with the SC at 2% with success.  "
-    },
-    {
-      "user": "Billywilly",
-      "score": "none",
-      "text": "I have hs ice cream, which according to your reddit post works fine. I don't have Australian chocolate... 350+ flavors and still missing some. I'm sure this question gets old, but are there any subs for it? "
-    },
-    {
-      "user": "RdaJunkie",
-      "score": "5",
-      "text": "Great job Vurve! Keep up the good work. Also I love listening to you guys on the diy or die podcasts. Thank you for giving so much back to the community!"
-    },
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "This is a great recipe the perfect use of real flavors cookies and cream and takes on a multi almost mocha like Flavor after about 4 weeks"
-    }
-  ]
+    "name": "Cookies and Cream Ice Cream",
+    "description": "Flavor Description: https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/4ig65a\/cookies_and_cream_ice_cream\/",
+    "id": 9714,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:50:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "2251",
+            "millipercent": 10000,
+            "vendor": "RF"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Vurve",
+    "views": "6544",
+    "created_at": "2016-08-04",
+    "slug": "cookies_and_cream_ice_cream",
+    "total_flavoring": "13.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Chewymidget",
+            "score": 5,
+            "text": "Tastes exactly like it should. I subbed the VG version of C&amp;C with the SC at 2% with success.  "
+        },
+        {
+            "user": "Billywilly",
+            "score": 0,
+            "text": "I have hs ice cream, which according to your reddit post works fine. I don't have Australian chocolate... 350+ flavors and still missing some. I'm sure this question gets old, but are there any subs for it? "
+        },
+        {
+            "user": "RdaJunkie",
+            "score": 5,
+            "text": "Great job Vurve! Keep up the good work. Also I love listening to you guys on the diy or die podcasts. Thank you for giving so much back to the community!"
+        },
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "This is a great recipe the perfect use of real flavors cookies and cream and takes on a multi almost mocha like Flavor after about 4 weeks"
+        }
+    ]
 }

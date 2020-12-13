@@ -1,62 +1,62 @@
 {
-  "name": "Strawberry Soft Serve",
-  "description": "Dairy milk & fw vbic make up for the base.\r\nOoo strawberry & milkshake take it to the soft serve.\r\nBavarian Cream blends the whole. \r\n\r\nEnjoy.",
-  "id": 85805,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85805/02-best-soft-serve-ice-cream-in-america.jpg",
-  "updated_at": "2020-12-08T00:49:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (Fresh)",
-      "flavor_id": "6655",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "MilkShake Vanilla",
-      "flavor_id": "1839",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Gummy",
-  "views": "1700",
-  "slug": "strawberry_soft_serve",
-  "total_flavoring": "18.5%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Soft Serve",
+    "description": "Dairy milk & fw vbic make up for the base.\r\nOoo strawberry & milkshake take it to the soft serve.\r\nBavarian Cream blends the whole. \r\n\r\nEnjoy.",
+    "id": 85805,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85805\/02-best-soft-serve-ice-cream-in-america.jpg",
+    "updated_at": "2020-12-10T16:00:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (Fresh)",
+            "flavor_id": "6655",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "MilkShake Vanilla",
+            "flavor_id": "1839",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Gummy",
+    "views": "1708",
+    "created_at": "2018-01-28",
+    "slug": "strawberry_soft_serve",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85805.jpg",
+    "total_flavoring": "18.5%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

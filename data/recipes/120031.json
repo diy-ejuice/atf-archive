@@ -1,56 +1,65 @@
 {
-  "name": "Vanilla Malt",
-  "description": "A no-nonsense Malted Vanilla Milkshake with shortbread biscuit crumbles. Hope you all enjoy!",
-  "id": 120031,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/120031/mscookies_ld102246_vanmaltm_hd.jpg",
-  "updated_at": "2020-12-08T00:50:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Cream Extra SC",
-      "flavor_id": "8382",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Silky",
-  "views": "",
-  "slug": "vanilla_malt",
-  "total_flavoring": "10.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vanilla Malt",
+    "description": "A no-nonsense Malted Vanilla Milkshake with shortbread biscuit crumbles. Hope you all enjoy!",
+    "id": 120031,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/120031\/mscookies_ld102246_vanmaltm_hd.jpg",
+    "updated_at": "2020-12-12T11:52:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Cream Extra SC",
+            "flavor_id": "8382",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Silky",
+    "views": "2099",
+    "created_at": "2018-09-22",
+    "slug": "vanilla_malt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/120031.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "I really enjoyed this yummy mix. Got stuck in after 4 days . Great work and thanks for sharing"
+        }
+    ]
 }

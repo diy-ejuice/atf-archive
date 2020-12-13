@@ -1,63 +1,65 @@
 {
-  "name": "White chocolate milkshake ",
-  "description": "Thought I would do a take on my version of a Chocolate Milkshake ",
-  "id": 100760,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/100760/SmartSelect_20180512-164010_Gallery.jpg",
-  "updated_at": "2020-12-08T00:50:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "194",
-      "millipercent": 3750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 330,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Dank1",
-  "views": "3221",
-  "slug": "white_chocolate_milkshake",
-  "total_flavoring": "12.58%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Cdiehl311",
-      "score": "5",
-      "text": "This taste just like a birthday cake milkshake from Sheetz, so good "
-    }
-  ]
+    "name": "White chocolate milkshake ",
+    "description": "Thought I would do a take on my version of a Chocolate Milkshake ",
+    "id": 100760,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/100760\/SmartSelect_20180512-164010_Gallery.jpg",
+    "updated_at": "2020-12-12T15:39:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "194",
+            "millipercent": 3750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 330,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Dank1",
+    "views": "3236",
+    "created_at": "2018-05-12",
+    "slug": "white_chocolate_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/100760.jpg",
+    "total_flavoring": "12.58%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Cdiehl311",
+            "score": 5,
+            "text": "This taste just like a birthday cake milkshake from Sheetz, so good "
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "PBC Peanut Butter Cream",
-  "description": "Smooth and sweet peanut butter cream. You can adjust the Sweetener to tase, but I like it where it is.",
-  "id": 131914,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131914/download.jpg",
-  "updated_at": "2020-12-07T22:33:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "607",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "rickj",
-  "views": "1985",
-  "slug": "pbc_peanut_butter_cream",
-  "total_flavoring": "18.5%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "PBC Peanut Butter Cream",
+    "description": "Smooth and sweet peanut butter cream. You can adjust the Sweetener to tase, but I like it where it is.",
+    "id": 131914,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131914\/download.jpg",
+    "updated_at": "2020-12-10T16:04:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "607",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "rickj",
+    "views": "1995",
+    "created_at": "2018-12-20",
+    "slug": "pbc_peanut_butter_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131914.jpg",
+    "total_flavoring": "18.5%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

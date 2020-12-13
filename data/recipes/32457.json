@@ -1,68 +1,68 @@
 {
-  "name": "Key Lime Pie",
-  "description": "Take a trip to the Florida Keys with a delicious slice of this creamy decadent pie...from the graham cracker crust to the meringue topping your taste buds will thank you for mixing this up",
-  "id": 32457,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32457/images_23_.jpg",
-  "updated_at": "2020-12-05T17:42:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "6291",
-      "millipercent": 500,
-      "vendor": "NR"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "634",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "HrtOfTheDvl",
-  "views": "1848",
-  "slug": "key_lime_pie",
-  "total_flavoring": "14.85%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Key Lime Pie",
+    "description": "Take a trip to the Florida Keys with a delicious slice of this creamy decadent pie...from the graham cracker crust to the meringue topping your taste buds will thank you for mixing this up",
+    "id": 32457,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32457\/images_23_.jpg",
+    "updated_at": "2020-12-11T14:07:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "6291",
+            "millipercent": 500,
+            "vendor": "NR"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "634",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "HrtOfTheDvl",
+    "views": "1856",
+    "created_at": "2017-02-17",
+    "slug": "key_lime_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32457.jpg",
+    "total_flavoring": "14.85%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

@@ -1,62 +1,63 @@
 {
-  "name": "Strawberry Overdose Clone",
-  "description": "Clone of Strawberry Overdose by Dr. Crimmy",
-  "id": 275,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "6052",
-  "slug": "strawberry_overdose_clone",
-  "total_flavoring": "17.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rx1142",
-      "score": "5",
-      "text": "This recipe is delicious. Spot on to me. "
-    },
-    {
-      "user": "alexmori",
-      "score": "5",
-      "text": "Literally my favorite Strawberry and my husband's adv!"
-    }
-  ]
+    "name": "Strawberry Overdose Clone",
+    "description": "Clone of Strawberry Overdose by Dr. Crimmy",
+    "id": 275,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "6060",
+    "created_at": "2016-03-06",
+    "slug": "strawberry_overdose_clone",
+    "total_flavoring": "17.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rx1142",
+            "score": 5,
+            "text": "This recipe is delicious. Spot on to me. "
+        },
+        {
+            "user": "alexmori",
+            "score": 5,
+            "text": "Literally my favorite Strawberry and my husband's adv!"
+        }
+    ]
 }

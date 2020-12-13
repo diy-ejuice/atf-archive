@@ -1,56 +1,58 @@
 {
-  "name": "Popped Cream Sandwich",
-  "description": "This is supposed to emulate a ice cream sandwich using caramel popcorn slabs as the outer sandwich and vanilla ice cream or frozen yogurt in the middle. I thought they looked and sounded delicious so why not make it into a vape juice flavor???? So I did and here it is!!! ENJOY!!!! \r\n\r\n\r\nSo I have been playing with this profile for a little while each time the recipes were really good but each time I wanted to adjust a few things keeping the main ingredients the same. The thing I kept adjusting was the popcorn percentage and the ice cream and or combination to make the ice cream. I found with the popcorn .75% was a little weak and 1.25% was a little strong with a butaric note so I met in the middle at 1%. Flavorah popcorn mixed with caramel rice crispy treat makes a perfect caramel corn flavor. So once I had that perfect its on to the ice cream I did a version with just 5% LB vanilla ice cream and it worked and was good but I am just not a huge fan of LB vanilla ice cream but it is a viable substitute for my ice cream combination. I also tried a thicker more buttery ice cream mixture using tfa and the was OK but still not what I wanted pet say. Lately I have been playing with wonder flavours sc frozen yogurt and what I have found is that 2% of wfsc frozen yogurt and 2% vanilla cream extra it works in almost all the places you would use  a vanilla ice cream concentrates. I used frozen yogurt at 2.5% because the caramel popcorn is a strong flavor combination and figured a little extra creaminess could only help the ice cream come through the caramel corn aspect of this recipe.\r\n\r\nSweetener: Use it or don't use it it doesn't matter to me its an additive for a reason. I am possibly going to only list sweeteners In my recipes if the recipe absolutely must have it to taste right. This is not one of those mixes but I still used .35% of Flavorah sweetness but you use or don't use your sweetener of choice. Flavorah sweetness is my favorite sweetener and the only one I use now.",
-  "id": 85627,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85627/popcorn-momdoesreviews-lg.jpg",
-  "updated_at": "2020-12-08T00:49:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel Rice Crispy Treats",
-      "flavor_id": "6047",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Frozen Yogurt SC",
-      "flavor_id": "8369",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Cream Extra SC",
-      "flavor_id": "8382",
-      "millipercent": 2000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Tootall",
-  "views": "2625",
-  "slug": "popped_cream_sandwich",
-  "total_flavoring": "8.0%",
-  "steep_days": "5",
-  "best_vg": "75%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "If you allow that the type of ice cream involved here is that sort of fluffy, cheap kids’ party ice cream and not a richer, creamier, custardy type of ice cream, this recipe does what it says it’s going to do, which is more than can be said for lots of recipes. I really like the way you get the caramel popcorn flavor right away and it comes back in the finish, with all of that ice cream in the middle, making it effectively deserve to have “sandwich” in the name. I wonder if it would work as well with a thicker, richer ice cream, but if it wouldn’t this is tasty the way it is. "
-    },
-    {
-      "user": "FizzChaser",
-      "score": "5",
-      "text": "This is really tasty after the 5 day steep. Profile accurate and blended nicely. Added .5% Super Sweet."
-    }
-  ]
+    "name": "Popped Cream Sandwich",
+    "description": "This is supposed to emulate a ice cream sandwich using caramel popcorn slabs as the outer sandwich and vanilla ice cream or frozen yogurt in the middle. I thought they looked and sounded delicious so why not make it into a vape juice flavor???? So I did and here it is!!! ENJOY!!!! \r\n\r\n\r\nSo I have been playing with this profile for a little while each time the recipes were really good but each time I wanted to adjust a few things keeping the main ingredients the same. The thing I kept adjusting was the popcorn percentage and the ice cream and or combination to make the ice cream. I found with the popcorn .75% was a little weak and 1.25% was a little strong with a butaric note so I met in the middle at 1%. Flavorah popcorn mixed with caramel rice crispy treat makes a perfect caramel corn flavor. So once I had that perfect its on to the ice cream I did a version with just 5% LB vanilla ice cream and it worked and was good but I am just not a huge fan of LB vanilla ice cream but it is a viable substitute for my ice cream combination. I also tried a thicker more buttery ice cream mixture using tfa and the was OK but still not what I wanted pet say. Lately I have been playing with wonder flavours sc frozen yogurt and what I have found is that 2% of wfsc frozen yogurt and 2% vanilla cream extra it works in almost all the places you would use  a vanilla ice cream concentrates. I used frozen yogurt at 2.5% because the caramel popcorn is a strong flavor combination and figured a little extra creaminess could only help the ice cream come through the caramel corn aspect of this recipe.\r\n\r\nSweetener: Use it or don't use it it doesn't matter to me its an additive for a reason. I am possibly going to only list sweeteners In my recipes if the recipe absolutely must have it to taste right. This is not one of those mixes but I still used .35% of Flavorah sweetness but you use or don't use your sweetener of choice. Flavorah sweetness is my favorite sweetener and the only one I use now.",
+    "id": 85627,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85627\/popcorn-momdoesreviews-lg.jpg",
+    "updated_at": "2020-12-12T20:29:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel Rice Crispy Treats",
+            "flavor_id": "6047",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Frozen Yogurt SC",
+            "flavor_id": "8369",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Cream Extra SC",
+            "flavor_id": "8382",
+            "millipercent": 2000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Tootall",
+    "views": "2636",
+    "created_at": "2018-01-27",
+    "slug": "popped_cream_sandwich",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85627.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "5",
+    "best_vg": "75%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "If you allow that the type of ice cream involved here is that sort of fluffy, cheap kids\u2019 party ice cream and not a richer, creamier, custardy type of ice cream, this recipe does what it says it\u2019s going to do, which is more than can be said for lots of recipes. I really like the way you get the caramel popcorn flavor right away and it comes back in the finish, with all of that ice cream in the middle, making it effectively deserve to have \u201csandwich\u201d in the name. I wonder if it would work as well with a thicker, richer ice cream, but if it wouldn\u2019t this is tasty the way it is. "
+        },
+        {
+            "user": "FizzChaser",
+            "score": 5,
+            "text": "This is really tasty after the 5 day steep. Profile accurate and blended nicely. Added .5% Super Sweet."
+        }
+    ]
 }

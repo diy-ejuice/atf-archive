@@ -1,68 +1,70 @@
 {
-  "name": "Nookie - A Delicious Caramel Apple Vape",
-  "description": "I've been making my own juice for about six months now and with all the great recipes out there and my own admitted laziness I just never spent all that much time making my own recipes for juices. Tried some 1-2-3 recipes and a lot of them were okay, but it always just made more sense to head on over to popular and make something that I knew would be good. My girlfriend however has been hounding me for a caramel apple vape juice for awhile now and I thought it would be nice to try and make something for her.\r\n\r\nI've made enough of other people's recipes to have a pretty basic understanding of some flavors. I went off of that mostly and my own nose. I wanted the apples to have a little bit of a spice note and for that thought cinnamon apple danish would be a good choice. I started out with it at 2%, but the cinnamon was too prevalent and I wanted it as more of a background note so I dropped the percentage down a bit. At 1% it's noticeable, but doesn't overpower anything else in the mix.\r\n\r\nOf all the apples, I prefer double apple. Just taste juicy and delicious and is more of a non discriminate apple flavoring. Fuji is my jam too, so I chose that just to add some extra crisp juiciness to the apple profile.\r\n\r\nI'm not a huge fan of FA caramel, but I thought I could push it a bit and add some FLV cream to offset some of the offnotes of it while adding a dash of nice creaminess to it as well. I added Ry4 double to help with the caramel notes as well. I think it has more of a traditional caramel flavor and that, with the caramel and the cream are my nice caramel coating. \r\n\r\nOff the shake I'm really surprised and happy with it. It fucking taste like a caramel apple. The cream does a good job of adding some depth and mouthfeel to the flavor which makes the experience more authentic. If you mix this up I hope you enjoy it. This is my first recipe and after this, I think I'll try and make some more. it's kinda fun.\r\n\r\nCheers !",
-  "id": 169404,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/169404/noo.jpg",
-  "updated_at": "2020-12-08T00:51:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NickG",
-  "views": "1897",
-  "slug": "nookie_a_delicious_caramel_apple_vape",
-  "total_flavoring": "8.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "1",
-      "text": "Comparison was the enemy, here. I came to try this about a week after falling in love with Apple Buttah. Coming this...well, this one came off quite harsh and dry. I only primarily taste the cinnamon danish and an attempt at apple flavoring. This went into the trash after a day of trying to like it."
-    },
-    {
-      "user": "Xist",
-      "score": "5",
-      "text": "Nice mix man!  Haven't had an apple mix for a while, and this was a nice simple mix to get my fall apple fix.  Keeping the CDS down lower worked well, as it tends to throw me off at higher percentages.  I may add some FLV Rich Cinn. next time, but I really do enjoy it of the shake!  Thanks!"
-    }
-  ]
+    "name": "Nookie - A Delicious Caramel Apple Vape",
+    "description": "I've been making my own juice for about six months now and with all the great recipes out there and my own admitted laziness I just never spent all that much time making my own recipes for juices. Tried some 1-2-3 recipes and a lot of them were okay, but it always just made more sense to head on over to popular and make something that I knew would be good. My girlfriend however has been hounding me for a caramel apple vape juice for awhile now and I thought it would be nice to try and make something for her.\r\n\r\nI've made enough of other people's recipes to have a pretty basic understanding of some flavors. I went off of that mostly and my own nose. I wanted the apples to have a little bit of a spice note and for that thought cinnamon apple danish would be a good choice. I started out with it at 2%, but the cinnamon was too prevalent and I wanted it as more of a background note so I dropped the percentage down a bit. At 1% it's noticeable, but doesn't overpower anything else in the mix.\r\n\r\nOf all the apples, I prefer double apple. Just taste juicy and delicious and is more of a non discriminate apple flavoring. Fuji is my jam too, so I chose that just to add some extra crisp juiciness to the apple profile.\r\n\r\nI'm not a huge fan of FA caramel, but I thought I could push it a bit and add some FLV cream to offset some of the offnotes of it while adding a dash of nice creaminess to it as well. I added Ry4 double to help with the caramel notes as well. I think it has more of a traditional caramel flavor and that, with the caramel and the cream are my nice caramel coating. \r\n\r\nOff the shake I'm really surprised and happy with it. It fucking taste like a caramel apple. The cream does a good job of adding some depth and mouthfeel to the flavor which makes the experience more authentic. If you mix this up I hope you enjoy it. This is my first recipe and after this, I think I'll try and make some more. it's kinda fun.\r\n\r\nCheers !",
+    "id": 169404,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/169404\/noo.jpg",
+    "updated_at": "2020-12-12T14:07:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NickG",
+    "views": "1905",
+    "created_at": "2019-10-07",
+    "slug": "nookie_a_delicious_caramel_apple_vape",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/169404.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 1,
+            "text": "Comparison was the enemy, here. I came to try this about a week after falling in love with Apple Buttah. Coming this...well, this one came off quite harsh and dry. I only primarily taste the cinnamon danish and an attempt at apple flavoring. This went into the trash after a day of trying to like it."
+        },
+        {
+            "user": "Xist",
+            "score": 5,
+            "text": "Nice mix man!  Haven't had an apple mix for a while, and this was a nice simple mix to get my fall apple fix.  Keeping the CDS down lower worked well, as it tends to throw me off at higher percentages.  I may add some FLV Rich Cinn. next time, but I really do enjoy it of the shake!  Thanks!"
+        }
+    ]
 }

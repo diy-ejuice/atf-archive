@@ -1,68 +1,67 @@
 {
-  "name": "Enigma",
-  "description": "The default in this area is \"No Description\" and it fits. I cannot describe this flavor and I have not met anyone else who can either. I would not presume to compare this recipe to Grack but it does have some of the the same enigmatic flavor and mouthfeel characteristics as that famous juice. The recipe needs a 3 week steep to be at its finest. When it turns gold it is ready to go. It will also work very well with nic up to 12mg, I have not tried it above 12. Would welcome your thoughts.",
-  "id": 126348,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 700,
-      "vendor": "FW"
-    },
-    {
-      "name": "Extreme Ice",
-      "flavor_id": "1280",
-      "millipercent": 1250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Oldedb",
-  "views": "1401",
-  "slug": "enigma",
-  "total_flavoring": "12.95%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Enigma",
+    "description": "The default in this area is \"No Description\" and it fits. I cannot describe this flavor and I have not met anyone else who can either. I would not presume to compare this recipe to Grack but it does have some of the the same enigmatic flavor and mouthfeel characteristics as that famous juice. The recipe needs a 3 week steep to be at its finest. When it turns gold it is ready to go. It will also work very well with nic up to 12mg, I have not tried it above 12. Would welcome your thoughts.",
+    "id": 126348,
+    "image_url": null,
+    "updated_at": "2020-12-11T13:45:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 700,
+            "vendor": "FW"
+        },
+        {
+            "name": "Extreme Ice",
+            "flavor_id": "1280",
+            "millipercent": 1250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Oldedb",
+    "views": "1411",
+    "created_at": "2018-11-07",
+    "slug": "enigma",
+    "total_flavoring": "12.95%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0"
 }

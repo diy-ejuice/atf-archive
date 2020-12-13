@@ -1,50 +1,50 @@
 {
-  "name": "Diabolo ",
-  "description": "   JUST .......  Diabolo a harmonious banana \r\n   sweet candy and biscuits",
-  "id": 77417,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77417/PMNB.jpg",
-  "updated_at": "2020-12-06T14:07:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream (Colored)",
-      "flavor_id": "2711",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 900,
-      "vendor": "INW"
-    },
-    {
-      "name": "Caramel Toffee",
-      "flavor_id": "2121",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "610",
-      "millipercent": 150,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Pmnb",
-  "views": "1096",
-  "slug": "diabolo",
-  "total_flavoring": "3.15%",
-  "steep_days": "25",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Diabolo ",
+    "description": "   JUST .......  Diabolo a harmonious banana \r\n\u00a0\u00a0 sweet candy and biscuits",
+    "id": 77417,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/77417\/PMNB.jpg",
+    "updated_at": "2020-12-10T16:00:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream (Colored)",
+            "flavor_id": "2711",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 900,
+            "vendor": "INW"
+        },
+        {
+            "name": "Caramel Toffee",
+            "flavor_id": "2121",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "610",
+            "millipercent": 150,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Pmnb",
+    "views": "1104",
+    "created_at": "2017-12-04",
+    "slug": "diabolo",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/77417.jpg",
+    "total_flavoring": "3.15%",
+    "steep_days": "25",
+    "best_vg": "60%",
+    "temperature": "0"
 }

@@ -1,68 +1,70 @@
 {
-  "name": "Crumberry Cream",
-  "description": "A rich dark berry cobbler with a dollop of vanilla ice cream. \r\n\r\n This recipe is focusing on FW Wild Berry Cobbler. This one is actually pretty good as a single flavor. It's definitely a darker berry (blackberry?). The PUR Boysenberry Preserves compliments the blackberry nicely and drives home the cooked fruit note. The cobbler part is there but light, so I used some sugar cookie to add a bit of texture. My bottle doesn't say ala mode and I don't really pick up any ice cream, so I added my own. I wanted to keep this relatively simple. Play around with this or add whatever ice cream base works for you. The moral of the story is, if you don't have FW Wild Berry Cobbler, you should definitely consider buying it.",
-  "id": 113695,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/113695/Tasty-Kitchen-Blog-Blackberry-Cobbler-Bars-00.jpg",
-  "updated_at": "2020-12-08T00:50:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Berry Cobbler ala Mode",
-      "flavor_id": "8499",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Boysenberry Preserves",
-      "flavor_id": "7741",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Ice Cream",
-      "flavor_id": "4449",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "jbird",
-  "views": "1782",
-  "slug": "crumberry_cream",
-  "total_flavoring": "12.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Outstanding recipe! That FW Wild Berry Cobbler is great on its own but PUR Boysenberry Preserves leveling up the cooked berry and CAP Sugar Cookie reinforcing it’s otherwise light crust note, make it even better. These three together perfectly nail the crust and cooked dark berries that taste like a combination of blackberries, strawberries, raspberries, and blueberries. I don’t know if whether it’s more of a light ice cream or a heavy whipped cream filling it out with rich creamy vanilla on top, it’s not an extra-rich thick ice cream, but it’s delicious without distracting from cobbler itself.  "
-    },
-    {
-      "user": "Gachatay",
-      "score": "5",
-      "text": "Another great recipe from a great mixer. I always know it's gonna be good when I mix one of your recipes and this was no exception. The FW ice cream with HS was a good call, it brings a nice dairy note but doesn't have all the butter that TFA or LB comes with which I think would have weighed the fruit in this mix. Sugar cookie adds enough bakery to bring out the cobbler in the FW concentrate. I got the wild berry cobbler specifically to mix this and I'm glad I did, it's a great flavor. Awesome job my dude!! I'm mixing another 30ml now"
-    }
-  ]
+    "name": "Crumberry Cream",
+    "description": "A rich dark berry cobbler with a dollop of vanilla ice cream. \r\n\r\n This recipe is focusing on FW Wild Berry Cobbler. This one is actually pretty good as a single flavor. It's definitely a darker berry (blackberry?). The PUR Boysenberry Preserves compliments the blackberry nicely and drives home the cooked fruit note. The cobbler part is there but light, so I used some sugar cookie to add a bit of texture. My bottle doesn't say ala mode and I don't really pick up any ice cream, so I added my own. I wanted to keep this relatively simple. Play around with this or add whatever ice cream base works for you. The moral of the story is, if you don't have FW Wild Berry Cobbler, you should definitely consider buying it.",
+    "id": 113695,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/113695\/Tasty-Kitchen-Blog-Blackberry-Cobbler-Bars-00.jpg",
+    "updated_at": "2020-12-12T10:34:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Berry Cobbler ala Mode",
+            "flavor_id": "8499",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Boysenberry Preserves",
+            "flavor_id": "7741",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Ice Cream",
+            "flavor_id": "4449",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "jbird",
+    "views": "1797",
+    "created_at": "2018-08-05",
+    "slug": "crumberry_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/113695.jpg",
+    "total_flavoring": "12.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Outstanding recipe! That FW Wild Berry Cobbler is great on its own but PUR Boysenberry Preserves leveling up the cooked berry and CAP Sugar Cookie reinforcing it\u2019s otherwise light crust note, make it even better. These three together perfectly nail the crust and cooked dark berries that taste like a combination of blackberries, strawberries, raspberries, and blueberries. I don\u2019t know if whether it\u2019s more of a light ice cream or a heavy whipped cream filling it out with rich creamy vanilla on top, it\u2019s not an extra-rich thick ice cream, but it\u2019s delicious without distracting from cobbler itself.  "
+        },
+        {
+            "user": "Gachatay",
+            "score": 5,
+            "text": "Another great recipe from a great mixer. I always know it's gonna be good when I mix one of your recipes and this was no exception. The FW ice cream with HS was a good call, it brings a nice dairy note but doesn't have all the butter that TFA or LB comes with which I think would have weighed the fruit in this mix. Sugar cookie adds enough bakery to bring out the cobbler in the FW concentrate. I got the wild berry cobbler specifically to mix this and I'm glad I did, it's a great flavor. Awesome job my dude!! I'm mixing another 30ml now"
+        }
+    ]
 }

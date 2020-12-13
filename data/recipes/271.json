@@ -1,44 +1,43 @@
 {
-  "name": "Placidesque",
-  "description": "A close variation of placid. *TFA Strawberry",
-  "id": 271,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:37:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry blend",
-      "flavor_id": "2144",
-      "millipercent": 5000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "1436",
-  "slug": "placidesque",
-  "total_flavoring": "16.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Placidesque",
+    "description": "A close variation of placid. *TFA Strawberry",
+    "id": 271,
+    "image_url": null,
+    "updated_at": "2020-12-11T18:23:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry blend",
+            "flavor_id": "2144",
+            "millipercent": 5000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "1445",
+    "created_at": "2016-03-06",
+    "slug": "placidesque",
+    "total_flavoring": "16.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

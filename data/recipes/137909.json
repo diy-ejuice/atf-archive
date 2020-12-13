@@ -1,62 +1,62 @@
 {
-  "name": "Watermelon Lemonade MTL/Pod",
-  "description": "Simple recipe. \r\nA nice sweet watermelon with some tart/sour lemonade on ice.\r\nReally been enjoying LA lemonade mixed with FW lemonade. Brings the best of both worlds.\r\nPrefer TPA watermelon over LA but brought both along for the ride. \r\nSweeten and Cool to taste. ",
-  "id": 137909,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137909/Watermelon-Lemonade-21-2.jpg",
-  "updated_at": "2020-12-07T09:27:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "1336",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "276",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "fadedjay1",
-  "views": "2448",
-  "slug": "watermelon_lemonade_mtlpod",
-  "total_flavoring": "17.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Watermelon Lemonade MTL\/Pod",
+    "description": "Simple recipe. \r\nA nice sweet watermelon with some tart\/sour lemonade on ice.\r\nReally been enjoying LA lemonade mixed with FW lemonade. Brings the best of both worlds.\r\nPrefer TPA watermelon over LA but brought both along for the ride. \r\nSweeten and Cool to taste. ",
+    "id": 137909,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137909\/Watermelon-Lemonade-21-2.jpg",
+    "updated_at": "2020-12-12T00:41:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "1336",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "276",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "fadedjay1",
+    "views": "2457",
+    "created_at": "2019-02-04",
+    "slug": "watermelon_lemonade_mtlpod",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137909.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

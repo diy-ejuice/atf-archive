@@ -1,45 +1,47 @@
 {
-  "name": "Stachio custard cookie",
-  "description": "Stachio Custard Cookie. Idea came from psiquid eliquids “bosphorus”. They don't have sugar cookie in it, but I freaking love Cap sugar cookie so it was only necessary! Enjoy friends! ",
-  "id": 152919,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152919/7D53033F-7744-4D05-A59D-25CA28C5ADCB.jpeg",
-  "updated_at": "2020-12-07T17:35:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pistachio",
-      "flavor_id": "293",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1862",
-  "slug": "stachio_custard_cookie",
-  "total_flavoring": "12.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Hetch",
-      "score": "none",
-      "text": "I’m a custard/Sugar cookie freak. This is really good. Thanks"
-    }
-  ]
+    "name": "Stachio custard cookie",
+    "description": "Stachio Custard Cookie. Idea came from psiquid eliquids \u201cbosphorus\u201d. They don't have sugar cookie in it, but I freaking love Cap sugar cookie so it was only necessary! Enjoy friends! ",
+    "id": 152919,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/152919\/7D53033F-7744-4D05-A59D-25CA28C5ADCB.jpeg",
+    "updated_at": "2020-12-10T21:33:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pistachio",
+            "flavor_id": "293",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1867",
+    "created_at": "2019-05-25",
+    "slug": "stachio_custard_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/152919.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Hetch",
+            "score": 0,
+            "text": "I\u2019m a custard\/Sugar cookie freak. This is really good. Thanks"
+        }
+    ]
 }

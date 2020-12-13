@@ -1,57 +1,59 @@
 {
-  "name": "Two Rivers Tabac",
-  "description": "The Two Rivers make the best tabac world wide. I think I found their secret recipe.. RY4 Double is the base, I was told that Turkish and Navajo make a good tobacco. The vanilla brings a sweetness and dark creaminess to the mix. The DNB has the ashiness that most tobacco users like.. Can be mixed without the DNB for a softer flavor.   \r\n\r\nTested on a Elder Dragon with a fused clapton 2.5 mm 1.9 ohms, 65 watts power. Vaped in a podmod 1.5 pnp coil at 65 watts",
-  "id": 207509,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207509/Two_Rivers_Tabac.jpg",
-  "updated_at": "2020-12-08T00:51:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Madagascar Bourbon Vanilla Flavor",
-      "flavor_id": "4193",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Turkish Tobacco",
-      "flavor_id": "4429",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "BryanF",
-  "views": "532",
-  "slug": "two_rivers_tabac",
-  "total_flavoring": "9.7%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RUG_ly",
-      "score": "5",
-      "text": "I’m going to mix this because I love tobacco. You get a 5 because of the name no matter how the mix turns out (although I know it’s gonna be good) msg me if you ever wanna chat TWOT"
-    }
-  ]
+    "name": "Two Rivers Tabac",
+    "description": "The Two Rivers make the best tabac world wide. I think I found their secret recipe.. RY4 Double is the base, I was told that Turkish and Navajo make a good tobacco. The vanilla brings a sweetness and dark creaminess to the mix. The DNB has the ashiness that most tobacco users like.. Can be mixed without the DNB for a softer flavor.   \r\n\r\nTested on a Elder Dragon with a fused clapton 2.5 mm 1.9 ohms, 65 watts power. Vaped in a podmod 1.5 pnp coil at 65 watts",
+    "id": 207509,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207509\/Two_Rivers_Tabac.jpg",
+    "updated_at": "2020-12-12T18:31:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Madagascar Bourbon Vanilla Flavor",
+            "flavor_id": "4193",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Turkish Tobacco",
+            "flavor_id": "4429",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "BryanF",
+    "views": "544",
+    "created_at": "2020-10-25",
+    "slug": "two_rivers_tabac",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207509.jpg",
+    "total_flavoring": "9.7%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RUG_ly",
+            "score": 5,
+            "text": "I\u2019m going to mix this because I love tobacco. You get a 5 because of the name no matter how the mix turns out (although I know it\u2019s gonna be good) msg me if you ever wanna chat TWOT"
+        }
+    ]
 }

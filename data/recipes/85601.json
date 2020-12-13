@@ -1,56 +1,56 @@
 {
-  "name": "Lavendum Borealis",
-  "description": "So... here is the very first recipe I created on this site. The profile is an Iced Blueberry Lavender Tea Latte. It has taken A LOT of development to get to this final product, but I am finally satisfied with it. Mix and enjoy!\r\n\r\nFlavor Comments:\r\nBlueberry Wild (TPA): The perfect blueberry to pair with lavender. It is an earthy, floral and dry blueberry. At 3% it accentuates the lavender very effectively and adds a more subtle natural blueberry.\r\n\r\nCondensed Milk (PUR): After using Cream Fresh (FA) for all previous batches I found it worked but gave it a pretty noticable milk funk. So I finally decided to try Condensed Milk (PUR) and it was a perfect fit. Had all the notes Cream Fresh (FA) has without the funk. Perfect.\r\n\r\nLavender (FA): Probably the best lavender on the market. Very natural. Definitely the right choice for this profile.\r\n\r\nMarshmallow (FA): Been with this recipe since the beginning. Not sure why, but the authentic marshmallow root flavor works so well with the lavender. Also adds some thickness.\r\n\r\nMilk & Honey (FLV): I really don't know why I didn't think to use this cream sooner. It really gives it that latte heated milk taste. The honey adds plenty of sweetness and a nice floral note. The milk is authentic with no funk. Just perfect.\r\n\r\nPeppermint (TPA): Gives this recipe the herbal tea note and also adds a nice iced quality. This flavor can be pretty powerful so keeping it lower is key.",
-  "id": 85601,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85601/final__8_.jpeg",
-  "updated_at": "2020-12-07T23:36:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lavender",
-      "flavor_id": "510",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peppermint",
-      "flavor_id": "283",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Condensed Milk",
-      "flavor_id": "7751",
-      "millipercent": 1000,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "YippYo",
-  "views": "752",
-  "slug": "lavendum_borealis",
-  "total_flavoring": "7.9%",
-  "steep_days": "5",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lavendum Borealis",
+    "description": "So... here is the very first recipe I created on this site. The profile is an Iced Blueberry Lavender Tea Latte. It has taken A LOT of development to get to this final product, but I am finally satisfied with it. Mix and enjoy!\r\n\r\nFlavor Comments:\r\nBlueberry Wild (TPA): The perfect blueberry to pair with lavender. It is an earthy, floral and dry blueberry. At 3% it accentuates the lavender very effectively and adds a more subtle natural blueberry.\r\n\r\nCondensed Milk (PUR): After using Cream Fresh (FA) for all previous batches I found it worked but gave it a pretty noticable milk funk. So I finally decided to try Condensed Milk (PUR) and it was a perfect fit. Had all the notes Cream Fresh (FA) has without the funk. Perfect.\r\n\r\nLavender (FA): Probably the best lavender on the market. Very natural. Definitely the right choice for this profile.\r\n\r\nMarshmallow (FA): Been with this recipe since the beginning. Not sure why, but the authentic marshmallow root flavor works so well with the lavender. Also adds some thickness.\r\n\r\nMilk & Honey (FLV): I really don't know why I didn't think to use this cream sooner. It really gives it that latte heated milk taste. The honey adds plenty of sweetness and a nice floral note. The milk is authentic with no funk. Just perfect.\r\n\r\nPeppermint (TPA): Gives this recipe the herbal tea note and also adds a nice iced quality. This flavor can be pretty powerful so keeping it lower is key.",
+    "id": 85601,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85601\/final__8_.jpeg",
+    "updated_at": "2020-12-10T16:00:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lavender",
+            "flavor_id": "510",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peppermint",
+            "flavor_id": "283",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Condensed Milk",
+            "flavor_id": "7751",
+            "millipercent": 1000,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "YippYo",
+    "views": "759",
+    "created_at": "2018-01-27",
+    "slug": "lavendum_borealis",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85601.jpeg",
+    "total_flavoring": "7.9%",
+    "steep_days": "5",
+    "best_vg": "80%",
+    "temperature": "0"
 }

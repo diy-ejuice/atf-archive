@@ -1,44 +1,44 @@
 {
-  "name": "Creamchata",
-  "description": "A easy creamy horchata. At least 3 days of aging makes it bueno. \r\n",
-  "id": 15685,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15685/small-20161025-13282-1jp4e9s.jpg",
-  "updated_at": "2020-12-07T00:06:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Horchata",
-      "flavor_id": "174",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "4466",
-      "millipercent": 1500,
-      "vendor": "JF"
-    }
-  ],
-  "author": "BCrunk",
-  "views": "1786",
-  "slug": "creamchata",
-  "total_flavoring": "8.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "3",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creamchata",
+    "description": "A easy creamy horchata. At least 3 days of aging makes it bueno. \r\n",
+    "id": 15685,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15685\/small-20161025-13282-1jp4e9s.jpg",
+    "updated_at": "2020-12-11T03:36:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Horchata",
+            "flavor_id": "174",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "4466",
+            "millipercent": 1500,
+            "vendor": "JF"
+        }
+    ],
+    "author": "BCrunk",
+    "views": "1794",
+    "created_at": "2016-10-09",
+    "slug": "creamchata",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15685.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "3"
 }

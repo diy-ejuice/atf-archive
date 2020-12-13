@@ -1,50 +1,49 @@
 {
-  "name": "Cucumberry Mint ",
-  "description": "Straight forward cucumber with berries and mint.  Slightly sweet and gets the job done. Pod device recipe. NicRiver Smooth Salts 100 Mg Vg. ",
-  "id": 136654,
-  "image_url": null,
-  "updated_at": "2020-12-05T04:17:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Berry Harvest",
-      "flavor_id": "7800",
-      "millipercent": 8000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Cucumber Mint",
-      "flavor_id": "1267",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ZillaZilla100",
-  "views": "748",
-  "slug": "cucumberry_mint",
-  "total_flavoring": "20.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cucumberry Mint ",
+    "description": "Straight forward cucumber with berries and mint.  Slightly sweet and gets the job done. Pod device recipe. NicRiver Smooth Salts 100 Mg Vg. ",
+    "id": 136654,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Berry Harvest",
+            "flavor_id": "7800",
+            "millipercent": 8000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Cucumber Mint",
+            "flavor_id": "1267",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ZillaZilla100",
+    "views": "755",
+    "created_at": "2019-01-27",
+    "slug": "cucumberry_mint",
+    "total_flavoring": "20.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

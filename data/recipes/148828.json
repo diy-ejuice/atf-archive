@@ -1,50 +1,49 @@
 {
-  "name": "Burlone pandoro",
-  "description": "Italian deserts are just incredibly tasty.\r\nGive this joker a try...\r\n\r\nEnjoy,\r\nScrewdriver",
-  "id": 148828,
-  "image_url": null,
-  "updated_at": "2020-12-06T12:56:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pandoro",
-      "flavor_id": "538",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pazzo Burlone (Joker)",
-      "flavor_id": "9911",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Screwdriver",
-  "views": "901",
-  "slug": "burlone_pandoro",
-  "total_flavoring": "10.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Burlone pandoro",
+    "description": "Italian deserts are just incredibly tasty.\r\nGive this joker a try...\r\n\r\nEnjoy,\r\nScrewdriver",
+    "id": 148828,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:17:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pandoro",
+            "flavor_id": "538",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pazzo Burlone (Joker)",
+            "flavor_id": "9911",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Screwdriver",
+    "views": "908",
+    "created_at": "2019-04-27",
+    "slug": "burlone_pandoro",
+    "total_flavoring": "10.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

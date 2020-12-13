@@ -1,67 +1,69 @@
 {
-  "name": "The Hinterlander",
-  "description": "A tobacco to fill the manliest of cravings for a smoke after a hard day's work. The combination of FLV Red Burley and FLV Cured is a tried and true pairing for a smooth and straight forward tobacco flavor.\r\n\r\nFLV Red Burley: A thick, woody tobacco with nutty undertones and a full body. This sits right in front, and makes the base for the rest of the tobaccos to rest on. At 2.75% there's no mistaking this flavor as the undisputed king of tobaccos.\r\n\r\nFLV Cured Tobacco: Sweeter than Red Burly, with hints of pecan and cedar, this fills the few gaps in Red Burley. This adds some nice layers of nut and woody tones to the FLV Red Burley Base.\r\n\r\nFLV Native Tobacco: The spicy sweet cousin to FLV Kentucky Blend, this is becoming one of my favorite tobaccos to work with. It has a sharp spice note on the front end, similar to a cracked vanilla bean, with a lightly honeyed finish. Very aromatic. A bit of tobacco leather body to finish up the bold tobacco profile.\r\n\r\nAdditives:\r\n\r\nFLV Lovage Root: This is quickly becoming a favorite of mine. On it's own, it's very damp and vegetal, and not all together very pleasant. When used in conjunction with these fine tobaccos however, it's properties align the stars to add a sweet moisture to your tobacco blends. This transforms everything to feel more like still fresh, not fully dried pipe tobacco. Adds a light, barely perceptible additional sweetness. This additional moisture addition also allows you to take your tobacco % a little higher than you would traditionally, as it smooths over any unwanted dry notes that are typical when using tobaccos at very high percentages.\r\n\r\nFLV Wood Spice: This adds a fresh cedar finish to our final mix, boosting the woody notes already in the mix into the stratosphere. Surprisingly smooth, I get hints of oak and cedar throughout the vape.",
-  "id": 46122,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/46122/nFqnVeY.jpg",
-  "updated_at": "2020-12-08T00:49:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Native Tobacco",
-      "flavor_id": "4393",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lovage Root",
-      "flavor_id": "2152",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wood Spice",
-      "flavor_id": "4447",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Kopel",
-  "views": "8252",
-  "slug": "the_hinterlander",
-  "total_flavoring": "6.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TinyMetalTrees",
-      "score": "5",
-      "text": "This is just wonderful. Smooth and complex. The wood and nut magic going on here is dreamy. "
-    },
-    {
-      "user": "asmirm",
-      "score": "5",
-      "text": "You, sir, are a gentleman and a scholar. Here is a virtual handshake.&#xD;\nThis has it all. The tobacco, smokiness and a bit of sweetness. If a \"premium\" flavor like this existed when I tried to quit smoking, I would have quit years ago.&#xD;\nThank you very much!"
-    },
-    {
-      "user": "SlashaLO",
-      "score": "5",
-      "text": "An amazing, clean tobacco. Slightly Pipe tobacco-esque to me. Red burley as the top note is amazing. This mix is earthy, and I get a slightly sweet taste from it. Wood spice does great here also. The woody notes I get are great and go very well with the rest of this. Thanks for a great mix!"
-    }
-  ]
+    "name": "The Hinterlander",
+    "description": "A tobacco to fill the manliest of cravings for a smoke after a hard day's work. The combination of FLV Red Burley and FLV Cured is a tried and true pairing for a smooth and straight forward tobacco flavor.\r\n\r\nFLV Red Burley: A thick, woody tobacco with nutty undertones and a full body. This sits right in front, and makes the base for the rest of the tobaccos to rest on. At 2.75% there's no mistaking this flavor as the undisputed king of tobaccos.\r\n\r\nFLV Cured Tobacco: Sweeter than Red Burly, with hints of pecan and cedar, this fills the few gaps in Red Burley. This adds some nice layers of nut and woody tones to the FLV Red Burley Base.\r\n\r\nFLV Native Tobacco: The spicy sweet cousin to FLV Kentucky Blend, this is becoming one of my favorite tobaccos to work with. It has a sharp spice note on the front end, similar to a cracked vanilla bean, with a lightly honeyed finish. Very aromatic. A bit of tobacco leather body to finish up the bold tobacco profile.\r\n\r\nAdditives:\r\n\r\nFLV Lovage Root: This is quickly becoming a favorite of mine. On it's own, it's very damp and vegetal, and not all together very pleasant. When used in conjunction with these fine tobaccos however, it's properties align the stars to add a sweet moisture to your tobacco blends. This transforms everything to feel more like still fresh, not fully dried pipe tobacco. Adds a light, barely perceptible additional sweetness. This additional moisture addition also allows you to take your tobacco % a little higher than you would traditionally, as it smooths over any unwanted dry notes that are typical when using tobaccos at very high percentages.\r\n\r\nFLV Wood Spice: This adds a fresh cedar finish to our final mix, boosting the woody notes already in the mix into the stratosphere. Surprisingly smooth, I get hints of oak and cedar throughout the vape.",
+    "id": 46122,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/46122\/nFqnVeY.jpg",
+    "updated_at": "2020-12-12T14:05:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Native Tobacco",
+            "flavor_id": "4393",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lovage Root",
+            "flavor_id": "2152",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wood Spice",
+            "flavor_id": "4447",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Kopel",
+    "views": "8270",
+    "created_at": "2017-05-14",
+    "slug": "the_hinterlander",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/46122.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TinyMetalTrees",
+            "score": 5,
+            "text": "This is just wonderful. Smooth and complex. The wood and nut magic going on here is dreamy. "
+        },
+        {
+            "user": "asmirm",
+            "score": 5,
+            "text": "You, sir, are a gentleman and a scholar. Here is a virtual handshake.&#xD;\nThis has it all. The tobacco, smokiness and a bit of sweetness. If a \"premium\" flavor like this existed when I tried to quit smoking, I would have quit years ago.&#xD;\nThank you very much!"
+        },
+        {
+            "user": "SlashaLO",
+            "score": 5,
+            "text": "An amazing, clean tobacco. Slightly Pipe tobacco-esque to me. Red burley as the top note is amazing. This mix is earthy, and I get a slightly sweet taste from it. Wood spice does great here also. The woody notes I get are great and go very well with the rest of this. Thanks for a great mix!"
+        }
+    ]
 }

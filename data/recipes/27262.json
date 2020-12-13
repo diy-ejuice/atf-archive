@@ -1,95 +1,97 @@
 {
-  "name": "French Fellow #REMIXMONTH",
-  "description": "\r\nOne version of a \"French dude\" remix that I've been working on.\r\nA very sweet, buttery waffle base drizzled with blueberry & maple syrup.\r\n\r\nNotes and subs:\r\nJF biscuit can be subbed for INW at the same %. They are close enough to sub and I just prefer the JF in general.\r\n\r\nThis mix needs to steep, off the bat the biscuit dominates and needs time to calm down.\r\n\r\nSuper sweet can be upped to 1% for more store-bought sugariness.\r\n\r\nFrench Vanilla Creme can be subbed for TFA VBIC at same %\r\n\r\nIf you don't have INW waffle just leave it out - it adds some authenticity to the waffle base, and is definitely a worthy inclusion but not 100% necessary.\r\nIn a pinch you could sub the INW waffle for FW at 2-3%\r\n\r\nHappy new year!",
-  "id": 27262,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27262/ING_47570_00097.jpg",
-  "updated_at": "2020-12-08T00:49:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla Creme",
-      "flavor_id": "168",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Waffle (belgian)",
-      "flavor_id": "191",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Waffle (yc)",
-      "flavor_id": "744",
-      "millipercent": 150,
-      "vendor": "INW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "method1",
-  "views": "11316",
-  "slug": "french_fellow_remixmonth",
-  "total_flavoring": "10.9%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Excellent recipe leaves a really nice room note as well. "
-    },
-    {
-      "user": "AndreM",
-      "score": "5",
-      "text": "Rich, flavourful and accurate to the description above. Thank you for the recipe."
-    },
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "Amazing mix Method! I didn't have inw waffle so I increased tfa's to 2.5% as per your suggestion. It is a great, well balanced recipe, so tasty. I have never had the original French dude so I don't know how accurate it is but definitely a delicious vape. Keep up the good work. "
-    },
-    {
-      "user": "savage_sage",
-      "score": "5",
-      "text": "This is an awesome remix of French Dude! Great work, a new adv candidate for me."
-    },
-    {
-      "user": "horizonism",
-      "score": "5",
-      "text": "This is great. Easily the best base I've come across from which to work an accurate clone / remix of French Dude. Thanks for sharing! "
-    }
-  ]
+    "name": "French Fellow #REMIXMONTH",
+    "description": "\r\nOne version of a \"French dude\" remix that I've been working on.\r\nA very sweet, buttery waffle base drizzled with blueberry & maple syrup.\r\n\r\nNotes and subs:\r\nJF biscuit can be subbed for INW at the same %. They are close enough to sub and I just prefer the JF in general.\r\n\r\nThis mix needs to steep, off the bat the biscuit dominates and needs time to calm down.\r\n\r\nSuper sweet can be upped to 1% for more store-bought sugariness.\r\n\r\nFrench Vanilla Creme can be subbed for TFA VBIC at same %\r\n\r\nIf you don't have INW waffle just leave it out - it adds some authenticity to the waffle base, and is definitely a worthy inclusion but not 100% necessary.\r\nIn a pinch you could sub the INW waffle for FW at 2-3%\r\n\r\nHappy new year!",
+    "id": 27262,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/27262\/ING_47570_00097.jpg",
+    "updated_at": "2020-12-12T18:29:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla Creme",
+            "flavor_id": "168",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Waffle (belgian)",
+            "flavor_id": "191",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Waffle (yc)",
+            "flavor_id": "744",
+            "millipercent": 150,
+            "vendor": "INW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "method1",
+    "views": "11331",
+    "created_at": "2017-01-17",
+    "slug": "french_fellow_remixmonth",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/27262.jpg",
+    "total_flavoring": "10.9%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Excellent recipe leaves a really nice room note as well. "
+        },
+        {
+            "user": "AndreM",
+            "score": 5,
+            "text": "Rich, flavourful and accurate to the description above. Thank you for the recipe."
+        },
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "Amazing mix Method! I didn't have inw waffle so I increased tfa's to 2.5% as per your suggestion. It is a great, well balanced recipe, so tasty. I have never had the original French dude so I don't know how accurate it is but definitely a delicious vape. Keep up the good work. "
+        },
+        {
+            "user": "savage_sage",
+            "score": 5,
+            "text": "This is an awesome remix of French Dude! Great work, a new adv candidate for me."
+        },
+        {
+            "user": "horizonism",
+            "score": 5,
+            "text": "This is great. Easily the best base I've come across from which to work an accurate clone \/ remix of French Dude. Thanks for sharing! "
+        }
+    ]
 }

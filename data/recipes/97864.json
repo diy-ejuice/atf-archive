@@ -1,80 +1,82 @@
 {
-  "name": "Mango Melon Chew #Mixin Vixens (Juicefairy mix)",
-  "description": "Mango is the main profile but it is balanced with a peach back note the Papaya adds a chewy note and the cantaloupe binds all the flavors together. I softened the mix by adding 1.5% of vanilla swirl with and added a bit of a stronger vanilla note to the ream portion with a bit of Vanilla classic. This isn't necessarily a creamy mix with the swirl added in but the swirl adds a nice soft finish. I recommend at least a full week steep but its decent as a shaker. I'm one of those people that firmly believes every juice needs some steep time. so you will rarely see me post a straight up shake and vape.",
-  "id": 97864,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97864/30725772_10214354583351322_569965636470439936_n.jpg",
-  "updated_at": "2020-12-08T00:50:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Melon Cantaloupe",
-      "flavor_id": "529",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Juicefairy",
-  "views": "2961",
-  "slug": "mango_melon_chew_mixin_vixens_juicefairy_mix",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Stephan",
-      "score": "5",
-      "text": "Never had the Mango gummy from Trader Joes, but I love mango and made a 10 ml tester that didn't make it to a full week steep... I couldn't resist and made 30 ml more two weeks ago.  Cracked it open last night and vape nearly 15ml.  It is a really nice mix that I truly enjoy.  Today, I'll make more!  It has easily found a home in my ADV rotation.  Well done @Juicefairy!  Thanks for sharing."
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is indeed a chewy mango-melon candy vape with a sweet, soft finish. All the mouthfeels.  Tried it on an overnight steep and the top notes were coming across a bit perfumey to me. Like, not an offensive grandma's perfume type of perfume. More like an exotic tropical perfume. If you were wearing this perfume, I'd totally make out with you. It was not so much floral as just over-aggressive, perhaps seeming more so because it was contrasted by that thick but softer-flavored base. After steeping for a week they calm down quite a bit and that base thickens even more, and I'm in love. STEEP THIS FOR A WEEK. It tastes like what I imagine someone would think the picture tastes like if they didn't know what the picture actually was (it's a Mango!Mango! gummy from Trader Joes, FYI). "
-    }
-  ]
+    "name": "Mango Melon Chew #Mixin Vixens (Juicefairy mix)",
+    "description": "Mango is the main profile but it is balanced with a peach back note the Papaya adds a chewy note and the cantaloupe binds all the flavors together. I softened the mix by adding 1.5% of vanilla swirl with and added a bit of a stronger vanilla note to the ream portion with a bit of Vanilla classic. This isn't necessarily a creamy mix with the swirl added in but the swirl adds a nice soft finish. I recommend at least a full week steep but its decent as a shaker. I'm one of those people that firmly believes every juice needs some steep time. so you will rarely see me post a straight up shake and vape.",
+    "id": 97864,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/97864\/30725772_10214354583351322_569965636470439936_n.jpg",
+    "updated_at": "2020-12-12T14:06:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Melon Cantaloupe",
+            "flavor_id": "529",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Juicefairy",
+    "views": "2974",
+    "created_at": "2018-04-22",
+    "slug": "mango_melon_chew_mixin_vixens_juicefairy_mix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/97864.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Stephan",
+            "score": 5,
+            "text": "Never had the Mango gummy from Trader Joes, but I love mango and made a 10 ml tester that didn't make it to a full week steep... I couldn't resist and made 30 ml more two weeks ago.  Cracked it open last night and vape nearly 15ml.  It is a really nice mix that I truly enjoy.  Today, I'll make more!  It has easily found a home in my ADV rotation.  Well done @Juicefairy!  Thanks for sharing."
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is indeed a chewy mango-melon candy vape with a sweet, soft finish. All the mouthfeels.  Tried it on an overnight steep and the top notes were coming across a bit perfumey to me. Like, not an offensive grandma's perfume type of perfume. More like an exotic tropical perfume. If you were wearing this perfume, I'd totally make out with you. It was not so much floral as just over-aggressive, perhaps seeming more so because it was contrasted by that thick but softer-flavored base. After steeping for a week they calm down quite a bit and that base thickens even more, and I'm in love. STEEP THIS FOR A WEEK. It tastes like what I imagine someone would think the picture tastes like if they didn't know what the picture actually was (it's a Mango!Mango! gummy from Trader Joes, FYI). "
+        }
+    ]
 }

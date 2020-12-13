@@ -1,38 +1,38 @@
 {
-  "name": "Pure Green Tea",
-  "description": "I have been searching for a good green tea for a while. I am a big fan of the drink and like vapes that are not too sweet. I finally sat down with all my green teas and dripped them on my Wasp Nano until i found a combination that works.\r\n\r\nI think the FLV Eisai Tea provides the earthy notes, the FE Green Tea the high notes and the TFA Sweet Tea brings it all together.\r\n\r\nIt takes at least a 2 week steep to get the earthy notes ( i also mix it and put it in a water bath when i first make it).",
-  "id": 174925,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174925/green_tea_2.png",
-  "updated_at": "2020-12-07T10:44:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Green Tea",
-      "flavor_id": "1640",
-      "millipercent": 4000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DontTrustTheRabbit",
-  "views": "682",
-  "slug": "pure_green_tea",
-  "total_flavoring": "12.0%",
-  "steep_days": "12",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pure Green Tea",
+    "description": "I have been searching for a good green tea for a while. I am a big fan of the drink and like vapes that are not too sweet. I finally sat down with all my green teas and dripped them on my Wasp Nano until i found a combination that works.\r\n\r\nI think the FLV Eisai Tea provides the earthy notes, the FE Green Tea the high notes and the TFA Sweet Tea brings it all together.\r\n\r\nIt takes at least a 2 week steep to get the earthy notes ( i also mix it and put it in a water bath when i first make it).",
+    "id": 174925,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/174925\/green_tea_2.png",
+    "updated_at": "2020-12-12T02:45:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Green Tea",
+            "flavor_id": "1640",
+            "millipercent": 4000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DontTrustTheRabbit",
+    "views": "694",
+    "created_at": "2019-11-18",
+    "slug": "pure_green_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/174925.png",
+    "total_flavoring": "12.0%",
+    "steep_days": "12",
+    "best_vg": "0%",
+    "temperature": "0"
 }

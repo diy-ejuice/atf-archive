@@ -1,44 +1,44 @@
 {
-  "name": "TOC'S Katie's Custard",
-  "description": "A simple, delicious custard with a touch of bakery.  The cookie and honeycomb together really make a delicious contribution to V2 Custard.  ",
-  "id": 191205,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/191205/tumblr_pzdp2kilG61qm3u45o1_1280_katies.png",
-  "updated_at": "2020-12-07T17:36:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookie Butter SC",
-      "flavor_id": "10406",
-      "millipercent": 1200,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "TOCMichelleHughes",
-  "views": "787",
-  "slug": "tocs_katies_custard",
-  "total_flavoring": "6.45%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "TOC'S Katie's Custard",
+    "description": "A simple, delicious custard with a touch of bakery.  The cookie and honeycomb together really make a delicious contribution to V2 Custard.  ",
+    "id": 191205,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/191205\/tumblr_pzdp2kilG61qm3u45o1_1280_katies.png",
+    "updated_at": "2020-12-11T02:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookie Butter SC",
+            "flavor_id": "10406",
+            "millipercent": 1200,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "TOCMichelleHughes",
+    "views": "793",
+    "created_at": "2020-04-14",
+    "slug": "tocs_katies_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/191205.png",
+    "total_flavoring": "6.45%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

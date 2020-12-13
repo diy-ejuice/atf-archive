@@ -1,45 +1,46 @@
 {
-  "name": "Simple Cinnamon Toast Crunch",
-  "description": "First attempt, shake and vape. See my note below. \r\n\r\nCTC by FLV is almost a good enough single flavor. I used that for most of the cinnamon, it creates the grain, and a small amount of cream — so a random cream base was made and used to help boost the milk. Overall happy with my first recipe, a simple one, after mixing others since 2016! Nothing perfect but it’s mine!",
-  "id": 190635,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Jmill157",
-  "views": "683",
-  "slug": "simple_cinnamon_toast_crunch",
-  "total_flavoring": "5.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Kittybit",
-      "score": "5",
-      "text": "This is a pretty enjoyable vape actually and a great attempt for a first recipe. Obviously, the mixer could have gone down a much deeper route with the milk, but it kinda works with FLV Cream and FA Meringue combo."
-    }
-  ]
+    "name": "Simple Cinnamon Toast Crunch",
+    "description": "First attempt, shake and vape. See my note below. \r\n\r\nCTC by FLV is almost a good enough single flavor. I used that for most of the cinnamon, it creates the grain, and a small amount of cream \u2014 so a random cream base was made and used to help boost the milk. Overall happy with my first recipe, a simple one, after mixing others since 2016! Nothing perfect but it\u2019s mine!",
+    "id": 190635,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:53:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Jmill157",
+    "views": "689",
+    "created_at": "2020-04-08",
+    "slug": "simple_cinnamon_toast_crunch",
+    "total_flavoring": "5.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Kittybit",
+            "score": 5,
+            "text": "This is a pretty enjoyable vape actually and a great attempt for a first recipe. Obviously, the mixer could have gone down a much deeper route with the milk, but it kinda works with FLV Cream and FA Meringue combo."
+        }
+    ]
 }

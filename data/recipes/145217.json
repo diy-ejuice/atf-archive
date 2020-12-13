@@ -1,56 +1,55 @@
 {
-  "name": "Mixin Vixens - Jarvis - Cinnamon Coffee Cake",
-  "description": "Coffee Cake, with a cinnamon butter swirl inside, butter rich cake with a crumb cinnamon topping. ",
-  "id": 145217,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:37:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "4441",
-      "millipercent": 3400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cinnamon Sugar",
-      "flavor_id": "8741",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Golden Sponge Cake",
-      "flavor_id": "6410",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 150,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1028",
-  "slug": "mixin_vixens_jarvis_cinnamon_coffee_cake",
-  "total_flavoring": "6.8%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mixin Vixens - Jarvis - Cinnamon Coffee Cake",
+    "description": "Coffee Cake, with a cinnamon butter swirl inside, butter rich cake with a crumb cinnamon topping. ",
+    "id": 145217,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:04:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "4441",
+            "millipercent": 3400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cinnamon Sugar",
+            "flavor_id": "8741",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Golden Sponge Cake",
+            "flavor_id": "6410",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 150,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1033",
+    "created_at": "2019-03-31",
+    "slug": "mixin_vixens_jarvis_cinnamon_coffee_cake",
+    "total_flavoring": "6.8%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

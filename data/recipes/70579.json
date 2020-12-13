@@ -1,44 +1,43 @@
 {
-  "name": "Oh Seth 32",
-  "description": "A recipe years in the making. Peanut butter, graham cracker, and banana. Please see my PB flavor base for details on that flavor.",
-  "id": 70579,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:26:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "641",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter Base flavor concentrate",
-      "flavor_id": "8812",
-      "millipercent": 6000,
-      "vendor": "BASE"
-    }
-  ],
-  "author": "cexshun",
-  "views": "877",
-  "slug": "oh_seth_32",
-  "total_flavoring": "9.15%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Oh Seth 32",
+    "description": "A recipe years in the making. Peanut butter, graham cracker, and banana. Please see my PB flavor base for details on that flavor.",
+    "id": 70579,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:55:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "641",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter Base flavor concentrate",
+            "flavor_id": "8812",
+            "millipercent": 6000,
+            "vendor": "BASE"
+        }
+    ],
+    "author": "cexshun",
+    "views": "881",
+    "created_at": "2017-10-25",
+    "slug": "oh_seth_32",
+    "total_flavoring": "9.15%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

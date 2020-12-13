@@ -1,50 +1,50 @@
 {
-  "name": "Custard...Simples.",
-  "description": "A basic low percentage custard without using Cap V1, something I tried and actually it's a good stand-alone or great base for some fruits... \r\nI can drip this after a night's rest but obviously gets better with age ;)",
-  "id": 84690,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/84690/Custard.jpg",
-  "updated_at": "2020-12-07T19:15:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 2000,
-      "vendor": "CC"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BigOs",
-  "views": "1575",
-  "slug": "custardsimples",
-  "total_flavoring": "10.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Custard...Simples.",
+    "description": "A basic low percentage custard without using Cap V1, something I tried and actually it's a good stand-alone or great base for some fruits... \r\nI can drip this after a night's rest but obviously gets better with age ;)",
+    "id": 84690,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/84690\/Custard.jpg",
+    "updated_at": "2020-12-10T16:00:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 2000,
+            "vendor": "CC"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BigOs",
+    "views": "1584",
+    "created_at": "2018-01-21",
+    "slug": "custardsimples",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/84690.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

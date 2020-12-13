@@ -1,45 +1,47 @@
 {
-  "name": "Down on the Beach ",
-  "description": "A very simple creamy tropical fruit recipe.\r\n\r\nPUR Tropical Blend is a great creamy coconut and pineapple flavor. It is a great single flavor. It was missing something. I wanted a bit more tropical feel so I threw some CAP Golden Pineapple on top and it. Thought about trying to layer more flavors into it. You know, it needs at least 5 more flavors to be legit. After vaping it for awhile I realized it was great as is. It is tasty off the shake and melds together a bit more the longer it steeps.",
-  "id": 92231,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92231/23ECAA51-A751-41C0-8BAA-84DBBA713E0B.jpeg",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tropical Blend",
-      "flavor_id": "7793",
-      "millipercent": 5000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 500,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "carolinavapen",
-  "views": "1111",
-  "slug": "down_on_the_beach",
-  "total_flavoring": "7.5%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ceedge",
-      "score": "5",
-      "text": "My wife loves this one. I mixed up a 10ml for her to try and it didn’t make it to the week it was to steep. Making a 30 ml now and stashing it away so she can try it again. "
-    }
-  ]
+    "name": "Down on the Beach ",
+    "description": "A very simple creamy tropical fruit recipe.\r\n\r\nPUR Tropical Blend is a great creamy coconut and pineapple flavor. It is a great single flavor. It was missing something. I wanted a bit more tropical feel so I threw some CAP Golden Pineapple on top and it. Thought about trying to layer more flavors into it. You know, it needs at least 5 more flavors to be legit. After vaping it for awhile I realized it was great as is. It is tasty off the shake and melds together a bit more the longer it steeps.",
+    "id": 92231,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92231\/23ECAA51-A751-41C0-8BAA-84DBBA713E0B.jpeg",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tropical Blend",
+            "flavor_id": "7793",
+            "millipercent": 5000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 500,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "carolinavapen",
+    "views": "1119",
+    "created_at": "2018-03-13",
+    "slug": "down_on_the_beach",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92231.jpeg",
+    "total_flavoring": "7.5%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ceedge",
+            "score": 5,
+            "text": "My wife loves this one. I mixed up a 10ml for her to try and it didn\u2019t make it to the week it was to steep. Making a 30 ml now and stashing it away so she can try it again. "
+        }
+    ]
 }

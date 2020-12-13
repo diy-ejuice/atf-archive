@@ -1,92 +1,92 @@
 {
-  "name": "Milky Way(a milk pie story)",
-  "description": "Initially,the idea was to create a recipe as close as possible to the greek dessert called galaktoboureco,which is a milk pie with  crispy crust and lots of syrup.This one is not really that,but it is quite close and it is too damn good to keep it",
-  "id": 176568,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/176568/Perturbations_in_the_Milky_Way_large-736x490-c-default.jpg",
-  "updated_at": "2020-12-07T21:33:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Baked Honey Oats Cereal",
-      "flavor_id": "6483",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "1211",
-      "millipercent": 800,
-      "vendor": "FW"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Golden Syrup",
-      "flavor_id": "8887",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Milk",
-      "flavor_id": "523",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rice Crunchies",
-      "flavor_id": "142",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 700,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "nks",
-  "views": "1161",
-  "slug": "milky_waya_milk_pie_story",
-  "total_flavoring": "14.9%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Milky Way(a milk pie story)",
+    "description": "Initially,the idea was to create a recipe as close as possible to the greek dessert called galaktoboureco,which is a milk pie with  crispy crust and lots of syrup.This one is not really that,but it is quite close and it is too damn good to keep it",
+    "id": 176568,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/176568\/Perturbations_in_the_Milky_Way_large-736x490-c-default.jpg",
+    "updated_at": "2020-12-11T14:17:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Baked Honey Oats Cereal",
+            "flavor_id": "6483",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "1211",
+            "millipercent": 800,
+            "vendor": "FW"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Golden Syrup",
+            "flavor_id": "8887",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Milk",
+            "flavor_id": "523",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rice Crunchies",
+            "flavor_id": "142",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 700,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "nks",
+    "views": "1170",
+    "created_at": "2019-12-04",
+    "slug": "milky_waya_milk_pie_story",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/176568.jpg",
+    "total_flavoring": "14.9%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

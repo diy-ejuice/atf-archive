@@ -1,92 +1,92 @@
 {
-  "name": "Tropical Twist",
-  "description": "Please don't ask me what I was thinking when I made this. To be honest, I just threw some flavours together and hoped they worked. A couple of minor tweaks and here you have it. For me, the banana and pineapple are at the forefront of this. All the other flavours seem to blend in nicely. I've put 15 days steep time as I made this Nov 25th and didn't like it after 2/3 days so I just left it. Just trying it Dec 23rd and it's pretty damned tasty.",
-  "id": 132228,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/132228/Tropical_Drink_1.jpg",
-  "updated_at": "2020-12-07T15:21:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "4888",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Orange Mango With Stevia",
-      "flavor_id": "92",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "8062282",
-  "views": "1784",
-  "slug": "tropical_twist",
-  "total_flavoring": "16.75%",
-  "steep_days": "15",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tropical Twist",
+    "description": "Please don't ask me what I was thinking when I made this. To be honest, I just threw some flavours together and hoped they worked. A couple of minor tweaks and here you have it. For me, the banana and pineapple are at the forefront of this. All the other flavours seem to blend in nicely. I've put 15 days steep time as I made this Nov 25th and didn't like it after 2\/3 days so I just left it. Just trying it Dec 23rd and it's pretty damned tasty.",
+    "id": 132228,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/132228\/Tropical_Drink_1.jpg",
+    "updated_at": "2020-12-10T14:56:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "4888",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Orange Mango With Stevia",
+            "flavor_id": "92",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "8062282",
+    "views": "1791",
+    "created_at": "2018-12-23",
+    "slug": "tropical_twist",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/132228.jpg",
+    "total_flavoring": "16.75%",
+    "steep_days": "15",
+    "best_vg": "70%",
+    "temperature": "0"
 }

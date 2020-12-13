@@ -1,67 +1,69 @@
 {
-  "name": "Honeydew Me please ",
-  "description": "Honeydew and apple Waynes style  much love for all the work you do for the mixing community...",
-  "id": 200185,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200185/FB_IMG_1593736023761.jpg",
-  "updated_at": "2020-12-08T00:51:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cotton Candy (circus)",
-      "flavor_id": "318",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Slushy",
-  "views": "1128",
-  "slug": "honeydew_me_please",
-  "total_flavoring": "11.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Excellent balance of honeydew apple and cream. "
-    },
-    {
-      "user": "Seakow",
-      "score": "5",
-      "text": "Great balance of the fruit and creams."
-    },
-    {
-      "user": "notsonattynate",
-      "score": "5",
-      "text": "I really dig this! This remind me of Kilo Dewberry Cream minus the obnoxious sweetness that it had. The apple enhances the Honeydew without being present as an apple, and the Creams are well balanced! Nice job. I learned from this recipe, so thank you for that."
-    }
-  ]
+    "name": "Honeydew Me please ",
+    "description": "Honeydew and apple Waynes style  much love for all the work you do for the mixing community...",
+    "id": 200185,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/200185\/FB_IMG_1593736023761.jpg",
+    "updated_at": "2020-12-12T17:13:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cotton Candy (circus)",
+            "flavor_id": "318",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1138",
+    "created_at": "2020-07-11",
+    "slug": "honeydew_me_please",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/200185.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Excellent balance of honeydew apple and cream. "
+        },
+        {
+            "user": "Seakow",
+            "score": 5,
+            "text": "Great balance of the fruit and creams."
+        },
+        {
+            "user": "notsonattynate",
+            "score": 5,
+            "text": "I really dig this! This remind me of Kilo Dewberry Cream minus the obnoxious sweetness that it had. The apple enhances the Honeydew without being present as an apple, and the Creams are well balanced! Nice job. I learned from this recipe, so thank you for that."
+        }
+    ]
 }

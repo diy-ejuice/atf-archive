@@ -1,57 +1,59 @@
 {
-  "name": "Trunks",
-  "description": "An almost 100% clone of Caribbean Clouds UFOhm Encounter. Juicy, sweet, strange.",
-  "id": 197792,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197792/5BD854CA-F2CF-4222-A729-E1A84DC4392F.jpeg",
-  "updated_at": "2020-12-08T00:51:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Passionfruit SC",
-      "flavor_id": "10100",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "610",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "wolfwheeler",
-  "views": "982",
-  "slug": "trunks",
-  "total_flavoring": "7.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BRDZ",
-      "score": "5",
-      "text": "Rating purely on the name and picture. Made me want to mix this up now. Looking forward to having a taste of trunks. Do a bulma recipie when you get chance 😅👊"
-    }
-  ]
+    "name": "Trunks",
+    "description": "An almost 100% clone of Caribbean Clouds UFOhm Encounter. Juicy, sweet, strange.",
+    "id": 197792,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197792\/5BD854CA-F2CF-4222-A729-E1A84DC4392F.jpeg",
+    "updated_at": "2020-12-12T15:41:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Passionfruit SC",
+            "flavor_id": "10100",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "610",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "wolfwheeler",
+    "views": "991",
+    "created_at": "2020-06-15",
+    "slug": "trunks",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197792.jpeg",
+    "total_flavoring": "7.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BRDZ",
+            "score": 5,
+            "text": "Rating purely on the name and picture. Made me want to mix this up now. Looking forward to having a taste of trunks. Do a bulma recipie when you get chance \ud83d\ude05\ud83d\udc4a"
+        }
+    ]
 }

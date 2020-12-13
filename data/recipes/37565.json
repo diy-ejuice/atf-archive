@@ -1,86 +1,88 @@
 {
-  "name": "Misty Mountain",
-  "description": "This is a pretty authentic mountain dew type soda. It may not be name brand but it is very close. Great refreshing pop. I have had this recipe on elr for quite some time but ID10-T suggested I move it here so his lazy ass can link it better ha ha.",
-  "id": 37565,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37565/misty_mountain.jpg",
-  "updated_at": "2020-12-08T00:49:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Citrus Punch",
-      "flavor_id": "348",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Orange",
-      "flavor_id": "500",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "4779",
-  "slug": "misty_mountain",
-  "total_flavoring": "14.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "So that might not be spot on Mountain Dew, but it could certainly pass for a very solid representation of some unnamed store brand mountain dew type drink and that ought to be good enough for all but the pickiest dewy-eyed vapers. It dew taste like Mountain Dew. It’s sweet and wet and chilled and if you squint with your tasters real hard, you can almost get some fizz out of it. I had some concerns about harshness based on some of the ingredients here but the way they’re used here keeps that from being an issue for me. Sodas can be difficult, in my experience. I can imagine a lot of work went into this recipe and it feels like it paid off. I dew wonder whether a better dew could possibly be created using LB Dew Mountain instead of TFA Citrus Punch as the heart of it and fixing the shortcomings with that flavor with some of the same or similar flavors as what’s been used here. But that’s just an idea, I haven’t tasted a perfected Mountain Dew vape made that way yet. I’ve tasted this, and it tastes like five stars, at least until someone proves they can top it.  "
-    },
-    {
-      "user": "Wodde",
-      "score": "5",
-      "text": "Great Stuff"
-    }
-  ]
+    "name": "Misty Mountain",
+    "description": "This is a pretty authentic mountain dew type soda. It may not be name brand but it is very close. Great refreshing pop. I have had this recipe on elr for quite some time but ID10-T suggested I move it here so his lazy ass can link it better ha ha.",
+    "id": 37565,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/37565\/misty_mountain.jpg",
+    "updated_at": "2020-12-12T10:33:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Citrus Punch",
+            "flavor_id": "348",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Orange",
+            "flavor_id": "500",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "4793",
+    "created_at": "2017-03-20",
+    "slug": "misty_mountain",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/37565.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "So that might not be spot on Mountain Dew, but it could certainly pass for a very solid representation of some unnamed store brand mountain dew type drink and that ought to be good enough for all but the pickiest dewy-eyed vapers. It dew taste like Mountain Dew. It\u2019s sweet and wet and chilled and if you squint with your tasters real hard, you can almost get some fizz out of it. I had some concerns about harshness based on some of the ingredients here but the way they\u2019re used here keeps that from being an issue for me. Sodas can be difficult, in my experience. I can imagine a lot of work went into this recipe and it feels like it paid off. I dew wonder whether a better dew could possibly be created using LB Dew Mountain instead of TFA Citrus Punch as the heart of it and fixing the shortcomings with that flavor with some of the same or similar flavors as what\u2019s been used here. But that\u2019s just an idea, I haven\u2019t tasted a perfected Mountain Dew vape made that way yet. I\u2019ve tasted this, and it tastes like five stars, at least until someone proves they can top it.  "
+        },
+        {
+            "user": "Wodde",
+            "score": 5,
+            "text": "Great Stuff"
+        }
+    ]
 }

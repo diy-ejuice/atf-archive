@@ -1,68 +1,68 @@
 {
-  "name": "French Mornings",
-  "description": "Some credits goes to mlNikon for the inspiration and Humanpuck as we have discussed flavors (he's making his own version - http://alltheflavors.com/recipes/145179)\r\n\r\nThe idea here I got from mlNikon when she once mentioned a croissant with jam she had made (https://alltheflavors.com/recipes/95371#raspberry_jam_and_croissant_by_mlnikon).\r\nI decided, that since I love jam and since I love croissants - why not make one too!\r\nThe choice of the jam was tricky, as I'm generally pretty tired of strawberry and raspberry this and that. I wanted something dark and deep.\r\nSo my obvious choice was blackberry, blackcurrant and boysenberry.\r\nFA blackcurrant as it is potent like hell, so I keep it low and let VT Boysenberry do a little legwork.\r\nIn an attempt to make the \"jam\" a little more... jammy? I have set my heart in FA Maple Syrup. I feel it adds a little texture.\r\n\r\nThe FA Apple Pie has only one job and that is to bring a little crust to the croissants butter goodness.\r\nCAP Graham Cracker is there for a little texture.",
-  "id": 145323,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145323/croissants-569075_960_720.jpg",
-  "updated_at": "2020-12-07T22:33:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "14",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "8840",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "1477",
-  "slug": "french_mornings",
-  "total_flavoring": "11.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "French Mornings",
+    "description": "Some credits goes to mlNikon for the inspiration and Humanpuck as we have discussed flavors (he's making his own version - http:\/\/alltheflavors.com\/recipes\/145179)\r\n\r\nThe idea here I got from mlNikon when she once mentioned a croissant with jam she had made (https:\/\/alltheflavors.com\/recipes\/95371#raspberry_jam_and_croissant_by_mlnikon).\r\nI decided, that since I love jam and since I love croissants - why not make one too!\r\nThe choice of the jam was tricky, as I'm generally pretty tired of strawberry and raspberry this and that. I wanted something dark and deep.\r\nSo my obvious choice was blackberry, blackcurrant and boysenberry.\r\nFA blackcurrant as it is potent like hell, so I keep it low and let VT Boysenberry do a little legwork.\r\nIn an attempt to make the \"jam\" a little more... jammy? I have set my heart in FA Maple Syrup. I feel it adds a little texture.\r\n\r\nThe FA Apple Pie has only one job and that is to bring a little crust to the croissants butter goodness.\r\nCAP Graham Cracker is there for a little texture.",
+    "id": 145323,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145323\/croissants-569075_960_720.jpg",
+    "updated_at": "2020-12-10T16:04:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "14",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "8840",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1484",
+    "created_at": "2019-04-01",
+    "slug": "french_mornings",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145323.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

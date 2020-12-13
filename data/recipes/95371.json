@@ -1,83 +1,85 @@
 {
-  "name": "Raspberry Jam and Croissant",
-  "description": "Nice sweet jammy raspberry on a warm buttery croissant. Inw Shisha Raspberry is a more candied than Inw Malina Raspberry and paired with the super authentic, almost seedy, flv raspberry makes a nice raspberry jam. the Flv Boysenberry just brings a touch of deepness to the jam. The Wf Croissant, Biscuit and RF strawberry jam with toast gives you that buttery croissant with the strawberry giving the rasp jam a little more dimension.",
-  "id": 95371,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95371/fresh-tasty-homemade-croissants-ripe-berries-raspberries-jam-white-wooden-board-88517525.jpg",
-  "updated_at": "2020-12-08T00:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Shisha Raspberry",
-      "flavor_id": "836",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Raspberry",
-      "flavor_id": "4367",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry Jam with Toast",
-      "flavor_id": "9143",
-      "millipercent": 1500,
-      "vendor": "RF"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "5868",
-  "slug": "raspberry_jam_and_croissant",
-  "total_flavoring": "8.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 4.8,
-  "reviews": [
-    {
-      "user": "nowar",
-      "score": "5",
-      "text": "Somehow i miraculously never wrote a review of this recipe. I've been vaping this on and off for at least a year now. I love this recipe for a few reasons. It really sells the profile perfectly, for one. You are going to get raspberry jam on a goddamned croissant in your mouth. End of story. The gravy is that it is delicious, plays into the wf croissant's light flakiness and the toast doesn't ever encroach on it's inherent delicacy. This one is fantastic! it loses just a little bit in an mtl setup to my dismay, the croissant just not being complicated enough but in a single coil atty on up it delivers. this recipe is for the raspberry lovers who want an intriguing, realistic hint of bakery to go with it. This is not an All Day Vape, this is an All Time Classic imo. I love this recipe, mLnikon and thank you for taking all the guesswork out of finding that perfect compliment to wf croissant with the perfect touch."
-    },
-    {
-      "user": "DumHed",
-      "score": "5",
-      "text": "Soooooo good, alot of \"Jam\" recipes can get really cloying to me after a few hits, but not this one!!  I love your use of Shisha raz, that flavor is really underrated and idnt a bully like malina raz. Great job em, you're amazing!"
-    },
-    {
-      "user": "THA_PHOENIX",
-      "score": "5",
-      "text": "Subbed Red Raspberry for FA Berryl and added 0,5% supersweet...delicious!!! "
-    },
-    {
-      "user": "showstoppah420",
-      "score": "4",
-      "text": "I couldn't wait the full 5 days for it to steep but after 3 it's really good."
-    },
-    {
-      "user": "DodgerFog33",
-      "score": "5",
-      "text": "I love raspberry vapes so I saw this one pop up so I had to mix it. I just whipped it up at 65/35 and added a drop of sweetness and this tastes great. I will need to do a bigger bottle this won’t last the 5 day recommended steep time. Well done Emily."
-    }
-  ]
+    "name": "Raspberry Jam and Croissant",
+    "description": "Nice sweet jammy raspberry on a warm buttery croissant. Inw Shisha Raspberry is a more candied than Inw Malina Raspberry and paired with the super authentic, almost seedy, flv raspberry makes a nice raspberry jam. the Flv Boysenberry just brings a touch of deepness to the jam. The Wf Croissant, Biscuit and RF strawberry jam with toast gives you that buttery croissant with the strawberry giving the rasp jam a little more dimension.",
+    "id": 95371,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/95371\/fresh-tasty-homemade-croissants-ripe-berries-raspberries-jam-white-wooden-board-88517525.jpg",
+    "updated_at": "2020-12-12T14:06:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Shisha Raspberry",
+            "flavor_id": "836",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Raspberry",
+            "flavor_id": "4367",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry Jam with Toast",
+            "flavor_id": "9143",
+            "millipercent": 1500,
+            "vendor": "RF"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "5886",
+    "created_at": "2018-04-04",
+    "slug": "raspberry_jam_and_croissant",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/95371.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "nowar",
+            "score": 5,
+            "text": "Somehow i miraculously never wrote a review of this recipe. I've been vaping this on and off for at least a year now. I love this recipe for a few reasons. It really sells the profile perfectly, for one. You are going to get raspberry jam on a goddamned croissant in your mouth. End of story. The gravy is that it is delicious, plays into the wf croissant's light flakiness and the toast doesn't ever encroach on it's inherent delicacy. This one is fantastic! it loses just a little bit in an mtl setup to my dismay, the croissant just not being complicated enough but in a single coil atty on up it delivers. this recipe is for the raspberry lovers who want an intriguing, realistic hint of bakery to go with it. This is not an All Day Vape, this is an All Time Classic imo. I love this recipe, mLnikon and thank you for taking all the guesswork out of finding that perfect compliment to wf croissant with the perfect touch."
+        },
+        {
+            "user": "DumHed",
+            "score": 5,
+            "text": "Soooooo good, alot of \"Jam\" recipes can get really cloying to me after a few hits, but not this one!!  I love your use of Shisha raz, that flavor is really underrated and idnt a bully like malina raz. Great job em, you're amazing!"
+        },
+        {
+            "user": "THA_PHOENIX",
+            "score": 5,
+            "text": "Subbed Red Raspberry for FA Berryl and added 0,5% supersweet...delicious!!! "
+        },
+        {
+            "user": "showstoppah420",
+            "score": 4,
+            "text": "I couldn't wait the full 5 days for it to steep but after 3 it's really good."
+        },
+        {
+            "user": "DodgerFog33",
+            "score": 5,
+            "text": "I love raspberry vapes so I saw this one pop up so I had to mix it. I just whipped it up at 65\/35 and added a drop of sweetness and this tastes great. I will need to do a bigger bottle this won\u2019t last the 5 day recommended steep time. Well done Emily."
+        }
+    ]
 }

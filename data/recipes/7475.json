@@ -1,57 +1,59 @@
 {
-  "name": "Thai Tea",
-  "description": "A creamy, sweet, Thai Tea",
-  "id": 7475,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/7475/Capture.JPG",
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tea Black Water Soluble",
-      "flavor_id": "548",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Thai Chai",
-      "flavor_id": "2595",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 2500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "3673",
-  "slug": "thai_tea",
-  "total_flavoring": "7.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 1,
-  "reviews": [
-    {
-      "user": "QueerYourVape",
-      "score": "1",
-      "text": "I mixed 60 ml of it and gave it a week of steep because I really love Thai tea. So far I don't like this at all. To me it doesn't taste of Cha Thai at all, whether from a restaurant or making it myself. I can't taste the sweetness of the condensed milk or the spiciness of the Thai tea spices. I have a vague dark sorta creamy flavor, almost chocolaty and I don't find I can vape it. I'll let it sit another couple of weeks or more and see if the taste changes but I don't have much hope. I'll amend my review if this gets better for me but until now, this is a complete miss for me."
-    }
-  ]
+    "name": "Thai Tea",
+    "description": "A creamy, sweet, Thai Tea",
+    "id": 7475,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/7475\/Capture.JPG",
+    "updated_at": "2020-12-12T00:40:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tea Black Water Soluble",
+            "flavor_id": "548",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Thai Chai",
+            "flavor_id": "2595",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 2500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "3687",
+    "created_at": "2016-07-12",
+    "slug": "thai_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/7475.JPG",
+    "total_flavoring": "7.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 1,
+    "reviews": [
+        {
+            "user": "QueerYourVape",
+            "score": 1,
+            "text": "I mixed 60 ml of it and gave it a week of steep because I really love Thai tea. So far I don't like this at all. To me it doesn't taste of Cha Thai at all, whether from a restaurant or making it myself. I can't taste the sweetness of the condensed milk or the spiciness of the Thai tea spices. I have a vague dark sorta creamy flavor, almost chocolaty and I don't find I can vape it. I'll let it sit another couple of weeks or more and see if the taste changes but I don't have much hope. I'll amend my review if this gets better for me but until now, this is a complete miss for me."
+        }
+    ]
 }

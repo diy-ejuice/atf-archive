@@ -1,55 +1,56 @@
 {
-  "name": "Hop Along Sally",
-  "description": "An easy 1-2-3 Hoppy Citrus mix.\r\n\r\nCredit to eyemakepizza and ID10-T for the remaining pieces! ",
-  "id": 142567,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2294",
-  "slug": "hop_along_sally",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "staybert",
-      "score": "5",
-      "text": "Been looking for a recipe that goes well with beer, and this is the best one I have tried. The hops has a slight citrus note that is further enhanced by the tangerine, and the honeysuckle brings the sweetness and funkyness. It's wierd, but good wierd. Love stuff like this."
-    },
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "This is a lovely little mix. The tangerine is a nice, bright burst of citrus in a bed of lush, juicy and sweet (thanks honeysuckle) hops. This is what a craft beer should taste like. I'd drain a sixer of this like I drained the bottle I made. 10ml gone in under 48 hours, and in a MTL tank. Sooo damned good!"
-    },
-    {
-      "user": "Xist",
-      "score": "5",
-      "text": "Just mixed this a minute ago, and my first impressions are quite promising...Strong flavor for a low percentage mix, and I'm digging the simple citrus flavor.  I'm finding that I really love Yakima Hops, which is the main reason I chose to mix.  Nice blend!"
-    }
-  ]
+    "name": "Hop Along Sally",
+    "description": "An easy 1-2-3 Hoppy Citrus mix.\r\n\r\nCredit to eyemakepizza and ID10-T for the remaining pieces! ",
+    "id": 142567,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:52:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2313",
+    "created_at": "2019-03-13",
+    "slug": "hop_along_sally",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "staybert",
+            "score": 5,
+            "text": "Been looking for a recipe that goes well with beer, and this is the best one I have tried. The hops has a slight citrus note that is further enhanced by the tangerine, and the honeysuckle brings the sweetness and funkyness. It's wierd, but good wierd. Love stuff like this."
+        },
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "This is a lovely little mix. The tangerine is a nice, bright burst of citrus in a bed of lush, juicy and sweet (thanks honeysuckle) hops. This is what a craft beer should taste like. I'd drain a sixer of this like I drained the bottle I made. 10ml gone in under 48 hours, and in a MTL tank. Sooo damned good!"
+        },
+        {
+            "user": "Xist",
+            "score": 5,
+            "text": "Just mixed this a minute ago, and my first impressions are quite promising...Strong flavor for a low percentage mix, and I'm digging the simple citrus flavor.  I'm finding that I really love Yakima Hops, which is the main reason I chose to mix.  Nice blend!"
+        }
+    ]
 }

@@ -1,86 +1,88 @@
 {
-  "name": "Banana Nut - Strawberry Cheese Cake",
-  "description": "I really like layered vape recipes and I try to create at least 1 a month with this being the recipe for the my month.. This is my rendition of something I had seen when I first started to D.I.Y. and I have struggled with in the beginning and I think I have the right amount of everything for the correct tastes so what better then the best of 2 worlds.. Banana Nut Bread with Strawberry Cheesecake combined into one hell of a vape.. Slight coconut hint with the right cream and vanilla. \r\n",
-  "id": 92222,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92222/strawberry-cream-cheese-banana-nut-bread-feature.jpg",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "640",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MarkSr",
-  "views": "2581",
-  "slug": "banana_nut_strawberry_cheese_cake",
-  "total_flavoring": "11.4%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "Really well balanced Banana nut recipe. Thank you."
-    },
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "looks good"
-    }
-  ]
+    "name": "Banana Nut - Strawberry Cheese Cake",
+    "description": "I really like layered vape recipes and I try to create at least 1 a month with this being the recipe for the my month.. This is my rendition of something I had seen when I first started to D.I.Y. and I have struggled with in the beginning and I think I have the right amount of everything for the correct tastes so what better then the best of 2 worlds.. Banana Nut Bread with Strawberry Cheesecake combined into one hell of a vape.. Slight coconut hint with the right cream and vanilla. \r\n",
+    "id": 92222,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92222\/strawberry-cream-cheese-banana-nut-bread-feature.jpg",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "640",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MarkSr",
+    "views": "2588",
+    "created_at": "2018-03-13",
+    "slug": "banana_nut_strawberry_cheese_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92222.jpg",
+    "total_flavoring": "11.4%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "Really well balanced Banana nut recipe. Thank you."
+        },
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "looks good"
+        }
+    ]
 }

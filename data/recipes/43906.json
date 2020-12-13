@@ -1,68 +1,68 @@
 {
-  "name": "Fruity Loopers",
-  "description": "A fruit loops with milk recipe. Lemon is the main note you will taste its not a pungent lemon flavor more like a sweet candied lemon flavor helped out by a noticeable sweet candied orange flavor with accents of a candied strawberry all sitting in a amazing puffed corn base with the perfect amount of sweet cereal milk. Really good stuff!\r\n",
-  "id": 43906,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/43906/froot-loops.jpg",
-  "updated_at": "2020-12-07T21:31:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Rings",
-      "flavor_id": "1285",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Fuzzy055",
-  "views": "1733",
-  "slug": "fruity_loopers",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fruity Loopers",
+    "description": "A fruit loops with milk recipe. Lemon is the main note you will taste its not a pungent lemon flavor more like a sweet candied lemon flavor helped out by a noticeable sweet candied orange flavor with accents of a candied strawberry all sitting in a amazing puffed corn base with the perfect amount of sweet cereal milk. Really good stuff!\r\n",
+    "id": 43906,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/43906\/froot-loops.jpg",
+    "updated_at": "2020-12-10T16:00:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Rings",
+            "flavor_id": "1285",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Fuzzy055",
+    "views": "1739",
+    "created_at": "2017-04-30",
+    "slug": "fruity_loopers",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/43906.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

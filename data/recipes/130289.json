@@ -1,50 +1,50 @@
 {
-  "name": "Sephie’s Just Desserts",
-  "description": "Jen Jarvis asked if I would like to make a fantasy based mix for her show. This is part of a multi show series she is doing. It sounded like so much fun, I was happy to take part. I decided to base a flavor off of Sephiroth from FF7. He is dressed in black and grey, reminding me of a black tea. What goes well with black tea, but some honey. I enjoy floral teas as well; enjoying rose, I decided to add that. Most of all, I enjoy ice cream. So how about an amalgamation of all this! I decided to make a rose water, black tea ice cream with honey. ",
-  "id": 130289,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/130289/C82BDA43-8793-4DAE-AFF1-299B4D078102.jpeg",
-  "updated_at": "2020-11-29T20:40:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black tea",
-      "flavor_id": "9377",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rose",
-      "flavor_id": "511",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1186",
-  "slug": "sephies_just_desserts",
-  "total_flavoring": "6.45%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "400",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Sephie\u2019s Just Desserts",
+    "description": "Jen Jarvis asked if I would like to make a fantasy based mix for her show. This is part of a multi show series she is doing. It sounded like so much fun, I was happy to take part. I decided to base a flavor off of Sephiroth from FF7. He is dressed in black and grey, reminding me of a black tea. What goes well with black tea, but some honey. I enjoy floral teas as well; enjoying rose, I decided to add that. Most of all, I enjoy ice cream. So how about an amalgamation of all this! I decided to make a rose water, black tea ice cream with honey. ",
+    "id": 130289,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/130289\/C82BDA43-8793-4DAE-AFF1-299B4D078102.jpeg",
+    "updated_at": "2020-12-10T17:57:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black tea",
+            "flavor_id": "9377",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rose",
+            "flavor_id": "511",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1194",
+    "created_at": "2018-12-05",
+    "slug": "sephies_just_desserts",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/130289.jpeg",
+    "total_flavoring": "6.45%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "400"
 }

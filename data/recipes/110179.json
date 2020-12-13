@@ -1,50 +1,49 @@
 {
-  "name": "Raspeachy Tea",
-  "description": "My inaugural entry!  I feel that this is a good full-bodied SNV raspberry-peach sweet tea.  ",
-  "id": 110179,
-  "image_url": null,
-  "updated_at": "2020-12-06T23:07:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Green Tea",
-      "flavor_id": "1640",
-      "millipercent": 500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "1497",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "268",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Microbe",
-  "views": "1019",
-  "slug": "raspeachy_tea",
-  "total_flavoring": "13.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspeachy Tea",
+    "description": "My inaugural entry!  I feel that this is a good full-bodied SNV raspberry-peach sweet tea.  ",
+    "id": 110179,
+    "image_url": null,
+    "updated_at": "2020-12-12T05:50:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Green Tea",
+            "flavor_id": "1640",
+            "millipercent": 500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "1497",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "268",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Microbe",
+    "views": "1028",
+    "created_at": "2018-07-14",
+    "slug": "raspeachy_tea",
+    "total_flavoring": "13.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

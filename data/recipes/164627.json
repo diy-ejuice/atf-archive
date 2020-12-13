@@ -1,68 +1,68 @@
 {
-  "name": "Cherry Chola",
-  "description": "Surprisingly delicious cherry cola bottle gummy. The fusion of cola gummy candy and flv's new cola is surprisingly delightful. Tart cherry by cap and black cherry by TFA make a slightly syrupy, non-medical cherry that completes the synergy. Vanilla marshmallow by flv is great for a little extra mouthfeel and to give that coke some much needed vanilla.",
-  "id": 164627,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/164627/20190827_080737.jpg",
-  "updated_at": "2020-12-06T20:45:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cola Gummy SC",
-      "flavor_id": "10125",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cola",
-      "flavor_id": "10084",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Black Cherry",
-      "flavor_id": "212",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tart Cherry",
-      "flavor_id": "10052",
-      "millipercent": 650,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow Vanilla",
-      "flavor_id": "10092",
-      "millipercent": 700,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sour Ball Candy SC",
-      "flavor_id": "9046",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 850,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MikeyPA17",
-  "views": "902",
-  "slug": "cherry_chola",
-  "total_flavoring": "10.45%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherry Chola",
+    "description": "Surprisingly delicious cherry cola bottle gummy. The fusion of cola gummy candy and flv's new cola is surprisingly delightful. Tart cherry by cap and black cherry by TFA make a slightly syrupy, non-medical cherry that completes the synergy. Vanilla marshmallow by flv is great for a little extra mouthfeel and to give that coke some much needed vanilla.",
+    "id": 164627,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/164627\/20190827_080737.jpg",
+    "updated_at": "2020-12-11T03:38:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cola Gummy SC",
+            "flavor_id": "10125",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cola",
+            "flavor_id": "10084",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Black Cherry",
+            "flavor_id": "212",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tart Cherry",
+            "flavor_id": "10052",
+            "millipercent": 650,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow Vanilla",
+            "flavor_id": "10092",
+            "millipercent": 700,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sour Ball Candy SC",
+            "flavor_id": "9046",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 850,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MikeyPA17",
+    "views": "912",
+    "created_at": "2019-08-27",
+    "slug": "cherry_chola",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/164627.jpg",
+    "total_flavoring": "10.45%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

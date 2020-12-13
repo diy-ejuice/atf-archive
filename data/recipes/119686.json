@@ -1,88 +1,90 @@
 {
-  "name": "Bland",
-  "description": "This is a test recipe, i wouldn't make it this is only a test",
-  "id": 119686,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/119686/SmartSelect_20180917-224238_Instagram.jpg",
-  "updated_at": "2020-12-08T00:50:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Dank1",
-  "views": "5337",
-  "slug": "bland",
-  "total_flavoring": "10.0%",
-  "steep_days": "365",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 12,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "toprod",
-      "score": "none",
-      "text": "Delicious i removed the CAP Super Sweet and added (DOD) Water Malone @10%"
-    },
-    {
-      "user": "Echodub",
-      "score": "3",
-      "text": "it's punchy, mouthfeel is good, sweetness is there.. could be an all time classic"
-    },
-    {
-      "user": "pyroxian",
-      "score": "1",
-      "text": "Pointless. Publishing a test recipe doesn't contribute anything of value to this service. Please just remove it."
-    },
-    {
-      "user": "stevenv84",
-      "score": "5",
-      "text": "I had to pick this flavor up for the review and man was this a good one to have :) "
-    },
-    {
-      "user": "kallyver",
-      "score": "none",
-      "text": "Nice and sweet"
-    },
-    {
-      "user": "Screwdriver",
-      "score": "none",
-      "text": "Maybe it needs some EM"
-    },
-    {
-      "user": "HowieDIY",
-      "score": "1",
-      "text": "WTF.  Was the test to see if you could make it on the top viewed?"
-    },
-    {
-      "user": "Deetzz",
-      "score": "none",
-      "text": "Looks like a pretty decent VGod Clone?"
-    },
-    {
-      "user": "xx2000xx",
-      "score": "none",
-      "text": "Is that you Wayne?"
-    },
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": "this recipe go hard tho"
-    },
-    {
-      "user": "PCHEFLIN",
-      "score": "1",
-      "text": "why publish a test... grrrrrr"
-    },
-    {
-      "user": "MediocreVibes",
-      "score": "5",
-      "text": "Tastes just like Premium juice. 5/5"
-    }
-  ]
+    "name": "Bland",
+    "description": "This is a test recipe, i wouldn't make it this is only a test",
+    "id": 119686,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/119686\/SmartSelect_20180917-224238_Instagram.jpg",
+    "updated_at": "2020-12-12T11:52:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Dank1",
+    "views": "5354",
+    "created_at": "2018-09-19",
+    "slug": "bland",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/119686.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "365",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 12,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "toprod",
+            "score": 0,
+            "text": "Delicious i removed the CAP Super Sweet and added (DOD) Water Malone @10%"
+        },
+        {
+            "user": "Echodub",
+            "score": 3,
+            "text": "it's punchy, mouthfeel is good, sweetness is there.. could be an all time classic"
+        },
+        {
+            "user": "pyroxian",
+            "score": 1,
+            "text": "Pointless. Publishing a test recipe doesn't contribute anything of value to this service. Please just remove it."
+        },
+        {
+            "user": "stevenv84",
+            "score": 5,
+            "text": "I had to pick this flavor up for the review and man was this a good one to have :) "
+        },
+        {
+            "user": "kallyver",
+            "score": 0,
+            "text": "Nice and sweet"
+        },
+        {
+            "user": "Screwdriver",
+            "score": 0,
+            "text": "Maybe it needs some EM"
+        },
+        {
+            "user": "HowieDIY",
+            "score": 1,
+            "text": "WTF.  Was the test to see if you could make it on the top viewed?"
+        },
+        {
+            "user": "Deetzz",
+            "score": 0,
+            "text": "Looks like a pretty decent VGod Clone?"
+        },
+        {
+            "user": "xx2000xx",
+            "score": 0,
+            "text": "Is that you Wayne?"
+        },
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": "this recipe go hard tho"
+        },
+        {
+            "user": "PCHEFLIN",
+            "score": 1,
+            "text": "why publish a test... grrrrrr"
+        },
+        {
+            "user": "MediocreVibes",
+            "score": 5,
+            "text": "Tastes just like Premium juice. 5\/5"
+        }
+    ]
 }

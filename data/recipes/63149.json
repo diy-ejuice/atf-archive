@@ -1,56 +1,56 @@
 {
-  "name": "Blue Gummy",
-  "description": "I enjoyed EdibleMalfunction's Blue Raspberry candy so I decided to try and take it in a little bit of a different direction. I took his/her use of Raspberry and Peach, to create the Blue Raspberry flavour. And gave it an extra kick with the Blue Raspberry Cotton Candy. I also changed the CAP Jelly Candy to 27 Bears as I really enjoy the flavour and the gummy mouthfeel. I have tested with CAP Jelly Candy and it is really good as well.",
-  "id": 63149,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63149/Blue_Gummy.png",
-  "updated_at": "2020-12-07T17:34:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "FizzChaser",
-  "views": "3627",
-  "slug": "blue_gummy",
-  "total_flavoring": "15.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blue Gummy",
+    "description": "I enjoyed EdibleMalfunction's Blue Raspberry candy so I decided to try and take it in a little bit of a different direction. I took his\/her use of Raspberry and Peach, to create the Blue Raspberry flavour. And gave it an extra kick with the Blue Raspberry Cotton Candy. I also changed the CAP Jelly Candy to 27 Bears as I really enjoy the flavour and the gummy mouthfeel. I have tested with CAP Jelly Candy and it is really good as well.",
+    "id": 63149,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63149\/Blue_Gummy.png",
+    "updated_at": "2020-12-12T03:45:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "FizzChaser",
+    "views": "3639",
+    "created_at": "2017-09-09",
+    "slug": "blue_gummy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63149.png",
+    "total_flavoring": "15.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

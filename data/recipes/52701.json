@@ -1,56 +1,55 @@
 {
-  "name": "Peppermint Crisp Tart",
-  "description": "Traditional South African dessert, minty biscuit undertones and lots of sweet caramel",
-  "id": 52701,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:32:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "CrÈme De Menthe",
-      "flavor_id": "1266",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Moonunit",
-  "views": "1307",
-  "slug": "peppermint_crisp_tart",
-  "total_flavoring": "7.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peppermint Crisp Tart",
+    "description": "Traditional South African dessert, minty biscuit undertones and lots of sweet caramel",
+    "id": 52701,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cr\u00c8me De Menthe",
+            "flavor_id": "1266",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Moonunit",
+    "views": "1312",
+    "created_at": "2017-06-26",
+    "slug": "peppermint_crisp_tart",
+    "total_flavoring": "7.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

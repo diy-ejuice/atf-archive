@@ -1,50 +1,50 @@
 {
-  "name": "Rin's Blueberry Violet Meringue Pie",
-  "description": "Violet Blueberry meringue top layer, lemon layer underneath. Whipped cream and marshmallow to add to meringue. Slightly floral because of the Parma Violet so you can omit if you do not have or like but it does give it a unique flavor",
-  "id": 199015,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199015/pie.png",
-  "updated_at": "2020-12-07T02:17:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Parma Violet",
-      "flavor_id": "5410",
-      "millipercent": 250,
-      "vendor": "DV"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6582",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "459",
-  "slug": "rins_blueberry_violet_meringue_pie",
-  "total_flavoring": "4.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Blueberry Violet Meringue Pie",
+    "description": "Violet Blueberry meringue top layer, lemon layer underneath. Whipped cream and marshmallow to add to meringue. Slightly floral because of the Parma Violet so you can omit if you do not have or like but it does give it a unique flavor",
+    "id": 199015,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/199015\/pie.png",
+    "updated_at": "2020-12-11T14:10:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Parma Violet",
+            "flavor_id": "5410",
+            "millipercent": 250,
+            "vendor": "DV"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6582",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "465",
+    "created_at": "2020-06-28",
+    "slug": "rins_blueberry_violet_meringue_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/199015.png",
+    "total_flavoring": "4.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

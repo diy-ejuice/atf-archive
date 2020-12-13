@@ -1,56 +1,58 @@
 {
-  "name": "Platinum Blonde",
-  "description": "Lets face it, blondes have more fun. This is my take on a blonde s'more. While I don't have any marshmallow flavor in here, the vanilla and smoked butterscotch provide that toasty fluffiness you want. Pair that with the delicious fw butterscotch and fa graham crust and you have a delicious blonde s'more. I know a lot of people prefer fw graham cracker and I was one of them, but fa graham crust provides a cleaner more authentic flavor. ",
-  "id": 145869,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145869/platinum_blonde.jpg",
-  "updated_at": "2020-12-08T00:50:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Graham Crust",
-      "flavor_id": "9950",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Smoked Butterscotch",
-      "flavor_id": "8569",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "3342",
-  "slug": "platinum_blonde",
-  "total_flavoring": "6.75%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Freshepies",
-      "score": "5",
-      "text": "Great butterscotch/caramel smore flavor right away that just gets richer and richer as it steeps.  Fantastic balance for such a simple recipe.   Well done Emily!  I still won't forgive you. "
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "Absolutely stellar right on the shake. I can't wait to see  how it steeps!"
-    }
-  ]
+    "name": "Platinum Blonde",
+    "description": "Lets face it, blondes have more fun. This is my take on a blonde s'more. While I don't have any marshmallow flavor in here, the vanilla and smoked butterscotch provide that toasty fluffiness you want. Pair that with the delicious fw butterscotch and fa graham crust and you have a delicious blonde s'more. I know a lot of people prefer fw graham cracker and I was one of them, but fa graham crust provides a cleaner more authentic flavor. ",
+    "id": 145869,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145869\/platinum_blonde.jpg",
+    "updated_at": "2020-12-12T14:07:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Graham Crust",
+            "flavor_id": "9950",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Smoked Butterscotch",
+            "flavor_id": "8569",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "3351",
+    "created_at": "2019-04-05",
+    "slug": "platinum_blonde",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145869.jpg",
+    "total_flavoring": "6.75%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Freshepies",
+            "score": 5,
+            "text": "Great butterscotch\/caramel smore flavor right away that just gets richer and richer as it steeps.  Fantastic balance for such a simple recipe.   Well done Emily!  I still won't forgive you. "
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "Absolutely stellar right on the shake. I can't wait to see  how it steeps!"
+        }
+    ]
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Rin's Peanut Butter Coffee Ice Cream",
-  "description": "Coffee ice cream base with chocolate and peanut butter throughout. Honeycomb is used to sweeten and bring out Reese like notes from the peanut butter. Australian chocolate added to darken chocolate notes slightly and bring them more forward as the Chocolate Peanut butter milk is mainly PB to me. WF Cap adds a light coffee note added with the LB Vanilla ice cream to make the ice cream base",
-  "id": 188928,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188928/82283748_3010546445646015_6601017919637815296_n.png",
-  "updated_at": "2020-12-07T20:33:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Smooth Cappuccino Cream",
-      "flavor_id": "6060",
-      "millipercent": 250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Chocolate Peanut Butter Milk",
-      "flavor_id": "10426",
-      "millipercent": 3000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "640",
-  "slug": "rins_peanut_butter_coffee_ice_cream",
-  "total_flavoring": "7.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Peanut Butter Coffee Ice Cream",
+    "description": "Coffee ice cream base with chocolate and peanut butter throughout. Honeycomb is used to sweeten and bring out Reese like notes from the peanut butter. Australian chocolate added to darken chocolate notes slightly and bring them more forward as the Chocolate Peanut butter milk is mainly PB to me. WF Cap adds a light coffee note added with the LB Vanilla ice cream to make the ice cream base",
+    "id": 188928,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/188928\/82283748_3010546445646015_6601017919637815296_n.png",
+    "updated_at": "2020-12-12T00:42:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Smooth Cappuccino Cream",
+            "flavor_id": "6060",
+            "millipercent": 250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Chocolate Peanut Butter Milk",
+            "flavor_id": "10426",
+            "millipercent": 3000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "650",
+    "created_at": "2020-03-22",
+    "slug": "rins_peanut_butter_coffee_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/188928.png",
+    "total_flavoring": "7.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

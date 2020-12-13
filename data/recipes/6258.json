@@ -1,63 +1,65 @@
 {
-  "name": "Guava Cheesecake",
-  "description": "Guava Cheesecake with a nice thick crust... For some reason the INW Biscuit really shines in this recipe... I think it's great straight away but like always gets better with a steep...",
-  "id": 6258,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6258/images__9_.jpg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "1797",
-  "slug": "guava_cheesecake",
-  "total_flavoring": "12.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Elvieann",
-      "score": "5",
-      "text": "This is delicious."
-    }
-  ]
+    "name": "Guava Cheesecake",
+    "description": "Guava Cheesecake with a nice thick crust... For some reason the INW Biscuit really shines in this recipe... I think it's great straight away but like always gets better with a steep...",
+    "id": 6258,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6258\/images__9_.jpg",
+    "updated_at": "2020-12-12T10:32:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "1807",
+    "created_at": "2016-07-01",
+    "slug": "guava_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6258.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Elvieann",
+            "score": 5,
+            "text": "This is delicious."
+        }
+    ]
 }

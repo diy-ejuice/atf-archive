@@ -1,72 +1,74 @@
 {
-  "name": "Holy Custard",
-  "description": "A delicious Shake and Vape Custard with a sweet vanilla top note, and a robust vanilla custard finish. \r\n\r\nMade for DIYFS Holy Vanilla Flavorbook Entry:\r\n",
-  "id": 145434,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145434/diyfs-holy-vanilla-ATF.jpg",
-  "updated_at": "2020-12-08T00:50:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 3000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "8314",
-  "slug": "holy_custard",
-  "total_flavoring": "10.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "just made this with holy vanilla V2 and holy Jesus this shit is good man . next mix i’m going to drop the super sweet down to 0.25 % it’s a buttery vape and the 0.5% super sweet is just making the flavor come out more than needed for me . but i’ll see how the steep goes . other than that this is a ridiculously good custard like ive never have had a custard this fucking good . thumbs tf up "
-    },
-    {
-      "user": "elsignor",
-      "score": "5",
-      "text": "A really really good one. It is vanilla paradise, just sweet as it should be with a nice creamy finish. Thanks Wayne "
-    },
-    {
-      "user": "Slushy",
-      "score": "none",
-      "text": "Going to mix this with Capella v1 and order Inw custard and review this recipe since people on ATF hardly give any insight on other mixers recipes .I also could see this being a good starting point for a custard base maybe turning down the Capella NY cheesecake 1%  the Holy vanilla  to make room for some fruit.."
-    },
-    {
-      "user": "EdibleMalfunction",
-      "score": "none",
-      "text": "I'd like to see the development for this recipe"
-    }
-  ]
+    "name": "Holy Custard",
+    "description": "A delicious Shake and Vape Custard with a sweet vanilla top note, and a robust vanilla custard finish. \r\n\r\nMade for DIYFS Holy Vanilla Flavorbook Entry:\r\n",
+    "id": 145434,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145434\/diyfs-holy-vanilla-ATF.jpg",
+    "updated_at": "2020-12-12T14:07:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 3000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "8330",
+    "created_at": "2019-04-02",
+    "slug": "holy_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145434.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "just made this with holy vanilla V2 and holy Jesus this shit is good man . next mix i\u2019m going to drop the super sweet down to 0.25 % it\u2019s a buttery vape and the 0.5% super sweet is just making the flavor come out more than needed for me . but i\u2019ll see how the steep goes . other than that this is a ridiculously good custard like ive never have had a custard this fucking good . thumbs tf up "
+        },
+        {
+            "user": "elsignor",
+            "score": 5,
+            "text": "A really really good one. It is vanilla paradise, just sweet as it should be with a nice creamy finish. Thanks Wayne "
+        },
+        {
+            "user": "Slushy",
+            "score": 0,
+            "text": "Going to mix this with Capella v1 and order Inw custard and review this recipe since people on ATF hardly give any insight on other mixers recipes .I also could see this being a good starting point for a custard base maybe turning down the Capella NY cheesecake 1%  the Holy vanilla  to make room for some fruit.."
+        },
+        {
+            "user": "EdibleMalfunction",
+            "score": 0,
+            "text": "I'd like to see the development for this recipe"
+        }
+    ]
 }

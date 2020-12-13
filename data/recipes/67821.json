@@ -1,85 +1,87 @@
 {
-  "name": "Fitz’s",
-  "description": "Fitz’s is a championed St. Louis root beer. This recipe attempts to mimic it with FLV Root Beer and Holy Vanilla. Root Beer is top heavy with an incredible wintergreen note. Holy Vanilla adds some dark, spicy, and creamy backbone to the profile. Super Sweet is needed here to get that sticky, soda sweetness. 0.25% is my personal preference, but you can bump it up if you really want that sugar lips sensation.\r\n\r\nShake and vape certified. It should become even more cohesive over the course of a week as the root beer relaxes further into the vanilla.\r\n\r\nHappy mixing. 👽",
-  "id": 67821,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/67821/E7FBAE91-634E-46A5-8282-C0786CA7E161.jpeg",
-  "updated_at": "2020-12-08T00:49:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 5000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MrBurgundy",
-  "views": "4580",
-  "slug": "fitzs",
-  "total_flavoring": "6.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 9,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Just beautiful! Never had a real root beer before but now Imma definitely need to try one!"
-    },
-    {
-      "user": "Scism",
-      "score": "5",
-      "text": "Good root beer vape, I will most likely use the rest of my holy vanilla on this."
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Hands my favorite of the 3 root beer float style recipes i have tried using FLV Root Beer. It simple an absolutely delicious. The rootbeer is the main star even get the lovely wintergreen like note that flv has in. Excellent job thanks for sharing. "
-    },
-    {
-      "user": "goosegirl",
-      "score": "5",
-      "text": "I have been vaping a commercial root beer e-liquid for years, and as I moved to DIY,  this was one of the first recipes I tried.  It is at least as good as the commercial liquid.  Great mouth-feel.  Thank you for giving me a great start in DIY.&#xD;\n"
-    },
-    {
-      "user": "AlfredPudding",
-      "score": "5",
-      "text": "This recipe is absolutely phenomenal. I was expecting the Holy Vanilla to add some textural components that would interfere with FLV Root Beer's foamy mouthfeel, but I was completely wrong. Holy Vanilla was the perfect choice to fill in the thin part and make this into a 10/10 root beer vape. You still get all of the awesome wintergreen and spice and the vanilla just blends into it beautifully. "
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "FLV Root Beer is awesome, but there's a weak spot between those superbly kickin’ top notes and the kinda foamy finish that helps make it the only root beer flavor I've tried that reminds me more of real root beer and less of those gnarly little barrel candies. A sweet, syrupy soda flavor would have been my first choice to fill that hole, as the vanilla already seemed well-balanced in the flavor itself to me. But it appears like that might be a mistake, as this uses Holy Vanilla to fill it out instead of some soda or a syrupier root beer flavor, and Holy Hell is it fantastic! I've never had a Fitz's Root Beer, but this is so good it’s got me seriously eyeballing that $29 twelve-pack on Amazon. &#xD;\nThat little touch of super sweet doesn't hurt at all, either. Mr. B says you can bump it up but I wouldn't. At 0.25% it really sells that soda sweet without calling any attention to itself at all. Just my $0.02 but I'm afraid any more might be obtrusive and turn it into diet vanilla root beer. And we wouldn't want that."
-    },
-    {
-      "user": "NeuerTK",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "MrZigglesworth",
-      "score": "5",
-      "text": "Soda recipes can be difficult, but this one was amazing! Definitely worth a try if you want something soda-like and love root beer."
-    },
-    {
-      "user": "Schlayer",
-      "score": "5",
-      "text": "Great shake and vape ! Love flv root beer and the wintergreen kick. Holy vanilla adds that nice vanilla cream note to the body. Tastes close to a barrel candy when my wick is getting dry on my hadaly. Excellent work! "
-    }
-  ]
+    "name": "Fitz\u2019s",
+    "description": "Fitz\u2019s is a championed St. Louis root beer. This recipe attempts to mimic it with FLV Root Beer and Holy Vanilla. Root Beer is top heavy with an incredible wintergreen note. Holy Vanilla adds some dark, spicy, and creamy backbone to the profile. Super Sweet is needed here to get that sticky, soda sweetness. 0.25% is my personal preference, but you can bump it up if you really want that sugar lips sensation.\r\n\r\nShake and vape certified. It should become even more cohesive over the course of a week as the root beer relaxes further into the vanilla.\r\n\r\nHappy mixing. \ud83d\udc7d",
+    "id": 67821,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/67821\/E7FBAE91-634E-46A5-8282-C0786CA7E161.jpeg",
+    "updated_at": "2020-12-12T11:51:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 5000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MrBurgundy",
+    "views": "4593",
+    "created_at": "2017-10-11",
+    "slug": "fitzs",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/67821.jpeg",
+    "total_flavoring": "6.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 9,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Just beautiful! Never had a real root beer before but now Imma definitely need to try one!"
+        },
+        {
+            "user": "Scism",
+            "score": 5,
+            "text": "Good root beer vape, I will most likely use the rest of my holy vanilla on this."
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Hands my favorite of the 3 root beer float style recipes i have tried using FLV Root Beer. It simple an absolutely delicious. The rootbeer is the main star even get the lovely wintergreen like note that flv has in. Excellent job thanks for sharing. "
+        },
+        {
+            "user": "goosegirl",
+            "score": 5,
+            "text": "I have been vaping a commercial root beer e-liquid for years, and as I moved to DIY,  this was one of the first recipes I tried.  It is at least as good as the commercial liquid.  Great mouth-feel.  Thank you for giving me a great start in DIY.&#xD;\n"
+        },
+        {
+            "user": "AlfredPudding",
+            "score": 5,
+            "text": "This recipe is absolutely phenomenal. I was expecting the Holy Vanilla to add some textural components that would interfere with FLV Root Beer's foamy mouthfeel, but I was completely wrong. Holy Vanilla was the perfect choice to fill in the thin part and make this into a 10\/10 root beer vape. You still get all of the awesome wintergreen and spice and the vanilla just blends into it beautifully. "
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "FLV Root Beer is awesome, but there's a weak spot between those superbly kickin\u2019 top notes and the kinda foamy finish that helps make it the only root beer flavor I've tried that reminds me more of real root beer and less of those gnarly little barrel candies. A sweet, syrupy soda flavor would have been my first choice to fill that hole, as the vanilla already seemed well-balanced in the flavor itself to me. But it appears like that might be a mistake, as this uses Holy Vanilla to fill it out instead of some soda or a syrupier root beer flavor, and Holy Hell is it fantastic! I've never had a Fitz's Root Beer, but this is so good it\u2019s got me seriously eyeballing that $29 twelve-pack on Amazon. &#xD;\nThat little touch of super sweet doesn't hurt at all, either. Mr. B says you can bump it up but I wouldn't. At 0.25% it really sells that soda sweet without calling any attention to itself at all. Just my $0.02 but I'm afraid any more might be obtrusive and turn it into diet vanilla root beer. And we wouldn't want that."
+        },
+        {
+            "user": "NeuerTK",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "MrZigglesworth",
+            "score": 5,
+            "text": "Soda recipes can be difficult, but this one was amazing! Definitely worth a try if you want something soda-like and love root beer."
+        },
+        {
+            "user": "Schlayer",
+            "score": 5,
+            "text": "Great shake and vape ! Love flv root beer and the wintergreen kick. Holy vanilla adds that nice vanilla cream note to the body. Tastes close to a barrel candy when my wick is getting dry on my hadaly. Excellent work! "
+        }
+    ]
 }

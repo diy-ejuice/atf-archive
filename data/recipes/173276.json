@@ -1,44 +1,44 @@
 {
-  "name": "Wendy's fresh Cream",
-  "description": "A quick strawberry Ice cream with whipped cream done on Wendy Vapes Show.",
-  "id": 173276,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173276/hqdefault.jpg",
-  "updated_at": "2020-12-05T05:17:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "1460",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1603",
-  "slug": "wendys_fresh_cream",
-  "total_flavoring": "15.25%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Wendy's fresh Cream",
+    "description": "A quick strawberry Ice cream with whipped cream done on Wendy Vapes Show.",
+    "id": 173276,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/173276\/hqdefault.jpg",
+    "updated_at": "2020-12-10T16:01:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "1460",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1612",
+    "created_at": "2019-11-04",
+    "slug": "wendys_fresh_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/173276.jpg",
+    "total_flavoring": "15.25%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

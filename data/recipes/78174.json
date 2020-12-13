@@ -1,50 +1,49 @@
 {
-  "name": "Melon & Cream",
-  "description": "This is a really simple and really tasty Watermelon and cream mix. Its perfect right off the shake, and great to vape in between some bakery flavors and other mixes. Its a perfect light melon mix. I hope you enjoy it like i did/do.",
-  "id": 78174,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:15:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 2000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Friction2600",
-  "views": "997",
-  "slug": "melon_cream",
-  "total_flavoring": "10.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Melon & Cream",
+    "description": "This is a really simple and really tasty Watermelon and cream mix. Its perfect right off the shake, and great to vape in between some bakery flavors and other mixes. Its a perfect light melon mix. I hope you enjoy it like i did\/do.",
+    "id": 78174,
+    "image_url": null,
+    "updated_at": "2020-12-10T22:32:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 2000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Friction2600",
+    "views": "1006",
+    "created_at": "2017-12-09",
+    "slug": "melon_cream",
+    "total_flavoring": "10.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

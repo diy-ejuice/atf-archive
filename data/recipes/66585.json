@@ -1,63 +1,65 @@
 {
-  "name": "V-Famous ",
-  "description": "A tobacco recipe with tobacco , caramel, vanilla , cookie and creamy hazelnut.",
-  "id": 66585,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/66585/17861809_10208341766614203_263472861198068490_n.jpg",
-  "updated_at": "2020-12-08T00:49:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Burley",
-      "flavor_id": "435",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 700,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1300,
-      "vendor": "INW"
-    }
-  ],
-  "author": "VladimirosStafylidis",
-  "views": "1228",
-  "slug": "vfamous",
-  "total_flavoring": "4.5%",
-  "steep_days": "20",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "tasosetsi",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "V-Famous ",
+    "description": "A tobacco recipe with tobacco , caramel, vanilla , cookie and creamy hazelnut.",
+    "id": 66585,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/66585\/17861809_10208341766614203_263472861198068490_n.jpg",
+    "updated_at": "2020-12-12T11:51:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Burley",
+            "flavor_id": "435",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 700,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1300,
+            "vendor": "INW"
+        }
+    ],
+    "author": "VladimirosStafylidis",
+    "views": "1232",
+    "created_at": "2017-10-04",
+    "slug": "vfamous",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/66585.jpg",
+    "total_flavoring": "4.5%",
+    "steep_days": "20",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "tasosetsi",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,62 +1,62 @@
 {
-  "name": "cigarette",
-  "description": "This is my attemp to create a cigarrette recipe. Based on reviews on noted I went with M-Style because of it's semi close flavor to malrboro (which is what I used to smoke) and FLV Classic cigarette because it is dirty and ashy. I added Black fire for that smoky flavor and DNB for the ash tray flavor. Vanilla because you do feel a hint of vanilla, small but present on Malrboro, it provides a very very light accent. Fa Bitter Wizard to lower the sweetness from the VG.",
-  "id": 151985,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151985/010318marlboro7cs-resized.jpg",
-  "updated_at": "2020-12-07T15:21:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "M-Style",
-      "flavor_id": "3615",
-      "millipercent": 2000,
-      "vendor": "SC"
-    },
-    {
-      "name": "Classic Cigarette",
-      "flavor_id": "4358",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Black Fire",
-      "flavor_id": "458",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bitter Wizard",
-      "flavor_id": "464",
-      "millipercent": 300,
-      "vendor": "FA"
-    }
-  ],
-  "author": "kroganeater",
-  "views": "2023",
-  "slug": "cigarette",
-  "total_flavoring": "5.8%",
-  "steep_days": "7",
-  "best_vg": "55%",
-  "temperature": "450",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "cigarette",
+    "description": "This is my attemp to create a cigarrette recipe. Based on reviews on noted I went with M-Style because of it's semi close flavor to malrboro (which is what I used to smoke) and FLV Classic cigarette because it is dirty and ashy. I added Black fire for that smoky flavor and DNB for the ash tray flavor. Vanilla because you do feel a hint of vanilla, small but present on Malrboro, it provides a very very light accent. Fa Bitter Wizard to lower the sweetness from the VG.",
+    "id": 151985,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151985\/010318marlboro7cs-resized.jpg",
+    "updated_at": "2020-12-11T14:04:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "M-Style",
+            "flavor_id": "3615",
+            "millipercent": 2000,
+            "vendor": "SC"
+        },
+        {
+            "name": "Classic Cigarette",
+            "flavor_id": "4358",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Black Fire",
+            "flavor_id": "458",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bitter Wizard",
+            "flavor_id": "464",
+            "millipercent": 300,
+            "vendor": "FA"
+        }
+    ],
+    "author": "kroganeater",
+    "views": "2031",
+    "created_at": "2019-05-18",
+    "slug": "cigarette",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151985.jpg",
+    "total_flavoring": "5.8%",
+    "steep_days": "7",
+    "best_vg": "55%",
+    "temperature": "450"
 }

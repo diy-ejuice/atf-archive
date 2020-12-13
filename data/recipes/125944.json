@@ -1,51 +1,53 @@
 {
-  "name": "Icee Mandarin",
-  "description": "A tantalisingly refreshing, chilled, fresh mandarin vape...\r\n\r\nAnother addition to my Icee range,  this time in the form of a lesser renowned citrus champion, the humble Mandarin. This mix celebrates this unique citrus varietal which is less sour but sweeter and more flavourful than it's well know brother/sister/cousin, the Orange.\r\n\r\nFA Tanger is the star of the show and treated as such. It is an authentic representation of a fresh, sweet tangerine in all it's glory. There is a tinge of zest present which adds a stunning 'bite' when you least expect it.\r\n\r\nCap Sweet Tangerine keeps FA honest and prevents it from being too linear by boosting the sweetness a tad. Combined, these two provide an full burst of tangerine goodness!\r\n\r\nThe FA Cream provides some body & creaminess, allowing the fruit to show their full potential.\r\n\r\nWS23 cools everything down without detracting from the stars of show. Feel free to start the WS23 off at 0.50% and adjust up if required.\r\nSub WS23 with Koolada at your preferred % if preferred.\r\n\r\nGive this baby 3 days or so and she is ready to pop! \r\n",
-  "id": 125944,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/125944/9DA7F399-DB5C-4543-B21F-1817674FB31F.jpeg",
-  "updated_at": "2020-12-08T00:50:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 750,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RudeRudi",
-  "views": "1838",
-  "slug": "icee_mandarin",
-  "total_flavoring": "6.75%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Jthectic",
-      "score": "5",
-      "text": "A cold, refreshing mix. Somewhat reminiscent of an orange tic tac, just with a lighter mandarin sweetness."
-    }
-  ]
+    "name": "Icee Mandarin",
+    "description": "A tantalisingly refreshing, chilled, fresh mandarin vape...\r\n\r\nAnother addition to my Icee range,  this time in the form of a lesser renowned citrus champion, the humble Mandarin. This mix celebrates this unique citrus varietal which is less sour but sweeter and more flavourful than it's well know brother\/sister\/cousin, the Orange.\r\n\r\nFA Tanger is the star of the show and treated as such. It is an authentic representation of a fresh, sweet tangerine in all it's glory. There is a tinge of zest present which adds a stunning 'bite' when you least expect it.\r\n\r\nCap Sweet Tangerine keeps FA honest and prevents it from being too linear by boosting the sweetness a tad. Combined, these two provide an full burst of tangerine goodness!\r\n\r\nThe FA Cream provides some body & creaminess, allowing the fruit to show their full potential.\r\n\r\nWS23 cools everything down without detracting from the stars of show. Feel free to start the WS23 off at 0.50% and adjust up if required.\r\nSub WS23 with Koolada at your preferred % if preferred.\r\n\r\nGive this baby 3 days or so and she is ready to pop! \r\n",
+    "id": 125944,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/125944\/9DA7F399-DB5C-4543-B21F-1817674FB31F.jpeg",
+    "updated_at": "2020-12-12T15:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 750,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RudeRudi",
+    "views": "1848",
+    "created_at": "2018-11-04",
+    "slug": "icee_mandarin",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/125944.jpeg",
+    "total_flavoring": "6.75%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Jthectic",
+            "score": 5,
+            "text": "A cold, refreshing mix. Somewhat reminiscent of an orange tic tac, just with a lighter mandarin sweetness."
+        }
+    ]
 }

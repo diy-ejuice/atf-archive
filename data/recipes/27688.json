@@ -1,50 +1,49 @@
 {
-  "name": "Lost Art Space Rocks Clone",
-  "description": "My take on the awesome Lost Art Space Rocks.  I would say it is about 98% there.",
-  "id": 27688,
-  "image_url": null,
-  "updated_at": "2020-12-07T12:45:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gummi Bear",
-      "flavor_id": "1306",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pink Champagne",
-      "flavor_id": "1380",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Strawberry Candy Rocks",
-      "flavor_id": "2011",
-      "millipercent": 9000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Strawberry Kiwi",
-      "flavor_id": "1422",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "jasoncmt24",
-  "views": "2459",
-  "slug": "lost_art_space_rocks_clone",
-  "total_flavoring": "17.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lost Art Space Rocks Clone",
+    "description": "My take on the awesome Lost Art Space Rocks.  I would say it is about 98% there.",
+    "id": 27688,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:40:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gummi Bear",
+            "flavor_id": "1306",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pink Champagne",
+            "flavor_id": "1380",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Strawberry Candy Rocks",
+            "flavor_id": "2011",
+            "millipercent": 9000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Strawberry Kiwi",
+            "flavor_id": "1422",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "jasoncmt24",
+    "views": "2471",
+    "created_at": "2017-01-20",
+    "slug": "lost_art_space_rocks_clone",
+    "total_flavoring": "17.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

@@ -1,56 +1,55 @@
 {
-  "name": "Dirty Old Man",
-  "description": "I was looking for a tobacco blend that wasn't sweet, but didn't want to go all the way into ashtray territory either. I wanted to capture the deep, rich aroma of a freshly opened pouch of Drum rolling tobacco and add a little smoke to that, and this comes close enough for government work.\r\n\r\nFLV Red Burley and FLV Kentucky Blend are the \"body\" tobaccos and establish a deep \"brown\" foundation. FLV Oak Barrel dries things out a little bit and accents the woody elements, while FLV Beer Nuts adds just enough saltiness to push things a bit further into dry/savory territory.\r\n\r\nINW Tobacco DNB adds ash and smoke, and helps counteract the sweetness of the VG.\r\n\r\nOOO Smokey Bacon pushes things further into savory territory and enhances the smoky/ashy notes from INW Tobacco DNB. It adds some of the missing elements I was looking for in dry tobacco profiles.\r\n\r\nThis recipe sounds a little scary at first blush with INW Tobacco DNB at 1% and the presence of OOO Smokey Bacon, but I promise it doesn't taste like an overflowing pub ashtray seasoned with scorched bacon bits. Instead, it's a very pleasant, dry, savory, smoky tobacco. It's vapable straight from the mixing table, but if you let it sit overnight after mixing, it gets even better. \r\n\r\nIt's tailored for MTL builds, and my reference build for this recipe is a 1 ohm 26 gauge Kanthal coil, 3mm internal diameter, in a QP Gata RTA, running around 18-20 watts. For additional reference, I mixed this using Liquid Barn's 12mg premixed base, which is 80% VG and 20% PG. After mixing, it comes out around 75ish% VG.",
-  "id": 181958,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:56:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Smokey Bacon",
-      "flavor_id": "10436",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Beer Nuts",
-      "flavor_id": "4391",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Oak Barrel",
-      "flavor_id": "8561",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "GreybushTheRotund",
-  "views": "1028",
-  "slug": "dirty_old_man",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dirty Old Man",
+    "description": "I was looking for a tobacco blend that wasn't sweet, but didn't want to go all the way into ashtray territory either. I wanted to capture the deep, rich aroma of a freshly opened pouch of Drum rolling tobacco and add a little smoke to that, and this comes close enough for government work.\r\n\r\nFLV Red Burley and FLV Kentucky Blend are the \"body\" tobaccos and establish a deep \"brown\" foundation. FLV Oak Barrel dries things out a little bit and accents the woody elements, while FLV Beer Nuts adds just enough saltiness to push things a bit further into dry\/savory territory.\r\n\r\nINW Tobacco DNB adds ash and smoke, and helps counteract the sweetness of the VG.\r\n\r\nOOO Smokey Bacon pushes things further into savory territory and enhances the smoky\/ashy notes from INW Tobacco DNB. It adds some of the missing elements I was looking for in dry tobacco profiles.\r\n\r\nThis recipe sounds a little scary at first blush with INW Tobacco DNB at 1% and the presence of OOO Smokey Bacon, but I promise it doesn't taste like an overflowing pub ashtray seasoned with scorched bacon bits. Instead, it's a very pleasant, dry, savory, smoky tobacco. It's vapable straight from the mixing table, but if you let it sit overnight after mixing, it gets even better. \r\n\r\nIt's tailored for MTL builds, and my reference build for this recipe is a 1 ohm 26 gauge Kanthal coil, 3mm internal diameter, in a QP Gata RTA, running around 18-20 watts. For additional reference, I mixed this using Liquid Barn's 12mg premixed base, which is 80% VG and 20% PG. After mixing, it comes out around 75ish% VG.",
+    "id": 181958,
+    "image_url": null,
+    "updated_at": "2020-12-11T21:45:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Smokey Bacon",
+            "flavor_id": "10436",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Beer Nuts",
+            "flavor_id": "4391",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Oak Barrel",
+            "flavor_id": "8561",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "GreybushTheRotund",
+    "views": "1037",
+    "created_at": "2020-01-21",
+    "slug": "dirty_old_man",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420"
 }

@@ -1,75 +1,77 @@
 {
-  "name": "BLUEDOO",
-  "description": "I threw this together a few nights ago on a whim, blueberry was the main feature of the first recipe I ever tried to make myself and it was a complete disaster and hadn't really played with it since so I decided to give it some time with the knowledge that I've gained in the 2 years since and aimed for a cheap shitty store bought frozen blueberry cheesecake.\r\n\r\nCredit to Wayne Walker over at DIYORDIE for inspiration for the Cheesecake base, I just toned down the Graham, VBIC and added some CAP Vanilla Whipped Cream for some extra thickness for that cheap processed frozen supermarket cheesecake base.\r\n\r\nI've used Blueberry Wild for the blueberry, it's not the best but it's all that I had. I was sniffing through my concentrates and noticed the TFA Elderberry smelt very similar to blueberry but a little richer, so I added 1% to add a little extra depth. FA Caramel helps 'jam' it up a little.\r\n\r\nIn all honesty though not much thought went into this, but it tastes pretty damn nice and it will be a new favourite in my \"Shit I need some juice, better bust out a Shake 'N' Vape\" pile and maybe you will enjoy it too.",
-  "id": 39725,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/39725/bluedoo2.jpg",
-  "updated_at": "2020-12-02T08:04:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Elderberry",
-      "flavor_id": "230",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "OpenSauce",
-  "views": "3048",
-  "slug": "bluedoo",
-  "total_flavoring": "13.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "75%",
-  "temperature": "450",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "none",
-      "text": "Been looking for a good cheesecake with a slight cheese note. Could I just use the cheesecake base in this recipe?"
-    }
-  ]
+    "name": "BLUEDOO",
+    "description": "I threw this together a few nights ago on a whim, blueberry was the main feature of the first recipe I ever tried to make myself and it was a complete disaster and hadn't really played with it since so I decided to give it some time with the knowledge that I've gained in the 2 years since and aimed for a cheap shitty store bought frozen blueberry cheesecake.\r\n\r\nCredit to Wayne Walker over at DIYORDIE for inspiration for the Cheesecake base, I just toned down the Graham, VBIC and added some CAP Vanilla Whipped Cream for some extra thickness for that cheap processed frozen supermarket cheesecake base.\r\n\r\nI've used Blueberry Wild for the blueberry, it's not the best but it's all that I had. I was sniffing through my concentrates and noticed the TFA Elderberry smelt very similar to blueberry but a little richer, so I added 1% to add a little extra depth. FA Caramel helps 'jam' it up a little.\r\n\r\nIn all honesty though not much thought went into this, but it tastes pretty damn nice and it will be a new favourite in my \"Shit I need some juice, better bust out a Shake 'N' Vape\" pile and maybe you will enjoy it too.",
+    "id": 39725,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/39725\/bluedoo2.jpg",
+    "updated_at": "2020-12-11T18:23:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Elderberry",
+            "flavor_id": "230",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "OpenSauce",
+    "views": "3053",
+    "created_at": "2017-04-04",
+    "slug": "bluedoo",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/39725.jpg",
+    "total_flavoring": "13.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "75%",
+    "temperature": "450",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 0,
+            "text": "Been looking for a good cheesecake with a slight cheese note. Could I just use the cheesecake base in this recipe?"
+        }
+    ]
 }

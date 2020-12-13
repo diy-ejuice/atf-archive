@@ -1,56 +1,56 @@
 {
-  "name": "Stoned Suckle",
-  "description": "a nice and juicy stone fruit salad with a light refreshing honeysuckle dressing. Perfect for those hot Cali autumn days.",
-  "id": 63679,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63679/Stone-Fruit-Salad-with-Goat-Cheese-600x397.jpg",
-  "updated_at": "2020-12-05T00:28:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Plum",
-      "flavor_id": "810",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ChewingPaintChips",
-  "views": "1071",
-  "slug": "stoned_suckle",
-  "total_flavoring": "8.75%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "99%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Stoned Suckle",
+    "description": "a nice and juicy stone fruit salad with a light refreshing honeysuckle dressing. Perfect for those hot Cali autumn days.",
+    "id": 63679,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63679\/Stone-Fruit-Salad-with-Goat-Cheese-600x397.jpg",
+    "updated_at": "2020-12-10T14:52:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Plum",
+            "flavor_id": "810",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ChewingPaintChips",
+    "views": "1075",
+    "created_at": "2017-09-13",
+    "slug": "stoned_suckle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63679.jpg",
+    "total_flavoring": "8.75%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "99%",
+    "temperature": "420"
 }

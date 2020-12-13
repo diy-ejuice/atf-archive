@@ -1,57 +1,59 @@
 {
-  "name": "Capt. J.T. Kirk",
-  "description": "Had a couple of friends ask me to make this vape. I'm not a big fan of cereal vapes but this one is pretty good.",
-  "id": 95998,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95998/SmartSelect_20180408-131822_Chrome.jpg",
-  "updated_at": "2020-12-08T00:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 3750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 660,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1681",
-  "slug": "capt_jt_kirk",
-  "total_flavoring": "10.91%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Dtak",
-      "score": "5",
-      "text": "Spot on vape, easily an ADV. nice light bakery flavour"
-    }
-  ]
+    "name": "Capt. J.T. Kirk",
+    "description": "Had a couple of friends ask me to make this vape. I'm not a big fan of cereal vapes but this one is pretty good.",
+    "id": 95998,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/95998\/SmartSelect_20180408-131822_Chrome.jpg",
+    "updated_at": "2020-12-12T14:06:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 3750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 660,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1687",
+    "created_at": "2018-04-08",
+    "slug": "capt_jt_kirk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/95998.jpg",
+    "total_flavoring": "10.91%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Dtak",
+            "score": 5,
+            "text": "Spot on vape, easily an ADV. nice light bakery flavour"
+        }
+    ]
 }

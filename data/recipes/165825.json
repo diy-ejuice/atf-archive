@@ -1,50 +1,50 @@
 {
-  "name": "Citrus Smoothie",
-  "description": "Mostly cold on the back of the throat since there's more polar blast than ws23 but I felt it needed a little coldness on the front end as well.\r\nFlv lemonade is the middle ground between  smoothie base and pink guava that pulls them together and fills it out. It also lends a touch of inherent sweetness while keeping it light and bright.",
-  "id": 165825,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/165825/20190910_030557.jpg",
-  "updated_at": "2020-12-01T15:13:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Smoothie Base",
-      "flavor_id": "10153",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "847",
-  "slug": "citrus_smoothie",
-  "total_flavoring": "3.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Citrus Smoothie",
+    "description": "Mostly cold on the back of the throat since there's more polar blast than ws23 but I felt it needed a little coldness on the front end as well.\r\nFlv lemonade is the middle ground between  smoothie base and pink guava that pulls them together and fills it out. It also lends a touch of inherent sweetness while keeping it light and bright.",
+    "id": 165825,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/165825\/20190910_030557.jpg",
+    "updated_at": "2020-12-11T02:38:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Smoothie Base",
+            "flavor_id": "10153",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "857",
+    "created_at": "2019-09-06",
+    "slug": "citrus_smoothie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/165825.jpg",
+    "total_flavoring": "3.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

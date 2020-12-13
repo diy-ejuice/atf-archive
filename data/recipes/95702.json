@@ -1,68 +1,68 @@
 {
-  "name": "Strawberry Coconut Cream Cake",
-  "description": "Based off a dessert I found online.. The Sweet Coconut paired with the Coconut Custard turns out just great.. Both the Strawberry Ripe with the Strawberry Shisha play very well together. Sweet Cream, Milk and Marshmallow help out with a light topping within the cake.",
-  "id": 95702,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95702/Strawberry-and-Coconut-Poke-Cake-1.jpg",
-  "updated_at": "2020-12-06T12:55:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coconut Custard SC",
-      "flavor_id": "8363",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Shisha",
-      "flavor_id": "9431",
-      "millipercent": 2500,
-      "vendor": "GL"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1807",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Milk SC",
-      "flavor_id": "9031",
-      "millipercent": 800,
-      "vendor": "WF"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 2000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "MarkSr",
-  "views": "2161",
-  "slug": "strawberry_coconut_cream_cake",
-  "total_flavoring": "13.55%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Coconut Cream Cake",
+    "description": "Based off a dessert I found online.. The Sweet Coconut paired with the Coconut Custard turns out just great.. Both the Strawberry Ripe with the Strawberry Shisha play very well together. Sweet Cream, Milk and Marshmallow help out with a light topping within the cake.",
+    "id": 95702,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/95702\/Strawberry-and-Coconut-Poke-Cake-1.jpg",
+    "updated_at": "2020-12-12T06:58:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coconut Custard SC",
+            "flavor_id": "8363",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Shisha",
+            "flavor_id": "9431",
+            "millipercent": 2500,
+            "vendor": "GL"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1807",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Milk SC",
+            "flavor_id": "9031",
+            "millipercent": 800,
+            "vendor": "WF"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 2000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "MarkSr",
+    "views": "2173",
+    "created_at": "2018-04-06",
+    "slug": "strawberry_coconut_cream_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/95702.jpg",
+    "total_flavoring": "13.55%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

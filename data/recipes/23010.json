@@ -1,56 +1,56 @@
 {
-  "name": "Campfire",
-  "description": "I've been tinkering with this S'mores flavor since I started DIY, trying to get something close to the flavor of Sammie Puffs (Smax/RNR White), since none of the vape shops seem to carry it anymore.  I like the Loaded S'mores (Ruthless) but it's missing something.\r\n\r\nThe first batch is steeping now,  I'll post updates as it goes!",
-  "id": 23010,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/23010/small-20170208-27476-13890cd.jpg",
-  "updated_at": "2020-12-07T23:35:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 2000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "YsarKain",
-  "views": "1740",
-  "slug": "campfire",
-  "total_flavoring": "20.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Campfire",
+    "description": "I've been tinkering with this S'mores flavor since I started DIY, trying to get something close to the flavor of Sammie Puffs (Smax\/RNR White), since none of the vape shops seem to carry it anymore.  I like the Loaded S'mores (Ruthless) but it's missing something.\r\n\r\nThe first batch is steeping now,  I'll post updates as it goes!",
+    "id": 23010,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/23010\/small-20170208-27476-13890cd.jpg",
+    "updated_at": "2020-12-11T19:40:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 2000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "YsarKain",
+    "views": "1751",
+    "created_at": "2016-12-15",
+    "slug": "campfire",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/23010.jpg",
+    "total_flavoring": "20.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

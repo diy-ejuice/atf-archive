@@ -1,75 +1,76 @@
 {
-  "name": "Lemon Biccies V2",
-  "description": "",
-  "id": 1720,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 3500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Graveyvapes",
-  "views": "902",
-  "slug": "lemon_biccies_v2",
-  "total_flavoring": "10.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Lemon Biccies V2",
+    "description": "",
+    "id": 1720,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 3500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Graveyvapes",
+    "views": "911",
+    "created_at": "2016-04-06",
+    "slug": "lemon_biccies_v2",
+    "total_flavoring": "10.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

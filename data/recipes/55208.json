@@ -1,75 +1,77 @@
 {
-  "name": "Tropical Juice",
-  "description": "Shake and Vape Juice, with tropical and exotic fruits.\r\n\r\nWatermelon, Melon, Mango and Pineapple mixed and Cold.\r\n\r\nAdjust Polar Blast(or Koolada or whatever cooling additive of your choice to taste) and Enjoy.",
-  "id": 55208,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/55208/jamaica-destination-wedding-fruit-punch-rum-punch-for-pre-wedding-drinks-for-a-wedding-in-montego-bay-jamaica.jpg",
-  "updated_at": "2020-12-08T00:49:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 4500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 600,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "daffynash",
-  "views": "2795",
-  "slug": "tropical_juice",
-  "total_flavoring": "9.4%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This is probably my favorite of all the honeydew-containing recipes that I've tried (or made).  Comes across as a cool, refreshing melon mix rather than honeydew with slight accents from other flavors.  This is definitely accompanying me on my cruise next month."
-    }
-  ]
+    "name": "Tropical Juice",
+    "description": "Shake and Vape Juice, with tropical and exotic fruits.\r\n\r\nWatermelon, Melon, Mango and Pineapple mixed and Cold.\r\n\r\nAdjust Polar Blast(or Koolada or whatever cooling additive of your choice to taste) and Enjoy.",
+    "id": 55208,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/55208\/jamaica-destination-wedding-fruit-punch-rum-punch-for-pre-wedding-drinks-for-a-wedding-in-montego-bay-jamaica.jpg",
+    "updated_at": "2020-12-12T18:29:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 4500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 600,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "daffynash",
+    "views": "2802",
+    "created_at": "2017-07-12",
+    "slug": "tropical_juice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/55208.jpg",
+    "total_flavoring": "9.4%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This is probably my favorite of all the honeydew-containing recipes that I've tried (or made).  Comes across as a cool, refreshing melon mix rather than honeydew with slight accents from other flavors.  This is definitely accompanying me on my cruise next month."
+        }
+    ]
 }

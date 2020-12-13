@@ -1,56 +1,56 @@
 {
-  "name": "Harambe",
-  "description": "A recipe I wanted to make based on Harambe, may that gentle giant rest in peace. It started out with banana's, and blood orange. I then had to figure out a way to tie those together, as they really don't mesh very well. I added the banana cream/cream to help emulsify everything together, and the hazelnut to be the tie in ingredient between the two. Enjoy!",
-  "id": 83349,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83349/Harambe.jpg",
-  "updated_at": "2020-12-06T23:07:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1436",
-  "slug": "harambe",
-  "total_flavoring": "5.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "400",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Harambe",
+    "description": "A recipe I wanted to make based on Harambe, may that gentle giant rest in peace. It started out with banana's, and blood orange. I then had to figure out a way to tie those together, as they really don't mesh very well. I added the banana cream\/cream to help emulsify everything together, and the hazelnut to be the tie in ingredient between the two. Enjoy!",
+    "id": 83349,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83349\/Harambe.jpg",
+    "updated_at": "2020-12-10T16:00:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1444",
+    "created_at": "2018-01-13",
+    "slug": "harambe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83349.jpg",
+    "total_flavoring": "5.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "400"
 }

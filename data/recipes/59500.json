@@ -1,57 +1,59 @@
 {
-  "name": "Banana Put'in",
-  "description": "Banana pudding... not much more to say. Good right away.\r\n\r\n\r\n*I mix low percentages so you may need to increase them to suit your tastes*\r\n\r\nST Vapes and Mark Fagan both love it\r\n\r\nhttps://www.youtube.com/watch?v=kcvfIMRponY&t=177s\r\n",
-  "id": 59500,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/59500/banana.jpg",
-  "updated_at": "2020-12-08T00:49:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "RinVapes",
-  "views": "2756",
-  "slug": "banana_putin",
-  "total_flavoring": "7.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CygnusY1",
-      "score": "5",
-      "text": "I whipped this up this morning and am vaping it now. Really delicious, solid recipe. It's a great base for adding extras too, which I plan on doing at some stage. Nice work Rin. "
-    }
-  ]
+    "name": "Banana Put'in",
+    "description": "Banana pudding... not much more to say. Good right away.\r\n\r\n\r\n*I mix low percentages so you may need to increase them to suit your tastes*\r\n\r\nST Vapes and Mark Fagan both love it\r\n\r\nhttps:\/\/www.youtube.com\/watch?v=kcvfIMRponY&t=177s\r\n",
+    "id": 59500,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/59500\/banana.jpg",
+    "updated_at": "2020-12-12T20:29:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "RinVapes",
+    "views": "2770",
+    "created_at": "2017-08-11",
+    "slug": "banana_putin",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/59500.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "I whipped this up this morning and am vaping it now. Really delicious, solid recipe. It's a great base for adding extras too, which I plan on doing at some stage. Nice work Rin. "
+        }
+    ]
 }

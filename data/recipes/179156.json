@@ -1,51 +1,53 @@
 {
-  "name": "Sixes & Sevens",
-  "description": "A tobacco recipe.Simple,yet tasty and full.Ry4d is the main flavor,but instead of using 6-7 other flavors to add the necessary notes,in this recipe we only need these 3.Flapper pie adds a light bakery and vanilla cream part,caramel butter adds that sweet caramel buttery finish and white fudge adds a white chocolate undertone.\r\n\r\n",
-  "id": 179156,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/179156/1049-sixes-and-sevens-1506309661.jpg",
-  "updated_at": "2020-12-08T00:51:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Flapper Pie SC",
-      "flavor_id": "10106",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "White Fudge SC",
-      "flavor_id": "8383",
-      "millipercent": 500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "nks",
-  "views": "2038",
-  "slug": "sixes_sevens",
-  "total_flavoring": "9.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Collectron",
-      "score": "5",
-      "text": "I really liked this, a great new take on simple RY4d recipe!"
-    }
-  ]
+    "name": "Sixes & Sevens",
+    "description": "A tobacco recipe.Simple,yet tasty and full.Ry4d is the main flavor,but instead of using 6-7 other flavors to add the necessary notes,in this recipe we only need these 3.Flapper pie adds a light bakery and vanilla cream part,caramel butter adds that sweet caramel buttery finish and white fudge adds a white chocolate undertone.\r\n\r\n",
+    "id": 179156,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/179156\/1049-sixes-and-sevens-1506309661.jpg",
+    "updated_at": "2020-12-12T18:30:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Flapper Pie SC",
+            "flavor_id": "10106",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "White Fudge SC",
+            "flavor_id": "8383",
+            "millipercent": 500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "nks",
+    "views": "2045",
+    "created_at": "2019-12-26",
+    "slug": "sixes_sevens",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/179156.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Collectron",
+            "score": 5,
+            "text": "I really liked this, a great new take on simple RY4d recipe!"
+        }
+    ]
 }

@@ -1,80 +1,79 @@
 {
-  "name": "Homemade Snickers Bars",
-  "description": "In this recipes the creams will make up the marshmallow fluff, the peanut butter and marzipan makes up the nutty part of this together makes a nutty peanut butter and the caramel & butterscotch ripple makes up the top layer in the snickers bar. The milk chocolate is the outter shell of the snickers candy bar",
-  "id": 58693,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:15:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "26",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "97",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1757",
-  "slug": "homemade_snickers_bars",
-  "total_flavoring": "17.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Homemade Snickers Bars",
+    "description": "In this recipes the creams will make up the marshmallow fluff, the peanut butter and marzipan makes up the nutty part of this together makes a nutty peanut butter and the caramel & butterscotch ripple makes up the top layer in the snickers bar. The milk chocolate is the outter shell of the snickers candy bar",
+    "id": 58693,
+    "image_url": null,
+    "updated_at": "2020-12-11T21:44:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "26",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "97",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1764",
+    "created_at": "2017-08-05",
+    "slug": "homemade_snickers_bars",
+    "total_flavoring": "17.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95"
 }

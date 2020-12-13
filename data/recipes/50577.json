@@ -1,56 +1,56 @@
 {
-  "name": "Pina Strawlada",
-  "description": "\r\nExcuse my paint skills lmao",
-  "id": 50577,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50577/strawberrycolada.png",
-  "updated_at": "2020-12-05T20:49:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Organic Strawberry",
-      "flavor_id": "2669",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MistaMac",
-  "views": "1068",
-  "slug": "pina_strawlada",
-  "total_flavoring": "7.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Pina Strawlada",
+    "description": "\r\nExcuse my paint skills lmao",
+    "id": 50577,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/50577\/strawberrycolada.png",
+    "updated_at": "2020-12-12T05:49:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Organic Strawberry",
+            "flavor_id": "2669",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MistaMac",
+    "views": "1073",
+    "created_at": "2017-06-13",
+    "slug": "pina_strawlada",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/50577.png",
+    "total_flavoring": "7.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

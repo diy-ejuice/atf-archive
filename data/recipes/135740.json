@@ -1,74 +1,74 @@
 {
-  "name": "Nut Case",
-  "description": "Delicious Vape. Very smooth, creamy and nutty with a touch of cereal grain. Goes great with a cup of coffee. Best with a long steep around a month because of the custard. Hope you enjoy.",
-  "id": 135740,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135740/crazy-squirrel.jpg",
-  "updated_at": "2020-12-06T23:08:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pralines & Cream",
-      "flavor_id": "1385",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mindcrime",
-  "views": "1132",
-  "slug": "nut_case",
-  "total_flavoring": "16.5%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nut Case",
+    "description": "Delicious Vape. Very smooth, creamy and nutty with a touch of cereal grain. Goes great with a cup of coffee. Best with a long steep around a month because of the custard. Hope you enjoy.",
+    "id": 135740,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135740\/crazy-squirrel.jpg",
+    "updated_at": "2020-12-10T16:01:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pralines & Cream",
+            "flavor_id": "1385",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mindcrime",
+    "views": "1139",
+    "created_at": "2019-01-20",
+    "slug": "nut_case",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135740.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,68 +1,70 @@
 {
-  "name": "Solstice",
-  "description": "\"I remember blue skies, I remember how you were...\" - SOLSTICE, STARSET\r\n\r\nSNV is pretty sub par - I've steeped this from 7 days to 30 and it seems to start really coming out around 7-8 days and then it's preference from there. This is my first recipe I'm posting publicly, and this is version 4; it's still a work in progress; any feedback would be appreciated.\r\n\r\nI tested & refined this on a Hadaly RDA at 55W, .37-.40 Ω\r\n\r\n...\r\n\r\nHS Blueberry - The first blueberry I got for my initial dive into DIY. Originally in this recipe it was a standalone blueberry (@ 2.5% if you're curious) and it gave a nice, sweet blueberry taste, but it's just not what I wanted for this recipe.\r\n\r\nTPA Blueberry (Extra) - This gives more of the fruity, wet blueberry taste as if there were chunks of it in the ice cream without overwhelming the peach entirely.\r\n\r\nCAP Juicy Peach - Standalone I don't really care for this flavor, but the way it melds with the ice cream and the blueberry in this recipe in particular is so sweet and lovely, I couldn't NOT refine this recipe.  It almost gives that taste as if you cut up a fresh peach, placed it over the top of the ice cream and sometimes you get a bite of peach, sometimes you just get the juice melting into the ice cream.\r\n\r\nLB Vanilla Ice Cream - Honestly this base is just so easy to work with and mold to whatever flavor you like; in this particular recipe it's not as heavy in the inhale, but the exhale gives a soft, wonderful vanilla ice cream taste with bits of fruit.\r\n\r\nFLV Cream - Honestly this just boosts the creaminess of the ice cream, and helps melt everything together into one cohesive flavor profile for me. I've done this with vanilla swirl, whipped cream, and finally landed on FLV Cream as the best option for what I was going for here.\r\n\r\nThank you @Spacolie16 for helping me out with this. It's 'cause of your willingness to deal with me asking you the same question 100 times in 50 different ways that I got this how I wanted it. :)",
-  "id": 170950,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/170950/solstice.PNG",
-  "updated_at": "2020-12-08T00:51:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "2076",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "onimodaekil",
-  "views": "1128",
-  "slug": "solstice",
-  "total_flavoring": "11.75%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AutomaticFailure",
-      "score": "5",
-      "text": "Fuck, this is good. Nice and fluffy cream, decent juicy almost syrup like peach and a hint of blueberry. I am getting a weird green note which I feel is the HS Blueberry but it fits in with that ripe blueberry flavor. &#xD;\nI like it, after a few days steep it does seem to blend more together so it loses that separation of ice cream/peach/blueberry. "
-    },
-    {
-      "user": "Spacolie16",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Solstice",
+    "description": "\"I remember blue skies, I remember how you were...\" - SOLSTICE, STARSET\r\n\r\nSNV is pretty sub par - I've steeped this from 7 days to 30 and it seems to start really coming out around 7-8 days and then it's preference from there. This is my first recipe I'm posting publicly, and this is version 4; it's still a work in progress; any feedback would be appreciated.\r\n\r\nI tested & refined this on a Hadaly RDA at 55W, .37-.40 \u03a9\r\n\r\n...\r\n\r\nHS Blueberry - The first blueberry I got for my initial dive into DIY. Originally in this recipe it was a standalone blueberry (@ 2.5% if you're curious) and it gave a nice, sweet blueberry taste, but it's just not what I wanted for this recipe.\r\n\r\nTPA Blueberry (Extra) - This gives more of the fruity, wet blueberry taste as if there were chunks of it in the ice cream without overwhelming the peach entirely.\r\n\r\nCAP Juicy Peach - Standalone I don't really care for this flavor, but the way it melds with the ice cream and the blueberry in this recipe in particular is so sweet and lovely, I couldn't NOT refine this recipe.  It almost gives that taste as if you cut up a fresh peach, placed it over the top of the ice cream and sometimes you get a bite of peach, sometimes you just get the juice melting into the ice cream.\r\n\r\nLB Vanilla Ice Cream - Honestly this base is just so easy to work with and mold to whatever flavor you like; in this particular recipe it's not as heavy in the inhale, but the exhale gives a soft, wonderful vanilla ice cream taste with bits of fruit.\r\n\r\nFLV Cream - Honestly this just boosts the creaminess of the ice cream, and helps melt everything together into one cohesive flavor profile for me. I've done this with vanilla swirl, whipped cream, and finally landed on FLV Cream as the best option for what I was going for here.\r\n\r\nThank you @Spacolie16 for helping me out with this. It's 'cause of your willingness to deal with me asking you the same question 100 times in 50 different ways that I got this how I wanted it. :)",
+    "id": 170950,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/170950\/solstice.PNG",
+    "updated_at": "2020-12-12T14:07:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "2076",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "onimodaekil",
+    "views": "1139",
+    "created_at": "2019-10-17",
+    "slug": "solstice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/170950.PNG",
+    "total_flavoring": "11.75%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AutomaticFailure",
+            "score": 5,
+            "text": "Fuck, this is good. Nice and fluffy cream, decent juicy almost syrup like peach and a hint of blueberry. I am getting a weird green note which I feel is the HS Blueberry but it fits in with that ripe blueberry flavor. &#xD;\nI like it, after a few days steep it does seem to blend more together so it loses that separation of ice cream\/peach\/blueberry. "
+        },
+        {
+            "user": "Spacolie16",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

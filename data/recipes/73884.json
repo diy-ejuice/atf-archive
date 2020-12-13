@@ -1,75 +1,77 @@
 {
-  "name": "Pumpkin Spice Eggnog Cookie",
-  "description": "Inspired by ID10-T's Pumpkindoodle Cookie\r\n\r\nAll relevant flavor notes can be found here: https://www.reddit.com/r/DIY_eJuice/comments/7cjfjh/pumpkin_spice_eggnog_cookie/\r\n\r\nHoliday Spice can be taken down to .25% and Rich Cinnamon can be bumped to .2% while maintaining their respective positions in the recipe.",
-  "id": 73884,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73884/white-chocolate-dipped-eggnog-cookies-2.jpg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Holiday Spice",
-      "flavor_id": "305",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pumpkin",
-      "flavor_id": "263",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yam",
-      "flavor_id": "277",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "VapeNTech",
-  "views": "1639",
-  "slug": "pumpkin_spice_eggnog_cookie",
-  "total_flavoring": "15.7%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "https://www.reddit.com/r/DIY_eJuice/comments/7cjfjh/pumpkin_spice_eggnog_cookie/"
-    }
-  ]
+    "name": "Pumpkin Spice Eggnog Cookie",
+    "description": "Inspired by ID10-T's Pumpkindoodle Cookie\r\n\r\nAll relevant flavor notes can be found here: https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/7cjfjh\/pumpkin_spice_eggnog_cookie\/\r\n\r\nHoliday Spice can be taken down to .25% and Rich Cinnamon can be bumped to .2% while maintaining their respective positions in the recipe.",
+    "id": 73884,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/73884\/white-chocolate-dipped-eggnog-cookies-2.jpg",
+    "updated_at": "2020-12-12T15:39:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Holiday Spice",
+            "flavor_id": "305",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pumpkin",
+            "flavor_id": "263",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yam",
+            "flavor_id": "277",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "VapeNTech",
+    "views": "1658",
+    "created_at": "2017-11-12",
+    "slug": "pumpkin_spice_eggnog_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/73884.jpg",
+    "total_flavoring": "15.7%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/7cjfjh\/pumpkin_spice_eggnog_cookie\/"
+        }
+    ]
 }

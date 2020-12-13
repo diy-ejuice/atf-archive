@@ -1,50 +1,49 @@
 {
-  "name": "BI-POLAR MADNESS",
-  "description": "Mad live on fresh mental awareness show....should be good off the shake will get better after 3 days",
-  "id": 189504,
-  "image_url": null,
-  "updated_at": "2020-12-05T20:51:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Black Raspberry – SC",
-      "flavor_id": "7452",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Red Raspberry",
-      "flavor_id": "4367",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 750,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "VapinTrucker",
-  "views": "254",
-  "slug": "bipolar_madness",
-  "total_flavoring": "5.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "BI-POLAR MADNESS",
+    "description": "Mad live on fresh mental awareness show....should be good off the shake will get better after 3 days",
+    "id": 189504,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:53:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Black Raspberry \u2013 SC",
+            "flavor_id": "7452",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Red Raspberry",
+            "flavor_id": "4367",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 750,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "VapinTrucker",
+    "views": "263",
+    "created_at": "2020-03-28",
+    "slug": "bipolar_madness",
+    "total_flavoring": "5.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

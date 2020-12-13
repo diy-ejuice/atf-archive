@@ -1,78 +1,80 @@
 {
-  "name": "Real Custard ",
-  "description": "A delicious rich and buttery custard. Been my all day favourite for a long time. ",
-  "id": 190598,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190598/cs-proper-custard.jpg",
-  "updated_at": "2020-12-08T00:51:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 6000,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1318",
-  "slug": "real_custard",
-  "total_flavoring": "14.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Dobry83",
-      "score": "5",
-      "text": "Simple and delicious !!"
-    },
-    {
-      "user": "cxxxxp",
-      "score": "5",
-      "text": "YES MCRANE! He does it again! Easily a 5-Star recipe. I love how you've taken a bunch of commonly used flavours and created something entirely new. After a 2-3w steep it smells like real custard. I loved your custard shortcake but this recipe somehow takes it up another notch with the perfect flavour, smell, texture and after-taste of a real custard. I can see why you named it as such. It's thick, buttery smooth, creamy and a little eggy (but not too much.) I can actually taste a hint of custard powder after the exhale. It's as if I mixed up my own custard from the box but with twice the custard powder, twice the sugar and an egg, for the most thick and sweet custard there is. Well done, I love it. Everyone should mix this at least once :)"
-    },
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "Outstanding!!!!!!!"
-    },
-    {
-      "user": "Joni",
-      "score": "5",
-      "text": "Excellent recipe! My personal favorite of all the custards I have tried. Thanks for sharing."
-    }
-  ]
+    "name": "Real Custard ",
+    "description": "A delicious rich and buttery custard. Been my all day favourite for a long time. ",
+    "id": 190598,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190598\/cs-proper-custard.jpg",
+    "updated_at": "2020-12-12T11:53:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 6000,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1324",
+    "created_at": "2020-04-08",
+    "slug": "real_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190598.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Dobry83",
+            "score": 5,
+            "text": "Simple and delicious !!"
+        },
+        {
+            "user": "cxxxxp",
+            "score": 5,
+            "text": "YES MCRANE! He does it again! Easily a 5-Star recipe. I love how you've taken a bunch of commonly used flavours and created something entirely new. After a 2-3w steep it smells like real custard. I loved your custard shortcake but this recipe somehow takes it up another notch with the perfect flavour, smell, texture and after-taste of a real custard. I can see why you named it as such. It's thick, buttery smooth, creamy and a little eggy (but not too much.) I can actually taste a hint of custard powder after the exhale. It's as if I mixed up my own custard from the box but with twice the custard powder, twice the sugar and an egg, for the most thick and sweet custard there is. Well done, I love it. Everyone should mix this at least once :)"
+        },
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "Outstanding!!!!!!!"
+        },
+        {
+            "user": "Joni",
+            "score": 5,
+            "text": "Excellent recipe! My personal favorite of all the custards I have tried. Thanks for sharing."
+        }
+    ]
 }

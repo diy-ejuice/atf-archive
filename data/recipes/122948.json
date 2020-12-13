@@ -1,80 +1,80 @@
 {
-  "name": "Cinnapple Donuts #MixinVixens",
-  "description": "The WF-Glazed Donut combined with the WF-Fluffy White Cake form the foundation of this cake doughnut.  The FLV-Pumpkin Bread was added to darken the cake and add some more spice.  The FLV-Eggnog was thrown in for the spice as well as to add moisture and a bit more egg to the cake mix.  The FLV-Apple Filling brings just a hint of that apple cider taste on the exhale.  The FLV-Rich Cinnamon along with the OOO-Powdered Sugar make up my outer coating.  I felt that it needed a touch more vanilla and sweetness so I threw in the DFS-Holy Vanilla and CAP-Super Sweet for good measure.  You can add whatever sweetener you prefer though.  I also need to thank Alfred Pudding for helping me get through my basket of possible flavor combinations at the last minute.  I was sick and my brain needed some guidance.  He helped me tremendously by letting me bounce my ideas off of him. ",
-  "id": 122948,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/122948/43346116_10155780357623461_2441106153728376832_n.jpg",
-  "updated_at": "2020-12-02T08:00:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 400,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Pumpkin Bread",
-      "flavor_id": "4432",
-      "millipercent": 600,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Demented76",
-  "views": "1501",
-  "slug": "cinnapple_donuts_mixinvixens",
-  "total_flavoring": "6.45%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnapple Donuts #MixinVixens",
+    "description": "The WF-Glazed Donut combined with the WF-Fluffy White Cake form the foundation of this cake doughnut.  The FLV-Pumpkin Bread was added to darken the cake and add some more spice.  The FLV-Eggnog was thrown in for the spice as well as to add moisture and a bit more egg to the cake mix.  The FLV-Apple Filling brings just a hint of that apple cider taste on the exhale.  The FLV-Rich Cinnamon along with the OOO-Powdered Sugar make up my outer coating.  I felt that it needed a touch more vanilla and sweetness so I threw in the DFS-Holy Vanilla and CAP-Super Sweet for good measure.  You can add whatever sweetener you prefer though.  I also need to thank Alfred Pudding for helping me get through my basket of possible flavor combinations at the last minute.  I was sick and my brain needed some guidance.  He helped me tremendously by letting me bounce my ideas off of him. ",
+    "id": 122948,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/122948\/43346116_10155780357623461_2441106153728376832_n.jpg",
+    "updated_at": "2020-12-11T22:44:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 400,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Pumpkin Bread",
+            "flavor_id": "4432",
+            "millipercent": 600,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Demented76",
+    "views": "1509",
+    "created_at": "2018-10-13",
+    "slug": "cinnapple_donuts_mixinvixens",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/122948.jpg",
+    "total_flavoring": "6.45%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0"
 }

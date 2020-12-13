@@ -1,63 +1,65 @@
 {
-  "name": "Chai Latte",
-  "description": "This Vanilla Chai Latte needs no introduction...\r\n\r\nChai Tea (Cap): The go-to for the main profile. Does it pretty well without having any kind of off notes. Does need some help becoming a latte of course. \r\n\r\nDairy Milk (TFA): the milk, in the latte. \r\n\r\nGraham Cracker v2 (Cap): used to give the profile more of a sweet brown sugar effect. Can not sub for v1, as v1 has much more body to it. \r\n\r\nSuper Sweet (Cap): optional, but preferred in this recipe. \r\n\r\nToasted Marshmallow (TFA): this is what makes the mix in my opinion, this is used to add some froth to the latte. Does a great job at that in this recipe, it’s delicious. \r\n\r\nVanilla Custard v1 (Cap): this is simply used for its body in this recipe. At 3% it adds some vanilla to the latte without taking over and turning it into a custard. \r\n\r\nNeeds at least 3 days to steep for the flavors to settle down. \r\n\r\nThis recipe has been an easy ADV for me. Let me know what you all think!",
-  "id": 87360,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/87360/05E38D21-F2DC-41D3-B651-2F9C8CDEB602.jpeg",
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chai Tea",
-      "flavor_id": "28",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker V2",
-      "flavor_id": "63",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Deftohms",
-  "views": "2045",
-  "slug": "chai_latte",
-  "total_flavoring": "16.5%",
-  "steep_days": "5",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "5",
-      "text": "this is great! I love the idea of using the toasted marshmallow, I had just got some in an order and was looking for a way to use it, this is in my reg rotation now.  was actually amazing right after a bath and a shake, no idea how it is after a steep cuz I used up the whole sample tube i mixed up lol.  thanks for your great work!  :)    "
-    }
-  ]
+    "name": "Chai Latte",
+    "description": "This Vanilla Chai Latte needs no introduction...\r\n\r\nChai Tea (Cap): The go-to for the main profile. Does it pretty well without having any kind of off notes. Does need some help becoming a latte of course. \r\n\r\nDairy Milk (TFA): the milk, in the latte. \r\n\r\nGraham Cracker v2 (Cap): used to give the profile more of a sweet brown sugar effect. Can not sub for v1, as v1 has much more body to it. \r\n\r\nSuper Sweet (Cap): optional, but preferred in this recipe. \r\n\r\nToasted Marshmallow (TFA): this is what makes the mix in my opinion, this is used to add some froth to the latte. Does a great job at that in this recipe, it\u2019s delicious. \r\n\r\nVanilla Custard v1 (Cap): this is simply used for its body in this recipe. At 3% it adds some vanilla to the latte without taking over and turning it into a custard. \r\n\r\nNeeds at least 3 days to steep for the flavors to settle down. \r\n\r\nThis recipe has been an easy ADV for me. Let me know what you all think!",
+    "id": 87360,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/87360\/05E38D21-F2DC-41D3-B651-2F9C8CDEB602.jpeg",
+    "updated_at": "2020-12-12T08:13:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chai Tea",
+            "flavor_id": "28",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker V2",
+            "flavor_id": "63",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Deftohms",
+    "views": "2056",
+    "created_at": "2018-02-07",
+    "slug": "chai_latte",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/87360.jpeg",
+    "total_flavoring": "16.5%",
+    "steep_days": "5",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 5,
+            "text": "this is great! I love the idea of using the toasted marshmallow, I had just got some in an order and was looking for a way to use it, this is in my reg rotation now.  was actually amazing right after a bath and a shake, no idea how it is after a steep cuz I used up the whole sample tube i mixed up lol.  thanks for your great work!  :)    "
+        }
+    ]
 }

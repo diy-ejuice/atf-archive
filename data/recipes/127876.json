@@ -1,62 +1,64 @@
 {
-  "name": "The Cookie Treat Conspiracy",
-  "description": "A winter treat.\r\nCreamy, sugar treated caramel cookies, fried with spices and cinnamon.\r\nSuitable for wintertime, best in RTA's or flavor RDAs",
-  "id": 127876,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127876/f4425f0f-cc77-4770-ad18-302bca1a9a11.jpg",
-  "updated_at": "2020-12-08T00:50:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Echodub",
-  "views": "2047",
-  "slug": "the_cookie_treat_conspiracy",
-  "total_flavoring": "12.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Sebastien",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "diesel223",
-      "score": "5",
-      "text": "I'm very much enjoying this recipe. It is quite a rich eggnog cookie. Flavor is very reminiscent of the holiday season to me. It isn't an ADV to me due to richness but is a great treat in my rda in the evenings with a cup of coffee. Well done. "
-    }
-  ]
+    "name": "The Cookie Treat Conspiracy",
+    "description": "A winter treat.\r\nCreamy, sugar treated caramel cookies, fried with spices and cinnamon.\r\nSuitable for wintertime, best in RTA's or flavor RDAs",
+    "id": 127876,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127876\/f4425f0f-cc77-4770-ad18-302bca1a9a11.jpg",
+    "updated_at": "2020-12-12T17:12:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Echodub",
+    "views": "2056",
+    "created_at": "2018-11-18",
+    "slug": "the_cookie_treat_conspiracy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127876.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Sebastien",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "diesel223",
+            "score": 5,
+            "text": "I'm very much enjoying this recipe. It is quite a rich eggnog cookie. Flavor is very reminiscent of the holiday season to me. It isn't an ADV to me due to richness but is a great treat in my rda in the evenings with a cup of coffee. Well done. "
+        }
+    ]
 }

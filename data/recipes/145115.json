@@ -1,62 +1,62 @@
 {
-  "name": "Rum Balls v1",
-  "description": "This is my first original recipe. I wanted to try my hand at something my family has loved since childhood. It turned out pretty good. The aftertaste is what seals this as a good rum ball. After the exhale you are left with the great flavor of thick dense chocolate cake and rum with just a hint of powdered sugar. That might be able to go up a little more. I'm going to keep working on this, though, so look for updates in the coming weeks. \r\n\r\nI hope someone that loves these little delicacies gives it a shot and leaves some thoughts. \r\n\r\nThanks go to all the great people over on the DIY_Ejuice group over on discord for holding my hand at the beginning of my journey into DIY. You guys are the best.",
-  "id": 145115,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145115/rumballz.jpg",
-  "updated_at": "2020-12-02T10:29:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 6000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Butter Rum",
-      "flavor_id": "925",
-      "millipercent": 500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Butter Rum",
-      "flavor_id": "1213",
-      "millipercent": 1750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 1500,
-      "vendor": "HS"
-    }
-  ],
-  "author": "Hetch",
-  "views": "921",
-  "slug": "rum_balls_v1",
-  "total_flavoring": "13.75%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rum Balls v1",
+    "description": "This is my first original recipe. I wanted to try my hand at something my family has loved since childhood. It turned out pretty good. The aftertaste is what seals this as a good rum ball. After the exhale you are left with the great flavor of thick dense chocolate cake and rum with just a hint of powdered sugar. That might be able to go up a little more. I'm going to keep working on this, though, so look for updates in the coming weeks. \r\n\r\nI hope someone that loves these little delicacies gives it a shot and leaves some thoughts. \r\n\r\nThanks go to all the great people over on the DIY_Ejuice group over on discord for holding my hand at the beginning of my journey into DIY. You guys are the best.",
+    "id": 145115,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145115\/rumballz.jpg",
+    "updated_at": "2020-12-12T02:45:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 6000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Butter Rum",
+            "flavor_id": "925",
+            "millipercent": 500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Butter Rum",
+            "flavor_id": "1213",
+            "millipercent": 1750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 1500,
+            "vendor": "HS"
+        }
+    ],
+    "author": "Hetch",
+    "views": "926",
+    "created_at": "2019-03-31",
+    "slug": "rum_balls_v1",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145115.jpg",
+    "total_flavoring": "13.75%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

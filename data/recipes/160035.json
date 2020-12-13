@@ -1,50 +1,49 @@
 {
-  "name": "Old Lime Soaked In Cider",
-  "description": "A crisp, delicious and refreshing vape. \r\n\r\nIt is great off the shake but really benefits after a week sitting ",
-  "id": 160035,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:55:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Apple Cider",
-      "flavor_id": "4368",
-      "millipercent": 600,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Lime Soda SC",
-      "flavor_id": "8372",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Earl",
-  "views": "628",
-  "slug": "old_lime_soaked_in_cider",
-  "total_flavoring": "3.35%",
-  "steep_days": "7",
-  "best_vg": "69%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Old Lime Soaked In Cider",
+    "description": "A crisp, delicious and refreshing vape. \r\n\r\nIt is great off the shake but really benefits after a week sitting ",
+    "id": 160035,
+    "image_url": null,
+    "updated_at": "2020-12-11T17:21:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Apple Cider",
+            "flavor_id": "4368",
+            "millipercent": 600,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Lime Soda SC",
+            "flavor_id": "8372",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Earl",
+    "views": "634",
+    "created_at": "2019-07-20",
+    "slug": "old_lime_soaked_in_cider",
+    "total_flavoring": "3.35%",
+    "steep_days": "7",
+    "best_vg": "69%",
+    "temperature": "0"
 }

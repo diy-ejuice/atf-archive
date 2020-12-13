@@ -1,57 +1,58 @@
 {
-  "name": "Strawberry Milk All Day",
-  "description": "FA Fresh Cream is full bodied fresh natural dairy note. I've added OOO Cream (Milky Undertone) in with it to really bump up that dairy note and make sure it doesn't get lost under the fruit. \r\n\r\nFA Meringue is going to give us a slight maltiness, add a little mouthfeel and some natural sweetness to the milk. \r\n\r\nThe combination of CAP Sweet Strawberry and INW Shisha Strawberry are a really good artificial sweet, syrupy strawberry. Perfect for a milk. \r\n\r\nI use FW Sweetener in here to frame the malty milk flavor. But as always sweetness is completely subjective so feel free to add or omit that as you like. \r\n\r\nWatch the Video here:\r\nhttps://youtu.be/6WrklF5g0AU",
-  "id": 204025,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "1528",
-  "slug": "strawberry_milk_all_day",
-  "total_flavoring": "10.5%",
-  "steep_days": "3",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "Its delicious, nice job!"
-    }
-  ]
+    "name": "Strawberry Milk All Day",
+    "description": "FA Fresh Cream is full bodied fresh natural dairy note. I've added OOO Cream (Milky Undertone) in with it to really bump up that dairy note and make sure it doesn't get lost under the fruit. \r\n\r\nFA Meringue is going to give us a slight maltiness, add a little mouthfeel and some natural sweetness to the milk. \r\n\r\nThe combination of CAP Sweet Strawberry and INW Shisha Strawberry are a really good artificial sweet, syrupy strawberry. Perfect for a milk. \r\n\r\nI use FW Sweetener in here to frame the malty milk flavor. But as always sweetness is completely subjective so feel free to add or omit that as you like. \r\n\r\nWatch the Video here:\r\nhttps:\/\/youtu.be\/6WrklF5g0AU",
+    "id": 204025,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:31:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "1543",
+    "created_at": "2020-08-24",
+    "slug": "strawberry_milk_all_day",
+    "total_flavoring": "10.5%",
+    "steep_days": "3",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "Its delicious, nice job!"
+        }
+    ]
 }

@@ -1,81 +1,83 @@
 {
-  "name": "Pineapple Milkshake",
-  "description": "Pineapple milkshake for everyone! It's sweet and smooth with notes of pineapple. I've test it with pineapple TPA and it's great.",
-  "id": 142192,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/142192/pineapple-milkshake200x200.jpg",
-  "updated_at": "2020-12-08T00:50:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mississippi",
-      "flavor_id": "9195",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "259",
-      "millipercent": 300,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "vagdal",
-  "views": "2467",
-  "slug": "pineapple_milkshake",
-  "total_flavoring": "11.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Collectron",
-      "score": "5",
-      "text": "Really tasty, with just the right amount of pineapple for a milkshake. Great off the shake, but after 3-4 days it gives the flavor profile spot on! Recommended by me!"
-    }
-  ]
+    "name": "Pineapple Milkshake",
+    "description": "Pineapple milkshake for everyone! It's sweet and smooth with notes of pineapple. I've test it with pineapple TPA and it's great.",
+    "id": 142192,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/142192\/pineapple-milkshake200x200.jpg",
+    "updated_at": "2020-12-12T11:52:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mississippi",
+            "flavor_id": "9195",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "259",
+            "millipercent": 300,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "vagdal",
+    "views": "2476",
+    "created_at": "2019-03-10",
+    "slug": "pineapple_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/142192.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Collectron",
+            "score": 5,
+            "text": "Really tasty, with just the right amount of pineapple for a milkshake. Great off the shake, but after 3-4 days it gives the flavor profile spot on! Recommended by me!"
+        }
+    ]
 }

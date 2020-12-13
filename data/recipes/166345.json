@@ -1,44 +1,44 @@
 {
-  "name": "Ginger Kiss x Jellytip",
-  "description": "v1 - First work towards recreation of a Ginger Kiss x Jelly Tip mix.\r\n\r\nShout out to max and lewie!",
-  "id": 166345,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/166345/Tip-Top-Jelly-Tip-Ice-Cream-On-Stick.jpg",
-  "updated_at": "2020-12-06T20:45:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "minorbean",
-  "views": "522",
-  "slug": "ginger_kiss_x_jellytip",
-  "total_flavoring": "6.8%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ginger Kiss x Jellytip",
+    "description": "v1 - First work towards recreation of a Ginger Kiss x Jelly Tip mix.\r\n\r\nShout out to max and lewie!",
+    "id": 166345,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/166345\/Tip-Top-Jelly-Tip-Ice-Cream-On-Stick.jpg",
+    "updated_at": "2020-12-10T13:46:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "minorbean",
+    "views": "529",
+    "created_at": "2019-09-11",
+    "slug": "ginger_kiss_x_jellytip",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/166345.jpg",
+    "total_flavoring": "6.8%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

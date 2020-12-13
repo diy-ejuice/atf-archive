@@ -1,68 +1,68 @@
 {
-  "name": "Banana Custard Pudding",
-  "description": "Lovely realistic banana custard pudding. \r\n\r\nIf you like banana custard recipes, you'll love this",
-  "id": 160088,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160088/1f1549e4ac9b8e04b0ff_1024.jpg",
-  "updated_at": "2020-12-07T10:44:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "641",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1644",
-  "slug": "banana_custard_pudding",
-  "total_flavoring": "15.75%",
-  "steep_days": "4",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Custard Pudding",
+    "description": "Lovely realistic banana custard pudding. \r\n\r\nIf you like banana custard recipes, you'll love this",
+    "id": 160088,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160088\/1f1549e4ac9b8e04b0ff_1024.jpg",
+    "updated_at": "2020-12-12T05:56:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "641",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1649",
+    "created_at": "2019-07-21",
+    "slug": "banana_custard_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/160088.jpg",
+    "total_flavoring": "15.75%",
+    "steep_days": "4",
+    "best_vg": "70%",
+    "temperature": "0"
 }

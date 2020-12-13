@@ -1,51 +1,52 @@
 {
-  "name": "Alonel Cream",
-  "description": "A creamy vape reminiscent of Lenola Cream. NOT A CLONE ",
-  "id": 267,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cheesecake",
-      "flavor_id": "930",
-      "millipercent": 3500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "668",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "1813",
-  "slug": "alonel_cream",
-  "total_flavoring": "9.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RuntDastardly",
-      "score": "5",
-      "text": "This is a really enjoyable recipe. The mouthfeel is thick and lush and the fruit is subtle and addictive. I have no idea how close it is to LC, I only know I'll definitely be mixing this again!"
-    }
-  ]
+    "name": "Alonel Cream",
+    "description": "A creamy vape reminiscent of Lenola Cream. NOT A CLONE ",
+    "id": 267,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cheesecake",
+            "flavor_id": "930",
+            "millipercent": 3500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "668",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "1821",
+    "created_at": "2016-03-06",
+    "slug": "alonel_cream",
+    "total_flavoring": "9.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RuntDastardly",
+            "score": 5,
+            "text": "This is a really enjoyable recipe. The mouthfeel is thick and lush and the fruit is subtle and addictive. I have no idea how close it is to LC, I only know I'll definitely be mixing this again!"
+        }
+    ]
 }

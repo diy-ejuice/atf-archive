@@ -1,63 +1,65 @@
 {
-  "name": "Cozy by the Fire",
-  "description": "Made for Week 45 of the Year of Mixing. A balanced cafe mocha with hints or caramel. ",
-  "id": 131819,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131819/649A11F8-09DD-430F-99B0-18A68F9B5114.jpeg",
-  "updated_at": "2020-12-08T00:50:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Arabica Coffee",
-      "flavor_id": "8822",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Chocolate Deutsch",
-      "flavor_id": "2151",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Chocolate Mousse",
-      "flavor_id": "9371",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Coffee Milk Froth",
-      "flavor_id": "8858",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Salted Caramel",
-      "flavor_id": "8959",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Daytimefrank1",
-  "views": "1626",
-  "slug": "cozy_by_the_fire",
-  "total_flavoring": "7.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Demented76",
-      "score": "5",
-      "text": "The coffee does something wonderful to the chocolates in this recipe and brings them closer to the realm of realistic.  This is a stout and creamy cup of mocha with the caramel mostly just sweetening the mix a bit and helping to pull the coffee and chocolate notes together.   It is strong without tasting burnt.  My husband tasted more of a hot cocoa with hints of coffee and I was the opposite, but we both agreed it was delicious lol. "
-    }
-  ]
+    "name": "Cozy by the Fire",
+    "description": "Made for Week 45 of the Year of Mixing. A balanced cafe mocha with hints or caramel. ",
+    "id": 131819,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131819\/649A11F8-09DD-430F-99B0-18A68F9B5114.jpeg",
+    "updated_at": "2020-12-12T18:30:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Arabica Coffee",
+            "flavor_id": "8822",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Chocolate Deutsch",
+            "flavor_id": "2151",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Chocolate Mousse",
+            "flavor_id": "9371",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Coffee Milk Froth",
+            "flavor_id": "8858",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Salted Caramel",
+            "flavor_id": "8959",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Daytimefrank1",
+    "views": "1634",
+    "created_at": "2018-12-19",
+    "slug": "cozy_by_the_fire",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131819.jpeg",
+    "total_flavoring": "7.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Demented76",
+            "score": 5,
+            "text": "The coffee does something wonderful to the chocolates in this recipe and brings them closer to the realm of realistic.  This is a stout and creamy cup of mocha with the caramel mostly just sweetening the mix a bit and helping to pull the coffee and chocolate notes together.   It is strong without tasting burnt.  My husband tasted more of a hot cocoa with hints of coffee and I was the opposite, but we both agreed it was delicious lol. "
+        }
+    ]
 }

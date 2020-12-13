@@ -1,51 +1,53 @@
 {
-  "name": "Sudden Meals",
-  "description": "A revised version of the original bunny clone. This e-liquid recipe is as close as you will get to the original as it hosts a great taste along with great vapor production. Taking longer than usual to craft is certainly reflected in the quality of this e-liquid.\r\nVG65/PG35 Base (No nicotine specified)",
-  "id": 114693,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/114693/Bugs_Bunny.svg.png",
-  "updated_at": "2020-12-08T00:50:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "tonyp1119",
-  "views": "1845",
-  "slug": "sudden_meals",
-  "total_flavoring": "25.0%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "4",
-      "text": "I cut the percentages in half and it came out really well. Thanks!!!"
-    }
-  ]
+    "name": "Sudden Meals",
+    "description": "A revised version of the original bunny clone. This e-liquid recipe is as close as you will get to the original as it hosts a great taste along with great vapor production. Taking longer than usual to craft is certainly reflected in the quality of this e-liquid.\r\nVG65\/PG35 Base (No nicotine specified)",
+    "id": 114693,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/114693\/Bugs_Bunny.svg.png",
+    "updated_at": "2020-12-12T10:34:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "tonyp1119",
+    "views": "1861",
+    "created_at": "2018-08-12",
+    "slug": "sudden_meals",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/114693.png",
+    "total_flavoring": "25.0%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 4,
+            "text": "I cut the percentages in half and it came out really well. Thanks!!!"
+        }
+    ]
 }

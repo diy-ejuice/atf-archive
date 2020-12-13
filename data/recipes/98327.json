@@ -1,44 +1,44 @@
 {
-  "name": "Orange Peach (Flavor Book Entry Recipe)",
-  "description": "This is a simple, yet vibrant and delicious, orange peach recipe\r\n\r\nMade for \"CAP Juicy Orange\" Flavorbook Entry\r\n->",
-  "id": 98327,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/98327/flavorbook-ATF.jpg",
-  "updated_at": "2020-12-07T09:44:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4302",
-  "slug": "orange_peach_flavor_book_entry_recipe",
-  "total_flavoring": "11.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Peach (Flavor Book Entry Recipe)",
+    "description": "This is a simple, yet vibrant and delicious, orange peach recipe\r\n\r\nMade for \"CAP Juicy Orange\" Flavorbook Entry\r\n->",
+    "id": 98327,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/98327\/flavorbook-ATF.jpg",
+    "updated_at": "2020-12-11T18:24:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4310",
+    "created_at": "2018-04-25",
+    "slug": "orange_peach_flavor_book_entry_recipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/98327.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

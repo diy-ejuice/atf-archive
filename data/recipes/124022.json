@@ -1,57 +1,59 @@
 {
-  "name": "Hangin' For The Holidays",
-  "description": "Temps are dropping, and the holiday season is rapidly approaching!\r\nThis is a simple 5 flavor recipe to ease into all the festivities; just sit back, and enjoy.\r\nAll 5 flavors seem to meld together quite nicely, and compliment each other; like a family gathering, where everyone likes one another (strange, right?).\r\nThe Biscuit was added for solidity, and plays rather nicely with the Eggnog and Hazelnut. The Vanilla Pudding gives a nice hug to everything, and the Vanilla Swirl is that aunt or uncle that is welcome everywhere!  ",
-  "id": 124022,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124022/snowfall.jpg",
-  "updated_at": "2020-12-08T00:50:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bonezmcnasty",
-  "views": "1288",
-  "slug": "hangin_for_the_holidays",
-  "total_flavoring": "6.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "If I had to nail this down in something short and pithy, festive and tasty would be my watchwords. The eggnog is notable and that's a good thing. The hazelnut adds a richness and slight nutty flavor that plays well off the biscuit, which cements the dessert vibe. The vanilla swirl and vanilla pudding add a wall of thick tasty goodness for everything to stick to. Basically, this is a holiday cookie dunked in a glass of eggnog, and it's all very delicious.&#xD;\n&#xD;\nNice one!"
-    }
-  ]
+    "name": "Hangin' For The Holidays",
+    "description": "Temps are dropping, and the holiday season is rapidly approaching!\r\nThis is a simple 5 flavor recipe to ease into all the festivities; just sit back, and enjoy.\r\nAll 5 flavors seem to meld together quite nicely, and compliment each other; like a family gathering, where everyone likes one another (strange, right?).\r\nThe Biscuit was added for solidity, and plays rather nicely with the Eggnog and Hazelnut. The Vanilla Pudding gives a nice hug to everything, and the Vanilla Swirl is that aunt or uncle that is welcome everywhere!  ",
+    "id": 124022,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124022\/snowfall.jpg",
+    "updated_at": "2020-12-12T15:40:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bonezmcnasty",
+    "views": "1299",
+    "created_at": "2018-10-21",
+    "slug": "hangin_for_the_holidays",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124022.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "If I had to nail this down in something short and pithy, festive and tasty would be my watchwords. The eggnog is notable and that's a good thing. The hazelnut adds a richness and slight nutty flavor that plays well off the biscuit, which cements the dessert vibe. The vanilla swirl and vanilla pudding add a wall of thick tasty goodness for everything to stick to. Basically, this is a holiday cookie dunked in a glass of eggnog, and it's all very delicious.&#xD;\n&#xD;\nNice one!"
+        }
+    ]
 }

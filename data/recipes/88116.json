@@ -1,63 +1,65 @@
 {
-  "name": "Coffee in the Shade",
-  "description": "I never found a coffee / tobacco recipe I liked. They all were just a mess, either not enough coffee or not enough tobacco or just off in general. I found Connecticut Shade and knew it had to be the one. This is good S&V, gets even better after a couple weeks, but I'll say 10 days would be fine. \r\n\r\nConnecticut Shade:\r\n\r\nThis is a really interesting flavor to me. A slightly spiced, wet, and earthy tobacco, with a little cacao and bourbon. There is also some coffee here, and it meshes perfectly with dark bean. It's a little top heavy, but other stuff helps with that.\r\n\r\nRed Burley / Kentucky Blend:\r\n\r\nA perfect combo to give a little more tobacco, round out the Shade, and dry things out a bit.\r\n\r\nDark Bean:\r\n\r\nNot much to say. I started with this at .4, but it seemed to fade into / blend into the Shade too much, so I bumped it up. Nice bit of coffee without that awful burned popcorn.\r\n\r\nBourbon:\r\n\r\nThis is the bridge between the Shade and everything else. Shade can really take over a mix, and is hard to get into the middle. Bourbon does this really well, and adds a little warmth and bourbon for you boozehounds putting liquor in your coffee.\r\n\r\nDesert Ship:\r\n\r\nI like this stuff as an accent. Hell I even like it more as a main note. Here it adds just a little to the shades spices, and makes the bourbon not so bourbon-y. I know a lot of people don't like it, leave it out if you want, but it's quite nice here.\r\n\r\nEnjoy!",
-  "id": 88116,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88116/E36A107B-63DA-4234-8170-11F5EE68C5A8.jpeg",
-  "updated_at": "2020-12-07T04:40:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Dark Bean (coffee Espresso)",
-      "flavor_id": "504",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Desert Ship",
-      "flavor_id": "4877",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bourbon",
-      "flavor_id": "4411",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "thelateoctober",
-  "views": "3367",
-  "slug": "coffee_in_the_shade",
-  "total_flavoring": "5.0%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "oh well"
-    }
-  ]
+    "name": "Coffee in the Shade",
+    "description": "I never found a coffee \/ tobacco recipe I liked. They all were just a mess, either not enough coffee or not enough tobacco or just off in general. I found Connecticut Shade and knew it had to be the one. This is good S&V, gets even better after a couple weeks, but I'll say 10 days would be fine. \r\n\r\nConnecticut Shade:\r\n\r\nThis is a really interesting flavor to me. A slightly spiced, wet, and earthy tobacco, with a little cacao and bourbon. There is also some coffee here, and it meshes perfectly with dark bean. It's a little top heavy, but other stuff helps with that.\r\n\r\nRed Burley \/ Kentucky Blend:\r\n\r\nA perfect combo to give a little more tobacco, round out the Shade, and dry things out a bit.\r\n\r\nDark Bean:\r\n\r\nNot much to say. I started with this at .4, but it seemed to fade into \/ blend into the Shade too much, so I bumped it up. Nice bit of coffee without that awful burned popcorn.\r\n\r\nBourbon:\r\n\r\nThis is the bridge between the Shade and everything else. Shade can really take over a mix, and is hard to get into the middle. Bourbon does this really well, and adds a little warmth and bourbon for you boozehounds putting liquor in your coffee.\r\n\r\nDesert Ship:\r\n\r\nI like this stuff as an accent. Hell I even like it more as a main note. Here it adds just a little to the shades spices, and makes the bourbon not so bourbon-y. I know a lot of people don't like it, leave it out if you want, but it's quite nice here.\r\n\r\nEnjoy!",
+    "id": 88116,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/88116\/E36A107B-63DA-4234-8170-11F5EE68C5A8.jpeg",
+    "updated_at": "2020-12-12T05:49:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Dark Bean (coffee Espresso)",
+            "flavor_id": "504",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Desert Ship",
+            "flavor_id": "4877",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bourbon",
+            "flavor_id": "4411",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "thelateoctober",
+    "views": "3383",
+    "created_at": "2018-02-12",
+    "slug": "coffee_in_the_shade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/88116.jpeg",
+    "total_flavoring": "5.0%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "oh well"
+        }
+    ]
 }

@@ -1,56 +1,58 @@
 {
-  "name": "Red Mango",
-  "description": "I was just playing around with the CAP Silverline range & 27 Fish seems to fit very well with the Mango & Raspberry. This is really tasty. Hope you enjoy it",
-  "id": 80464,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/80464/mango-berry146774069.jpg",
-  "updated_at": "2020-12-08T00:49:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "27 Fish",
-      "flavor_id": "8736",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "8062282",
-  "views": "2711",
-  "slug": "red_mango",
-  "total_flavoring": "11.5%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Fantastically tasty, simple mix."
-    },
-    {
-      "user": "Bjorncoetsee",
-      "score": "5",
-      "text": "I love 27 fish. And mango.  So i will try this"
-    }
-  ]
+    "name": "Red Mango",
+    "description": "I was just playing around with the CAP Silverline range & 27 Fish seems to fit very well with the Mango & Raspberry. This is really tasty. Hope you enjoy it",
+    "id": 80464,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/80464\/mango-berry146774069.jpg",
+    "updated_at": "2020-12-12T18:29:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "27 Fish",
+            "flavor_id": "8736",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "8062282",
+    "views": "2724",
+    "created_at": "2017-12-23",
+    "slug": "red_mango",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/80464.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Fantastically tasty, simple mix."
+        },
+        {
+            "user": "Bjorncoetsee",
+            "score": 5,
+            "text": "I love 27 fish. And mango.  So i will try this"
+        }
+    ]
 }

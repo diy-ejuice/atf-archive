@@ -1,80 +1,79 @@
 {
-  "name": "Milk Shakur",
-  "description": "Yet another strawberry milkshake.\r\n\r\nThis one tastes like the strawberry milkshake you get at mcdonalds.\r\n\r\nBe warned, coil killer :)",
-  "id": 71060,
-  "image_url": null,
-  "updated_at": "2020-12-06T09:37:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "1460",
-      "millipercent": 900,
-      "vendor": "FW"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "4440",
-      "millipercent": 400,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Mausberg",
-  "views": "1083",
-  "slug": "milk_shakur",
-  "total_flavoring": "16.5%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Milk Shakur",
+    "description": "Yet another strawberry milkshake.\r\n\r\nThis one tastes like the strawberry milkshake you get at mcdonalds.\r\n\r\nBe warned, coil killer :)",
+    "id": 71060,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:07:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "1460",
+            "millipercent": 900,
+            "vendor": "FW"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "4440",
+            "millipercent": 400,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Mausberg",
+    "views": "1088",
+    "created_at": "2017-10-28",
+    "slug": "milk_shakur",
+    "total_flavoring": "16.5%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0"
 }

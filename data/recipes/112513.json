@@ -1,38 +1,38 @@
 {
-  "name": "Musk Sticks",
-  "description": "I've got fond memories of the old style musk sticks i used to get from the corner store growing up. while i found the TPA Musk Candy as a stand alone flavour brought back those memories i felt that it needed a little sweetness and creaminess to round it out. i added the CAP Super Sweet to take some of the tartness out and the CAP Sweet Cream to add a creamy mouth feel to replicate to softness of the old style soft musk sticks.",
-  "id": 112513,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112513/Lollies-22.jpg",
-  "updated_at": "2020-12-07T22:33:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Musk Candy",
-      "flavor_id": "308",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Bullfrogi",
-  "views": "1779",
-  "slug": "musk_sticks",
-  "total_flavoring": "3.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Musk Sticks",
+    "description": "I've got fond memories of the old style musk sticks i used to get from the corner store growing up. while i found the TPA Musk Candy as a stand alone flavour brought back those memories i felt that it needed a little sweetness and creaminess to round it out. i added the CAP Super Sweet to take some of the tartness out and the CAP Sweet Cream to add a creamy mouth feel to replicate to softness of the old style soft musk sticks.",
+    "id": 112513,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112513\/Lollies-22.jpg",
+    "updated_at": "2020-12-10T17:57:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Musk Candy",
+            "flavor_id": "308",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Bullfrogi",
+    "views": "1788",
+    "created_at": "2018-07-29",
+    "slug": "musk_sticks",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112513.jpg",
+    "total_flavoring": "3.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

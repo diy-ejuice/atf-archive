@@ -1,68 +1,70 @@
 {
-  "name": "My Golden Ticket",
-  "description": "My version of the infamous “golden ticket” someday a company will release an actual chocolate we can work with, but this fits the bill for now. Enjoy friends! ",
-  "id": 158620,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158620/2B832E01-58E4-4A08-BCC1-92601EBA01E0.png",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 600,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1687",
-  "slug": "my_golden_ticket",
-  "total_flavoring": "10.1%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "1000",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "beeker",
-      "score": "5",
-      "text": "Good stuff. Chocolate is tough to balance well but you manage it with delicious effect here. "
-    },
-    {
-      "user": "zenotek",
-      "score": "none",
-      "text": "Temperature unclear, bottle vaprized in my smelting furnace."
-    }
-  ]
+    "name": "My Golden Ticket",
+    "description": "My version of the infamous \u201cgolden ticket\u201d someday a company will release an actual chocolate we can work with, but this fits the bill for now. Enjoy friends! ",
+    "id": 158620,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/158620\/2B832E01-58E4-4A08-BCC1-92601EBA01E0.png",
+    "updated_at": "2020-12-12T20:31:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 600,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1693",
+    "created_at": "2019-07-09",
+    "slug": "my_golden_ticket",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/158620.png",
+    "total_flavoring": "10.1%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "1000",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "beeker",
+            "score": 5,
+            "text": "Good stuff. Chocolate is tough to balance well but you manage it with delicious effect here. "
+        },
+        {
+            "user": "zenotek",
+            "score": 0,
+            "text": "Temperature unclear, bottle vaprized in my smelting furnace."
+        }
+    ]
 }

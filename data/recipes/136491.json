@@ -1,68 +1,68 @@
 {
-  "name": "Blueberry cake",
-  "description": "A modified blueberry trinity to create a fresh blueberry in cake. Used INW lemon to brighten up the blueberry. Needs a few days to steep. Way better after a few weeks steep. ",
-  "id": 136491,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136491/blueberry_cake.jpg",
-  "updated_at": "2020-12-07T20:32:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake Batter Dip",
-      "flavor_id": "1223",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "660",
-      "millipercent": 100,
-      "vendor": "INW"
-    }
-  ],
-  "author": "fadedjay1",
-  "views": "1583",
-  "slug": "blueberry_cake",
-  "total_flavoring": "9.6%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry cake",
+    "description": "A modified blueberry trinity to create a fresh blueberry in cake. Used INW lemon to brighten up the blueberry. Needs a few days to steep. Way better after a few weeks steep. ",
+    "id": 136491,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/136491\/blueberry_cake.jpg",
+    "updated_at": "2020-12-11T13:45:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake Batter Dip",
+            "flavor_id": "1223",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "660",
+            "millipercent": 100,
+            "vendor": "INW"
+        }
+    ],
+    "author": "fadedjay1",
+    "views": "1592",
+    "created_at": "2019-01-25",
+    "slug": "blueberry_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/136491.jpg",
+    "total_flavoring": "9.6%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0"
 }

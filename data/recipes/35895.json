@@ -1,55 +1,57 @@
 {
-  "name": "Lemon Pound Cake ",
-  "description": "This is a simple bakery recipe the 3 flavorings work very well together to obtain this profile. The FLV Poundcake and FW Yellow Cake combine to bring that dense cake note and the FA Lemon Sicily pops out and lays right on top. I know you will enjoy this simple and delicious vape.",
-  "id": 35895,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35895/image.jpeg",
-  "updated_at": "2020-12-08T00:49:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pound Cake",
-      "flavor_id": "4306",
-      "millipercent": 9000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SamKayla",
-  "views": "4672",
-  "slug": "lemon_pound_cake",
-  "total_flavoring": "12.5%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Gordo",
-      "score": "5",
-      "text": "Nailed it !!  Tastes awesome right off the shake. "
-    },
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "Lemon Sicily is a delectable flavor. I made several recipe attempts to keep it on top, sometimes with over a dozen flavors. This recipe achieves it with only 3, and it's still a full lemon pound cake. The cake notes are just right, and don't mute the glorious lemon. Great recipe, thanks."
-    },
-    {
-      "user": "KRUCIAL",
-      "score": "5",
-      "text": "This recipe is a profile nailer. Needs a solid week steep after that it is delicious. The FLV Poundcake percentage seems a little high but totally works here. If your just starting diy this would be a great recipe to get you in the groove. So yummy great job. "
-    }
-  ]
+    "name": "Lemon Pound Cake ",
+    "description": "This is a simple bakery recipe the 3 flavorings work very well together to obtain this profile. The FLV Poundcake and FW Yellow Cake combine to bring that dense cake note and the FA Lemon Sicily pops out and lays right on top. I know you will enjoy this simple and delicious vape.",
+    "id": 35895,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35895\/image.jpeg",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pound Cake",
+            "flavor_id": "4306",
+            "millipercent": 9000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SamKayla",
+    "views": "4681",
+    "created_at": "2017-03-09",
+    "slug": "lemon_pound_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35895.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Gordo",
+            "score": 5,
+            "text": "Nailed it !!  Tastes awesome right off the shake. "
+        },
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "Lemon Sicily is a delectable flavor. I made several recipe attempts to keep it on top, sometimes with over a dozen flavors. This recipe achieves it with only 3, and it's still a full lemon pound cake. The cake notes are just right, and don't mute the glorious lemon. Great recipe, thanks."
+        },
+        {
+            "user": "KRUCIAL",
+            "score": 5,
+            "text": "This recipe is a profile nailer. Needs a solid week steep after that it is delicious. The FLV Poundcake percentage seems a little high but totally works here. If your just starting diy this would be a great recipe to get you in the groove. So yummy great job. "
+        }
+    ]
 }

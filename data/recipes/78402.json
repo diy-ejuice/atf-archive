@@ -1,63 +1,65 @@
 {
-  "name": "Creme Brulee Milkshake ",
-  "description": "Creme Brulee Milkshake. PUR Nilla Wafer Milk makes a great base for thick milkshakes.",
-  "id": 78402,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/78402/arbys-creme-brulee-shake.jpg",
-  "updated_at": "2020-12-06T12:55:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Nilla Wafer with Milk",
-      "flavor_id": "7773",
-      "millipercent": 5000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "oddDrop",
-  "views": "3161",
-  "slug": "creme_brulee_milkshake",
-  "total_flavoring": "10.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Bucky_B",
-      "score": "none",
-      "text": "Really good!"
-    }
-  ]
+    "name": "Creme Brulee Milkshake ",
+    "description": "Creme Brulee Milkshake. PUR Nilla Wafer Milk makes a great base for thick milkshakes.",
+    "id": 78402,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/78402\/arbys-creme-brulee-shake.jpg",
+    "updated_at": "2020-12-10T16:00:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Nilla Wafer with Milk",
+            "flavor_id": "7773",
+            "millipercent": 5000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "oddDrop",
+    "views": "3169",
+    "created_at": "2017-12-10",
+    "slug": "creme_brulee_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/78402.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Bucky_B",
+            "score": 0,
+            "text": "Really good!"
+        }
+    ]
 }

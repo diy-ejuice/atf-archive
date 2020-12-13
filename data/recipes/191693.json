@@ -1,44 +1,43 @@
 {
-  "name": "Früchte  Honig & Creme",
-  "description": "In diesem Rezept spielen wir mal mit einigen sehr starken Aromen, sehr gering dosiert.\r\nEin schöner Sommermix ",
-  "id": 191693,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:34:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 70,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "620",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 130,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "4428",
-      "millipercent": 70,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "421",
-  "slug": "frchte_honig_creme",
-  "total_flavoring": "0.67%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fr\u00fcchte  Honig & Creme",
+    "description": "In diesem Rezept spielen wir mal mit einigen sehr starken Aromen, sehr gering dosiert.\r\nEin sch\u00f6ner Sommermix ",
+    "id": 191693,
+    "image_url": null,
+    "updated_at": "2020-12-12T01:42:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 70,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "620",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 130,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "4428",
+            "millipercent": 70,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "427",
+    "created_at": "2020-04-18",
+    "slug": "frchte_honig_creme",
+    "total_flavoring": "0.67%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

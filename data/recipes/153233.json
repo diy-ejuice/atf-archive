@@ -1,50 +1,49 @@
 {
-  "name": "Root Beer Pod",
-  "description": "Simple root beer for the caliburn. Adjust coolant and sweetener as needed",
-  "id": 153233,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:33:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 7500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Ecrona",
-  "views": "433",
-  "slug": "root_beer_pod",
-  "total_flavoring": "19.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Root Beer Pod",
+    "description": "Simple root beer for the caliburn. Adjust coolant and sweetener as needed",
+    "id": 153233,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:58:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 7500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Ecrona",
+    "views": "437",
+    "created_at": "2019-05-28",
+    "slug": "root_beer_pod",
+    "total_flavoring": "19.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

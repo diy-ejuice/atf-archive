@@ -1,57 +1,59 @@
 {
-  "name": "Red limeade",
-  "description": "Delicious summer ADV. Lime fades after a while, so I put a few drops in every now and then.",
-  "id": 6711,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/6711/image.jpeg",
-  "updated_at": "2020-12-08T00:48:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Sennepsbrynje",
-  "views": "2263",
-  "slug": "red_limeade",
-  "total_flavoring": "8.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Synergy",
-      "score": "5",
-      "text": "Nice recipe! I added 2 drops of FLV per 10ml, and it's really helped the lime stick around. When I mix another bottle, I'll drop it down to 1d per 10ml, because at the current amount, it added almost a lime you get from the lime tootsie rolls. Either way, the strawberry has stuck around, and carries itself well against the lime-aid background.&#xD;\n&#xD;\nShake and vape was good, but did have that slight harshness from the FA cold pressed, but about a week later, this has turned into something beautiful. Thanks again,"
-    }
-  ]
+    "name": "Red limeade",
+    "description": "Delicious summer ADV. Lime fades after a while, so I put a few drops in every now and then.",
+    "id": 6711,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/6711\/image.jpeg",
+    "updated_at": "2020-12-12T10:32:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Sennepsbrynje",
+    "views": "2269",
+    "created_at": "2016-07-05",
+    "slug": "red_limeade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/6711.jpeg",
+    "total_flavoring": "8.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Synergy",
+            "score": 5,
+            "text": "Nice recipe! I added 2 drops of FLV per 10ml, and it's really helped the lime stick around. When I mix another bottle, I'll drop it down to 1d per 10ml, because at the current amount, it added almost a lime you get from the lime tootsie rolls. Either way, the strawberry has stuck around, and carries itself well against the lime-aid background.&#xD;\n&#xD;\nShake and vape was good, but did have that slight harshness from the FA cold pressed, but about a week later, this has turned into something beautiful. Thanks again,"
+        }
+    ]
 }

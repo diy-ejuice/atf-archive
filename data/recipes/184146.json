@@ -1,50 +1,50 @@
 {
-  "name": "mlNikon's Cabana Parfait",
-  "description": "rich creamy tropical dessert with bananas and a bit of pineapple and tropical note from the guanabana. creme chantilly is a really good rich whipped cream.",
-  "id": 184146,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/184146/banana_cream_dessert.png",
-  "updated_at": "2020-12-07T00:08:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Flambe",
-      "flavor_id": "9131",
-      "millipercent": 1000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "creme chantilly",
-      "flavor_id": "5588",
-      "millipercent": 3000,
-      "vendor": "SA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "692",
-  "slug": "mlnikons_cabana_parfait",
-  "total_flavoring": "9.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Cabana Parfait",
+    "description": "rich creamy tropical dessert with bananas and a bit of pineapple and tropical note from the guanabana. creme chantilly is a really good rich whipped cream.",
+    "id": 184146,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/184146\/banana_cream_dessert.png",
+    "updated_at": "2020-12-10T16:01:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Flambe",
+            "flavor_id": "9131",
+            "millipercent": 1000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "creme chantilly",
+            "flavor_id": "5588",
+            "millipercent": 3000,
+            "vendor": "SA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "700",
+    "created_at": "2020-02-09",
+    "slug": "mlnikons_cabana_parfait",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/184146.png",
+    "total_flavoring": "9.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

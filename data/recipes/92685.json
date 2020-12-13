@@ -1,50 +1,50 @@
 {
-  "name": "Grape Ape",
-  "description": "Taking you back to your youth in the 70's or 80's with the crisp grape taste .. Or better yet watching Scooby Do and Grape Ape on the T.V. and drinking that grape soda or Kool-Aid you had always liked..",
-  "id": 92685,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92685/Grape-ape_L15.jpg",
-  "updated_at": "2020-12-05T16:43:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Soda",
-      "flavor_id": "1300",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Queen Grapes",
-      "flavor_id": "1525",
-      "millipercent": 3000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragon Fruit",
-      "flavor_id": "2150",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 1250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MarkSr",
-  "views": "2376",
-  "slug": "grape_ape",
-  "total_flavoring": "13.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grape Ape",
+    "description": "Taking you back to your youth in the 70's or 80's with the crisp grape taste .. Or better yet watching Scooby Do and Grape Ape on the T.V. and drinking that grape soda or Kool-Aid you had always liked..",
+    "id": 92685,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92685\/Grape-ape_L15.jpg",
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Soda",
+            "flavor_id": "1300",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Queen Grapes",
+            "flavor_id": "1525",
+            "millipercent": 3000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragon Fruit",
+            "flavor_id": "2150",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 1250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MarkSr",
+    "views": "2385",
+    "created_at": "2018-03-17",
+    "slug": "grape_ape",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92685.jpg",
+    "total_flavoring": "13.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

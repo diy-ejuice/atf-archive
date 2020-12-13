@@ -1,69 +1,71 @@
 {
-  "name": "Cornish Cornet",
-  "description": "It wouldn't be summer without ice cream right? This one is just a simple Cornish vanilla ice cream, served in a wafer cone. I suppose you could add some ws-23 for some added authenticity, but I've never really been one for cold vapes.\r\n\r\nThis recipe also serves as a great base to add your favourite toppings. Got a favourite strawberry combo? Pop it in. Mint choc-chip anyone? Sure why not. Hope you all enjoy",
-  "id": 195736,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/195736/main-qimg-f5e5ccf0c0a8def0affe30076e7251d9.jpeg",
-  "updated_at": "2020-12-08T00:51:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Legendary Custard",
-      "flavor_id": "10388",
-      "millipercent": 4000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Vanilla Cream Extra SC",
-      "flavor_id": "8382",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Ice Cream SC",
-      "flavor_id": "10096",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cone SC",
-      "flavor_id": "9050",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Statch",
-  "views": "1163",
-  "slug": "cornish_cornet",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "I don’t get more than the just a bit of cone, and I do get a pretty noticeable maple note that seems like it shouldn't be there. But this is delicious. I love the super rich vanilla dairy cream here, it’s delightful. "
-    }
-  ]
+    "name": "Cornish Cornet",
+    "description": "It wouldn't be summer without ice cream right? This one is just a simple Cornish vanilla ice cream, served in a wafer cone. I suppose you could add some ws-23 for some added authenticity, but I've never really been one for cold vapes.\r\n\r\nThis recipe also serves as a great base to add your favourite toppings. Got a favourite strawberry combo? Pop it in. Mint choc-chip anyone? Sure why not. Hope you all enjoy",
+    "id": 195736,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/195736\/main-qimg-f5e5ccf0c0a8def0affe30076e7251d9.jpeg",
+    "updated_at": "2020-12-12T14:08:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Legendary Custard",
+            "flavor_id": "10388",
+            "millipercent": 4000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Vanilla Cream Extra SC",
+            "flavor_id": "8382",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Ice Cream SC",
+            "flavor_id": "10096",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cone SC",
+            "flavor_id": "9050",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Statch",
+    "views": "1173",
+    "created_at": "2020-05-26",
+    "slug": "cornish_cornet",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/195736.jpeg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "I don\u2019t get more than the just a bit of cone, and I do get a pretty noticeable maple note that seems like it shouldn't be there. But this is delicious. I love the super rich vanilla dairy cream here, it\u2019s delightful. "
+        }
+    ]
 }

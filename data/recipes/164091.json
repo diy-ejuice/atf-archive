@@ -1,68 +1,68 @@
 {
-  "name": "Ap-pie Dream",
-  "description": "Apple Pie with Vanilla Ice Cream (eyemakepizza's ice cream trinity)",
-  "id": 164091,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/164091/Screenshot_20190910-033157_Google.jpg",
-  "updated_at": "2020-12-07T02:17:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Apple",
-      "flavor_id": "814",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "967",
-  "slug": "appie_dream",
-  "total_flavoring": "13.75%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ap-pie Dream",
+    "description": "Apple Pie with Vanilla Ice Cream (eyemakepizza's ice cream trinity)",
+    "id": 164091,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/164091\/Screenshot_20190910-033157_Google.jpg",
+    "updated_at": "2020-12-12T00:42:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Apple",
+            "flavor_id": "814",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "977",
+    "created_at": "2019-08-22",
+    "slug": "appie_dream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/164091.jpg",
+    "total_flavoring": "13.75%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

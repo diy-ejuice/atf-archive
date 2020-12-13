@@ -1,63 +1,65 @@
 {
-  "name": "EIGHT ",
-  "description": "Inw pineapple & lemon sicily = Pineapple \r\nCaramel candy, bavarian cream & super sweet  = caramel \r\nVanilla custard = Custard \r\n\r\n= Pineapple Caramel Custard \r\n\r\nThis is attempt nr. Eight ",
-  "id": 82340,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/82340/C91E48BB-525F-4561-90CE-9776C26F2E86.jpeg",
-  "updated_at": "2020-12-08T00:49:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 2750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "150",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "JoeRoots",
-  "views": "1532",
-  "slug": "eight",
-  "total_flavoring": "10.75%",
-  "steep_days": "10",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "This was actually incredibly tasty! The 30 ml I made barely lasted a few days. Will definitely mix a bigger bottle and let it steep a while. Great recipe."
-    }
-  ]
+    "name": "EIGHT ",
+    "description": "Inw pineapple & lemon sicily = Pineapple \r\nCaramel candy, bavarian cream & super sweet  = caramel \r\nVanilla custard = Custard \r\n\r\n= Pineapple Caramel Custard \r\n\r\nThis is attempt nr. Eight ",
+    "id": 82340,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/82340\/C91E48BB-525F-4561-90CE-9776C26F2E86.jpeg",
+    "updated_at": "2020-12-12T18:29:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 2750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "150",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "JoeRoots",
+    "views": "1540",
+    "created_at": "2018-01-06",
+    "slug": "eight",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/82340.jpeg",
+    "total_flavoring": "10.75%",
+    "steep_days": "10",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "This was actually incredibly tasty! The 30 ml I made barely lasted a few days. Will definitely mix a bigger bottle and let it steep a while. Great recipe."
+        }
+    ]
 }

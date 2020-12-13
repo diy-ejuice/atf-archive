@@ -1,56 +1,56 @@
 {
-  "name": "A Sure-Bet (Orange Sherbet)",
-  "description": "A Sure-Bet - A creamy orange sherbet... | Steep: 5 days | Final version. I dropped FA Cream Fresh from the mix as it in addition to the other creams were causing too much muting. I have also opted to replace TFA Rainbow Sherbet w/ FW Rainbow Sherbet, which I've found to be a lot less harsh than TFA's offering. IMO it's just a better flavoring overall. Hope you enjoy should you choose to mix this one up!",
-  "id": 15209,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/15209/orangesherb.jpeg",
-  "updated_at": "2020-12-06T20:42:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Rainbow Sherbet",
-      "flavor_id": "1390",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": null,
-      "flavor_id": "null",
-      "millipercent": 0,
-      "vendor": null
-    }
-  ],
-  "author": "prime1ndustries",
-  "views": "2765",
-  "slug": "a_surebet_orange_sherbet",
-  "total_flavoring": "12.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "A Sure-Bet (Orange Sherbet)",
+    "description": "A Sure-Bet - A creamy orange sherbet... | Steep: 5 days | Final version. I dropped FA Cream Fresh from the mix as it in addition to the other creams were causing too much muting. I have also opted to replace TFA Rainbow Sherbet w\/ FW Rainbow Sherbet, which I've found to be a lot less harsh than TFA's offering. IMO it's just a better flavoring overall. Hope you enjoy should you choose to mix this one up!",
+    "id": 15209,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/15209\/orangesherb.jpeg",
+    "updated_at": "2020-12-12T00:40:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Rainbow Sherbet",
+            "flavor_id": "1390",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": null,
+            "flavor_id": "",
+            "millipercent": 0,
+            "vendor": null
+        }
+    ],
+    "author": "prime1ndustries",
+    "views": "2779",
+    "created_at": "2016-10-04",
+    "slug": "a_surebet_orange_sherbet",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/15209.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

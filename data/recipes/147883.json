@@ -1,74 +1,74 @@
 {
-  "name": "Peanut Brittle Cheesecake",
-  "description": "The WF peanut brittle works well with the Dx peanut butter so I mixed this for a friend that enjoyed it and they asked me to share it.\r\nI used cereal 27 instead of AP, swap if you like. If you don't have saline it is not a deal breaker.\r\nI tested using a Recurve at about 50 Watts.\r\n",
-  "id": 147883,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147883/pbc.jpg",
-  "updated_at": "2020-12-07T23:37:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Brittle SC",
-      "flavor_id": "9034",
-      "millipercent": 2250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Dx Peanut Butter",
-      "flavor_id": "288",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie Bite",
-      "flavor_id": "10149",
-      "millipercent": 2250,
-      "vendor": "MB"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Cream",
-      "flavor_id": "8992",
-      "millipercent": 1300,
-      "vendor": "VT"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 600,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Saline (0.9%)",
-      "flavor_id": "5960",
-      "millipercent": 200,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "wadeyloops",
-  "views": "1921",
-  "slug": "peanut_brittle_cheesecake",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peanut Brittle Cheesecake",
+    "description": "The WF peanut brittle works well with the Dx peanut butter so I mixed this for a friend that enjoyed it and they asked me to share it.\r\nI used cereal 27 instead of AP, swap if you like. If you don't have saline it is not a deal breaker.\r\nI tested using a Recurve at about 50 Watts.\r\n",
+    "id": 147883,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/147883\/pbc.jpg",
+    "updated_at": "2020-12-11T22:45:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Brittle SC",
+            "flavor_id": "9034",
+            "millipercent": 2250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Dx Peanut Butter",
+            "flavor_id": "288",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie Bite",
+            "flavor_id": "10149",
+            "millipercent": 2250,
+            "vendor": "MB"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Cream",
+            "flavor_id": "8992",
+            "millipercent": 1300,
+            "vendor": "VT"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 600,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Saline (0.9%)",
+            "flavor_id": "5960",
+            "millipercent": 200,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "wadeyloops",
+    "views": "1927",
+    "created_at": "2019-04-20",
+    "slug": "peanut_brittle_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/147883.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

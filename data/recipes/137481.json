@@ -1,56 +1,55 @@
 {
-  "name": "Triple Berry",
-  "description": "I mixed this for a friend looking for a mixed fruit flavor.  Not my cuppa tea, but he enjoyed.",
-  "id": 137481,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:44:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry V2",
-      "flavor_id": "109",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Aurora",
-      "flavor_id": "399",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Xist",
-  "views": "1214",
-  "slug": "triple_berry",
-  "total_flavoring": "7.8%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Triple Berry",
+    "description": "I mixed this for a friend looking for a mixed fruit flavor.  Not my cuppa tea, but he enjoyed.",
+    "id": 137481,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:00:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry V2",
+            "flavor_id": "109",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Aurora",
+            "flavor_id": "399",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Xist",
+    "views": "1224",
+    "created_at": "2019-02-01",
+    "slug": "triple_berry",
+    "total_flavoring": "7.8%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

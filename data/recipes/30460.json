@@ -1,80 +1,82 @@
 {
-  "name": "zingers",
-  "description": "This mix was an accident really. I feel it is pretty straight forward enough and notes aren't my strong suit so I think I will just leave it at that for now. I will be writing notes for this soon. I just really wanted to share it.",
-  "id": 30460,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30460/zinger.png",
-  "updated_at": "2020-12-08T00:49:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "640",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "That_Hohmie",
-  "views": "4013",
-  "slug": "zingers",
-  "total_flavoring": "14.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "Seriously loving this. It's got that just right note of coconut that's smothered in raspberry flavor drenching a twinkie. In other words, it's just what it says on the tin, a raspberry zinger. Very nicely done if you're into those, and I am."
-    },
-    {
-      "user": "R2ME2",
-      "score": "5",
-      "text": "Great job on this accidental tasty treat. I'm loving bad boy brulee too. You're a very talented mixer.  Cudos and thanks"
-    }
-  ]
+    "name": "zingers",
+    "description": "This mix was an accident really. I feel it is pretty straight forward enough and notes aren't my strong suit so I think I will just leave it at that for now. I will be writing notes for this soon. I just really wanted to share it.",
+    "id": 30460,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30460\/zinger.png",
+    "updated_at": "2020-12-12T20:28:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "640",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "That_Hohmie",
+    "views": "4026",
+    "created_at": "2017-02-04",
+    "slug": "zingers",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30460.png",
+    "total_flavoring": "14.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "Seriously loving this. It's got that just right note of coconut that's smothered in raspberry flavor drenching a twinkie. In other words, it's just what it says on the tin, a raspberry zinger. Very nicely done if you're into those, and I am."
+        },
+        {
+            "user": "R2ME2",
+            "score": 5,
+            "text": "Great job on this accidental tasty treat. I'm loving bad boy brulee too. You're a very talented mixer.  Cudos and thanks"
+        }
+    ]
 }

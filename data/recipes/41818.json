@@ -1,62 +1,62 @@
 {
-  "name": "Kentucky Custard ",
-  "description": "My attempt at a smooth creamy vanilla custard with a Kentucky bourbon topping",
-  "id": 41818,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/41818/cb9fbe837943be7bb4c0033f7111adb8.jpg",
-  "updated_at": "2020-12-01T15:12:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "joelbryant1960",
-  "views": "1245",
-  "slug": "kentucky_custard",
-  "total_flavoring": "16.6%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kentucky Custard ",
+    "description": "My attempt at a smooth creamy vanilla custard with a Kentucky bourbon topping",
+    "id": 41818,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/41818\/cb9fbe837943be7bb4c0033f7111adb8.jpg",
+    "updated_at": "2020-12-10T21:31:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "joelbryant1960",
+    "views": "1253",
+    "created_at": "2017-04-18",
+    "slug": "kentucky_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/41818.jpg",
+    "total_flavoring": "16.6%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

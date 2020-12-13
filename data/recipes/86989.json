@@ -1,81 +1,83 @@
 {
-  "name": "DCTB (Don't Cry Tom Brady)",
-  "description": "I picture Tom Brady sitting in the locker room after that last failed Hail Mary staring forlornly at the half deflated footballs around him, tears running down his cheeks.  The only thing that could possibly end this pain is something salty and creamy in his mouth...  He looks over at an equally forlorn Gronk.  Their eyes meet.  They both know as only two partners who have been together for what seems like a lifetime can know what the other needs.  A butterscotch pudding with salted caramel sauce and oreo cookie bits!\r\n\r\nSince the Eagles won the Super Bowl I'm making a run at a Philly favorite according to the interwebs, but no one in that actually lives in Philadelphia has apparently ever heard of, Budino.  I was aiming for a rich butterscotch custard/Pudding, caramel sauce, and cookie bits, which I for the most part achieved.  The cookie bits comes across as more of a chocolate note in the back of the vape, but otherwise, even off the shake this turned out REALLY well!\r\n\r\nMost of the recipe is pretty straight forward.\r\n\r\nI love INW Custard because you get a darned good custard with almost no steep.\r\n\r\nFLV Vanilla Pudding is a delightful flavor, tastes like cheap snack-pak vanilla jello right away, but develops a surprising amount of depth as it steeps.\r\n\r\nRF Cookies and cream pretty much has the chocolate cookie portion of an oreo nailed minus a little texture.\r\n\r\nButterscotch and Salted Caramel need to be together as much as Gronk and ol'TB.  They compliment each other so well it's just meant to be.\r\n\r\nThe Soho and French Vanilla Ice Cream are here for enhancing the richness and mouth feel of the vape.  The FVIC has a great sweet butter note that compliments the custard and pudding.\r\n\r\nWhipped Cream is there for flavor, sweetness, blending, and a bit of mouth feel.",
-  "id": 86989,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86989/Brady1.png",
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 1250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cookies And Cream",
-      "flavor_id": "2251",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Soho",
-      "flavor_id": "413",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "2660",
-  "slug": "dctb_dont_cry_tom_brady",
-  "total_flavoring": "12.75%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "FizzChaser",
-      "score": "5",
-      "text": "This is great recipe Fresh! I had to replace FLV Cream and Cookies for RF Cookies &amp; Cream SC (same percentage), but it turned out fantastic."
-    }
-  ]
+    "name": "DCTB (Don't Cry Tom Brady)",
+    "description": "I picture Tom Brady sitting in the locker room after that last failed Hail Mary staring forlornly at the half deflated footballs around him, tears running down his cheeks.  The only thing that could possibly end this pain is something salty and creamy in his mouth...  He looks over at an equally forlorn Gronk.  Their eyes meet.  They both know as only two partners who have been together for what seems like a lifetime can know what the other needs.  A butterscotch pudding with salted caramel sauce and oreo cookie bits!\r\n\r\nSince the Eagles won the Super Bowl I'm making a run at a Philly favorite according to the interwebs, but no one in that actually lives in Philadelphia has apparently ever heard of, Budino.  I was aiming for a rich butterscotch custard\/Pudding, caramel sauce, and cookie bits, which I for the most part achieved.  The cookie bits comes across as more of a chocolate note in the back of the vape, but otherwise, even off the shake this turned out REALLY well!\r\n\r\nMost of the recipe is pretty straight forward.\r\n\r\nI love INW Custard because you get a darned good custard with almost no steep.\r\n\r\nFLV Vanilla Pudding is a delightful flavor, tastes like cheap snack-pak vanilla jello right away, but develops a surprising amount of depth as it steeps.\r\n\r\nRF Cookies and cream pretty much has the chocolate cookie portion of an oreo nailed minus a little texture.\r\n\r\nButterscotch and Salted Caramel need to be together as much as Gronk and ol'TB.  They compliment each other so well it's just meant to be.\r\n\r\nThe Soho and French Vanilla Ice Cream are here for enhancing the richness and mouth feel of the vape.  The FVIC has a great sweet butter note that compliments the custard and pudding.\r\n\r\nWhipped Cream is there for flavor, sweetness, blending, and a bit of mouth feel.",
+    "id": 86989,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/86989\/Brady1.png",
+    "updated_at": "2020-12-12T08:13:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 1250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cookies And Cream",
+            "flavor_id": "2251",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Soho",
+            "flavor_id": "413",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "2671",
+    "created_at": "2018-02-05",
+    "slug": "dctb_dont_cry_tom_brady",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/86989.png",
+    "total_flavoring": "12.75%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "FizzChaser",
+            "score": 5,
+            "text": "This is great recipe Fresh! I had to replace FLV Cream and Cookies for RF Cookies &amp; Cream SC (same percentage), but it turned out fantastic."
+        }
+    ]
 }

@@ -1,56 +1,55 @@
 {
-  "name": "Apples in strawberries",
-  "description": "Just simple apples and strawberries. I'm liking it perfect amount of apples and strawberries. Give it a try... There have probably been many recipes like it already but whatever. ",
-  "id": 102860,
-  "image_url": null,
-  "updated_at": "2020-12-07T11:44:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji Apple",
-      "flavor_id": "8456",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Green Apple",
-      "flavor_id": "1491",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 4000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Jbirdy34",
-  "views": "1198",
-  "slug": "apples_in_strawberries",
-  "total_flavoring": "14.75%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apples in strawberries",
+    "description": "Just simple apples and strawberries. I'm liking it perfect amount of apples and strawberries. Give it a try... There have probably been many recipes like it already but whatever. ",
+    "id": 102860,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji Apple",
+            "flavor_id": "8456",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Green Apple",
+            "flavor_id": "1491",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 4000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Jbirdy34",
+    "views": "1205",
+    "created_at": "2018-05-26",
+    "slug": "apples_in_strawberries",
+    "total_flavoring": "14.75%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

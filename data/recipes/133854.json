@@ -1,74 +1,74 @@
 {
-  "name": "Blueberry Lemon Creme ",
-  "description": "\r\nLemon creamy goodness with hints of blueberry. \r\nI wanted to create this as the picture depicts. A creamy desert. Lemon ice cream like but not custard. I invisioned milk and heavy whipping cream based home made lemon ice cream with a little blueberry drizzle. To me the blueberry would only be a slight taste because it’s only a slight drizzle and mostly a semi sweet heavy whipped lemon ice cream base. I used black currant to keep the blueberries bright and the combination of blueberry extra and blueberry wild is a light blueberry combination that isn’t too much on the candy side I added a LA Lemonade because it’s a candy lemon flavor. I used tfa custard because it isn’t as vanilla heavy or as eggy as the other options. I enhanced it with cheesecake graham crust for texture and FA Custard for the Creamy lemon zest notes I added Vanilla Gelato because it has a real good ice cream type cream notes. A touch of yogurt brings a thickness to the ice cream without adding egg notes that heavy custard would bring. I have no idea what brought a buttery note to the table but there is definitely a buttermilk flavor in this mix. \r\nSweeten to taste. I personally think it would be good anywhere between 0.50% to 1.0% depending on your sweet tooth. (I used 0.5% FW sweetener)\r\nEnjoy.",
-  "id": 133854,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133854/blueberryncream.jpg",
-  "updated_at": "2020-12-06T20:44:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "9957",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 100,
-      "vendor": "FW"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1806",
-  "slug": "blueberry_lemon_creme",
-  "total_flavoring": "16.85%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Blueberry Lemon Creme ",
+    "description": "\r\nLemon creamy goodness with hints of blueberry. \r\nI wanted to create this as the picture depicts. A creamy desert. Lemon ice cream like but not custard. I invisioned milk and heavy whipping cream based home made lemon ice cream with a little blueberry drizzle. To me the blueberry would only be a slight taste because it\u2019s only a slight drizzle and mostly a semi sweet heavy whipped lemon ice cream base. I used black currant to keep the blueberries bright and the combination of blueberry extra and blueberry wild is a light blueberry combination that isn\u2019t too much on the candy side I added a LA Lemonade because it\u2019s a candy lemon flavor. I used tfa custard because it isn\u2019t as vanilla heavy or as eggy as the other options. I enhanced it with cheesecake graham crust for texture and FA Custard for the Creamy lemon zest notes I added Vanilla Gelato because it has a real good ice cream type cream notes. A touch of yogurt brings a thickness to the ice cream without adding egg notes that heavy custard would bring. I have no idea what brought a buttery note to the table but there is definitely a buttermilk flavor in this mix. \r\nSweeten to taste. I personally think it would be good anywhere between 0.50% to 1.0% depending on your sweet tooth. (I used 0.5% FW sweetener)\r\nEnjoy.",
+    "id": 133854,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/133854\/blueberryncream.jpg",
+    "updated_at": "2020-12-12T11:52:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "9957",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 100,
+            "vendor": "FW"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1818",
+    "created_at": "2019-01-06",
+    "slug": "blueberry_lemon_creme",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/133854.jpg",
+    "total_flavoring": "16.85%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

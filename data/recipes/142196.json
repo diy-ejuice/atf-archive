@@ -1,50 +1,50 @@
 {
-  "name": "Rin's Gingerbread Ice Cream",
-  "description": "Ice cream with caramel layers and chunks of gingerbread. Topped with whipped cream. You can sub the whipped cream for a brand you have, the rest are necessary as they are listed ",
-  "id": 142196,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/142196/53279075_10156083137738461_7565476293655920640_n.jpg",
-  "updated_at": "2020-12-02T17:05:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Creme Caramel",
-      "flavor_id": "8865",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6263",
-      "millipercent": 1000,
-      "vendor": "DF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1045",
-  "slug": "rins_gingerbread_ice_cream",
-  "total_flavoring": "4.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Gingerbread Ice Cream",
+    "description": "Ice cream with caramel layers and chunks of gingerbread. Topped with whipped cream. You can sub the whipped cream for a brand you have, the rest are necessary as they are listed ",
+    "id": 142196,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/142196\/53279075_10156083137738461_7565476293655920640_n.jpg",
+    "updated_at": "2020-12-12T10:15:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Creme Caramel",
+            "flavor_id": "8865",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6263",
+            "millipercent": 1000,
+            "vendor": "DF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1055",
+    "created_at": "2019-03-10",
+    "slug": "rins_gingerbread_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/142196.jpg",
+    "total_flavoring": "4.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

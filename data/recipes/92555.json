@@ -1,50 +1,49 @@
 {
-  "name": "Banana Cream Pie",
-  "description": "one of my first things I mixed and it turned out pretty tasty. I am such a beginner and I love it!",
-  "id": 92555,
-  "image_url": null,
-  "updated_at": "2020-11-29T23:44:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "1596",
-      "millipercent": 4000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream Pie",
-      "flavor_id": "1595",
-      "millipercent": 400,
-      "vendor": "FE"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 6670,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 300,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "327",
-  "slug": "banana_cream_pie",
-  "total_flavoring": "15.37%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Cream Pie",
+    "description": "one of my first things I mixed and it turned out pretty tasty. I am such a beginner and I love it!",
+    "id": 92555,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:08:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "1596",
+            "millipercent": 4000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream Pie",
+            "flavor_id": "1595",
+            "millipercent": 400,
+            "vendor": "FE"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 6670,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 300,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "333",
+    "created_at": "2018-03-16",
+    "slug": "banana_cream_pie",
+    "total_flavoring": "15.37%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

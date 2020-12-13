@@ -1,68 +1,67 @@
 {
-  "name": "A&W root beer revisited",
-  "description": "So if anyone has ever tried my original A&W root beer float and thought it was good well I got a good tip and inverted it into this one and with the 2 different root beer flavors in this one they give it alil more spice with a nice smooth ice cream notes in the background give this one a shot guys U might like this one better",
-  "id": 139079,
-  "image_url": null,
-  "updated_at": "2020-12-05T19:50:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "110",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Root Beer (pg)",
-      "flavor_id": "366",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1134",
-  "slug": "aw_root_beer_revisited",
-  "total_flavoring": "16.7%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "A&W root beer revisited",
+    "description": "So if anyone has ever tried my original A&W root beer float and thought it was good well I got a good tip and inverted it into this one and with the 2 different root beer flavors in this one they give it alil more spice with a nice smooth ice cream notes in the background give this one a shot guys U might like this one better",
+    "id": 139079,
+    "image_url": null,
+    "updated_at": "2020-12-12T08:14:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "110",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Root Beer (pg)",
+            "flavor_id": "366",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1147",
+    "created_at": "2019-02-14",
+    "slug": "aw_root_beer_revisited",
+    "total_flavoring": "16.7%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "110"
 }

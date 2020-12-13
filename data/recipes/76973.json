@@ -1,69 +1,70 @@
 {
-  "name": "blue moon ice cream (remix month)",
-  "description": "this is a remix of no name's blue moon ice cream and the original is pretty damn good guys",
-  "id": 76973,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Moon Ice Cream",
-      "flavor_id": "4089",
-      "millipercent": 5000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1818",
-  "slug": "blue_moon_ice_cream_remix_month",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Moggle33",
-      "score": "5",
-      "text": "Never had the original. But this stuff is really good, after a 7 day steep. Thanks for this recipe"
-    }
-  ]
+    "name": "blue moon ice cream (remix month)",
+    "description": "this is a remix of no name's blue moon ice cream and the original is pretty damn good guys",
+    "id": 76973,
+    "image_url": null,
+    "updated_at": "2020-12-12T17:11:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Moon Ice Cream",
+            "flavor_id": "4089",
+            "millipercent": 5000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1825",
+    "created_at": "2017-12-02",
+    "slug": "blue_moon_ice_cream_remix_month",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Moggle33",
+            "score": 5,
+            "text": "Never had the original. But this stuff is really good, after a 7 day steep. Thanks for this recipe"
+        }
+    ]
 }

@@ -1,63 +1,64 @@
 {
-  "name": "Charlie Noble's Commodore Pearry",
-  "description": "This's the discontinued Commodore Pearry recipe that Charlie Noble posted on their blog. Haven't mixed this one up yet, but looks fairly tasty.\r\n\r\nThe blog post didn't give any sort of steeping time. I'd recommend a week, just to be safe.\r\n\r\nReddit thread;\r\nhttps://www.reddit.com/r/electronic_cigarette/comments/67qvss/charlie_noble_the_notsodiscontinued_series/\r\n\r\nOriginal blog post here;\r\nhttps://charlienoble.com/blogs/charlie-noble/the-not-so-discontinued-series-commodore-pearry",
-  "id": 43368,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 6500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla V2",
-      "flavor_id": "57",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "37",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "1233",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "DataNotAnecdotes",
-  "views": "2202",
-  "slug": "charlie_nobles_commodore_pearry",
-  "total_flavoring": "16.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "mysterioso",
-      "score": "5",
-      "text": "This actually tastes like pear.  The caramel is also present in a dark, rich, and textured flavor.  This is really good, but not an ADV for me.  Still gets 5 stars though since it tastes great."
-    }
-  ]
+    "name": "Charlie Noble's Commodore Pearry",
+    "description": "This's the discontinued Commodore Pearry recipe that Charlie Noble posted on their blog. Haven't mixed this one up yet, but looks fairly tasty.\r\n\r\nThe blog post didn't give any sort of steeping time. I'd recommend a week, just to be safe.\r\n\r\nReddit thread;\r\nhttps:\/\/www.reddit.com\/r\/electronic_cigarette\/comments\/67qvss\/charlie_noble_the_notsodiscontinued_series\/\r\n\r\nOriginal blog post here;\r\nhttps:\/\/charlienoble.com\/blogs\/charlie-noble\/the-not-so-discontinued-series-commodore-pearry",
+    "id": 43368,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:05:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 6500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla V2",
+            "flavor_id": "57",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "37",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "1233",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "DataNotAnecdotes",
+    "views": "2207",
+    "created_at": "2017-04-27",
+    "slug": "charlie_nobles_commodore_pearry",
+    "total_flavoring": "16.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "mysterioso",
+            "score": 5,
+            "text": "This actually tastes like pear.  The caramel is also present in a dark, rich, and textured flavor.  This is really good, but not an ADV for me.  Still gets 5 stars though since it tastes great."
+        }
+    ]
 }

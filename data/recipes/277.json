@@ -1,56 +1,55 @@
 {
-  "name": "Berry Cream",
-  "description": "Strawberry Blueberry cream",
-  "id": 277,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "170",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "1345",
-  "slug": "berry_cream",
-  "total_flavoring": "26.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Cream",
+    "description": "Strawberry Blueberry cream",
+    "id": 277,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "170",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "1351",
+    "created_at": "2016-03-06",
+    "slug": "berry_cream",
+    "total_flavoring": "26.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

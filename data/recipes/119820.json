@@ -1,56 +1,56 @@
 {
-  "name": "Holy Spice Custard ",
-  "description": "Profile: a thick and creamy vanilla custard with a unique dark creamy note, and topped with a sprinkle of spice. \r\n\r\nPs - goes great with a morning coffee, especially on a cold fall/winter morning. ",
-  "id": 119820,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/119820/default_700ede03a743251018a2a5acc69fcdb7_cinnamon_vanilla_baked_custard_dreamstimesmall_22836461.jpg",
-  "updated_at": "2020-12-07T17:35:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "358",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Ambedo",
-  "views": "1717",
-  "slug": "holy_spice_custard",
-  "total_flavoring": "11.5%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Holy Spice Custard ",
+    "description": "Profile: a thick and creamy vanilla custard with a unique dark creamy note, and topped with a sprinkle of spice. \r\n\r\nPs - goes great with a morning coffee, especially on a cold fall\/winter morning. ",
+    "id": 119820,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/119820\/default_700ede03a743251018a2a5acc69fcdb7_cinnamon_vanilla_baked_custard_dreamstimesmall_22836461.jpg",
+    "updated_at": "2020-12-10T14:52:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "358",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Ambedo",
+    "views": "1725",
+    "created_at": "2018-09-20",
+    "slug": "holy_spice_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/119820.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0"
 }

@@ -1,84 +1,86 @@
 {
-  "name": "BlackBerry Cobler",
-  "description": "I chose to use blackberry by tpa for the baked blackberry note I also used blueberry from fw for the baked note I think the blueberry really helps the blackberry in this recipe.  The crust is made up of the cap sugar cookie, fw graham cracker, inw biscuit I get a delicious gooey cobbler/ crumble crust. This is one of my favorites that I have made five me a review please and let me know what you think.  If you do any subs or additions please leave a comment. ",
-  "id": 108411,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/108411/Screenshot_20180703-232052_Gallery.jpg",
-  "updated_at": "2020-12-08T00:50:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackberry",
-      "flavor_id": "214",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RedWagonVapes",
-  "views": "2612",
-  "slug": "blackberry_cobler",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "whthek",
-      "score": "5",
-      "text": "Nice work on this one! I had to sub Graham Cracker Clear, and have been 'small batching' increases in the fruits to bring them more forward, to my liking, without pushing the Blackberry too far. 1.5% of each of the two is really good and I'm waiting on a bottle in the cabinet with the Blackberry at 2%. Thanks for sharing!"
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "Pretty solid cobbler here, I really dig the bakery going on. I'm not a big fan of tpa blackberry but that's totally subjective.  This guy really benefits f rom the week steep and gets at least 2x better over time. The thing I love most about this bad boy is it is bakery heavy and fruit light which is what really gives you that authentic cobbler feeling in a vape."
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This one is a banger.  I have to be really careful with super sweet, and I think I added a hair more than I should have here, but this was still really good to me.  The blueberry and blackberry compliment each other nicely, even with FW blueberry at only half a percent you know it's doing something in there.  The bakery layer is absolutely perfect for this flavor profile, with fw graham cracker giving just enough cinnamon to be there, but not nearly enough to offend anyone who isn't a cinnamon fan."
-    },
-    {
-      "user": "Gachatay",
-      "score": "5",
-      "text": "This is a good recipe. The bakery layer in this complements the blackberry really well. The sugar cookie gives it a nice body, with the biscuit and graham cracker turning it into that baked oatmeal sort of note. It's also adds texture which is important here because cobbler has a nice crunch to it. The brown sugar helps give the bakery a nice baked dimension as well when it comes to the flavor. For the  blackberry, this is a perfect combo. TFA blackberry in my opinion is perfect in bakery's, but it can go floral if used too high. At 1% and just a touch of FW BB it sits on top and has a good jammy quality. I do feel the biscuit is a bit too high, it kind of overpowers the sugar cookie. That's just my personal opinion, but even at 1.5% it still has a wonderful flavor and spot on texture. Anyone that likes blackberry and bakeries will enjoy this."
-    }
-  ]
+    "name": "BlackBerry Cobler",
+    "description": "I chose to use blackberry by tpa for the baked blackberry note I also used blueberry from fw for the baked note I think the blueberry really helps the blackberry in this recipe.  The crust is made up of the cap sugar cookie, fw graham cracker, inw biscuit I get a delicious gooey cobbler\/ crumble crust. This is one of my favorites that I have made five me a review please and let me know what you think.  If you do any subs or additions please leave a comment. ",
+    "id": 108411,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/108411\/Screenshot_20180703-232052_Gallery.jpg",
+    "updated_at": "2020-12-12T20:30:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackberry",
+            "flavor_id": "214",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RedWagonVapes",
+    "views": "2619",
+    "created_at": "2018-07-03",
+    "slug": "blackberry_cobler",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/108411.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "whthek",
+            "score": 5,
+            "text": "Nice work on this one! I had to sub Graham Cracker Clear, and have been 'small batching' increases in the fruits to bring them more forward, to my liking, without pushing the Blackberry too far. 1.5% of each of the two is really good and I'm waiting on a bottle in the cabinet with the Blackberry at 2%. Thanks for sharing!"
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "Pretty solid cobbler here, I really dig the bakery going on. I'm not a big fan of tpa blackberry but that's totally subjective.  This guy really benefits f rom the week steep and gets at least 2x better over time. The thing I love most about this bad boy is it is bakery heavy and fruit light which is what really gives you that authentic cobbler feeling in a vape."
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This one is a banger.  I have to be really careful with super sweet, and I think I added a hair more than I should have here, but this was still really good to me.  The blueberry and blackberry compliment each other nicely, even with FW blueberry at only half a percent you know it's doing something in there.  The bakery layer is absolutely perfect for this flavor profile, with fw graham cracker giving just enough cinnamon to be there, but not nearly enough to offend anyone who isn't a cinnamon fan."
+        },
+        {
+            "user": "Gachatay",
+            "score": 5,
+            "text": "This is a good recipe. The bakery layer in this complements the blackberry really well. The sugar cookie gives it a nice body, with the biscuit and graham cracker turning it into that baked oatmeal sort of note. It's also adds texture which is important here because cobbler has a nice crunch to it. The brown sugar helps give the bakery a nice baked dimension as well when it comes to the flavor. For the  blackberry, this is a perfect combo. TFA blackberry in my opinion is perfect in bakery's, but it can go floral if used too high. At 1% and just a touch of FW BB it sits on top and has a good jammy quality. I do feel the biscuit is a bit too high, it kind of overpowers the sugar cookie. That's just my personal opinion, but even at 1.5% it still has a wonderful flavor and spot on texture. Anyone that likes blackberry and bakeries will enjoy this."
+        }
+    ]
 }

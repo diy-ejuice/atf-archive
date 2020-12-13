@@ -1,69 +1,71 @@
 {
-  "name": "Lebanese Rice Pudding",
-  "description": "This started with a picture and recipe provided by my friend Modivin in the DIY eJuice discord from BBC food recipes.  We decided to make sweet rice the star as this is a rice pudding.  The VT Yoghurt drink makes adds a citrus cream to the rice and the bavarian cream gives it some thickness and mouthfeel.  Next up was the accents.  Needed a hint of vanilla, pistachio and cinnamon so I used those recipes a bit low for what they offer.",
-  "id": 156777,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/156777/lebanese_rice_pudding_16994_16x9.jpg",
-  "updated_at": "2020-12-08T00:51:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 4000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pistachio",
-      "flavor_id": "293",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Sugar",
-      "flavor_id": "8741",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1415",
-  "slug": "lebanese_rice_pudding",
-  "total_flavoring": "15.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Can’t comment on authenticity to the actual food but this is interesting and delicious. Love the creamy rice pudding with hints of citrus and vanilla and a slight hint of cinnamon. Pistachio gets enhanced by the nuttiness of the rice and seems to be more than just a hint. It’s coming across as one of the main flavors to me, along with the rice and sweet apricot, but it’s lovely. &#xD;\n"
-    }
-  ]
+    "name": "Lebanese Rice Pudding",
+    "description": "This started with a picture and recipe provided by my friend Modivin in the DIY eJuice discord from BBC food recipes.  We decided to make sweet rice the star as this is a rice pudding.  The VT Yoghurt drink makes adds a citrus cream to the rice and the bavarian cream gives it some thickness and mouthfeel.  Next up was the accents.  Needed a hint of vanilla, pistachio and cinnamon so I used those recipes a bit low for what they offer.",
+    "id": 156777,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/156777\/lebanese_rice_pudding_16994_16x9.jpg",
+    "updated_at": "2020-12-12T18:30:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 4000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pistachio",
+            "flavor_id": "293",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Sugar",
+            "flavor_id": "8741",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1420",
+    "created_at": "2019-06-22",
+    "slug": "lebanese_rice_pudding",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/156777.jpg",
+    "total_flavoring": "15.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Can\u2019t comment on authenticity to the actual food but this is interesting and delicious. Love the creamy rice pudding with hints of citrus and vanilla and a slight hint of cinnamon. Pistachio gets enhanced by the nuttiness of the rice and seems to be more than just a hint. It\u2019s coming across as one of the main flavors to me, along with the rice and sweet apricot, but it\u2019s lovely. &#xD;\n"
+        }
+    ]
 }

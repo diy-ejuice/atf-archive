@@ -1,74 +1,76 @@
 {
-  "name": "Waterberry",
-  "description": "**Profile - Juicy and authentic watermelon mixed with a combination of red berries**\r\n\r\n\r\n**FLV Watermelon / FLV Wild Melon** - I find FLW Watermelon a very forgiving flavour. It can be used at low percentages as an additive role or as the main role. At 4%, stays right at the front note without messing the overall balance of the profile. It's the only watermelon I enjoy because it's authentic, juicy and doesn't fade so much especially at this percentage. Next, FLV Wild Melon to give a little more body to the Watermelon itself.\r\n\r\n**TPA Dragonfruit / TPA Honeydew** - Both flavours make this profile even juicier and TPA Dragonfruit helps a lot here creating a bond between the watermelon and the berries.\r\n\r\n**FA Forest Mix / CAP Harvest Berry** - Both percentages for my taste are just enough to be present in this profile. If I go higher, I start to get plastic off-notes especially with CAP Harvest Berry. Combined, the blackcurrant and the raspberry are present while the blueberry and the strawberry note stays right at the back being slightly present aswell.\r\n\r\n**CAP Super Sweet** - Optional here but in this case, creates a more full mouthfeel.",
-  "id": 113187,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/113187/d2323dd32.png",
-  "updated_at": "2020-12-08T00:50:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "616",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "69",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 150,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Katumbas",
-  "views": "5151",
-  "slug": "waterberry",
-  "total_flavoring": "9.2%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Excellent recipe everything was well balanced surprised this doesn’t have more reviews. Great job and thanks for sharing"
-    },
-    {
-      "user": "art228",
-      "score": "5",
-      "text": "Just mixed this up and off the shake it is very well balanced. Great mouth feel, not overwhelming but not subtle. Flavors blend well and give off a pleasant vape experience. I am sure with time it will get a bit better. Great summer fruit vape. Thanks for sharing:)"
-    }
-  ]
+    "name": "Waterberry",
+    "description": "**Profile - Juicy and authentic watermelon mixed with a combination of red berries**\r\n\r\n\r\n**FLV Watermelon \/ FLV Wild Melon** - I find FLW Watermelon a very forgiving flavour. It can be used at low percentages as an additive role or as the main role. At 4%, stays right at the front note without messing the overall balance of the profile. It's the only watermelon I enjoy because it's authentic, juicy and doesn't fade so much especially at this percentage. Next, FLV Wild Melon to give a little more body to the Watermelon itself.\r\n\r\n**TPA Dragonfruit \/ TPA Honeydew** - Both flavours make this profile even juicier and TPA Dragonfruit helps a lot here creating a bond between the watermelon and the berries.\r\n\r\n**FA Forest Mix \/ CAP Harvest Berry** - Both percentages for my taste are just enough to be present in this profile. If I go higher, I start to get plastic off-notes especially with CAP Harvest Berry. Combined, the blackcurrant and the raspberry are present while the blueberry and the strawberry note stays right at the back being slightly present aswell.\r\n\r\n**CAP Super Sweet** - Optional here but in this case, creates a more full mouthfeel.",
+    "id": 113187,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/113187\/d2323dd32.png",
+    "updated_at": "2020-12-12T10:15:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "616",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "69",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 150,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Katumbas",
+    "views": "5170",
+    "created_at": "2018-08-02",
+    "slug": "waterberry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/113187.png",
+    "total_flavoring": "9.2%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Excellent recipe everything was well balanced surprised this doesn\u2019t have more reviews. Great job and thanks for sharing"
+        },
+        {
+            "user": "art228",
+            "score": 5,
+            "text": "Just mixed this up and off the shake it is very well balanced. Great mouth feel, not overwhelming but not subtle. Flavors blend well and give off a pleasant vape experience. I am sure with time it will get a bit better. Great summer fruit vape. Thanks for sharing:)"
+        }
+    ]
 }

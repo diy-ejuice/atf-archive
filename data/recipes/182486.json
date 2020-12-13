@@ -1,56 +1,55 @@
 {
-  "name": "Strawberry & Cream \"Prometheus\"",
-  "description": "Erdbeercreme ist eine der beliebtesten Mischungen für Liquids, hier ist mein Rezept dazu",
-  "id": 182486,
-  "image_url": null,
-  "updated_at": "2020-12-05T17:45:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "879",
-  "slug": "strawberry_cream_prometheus",
-  "total_flavoring": "8.1%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry & Cream \"Prometheus\"",
+    "description": "Erdbeercreme ist eine der beliebtesten Mischungen f\u00fcr Liquids, hier ist mein Rezept dazu",
+    "id": 182486,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "885",
+    "created_at": "2020-01-26",
+    "slug": "strawberry_cream_prometheus",
+    "total_flavoring": "8.1%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,55 +1,57 @@
 {
-  "name": "#8 Apple Mr. Green",
-  "description": "Simple, fruity, light, refreshing and delicious. \r\n\r\nI let mine steep for 3 days to let the flavors come together nicely. \r\n\r\nAny comments, suggestions and additions are highly appreciated. \r\nHave fun! ",
-  "id": 71437,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/71437/apple_mr._green.jpg",
-  "updated_at": "2020-12-08T00:49:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Evilin",
-  "views": "2875",
-  "slug": "8_apple_mr_green",
-  "total_flavoring": "7.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "3",
-      "text": "Missed opportunity, here. The kiwi barely came through for me, instead being overruled by the pomegranate and leaving a bitter aftertaste. I did the same recipe while swapping it out with FW Kiwi, and right off the SNV it tasted like it was supposed to., and quite good at that. With FW Kiwi I'd give this 5 stars, otherwise, as it is, this recipe is gross."
-    },
-    {
-      "user": "MrBurgundy",
-      "score": "5",
-      "text": "I always love FA Fuji and FA Kiwi paired together. They’re so complimentary and refreshing. Kiwi brings extra tartness to the apple, while the pomegranate adds an almost floral accent. The balance is fantastic, and nothing is taking over nor underutilized. Thanks for sharing, Evilin!"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "This will make a nice summer ADV when it gets a little warmer outside, I really enjoyed this one.  The pomegranate adds just enough of something interesting without getting all weird."
-    }
-  ]
+    "name": "#8 Apple Mr. Green",
+    "description": "Simple, fruity, light, refreshing and delicious. \r\n\r\nI let mine steep for 3 days to let the flavors come together nicely. \r\n\r\nAny comments, suggestions and additions are highly appreciated. \r\nHave fun! ",
+    "id": 71437,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/71437\/apple_mr._green.jpg",
+    "updated_at": "2020-12-12T14:05:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Evilin",
+    "views": "2882",
+    "created_at": "2017-10-30",
+    "slug": "8_apple_mr_green",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/71437.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 3,
+            "text": "Missed opportunity, here. The kiwi barely came through for me, instead being overruled by the pomegranate and leaving a bitter aftertaste. I did the same recipe while swapping it out with FW Kiwi, and right off the SNV it tasted like it was supposed to., and quite good at that. With FW Kiwi I'd give this 5 stars, otherwise, as it is, this recipe is gross."
+        },
+        {
+            "user": "MrBurgundy",
+            "score": 5,
+            "text": "I always love FA Fuji and FA Kiwi paired together. They\u2019re so complimentary and refreshing. Kiwi brings extra tartness to the apple, while the pomegranate adds an almost floral accent. The balance is fantastic, and nothing is taking over nor underutilized. Thanks for sharing, Evilin!"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "This will make a nice summer ADV when it gets a little warmer outside, I really enjoyed this one.  The pomegranate adds just enough of something interesting without getting all weird."
+        }
+    ]
 }

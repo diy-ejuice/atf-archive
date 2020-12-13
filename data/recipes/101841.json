@@ -1,69 +1,71 @@
 {
-  "name": "Haagen-Dazs Butter Pecan Ice Cream",
-  "description": "A classic combination of buttery,  pecans and creams. Haagen-Dazs Butter Pecan Ice Cream",
-  "id": 101841,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101841/31c28f75-04ab-4d2c-8ba2-a1c38fc84962_1.f87a23d610787c5daafb2ed6c8103152.jpeg",
-  "updated_at": "2020-12-08T00:50:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "8740",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 700,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mr-G",
-  "views": "2448",
-  "slug": "haagendazs_butter_pecan_ice_cream",
-  "total_flavoring": "10.4%",
-  "steep_days": "12",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "MrBurgundy",
-      "score": "4",
-      "text": "The ice cream base here really delivers. I love the combo of TPA VBIC and TPA Sweet Cream with CAP Butter Cream. It’s a very dairy forward, firm ice cream. CAP Butter Pecan and INW Biscuit compliment each other well. The biscuit doesn’t really stand out; it just gives some body to the pecan flavor. CAP’s Butter Pecan is on the sweet side, and it fits quite well here. FLV Milk &amp; Honey adds a little bit more sweetness to the mix. FLV Sweet Coconut keeps that Biscuit from drying things out too much. Good stuff. I might add a touch of sweetener to what’s left of my bottle, but I put it in everything so don’t put much weight into that. Great mix!"
-    }
-  ]
+    "name": "Haagen-Dazs Butter Pecan Ice Cream",
+    "description": "A classic combination of buttery,  pecans and creams. Haagen-Dazs Butter Pecan Ice Cream",
+    "id": 101841,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101841\/31c28f75-04ab-4d2c-8ba2-a1c38fc84962_1.f87a23d610787c5daafb2ed6c8103152.jpeg",
+    "updated_at": "2020-12-12T17:11:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "8740",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 700,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mr-G",
+    "views": "2458",
+    "created_at": "2018-05-20",
+    "slug": "haagendazs_butter_pecan_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101841.jpeg",
+    "total_flavoring": "10.4%",
+    "steep_days": "12",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "MrBurgundy",
+            "score": 4,
+            "text": "The ice cream base here really delivers. I love the combo of TPA VBIC and TPA Sweet Cream with CAP Butter Cream. It\u2019s a very dairy forward, firm ice cream. CAP Butter Pecan and INW Biscuit compliment each other well. The biscuit doesn\u2019t really stand out; it just gives some body to the pecan flavor. CAP\u2019s Butter Pecan is on the sweet side, and it fits quite well here. FLV Milk &amp; Honey adds a little bit more sweetness to the mix. FLV Sweet Coconut keeps that Biscuit from drying things out too much. Good stuff. I might add a touch of sweetener to what\u2019s left of my bottle, but I put it in everything so don\u2019t put much weight into that. Great mix!"
+        }
+    ]
 }

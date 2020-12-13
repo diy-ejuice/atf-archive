@@ -1,90 +1,92 @@
 {
-  "name": "Give Em' Pumpkin To Talk About",
-  "description": "These soft cookies have been a favorite of mine during the winter months. I used these delicious deli cookies from the local Starbucks for development reference. Ok firstly, This has been a tedious profile to tackle. As we probably all know pumpkin is evasive, and often, it's downright deplorable. Going through a gauntlet of pumpkin flavorings I finally landed on a combination of FLV Pumpkin Spice + TPA Pumpkin. Hangsen's Pumpkin Pie proved to be insanely weak during testing, not to mention a bit cloying after a steep when I attempted to push the flavor ceiling. I don't get why it's being recommended by so many. Maybe I'm just not handling it right. 🤷‍♂️\r\n\r\n🄵🄻🄰🅅🄾🅁  🄽🄾🅃🄴🅂\r\n\r\n■ **CAP Sugar Cookie + FLV Cookie Dough**: The deli cookie style I referenced was a pumpkin glazed sugar cookie so it only made sense to use CAP Sugar Cookie. The inclusion of FLV Cookie Dough helps soften the crispness since I wanted a fluffier texture.\r\n\r\n■ **FLV Pumpkin Spice**: This contributes more spice than anything. The pumpkin note is a bit light in the background.\r\n\r\n■ **TPA Pumpkin**: This is the meat of the profile. (Pun intended) TPA Pumpkin lives up to it's name. It's straight pumpkin. When used in lower ratios it provides an authentic meaty canned pumpkin without sweetener. SFT with this concentrate was not enjoyable. However, when it's mixed with just the right level of spices and components it tag teams surprisingly well. I got this concentrate in specifically for this recipe task. While not incredibly versatile, After trial testing I can certainly recommend it for recipes you may be striving for of this nature. \r\n\r\n■ **CAP Butter Cream**: Cookies need butter right? Beyond that it helps impart further fluff and a waxy texture comparable to cookies.\r\n\r\n■ **FA Vanilla Classic**: Comparative to the darker vanilla extract we've come to know in northern america as the \"bakery vanilla\". This simply helps to attribute to the overall bakery experience while adding some contrast to the meaty pumpkin.\r\n\r\n■ **FA Meringue**: Another mouthfeel component, but also serves to further \"moisten\" the cookie.\r\n\r\n■ **CAP Super Sweet**: While not wanting to go overboard, I felt the profile needed a sweetness boost being that this is a dessert recipe.\r\n",
-  "id": 123309,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123309/20181121_003842_0001.png",
-  "updated_at": "2020-12-08T00:50:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 350,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pumpkin",
-      "flavor_id": "263",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 900,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SteamOn",
-  "views": "2386",
-  "slug": "give_em_pumpkin_to_talk_about",
-  "total_flavoring": "7.75%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kitu5",
-      "score": "5",
-      "text": "Fabulous deli cookie. It's got that just right amount of fluffiness to go with the sugar cookie to make it thoroughly authentic. The pumpkin and pumpkin spice are at just that right level to where they enhance the whole sugar cookie vibe, but not overtake it. The buttercream frosting is that just right touch to make this bad boy make me go \"Nope, not eating my calories today. I'ma vape em.\" and not be kidding. This hits that gotta have it cookie without any of the \"guilt\" you usually have if you eat the things.&#xD;\n&#xD;\nNicely friggin done man!"
-    },
-    {
-      "user": "gravi-tea",
-      "score": "5",
-      "text": "mixed this upa couple weeks ago for thanksgiving but after trying your oreo milkshake i had to dig for it. this is incredible. you actually have that pumpkin nailed down good job steam!"
-    },
-    {
-      "user": "ambzizbanannerz",
-      "score": "5",
-      "text": "After a good steep can confirm it's awesome sauce 😁"
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "Yay this is the shit I'm talking about when I think of fall. What a delicious recipe. the weird dirtyness from flv cookie dough gets completely masked by the pumpkin spice and ends up adding a lot of delicious nitty gritty to this bad boy. Great job steam!"
-    }
-  ]
+    "name": "Give Em' Pumpkin To Talk About",
+    "description": "These soft cookies have been a favorite of mine during the winter months. I used these delicious deli cookies from the local Starbucks for development reference. Ok firstly, This has been a tedious profile to tackle. As we probably all know pumpkin is evasive, and often, it's downright deplorable. Going through a gauntlet of pumpkin flavorings I finally landed on a combination of FLV Pumpkin Spice + TPA Pumpkin. Hangsen's Pumpkin Pie proved to be insanely weak during testing, not to mention a bit cloying after a steep when I attempted to push the flavor ceiling. I don't get why it's being recommended by so many. Maybe I'm just not handling it right. \ud83e\udd37\u200d\u2642\ufe0f\r\n\r\n\ud83c\udd35\ud83c\udd3b\ud83c\udd30\ud83c\udd45\ud83c\udd3e\ud83c\udd41  \ud83c\udd3d\ud83c\udd3e\ud83c\udd43\ud83c\udd34\ud83c\udd42\r\n\r\n\u25a0 **CAP Sugar Cookie + FLV Cookie Dough**: The deli cookie style I referenced was a pumpkin glazed sugar cookie so it only made sense to use CAP Sugar Cookie. The inclusion of FLV Cookie Dough helps soften the crispness since I wanted a fluffier texture.\r\n\r\n\u25a0 **FLV Pumpkin Spice**: This contributes more spice than anything. The pumpkin note is a bit light in the background.\r\n\r\n\u25a0 **TPA Pumpkin**: This is the meat of the profile. (Pun intended) TPA Pumpkin lives up to it's name. It's straight pumpkin. When used in lower ratios it provides an authentic meaty canned pumpkin without sweetener. SFT with this concentrate was not enjoyable. However, when it's mixed with just the right level of spices and components it tag teams surprisingly well. I got this concentrate in specifically for this recipe task. While not incredibly versatile, After trial testing I can certainly recommend it for recipes you may be striving for of this nature. \r\n\r\n\u25a0 **CAP Butter Cream**: Cookies need butter right? Beyond that it helps impart further fluff and a waxy texture comparable to cookies.\r\n\r\n\u25a0 **FA Vanilla Classic**: Comparative to the darker vanilla extract we've come to know in northern america as the \"bakery vanilla\". This simply helps to attribute to the overall bakery experience while adding some contrast to the meaty pumpkin.\r\n\r\n\u25a0 **FA Meringue**: Another mouthfeel component, but also serves to further \"moisten\" the cookie.\r\n\r\n\u25a0 **CAP Super Sweet**: While not wanting to go overboard, I felt the profile needed a sweetness boost being that this is a dessert recipe.\r\n",
+    "id": 123309,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123309\/20181121_003842_0001.png",
+    "updated_at": "2020-12-12T14:06:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 350,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pumpkin",
+            "flavor_id": "263",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 900,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SteamOn",
+    "views": "2393",
+    "created_at": "2018-10-15",
+    "slug": "give_em_pumpkin_to_talk_about",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123309.png",
+    "total_flavoring": "7.75%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kitu5",
+            "score": 5,
+            "text": "Fabulous deli cookie. It's got that just right amount of fluffiness to go with the sugar cookie to make it thoroughly authentic. The pumpkin and pumpkin spice are at just that right level to where they enhance the whole sugar cookie vibe, but not overtake it. The buttercream frosting is that just right touch to make this bad boy make me go \"Nope, not eating my calories today. I'ma vape em.\" and not be kidding. This hits that gotta have it cookie without any of the \"guilt\" you usually have if you eat the things.&#xD;\n&#xD;\nNicely friggin done man!"
+        },
+        {
+            "user": "gravi-tea",
+            "score": 5,
+            "text": "mixed this upa couple weeks ago for thanksgiving but after trying your oreo milkshake i had to dig for it. this is incredible. you actually have that pumpkin nailed down good job steam!"
+        },
+        {
+            "user": "ambzizbanannerz",
+            "score": 5,
+            "text": "After a good steep can confirm it's awesome sauce \ud83d\ude01"
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "Yay this is the shit I'm talking about when I think of fall. What a delicious recipe. the weird dirtyness from flv cookie dough gets completely masked by the pumpkin spice and ends up adding a lot of delicious nitty gritty to this bad boy. Great job steam!"
+        }
+    ]
 }

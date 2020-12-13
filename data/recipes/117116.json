@@ -1,68 +1,67 @@
 {
-  "name": "Peaches & Cream🍑",
-  "description": "Just created this today, give it a mix and tell me what you think. ",
-  "id": 117116,
-  "image_url": null,
-  "updated_at": "2020-12-06T03:09:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard V2",
-      "flavor_id": "132",
-      "millipercent": 850,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach Gummy",
-      "flavor_id": "4313",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 600,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Letsmix",
-  "views": "1291",
-  "slug": "peaches_cream",
-  "total_flavoring": "10.2%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peaches & Cream\ud83c\udf51",
+    "description": "Just created this today, give it a mix and tell me what you think. ",
+    "id": 117116,
+    "image_url": null,
+    "updated_at": "2020-12-10T19:00:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard V2",
+            "flavor_id": "132",
+            "millipercent": 850,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach Gummy",
+            "flavor_id": "4313",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 600,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Letsmix",
+    "views": "1300",
+    "created_at": "2018-08-31",
+    "slug": "peaches_cream",
+    "total_flavoring": "10.2%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

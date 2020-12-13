@@ -1,45 +1,47 @@
 {
-  "name": ".357",
-  "description": "\"Gun show\" based idea. Daytime Frank came up with the idea of a 3 flavor, 3/5/7% idea so I went with soho as the start as soho is amazing at this %. Built it into a cheesecake and Raven Shadow Vapes wanted some blueberry, so there you go! its good of the shake, but I would let it sit about a week for the cheesecake to settle into the soho. ",
-  "id": 145967,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145967/357.jpg",
-  "updated_at": "2020-12-07T17:35:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "7772",
-      "millipercent": 5000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Soho",
-      "flavor_id": "413",
-      "millipercent": 7000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1270",
-  "slug": "357",
-  "total_flavoring": "15.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "XxBulldogIrishxX",
-      "score": "none",
-      "text": "Super cool concept!"
-    }
-  ]
+    "name": ".357",
+    "description": "\"Gun show\" based idea. Daytime Frank came up with the idea of a 3 flavor, 3\/5\/7% idea so I went with soho as the start as soho is amazing at this %. Built it into a cheesecake and Raven Shadow Vapes wanted some blueberry, so there you go! its good of the shake, but I would let it sit about a week for the cheesecake to settle into the soho. ",
+    "id": 145967,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145967\/357.jpg",
+    "updated_at": "2020-12-11T16:21:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "7772",
+            "millipercent": 5000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Soho",
+            "flavor_id": "413",
+            "millipercent": 7000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1278",
+    "created_at": "2019-04-06",
+    "slug": "357",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145967.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "XxBulldogIrishxX",
+            "score": 0,
+            "text": "Super cool concept!"
+        }
+    ]
 }

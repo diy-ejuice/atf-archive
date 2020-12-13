@@ -1,62 +1,62 @@
 {
-  "name": "BRDZ Fried Ice Cream",
-  "description": "Tastes like hagan daaz rolled in cereal and nuts then deep fried with accents of mild & smooth coconut and just a pinch of cinnamon. Mmmmm",
-  "id": 199946,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/199946/fried-ice-cream-6-of-6.jpg",
-  "updated_at": "2020-12-07T17:36:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nut Mix",
-      "flavor_id": "537",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "4575",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Puff Cereal (Frosted) SC",
-      "flavor_id": "10268",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "BRDZ",
-  "views": "1382",
-  "slug": "brdz_fried_ice_cream",
-  "total_flavoring": "12.7%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "BRDZ Fried Ice Cream",
+    "description": "Tastes like hagan daaz rolled in cereal and nuts then deep fried with accents of mild & smooth coconut and just a pinch of cinnamon. Mmmmm",
+    "id": 199946,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/199946\/fried-ice-cream-6-of-6.jpg",
+    "updated_at": "2020-12-11T17:22:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nut Mix",
+            "flavor_id": "537",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "4575",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Puff Cereal (Frosted) SC",
+            "flavor_id": "10268",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "BRDZ",
+    "views": "1389",
+    "created_at": "2020-07-08",
+    "slug": "brdz_fried_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/199946.jpg",
+    "total_flavoring": "12.7%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

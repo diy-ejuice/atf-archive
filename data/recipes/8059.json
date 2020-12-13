@@ -1,62 +1,61 @@
 {
-  "name": "Campfire Deluxe ",
-  "description": "Ecigexpress recipe card ",
-  "id": 8059,
-  "image_url": null,
-  "updated_at": "2020-12-06T22:01:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chocolate Glazed Doughnut",
-      "flavor_id": "34",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Chocolate Coconut Almond Candy Bar",
-      "flavor_id": "154",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Coconut",
-      "flavor_id": "2248",
-      "millipercent": 2000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "MaineVapes",
-  "views": "1515",
-  "slug": "campfire_deluxe",
-  "total_flavoring": "19.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Campfire Deluxe ",
+    "description": "Ecigexpress recipe card ",
+    "id": 8059,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chocolate Glazed Doughnut",
+            "flavor_id": "34",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Chocolate Coconut Almond Candy Bar",
+            "flavor_id": "154",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Coconut",
+            "flavor_id": "2248",
+            "millipercent": 2000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "MaineVapes",
+    "views": "1519",
+    "created_at": "2016-07-18",
+    "slug": "campfire_deluxe",
+    "total_flavoring": "19.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

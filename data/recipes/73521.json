@@ -1,63 +1,65 @@
 {
-  "name": "Cinnamon Banana Nut RY4",
-  "description": "Banana Bread Dipped in Caramel Dusted With Cinnamon with an Accent of Tobacco at the End.\r\n-> Mixed on \"Live Mixing: Annual DIY E-liquid Discussion\"\r\n",
-  "id": 73521,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73521/livemixing.jpg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Soho",
-      "flavor_id": "413",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 100,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Melty Caramel",
-      "flavor_id": "1553",
-      "millipercent": 1500,
-      "vendor": "MB"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4384",
-  "slug": "cinnamon_banana_nut_ry4",
-  "total_flavoring": "9.85%",
-  "steep_days": "7",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ActionRalf",
-      "score": "5",
-      "text": "This is great right off the bat...six and out."
-    }
-  ]
+    "name": "Cinnamon Banana Nut RY4",
+    "description": "Banana Bread Dipped in Caramel Dusted With Cinnamon with an Accent of Tobacco at the End.\r\n-> Mixed on \"Live Mixing: Annual DIY E-liquid Discussion\"\r\n",
+    "id": 73521,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/73521\/livemixing.jpg",
+    "updated_at": "2020-12-12T15:39:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Soho",
+            "flavor_id": "413",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 100,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Melty Caramel",
+            "flavor_id": "1553",
+            "millipercent": 1500,
+            "vendor": "MB"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4395",
+    "created_at": "2017-11-10",
+    "slug": "cinnamon_banana_nut_ry4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/73521.jpg",
+    "total_flavoring": "9.85%",
+    "steep_days": "7",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ActionRalf",
+            "score": 5,
+            "text": "This is great right off the bat...six and out."
+        }
+    ]
 }

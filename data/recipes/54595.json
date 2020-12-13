@@ -1,67 +1,69 @@
 {
-  "name": "Hazelnut Donut",
-  "description": "Check out the video on this recipe here:  https://youtu.be/s1b-sL3Rm9g\r\n\r\nHere is one I put a good amount of time into. It's a sweet and creamy hazelnut donut. At first I was having a hell of a time getting the hazelnut where I wanted it. I wanted it to feel integrated with the donut instead of sitting on the side. After some trial and error, I found that TFA peanut butter was my answer. This made something closer to a hazelnut butter that give this recipe a feeling of a donut with hazelnut butter filling. I really can't put this one down, going to be one of my ADV from now on.",
-  "id": 54595,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54595/hazelnut_donut.png",
-  "updated_at": "2020-12-08T00:49:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MopHead",
-  "views": "2869",
-  "slug": "hazelnut_donut",
-  "total_flavoring": "10.5%",
-  "steep_days": "21",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.3,
-  "reviews": [
-    {
-      "user": "BananaSlamma",
-      "score": "4",
-      "text": "This is a damn good donut. The peanut butter and hazelnut combination really make for a sweet and enticing profile. Zeppola drives it all home. It’s become my wake and vape and pairs really well with my morning coffee. "
-    },
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "Fairly new to zeppola, mixed maybe 4 or 5 recipes with it.  This is the first one I've really liked.  My testing notes say simply, \"Dunkin Stix\""
-    },
-    {
-      "user": "Deftohms",
-      "score": "5",
-      "text": "This is really good. Ever since I've gotten zeppola I've been disappointed, felt it only fit a very specific profile. I mixed this about a week ago and let it steep so the pb and zeppola can calm down, this turned out to be something I'll definitely be mixing a lot of. Thank you for an awesome mix!"
-    }
-  ]
+    "name": "Hazelnut Donut",
+    "description": "Check out the video on this recipe here:  https:\/\/youtu.be\/s1b-sL3Rm9g\r\n\r\nHere is one I put a good amount of time into. It's a sweet and creamy hazelnut donut. At first I was having a hell of a time getting the hazelnut where I wanted it. I wanted it to feel integrated with the donut instead of sitting on the side. After some trial and error, I found that TFA peanut butter was my answer. This made something closer to a hazelnut butter that give this recipe a feeling of a donut with hazelnut butter filling. I really can't put this one down, going to be one of my ADV from now on.",
+    "id": 54595,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54595\/hazelnut_donut.png",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MopHead",
+    "views": "2873",
+    "created_at": "2017-07-08",
+    "slug": "hazelnut_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54595.png",
+    "total_flavoring": "10.5%",
+    "steep_days": "21",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BananaSlamma",
+            "score": 4,
+            "text": "This is a damn good donut. The peanut butter and hazelnut combination really make for a sweet and enticing profile. Zeppola drives it all home. It\u2019s become my wake and vape and pairs really well with my morning coffee. "
+        },
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "Fairly new to zeppola, mixed maybe 4 or 5 recipes with it.  This is the first one I've really liked.  My testing notes say simply, \"Dunkin Stix\""
+        },
+        {
+            "user": "Deftohms",
+            "score": 5,
+            "text": "This is really good. Ever since I've gotten zeppola I've been disappointed, felt it only fit a very specific profile. I mixed this about a week ago and let it steep so the pb and zeppola can calm down, this turned out to be something I'll definitely be mixing a lot of. Thank you for an awesome mix!"
+        }
+    ]
 }

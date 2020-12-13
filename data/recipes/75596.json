@@ -1,74 +1,76 @@
 {
-  "name": "Fig Newton v1",
-  "description": "This is my take on a fig newton. Its not 100% accurate but really tasty if you like fig and buttery cookies. I haven't been able to nail down that really dense texture but this is pretty close.",
-  "id": 75596,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75596/1200px-Fig-Newtons-Stacked.jpg",
-  "updated_at": "2020-12-08T00:49:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fig Fresh",
-      "flavor_id": "518",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Fig",
-      "flavor_id": "4410",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "1861",
-  "slug": "fig_newton_v1",
-  "total_flavoring": "6.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "zenotek",
-      "score": "3",
-      "text": "This is not bad, had to steep it for a month to mellow out the sharpness of the fig.  "
-    },
-    {
-      "user": "ITALIAN-VAPE",
-      "score": "5",
-      "text": "Maybe this is not accurate, but it is really delicious and not the same profile. I'm so bored of all these strawberry&amp;cream. Thank you @mlnikon for this recipe"
-    }
-  ]
+    "name": "Fig Newton v1",
+    "description": "This is my take on a fig newton. Its not 100% accurate but really tasty if you like fig and buttery cookies. I haven't been able to nail down that really dense texture but this is pretty close.",
+    "id": 75596,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75596\/1200px-Fig-Newtons-Stacked.jpg",
+    "updated_at": "2020-12-12T15:39:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fig Fresh",
+            "flavor_id": "518",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Fig",
+            "flavor_id": "4410",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "1871",
+    "created_at": "2017-11-23",
+    "slug": "fig_newton_v1",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75596.jpg",
+    "total_flavoring": "6.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "zenotek",
+            "score": 3,
+            "text": "This is not bad, had to steep it for a month to mellow out the sharpness of the fig.  "
+        },
+        {
+            "user": "ITALIAN-VAPE",
+            "score": 5,
+            "text": "Maybe this is not accurate, but it is really delicious and not the same profile. I'm so bored of all these strawberry&amp;cream. Thank you @mlnikon for this recipe"
+        }
+    ]
 }

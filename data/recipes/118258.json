@@ -1,63 +1,65 @@
 {
-  "name": "MlNikon's Nanner Nog",
-  "description": "This is my take on this weeks photo. VT Banana Custard is by far the best banana cream flavor I have tried. Flv Cream and WF Vanilla Cream Extra make the perfect cream that is spiced with Flv Egg Nog. I added Flv Butterscotch and FW Butterscotch Ripple because I like butterscotch with banana flavors and I stole this butterscotch combo from Cheeba Steeba's butterscotch banana frozen custard. Its delicious, give it a mix.",
-  "id": 118258,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118258/nanner_nog.jpg",
-  "updated_at": "2020-12-08T00:50:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "613",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Cream Extra SC",
-      "flavor_id": "8382",
-      "millipercent": 1500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "2637",
-  "slug": "mlnikons_nanner_nog",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "OMG that’s Delicious! What a lovely combination for flavors. Doesn’t really taste like banana eggnog - more like a silky smooth banana pudding mixed with vanilla pudding and then topped with nutmeg and butterscotch. I love that dark sticky sweetness of butterscotch with the banana and the rich milky body, and the spice is just icing on the cake. "
-    }
-  ]
+    "name": "MlNikon's Nanner Nog",
+    "description": "This is my take on this weeks photo. VT Banana Custard is by far the best banana cream flavor I have tried. Flv Cream and WF Vanilla Cream Extra make the perfect cream that is spiced with Flv Egg Nog. I added Flv Butterscotch and FW Butterscotch Ripple because I like butterscotch with banana flavors and I stole this butterscotch combo from Cheeba Steeba's butterscotch banana frozen custard. Its delicious, give it a mix.",
+    "id": 118258,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/118258\/nanner_nog.jpg",
+    "updated_at": "2020-12-12T11:52:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "613",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Cream Extra SC",
+            "flavor_id": "8382",
+            "millipercent": 1500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "2648",
+    "created_at": "2018-09-09",
+    "slug": "mlnikons_nanner_nog",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/118258.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "OMG that\u2019s Delicious! What a lovely combination for flavors. Doesn\u2019t really taste like banana eggnog - more like a silky smooth banana pudding mixed with vanilla pudding and then topped with nutmeg and butterscotch. I love that dark sticky sweetness of butterscotch with the banana and the rich milky body, and the spice is just icing on the cake. "
+        }
+    ]
 }

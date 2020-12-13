@@ -1,50 +1,50 @@
 {
-  "name": "Kopel's Beard",
-  "description": "This recipe is an ode to the king of florals.\r\n\r\nIt's a violet buttercream macaron. I know it's weird but it tastes nice. The violet is a little tart and sweet. The vanilla from the purple rain blends so nicely with the buttercream frosting. The cookie is light and not too buttery. ",
-  "id": 137716,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137716/Screenshot_2019-02-03-09-35-10_2.png",
-  "updated_at": "2020-12-07T07:01:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Purple Rain",
-      "flavor_id": "4212",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Almond Cookie SC",
-      "flavor_id": "9013",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Macaroon",
-      "flavor_id": "3517",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "hibbadoray",
-  "views": "1202",
-  "slug": "kopels_beard",
-  "total_flavoring": "6.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Kopel's Beard",
+    "description": "This recipe is an ode to the king of florals.\r\n\r\nIt's a violet buttercream macaron. I know it's weird but it tastes nice. The violet is a little tart and sweet. The vanilla from the purple rain blends so nicely with the buttercream frosting. The cookie is light and not too buttery. ",
+    "id": 137716,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137716\/Screenshot_2019-02-03-09-35-10_2.png",
+    "updated_at": "2020-12-10T16:01:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Purple Rain",
+            "flavor_id": "4212",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Almond Cookie SC",
+            "flavor_id": "9013",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Macaroon",
+            "flavor_id": "3517",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "hibbadoray",
+    "views": "1209",
+    "created_at": "2019-02-03",
+    "slug": "kopels_beard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137716.png",
+    "total_flavoring": "6.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

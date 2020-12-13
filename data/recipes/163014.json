@@ -1,62 +1,62 @@
 {
-  "name": "PECAN Cs (classic)",
-  "description": "You should be patient with this one because it needs 40 days of maceration.\r\nThe result is a sweet creamy pecan nut cracker.\r\n(Not so much of cookie and a very creamy pecan...).\r\n\r\nLeave me your thoughts if you mix it and thanks to the community.",
-  "id": 163014,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163014/pecan.jpg",
-  "updated_at": "2020-12-06T22:03:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 100,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Rubicone",
-  "views": "565",
-  "slug": "pecan_cs_classic",
-  "total_flavoring": "8.1%",
-  "steep_days": "40",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "PECAN Cs (classic)",
+    "description": "You should be patient with this one because it needs 40 days of maceration.\r\nThe result is a sweet creamy pecan nut cracker.\r\n(Not so much of cookie and a very creamy pecan...).\r\n\r\nLeave me your thoughts if you mix it and thanks to the community.",
+    "id": 163014,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163014\/pecan.jpg",
+    "updated_at": "2020-12-10T13:46:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 100,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Rubicone",
+    "views": "572",
+    "created_at": "2019-08-14",
+    "slug": "pecan_cs_classic",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163014.jpg",
+    "total_flavoring": "8.1%",
+    "steep_days": "40",
+    "best_vg": "70%",
+    "temperature": "0"
 }

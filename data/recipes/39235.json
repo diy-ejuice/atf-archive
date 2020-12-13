@@ -1,51 +1,53 @@
 {
-  "name": "Bangin' Bacco V1",
-  "description": "You know the good ole days on Saturday morning after you woke up to some chick you don't even know.  You had a Bloody Mary to stop the headache/hangover you grab a smoke and a coffee.  But now you pick up the stixx mix because your responsible and your not wanting to get cancer.  This is like a mix of French vanilla and a hint of tobacco.  A real banger here. ",
-  "id": 39235,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/39235/IMG_2698.JPG",
-  "updated_at": "2020-12-08T00:49:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Cavendish",
-      "flavor_id": "7277",
-      "millipercent": 8000,
-      "vendor": "SM"
-    },
-    {
-      "name": "Acetyl Pyrazine",
-      "flavor_id": "1709",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Fleming",
-  "views": "1457",
-  "slug": "bangin_bacco_v1",
-  "total_flavoring": "17.25%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "70%",
-  "temperature": "85",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ChefJohn",
-      "score": "4",
-      "text": "Great flavor! Love it and not to strong. Definitely an all day vape. "
-    }
-  ]
+    "name": "Bangin' Bacco V1",
+    "description": "You know the good ole days on Saturday morning after you woke up to some chick you don't even know.  You had a Bloody Mary to stop the headache\/hangover you grab a smoke and a coffee.  But now you pick up the stixx mix because your responsible and your not wanting to get cancer.  This is like a mix of French vanilla and a hint of tobacco.  A real banger here. ",
+    "id": 39235,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/39235\/IMG_2698.JPG",
+    "updated_at": "2020-12-12T11:50:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Cavendish",
+            "flavor_id": "7277",
+            "millipercent": 8000,
+            "vendor": "SM"
+        },
+        {
+            "name": "Acetyl Pyrazine",
+            "flavor_id": "1709",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Fleming",
+    "views": "1462",
+    "created_at": "2017-03-31",
+    "slug": "bangin_bacco_v1",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/39235.JPG",
+    "total_flavoring": "17.25%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "70%",
+    "temperature": "85",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ChefJohn",
+            "score": 4,
+            "text": "Great flavor! Love it and not to strong. Definitely an all day vape. "
+        }
+    ]
 }

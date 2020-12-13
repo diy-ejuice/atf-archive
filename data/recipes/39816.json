@@ -1,92 +1,92 @@
 {
-  "name": "Strawberry Blueberry Yogurt Parfait",
-  "description": "This Recipe has come a long way from where it started.  When I first started with it I wanted to taste the Blueberry Jam (CAP) so I mixed it up, that wasn't good so I added sweetener...that was good but lacking so I ordered Bilberry (FA) and that was very strong so I remixed it with wayyyy less Bilberry and added Creamy stuff.  It was great.  In the meantime I was testing the Creamy Yogurt (CAP) on its own.  I vaped it along and I loved it and thought \"this would go great in the Blueberry Cream stuff I made\".  And that is my brilliant conception of this Recipe...lolol  I use the word Brilliant very lightly...lol  Anyway, it's good, you can go more or less on the Yogurt depending on how you like it, I love it.   You can use Greek if you like that flavor instead but the whole thing is  yummy and great mouth feel.",
-  "id": 39816,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/39816/Blueberry_Yogurt_Parfait.jpg",
-  "updated_at": "2020-12-05T16:42:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "VaperKitten",
-  "views": "1867",
-  "slug": "strawberry_blueberry_yogurt_parfait",
-  "total_flavoring": "16.4%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Blueberry Yogurt Parfait",
+    "description": "This Recipe has come a long way from where it started.  When I first started with it I wanted to taste the Blueberry Jam (CAP) so I mixed it up, that wasn't good so I added sweetener...that was good but lacking so I ordered Bilberry (FA) and that was very strong so I remixed it with wayyyy less Bilberry and added Creamy stuff.  It was great.  In the meantime I was testing the Creamy Yogurt (CAP) on its own.  I vaped it along and I loved it and thought \"this would go great in the Blueberry Cream stuff I made\".  And that is my brilliant conception of this Recipe...lolol  I use the word Brilliant very lightly...lol  Anyway, it's good, you can go more or less on the Yogurt depending on how you like it, I love it.   You can use Greek if you like that flavor instead but the whole thing is  yummy and great mouth feel.",
+    "id": 39816,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/39816\/Blueberry_Yogurt_Parfait.jpg",
+    "updated_at": "2020-12-10T15:59:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "VaperKitten",
+    "views": "1872",
+    "created_at": "2017-04-05",
+    "slug": "strawberry_blueberry_yogurt_parfait",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/39816.jpg",
+    "total_flavoring": "16.4%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

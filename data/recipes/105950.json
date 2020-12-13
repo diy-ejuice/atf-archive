@@ -1,80 +1,82 @@
 {
-  "name": "Peanut Butter Milkshake #MixinVixens",
-  "description": "I interpreted this pic as a peanut butter milkshake with some hot fudge and topped with toffee bits. ",
-  "id": 105950,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/105950/31069037_10214360828347443_1162870186462674944_n.jpg",
-  "updated_at": "2020-12-08T00:50:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lava Cake",
-      "flavor_id": "1493",
-      "millipercent": 1500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "607",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 3000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "4566",
-  "slug": "peanut_butter_milkshake_mixinvixens",
-  "total_flavoring": "17.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "MaschelleMEcfs",
-      "score": "3",
-      "text": "I thought I'd written a review, but it was a note.  My noobiness is showing.&#xD;\nIt needs that recommended steep.  There is potential here and I can't wait for the flavors marry.  I'm missing the VT Honeycomb but wouldn't have used it anyway cause I despise honey on my peanut butter.   So far there's good potential! "
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Steeped for a week like you recommended and have literally been vaping this since yeaterday morning. It is so tasty your use of the VTA’s work beautifully. The addition of the Lava Cake works perfectly as well. I have had the pnut and sweet coconut combo in one of Fresh03’s recipes, and it works great make the best pnut butter note for vaping in my opinion. I am forcing my self to save 20 mls of this just to see if it gets even better with more steep time. Excellent job ML and keep up the good work. I should also add that I used 0.25% of Super Sweet instead of the 1% Sucralose "
-    }
-  ]
+    "name": "Peanut Butter Milkshake #MixinVixens",
+    "description": "I interpreted this pic as a peanut butter milkshake with some hot fudge and topped with toffee bits. ",
+    "id": 105950,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/105950\/31069037_10214360828347443_1162870186462674944_n.jpg",
+    "updated_at": "2020-12-12T18:29:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lava Cake",
+            "flavor_id": "1493",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "607",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 3000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "4579",
+    "created_at": "2018-06-17",
+    "slug": "peanut_butter_milkshake_mixinvixens",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/105950.jpg",
+    "total_flavoring": "17.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "MaschelleMEcfs",
+            "score": 3,
+            "text": "I thought I'd written a review, but it was a note.  My noobiness is showing.&#xD;\nIt needs that recommended steep.  There is potential here and I can't wait for the flavors marry.  I'm missing the VT Honeycomb but wouldn't have used it anyway cause I despise honey on my peanut butter.   So far there's good potential! "
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Steeped for a week like you recommended and have literally been vaping this since yeaterday morning. It is so tasty your use of the VTA\u2019s work beautifully. The addition of the Lava Cake works perfectly as well. I have had the pnut and sweet coconut combo in one of Fresh03\u2019s recipes, and it works great make the best pnut butter note for vaping in my opinion. I am forcing my self to save 20 mls of this just to see if it gets even better with more steep time. Excellent job ML and keep up the good work. I should also add that I used 0.25% of Super Sweet instead of the 1% Sucralose "
+        }
+    ]
 }

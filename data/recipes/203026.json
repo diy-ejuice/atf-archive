@@ -1,68 +1,68 @@
 {
-  "name": "Drunken Custard",
-  "description": "BubbasBrewz Drunken Custard is a smooth, dark, rich and creamy tobacco custard with a hint of vanilla and RY4 notes. Perfect after dinner or work vape. ",
-  "id": 203026,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/203026/20200810_191527.jpg",
-  "updated_at": "2020-12-07T15:22:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bourbon Aged Cream SC",
-      "flavor_id": "10539",
-      "millipercent": 750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Buttermilk SC",
-      "flavor_id": "10543",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie SC",
-      "flavor_id": "10556",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Ruyan Custard",
-      "flavor_id": "6066",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener (Stevia 15%) SC",
-      "flavor_id": "10557",
-      "millipercent": 500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "BubbasBrewz",
-  "views": "512",
-  "slug": "drunken_custard",
-  "total_flavoring": "9.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Drunken Custard",
+    "description": "BubbasBrewz Drunken Custard is a smooth, dark, rich and creamy tobacco custard with a hint of vanilla and RY4 notes. Perfect after dinner or work vape. ",
+    "id": 203026,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/203026\/20200810_191527.jpg",
+    "updated_at": "2020-12-12T14:08:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bourbon Aged Cream SC",
+            "flavor_id": "10539",
+            "millipercent": 750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Buttermilk SC",
+            "flavor_id": "10543",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie SC",
+            "flavor_id": "10556",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Ruyan Custard",
+            "flavor_id": "6066",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener (Stevia 15%) SC",
+            "flavor_id": "10557",
+            "millipercent": 500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "BubbasBrewz",
+    "views": "521",
+    "created_at": "2020-08-11",
+    "slug": "drunken_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/203026.jpg",
+    "total_flavoring": "9.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,57 +1,59 @@
 {
-  "name": "Froot Loops Milkshake ",
-  "description": "Once I seen the Burger King Fruit Loops milkshake I knew that I wanted to go after that profile ! This here is a pretty simple profile ! But it's delicious !! FW Fruity Rings create the froot loops flavor and is the perfect choice for this mix ! TFA Vanilla bean Ice cream and TFA Vanilla swirl create the milkshake. TFA Toasted Marshmallow helps add a little Malted Flavor to the entire mix and TFA Whipped Cream adds a nice light creamy whipped cream on top of the shake !!  Mix it up, leave feedback !!!!! Thanks !!!!! SK",
-  "id": 49030,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49030/image.jpeg",
-  "updated_at": "2020-12-08T00:49:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Rings",
-      "flavor_id": "1285",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "SamKayla",
-  "views": "5858",
-  "slug": "froot_loops_milkshake",
-  "total_flavoring": "15.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "5",
-      "text": "Nice simple froot loops and vanilla cream. Can't go wrong!"
-    }
-  ]
+    "name": "Froot Loops Milkshake ",
+    "description": "Once I seen the Burger King Fruit Loops milkshake I knew that I wanted to go after that profile ! This here is a pretty simple profile ! But it's delicious !! FW Fruity Rings create the froot loops flavor and is the perfect choice for this mix ! TFA Vanilla bean Ice cream and TFA Vanilla swirl create the milkshake. TFA Toasted Marshmallow helps add a little Malted Flavor to the entire mix and TFA Whipped Cream adds a nice light creamy whipped cream on top of the shake !!  Mix it up, leave feedback !!!!! Thanks !!!!! SK",
+    "id": 49030,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/49030\/image.jpeg",
+    "updated_at": "2020-12-12T15:39:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Rings",
+            "flavor_id": "1285",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "SamKayla",
+    "views": "5870",
+    "created_at": "2017-06-03",
+    "slug": "froot_loops_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/49030.jpeg",
+    "total_flavoring": "15.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 5,
+            "text": "Nice simple froot loops and vanilla cream. Can't go wrong!"
+        }
+    ]
 }

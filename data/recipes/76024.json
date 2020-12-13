@@ -1,68 +1,68 @@
 {
-  "name": "Salted Caramel Pears",
-  "description": "Soft baked pears lightly dipped in caramel with a dash of salt.",
-  "id": 76024,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/76024/pears.jpg",
-  "updated_at": "2020-12-07T11:43:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 3100,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Jasdrap",
-  "views": "1130",
-  "slug": "salted_caramel_pears",
-  "total_flavoring": "9.45%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Salted Caramel Pears",
+    "description": "Soft baked pears lightly dipped in caramel with a dash of salt.",
+    "id": 76024,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/76024\/pears.jpg",
+    "updated_at": "2020-12-11T07:43:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 3100,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Jasdrap",
+    "views": "1141",
+    "created_at": "2017-11-26",
+    "slug": "salted_caramel_pears",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/76024.jpg",
+    "total_flavoring": "9.45%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0"
 }

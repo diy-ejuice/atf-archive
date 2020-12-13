@@ -1,62 +1,61 @@
 {
-  "name": "Oblivion",
-  "description": "Based off Wayne's Quik ( https://diyordievaping.com/2018/02/19/quik-strawberry-malted-milk-diy-e-liquid-recipe/ )\r\n\r\nUsed the cream/malt base and subbed out strawberries for banana.\r\n\r\nV1 utilized TFA Banana Cream @2.5% paired with FLV Banana @2%.  This is still a good mix if you'd like a banana runts dissolved in a glass of milk.  Pretty tasty, but not what I was going for.",
-  "id": 142727,
-  "image_url": null,
-  "updated_at": "2020-12-05T14:27:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Malted Milk (conc)",
-      "flavor_id": "175",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "xXxLEONIDASxXx",
-  "views": "950",
-  "slug": "oblivion",
-  "total_flavoring": "10.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Oblivion",
+    "description": "Based off Wayne's Quik ( https:\/\/diyordievaping.com\/2018\/02\/19\/quik-strawberry-malted-milk-diy-e-liquid-recipe\/ )\r\n\r\nUsed the cream\/malt base and subbed out strawberries for banana.\r\n\r\nV1 utilized TFA Banana Cream @2.5% paired with FLV Banana @2%.  This is still a good mix if you'd like a banana runts dissolved in a glass of milk.  Pretty tasty, but not what I was going for.",
+    "id": 142727,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:15:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Malted Milk (conc)",
+            "flavor_id": "175",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "xXxLEONIDASxXx",
+    "views": "956",
+    "created_at": "2019-03-15",
+    "slug": "oblivion",
+    "total_flavoring": "10.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,44 +1,44 @@
 {
-  "name": "Creme Anglaise",
-  "description": "This is my Vanilla Custard. There are many like it, but this one is mine.\r\n\r\nI might add a dab of CAP Pralines and Cream to spice it up. Or Joy or something like that to twist the flavours just a bit.",
-  "id": 25842,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25842/cremeangalise.jpg",
-  "updated_at": "2020-11-30T21:57:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "JuiceRider",
-  "views": "1120",
-  "slug": "creme_anglaise",
-  "total_flavoring": "15.0%",
-  "steep_days": "15",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creme Anglaise",
+    "description": "This is my Vanilla Custard. There are many like it, but this one is mine.\r\n\r\nI might add a dab of CAP Pralines and Cream to spice it up. Or Joy or something like that to twist the flavours just a bit.",
+    "id": 25842,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/25842\/cremeangalise.jpg",
+    "updated_at": "2020-12-11T17:19:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "JuiceRider",
+    "views": "1129",
+    "created_at": "2017-01-09",
+    "slug": "creme_anglaise",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/25842.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "15",
+    "best_vg": "65%",
+    "temperature": "0"
 }

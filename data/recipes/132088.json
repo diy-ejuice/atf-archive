@@ -1,50 +1,49 @@
 {
-  "name": "Spiced Banana Pudding",
-  "description": "Made live on FRESH03 ST JUDE CHARITY STREAM.   The bananas need three days or so to come together. As well the graham cracker will back down in a few days as well\r\n\r\n*****UPDATE. GREAT BANANA PUDDING AFTER 2 MONTH STEEP******",
-  "id": 132088,
-  "image_url": null,
-  "updated_at": "2020-12-07T05:58:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "8554",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "VapinTrucker",
-  "views": "897",
-  "slug": "spiced_banana_pudding",
-  "total_flavoring": "9.5%",
-  "steep_days": "60",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Spiced Banana Pudding",
+    "description": "Made live on FRESH03 ST JUDE CHARITY STREAM.   The bananas need three days or so to come together. As well the graham cracker will back down in a few days as well\r\n\r\n*****UPDATE. GREAT BANANA PUDDING AFTER 2 MONTH STEEP******",
+    "id": 132088,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:56:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "8554",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "VapinTrucker",
+    "views": "905",
+    "created_at": "2018-12-22",
+    "slug": "spiced_banana_pudding",
+    "total_flavoring": "9.5%",
+    "steep_days": "60",
+    "best_vg": "0%",
+    "temperature": "0"
 }

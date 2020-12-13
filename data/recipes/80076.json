@@ -1,63 +1,64 @@
 {
-  "name": "Kentucky Creams",
-  "description": "Totally worth the wait for this recipe .. The Bourbon is very sweet and mellow after the long steep and zero breathing of the recipe is needed. This recipe was originally made by me in Aug 2017 after approx 2 months of trial and error..",
-  "id": 80076,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla (bourbon)",
-      "flavor_id": "184",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MarkSr",
-  "views": "1351",
-  "slug": "kentucky_creams",
-  "total_flavoring": "10.5%",
-  "steep_days": "60",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "Looks good! "
-    }
-  ]
+    "name": "Kentucky Creams",
+    "description": "Totally worth the wait for this recipe .. The Bourbon is very sweet and mellow after the long steep and zero breathing of the recipe is needed. This recipe was originally made by me in Aug 2017 after approx 2 months of trial and error..",
+    "id": 80076,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla (bourbon)",
+            "flavor_id": "184",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MarkSr",
+    "views": "1358",
+    "created_at": "2017-12-21",
+    "slug": "kentucky_creams",
+    "total_flavoring": "10.5%",
+    "steep_days": "60",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "Looks good! "
+        }
+    ]
 }

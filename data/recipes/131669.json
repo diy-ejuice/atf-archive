@@ -1,57 +1,59 @@
 {
-  "name": "Silky Smooth RY4 Groove",
-  "description": "A simple, smooth dessert RY4.\r\nHoly Vanilla is a BEAST! I love vanilla, and Holy Vanilla is a rich, unique offering in the vanilla realm. The Sweet Cream, and Vanilla Swirl were added to smooth out, and induce the flow; while the RY4 Double provides that rich, caramel/light RY4 groove. All seem to blend very well together, and top off a great meal!\r\nYou can enjoy this after 5-7 days, but I like it after 2 weeks.",
-  "id": 131669,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131669/Vanill_bacco.jpg",
-  "updated_at": "2020-12-08T00:50:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bonezmcnasty",
-  "views": "2159",
-  "slug": "silky_smooth_ry4_groove",
-  "total_flavoring": "13.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "elsignor",
-      "score": "5",
-      "text": "A rich creamy RY4 with vanilla. Well done, love it. A little too sweet for my taste. I'll lower the supersweet next time."
-    }
-  ]
+    "name": "Silky Smooth RY4 Groove",
+    "description": "A simple, smooth dessert RY4.\r\nHoly Vanilla is a BEAST! I love vanilla, and Holy Vanilla is a rich, unique offering in the vanilla realm. The Sweet Cream, and Vanilla Swirl were added to smooth out, and induce the flow; while the RY4 Double provides that rich, caramel\/light RY4 groove. All seem to blend very well together, and top off a great meal!\r\nYou can enjoy this after 5-7 days, but I like it after 2 weeks.",
+    "id": 131669,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131669\/Vanill_bacco.jpg",
+    "updated_at": "2020-12-12T18:30:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bonezmcnasty",
+    "views": "2166",
+    "created_at": "2018-12-18",
+    "slug": "silky_smooth_ry4_groove",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131669.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "elsignor",
+            "score": 5,
+            "text": "A rich creamy RY4 with vanilla. Well done, love it. A little too sweet for my taste. I'll lower the supersweet next time."
+        }
+    ]
 }

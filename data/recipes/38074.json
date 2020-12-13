@@ -1,63 +1,65 @@
 {
-  "name": "Blueberry Mourning",
-  "description": "One of the first recipes i did when i had about 10 flavors in stock. this recipe was an accident - trying to create something else and this batch reminded me of the blueberry morning cereal my parents had in the pantry. I think it could use a nice fresh milk flavor added to it. ",
-  "id": 38074,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/38074/51dbvsJtzeL.jpg",
-  "updated_at": "2020-12-08T00:49:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "blakedennis87",
-  "views": "1387",
-  "slug": "blueberry_mourning",
-  "total_flavoring": "11.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Great recipe if you like your blueberry cereal super dark and jammy"
-    }
-  ]
+    "name": "Blueberry Mourning",
+    "description": "One of the first recipes i did when i had about 10 flavors in stock. this recipe was an accident - trying to create something else and this batch reminded me of the blueberry morning cereal my parents had in the pantry. I think it could use a nice fresh milk flavor added to it. ",
+    "id": 38074,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/38074\/51dbvsJtzeL.jpg",
+    "updated_at": "2020-12-12T11:50:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "blakedennis87",
+    "views": "1396",
+    "created_at": "2017-03-23",
+    "slug": "blueberry_mourning",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/38074.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Great recipe if you like your blueberry cereal super dark and jammy"
+        }
+    ]
 }

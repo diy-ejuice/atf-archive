@@ -1,57 +1,59 @@
 {
-  "name": "Black Currant Custard ",
-  "description": "A creamy smooth black currant. Slightly sweet. 5 flavor mix, easy to make. Overnight steep.",
-  "id": 9224,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/9224/small-20170804-4565-1vyi2co.jpg",
-  "updated_at": "2020-12-08T00:48:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 7000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "645",
-      "millipercent": 250,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Matt",
-  "views": "1922",
-  "slug": "black_currant_custard",
-  "total_flavoring": "10.75%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "seratne",
-      "score": "4",
-      "text": "The 7% Blackcurrant shouldn't work. But it does somehow. I dropped the Cactus, since it's more just for mouthfeel and I don't have it on hand. But, this is a nice simple straightforward recipe. Good work."
-    }
-  ]
+    "name": "Black Currant Custard ",
+    "description": "A creamy smooth black currant. Slightly sweet. 5 flavor mix, easy to make. Overnight steep.",
+    "id": 9224,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/9224\/small-20170804-4565-1vyi2co.jpg",
+    "updated_at": "2020-12-12T11:50:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 7000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "645",
+            "millipercent": 250,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Matt",
+    "views": "1932",
+    "created_at": "2016-07-31",
+    "slug": "black_currant_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/9224.jpg",
+    "total_flavoring": "10.75%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "seratne",
+            "score": 4,
+            "text": "The 7% Blackcurrant shouldn't work. But it does somehow. I dropped the Cactus, since it's more just for mouthfeel and I don't have it on hand. But, this is a nice simple straightforward recipe. Good work."
+        }
+    ]
 }

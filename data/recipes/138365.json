@@ -1,99 +1,100 @@
 {
-  "name": "Masala de Coco",
-  "description": "Chai spiced coconut milk. Working on getting the spice mix balanced with some real bite. The Bavarian cream and meringue seem to be allowing the spices to be flavorful without any real harshness. Base is shamelessly stolen from slashur.",
-  "id": 138365,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cardamom",
-      "flavor_id": "498",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Clove",
-      "flavor_id": "639",
-      "millipercent": 200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ginger Root",
-      "flavor_id": "8884",
-      "millipercent": 700,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Ecrona",
-  "views": "1252",
-  "slug": "masala_de_coco",
-  "total_flavoring": "10.1%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Skywxp3d",
-      "score": "5",
-      "text": "This is the best recipe I’ve mixed all year. Superb Vape! Full body and lip smacking sweetness, I’m a clove fan and subbed TFA clove, it’s the best and is real clove flavor - adds a sweetness that you just can’t get anywhere else. Great mix thanks! "
-    }
-  ]
+    "name": "Masala de Coco",
+    "description": "Chai spiced coconut milk. Working on getting the spice mix balanced with some real bite. The Bavarian cream and meringue seem to be allowing the spices to be flavorful without any real harshness. Base is shamelessly stolen from slashur.",
+    "id": 138365,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:34:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cardamom",
+            "flavor_id": "498",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Clove",
+            "flavor_id": "639",
+            "millipercent": 200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ginger Root",
+            "flavor_id": "8884",
+            "millipercent": 700,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Ecrona",
+    "views": "1260",
+    "created_at": "2019-02-09",
+    "slug": "masala_de_coco",
+    "total_flavoring": "10.1%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Skywxp3d",
+            "score": 5,
+            "text": "This is the best recipe I\u2019ve mixed all year. Superb Vape! Full body and lip smacking sweetness, I\u2019m a clove fan and subbed TFA clove, it\u2019s the best and is real clove flavor - adds a sweetness that you just can\u2019t get anywhere else. Great mix thanks! "
+        }
+    ]
 }

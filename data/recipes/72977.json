@@ -1,57 +1,58 @@
 {
-  "name": "Strawberry Cookie",
-  "description": "This is a a test/play around with flavours in my currently small (but growing) collection. \r\n\r\nI applied the tried and true strawberry combination I found in Skiddlzninja's God Milk in the use of TFA's Strawberry, Strawberry (Ripe) and Dragonfruit, which I adore. \r\nLooking through my small but growing collection I thought hey, maybe I could make a strawberry cookie? (which isn't really a thing but hey) \r\nSurprisingly, it's pretty spot on. The cookie is present throughout the vape with its delicious buttery notes, gently enveloped in strawberry goodness. \r\nI added FA Meringue to add an extra lightness and sweetness to the mix. \r\n\r\nQuite pleased with it at a first go at trying to create something. I haven't added nicotine purely because I'm testing the combination of flavours themselves.",
-  "id": 72977,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "WoodChopper",
-  "views": "1616",
-  "slug": "strawberry_cookie",
-  "total_flavoring": "7.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Xist",
-      "score": "4",
-      "text": "This was next in my \"What can I make\" list, so I gave it a shot.  It's a real nice mellow strawberry mix.  I gave it a quick heat steep, and it really does remind me of God Milk.   The meringue was a nice choice; being a recipe under 8% it has a good amount of sweetness and flavor.  I don't know if this will make my rotation, but I dig it.  Well done."
-    }
-  ]
+    "name": "Strawberry Cookie",
+    "description": "This is a a test\/play around with flavours in my currently small (but growing) collection. \r\n\r\nI applied the tried and true strawberry combination I found in Skiddlzninja's God Milk in the use of TFA's Strawberry, Strawberry (Ripe) and Dragonfruit, which I adore. \r\nLooking through my small but growing collection I thought hey, maybe I could make a strawberry cookie? (which isn't really a thing but hey) \r\nSurprisingly, it's pretty spot on. The cookie is present throughout the vape with its delicious buttery notes, gently enveloped in strawberry goodness. \r\nI added FA Meringue to add an extra lightness and sweetness to the mix. \r\n\r\nQuite pleased with it at a first go at trying to create something. I haven't added nicotine purely because I'm testing the combination of flavours themselves.",
+    "id": 72977,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:39:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "WoodChopper",
+    "views": "1626",
+    "created_at": "2017-11-07",
+    "slug": "strawberry_cookie",
+    "total_flavoring": "7.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Xist",
+            "score": 4,
+            "text": "This was next in my \"What can I make\" list, so I gave it a shot.  It's a real nice mellow strawberry mix.  I gave it a quick heat steep, and it really does remind me of God Milk.   The meringue was a nice choice; being a recipe under 8% it has a good amount of sweetness and flavor.  I don't know if this will make my rotation, but I dig it.  Well done."
+        }
+    ]
 }

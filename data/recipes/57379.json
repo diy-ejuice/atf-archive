@@ -1,74 +1,74 @@
 {
-  "name": "Batter Balls",
-  "description": "Deep fried ice cream balls covered in a crispy batter",
-  "id": 57379,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/57379/IMG_6906.JPG",
-  "updated_at": "2020-12-02T07:38:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter",
-      "flavor_id": "494",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Deep Fried Twinkie Type – SC",
-      "flavor_id": "7491",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "1273",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanillin 10% (pg)",
-      "flavor_id": "190",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Cream",
-      "flavor_id": "7709",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Moonunit",
-  "views": "1456",
-  "slug": "batter_balls",
-  "total_flavoring": "10.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Batter Balls",
+    "description": "Deep fried ice cream balls covered in a crispy batter",
+    "id": 57379,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/57379\/IMG_6906.JPG",
+    "updated_at": "2020-12-10T14:52:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter",
+            "flavor_id": "494",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Deep Fried Twinkie Type \u2013 SC",
+            "flavor_id": "7491",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "1273",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanillin 10% (pg)",
+            "flavor_id": "190",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Cream",
+            "flavor_id": "7709",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Moonunit",
+    "views": "1460",
+    "created_at": "2017-07-28",
+    "slug": "batter_balls",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/57379.JPG",
+    "total_flavoring": "10.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

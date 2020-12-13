@@ -1,45 +1,47 @@
 {
-  "name": "Blübat",
-  "description": "Blueberry cupcake batter. Inspired by NotCharlesManson's Batter Up. By inspired, I mean I used RF Blueberry instead. Give it at least a week to age and let the blueberry really come out. Or vape it right away, idgaf. It just won't be as good.\r\n\r\n",
-  "id": 14670,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14670/blueberry-cupcakes-scoop-batter.jpg",
-  "updated_at": "2020-12-05T02:12:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "2225",
-      "millipercent": 5000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cupcake batter",
-      "flavor_id": "2596",
-      "millipercent": 4500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Nonna's Cake",
-      "flavor_id": "2173",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BCrunk",
-  "views": "1097",
-  "slug": "blbat",
-  "total_flavoring": "10.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "Bl\u00fcbat",
+    "description": "Blueberry cupcake batter. Inspired by NotCharlesManson's Batter Up. By inspired, I mean I used RF Blueberry instead. Give it at least a week to age and let the blueberry really come out. Or vape it right away, idgaf. It just won't be as good.\r\n\r\n",
+    "id": 14670,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14670\/blueberry-cupcakes-scoop-batter.jpg",
+    "updated_at": "2020-12-10T13:44:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "2225",
+            "millipercent": 5000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cupcake batter",
+            "flavor_id": "2596",
+            "millipercent": 4500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Nonna's Cake",
+            "flavor_id": "2173",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BCrunk",
+    "views": "1104",
+    "created_at": "2016-09-28",
+    "slug": "blbat",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14670.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

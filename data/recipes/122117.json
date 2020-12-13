@@ -1,50 +1,49 @@
 {
-  "name": "Yum Cookie's",
-  "description": "Cookies with a very particular taste... try it! Sweet and fruitly!",
-  "id": 122117,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:35:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "itMax86",
-  "views": "971",
-  "slug": "yum_cookies",
-  "total_flavoring": "7.5%",
-  "steep_days": "2",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Yum Cookie's",
+    "description": "Cookies with a very particular taste... try it! Sweet and fruitly!",
+    "id": 122117,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "itMax86",
+    "views": "978",
+    "created_at": "2018-10-07",
+    "slug": "yum_cookies",
+    "total_flavoring": "7.5%",
+    "steep_days": "2",
+    "best_vg": "50%",
+    "temperature": "0"
 }

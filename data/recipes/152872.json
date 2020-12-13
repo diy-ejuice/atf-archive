@@ -1,62 +1,62 @@
 {
-  "name": "Fake Menthol Mimosa",
-  "description": "I wanted to play around with FLV Mimosa and found a good pairing with DV Absinth and FM Gin Orange.\r\nIt creates a kind of boozy mentholated vape which is fairly pleasing after 3 days of steeping.\r\nIt almost gives the impression that there is koolada in the recipe, but that's just the combo of the Absinth and the Gin.\r\nYou can vape it DL, but to me it tastes best when used in MTL.",
-  "id": 152872,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152872/1200px-Structural_formula_of_menthol.svg.png",
-  "updated_at": "2020-11-29T11:21:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Morning Mimosa",
-      "flavor_id": "8558",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Gin Orange",
-      "flavor_id": "6007",
-      "millipercent": 800,
-      "vendor": "FM"
-    },
-    {
-      "name": "Lemon Zest",
-      "flavor_id": "4854",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Absinthe",
-      "flavor_id": "5348",
-      "millipercent": 500,
-      "vendor": "DV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rhubarb (yc)",
-      "flavor_id": "711",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Echodub",
-  "views": "738",
-  "slug": "fake_menthol_mimosa",
-  "total_flavoring": "4.5%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fake Menthol Mimosa",
+    "description": "I wanted to play around with FLV Mimosa and found a good pairing with DV Absinth and FM Gin Orange.\r\nIt creates a kind of boozy mentholated vape which is fairly pleasing after 3 days of steeping.\r\nIt almost gives the impression that there is koolada in the recipe, but that's just the combo of the Absinth and the Gin.\r\nYou can vape it DL, but to me it tastes best when used in MTL.",
+    "id": 152872,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/152872\/1200px-Structural_formula_of_menthol.svg.png",
+    "updated_at": "2020-12-12T02:45:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Morning Mimosa",
+            "flavor_id": "8558",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Gin Orange",
+            "flavor_id": "6007",
+            "millipercent": 800,
+            "vendor": "FM"
+        },
+        {
+            "name": "Lemon Zest",
+            "flavor_id": "4854",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Absinthe",
+            "flavor_id": "5348",
+            "millipercent": 500,
+            "vendor": "DV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rhubarb (yc)",
+            "flavor_id": "711",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Echodub",
+    "views": "743",
+    "created_at": "2019-05-25",
+    "slug": "fake_menthol_mimosa",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/152872.png",
+    "total_flavoring": "4.5%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

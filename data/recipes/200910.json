@@ -1,62 +1,62 @@
 {
-  "name": "Tranquilo (el Patrón)",
-  "description": "My take on a commercial liquid with Green Tea, Ginger & Cactus",
-  "id": 200910,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200910/VapeK_000102-Tranquilo_slider.jpg",
-  "updated_at": "2020-12-06T20:46:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ginger",
-      "flavor_id": "4415",
-      "millipercent": 900,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Green tea",
-      "flavor_id": "9376",
-      "millipercent": 2250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Mexican Cactus",
-      "flavor_id": "1526",
-      "millipercent": 750,
-      "vendor": "MB"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 2000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Spycke",
-  "views": "272",
-  "slug": "tranquilo_el_patrn",
-  "total_flavoring": "8.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tranquilo (el Patr\u00f3n)",
+    "description": "My take on a commercial liquid with Green Tea, Ginger & Cactus",
+    "id": 200910,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/200910\/VapeK_000102-Tranquilo_slider.jpg",
+    "updated_at": "2020-12-11T18:25:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ginger",
+            "flavor_id": "4415",
+            "millipercent": 900,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Green tea",
+            "flavor_id": "9376",
+            "millipercent": 2250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Mexican Cactus",
+            "flavor_id": "1526",
+            "millipercent": 750,
+            "vendor": "MB"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 2000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Spycke",
+    "views": "279",
+    "created_at": "2020-07-18",
+    "slug": "tranquilo_el_patrn",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/200910.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

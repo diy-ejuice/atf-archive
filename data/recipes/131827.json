@@ -1,84 +1,86 @@
 {
-  "name": "Caramel Cream Pastry",
-  "description": "A while back Alfred Pudding mentioned to me that he wanted a new mix for his CC-Devon Cream so I set out to come up with something for him.  Daytime Frank was doing a bakery show today so I felt it was a good time to release it.  This is a rich and buttery croissant with the cream filling and caramel lushness, then dusted with sugar for good measure.  \r\n\r\nThe VT-Croissant is a super buttery croissant flavor and it pretty decent on its own but I wanted to add a bit more body to it so I tossed in some FA-Cookie.  The FA-Custard Premium combines with the CC Devon Cream for a decadent creamy filling.\r\nI used the FW-Salted Caramel as my main caramel note and the VT-Honeycomb is like the magical glue pulling all of these flavors together.  The OOO-Powdered Sugar is to sweeten it up and add that sugar topped element to the mix.\r\n\r\n***{Possible Substitutes} Although these will not be an exact match, they would still make a decent alternative if you are missing these two flavors.  FA-Custard Premium can be traded out with FLV-Vanilla Pudding (same percentage).  CC-Devon Cream can be traded with JF-Bavarian Cream but you might want to lower it to 1%.  The other flavors are essential for the best results IMO.***",
-  "id": 131827,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/131827/64ae493830340961197e894e80c1bee5.jpg",
-  "updated_at": "2020-12-08T00:50:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 2000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 800,
-      "vendor": "VT"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Demented76",
-  "views": "3667",
-  "slug": "caramel_cream_pastry",
-  "total_flavoring": "9.8%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "FuriousMixer",
-      "score": "5",
-      "text": "Well what can I say man...this shit right here is delicious!! Im a sucker for all things “desert” based but this is a great pastry/desert hybrid. I mixed up 60mls and smashed it in 2 days and will 100% mix it up again!! I doff my proverbial hat to you Demented top notch. 👍🏻"
-    },
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "I really persevered with this one, I let it steep for 2 months trying it here and there. It had a really nice exhale but the inhale was smokey to me. I thought I would air it out but didn't want to risk it. Was it me, probably it was. I seldom used FW salted caramel and thought I would remix this using a different caramel as I could tell it was good except for that smokiness I was getting. I ended up adding a 1 drop of Vape Wizard  per 10ml and although the smokiness is slightly there it improved it for me quite a bit. I f I were to mix this for myself in the future I would definitely steal this base and maybe add a different filling. If a recipe can do that then it is worthy of 5 stars. Thanks, I think I hear some apricots calling me,"
-    },
-    {
-      "user": "ooooNaSuGamisoooo",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "AlfredPudding",
-      "score": "5",
-      "text": "This is easily one of my favorite dessert recipes. VT Croissant and FA Cookie make the perfect pastry dough for the recipe. CC Devon Cream provides a seamless bridge between the awesome FW Salted Caramel and VT Honeycomb combo and the FA Custard Premium filling. Finish it with some OOO Powdered Sugar and you're ready to stop vaping anything else for a while. When I asked Demented76 to find a use for my CC Devon Cream, I wasn't expecting such a stellar recipe to come out of it. Do yourself a favor and mix this one up immediately. "
-    }
-  ]
+    "name": "Caramel Cream Pastry",
+    "description": "A while back Alfred Pudding mentioned to me that he wanted a new mix for his CC-Devon Cream so I set out to come up with something for him.  Daytime Frank was doing a bakery show today so I felt it was a good time to release it.  This is a rich and buttery croissant with the cream filling and caramel lushness, then dusted with sugar for good measure.  \r\n\r\nThe VT-Croissant is a super buttery croissant flavor and it pretty decent on its own but I wanted to add a bit more body to it so I tossed in some FA-Cookie.  The FA-Custard Premium combines with the CC Devon Cream for a decadent creamy filling.\r\nI used the FW-Salted Caramel as my main caramel note and the VT-Honeycomb is like the magical glue pulling all of these flavors together.  The OOO-Powdered Sugar is to sweeten it up and add that sugar topped element to the mix.\r\n\r\n***{Possible Substitutes} Although these will not be an exact match, they would still make a decent alternative if you are missing these two flavors.  FA-Custard Premium can be traded out with FLV-Vanilla Pudding (same percentage).  CC-Devon Cream can be traded with JF-Bavarian Cream but you might want to lower it to 1%.  The other flavors are essential for the best results IMO.***",
+    "id": 131827,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/131827\/64ae493830340961197e894e80c1bee5.jpg",
+    "updated_at": "2020-12-12T18:30:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 2000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 800,
+            "vendor": "VT"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Demented76",
+    "views": "3682",
+    "created_at": "2018-12-19",
+    "slug": "caramel_cream_pastry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/131827.jpg",
+    "total_flavoring": "9.8%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "FuriousMixer",
+            "score": 5,
+            "text": "Well what can I say man...this shit right here is delicious!! Im a sucker for all things \u201cdesert\u201d based but this is a great pastry\/desert hybrid. I mixed up 60mls and smashed it in 2 days and will 100% mix it up again!! I doff my proverbial hat to you Demented top notch. \ud83d\udc4d\ud83c\udffb"
+        },
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "I really persevered with this one, I let it steep for 2 months trying it here and there. It had a really nice exhale but the inhale was smokey to me. I thought I would air it out but didn't want to risk it. Was it me, probably it was. I seldom used FW salted caramel and thought I would remix this using a different caramel as I could tell it was good except for that smokiness I was getting. I ended up adding a 1 drop of Vape Wizard  per 10ml and although the smokiness is slightly there it improved it for me quite a bit. I f I were to mix this for myself in the future I would definitely steal this base and maybe add a different filling. If a recipe can do that then it is worthy of 5 stars. Thanks, I think I hear some apricots calling me,"
+        },
+        {
+            "user": "ooooNaSuGamisoooo",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "AlfredPudding",
+            "score": 5,
+            "text": "This is easily one of my favorite dessert recipes. VT Croissant and FA Cookie make the perfect pastry dough for the recipe. CC Devon Cream provides a seamless bridge between the awesome FW Salted Caramel and VT Honeycomb combo and the FA Custard Premium filling. Finish it with some OOO Powdered Sugar and you're ready to stop vaping anything else for a while. When I asked Demented76 to find a use for my CC Devon Cream, I wasn't expecting such a stellar recipe to come out of it. Do yourself a favor and mix this one up immediately. "
+        }
+    ]
 }

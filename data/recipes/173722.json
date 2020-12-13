@@ -1,38 +1,37 @@
 {
-  "name": "Dimpled Toes",
-  "description": "Kiwi strawberry all you could all for and more. Berry good",
-  "id": 173722,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 6000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 10000,
-      "vendor": "JF"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Mulana1998",
-  "views": "577",
-  "slug": "dimpled_toes",
-  "total_flavoring": "16.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dimpled Toes",
+    "description": "Kiwi strawberry all you could all for and more. Berry good",
+    "id": 173722,
+    "image_url": null,
+    "updated_at": "2020-12-12T06:59:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 6000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 10000,
+            "vendor": "JF"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Mulana1998",
+    "views": "585",
+    "created_at": "2019-11-08",
+    "slug": "dimpled_toes",
+    "total_flavoring": "16.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

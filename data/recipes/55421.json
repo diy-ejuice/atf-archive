@@ -1,44 +1,43 @@
 {
-  "name": "Chery tobacco",
-  "description": "A tobacco recipe,with hints of fruits,cherry-coconut and cocoa-coffee.a nice one if you like aromatic tobacco vapes",
-  "id": 55421,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:34:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Inawera Blend",
-      "flavor_id": "790",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherry Cigar",
-      "flavor_id": "758",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Am4a By Inwera",
-      "flavor_id": "748",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Tobacco Drop",
-      "flavor_id": "839",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "nks",
-  "views": "1323",
-  "slug": "chery_tobacco",
-  "total_flavoring": "5.0%",
-  "steep_days": "25",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chery tobacco",
+    "description": "A tobacco recipe,with hints of fruits,cherry-coconut and cocoa-coffee.a nice one if you like aromatic tobacco vapes",
+    "id": 55421,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Inawera Blend",
+            "flavor_id": "790",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherry Cigar",
+            "flavor_id": "758",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Am4a By Inwera",
+            "flavor_id": "748",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Tobacco Drop",
+            "flavor_id": "839",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "nks",
+    "views": "1328",
+    "created_at": "2017-07-14",
+    "slug": "chery_tobacco",
+    "total_flavoring": "5.0%",
+    "steep_days": "25",
+    "best_vg": "60%",
+    "temperature": "0"
 }

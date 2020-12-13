@@ -1,68 +1,68 @@
 {
-  "name": "BigFoot's Strawberry Cake",
-  "description": "I cant tell a lie. I am not very good at explaining myself or how flavors do or dont work together. So I will tell a story instead.\r\n \r\nI told a more experienced mixer what I wanted to create. So she shot me a recipe. A pretty dam good one I might add. The first version was a little to strong for me but i like it enough to try and make it suitable for me. I tryed many versions and this one came out just right for me. Thank You!!!",
-  "id": 135025,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135025/Adobe_Post_20190115_193419.jpg",
-  "updated_at": "2020-12-07T17:35:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pound Cake",
-      "flavor_id": "4306",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 350,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "BigFoot1",
-  "views": "1578",
-  "slug": "bigfoots_strawberry_cake",
-  "total_flavoring": "10.85%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "BigFoot's Strawberry Cake",
+    "description": "I cant tell a lie. I am not very good at explaining myself or how flavors do or dont work together. So I will tell a story instead.\r\n \r\nI told a more experienced mixer what I wanted to create. So she shot me a recipe. A pretty dam good one I might add. The first version was a little to strong for me but i like it enough to try and make it suitable for me. I tryed many versions and this one came out just right for me. Thank You!!!",
+    "id": 135025,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135025\/Adobe_Post_20190115_193419.jpg",
+    "updated_at": "2020-12-12T14:06:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pound Cake",
+            "flavor_id": "4306",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 350,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "BigFoot1",
+    "views": "1589",
+    "created_at": "2019-01-15",
+    "slug": "bigfoots_strawberry_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135025.jpg",
+    "total_flavoring": "10.85%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

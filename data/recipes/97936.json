@@ -1,81 +1,83 @@
 {
-  "name": "Sweet B Jesus ",
-  "description": "A very nicely sweetened vanilla cream with hints of maple. This is light a fluffy with a nice buttery ness to it. Very good. Steep 3 days. Mixed 70/30. It really don’t need Sweetner. But if you like a a few drops of Supersweet. ",
-  "id": 97936,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97936/68ACE259-6571-4E52-98FF-DF24DF1C32B8.jpeg",
-  "updated_at": "2020-12-07T17:34:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "French Vanilla Creme",
-      "flavor_id": "168",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cookie Dough",
-      "flavor_id": "4373",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1338",
-  "slug": "sweet_b_jesus",
-  "total_flavoring": "8.25%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "3",
-      "text": "This one came up a little short.  A little light on flavor and I gave her about a month steep. Not bad but not great.   You  set the bar pretty high with Butter Dreams.  "
-    }
-  ]
+    "name": "Sweet B Jesus ",
+    "description": "A very nicely sweetened vanilla cream with hints of maple. This is light a fluffy with a nice buttery ness to it. Very good. Steep 3 days. Mixed 70\/30. It really don\u2019t need Sweetner. But if you like a a few drops of Supersweet. ",
+    "id": 97936,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/97936\/68ACE259-6571-4E52-98FF-DF24DF1C32B8.jpeg",
+    "updated_at": "2020-12-10T17:57:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "French Vanilla Creme",
+            "flavor_id": "168",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cookie Dough",
+            "flavor_id": "4373",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1343",
+    "created_at": "2018-04-22",
+    "slug": "sweet_b_jesus",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/97936.jpeg",
+    "total_flavoring": "8.25%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 3,
+            "text": "This one came up a little short.  A little light on flavor and I gave her about a month steep. Not bad but not great.   You  set the bar pretty high with Butter Dreams.  "
+        }
+    ]
 }

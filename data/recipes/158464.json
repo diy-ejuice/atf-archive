@@ -1,50 +1,49 @@
 {
-  "name": "Rin's Pink Cake",
-  "description": "Pink fruit white cake with cream cheese and white frosting. Mixin Vixens July 7 2019 episode ",
-  "id": 158464,
-  "image_url": null,
-  "updated_at": "2020-12-02T08:21:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Raspberry (Wera Garden)",
-      "flavor_id": "10275",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pink Fruit",
-      "flavor_id": "10091",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "815",
-  "slug": "rins_pink_cake",
-  "total_flavoring": "5.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Pink Cake",
+    "description": "Pink fruit white cake with cream cheese and white frosting. Mixin Vixens July 7 2019 episode ",
+    "id": 158464,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Raspberry (Wera Garden)",
+            "flavor_id": "10275",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pink Fruit",
+            "flavor_id": "10091",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "819",
+    "created_at": "2019-07-07",
+    "slug": "rins_pink_cake",
+    "total_flavoring": "5.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

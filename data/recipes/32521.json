@@ -1,73 +1,75 @@
 {
-  "name": "Shamrock Shake",
-  "description": "Simple Shamrock Shake from Mcdonald's. For all those times when you want a Shamrock shake but they are only here for 2 months out of the year. Give this thing a good 3-5 days for all of the Creams to work their magic and the mint to fall into the background like a true shamrock shake. If you like your Shamrock Shake extra minty bump the Creme De Menthe to 3%. The Butter Cream is what sets this Shamrock Shake apart from other recipes of the same. It adds that buttery cream that is perfect for this profile. ",
-  "id": 32521,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32521/phpThumb_generated_thumbnail.jpg",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "278",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "cloudstate",
-  "views": "4382",
-  "slug": "shamrock_shake",
-  "total_flavoring": "13.0%",
-  "steep_days": "6",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "XxBulldogIrishxX",
-      "score": "5",
-      "text": "It's so good! I added 0.50 of ws23 to make it cold like a shake and definitely went to 3 for the creme de menthe..such a perfect recipe thanks!!!&#xD;\n"
-    },
-    {
-      "user": "Lulzor",
-      "score": "5",
-      "text": "Exactly as described. Perfect shamrock shake."
-    },
-    {
-      "user": "lolwtf",
-      "score": "5",
-      "text": "Butter Cream really sets this off, making it a super rich and delicious, spot-on Shamrock Shake recipe.  Awesome.  You really don't need to like mint to appreciate this one. "
-    }
-  ]
+    "name": "Shamrock Shake",
+    "description": "Simple Shamrock Shake from Mcdonald's. For all those times when you want a Shamrock shake but they are only here for 2 months out of the year. Give this thing a good 3-5 days for all of the Creams to work their magic and the mint to fall into the background like a true shamrock shake. If you like your Shamrock Shake extra minty bump the Creme De Menthe to 3%. The Butter Cream is what sets this Shamrock Shake apart from other recipes of the same. It adds that buttery cream that is perfect for this profile. ",
+    "id": 32521,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32521\/phpThumb_generated_thumbnail.jpg",
+    "updated_at": "2020-12-12T20:28:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "278",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "cloudstate",
+    "views": "4405",
+    "created_at": "2017-02-17",
+    "slug": "shamrock_shake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32521.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "6",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "XxBulldogIrishxX",
+            "score": 5,
+            "text": "It's so good! I added 0.50 of ws23 to make it cold like a shake and definitely went to 3 for the creme de menthe..such a perfect recipe thanks!!!&#xD;\n"
+        },
+        {
+            "user": "Lulzor",
+            "score": 5,
+            "text": "Exactly as described. Perfect shamrock shake."
+        },
+        {
+            "user": "lolwtf",
+            "score": 5,
+            "text": "Butter Cream really sets this off, making it a super rich and delicious, spot-on Shamrock Shake recipe.  Awesome.  You really don't need to like mint to appreciate this one. "
+        }
+    ]
 }

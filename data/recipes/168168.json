@@ -1,57 +1,59 @@
 {
-  "name": "Mango Lightning",
-  "description": "Endgame cold mango vape. Bloody delicious and easy to mix. Love it or don’t. ",
-  "id": 168168,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/168168/CEB04ED2-80C3-4A85-B65C-D0F5E07AEE89.jpeg",
-  "updated_at": "2020-12-08T00:51:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 700,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 400,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 850,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Borninfire138",
-  "views": "1680",
-  "slug": "mango_lightning",
-  "total_flavoring": "6.95%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "PhyllisRae",
-      "score": "5",
-      "text": "Very Nice!"
-    }
-  ]
+    "name": "Mango Lightning",
+    "description": "Endgame cold mango vape. Bloody delicious and easy to mix. Love it or don\u2019t. ",
+    "id": 168168,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/168168\/CEB04ED2-80C3-4A85-B65C-D0F5E07AEE89.jpeg",
+    "updated_at": "2020-12-12T11:53:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 700,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 400,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 850,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Borninfire138",
+    "views": "1698",
+    "created_at": "2019-09-27",
+    "slug": "mango_lightning",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/168168.jpeg",
+    "total_flavoring": "6.95%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "PhyllisRae",
+            "score": 5,
+            "text": "Very Nice!"
+        }
+    ]
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Sugar Coated",
-  "description": "A tart and sugar coated watermelon gummy ring that we all know and love from our childhood. Enjoy as an adult in vape form!",
-  "id": 90068,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90068/Products9-1.png",
-  "updated_at": "2020-12-08T00:49:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sour Watermelon Candy",
-      "flavor_id": "6062",
-      "millipercent": 4500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "616",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "27 Bears",
-      "flavor_id": "8735",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Marshmallow",
-      "flavor_id": "8744",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VooDoo",
-  "views": "2336",
-  "slug": "sugar_coated",
-  "total_flavoring": "13.2%",
-  "steep_days": "3",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "PixelBytes",
-      "score": "5",
-      "text": "One of the BEST recipes I've ever tried. Spot on, thank you so much for sharing!!! I love fairly strong flavors and this is definitely one of them 😃"
-    }
-  ]
+    "name": "Sugar Coated",
+    "description": "A tart and sugar coated watermelon gummy ring that we all know and love from our childhood. Enjoy as an adult in vape form!",
+    "id": 90068,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90068\/Products9-1.png",
+    "updated_at": "2020-12-12T10:34:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sour Watermelon Candy",
+            "flavor_id": "6062",
+            "millipercent": 4500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "616",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "27 Bears",
+            "flavor_id": "8735",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Marshmallow",
+            "flavor_id": "8744",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VooDoo",
+    "views": "2346",
+    "created_at": "2018-02-25",
+    "slug": "sugar_coated",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90068.png",
+    "total_flavoring": "13.2%",
+    "steep_days": "3",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "PixelBytes",
+            "score": 5,
+            "text": "One of the BEST recipes I've ever tried. Spot on, thank you so much for sharing!!! I love fairly strong flavors and this is definitely one of them \ud83d\ude03"
+        }
+    ]
 }

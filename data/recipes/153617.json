@@ -1,56 +1,56 @@
 {
-  "name": "Gutshot Vanilla",
-  "description": "Vanilla, Butterscotch, and Caramel.  Cake Batter said he never gets to come out and play anymore.  I missed you buddy!\r\n\r\nStill don't know who invited Vanilla Whipped Cream. \r\n\r\nDamn Good from the shake and better each day.",
-  "id": 153617,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/153617/gutshot.jpg",
-  "updated_at": "2020-12-06T03:09:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 6000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel (original)",
-      "flavor_id": "149",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "bjorama",
-  "views": "1170",
-  "slug": "gutshot_vanilla",
-  "total_flavoring": "15.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gutshot Vanilla",
+    "description": "Vanilla, Butterscotch, and Caramel.  Cake Batter said he never gets to come out and play anymore.  I missed you buddy!\r\n\r\nStill don't know who invited Vanilla Whipped Cream. \r\n\r\nDamn Good from the shake and better each day.",
+    "id": 153617,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/153617\/gutshot.jpg",
+    "updated_at": "2020-12-12T14:07:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 6000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel (original)",
+            "flavor_id": "149",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "bjorama",
+    "views": "1177",
+    "created_at": "2019-05-30",
+    "slug": "gutshot_vanilla",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/153617.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

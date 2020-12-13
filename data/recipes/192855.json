@@ -1,68 +1,67 @@
 {
-  "name": "Bedrock",
-  "description": "A new take on an old recipe that I used to make back when I worked at a B&M.",
-  "id": 192855,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:52:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "1335",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Seakow",
-  "views": "644",
-  "slug": "bedrock",
-  "total_flavoring": "10.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bedrock",
+    "description": "A new take on an old recipe that I used to make back when I worked at a B&M.",
+    "id": 192855,
+    "image_url": null,
+    "updated_at": "2020-12-12T02:46:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "1335",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Seakow",
+    "views": "650",
+    "created_at": "2020-04-27",
+    "slug": "bedrock",
+    "total_flavoring": "10.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

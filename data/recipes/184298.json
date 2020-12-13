@@ -1,56 +1,56 @@
 {
-  "name": "Waffle Crisp",
-  "description": "Delicious maple flavored cereal with milk, just like when we were kids. Enjoy!",
-  "id": 184298,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/184298/maxresdefault.jpg",
-  "updated_at": "2020-12-07T14:14:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 800,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Silky",
-  "views": "1006",
-  "slug": "waffle_crisp",
-  "total_flavoring": "10.1%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Waffle Crisp",
+    "description": "Delicious maple flavored cereal with milk, just like when we were kids. Enjoy!",
+    "id": 184298,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/184298\/maxresdefault.jpg",
+    "updated_at": "2020-12-12T06:59:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 800,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Silky",
+    "views": "1014",
+    "created_at": "2020-02-10",
+    "slug": "waffle_crisp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/184298.jpg",
+    "total_flavoring": "10.1%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "0"
 }

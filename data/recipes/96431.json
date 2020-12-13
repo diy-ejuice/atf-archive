@@ -1,74 +1,73 @@
 {
-  "name": "Orange Augustus v.1.0 (Orange Julius mix)",
-  "description": "This is my first original mix, though I use the term \"original\" loosely. It is heavily inspired by The Best Damn Loveless Orange Milk by matthewkocanda. His recipe has been one of my ADVs since I started mixing a few months ago. This week, though, I have a head cold complete with sinus congestion and a sore throat. That means it's time for me to be vaping menthol. It didn't take me long to run out of what I had on hand, but I remembered I had picked up some 10% menthol with my first batch of flavors. This would work just as well, and very possibly better, with koolada, but menthol was what I had.\r\n\r\nI decided to try my hand at one of my favorite things from childhood that I can no longer enjoy because I got the diabeetus: Orange Julius. I altered the ratios of matthewkocanda's Orange Milk, added in some Vanilla Whipped Cream and menthol, and completely forgot to use the Vienna Cream that was in the original recipe.\r\n\r\nAn Orange Julius is much more of a frozen orange juice rather than a proper orange cream flavor, so I have the total orange flavoring at a higher ratio than the total cream flavoring. The honeysuckle and hazelnut are holdovers from the original recipe. I tried to have the orange at the front with the other flavors holding it up rather than blending into a secondary note in and of themselves. The menthol adds a touch of coolness. I could probably go higher with that, but I don't really want a minty note, so I think when/if I get around to mixing v.2.0 I try to have some koolada for that instead.\r\n\r\nAt the time I'm writing this, it's only been one day since I mixed this up, so I haven't tried it after a steep yet. So far it's good as a shake 'n' vape. Good, but I wouldn't say great. I mixed it at max VG. I would love feedback on this.",
-  "id": 96431,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:43:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Menthol (10%)",
-      "flavor_id": "8088",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "AchwardSilence",
-  "views": "1112",
-  "slug": "orange_augustus_v10_orange_julius_mix",
-  "total_flavoring": "15.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Augustus v.1.0 (Orange Julius mix)",
+    "description": "This is my first original mix, though I use the term \"original\" loosely. It is heavily inspired by The Best Damn Loveless Orange Milk by matthewkocanda. His recipe has been one of my ADVs since I started mixing a few months ago. This week, though, I have a head cold complete with sinus congestion and a sore throat. That means it's time for me to be vaping menthol. It didn't take me long to run out of what I had on hand, but I remembered I had picked up some 10% menthol with my first batch of flavors. This would work just as well, and very possibly better, with koolada, but menthol was what I had.\r\n\r\nI decided to try my hand at one of my favorite things from childhood that I can no longer enjoy because I got the diabeetus: Orange Julius. I altered the ratios of matthewkocanda's Orange Milk, added in some Vanilla Whipped Cream and menthol, and completely forgot to use the Vienna Cream that was in the original recipe.\r\n\r\nAn Orange Julius is much more of a frozen orange juice rather than a proper orange cream flavor, so I have the total orange flavoring at a higher ratio than the total cream flavoring. The honeysuckle and hazelnut are holdovers from the original recipe. I tried to have the orange at the front with the other flavors holding it up rather than blending into a secondary note in and of themselves. The menthol adds a touch of coolness. I could probably go higher with that, but I don't really want a minty note, so I think when\/if I get around to mixing v.2.0 I try to have some koolada for that instead.\r\n\r\nAt the time I'm writing this, it's only been one day since I mixed this up, so I haven't tried it after a steep yet. So far it's good as a shake 'n' vape. Good, but I wouldn't say great. I mixed it at max VG. I would love feedback on this.",
+    "id": 96431,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:41:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Menthol (10%)",
+            "flavor_id": "8088",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "AchwardSilence",
+    "views": "1120",
+    "created_at": "2018-04-11",
+    "slug": "orange_augustus_v10_orange_julius_mix",
+    "total_flavoring": "15.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

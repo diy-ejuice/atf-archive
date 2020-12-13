@@ -1,50 +1,50 @@
 {
-  "name": "Adulthood",
-  "description": "Heavy and buttery custard with caramel backed by banana and tobacco notes in the background.\r\nSimple but complex – exactly like adulthood turned out to be.",
-  "id": 32979,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32979/adulthood.jpg",
-  "updated_at": "2020-12-07T22:31:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "kb_zwrl",
-  "views": "1634",
-  "slug": "adulthood",
-  "total_flavoring": "15.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Adulthood",
+    "description": "Heavy and buttery custard with caramel backed by banana and tobacco notes in the background.\r\nSimple but complex \u2013 exactly like adulthood turned out to be.",
+    "id": 32979,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32979\/adulthood.jpg",
+    "updated_at": "2020-12-10T15:59:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "kb_zwrl",
+    "views": "1642",
+    "created_at": "2017-02-20",
+    "slug": "adulthood",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32979.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

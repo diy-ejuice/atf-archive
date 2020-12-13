@@ -1,74 +1,73 @@
 {
-  "name": "let them eat CAKE",
-  "description": "It took me a long time to get a good cake that I could taste ALL parts of. WF really has the be all of cakes. \r\nLA cake batter is just such an amazing flavour. Way better than FW cake batter dip IMO. \r\nIce cream, meringue and frosting make up the frosting and back up the moistness of the cake. \r\n\r\nThe cookie is in there as a back note to take the mix from a cake flavoured custard to an actually BAKED cake. \r\n\r\nSprinkles and powdered sugar give us our sprinkles and sugar linger. \r\n\r\nI like to load this with super sweet but sweeten to your liking. \r\n\r\n\r\n\r\nIf you mix it, please review it. It’s just good etiquette. :)",
-  "id": 140041,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:51:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake Batter",
-      "flavor_id": "928",
-      "millipercent": 4000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 1500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Frosting",
-      "flavor_id": "4412",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sprinkles",
-      "flavor_id": "8490",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "MotherPunker",
-  "views": "877",
-  "slug": "let_them_eat_cake",
-  "total_flavoring": "12.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "let them eat CAKE",
+    "description": "It took me a long time to get a good cake that I could taste ALL parts of. WF really has the be all of cakes. \r\nLA cake batter is just such an amazing flavour. Way better than FW cake batter dip IMO. \r\nIce cream, meringue and frosting make up the frosting and back up the moistness of the cake. \r\n\r\nThe cookie is in there as a back note to take the mix from a cake flavoured custard to an actually BAKED cake. \r\n\r\nSprinkles and powdered sugar give us our sprinkles and sugar linger. \r\n\r\nI like to load this with super sweet but sweeten to your liking. \r\n\r\n\r\n\r\nIf you mix it, please review it. It\u2019s just good etiquette. :)",
+    "id": 140041,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake Batter",
+            "flavor_id": "928",
+            "millipercent": 4000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Frosting",
+            "flavor_id": "4412",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sprinkles",
+            "flavor_id": "8490",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "MotherPunker",
+    "views": "886",
+    "created_at": "2019-02-21",
+    "slug": "let_them_eat_cake",
+    "total_flavoring": "12.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

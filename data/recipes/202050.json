@@ -1,56 +1,56 @@
 {
-  "name": "Coconut Horchata",
-  "description": "This is my take on a Coconut Horchata. I paired CAP Horchata with TFA Horchata Smooth. Together they build a nice body, creaminess and foundation. Considering Horchata already has a hint of cinnamon, I'm only adding 2.5% of FW Cinnamon Roll. I also didn't want cinnamon to stand out too much in the recipe. For the Coconut I'm using TFA Coconut Candy. By far this is my favorite of all the other coconut flavors. It really stands out. My go to milk base is always VT Milk Base. IMO it's the most authentic milk flavor. I've tried the recipe as a shake n vape and it's quite good but I would give it 3 days so all the creaminess can settle in. Try it and give me your feedback..... Enjoy!!",
-  "id": 202050,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202050/coconut-horchata-2.jpg",
-  "updated_at": "2020-12-07T12:48:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Horchata",
-      "flavor_id": "74",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Horchata Smooth",
-      "flavor_id": "356",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk Fresh",
-      "flavor_id": "8926",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Ledpedal",
-  "views": "315",
-  "slug": "coconut_horchata",
-  "total_flavoring": "10.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coconut Horchata",
+    "description": "This is my take on a Coconut Horchata. I paired CAP Horchata with TFA Horchata Smooth. Together they build a nice body, creaminess and foundation. Considering Horchata already has a hint of cinnamon, I'm only adding 2.5% of FW Cinnamon Roll. I also didn't want cinnamon to stand out too much in the recipe. For the Coconut I'm using TFA Coconut Candy. By far this is my favorite of all the other coconut flavors. It really stands out. My go to milk base is always VT Milk Base. IMO it's the most authentic milk flavor. I've tried the recipe as a shake n vape and it's quite good but I would give it 3 days so all the creaminess can settle in. Try it and give me your feedback..... Enjoy!!",
+    "id": 202050,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202050\/coconut-horchata-2.jpg",
+    "updated_at": "2020-12-12T14:08:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Horchata",
+            "flavor_id": "74",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Horchata Smooth",
+            "flavor_id": "356",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk Fresh",
+            "flavor_id": "8926",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Ledpedal",
+    "views": "322",
+    "created_at": "2020-08-01",
+    "slug": "coconut_horchata",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202050.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

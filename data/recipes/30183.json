@@ -1,51 +1,53 @@
 {
-  "name": "Bloob juice v2",
-  "description": "So my original bloob juice was pretty popular relative to my other recipes, and just like I created v1 on a whim iv done the same with this one, with similiar results. \r\nFor this one the blueberry is much more upfront, and is accentuated by the pomegranate and the lemon. The juicy peach isnt very distinct despite the high percentage, but it alters the blueberry flavour quite nicely and rounds out the profile.\r\n\r\n- For more lemon, up to 1%. Can probably sub with another lemon of your choice, just keep the % low-ish.\r\n- If you have it, add Hangsen blueberry at 0.25%\r\n- Erythritol at 2% is a good idea as well",
-  "id": 30183,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/30183/image.jpeg",
-  "updated_at": "2020-12-08T00:49:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "3072",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Smoky",
-  "views": "2647",
-  "slug": "bloob_juice_v2",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CatWillMew",
-      "score": "5",
-      "text": "I subbed in Cap Juicy Lemon for this.  I like this a lot...much better than v1 IMO."
-    }
-  ]
+    "name": "Bloob juice v2",
+    "description": "So my original bloob juice was pretty popular relative to my other recipes, and just like I created v1 on a whim iv done the same with this one, with similiar results. \r\nFor this one the blueberry is much more upfront, and is accentuated by the pomegranate and the lemon. The juicy peach isnt very distinct despite the high percentage, but it alters the blueberry flavour quite nicely and rounds out the profile.\r\n\r\n- For more lemon, up to 1%. Can probably sub with another lemon of your choice, just keep the % low-ish.\r\n- If you have it, add Hangsen blueberry at 0.25%\r\n- Erythritol at 2% is a good idea as well",
+    "id": 30183,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/30183\/image.jpeg",
+    "updated_at": "2020-12-12T20:28:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "3072",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Smoky",
+    "views": "2660",
+    "created_at": "2017-02-03",
+    "slug": "bloob_juice_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/30183.jpeg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CatWillMew",
+            "score": 5,
+            "text": "I subbed in Cap Juicy Lemon for this.  I like this a lot...much better than v1 IMO."
+        }
+    ]
 }

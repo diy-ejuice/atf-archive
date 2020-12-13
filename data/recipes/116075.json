@@ -1,57 +1,59 @@
 {
-  "name": "Creamy Hazelmond",
-  "description": "I stole the VBIC % from ID10-t's Swashbuckle Shake. I don't find CAP VBIC to be exactly like ice cream...but it's good. The marzipan really helps to connect the nuts with the creams, especially the almond. Whipped Cream adds some fluffy mouthfeel.",
-  "id": 116075,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/116075/almond-hazel-1.png",
-  "updated_at": "2020-12-08T00:50:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnuts & Cream",
-      "flavor_id": "6056",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "LimeDrive",
-  "views": "1394",
-  "slug": "creamy_hazelmond",
-  "total_flavoring": "10.75%",
-  "steep_days": "1",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Marnu",
-      "score": "5",
-      "text": "Very nice recipe. Creamy and complex. Not too nutty.&#xD;\nI agree with you about the Marzipan, great addition - blends the flavours deliciously.&#xD;\nGreat job."
-    }
-  ]
+    "name": "Creamy Hazelmond",
+    "description": "I stole the VBIC % from ID10-t's Swashbuckle Shake. I don't find CAP VBIC to be exactly like ice cream...but it's good. The marzipan really helps to connect the nuts with the creams, especially the almond. Whipped Cream adds some fluffy mouthfeel.",
+    "id": 116075,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/116075\/almond-hazel-1.png",
+    "updated_at": "2020-12-12T11:52:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnuts & Cream",
+            "flavor_id": "6056",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "LimeDrive",
+    "views": "1403",
+    "created_at": "2018-08-23",
+    "slug": "creamy_hazelmond",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/116075.png",
+    "total_flavoring": "10.75%",
+    "steep_days": "1",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Marnu",
+            "score": 5,
+            "text": "Very nice recipe. Creamy and complex. Not too nutty.&#xD;\nI agree with you about the Marzipan, great addition - blends the flavours deliciously.&#xD;\nGreat job."
+        }
+    ]
 }

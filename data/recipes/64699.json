@@ -1,68 +1,68 @@
 {
-  "name": "Nanner-Scotch",
-  "description": "NOTE: You can use any PG that you regularly use.",
-  "id": 64699,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/64699/IMG_0445.JPG",
-  "updated_at": "2020-11-30T02:42:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 6800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 1700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1550,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ripe Banana",
-      "flavor_id": "269",
-      "millipercent": 950,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Propylene Glycol",
-      "flavor_id": "2283",
-      "millipercent": 3000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "C6-R",
-  "views": "1313",
-  "slug": "nannerscotch",
-  "total_flavoring": "19.95%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nanner-Scotch",
+    "description": "NOTE: You can use any PG that you regularly use.",
+    "id": 64699,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/64699\/IMG_0445.JPG",
+    "updated_at": "2020-12-10T14:52:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 6800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 1700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1550,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ripe Banana",
+            "flavor_id": "269",
+            "millipercent": 950,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Propylene Glycol",
+            "flavor_id": "2283",
+            "millipercent": 3000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "C6-R",
+    "views": "1317",
+    "created_at": "2017-09-20",
+    "slug": "nannerscotch",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/64699.JPG",
+    "total_flavoring": "19.95%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,64 @@
 {
-  "name": "Nog Milk #TheChristmasMix",
-  "description": "Who doesn't like eggnog around Christmas time amiright? The Christmas Mix is amazing!",
-  "id": 79010,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/79010/TK-Blog-Eggnog.jpg",
-  "updated_at": "2020-12-08T00:49:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "2833",
-  "slug": "nog_milk_thechristmasmix",
-  "total_flavoring": "7.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "It’s yummy. It fixes the too-light milky and eggy notes with FLV Eggnog, without watering down the delightful spice of FLV Eggnog, along with adding a lovely touch of vanilla. All that’s missing now is the booze! "
-    },
-    {
-      "user": "Woody0707",
-      "score": "4",
-      "text": "Love this stuff. Very rich and custardy, eggnog is the perfect amount. Well done!"
-    }
-  ]
+    "name": "Nog Milk #TheChristmasMix",
+    "description": "Who doesn't like eggnog around Christmas time amiright? The Christmas Mix is amazing!",
+    "id": 79010,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/79010\/TK-Blog-Eggnog.jpg",
+    "updated_at": "2020-12-12T17:11:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "2857",
+    "created_at": "2017-12-15",
+    "slug": "nog_milk_thechristmasmix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/79010.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "It\u2019s yummy. It fixes the too-light milky and eggy notes with FLV Eggnog, without watering down the delightful spice of FLV Eggnog, along with adding a lovely touch of vanilla. All that\u2019s missing now is the booze! "
+        },
+        {
+            "user": "Woody0707",
+            "score": 4,
+            "text": "Love this stuff. Very rich and custardy, eggnog is the perfect amount. Well done!"
+        }
+    ]
 }

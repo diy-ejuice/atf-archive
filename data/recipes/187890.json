@@ -1,44 +1,43 @@
 {
-  "name": "O.D.C. (Ol' Dirty Custard) a.k.a. RYC4",
-  "description": "Formally known as RYC4. I was wanting an RY4/custard, and I wanted to use some flavors I hadn't used in a while. This is great of the shake, but it shines after about  a week. I like to make about 120 mls of this and vape through the steep. I hope you enjoy.",
-  "id": 187890,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:22:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "robolto78",
-  "views": "731",
-  "slug": "odc_ol_dirty_custard_aka_ryc4",
-  "total_flavoring": "11.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "O.D.C. (Ol' Dirty Custard) a.k.a. RYC4",
+    "description": "Formally known as RYC4. I was wanting an RY4\/custard, and I wanted to use some flavors I hadn't used in a while. This is great of the shake, but it shines after about  a week. I like to make about 120 mls of this and vape through the steep. I hope you enjoy.",
+    "id": 187890,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:16:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "robolto78",
+    "views": "738",
+    "created_at": "2020-03-11",
+    "slug": "odc_ol_dirty_custard_aka_ryc4",
+    "total_flavoring": "11.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

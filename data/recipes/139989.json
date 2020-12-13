@@ -1,62 +1,61 @@
 {
-  "name": "Peach OG",
-  "description": "This isn't my recipe, the original creator has since taken it down. I spent a bit of time trying to recreate this and have a different peach rings recipe up as a result. After doing some cleaning in my closet I found the original recipe in full, so here it is.\r\n\r\nIt's very tasty.",
-  "id": 139989,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:08:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Gummy Candy",
-      "flavor_id": "2262",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach Gummy",
-      "flavor_id": "4313",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Clearkill",
-  "views": "1263",
-  "slug": "peach_og",
-  "total_flavoring": "13.25%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach OG",
+    "description": "This isn't my recipe, the original creator has since taken it down. I spent a bit of time trying to recreate this and have a different peach rings recipe up as a result. After doing some cleaning in my closet I found the original recipe in full, so here it is.\r\n\r\nIt's very tasty.",
+    "id": 139989,
+    "image_url": null,
+    "updated_at": "2020-12-11T19:42:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Gummy Candy",
+            "flavor_id": "2262",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach Gummy",
+            "flavor_id": "4313",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Clearkill",
+    "views": "1274",
+    "created_at": "2019-02-21",
+    "slug": "peach_og",
+    "total_flavoring": "13.25%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

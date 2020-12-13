@@ -1,56 +1,55 @@
 {
-  "name": "Coil killa! ",
-  "description": "Spot on strawberry fluff. After 3 days it’s a great strawberry marshmallow. After 7 it’s straight up strawberry fluff. ",
-  "id": 114912,
-  "image_url": null,
-  "updated_at": "2020-12-02T09:26:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow (Vanilla)",
-      "flavor_id": "1798",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Highjinx",
-  "views": "950",
-  "slug": "coil_killa",
-  "total_flavoring": "14.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coil killa! ",
+    "description": "Spot on strawberry fluff. After 3 days it\u2019s a great strawberry marshmallow. After 7 it\u2019s straight up strawberry fluff. ",
+    "id": 114912,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:41:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow (Vanilla)",
+            "flavor_id": "1798",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Highjinx",
+    "views": "959",
+    "created_at": "2018-08-13",
+    "slug": "coil_killa",
+    "total_flavoring": "14.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

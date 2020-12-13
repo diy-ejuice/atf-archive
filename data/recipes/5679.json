@@ -1,56 +1,56 @@
 {
-  "name": "Gummer",
-  "description": "White Gummy Bear recipe based on INW dragonfruit and HS Pineapple\r\n",
-  "id": 5679,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/5679/hangouts.PNG",
-  "updated_at": "2020-12-07T09:43:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "2102",
-      "millipercent": 3000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "2097",
-      "millipercent": 400,
-      "vendor": "HS"
-    },
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 4000,
-      "vendor": "LA"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "2818",
-  "slug": "gummer",
-  "total_flavoring": "13.4%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gummer",
+    "description": "White Gummy Bear recipe based on INW dragonfruit and HS Pineapple\r\n",
+    "id": 5679,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/5679\/hangouts.PNG",
+    "updated_at": "2020-12-12T03:44:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "2102",
+            "millipercent": 3000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "2097",
+            "millipercent": 400,
+            "vendor": "HS"
+        },
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 4000,
+            "vendor": "LA"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "2825",
+    "created_at": "2016-06-20",
+    "slug": "gummer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/5679.PNG",
+    "total_flavoring": "13.4%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Ice Storm",
-  "description": "Ice.. ice... ice... all you feel is cold!\r\nThe best to fresh your mouth! :D",
-  "id": 122245,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/122245/ImageGen.ashx.jpg",
-  "updated_at": "2020-12-05T06:48:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Anise",
-      "flavor_id": "499",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mild Winter (peppermint)",
-      "flavor_id": "532",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Aroma Arctic Winter (menthol Artic)",
-      "flavor_id": "514",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Black Touch (licorice Plus)",
-      "flavor_id": "425",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "itMax86",
-  "views": "1400",
-  "slug": "ice_storm",
-  "total_flavoring": "7.0%",
-  "steep_days": "1",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ice Storm",
+    "description": "Ice.. ice... ice... all you feel is cold!\r\nThe best to fresh your mouth! :D",
+    "id": 122245,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/122245\/ImageGen.ashx.jpg",
+    "updated_at": "2020-12-12T00:41:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Anise",
+            "flavor_id": "499",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mild Winter (peppermint)",
+            "flavor_id": "532",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Aroma Arctic Winter (menthol Artic)",
+            "flavor_id": "514",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Black Touch (licorice Plus)",
+            "flavor_id": "425",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "itMax86",
+    "views": "1410",
+    "created_at": "2018-10-08",
+    "slug": "ice_storm",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/122245.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "1",
+    "best_vg": "50%",
+    "temperature": "0"
 }

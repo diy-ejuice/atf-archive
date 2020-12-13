@@ -1,44 +1,44 @@
 {
-  "name": "Rin's Sherbert Sorbet Sherbet",
-  "description": "Creamy blood orange sherbert ice cream. Gets creamier as it steeps, as most ice creams do. I like it a lot.",
-  "id": 145972,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145972/9443FA79-8962-4407-8818-DB3643E174C2.jpeg",
-  "updated_at": "2020-12-05T23:55:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "4407",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1250,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "8993",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1264",
-  "slug": "rins_sherbert_sorbet_sherbet",
-  "total_flavoring": "3.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Sherbert Sorbet Sherbet",
+    "description": "Creamy blood orange sherbert ice cream. Gets creamier as it steeps, as most ice creams do. I like it a lot.",
+    "id": 145972,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145972\/9443FA79-8962-4407-8818-DB3643E174C2.jpeg",
+    "updated_at": "2020-12-11T03:38:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "4407",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1250,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "8993",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1275",
+    "created_at": "2019-04-06",
+    "slug": "rins_sherbert_sorbet_sherbet",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145972.jpeg",
+    "total_flavoring": "3.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

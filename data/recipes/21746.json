@@ -1,62 +1,62 @@
 {
-  "name": "Coffee nut cream",
-  "description": "Hazelnut coffee cake and ice cream. I am trying to make a hazelnut coffee cake with a scoop of vanilla ice cream. It tastes good after a couple hours but is much better after a week steep",
-  "id": 21746,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/21746/small-20170126-17994-uxlsk8.jpg",
-  "updated_at": "2020-12-07T20:31:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coffee Cake",
-      "flavor_id": "4094",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "UP (coffee)",
-      "flavor_id": "4473",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Boston Cream Pie",
-      "flavor_id": "20",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Tootall",
-  "views": "2058",
-  "slug": "coffee_nut_cream",
-  "total_flavoring": "16.0%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "75%",
-  "temperature": "500",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coffee nut cream",
+    "description": "Hazelnut coffee cake and ice cream. I am trying to make a hazelnut coffee cake with a scoop of vanilla ice cream. It tastes good after a couple hours but is much better after a week steep",
+    "id": 21746,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/21746\/small-20170126-17994-uxlsk8.jpg",
+    "updated_at": "2020-12-10T18:59:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coffee Cake",
+            "flavor_id": "4094",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "UP (coffee)",
+            "flavor_id": "4473",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Boston Cream Pie",
+            "flavor_id": "20",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Tootall",
+    "views": "2068",
+    "created_at": "2016-12-02",
+    "slug": "coffee_nut_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/21746.jpg",
+    "total_flavoring": "16.0%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "75%",
+    "temperature": "500"
 }

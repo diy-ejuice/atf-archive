@@ -1,69 +1,70 @@
 {
-  "name": "Green Fires",
-  "description": "Attempting to replicate the Somersby Elderflower Lime Cider. This seems close. Koolada might seem high, but the offtaste it gives helps the juice taste the way it should. Not a good place cor WS-23/FA Polar Blast.",
-  "id": 95155,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:32:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Elderflower",
-      "flavor_id": "774",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 250,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime Tahity Distilled",
-      "flavor_id": "415",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "COB",
-  "views": "1319",
-  "slug": "green_fires",
-  "total_flavoring": "10.0%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "3",
-      "text": "I can’t comment on authenticity, as I’ve never had the pleasure of Somersby Elderflower Lime Cider. I do really like the idea of combining lime and elderflower. However, and I know people have different tolerance levels when it comes to coolants, I have to say that this was almost unvapeable to me due to the freaking huge amount of Koolada. It was enough to sting the inside of my mouth and leave me feeling like I’d just eaten a bunch of frozen salt. Sucks because the floral-lime-apple thing leading up to that seems nice, but I just couldn’t enjoy it.  "
-    }
-  ]
+    "name": "Green Fires",
+    "description": "Attempting to replicate the Somersby Elderflower Lime Cider. This seems close. Koolada might seem high, but the offtaste it gives helps the juice taste the way it should. Not a good place cor WS-23\/FA Polar Blast.",
+    "id": 95155,
+    "image_url": null,
+    "updated_at": "2020-12-12T00:41:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Elderflower",
+            "flavor_id": "774",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 250,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime Tahity Distilled",
+            "flavor_id": "415",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "COB",
+    "views": "1331",
+    "created_at": "2018-04-02",
+    "slug": "green_fires",
+    "total_flavoring": "10.0%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 3,
+            "text": "I can\u2019t comment on authenticity, as I\u2019ve never had the pleasure of Somersby Elderflower Lime Cider. I do really like the idea of combining lime and elderflower. However, and I know people have different tolerance levels when it comes to coolants, I have to say that this was almost unvapeable to me due to the freaking huge amount of Koolada. It was enough to sting the inside of my mouth and leave me feeling like I\u2019d just eaten a bunch of frozen salt. Sucks because the floral-lime-apple thing leading up to that seems nice, but I just couldn\u2019t enjoy it.  "
+        }
+    ]
 }

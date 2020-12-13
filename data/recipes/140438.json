@@ -1,57 +1,59 @@
 {
-  "name": "mlNikon's Lemon Bar",
-  "description": "VT Lemon Meringue Tart does all the heavy lifting in this lemon bar with JF Biscuit and Flv Pastry Zest filling out the crust part. I used FE Lemon to help because it doesn't fad nearly as bad as some of the other lemon flavors and its just a good lemon flavor. Vanilla Buttercream frosting is just here to add some more richness and depth to the mix, it is by far the best frosting flavor out imo.",
-  "id": 140438,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140438/lemonbars.jpg",
-  "updated_at": "2020-12-08T00:50:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 6000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 2000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Pastry Zest",
-      "flavor_id": "8562",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1557",
-  "slug": "mlnikons_lemon_bar",
-  "total_flavoring": "10.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CygnusY1",
-      "score": "5",
-      "text": "Don't know why this hasn't got any reviews because it nails the profile perfectly with solid ingredients. Really tasty. The addition of FE Lemon augments the lemon in VT Meringue Tart, which can be a bit weird while JF Biscuit gives it a nice biscuit top-note accent on the nose. I would probably use FA Cookie which is more of a base note biscuit. Lovely job Emily. Neat work.  Sometimes doing more with less is a sure sign of good mixing.  Nearly forgot, the flavour sure captures the picture shown. "
-    }
-  ]
+    "name": "mlNikon's Lemon Bar",
+    "description": "VT Lemon Meringue Tart does all the heavy lifting in this lemon bar with JF Biscuit and Flv Pastry Zest filling out the crust part. I used FE Lemon to help because it doesn't fad nearly as bad as some of the other lemon flavors and its just a good lemon flavor. Vanilla Buttercream frosting is just here to add some more richness and depth to the mix, it is by far the best frosting flavor out imo.",
+    "id": 140438,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/140438\/lemonbars.jpg",
+    "updated_at": "2020-12-12T11:52:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 6000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 2000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Pastry Zest",
+            "flavor_id": "8562",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1571",
+    "created_at": "2019-02-24",
+    "slug": "mlnikons_lemon_bar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/140438.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "Don't know why this hasn't got any reviews because it nails the profile perfectly with solid ingredients. Really tasty. The addition of FE Lemon augments the lemon in VT Meringue Tart, which can be a bit weird while JF Biscuit gives it a nice biscuit top-note accent on the nose. I would probably use FA Cookie which is more of a base note biscuit. Lovely job Emily. Neat work.  Sometimes doing more with less is a sure sign of good mixing.  Nearly forgot, the flavour sure captures the picture shown. "
+        }
+    ]
 }

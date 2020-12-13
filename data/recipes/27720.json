@@ -1,68 +1,67 @@
 {
-  "name": "peaches & pineapple cream",
-  "description": "this is completely so yummy that I cant stop vaping it and I have too keep making bottles & bottles of it its so good ppl mix this up and enjoy!",
-  "id": 27720,
-  "image_url": null,
-  "updated_at": "2020-12-07T14:12:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peaches & Cream",
-      "flavor_id": "1369",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1735",
-  "slug": "peaches_pineapple_cream",
-  "total_flavoring": "16.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "peaches & pineapple cream",
+    "description": "this is completely so yummy that I cant stop vaping it and I have too keep making bottles & bottles of it its so good ppl mix this up and enjoy!",
+    "id": 27720,
+    "image_url": null,
+    "updated_at": "2020-12-11T22:43:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peaches & Cream",
+            "flavor_id": "1369",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1750",
+    "created_at": "2017-01-20",
+    "slug": "peaches_pineapple_cream",
+    "total_flavoring": "16.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "95"
 }

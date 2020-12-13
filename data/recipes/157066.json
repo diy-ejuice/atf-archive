@@ -1,50 +1,50 @@
 {
-  "name": "Apri-Mango for POD",
-  "description": "A tasty Mango with apricot exhale that satisfies on a POD (Caliburn).\r\nThese mangoes work great together, let them steep 4 days and all blends perfectly.\r\n- for other RDAs, just decrease the main flavors by 50% (e.g. 3.5% -> 2.25%)\r\nCoolada to taste.",
-  "id": 157066,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157066/fruit-mango_small.jpg",
-  "updated_at": "2020-12-07T17:35:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Island Mango",
-      "flavor_id": "9947",
-      "millipercent": 3500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Shisha Mango",
-      "flavor_id": "8964",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coolada",
-      "flavor_id": "10313",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "JayWay",
-  "views": "1679",
-  "slug": "aprimango_for_pod",
-  "total_flavoring": "9.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apri-Mango for POD",
+    "description": "A tasty Mango with apricot exhale that satisfies on a POD (Caliburn).\r\nThese mangoes work great together, let them steep 4 days and all blends perfectly.\r\n- for other RDAs, just decrease the main flavors by 50% (e.g. 3.5% -> 2.25%)\r\nCoolada to taste.",
+    "id": 157066,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/157066\/fruit-mango_small.jpg",
+    "updated_at": "2020-12-11T13:45:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Island Mango",
+            "flavor_id": "9947",
+            "millipercent": 3500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Shisha Mango",
+            "flavor_id": "8964",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coolada",
+            "flavor_id": "10313",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "JayWay",
+    "views": "1687",
+    "created_at": "2019-06-25",
+    "slug": "aprimango_for_pod",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/157066.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

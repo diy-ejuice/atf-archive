@@ -1,69 +1,71 @@
 {
-  "name": "Creme Caramel",
-  "description": "Tasty flan, melty caramel, thick mouthfeel. That's all you need to know.\r\n\r\nI went exclusively with VTA concentrates for this one, because they have both great cremes and caramels that work quite well when mixed together. \r\n\r\nCreme Brulle, Creme Caramel and Warm Custard combined give a nice custard with good mouthfeel, subtle vanilla notes and less subtle sticky caramel notes. Adding Sweet Cream gives an even creamier and full mouthfeel. \r\nThe caramel notes from the aformentioned concentrates are not enough to create a caramel topping that sticks to the top of the mouth, so English Toffee and Honeycomb are added to achieve this. \r\nSuper Sweet makes it even yummier, don't omit it!\r\n\r\nNeeds 4-5 days of steeping.\r\n\r\nHope you like it! Would love to hear some constructive feedback from you all!",
-  "id": 159939,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/159939/qpKzM1563634896.jpg",
-  "updated_at": "2020-12-08T00:51:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creme Brulee",
-      "flavor_id": "8864",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creme Caramel",
-      "flavor_id": "8865",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "English Toffee",
-      "flavor_id": "8873",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Warm Custard",
-      "flavor_id": "8997",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Collectron",
-  "views": "2865",
-  "slug": "creme_caramel",
-  "total_flavoring": "9.7%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ge-Ma",
-      "score": "5",
-      "text": "Full creme caramel taste, even in MTL"
-    }
-  ]
+    "name": "Creme Caramel",
+    "description": "Tasty flan, melty caramel, thick mouthfeel. That's all you need to know.\r\n\r\nI went exclusively with VTA concentrates for this one, because they have both great cremes and caramels that work quite well when mixed together. \r\n\r\nCreme Brulle, Creme Caramel and Warm Custard combined give a nice custard with good mouthfeel, subtle vanilla notes and less subtle sticky caramel notes. Adding Sweet Cream gives an even creamier and full mouthfeel. \r\nThe caramel notes from the aformentioned concentrates are not enough to create a caramel topping that sticks to the top of the mouth, so English Toffee and Honeycomb are added to achieve this. \r\nSuper Sweet makes it even yummier, don't omit it!\r\n\r\nNeeds 4-5 days of steeping.\r\n\r\nHope you like it! Would love to hear some constructive feedback from you all!",
+    "id": 159939,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/159939\/qpKzM1563634896.jpg",
+    "updated_at": "2020-12-12T20:31:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creme Brulee",
+            "flavor_id": "8864",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creme Caramel",
+            "flavor_id": "8865",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "English Toffee",
+            "flavor_id": "8873",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Warm Custard",
+            "flavor_id": "8997",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Collectron",
+    "views": "2870",
+    "created_at": "2019-07-20",
+    "slug": "creme_caramel",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/159939.jpg",
+    "total_flavoring": "9.7%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ge-Ma",
+            "score": 5,
+            "text": "Full creme caramel taste, even in MTL"
+        }
+    ]
 }

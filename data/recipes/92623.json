@@ -1,38 +1,37 @@
 {
-  "name": "Strawberry Cheesecake",
-  "description": "This tasted really good but would love suggestions to perfect it to a strawberry cheesecake",
-  "id": 92623,
-  "image_url": null,
-  "updated_at": "2020-11-30T22:58:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 10670,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 3500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "365",
-  "slug": "strawberry_cheesecake",
-  "total_flavoring": "17.67%",
-  "steep_days": "6",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Cheesecake",
+    "description": "This tasted really good but would love suggestions to perfect it to a strawberry cheesecake",
+    "id": 92623,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 10670,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 3500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "369",
+    "created_at": "2018-03-16",
+    "slug": "strawberry_cheesecake",
+    "total_flavoring": "17.67%",
+    "steep_days": "6",
+    "best_vg": "0%",
+    "temperature": "0"
 }

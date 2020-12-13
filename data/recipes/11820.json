@@ -1,51 +1,53 @@
 {
-  "name": "Mt. Fuji",
-  "description": "A lovely, light and fruity vape. Apple in the front, followed by banana and coconut with a touch of custard to round it all out. \r\n\r\n",
-  "id": 11820,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11820/small-20160905-2575-1hi48kr.jpg",
-  "updated_at": "2020-12-08T00:48:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 4000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BCrunk",
-  "views": "1787",
-  "slug": "mt_fuji",
-  "total_flavoring": "9.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "What a succulent apple mix, thank you."
-    }
-  ]
+    "name": "Mt. Fuji",
+    "description": "A lovely, light and fruity vape. Apple in the front, followed by banana and coconut with a touch of custard to round it all out. \r\n\r\n",
+    "id": 11820,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11820\/small-20160905-2575-1hi48kr.jpg",
+    "updated_at": "2020-12-12T11:50:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 4000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BCrunk",
+    "views": "1795",
+    "created_at": "2016-08-28",
+    "slug": "mt_fuji",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11820.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "What a succulent apple mix, thank you."
+        }
+    ]
 }

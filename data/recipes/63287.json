@@ -1,62 +1,62 @@
 {
-  "name": "Agent Peña",
-  "description": "Spiced tobacco blended with whiskey-soaked oak wood and topped with smoke and ash. \r\n \r\nBlack Jack Tobacco is a nice medium tobacco with hints of liquorice. It's a little lacking in the fullness department, so I used the bold taste of Black for Pipe to boost it up. Clove isn't too strong at 0.5% and it adds a spice friend for the liquorice. \r\n\r\nINW Whisky is a flavor I've really fallen in love with. It's quite strong, so even at 0.75% it is very noticeable. I'm amazed at how Oak Wood seems to have \"soaked\" up the whiskey and created a booze-infused wood taste. \r\n\r\nBlack Fire and DNB add smoke and ash respectively. These two flavors pop up in tobacco recipes for a reason- they're delicious!",
-  "id": 63287,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63287/agent_pena.png",
-  "updated_at": "2020-12-07T17:34:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Jack Tobacco",
-      "flavor_id": "714",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Oak Wood",
-      "flavor_id": "470",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whisky",
-      "flavor_id": "891",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Black Fire",
-      "flavor_id": "458",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Clove",
-      "flavor_id": "492",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "LimeDrive",
-  "views": "1346",
-  "slug": "agent_pea",
-  "total_flavoring": "7.75%",
-  "steep_days": "10",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Agent Pe\u00f1a",
+    "description": "Spiced tobacco blended with whiskey-soaked oak wood and topped with smoke and ash. \r\n \r\nBlack Jack Tobacco is a nice medium tobacco with hints of liquorice. It's a little lacking in the fullness department, so I used the bold taste of Black for Pipe to boost it up. Clove isn't too strong at 0.5% and it adds a spice friend for the liquorice. \r\n\r\nINW Whisky is a flavor I've really fallen in love with. It's quite strong, so even at 0.75% it is very noticeable. I'm amazed at how Oak Wood seems to have \"soaked\" up the whiskey and created a booze-infused wood taste. \r\n\r\nBlack Fire and DNB add smoke and ash respectively. These two flavors pop up in tobacco recipes for a reason- they're delicious!",
+    "id": 63287,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63287\/agent_pena.png",
+    "updated_at": "2020-12-12T08:12:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Jack Tobacco",
+            "flavor_id": "714",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Oak Wood",
+            "flavor_id": "470",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whisky",
+            "flavor_id": "891",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Black Fire",
+            "flavor_id": "458",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Clove",
+            "flavor_id": "492",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "LimeDrive",
+    "views": "1358",
+    "created_at": "2017-09-10",
+    "slug": "agent_pea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63287.png",
+    "total_flavoring": "7.75%",
+    "steep_days": "10",
+    "best_vg": "50%",
+    "temperature": "0"
 }

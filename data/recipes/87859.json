@@ -1,50 +1,50 @@
 {
-  "name": "Root Beer Float",
-  "description": "This tastes exactly like an A & W root beer float!!  Its a snv and when it steeps the flavors get more creamy and keeps that great root beer n ice cream flavors!\r\n Defiantly a must mix if you love root beer floats!!!  My recipe is inspired by Ken on ELR.  \r\nIt needs no sweetener b'cuz its sweet like float!!! All I can say is this is delicious!!",
-  "id": 87859,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/87859/Root_Beer_Float_Bar___Orange___Cream_Soda___Carts_of_Chicago_Catering__Inc_.jpg",
-  "updated_at": "2020-12-08T00:49:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Soda",
-      "flavor_id": "2255",
-      "millipercent": 750,
-      "vendor": "RF"
-    },
-    {
-      "name": "Root Beer Float – Super Concentrate",
-      "flavor_id": "7972",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Rootbeer",
-      "flavor_id": "1502",
-      "millipercent": 1000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Jazzy_girl",
-  "views": "2322",
-  "slug": "root_beer_float",
-  "total_flavoring": "7.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Root Beer Float",
+    "description": "This tastes exactly like an A & W root beer float!!  Its a snv and when it steeps the flavors get more creamy and keeps that great root beer n ice cream flavors!\r\n Defiantly a must mix if you love root beer floats!!!  My recipe is inspired by Ken on ELR.  \r\nIt needs no sweetener b'cuz its sweet like float!!! All I can say is this is delicious!!",
+    "id": 87859,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/87859\/Root_Beer_Float_Bar___Orange___Cream_Soda___Carts_of_Chicago_Catering__Inc_.jpg",
+    "updated_at": "2020-12-11T17:20:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Soda",
+            "flavor_id": "2255",
+            "millipercent": 750,
+            "vendor": "RF"
+        },
+        {
+            "name": "Root Beer Float \u2013 Super Concentrate",
+            "flavor_id": "7972",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Rootbeer",
+            "flavor_id": "1502",
+            "millipercent": 1000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Jazzy_girl",
+    "views": "2333",
+    "created_at": "2018-02-11",
+    "slug": "root_beer_float",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/87859.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

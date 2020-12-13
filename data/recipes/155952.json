@@ -1,87 +1,89 @@
 {
-  "name": "Frozen Puckslide",
-  "description": "Ok this one is bit complex so lets start with the easy part, cooling on the front(ws-23) and back(polar blast) end since this is frozen drink.  Next up is the vanilla ice cream and LB VIC + VS is a pretty clear cut choice.  You can't have a mudslide without a little milk which is where OOO Creamy Underpants comes into play and the flavora Milk & Honey adds a little bit of malt.    The VT Devon cream is straight chocolate milk which there is just a touch of here to help to emulate the chocolate syrup without going overboard, while adding to the milkshakey base.  The mudslide is a Kahlua based booze drink so the Caramel Coffee with Sweet Milk and VT Bourbon come together to be the star.  The FW Hazelnut is really playing the role of emulsifier here with all these different creams.",
-  "id": 155952,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/155952/2019-06-23_19-08-40.png",
-  "updated_at": "2020-12-08T00:51:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon",
-      "flavor_id": "8839",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Caramel Coffee with Sweet Milk",
-      "flavor_id": "7748",
-      "millipercent": 3000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Polar Blast",
-      "flavor_id": "5910",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1314",
-  "slug": "frozen_puckslide",
-  "total_flavoring": "16.75%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "fieldgreens",
-      "score": "5",
-      "text": "This recipe looks intimidating, but it is the most spot on Mudslide I could possibly imagine.  I have no idea how he managed this, but this is true mastery of this profile.  It's an outstanding summer vape, and you should mix it if you happen to have everything it requires.  "
-    }
-  ]
+    "name": "Frozen Puckslide",
+    "description": "Ok this one is bit complex so lets start with the easy part, cooling on the front(ws-23) and back(polar blast) end since this is frozen drink.  Next up is the vanilla ice cream and LB VIC + VS is a pretty clear cut choice.  You can't have a mudslide without a little milk which is where OOO Creamy Underpants comes into play and the flavora Milk & Honey adds a little bit of malt.    The VT Devon cream is straight chocolate milk which there is just a touch of here to help to emulate the chocolate syrup without going overboard, while adding to the milkshakey base.  The mudslide is a Kahlua based booze drink so the Caramel Coffee with Sweet Milk and VT Bourbon come together to be the star.  The FW Hazelnut is really playing the role of emulsifier here with all these different creams.",
+    "id": 155952,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/155952\/2019-06-23_19-08-40.png",
+    "updated_at": "2020-12-12T18:30:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon",
+            "flavor_id": "8839",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Caramel Coffee with Sweet Milk",
+            "flavor_id": "7748",
+            "millipercent": 3000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Polar Blast",
+            "flavor_id": "5910",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1320",
+    "created_at": "2019-06-16",
+    "slug": "frozen_puckslide",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/155952.png",
+    "total_flavoring": "16.75%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "fieldgreens",
+            "score": 5,
+            "text": "This recipe looks intimidating, but it is the most spot on Mudslide I could possibly imagine.  I have no idea how he managed this, but this is true mastery of this profile.  It's an outstanding summer vape, and you should mix it if you happen to have everything it requires.  "
+        }
+    ]
 }

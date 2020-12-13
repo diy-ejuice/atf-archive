@@ -1,68 +1,68 @@
 {
-  "name": "Banana cream pie",
-  "description": "Just like Grandma used to make, that Banana cream pie that made it to every special occasion. That rich Banana filling crispy and delicate flaky crust, topped off with that thick whipped  styled cream..... Mmmmm mmmmmm",
-  "id": 62282,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62282/banana_lg.jpg",
-  "updated_at": "2020-12-06T20:43:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "7737",
-      "millipercent": 3000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "6191",
-      "millipercent": 1000,
-      "vendor": "DF"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "6164",
-      "millipercent": 1000,
-      "vendor": "DF"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DaddyKane91",
-  "views": "1976",
-  "slug": "banana_cream_pie",
-  "total_flavoring": "10.5%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "70%",
-  "temperature": "60",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana cream pie",
+    "description": "Just like Grandma used to make, that Banana cream pie that made it to every special occasion. That rich Banana filling crispy and delicate flaky crust, topped off with that thick whipped  styled cream..... Mmmmm mmmmmm",
+    "id": 62282,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62282\/banana_lg.jpg",
+    "updated_at": "2020-12-11T19:41:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "7737",
+            "millipercent": 3000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "6191",
+            "millipercent": 1000,
+            "vendor": "DF"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "6164",
+            "millipercent": 1000,
+            "vendor": "DF"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DaddyKane91",
+    "views": "1981",
+    "created_at": "2017-09-02",
+    "slug": "banana_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62282.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "70%",
+    "temperature": "60"
 }

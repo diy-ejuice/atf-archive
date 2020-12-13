@@ -1,56 +1,56 @@
 {
-  "name": "Fruit Boots",
-  "description": "Fruit circles and royal orange go together well, fill in the rest to smooth it out and you have a perfect recipe for rollerblading...",
-  "id": 81001,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/81001/AF5E0B75-8388-45F3-A6EC-E2FD5C499112.jpeg",
-  "updated_at": "2020-12-01T07:51:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Circles",
-      "flavor_id": "8742",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Royal Orange Juice",
-      "flavor_id": "7700",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1500,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "Crazyndalazdayz",
-  "views": "1236",
-  "slug": "fruit_boots",
-  "total_flavoring": "9.9%",
-  "steep_days": "4",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fruit Boots",
+    "description": "Fruit circles and royal orange go together well, fill in the rest to smooth it out and you have a perfect recipe for rollerblading...",
+    "id": 81001,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/81001\/AF5E0B75-8388-45F3-A6EC-E2FD5C499112.jpeg",
+    "updated_at": "2020-12-12T10:14:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Circles",
+            "flavor_id": "8742",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Royal Orange Juice",
+            "flavor_id": "7700",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1500,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "Crazyndalazdayz",
+    "views": "1246",
+    "created_at": "2017-12-27",
+    "slug": "fruit_boots",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/81001.jpeg",
+    "total_flavoring": "9.9%",
+    "steep_days": "4",
+    "best_vg": "0%",
+    "temperature": "0"
 }

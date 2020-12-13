@@ -1,57 +1,59 @@
 {
-  "name": "Cin-Custard",
-  "description": "This was to see if I could make a cinnamon bun custard. It turned out differently than expected It tastes like a very strong cinnamon bun with almost a caramel flavor backing it. I really enjoy this recipe, and I hope you do too! Everyone is free to edit this recipe and change it!\r\n\r\nIt turns out that this actually makes for a great shake and vape! 3 days later is when it is best though. ",
-  "id": 21069,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/21069/cin.png",
-  "updated_at": "2020-12-08T00:48:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 8000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Lupeie",
-  "views": "1818",
-  "slug": "cincustard",
-  "total_flavoring": "17.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "NaCHeF",
-      "score": "5",
-      "text": "Wow!!! This is delicious man!! The cinnamon is strong but not harsh or spicy and the mouth feel is full, dense, with that creamy pastry making all very well balanced. The only thing I would change is to lower the Cinnamon Roll to 7% but only as a personal taste to make it more ADV. Congratulations, you have an incredible recipe! (PD. Sorry for my bad english)"
-    }
-  ]
+    "name": "Cin-Custard",
+    "description": "This was to see if I could make a cinnamon bun custard. It turned out differently than expected It tastes like a very strong cinnamon bun with almost a caramel flavor backing it. I really enjoy this recipe, and I hope you do too! Everyone is free to edit this recipe and change it!\r\n\r\nIt turns out that this actually makes for a great shake and vape! 3 days later is when it is best though. ",
+    "id": 21069,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/21069\/cin.png",
+    "updated_at": "2020-12-12T15:38:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 8000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Lupeie",
+    "views": "1828",
+    "created_at": "2016-11-26",
+    "slug": "cincustard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/21069.png",
+    "total_flavoring": "17.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "NaCHeF",
+            "score": 5,
+            "text": "Wow!!! This is delicious man!! The cinnamon is strong but not harsh or spicy and the mouth feel is full, dense, with that creamy pastry making all very well balanced. The only thing I would change is to lower the Cinnamon Roll to 7% but only as a personal taste to make it more ADV. Congratulations, you have an incredible recipe! (PD. Sorry for my bad english)"
+        }
+    ]
 }

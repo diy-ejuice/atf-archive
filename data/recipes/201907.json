@@ -1,63 +1,65 @@
 {
-  "name": "Sustard",
-  "description": "Premium Custard speaks for itself at 3% \r\n\r\nRaspberry Jelly Bean adds a darker note which fits the custard well. Tastes like a raspberry jam\r\n\r\nPortuguese egg tart and crumble topping make up the base-mid notes ",
-  "id": 201907,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/201907/thats-sus.jpg",
-  "updated_at": "2020-12-08T00:51:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry Jelly Bean SC",
-      "flavor_id": "10554",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Portuguese Egg Tart SC",
-      "flavor_id": "10553",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Crumble Topping SC",
-      "flavor_id": "10547",
-      "millipercent": 1500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "BubbasBrewz",
-  "views": "461",
-  "slug": "sustard",
-  "total_flavoring": "10.75%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "notsonattynate",
-      "score": "4",
-      "text": "Are your notes wrong or ingredients? You talk about raspberry jam... but I don’t see that as an ingredient... I am going to mix this anyway..."
-    }
-  ]
+    "name": "Sustard",
+    "description": "Premium Custard speaks for itself at 3% \r\n\r\nRaspberry Jelly Bean adds a darker note which fits the custard well. Tastes like a raspberry jam\r\n\r\nPortuguese egg tart and crumble topping make up the base-mid notes ",
+    "id": 201907,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/201907\/thats-sus.jpg",
+    "updated_at": "2020-12-12T18:30:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry Jelly Bean SC",
+            "flavor_id": "10554",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Portuguese Egg Tart SC",
+            "flavor_id": "10553",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Crumble Topping SC",
+            "flavor_id": "10547",
+            "millipercent": 1500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "BubbasBrewz",
+    "views": "474",
+    "created_at": "2020-07-30",
+    "slug": "sustard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/201907.jpg",
+    "total_flavoring": "10.75%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "notsonattynate",
+            "score": 4,
+            "text": "Are your notes wrong or ingredients? You talk about raspberry jam... but I don\u2019t see that as an ingredient... I am going to mix this anyway..."
+        }
+    ]
 }

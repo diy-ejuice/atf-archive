@@ -1,68 +1,67 @@
 {
-  "name": "Grundle Fuzz",
-  "description": "Something I accidentally came up with when I started mixing.  Tastes like an apricot Creme Saver.  Recommended steep time: 1 week",
-  "id": 3064,
-  "image_url": null,
-  "updated_at": "2020-12-07T00:06:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apricot",
-      "flavor_id": "209",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Smooth",
-      "flavor_id": "381",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Simply Vanilla",
-      "flavor_id": "111",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Audiodox",
-  "views": "883",
-  "slug": "grundle_fuzz",
-  "total_flavoring": "17.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grundle Fuzz",
+    "description": "Something I accidentally came up with when I started mixing.  Tastes like an apricot Creme Saver.  Recommended steep time: 1 week",
+    "id": 3064,
+    "image_url": null,
+    "updated_at": "2020-12-10T15:59:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apricot",
+            "flavor_id": "209",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Smooth",
+            "flavor_id": "381",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Simply Vanilla",
+            "flavor_id": "111",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Audiodox",
+    "views": "890",
+    "created_at": "2016-05-10",
+    "slug": "grundle_fuzz",
+    "total_flavoring": "17.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

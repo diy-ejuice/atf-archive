@@ -1,74 +1,76 @@
 {
-  "name": "Osiris",
-  "description": "A louched glass of absinthe with luscious, ripe berries and a sprig of mint muddled in. Sophisticated & strange. Incredible with cocktails. 100% Shake & Vape.\r\n\r\nThis is just a (heavily modified, shake & vape-able) remix of my \"Glaistig\" recipe with an upgraded absinthe flavor, so, if you don't have Decadent Vapours' Absinthe, you can still mix this up using the original recipe here: https://alltheflavors.com/recipes/2912#glaistig_by_runtdastardly",
-  "id": 16475,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16475/osiris.jpg",
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Absinthe",
-      "flavor_id": "5348",
-      "millipercent": 4000,
-      "vendor": "DV"
-    },
-    {
-      "name": "Aurora",
-      "flavor_id": "399",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mix Mint",
-      "flavor_id": "797",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "4410",
-  "slug": "osiris",
-  "total_flavoring": "10.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "crisk",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "MrColtux",
-      "score": "5",
-      "text": "Wonderful recipe! I introduced Runt to DV Absinthe and was rewarded with this recipe he created. If you are weary of absinthe/anise give it a try, I'm sure you will enjoy it I have had many friends try and love this recipe. "
-    }
-  ]
+    "name": "Osiris",
+    "description": "A louched glass of absinthe with luscious, ripe berries and a sprig of mint muddled in. Sophisticated & strange. Incredible with cocktails. 100% Shake & Vape.\r\n\r\nThis is just a (heavily modified, shake & vape-able) remix of my \"Glaistig\" recipe with an upgraded absinthe flavor, so, if you don't have Decadent Vapours' Absinthe, you can still mix this up using the original recipe here: https:\/\/alltheflavors.com\/recipes\/2912#glaistig_by_runtdastardly",
+    "id": 16475,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16475\/osiris.jpg",
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Absinthe",
+            "flavor_id": "5348",
+            "millipercent": 4000,
+            "vendor": "DV"
+        },
+        {
+            "name": "Aurora",
+            "flavor_id": "399",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mix Mint",
+            "flavor_id": "797",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "4427",
+    "created_at": "2016-10-16",
+    "slug": "osiris",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16475.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "crisk",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "MrColtux",
+            "score": 5,
+            "text": "Wonderful recipe! I introduced Runt to DV Absinthe and was rewarded with this recipe he created. If you are weary of absinthe\/anise give it a try, I'm sure you will enjoy it I have had many friends try and love this recipe. "
+        }
+    ]
 }

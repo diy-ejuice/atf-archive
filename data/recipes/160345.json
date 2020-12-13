@@ -1,44 +1,44 @@
 {
-  "name": "Red Soda",
-  "description": "Straightforward  - a delicious strawberry soda.\r\nRed soda and strawberry are creating the base, raspberry adds more punch.\r\nFizzy sherbet is here for the fizziness.\r\n\r\nAdd sweetener or cooling agent of your choice and preference, SS by Cap works the best for me around 0.15% (1 drop/10 ml). I do not like cooling.\r\n\r\nI have finished this recipe just when they have discountinued the Red Soda flavour. According to the RF website Red Soda is 60% of Cream Soda and 40% Strawberry.\r\n\r\nTested on NarCA RDA, 42W, 0.3 Ohm, Framed Staple Ni80.\r\n",
-  "id": 160345,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/160345/21998.jpg",
-  "updated_at": "2020-12-06T20:45:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Soda – Super Concentrate",
-      "flavor_id": "7965",
-      "millipercent": 1500,
-      "vendor": "RF"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "xoxmx",
-  "views": "1008",
-  "slug": "red_soda",
-  "total_flavoring": "6.3%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Red Soda",
+    "description": "Straightforward  - a delicious strawberry soda.\r\nRed soda and strawberry are creating the base, raspberry adds more punch.\r\nFizzy sherbet is here for the fizziness.\r\n\r\nAdd sweetener or cooling agent of your choice and preference, SS by Cap works the best for me around 0.15% (1 drop\/10 ml). I do not like cooling.\r\n\r\nI have finished this recipe just when they have discountinued the Red Soda flavour. According to the RF website Red Soda is 60% of Cream Soda and 40% Strawberry.\r\n\r\nTested on NarCA RDA, 42W, 0.3 Ohm, Framed Staple Ni80.\r\n",
+    "id": 160345,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/160345\/21998.jpg",
+    "updated_at": "2020-12-10T13:46:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Soda \u2013 Super Concentrate",
+            "flavor_id": "7965",
+            "millipercent": 1500,
+            "vendor": "RF"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "xoxmx",
+    "views": "1014",
+    "created_at": "2019-07-23",
+    "slug": "red_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/160345.jpg",
+    "total_flavoring": "6.3%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

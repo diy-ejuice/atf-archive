@@ -1,75 +1,77 @@
 {
-  "name": "Jackfruit Citri-Shake (Flavor Book Entry Recipe)",
-  "description": "This recipe is a vibrant blend of jackfruit, dragonfruit, blood orange, and mandarin, laid on a bed of whipped cream.\r\nRecipe was made for \"(TFA) Jackfruit\" FlavorBook Entry\r\n-> \r\n\r\n",
-  "id": 63876,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/63876/flavorbook-ATF.jpg",
-  "updated_at": "2020-12-08T00:49:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Jackfruit",
-      "flavor_id": "240",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Ethyl Maltol",
-      "flavor_id": "1710",
-      "millipercent": 250,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4411",
-  "slug": "jackfruit_citrishake_flavor_book_entry_recipe",
-  "total_flavoring": "14.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "KenWhitfield",
-      "score": "5",
-      "text": "This is a very refreshing, citrus,and creamy vape. I steeped as suggested and I am very pleased with the flavor and can only imagine what the flavors will do in a few more days. I did blend mine at 70vg."
-    }
-  ]
+    "name": "Jackfruit Citri-Shake (Flavor Book Entry Recipe)",
+    "description": "This recipe is a vibrant blend of jackfruit, dragonfruit, blood orange, and mandarin, laid on a bed of whipped cream.\r\nRecipe was made for \"(TFA) Jackfruit\" FlavorBook Entry\r\n-> \r\n\r\n",
+    "id": 63876,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/63876\/flavorbook-ATF.jpg",
+    "updated_at": "2020-12-12T10:33:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Jackfruit",
+            "flavor_id": "240",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Ethyl Maltol",
+            "flavor_id": "1710",
+            "millipercent": 250,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4424",
+    "created_at": "2017-09-15",
+    "slug": "jackfruit_citrishake_flavor_book_entry_recipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/63876.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "KenWhitfield",
+            "score": 5,
+            "text": "This is a very refreshing, citrus,and creamy vape. I steeped as suggested and I am very pleased with the flavor and can only imagine what the flavors will do in a few more days. I did blend mine at 70vg."
+        }
+    ]
 }

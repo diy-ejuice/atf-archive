@@ -1,56 +1,55 @@
 {
-  "name": "Berry sweetness ",
-  "description": "This was just an experiment of mine to see how a run of the mill cotton candy recipe would mix with a light ice cream. I was pleasantly surprised when I tried it. It was smooth and tasty. Going to be trying new fruits soon. Let me know what you think. ",
-  "id": 133440,
-  "image_url": null,
-  "updated_at": "2020-12-01T11:56:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cotton Candy (circus)",
-      "flavor_id": "318",
-      "millipercent": 12000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Berry Mix",
-      "flavor_id": "5899",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "TattooDad",
-  "views": "1022",
-  "slug": "berry_sweetness",
-  "total_flavoring": "22.5%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry sweetness ",
+    "description": "This was just an experiment of mine to see how a run of the mill cotton candy recipe would mix with a light ice cream. I was pleasantly surprised when I tried it. It was smooth and tasty. Going to be trying new fruits soon. Let me know what you think. ",
+    "id": 133440,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cotton Candy (circus)",
+            "flavor_id": "318",
+            "millipercent": 12000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Berry Mix",
+            "flavor_id": "5899",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "TattooDad",
+    "views": "1029",
+    "created_at": "2019-01-03",
+    "slug": "berry_sweetness",
+    "total_flavoring": "22.5%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0"
 }

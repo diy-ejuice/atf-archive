@@ -1,56 +1,55 @@
 {
-  "name": "Ice Tea Citrus",
-  "description": "This is my first recipe and my try to make a delicious ice tea citrus!\r\nFor me this already tastes really nice and i hope you can enjoy it aswell :)\r\n\r\nAdd WS-23 or Kolada how you like it. I like it REALLY cold so just dosate as you need :)\r\n\r\nAlso its really low in flavour after mixing. After about 4-8 hours it already got a nice taste. I recommend let it steep for atleast 1 day.",
-  "id": 165898,
-  "image_url": null,
-  "updated_at": "2020-12-05T13:09:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tea Green",
-      "flavor_id": "549",
-      "millipercent": 6000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 50,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 100,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "sKuhLight",
-  "views": "712",
-  "slug": "ice_tea_citrus",
-  "total_flavoring": "12.85%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ice Tea Citrus",
+    "description": "This is my first recipe and my try to make a delicious ice tea citrus!\r\nFor me this already tastes really nice and i hope you can enjoy it aswell :)\r\n\r\nAdd WS-23 or Kolada how you like it. I like it REALLY cold so just dosate as you need :)\r\n\r\nAlso its really low in flavour after mixing. After about 4-8 hours it already got a nice taste. I recommend let it steep for atleast 1 day.",
+    "id": 165898,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tea Green",
+            "flavor_id": "549",
+            "millipercent": 6000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 50,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 100,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "sKuhLight",
+    "views": "719",
+    "created_at": "2019-09-07",
+    "slug": "ice_tea_citrus",
+    "total_flavoring": "12.85%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,45 +1,47 @@
 {
-  "name": "1 2 3 Jackfruit Limonade",
-  "description": "This is a simple SNV that has a nice sweet and tart flavor to it. Mixed st 70/30. The lemonade can fade after a few days. So if you want substitute FW lemonade, I just enjoy it a bit more with Loran’s. ",
-  "id": 91043,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/91043/97D502E3-FF4B-470F-953B-862588D52AA4.jpeg",
-  "updated_at": "2020-12-07T09:44:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Jackfruit",
-      "flavor_id": "4359",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1856",
-  "slug": "1_2_3_jackfruit_limonade",
-  "total_flavoring": "6.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "oo"
-    }
-  ]
+    "name": "1 2 3 Jackfruit Limonade",
+    "description": "This is a simple SNV that has a nice sweet and tart flavor to it. Mixed st 70\/30. The lemonade can fade after a few days. So if you want substitute FW lemonade, I just enjoy it a bit more with Loran\u2019s. ",
+    "id": 91043,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/91043\/97D502E3-FF4B-470F-953B-862588D52AA4.jpeg",
+    "updated_at": "2020-12-11T15:02:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Jackfruit",
+            "flavor_id": "4359",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1866",
+    "created_at": "2018-03-04",
+    "slug": "1_2_3_jackfruit_limonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/91043.jpeg",
+    "total_flavoring": "6.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "oo"
+        }
+    ]
 }

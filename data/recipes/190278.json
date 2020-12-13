@@ -1,80 +1,80 @@
 {
-  "name": "Nocciola",
-  "description": "I had tried a hazelnut ice-cream at a popular parlor here that makes Italian style milk-based ice-creams. This is just like the real thing that I had, a great mix that has a very pronounced hazelnut flavor with a nice milky finish!",
-  "id": 190278,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190278/nocciola_ice.jfif",
-  "updated_at": "2020-12-07T15:22:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coffee Milk Froth",
-      "flavor_id": "8858",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 2000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "8556",
-      "millipercent": 60,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk Fresh",
-      "flavor_id": "8926",
-      "millipercent": 1750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Dx Peanut Butter",
-      "flavor_id": "288",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "LeDiyBR",
-  "views": "521",
-  "slug": "nocciola",
-  "total_flavoring": "14.01%",
-  "steep_days": "15",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nocciola",
+    "description": "I had tried a hazelnut ice-cream at a popular parlor here that makes Italian style milk-based ice-creams. This is just like the real thing that I had, a great mix that has a very pronounced hazelnut flavor with a nice milky finish!",
+    "id": 190278,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190278\/nocciola_ice.jfif",
+    "updated_at": "2020-12-12T10:16:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coffee Milk Froth",
+            "flavor_id": "8858",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 2000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "8556",
+            "millipercent": 60,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk Fresh",
+            "flavor_id": "8926",
+            "millipercent": 1750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Dx Peanut Butter",
+            "flavor_id": "288",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "LeDiyBR",
+    "views": "531",
+    "created_at": "2020-04-05",
+    "slug": "nocciola",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190278.jfif",
+    "total_flavoring": "14.01%",
+    "steep_days": "15",
+    "best_vg": "0%",
+    "temperature": "0"
 }

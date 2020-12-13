@@ -1,56 +1,56 @@
 {
-  "name": "McKindaley (version #ilostcount)",
-  "description": "2nd mix I'm sending in for August's mixers club entry.\r\n\r\nSince I started DIY, I've been chasing my white whale which is cloning Adirondack Vapor's McKinley.  I got their approval on reddit to try and clone it even! It's not so much a latte as chai tea with a tiny dash of cream/milk from what I can recall. Notes of tea, spice, and cream. CAP Chai Latte is definitively the chai that they use. I've tried to combine it with everything else -- Custards, the tried and true creams, bakeries, horchata, lemons, etc. I fell down the rabbit hole of making the mix perpetually more complex over time and I'm taking this chance to bring it back to basics and rebuild the mix from the ground up.\r\n\r\nTo me, McKinley is so thick its almost juicy and I often found myself almost choking on the thickness of the vape even at just 70/30. Something in there is giving it a really really dense mouthfeel, but its not eggy like a custard. So I'm opting to try TFA's FV Deluxe for its malty, acetyl goodness. FA Catalan Cream for its spice and citrus notes here, which compliment CAP Chai Tea's natural spice and citrus note as well. FA Honey is there to give it some of that sticky sweetness, and some of the slightly vegetal/floral properties that clover honey has. This was a last minute addition and may be on the chopping block for flavors to remove/replace in this recipe, but when I thought about that thick mouthfeel and mouth-coating sweetness of McKinley, Honey seemed to fit the bill perfectly and I don't know why I didn't consider it sooner.\r\n\r\nThis isn't the end result by any means, but hopefully it's a good jumping off point to work with after I get some feedback from the group!\r\n\r\nChanges: Dropped FA Honey from 0.75 -> 0.25. The longer it steeped, the more the FA Honey ruled over the mix. Ended up being chai flavored honey. FA Honey at 0.75 is fucking awesome if you want a sticky goopy clover honey flavor, with the pollen-y mouthfeel to match! But not what I wanted in this mix.",
-  "id": 112806,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/112806/chai.jpg",
-  "updated_at": "2020-12-05T13:09:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chai Tea",
-      "flavor_id": "28",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "amouthforwar",
-  "views": "1003",
-  "slug": "mckindaley_version_ilostcount",
-  "total_flavoring": "8.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "McKindaley (version #ilostcount)",
+    "description": "2nd mix I'm sending in for August's mixers club entry.\r\n\r\nSince I started DIY, I've been chasing my white whale which is cloning Adirondack Vapor's McKinley.  I got their approval on reddit to try and clone it even! It's not so much a latte as chai tea with a tiny dash of cream\/milk from what I can recall. Notes of tea, spice, and cream. CAP Chai Latte is definitively the chai that they use. I've tried to combine it with everything else -- Custards, the tried and true creams, bakeries, horchata, lemons, etc. I fell down the rabbit hole of making the mix perpetually more complex over time and I'm taking this chance to bring it back to basics and rebuild the mix from the ground up.\r\n\r\nTo me, McKinley is so thick its almost juicy and I often found myself almost choking on the thickness of the vape even at just 70\/30. Something in there is giving it a really really dense mouthfeel, but its not eggy like a custard. So I'm opting to try TFA's FV Deluxe for its malty, acetyl goodness. FA Catalan Cream for its spice and citrus notes here, which compliment CAP Chai Tea's natural spice and citrus note as well. FA Honey is there to give it some of that sticky sweetness, and some of the slightly vegetal\/floral properties that clover honey has. This was a last minute addition and may be on the chopping block for flavors to remove\/replace in this recipe, but when I thought about that thick mouthfeel and mouth-coating sweetness of McKinley, Honey seemed to fit the bill perfectly and I don't know why I didn't consider it sooner.\r\n\r\nThis isn't the end result by any means, but hopefully it's a good jumping off point to work with after I get some feedback from the group!\r\n\r\nChanges: Dropped FA Honey from 0.75 -> 0.25. The longer it steeped, the more the FA Honey ruled over the mix. Ended up being chai flavored honey. FA Honey at 0.75 is fucking awesome if you want a sticky goopy clover honey flavor, with the pollen-y mouthfeel to match! But not what I wanted in this mix.",
+    "id": 112806,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/112806\/chai.jpg",
+    "updated_at": "2020-12-10T13:45:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chai Tea",
+            "flavor_id": "28",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "amouthforwar",
+    "views": "1011",
+    "created_at": "2018-07-30",
+    "slug": "mckindaley_version_ilostcount",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/112806.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

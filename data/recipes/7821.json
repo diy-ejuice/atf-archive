@@ -1,39 +1,41 @@
 {
-  "name": "Clone: Mrs Lord & Co - Custard Cream",
-  "description": "This is an attempt at a clone of one of my favourite ADV's.\r\n\r\nI am making mine at 3mg with and \"Max VG\" (so about 85/15)\r\nI think it needs a couple weeks to steep at least!",
-  "id": 7821,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/7821/custard_cream.jpeg",
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 10000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "stark",
-  "views": "7378",
-  "slug": "clone_mrs_lord_co_custard_cream",
-  "total_flavoring": "15.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "5",
-      "text": "Nice simple recipe that I keep going back too. I am going to try tweaking it to my liking. I really enjoy this recipe. I give it 5 stars for simplicity. It's a very rich, thick, buttery, vanilla custard."
-    }
-  ]
+    "name": "Clone: Mrs Lord & Co - Custard Cream",
+    "description": "This is an attempt at a clone of one of my favourite ADV's.\r\n\r\nI am making mine at 3mg with and \"Max VG\" (so about 85\/15)\r\nI think it needs a couple weeks to steep at least!",
+    "id": 7821,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/7821\/custard_cream.jpeg",
+    "updated_at": "2020-12-12T11:50:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 10000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "stark",
+    "views": "7389",
+    "created_at": "2016-07-15",
+    "slug": "clone_mrs_lord_co_custard_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/7821.jpeg",
+    "total_flavoring": "15.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 5,
+            "text": "Nice simple recipe that I keep going back too. I am going to try tweaking it to my liking. I really enjoy this recipe. I give it 5 stars for simplicity. It's a very rich, thick, buttery, vanilla custard."
+        }
+    ]
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Pumpkin Pie",
-  "description": "Delicious warm baked Pumpkin Pie with notes of Vanilla\r\nMade for \"LETS MIX: PUMPKIN PIE E-LIQUID RECIPE\"\r\n->",
-  "id": 71607,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/71607/LM-Pumpkin-Pie-WEB.jpg",
-  "updated_at": "2020-12-08T00:49:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pumpkin Pie",
-      "flavor_id": "5896",
-      "millipercent": 3000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "1387",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "495",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4147",
-  "slug": "pumpkin_pie",
-  "total_flavoring": "10.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "vix",
-      "score": "5",
-      "text": "After two years of trying (and failing) of making my own version of a pumpkin pie, this is definitely as close as it gets. FW Pumpkin Spice really does a nice job spicing up this mix. FLV Vanilla Pudding was a genius addition. Can't beat the four day steep either. Great job."
-    }
-  ]
+    "name": "Pumpkin Pie",
+    "description": "Delicious warm baked Pumpkin Pie with notes of Vanilla\r\nMade for \"LETS MIX: PUMPKIN PIE E-LIQUID RECIPE\"\r\n->",
+    "id": 71607,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/71607\/LM-Pumpkin-Pie-WEB.jpg",
+    "updated_at": "2020-12-12T14:05:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pumpkin Pie",
+            "flavor_id": "5896",
+            "millipercent": 3000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "1387",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "495",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4152",
+    "created_at": "2017-10-31",
+    "slug": "pumpkin_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/71607.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "vix",
+            "score": 5,
+            "text": "After two years of trying (and failing) of making my own version of a pumpkin pie, this is definitely as close as it gets. FW Pumpkin Spice really does a nice job spicing up this mix. FLV Vanilla Pudding was a genius addition. Can't beat the four day steep either. Great job."
+        }
+    ]
 }

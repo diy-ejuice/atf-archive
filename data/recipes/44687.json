@@ -1,56 +1,56 @@
 {
-  "name": "Double D",
-  "description": "Doughnut and doughnut, plenty of cream too, really sweet with tons of doughnut",
-  "id": 44687,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/44687/Double_D.jpg",
-  "updated_at": "2020-12-01T04:14:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Glazed Doughnut",
-      "flavor_id": "59",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "187",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MesterWard",
-  "views": "2674",
-  "slug": "double_d",
-  "total_flavoring": "18.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Double D",
+    "description": "Doughnut and doughnut, plenty of cream too, really sweet with tons of doughnut",
+    "id": 44687,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/44687\/Double_D.jpg",
+    "updated_at": "2020-12-10T16:00:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Glazed Doughnut",
+            "flavor_id": "59",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "187",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MesterWard",
+    "views": "2680",
+    "created_at": "2017-05-05",
+    "slug": "double_d",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/44687.jpg",
+    "total_flavoring": "18.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

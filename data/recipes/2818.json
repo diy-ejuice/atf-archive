@@ -1,86 +1,85 @@
 {
-  "name": "VeryBerry Danish v1",
-  "description": "",
-  "id": 2818,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:42:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine ",
-      "flavor_id": "1709",
-      "millipercent": 150,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish",
-      "flavor_id": "156",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Harvest Berry",
-      "flavor_id": "2733",
-      "millipercent": 450,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 350,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Saramon",
-  "views": "977",
-  "slug": "veryberry_danish_v1",
-  "total_flavoring": "18.7%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "VeryBerry Danish v1",
+    "description": "",
+    "id": 2818,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine ",
+            "flavor_id": "1709",
+            "millipercent": 150,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish",
+            "flavor_id": "156",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Harvest Berry",
+            "flavor_id": "2733",
+            "millipercent": 450,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 350,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Saramon",
+    "views": "985",
+    "created_at": "2016-04-30",
+    "slug": "veryberry_danish_v1",
+    "total_flavoring": "18.7%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

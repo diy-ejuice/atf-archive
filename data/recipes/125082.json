@@ -1,50 +1,50 @@
 {
-  "name": "OCD",
-  "description": "The base of the caramel danish is the combination of croissant and butter toffee base. Together they give me a buttery, flaky danish type pastry with just enough cooked gooey-ness. I used walnut for a slight nuttiness and to add a little texture to my pastry. The orange marmalade infuses my dough with a thick, sticky, cooked orange flavor. Topped off with a generous portion of rich, buttery caramel cream.",
-  "id": 125082,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/125082/Screenshot_2018-10-29-13-48-26_2.png",
-  "updated_at": "2020-12-06T07:15:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter Toffee Base",
-      "flavor_id": "8844",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creme Caramel",
-      "flavor_id": "8865",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Orange Marmalade",
-      "flavor_id": "9895",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "8996",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "hibbadoray",
-  "views": "1269",
-  "slug": "ocd",
-  "total_flavoring": "10.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "OCD",
+    "description": "The base of the caramel danish is the combination of croissant and butter toffee base. Together they give me a buttery, flaky danish type pastry with just enough cooked gooey-ness. I used walnut for a slight nuttiness and to add a little texture to my pastry. The orange marmalade infuses my dough with a thick, sticky, cooked orange flavor. Topped off with a generous portion of rich, buttery caramel cream.",
+    "id": 125082,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/125082\/Screenshot_2018-10-29-13-48-26_2.png",
+    "updated_at": "2020-12-12T06:59:06.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter Toffee Base",
+            "flavor_id": "8844",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creme Caramel",
+            "flavor_id": "8865",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Orange Marmalade",
+            "flavor_id": "9895",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "8996",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "hibbadoray",
+    "views": "1279",
+    "created_at": "2018-10-29",
+    "slug": "ocd",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/125082.png",
+    "total_flavoring": "10.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,104 +1,105 @@
 {
-  "name": "Drunken Pears",
-  "description": "Warm pears over vanilla ice cream with a bourbon/brown sugar reduction sauce",
-  "id": 1604,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 350,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Ceylon",
-      "flavor_id": "497",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whiskey",
-      "flavor_id": "1461",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "matthewkocanda",
-  "views": "2766",
-  "slug": "drunken_pears",
-  "total_flavoring": "12.15%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "Gordo",
-      "score": "none",
-      "text": ""
-    }
-  ]
+    "name": "Drunken Pears",
+    "description": "Warm pears over vanilla ice cream with a bourbon\/brown sugar reduction sauce",
+    "id": 1604,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 350,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Ceylon",
+            "flavor_id": "497",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whiskey",
+            "flavor_id": "1461",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "matthewkocanda",
+    "views": "2779",
+    "created_at": "2016-04-04",
+    "slug": "drunken_pears",
+    "total_flavoring": "12.15%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "Gordo",
+            "score": 0,
+            "text": ""
+        }
+    ]
 }

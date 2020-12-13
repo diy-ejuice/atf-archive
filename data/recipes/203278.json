@@ -1,76 +1,78 @@
 {
-  "name": "Classic Custard",
-  "description": "Simple, Sweet, Vanillay Custard. Wanted to make something that was shake and vape, while also a custard!\r\n\r\nGive her a try. its tasty!",
-  "id": 203278,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/203278/vcustard.jpg",
-  "updated_at": "2020-12-08T00:51:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Sublimeice",
-  "views": "2632",
-  "slug": "classic_custard",
-  "total_flavoring": "9.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Coates",
-      "score": "5",
-      "text": "tastes great as snv"
-    },
-    {
-      "user": "RhettsBeard",
-      "score": "5",
-      "text": "A custard that's legit good off the shake. Yes! "
-    },
-    {
-      "user": "CupcakeFetish",
-      "score": "5",
-      "text": "This is a SNV Custard recipe, please understand that it's meant to not taste AMAZING right off the shake, because this is amazing as a SNV because it doesn't taste BAD as a SNV. YES it does get better, but that's a SNV CUSTARD.&#xD;\nI love it, Sublime, don't let one reviewer get you down.&#xD;\n-Almi'zi&#xD;\nAfter thought: I am thoroughly enjoying this recipe because it removes the weirdness I get from CAP VC in other custard recipes, it's good as a custard, I get it some people like to criticize things and not give credit where credit is due. Saying something is good and giving a 0/5 is a little confusing, but Sublime, keep it up."
-    },
-    {
-      "user": "Untitled",
-      "score": "none",
-      "text": "I deleted my comment, apparently no criticism is allowed on this platform."
-    },
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "Hella!"
-    },
-    {
-      "user": "Gordo",
-      "score": "5",
-      "text": "great custard dude, tastes good right off the rip.  I love custards, this is going to steep from very good to banging good.&#xD;\nI like to add .5 % Tahitian Vanilla Cream to custards, brightens them up and the aroma is amazing. Thanks for sharing this."
-    }
-  ]
+    "name": "Classic Custard",
+    "description": "Simple, Sweet, Vanillay Custard. Wanted to make something that was shake and vape, while also a custard!\r\n\r\nGive her a try. its tasty!",
+    "id": 203278,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/203278\/vcustard.jpg",
+    "updated_at": "2020-12-12T18:31:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Sublimeice",
+    "views": "2665",
+    "created_at": "2020-08-14",
+    "slug": "classic_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/203278.jpg",
+    "total_flavoring": "9.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Coates",
+            "score": 5,
+            "text": "tastes great as snv"
+        },
+        {
+            "user": "RhettsBeard",
+            "score": 5,
+            "text": "A custard that's legit good off the shake. Yes! "
+        },
+        {
+            "user": "CupcakeFetish",
+            "score": 5,
+            "text": "This is a SNV Custard recipe, please understand that it's meant to not taste AMAZING right off the shake, because this is amazing as a SNV because it doesn't taste BAD as a SNV. YES it does get better, but that's a SNV CUSTARD.&#xD;\nI love it, Sublime, don't let one reviewer get you down.&#xD;\n-Almi'zi&#xD;\nAfter thought: I am thoroughly enjoying this recipe because it removes the weirdness I get from CAP VC in other custard recipes, it's good as a custard, I get it some people like to criticize things and not give credit where credit is due. Saying something is good and giving a 0\/5 is a little confusing, but Sublime, keep it up."
+        },
+        {
+            "user": "Untitled",
+            "score": 0,
+            "text": "I deleted my comment, apparently no criticism is allowed on this platform."
+        },
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "Hella!"
+        },
+        {
+            "user": "Gordo",
+            "score": 5,
+            "text": "great custard dude, tastes good right off the rip.  I love custards, this is going to steep from very good to banging good.&#xD;\nI like to add .5 % Tahitian Vanilla Cream to custards, brightens them up and the aroma is amazing. Thanks for sharing this."
+        }
+    ]
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Choccoccino",
-  "description": "### A milk chocolate coffee\r\n\r\nA true to profile mix that tastes just a strong cup of freshly ground coffee with several spoons of instant hot chocolate mixed in. \r\n\r\nGive it a week to steep. ",
-  "id": 124776,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124776/7A7BDB7D-138E-43E8-A0AB-8A64428B50B4.jpeg",
-  "updated_at": "2020-12-07T14:13:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Dark French Coffee Blend",
-      "flavor_id": "1568",
-      "millipercent": 4500,
-      "vendor": "MB"
-    },
-    {
-      "name": "Caramel Coffee with Sweet Milk",
-      "flavor_id": "7748",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Condensed Milk",
-      "flavor_id": "7751",
-      "millipercent": 1000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Chocolate Deutsch",
-      "flavor_id": "2151",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Marnu",
-  "views": "1289",
-  "slug": "choccoccino",
-  "total_flavoring": "9.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Choccoccino",
+    "description": "### A milk chocolate coffee\r\n\r\nA true to profile mix that tastes just a strong cup of freshly ground coffee with several spoons of instant hot chocolate mixed in. \r\n\r\nGive it a week to steep. ",
+    "id": 124776,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124776\/7A7BDB7D-138E-43E8-A0AB-8A64428B50B4.jpeg",
+    "updated_at": "2020-12-12T14:06:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Dark French Coffee Blend",
+            "flavor_id": "1568",
+            "millipercent": 4500,
+            "vendor": "MB"
+        },
+        {
+            "name": "Caramel Coffee with Sweet Milk",
+            "flavor_id": "7748",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Condensed Milk",
+            "flavor_id": "7751",
+            "millipercent": 1000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Chocolate Deutsch",
+            "flavor_id": "2151",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Marnu",
+    "views": "1298",
+    "created_at": "2018-10-27",
+    "slug": "choccoccino",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124776.jpeg",
+    "total_flavoring": "9.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Berry Crunk",
-  "description": "A basic crunch berries cereal. Everybody has one. Everybody needs one.\r\n",
-  "id": 16629,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16629/small-20161124-13163-kp63ob.jpg",
-  "updated_at": "2020-12-06T22:01:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "4466",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "3521",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "BCrunk",
-  "views": "1686",
-  "slug": "berry_crunk",
-  "total_flavoring": "14.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Crunk",
+    "description": "A basic crunch berries cereal. Everybody has one. Everybody needs one.\r\n",
+    "id": 16629,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16629\/small-20161124-13163-kp63ob.jpg",
+    "updated_at": "2020-12-10T13:44:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "4466",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "3521",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "BCrunk",
+    "views": "1694",
+    "created_at": "2016-10-17",
+    "slug": "berry_crunk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16629.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

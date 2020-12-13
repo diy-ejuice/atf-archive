@@ -1,38 +1,37 @@
 {
-  "name": "Chocolate Cake ",
-  "description": "CAP Vanilla Cupcake is a really good cake on its own. At 4% you get a nice fluffy white cake with a little bit of vanilla frosting. I’ve added the TFA Vanilla Custard II to add to the depth and make it a little darker.\r\n\r\nMB Glamour Chocolate works well in bakeries such as this one. It’s a medium dark chocolate that benefits from the mouth feel of the cake and custard. \r\n\r\nWatch the Video Here: \r\nhttps://youtu.be/4WploIH0Ti8",
-  "id": 202721,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard 2",
-      "flavor_id": "10427",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Glamour Chocolate",
-      "flavor_id": "1552",
-      "millipercent": 3000,
-      "vendor": "MB"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "377",
-  "slug": "chocolate_cake",
-  "total_flavoring": "9.0%",
-  "steep_days": "3",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Chocolate Cake ",
+    "description": "CAP Vanilla Cupcake is a really good cake on its own. At 4% you get a nice fluffy white cake with a little bit of vanilla frosting. I\u2019ve added the TFA Vanilla Custard II to add to the depth and make it a little darker.\r\n\r\nMB Glamour Chocolate works well in bakeries such as this one. It\u2019s a medium dark chocolate that benefits from the mouth feel of the cake and custard. \r\n\r\nWatch the Video Here: \r\nhttps:\/\/youtu.be\/4WploIH0Ti8",
+    "id": 202721,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:05:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard 2",
+            "flavor_id": "10427",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Glamour Chocolate",
+            "flavor_id": "1552",
+            "millipercent": 3000,
+            "vendor": "MB"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "385",
+    "created_at": "2020-08-08",
+    "slug": "chocolate_cake",
+    "total_flavoring": "9.0%",
+    "steep_days": "3",
+    "best_vg": "80%",
+    "temperature": "0"
 }

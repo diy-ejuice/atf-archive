@@ -1,62 +1,62 @@
 {
-  "name": "Framingo v4",
-  "description": "A super juicy, fruity mix that has ended up being an ADV of mine for nearly a year. \r\n\r\nI started trying to clone Strawberry Astronaut, but then kept tweaking and adding until it strayed from the original idea. \r\n\r\nThe two types of strawberry as a base shouldn't need an explanation, but everyone loves strawberry and these are the go-tos.\r\nMy favorite fruit is raspberry, and I Love Razzleberry pie, so I thought the razzleberry from Flavor west would add a nice mixed berry flavor.\r\nThe Mango and Apricot from Inawera are there from the Strawberry Astronaut attempt, but i had switched from TPA to INW because I liked the fresher sweeter fruit flavors found in the INW.\r\nA little bit of INW Cactus was added to add a nice juiciness to the recipe.\r\nThe FLV Guanabana is OPTIONAL, as it is only in my final revision. I just got it and thought it would  help the fruits pop a bit, but my previous versions didn't have it in at all.",
-  "id": 27317,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/27317/framingo-set.jpg",
-  "updated_at": "2020-12-06T20:41:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "664",
-      "millipercent": 1750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apricots",
-      "flavor_id": "751",
-      "millipercent": 1750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "jklavins",
-  "views": "1543",
-  "slug": "framingo_v4",
-  "total_flavoring": "14.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "85%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Framingo v4",
+    "description": "A super juicy, fruity mix that has ended up being an ADV of mine for nearly a year. \r\n\r\nI started trying to clone Strawberry Astronaut, but then kept tweaking and adding until it strayed from the original idea. \r\n\r\nThe two types of strawberry as a base shouldn't need an explanation, but everyone loves strawberry and these are the go-tos.\r\nMy favorite fruit is raspberry, and I Love Razzleberry pie, so I thought the razzleberry from Flavor west would add a nice mixed berry flavor.\r\nThe Mango and Apricot from Inawera are there from the Strawberry Astronaut attempt, but i had switched from TPA to INW because I liked the fresher sweeter fruit flavors found in the INW.\r\nA little bit of INW Cactus was added to add a nice juiciness to the recipe.\r\nThe FLV Guanabana is OPTIONAL, as it is only in my final revision. I just got it and thought it would  help the fruits pop a bit, but my previous versions didn't have it in at all.",
+    "id": 27317,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/27317\/framingo-set.jpg",
+    "updated_at": "2020-12-11T19:40:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "664",
+            "millipercent": 1750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apricots",
+            "flavor_id": "751",
+            "millipercent": 1750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "jklavins",
+    "views": "1556",
+    "created_at": "2017-01-17",
+    "slug": "framingo_v4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/27317.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "85%",
+    "temperature": "0"
 }

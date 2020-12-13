@@ -1,81 +1,83 @@
 {
-  "name": "Unicorn Cake",
-  "description": "Yes we still love those cereal recipes I have fun just making them .... This one is really better than any overpriced commercial juice. ",
-  "id": 183878,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/183878/FB_IMG_1581081245091.jpg",
-  "updated_at": "2020-12-08T00:51:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Fruity Flakes",
-      "flavor_id": "1286",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 500,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Holy Vanilla",
-      "flavor_id": "2385",
-      "millipercent": 1000,
-      "vendor": "DFS"
-    }
-  ],
-  "author": "Slushy",
-  "views": "1469",
-  "slug": "unicorn_cake",
-  "total_flavoring": "16.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Tastes exactly like the picture... Nice work!"
-    }
-  ]
+    "name": "Unicorn Cake",
+    "description": "Yes we still love those cereal recipes I have fun just making them .... This one is really better than any overpriced commercial juice. ",
+    "id": 183878,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/183878\/FB_IMG_1581081245091.jpg",
+    "updated_at": "2020-12-12T08:14:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Fruity Flakes",
+            "flavor_id": "1286",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 500,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Holy Vanilla",
+            "flavor_id": "2385",
+            "millipercent": 1000,
+            "vendor": "DFS"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1483",
+    "created_at": "2020-02-07",
+    "slug": "unicorn_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/183878.jpg",
+    "total_flavoring": "16.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Tastes exactly like the picture... Nice work!"
+        }
+    ]
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Desert nights",
-  "description": "this is a tobacco recipe.there are hints of dark chocolate ,cocoa,coffee,caramel,dry fruit and fresh nuts,but they are just hints.you mostly taste tobacco with a sweet aftertaste.easily adv,hope you enjoy",
-  "id": 54992,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:34:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Arabic Tobacco",
-      "flavor_id": "686",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dromedary",
-      "flavor_id": "2198",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Perique Black",
-      "flavor_id": "807",
-      "millipercent": 700,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sunset Virginia",
-      "flavor_id": "847",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Tobacco Dirty Neutral (dnb)",
-      "flavor_id": "2186",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Tobacco Drop",
-      "flavor_id": "839",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1200,
-      "vendor": "INW"
-    }
-  ],
-  "author": "nks",
-  "views": "1093",
-  "slug": "desert_nights",
-  "total_flavoring": "6.5%",
-  "steep_days": "25",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Desert nights",
+    "description": "this is a tobacco recipe.there are hints of dark chocolate ,cocoa,coffee,caramel,dry fruit and fresh nuts,but they are just hints.you mostly taste tobacco with a sweet aftertaste.easily adv,hope you enjoy",
+    "id": 54992,
+    "image_url": null,
+    "updated_at": "2020-12-11T17:19:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Arabic Tobacco",
+            "flavor_id": "686",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dromedary",
+            "flavor_id": "2198",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Perique Black",
+            "flavor_id": "807",
+            "millipercent": 700,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sunset Virginia",
+            "flavor_id": "847",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Tobacco Dirty Neutral (dnb)",
+            "flavor_id": "2186",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Tobacco Drop",
+            "flavor_id": "839",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1200,
+            "vendor": "INW"
+        }
+    ],
+    "author": "nks",
+    "views": "1099",
+    "created_at": "2017-07-10",
+    "slug": "desert_nights",
+    "total_flavoring": "6.5%",
+    "steep_days": "25",
+    "best_vg": "60%",
+    "temperature": "0"
 }

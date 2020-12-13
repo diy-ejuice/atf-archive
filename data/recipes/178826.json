@@ -1,51 +1,53 @@
 {
-  "name": "Nick’s doughnut base",
-  "description": "The best doughnut base to grace the world of mixing \r\n",
-  "id": 178826,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178826/824EDE18-A44D-4AB4-AA3D-AB29E4581A8E.png",
-  "updated_at": "2020-12-08T00:51:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 2750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Croissant",
-      "flavor_id": "8867",
-      "millipercent": 1400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Fluffy White Cake SC",
-      "flavor_id": "9024",
-      "millipercent": 1500,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "2783",
-  "slug": "nicks_doughnut_base",
-  "total_flavoring": "6.15%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "best glazed doughnut i’ve had yet .i would give this a ten if i could "
-    }
-  ]
+    "name": "Nick\u2019s doughnut base",
+    "description": "The best doughnut base to grace the world of mixing \r\n",
+    "id": 178826,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178826\/824EDE18-A44D-4AB4-AA3D-AB29E4581A8E.png",
+    "updated_at": "2020-12-12T18:30:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 2750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Croissant",
+            "flavor_id": "8867",
+            "millipercent": 1400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Fluffy White Cake SC",
+            "flavor_id": "9024",
+            "millipercent": 1500,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "2793",
+    "created_at": "2019-12-23",
+    "slug": "nicks_doughnut_base",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178826.png",
+    "total_flavoring": "6.15%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "best glazed doughnut i\u2019ve had yet .i would give this a ten if i could "
+        }
+    ]
 }

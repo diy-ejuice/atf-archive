@@ -1,50 +1,50 @@
 {
-  "name": "Tropical mix",
-  "description": "A delicious lemon lime with a tropical twist of strawberry and pineapple inspired by the lemon lime tropical soda. \r\nLemon lime-brings in the main lemon lime soda base. \r\nPink lemonade-gives it a little more of a sweeter lemon with a fruity touch adds a brightness to the lemon lime. \r\nSweet strawberry-adds a straight up linear strawberry just enough you can taste it. \r\nGolden Pineapple- adds a clean and clear tropical pineapple. \r\nSuper sweet-just a touch gives a nice sweetness and overall helps to bring the fruits out. ",
-  "id": 121141,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121141/images.jpeg",
-  "updated_at": "2020-12-05T02:13:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Lemonade",
-      "flavor_id": "3535",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VaporDude",
-  "views": "1626",
-  "slug": "tropical_mix",
-  "total_flavoring": "15.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tropical mix",
+    "description": "A delicious lemon lime with a tropical twist of strawberry and pineapple inspired by the lemon lime tropical soda. \r\nLemon lime-brings in the main lemon lime soda base. \r\nPink lemonade-gives it a little more of a sweeter lemon with a fruity touch adds a brightness to the lemon lime. \r\nSweet strawberry-adds a straight up linear strawberry just enough you can taste it. \r\nGolden Pineapple- adds a clean and clear tropical pineapple. \r\nSuper sweet-just a touch gives a nice sweetness and overall helps to bring the fruits out. ",
+    "id": 121141,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121141\/images.jpeg",
+    "updated_at": "2020-12-10T14:52:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Lemonade",
+            "flavor_id": "3535",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VaporDude",
+    "views": "1636",
+    "created_at": "2018-09-30",
+    "slug": "tropical_mix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121141.jpeg",
+    "total_flavoring": "15.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,69 +1,71 @@
 {
-  "name": "Corn Custard",
-  "description": "Yes, I know....Corn Custard!? I know this sounds like a weird profile to go after but I recently purchased Country Clouds' Corn Bread Pudding and it is awesome! Although it suffers from what most commercial juices suffer from, too much sweetener and slight off notes. This recipe is not a clone or remix of Country Clouds Corn Bread Pudding but it's very similar in it's profile. \r\nYou may ask why name it Corn Custard when there's no corn in it? When I test flavors, no matter what the label says, I write down what I taste. When testing FW Cheesecake I get a slight \"dirty socks\" or popcorn taste. So why put something that tastes like \"dirty socks\" in this recipe? Because, when paired with INW Biscuit, CAP Butter Cream, TPA Acetyl Pyrazine, and a touch of DFS HOLY HOLY GRAIL RY4, it transforms into a \"kettle corn-like\" flavor. The FW Cheesecake with the CAP Vanilla Custard adds a creamy custard that will have you mixing this recipe again and again. The DFS HOLY HOLY GRAIL RY4 also adds some vanilla in there as well. I added a touch of sweetener to brighten it up a bit as well.\r\nThis recipe needs a 1 week steep but after 5 days the custard starts to shine. Don't vape this off the shake, it takes a few days for all the flavors to blend in.\r\nVisit Freedom To Mix on Discord https://discord.gg/SmSc8Ef\r\nVisit Freedom To Mix on FaceBook https://www.facebook.com/groups/415341418920740/ \r\n\r\nPlease comment, mix, and or rate,....it makes us all better mixers. Enjoy :)",
-  "id": 88597,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88597/IMG_8641.JPG",
-  "updated_at": "2020-12-08T00:49:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 650,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cheesecake",
-      "flavor_id": "1236",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "HOLY HOLY GRAIL RY4",
-      "flavor_id": "5037",
-      "millipercent": 500,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "folkart",
-  "views": "3316",
-  "slug": "corn_custard",
-  "total_flavoring": "7.65%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "goosegirl",
-      "score": "5",
-      "text": "I was intrigued by this recipe, and had to try it.  I am so glad I did.  The cheesecake and Holy Holy Grail RY4 with the creams is producing a caramel sort of flavor for me that is not too sweet or creamy for me.  I have never eaten caramel corn, but if it tastes like this, I need to try it.  This one will be in steady rotation."
-    }
-  ]
+    "name": "Corn Custard",
+    "description": "Yes, I know....Corn Custard!? I know this sounds like a weird profile to go after but I recently purchased Country Clouds' Corn Bread Pudding and it is awesome! Although it suffers from what most commercial juices suffer from, too much sweetener and slight off notes. This recipe is not a clone or remix of Country Clouds Corn Bread Pudding but it's very similar in it's profile. \r\nYou may ask why name it Corn Custard when there's no corn in it? When I test flavors, no matter what the label says, I write down what I taste. When testing FW Cheesecake I get a slight \"dirty socks\" or popcorn taste. So why put something that tastes like \"dirty socks\" in this recipe? Because, when paired with INW Biscuit, CAP Butter Cream, TPA Acetyl Pyrazine, and a touch of DFS HOLY HOLY GRAIL RY4, it transforms into a \"kettle corn-like\" flavor. The FW Cheesecake with the CAP Vanilla Custard adds a creamy custard that will have you mixing this recipe again and again. The DFS HOLY HOLY GRAIL RY4 also adds some vanilla in there as well. I added a touch of sweetener to brighten it up a bit as well.\r\nThis recipe needs a 1 week steep but after 5 days the custard starts to shine. Don't vape this off the shake, it takes a few days for all the flavors to blend in.\r\nVisit Freedom To Mix on Discord https:\/\/discord.gg\/SmSc8Ef\r\nVisit Freedom To Mix on FaceBook https:\/\/www.facebook.com\/groups\/415341418920740\/ \r\n\r\nPlease comment, mix, and or rate,....it makes us all better mixers. Enjoy :)",
+    "id": 88597,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/88597\/IMG_8641.JPG",
+    "updated_at": "2020-12-12T10:34:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 650,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cheesecake",
+            "flavor_id": "1236",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "HOLY HOLY GRAIL RY4",
+            "flavor_id": "5037",
+            "millipercent": 500,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "folkart",
+    "views": "3324",
+    "created_at": "2018-02-16",
+    "slug": "corn_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/88597.JPG",
+    "total_flavoring": "7.65%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "goosegirl",
+            "score": 5,
+            "text": "I was intrigued by this recipe, and had to try it.  I am so glad I did.  The cheesecake and Holy Holy Grail RY4 with the creams is producing a caramel sort of flavor for me that is not too sweet or creamy for me.  I have never eaten caramel corn, but if it tastes like this, I need to try it.  This one will be in steady rotation."
+        }
+    ]
 }

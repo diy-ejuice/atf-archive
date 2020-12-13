@@ -1,38 +1,37 @@
 {
-  "name": "Cool Bogie",
-  "description": "Just a simple menthol style cigarette I made for my stepmom to help her quit smoking.  Hopefully it helps others.  As a fellow Newport smoker I actually enjoyed this menthol tobacco combo in a vape. The Virginia and Kentucky blend was a perfect cigalike blend and fw menthol for that menthol aspect of a menthol bogie. ",
-  "id": 205018,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:17:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Menthol (liquid)",
-      "flavor_id": "1353",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Virginia Tobacco",
-      "flavor_id": "623",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Roedin",
-  "views": "389",
-  "slug": "cool_bogie",
-  "total_flavoring": "3.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cool Bogie",
+    "description": "Just a simple menthol style cigarette I made for my stepmom to help her quit smoking.  Hopefully it helps others.  As a fellow Newport smoker I actually enjoyed this menthol tobacco combo in a vape. The Virginia and Kentucky blend was a perfect cigalike blend and fw menthol for that menthol aspect of a menthol bogie. ",
+    "id": 205018,
+    "image_url": null,
+    "updated_at": "2020-12-12T03:47:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Menthol (liquid)",
+            "flavor_id": "1353",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Virginia Tobacco",
+            "flavor_id": "623",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Roedin",
+    "views": "396",
+    "created_at": "2020-09-07",
+    "slug": "cool_bogie",
+    "total_flavoring": "3.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,56 +1,56 @@
 {
-  "name": "Purple Element",
-  "description": "Nice Grape\\Dark Berry Combo with a Hint of Lemon :)\r\nEnjoy",
-  "id": 80739,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/80739/9BA68F2F-F915-42F9-9148-AB1E069D9ECE.jpeg",
-  "updated_at": "2020-12-06T07:15:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "214",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "4244",
-      "millipercent": 2000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 2000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Wodde",
-  "views": "3062",
-  "slug": "purple_element",
-  "total_flavoring": "15.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Purple Element",
+    "description": "Nice Grape\\Dark Berry Combo with a Hint of Lemon :)\r\nEnjoy",
+    "id": 80739,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/80739\/9BA68F2F-F915-42F9-9148-AB1E069D9ECE.jpeg",
+    "updated_at": "2020-12-11T22:44:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "214",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "4244",
+            "millipercent": 2000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 2000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Wodde",
+    "views": "3070",
+    "created_at": "2017-12-26",
+    "slug": "purple_element",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/80739.jpeg",
+    "total_flavoring": "15.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

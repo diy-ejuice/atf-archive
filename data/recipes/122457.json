@@ -1,62 +1,61 @@
 {
-  "name": "Dark Systems",
-  "description": "WIP. Lucky Charms with extra blueberryness, give it some steep to come into its own",
-  "id": 122457,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:55:23.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lucky Leprechaun Cereal",
-      "flavor_id": "141",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Acai",
-      "flavor_id": "204",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Currant",
-      "flavor_id": "10171",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "coilspotting",
-  "views": "883",
-  "slug": "dark_systems",
-  "total_flavoring": "15.75%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "440",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dark Systems",
+    "description": "WIP. Lucky Charms with extra blueberryness, give it some steep to come into its own",
+    "id": 122457,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lucky Leprechaun Cereal",
+            "flavor_id": "141",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Acai",
+            "flavor_id": "204",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Currant",
+            "flavor_id": "10171",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "coilspotting",
+    "views": "890",
+    "created_at": "2018-10-09",
+    "slug": "dark_systems",
+    "total_flavoring": "15.75%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "440"
 }

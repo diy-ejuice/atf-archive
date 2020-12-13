@@ -1,50 +1,50 @@
 {
-  "name": "DD Boston Cream Donut",
-  "description": "A simple Boston cream donut. Pretty straight forward. Glazed donut for the donut with Joy to add a fried note. Custard Premium for the center and the combination of double chocolate clear and buttercream frosting for the frosting on top. I love buttercream frosting as a base that you can add different flavors to create different frostings. ",
-  "id": 176133,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/176133/BB949FCC-5973-4501-9595-89B569570A65.jpeg",
-  "updated_at": "2020-12-08T00:51:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Buttercream Frosting SC",
-      "flavor_id": "8361",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Glazed Donut SC",
-      "flavor_id": "9025",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Daytimefrank1",
-  "views": "1544",
-  "slug": "dd_boston_cream_donut",
-  "total_flavoring": "8.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "DD Boston Cream Donut",
+    "description": "A simple Boston cream donut. Pretty straight forward. Glazed donut for the donut with Joy to add a fried note. Custard Premium for the center and the combination of double chocolate clear and buttercream frosting for the frosting on top. I love buttercream frosting as a base that you can add different flavors to create different frostings. ",
+    "id": 176133,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/176133\/BB949FCC-5973-4501-9595-89B569570A65.jpeg",
+    "updated_at": "2020-12-12T17:12:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Buttercream Frosting SC",
+            "flavor_id": "8361",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Glazed Donut SC",
+            "flavor_id": "9025",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Daytimefrank1",
+    "views": "1555",
+    "created_at": "2019-11-30",
+    "slug": "dd_boston_cream_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/176133.jpeg",
+    "total_flavoring": "8.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

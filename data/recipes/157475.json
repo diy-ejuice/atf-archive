@@ -1,80 +1,82 @@
 {
-  "name": "Cyan Summer",
-  "description": "Profile: Blueberries + Kiwi drink\r\n\r\nI find blueberries and kiwi usually goes well hand in hand.\r\nIt's an easy liking profile and doesn't give so much hassle.\r\n\r\nI went with my usual combo of FA Bilberry and FW Blueberry, as I find this to give a pretty realistic blueberry.\r\nFor the choice of kiwi, I find FA Kiwi to run the show, but does need some back-up from FW Kiwi to complete it.\r\nTossed in a little FA Cold Pressed Lime as I find the syrup flavor it has fits this profile very well, to combat the sweetness from both the blueberry and kiwi - gives it some edge.\r\nFLV Lemonade are in for the drink element and INW Cactus to make it juicy.\r\n\r\nAdd coolant to your liming - I hate coolants as I'm getting more and more tolerant, so my pref. is 1%\r\n\r\nWorks perfectly fine as a SnV!\r\n\r\nEnjoy!",
-  "id": 157475,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157475/nBfkkkS.jpg",
-  "updated_at": "2020-12-08T00:51:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 1250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Kittybit",
-  "views": "1365",
-  "slug": "cyan_summer",
-  "total_flavoring": "10.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "This was good, fruits did kinda take over the lemonade, but I didn’t mind. I also knocked the ws23 to 0.25%"
-    },
-    {
-      "user": "UnappreciatedRobot",
-      "score": "5",
-      "text": "Super refreshing sweet and tart fruit lemonade. The tartness from the FLV Lemonade and little bit you get from FA Lime Tahity (Cold Pressed) pairs nicely with the sweet blueberry. Blueberries and kiwi do indeed go well together and this shows the combination off brilliantly."
-    }
-  ]
+    "name": "Cyan Summer",
+    "description": "Profile: Blueberries + Kiwi drink\r\n\r\nI find blueberries and kiwi usually goes well hand in hand.\r\nIt's an easy liking profile and doesn't give so much hassle.\r\n\r\nI went with my usual combo of FA Bilberry and FW Blueberry, as I find this to give a pretty realistic blueberry.\r\nFor the choice of kiwi, I find FA Kiwi to run the show, but does need some back-up from FW Kiwi to complete it.\r\nTossed in a little FA Cold Pressed Lime as I find the syrup flavor it has fits this profile very well, to combat the sweetness from both the blueberry and kiwi - gives it some edge.\r\nFLV Lemonade are in for the drink element and INW Cactus to make it juicy.\r\n\r\nAdd coolant to your liming - I hate coolants as I'm getting more and more tolerant, so my pref. is 1%\r\n\r\nWorks perfectly fine as a SnV!\r\n\r\nEnjoy!",
+    "id": 157475,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/157475\/nBfkkkS.jpg",
+    "updated_at": "2020-12-12T18:30:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 1250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Kittybit",
+    "views": "1371",
+    "created_at": "2019-06-29",
+    "slug": "cyan_summer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/157475.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "This was good, fruits did kinda take over the lemonade, but I didn\u2019t mind. I also knocked the ws23 to 0.25%"
+        },
+        {
+            "user": "UnappreciatedRobot",
+            "score": 5,
+            "text": "Super refreshing sweet and tart fruit lemonade. The tartness from the FLV Lemonade and little bit you get from FA Lime Tahity (Cold Pressed) pairs nicely with the sweet blueberry. Blueberries and kiwi do indeed go well together and this shows the combination off brilliantly."
+        }
+    ]
 }

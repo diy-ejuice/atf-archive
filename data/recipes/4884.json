@@ -1,68 +1,67 @@
 {
-  "name": "Fluffy Rice Crispy Treat",
-  "description": "A delicious and fluffy rice crispy treat.",
-  "id": 4884,
-  "image_url": null,
-  "updated_at": "2020-12-05T11:04:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "289",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Rice Crunchies",
-      "flavor_id": "142",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Bilic",
-  "views": "1999",
-  "slug": "fluffy_rice_crispy_treat",
-  "total_flavoring": "11.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fluffy Rice Crispy Treat",
+    "description": "A delicious and fluffy rice crispy treat.",
+    "id": 4884,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "289",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Rice Crunchies",
+            "flavor_id": "142",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Bilic",
+    "views": "2004",
+    "created_at": "2016-06-08",
+    "slug": "fluffy_rice_crispy_treat",
+    "total_flavoring": "11.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

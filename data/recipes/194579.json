@@ -1,50 +1,50 @@
 {
-  "name": "Cream Soda | Live Mixing",
-  "description": "UPDATE: Moved Tab lower as it steeps, it becomes a bit too present. Also tweaked some % to refine accuracy. \r\n\r\nEasy, delicious, (slighty) fizzy, cream soda. Would like a bit more saturation/presence from it, but very happy where it's starting from. \r\n\r\nMade on Live Mixing:\r\nhttps://youtu.be/nJ1Wpz7wx00",
-  "id": 194579,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194579/livemixing.jpg",
-  "updated_at": "2020-12-07T15:22:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 5000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Tab Blended",
-      "flavor_id": "2028",
-      "millipercent": 1500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "9957",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "1909",
-  "slug": "cream_soda_live_mixing",
-  "total_flavoring": "11.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cream Soda | Live Mixing",
+    "description": "UPDATE: Moved Tab lower as it steeps, it becomes a bit too present. Also tweaked some % to refine accuracy. \r\n\r\nEasy, delicious, (slighty) fizzy, cream soda. Would like a bit more saturation\/presence from it, but very happy where it's starting from. \r\n\r\nMade on Live Mixing:\r\nhttps:\/\/youtu.be\/nJ1Wpz7wx00",
+    "id": 194579,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/194579\/livemixing.jpg",
+    "updated_at": "2020-12-12T14:08:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 5000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Tab Blended",
+            "flavor_id": "2028",
+            "millipercent": 1500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "9957",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "1925",
+    "created_at": "2020-05-15",
+    "slug": "cream_soda_live_mixing",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/194579.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0"
 }

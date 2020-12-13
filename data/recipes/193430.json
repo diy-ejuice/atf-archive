@@ -1,69 +1,71 @@
 {
-  "name": "White Hippo",
-  "description": "Kinder: white Happy Hippo\r\n\r\nCrispy vanilla wafer shell with a white Nutella filling\r\n\r\nI’ve got to be honest, this one didn’t take a whole lot of overthinking, I wanted to use my VT love again and at a high percentage so I picked a white happy hippo. \r\n\r\nThe shell consists of WF crispy wafer and cap sugar cookie, the FA cookie just makes it a bit “crispier and darker”\r\n\r\nThe white Nutella filling comes from VT love, FA hazel grove and WF roasted hazelnuts, the toasted hazelnuts also helps the wafer out by darkening it up a touch and giving it a more baked vibe. \r\n\r\nSweetener is subjective and drop it out if you wish but adds to the overall authenticity of the profile.\r\n\r\nIdeally the mix needs 7 days but if you can’t wait then try it after 3 but the FA hazel grove does tend to taste a bit green and raw until it steeps out. ",
-  "id": 193430,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/193430/18A09AB8-2BB3-4F20-B94E-7571B8017541.png",
-  "updated_at": "2020-12-08T00:51:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Roasted Hazelnut SC",
-      "flavor_id": "10411",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Crispy Wafer SC",
-      "flavor_id": "8366",
-      "millipercent": 1750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Love DIY",
-      "flavor_id": "8920",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "983",
-  "slug": "white_hippo",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "inrespekkt",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "White Hippo",
+    "description": "Kinder: white Happy Hippo\r\n\r\nCrispy vanilla wafer shell with a white Nutella filling\r\n\r\nI\u2019ve got to be honest, this one didn\u2019t take a whole lot of overthinking, I wanted to use my VT love again and at a high percentage so I picked a white happy hippo. \r\n\r\nThe shell consists of WF crispy wafer and cap sugar cookie, the FA cookie just makes it a bit \u201ccrispier and darker\u201d\r\n\r\nThe white Nutella filling comes from VT love, FA hazel grove and WF roasted hazelnuts, the toasted hazelnuts also helps the wafer out by darkening it up a touch and giving it a more baked vibe. \r\n\r\nSweetener is subjective and drop it out if you wish but adds to the overall authenticity of the profile.\r\n\r\nIdeally the mix needs 7 days but if you can\u2019t wait then try it after 3 but the FA hazel grove does tend to taste a bit green and raw until it steeps out. ",
+    "id": 193430,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/193430\/18A09AB8-2BB3-4F20-B94E-7571B8017541.png",
+    "updated_at": "2020-12-12T14:08:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Roasted Hazelnut SC",
+            "flavor_id": "10411",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Crispy Wafer SC",
+            "flavor_id": "8366",
+            "millipercent": 1750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Love DIY",
+            "flavor_id": "8920",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "997",
+    "created_at": "2020-05-03",
+    "slug": "white_hippo",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/193430.png",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "inrespekkt",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

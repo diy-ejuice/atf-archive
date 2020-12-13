@@ -1,38 +1,37 @@
 {
-  "name": "StrawMelon",
-  "description": "Leichter mix aus Erdbeere & Melone mit ein wenig gesüßter Schlagsahne on top!",
-  "id": 182477,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:32.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 4000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "654",
-  "slug": "strawmelon",
-  "total_flavoring": "12.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "StrawMelon",
+    "description": "Leichter mix aus Erdbeere & Melone mit ein wenig ges\u00fc\u00dfter Schlagsahne on top!",
+    "id": 182477,
+    "image_url": null,
+    "updated_at": "2020-12-11T03:38:52.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 4000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "660",
+    "created_at": "2020-01-26",
+    "slug": "strawmelon",
+    "total_flavoring": "12.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,61 +1,63 @@
 {
-  "name": "Cereal Milk Base",
-  "description": "This is my beloved milk base for cereals that I mix privately for myself. Feel free to throw your favorite cereal ingredients at it, or spin it into your own vibe. Obviously, I'm a Cereal 27 fanatic but there's tons of other options out there. Let me know what you come up with!",
-  "id": 119079,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/119079/atfthumb.jpg",
-  "updated_at": "2020-12-08T00:50:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "SteamOn",
-  "views": "7448",
-  "slug": "cereal_milk_base",
-  "total_flavoring": "4.7%",
-  "steep_days": "10",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "5",
-      "text": "Like it!"
-    },
-    {
-      "user": "JohnCena",
-      "score": "5",
-      "text": "Absolutely delicious cereal milk base! Thank you very much for this."
-    },
-    {
-      "user": "NaCHeF",
-      "score": "none",
-      "text": "Great and very versatile cereal milk base! I prefer using 0.5% Fresh Cream insted of Cream Cheese Icing because it takes less time to steep, but I can see how this is more thick and also adds that powdered sugar feeling to the cereals. Thank you for sharing!"
-    }
-  ]
+    "name": "Cereal Milk Base",
+    "description": "This is my beloved milk base for cereals that I mix privately for myself. Feel free to throw your favorite cereal ingredients at it, or spin it into your own vibe. Obviously, I'm a Cereal 27 fanatic but there's tons of other options out there. Let me know what you come up with!",
+    "id": 119079,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/119079\/atfthumb.jpg",
+    "updated_at": "2020-12-12T11:52:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "SteamOn",
+    "views": "7461",
+    "created_at": "2018-09-14",
+    "slug": "cereal_milk_base",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/119079.jpg",
+    "total_flavoring": "4.7%",
+    "steep_days": "10",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 5,
+            "text": "Like it!"
+        },
+        {
+            "user": "JohnCena",
+            "score": 5,
+            "text": "Absolutely delicious cereal milk base! Thank you very much for this."
+        },
+        {
+            "user": "NaCHeF",
+            "score": 0,
+            "text": "Great and very versatile cereal milk base! I prefer using 0.5% Fresh Cream insted of Cream Cheese Icing because it takes less time to steep, but I can see how this is more thick and also adds that powdered sugar feeling to the cereals. Thank you for sharing!"
+        }
+    ]
 }

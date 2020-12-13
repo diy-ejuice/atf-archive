@@ -1,56 +1,56 @@
 {
-  "name": "Strawberries and Cream",
-  "description": "Basic strawberries and cream, smooth and sweet vanilla cream poured over nice ripe strawberries. \r\n\r\nI mix at 60/40 vg/pg and 2mg of nicotine. I gave this mix a 3 day steep and expected it to need longer but it's actually delicious as is. Let me know what you think, I'd love to hear some tips. ",
-  "id": 37748,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37748/Screenshot_20170322-011224.png",
-  "updated_at": "2020-12-06T05:10:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberries And Cream",
-      "flavor_id": "270",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Squanderrr",
-  "views": "1614",
-  "slug": "strawberries_and_cream",
-  "total_flavoring": "11.5%",
-  "steep_days": "3",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberries and Cream",
+    "description": "Basic strawberries and cream, smooth and sweet vanilla cream poured over nice ripe strawberries. \r\n\r\nI mix at 60\/40 vg\/pg and 2mg of nicotine. I gave this mix a 3 day steep and expected it to need longer but it's actually delicious as is. Let me know what you think, I'd love to hear some tips. ",
+    "id": 37748,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/37748\/Screenshot_20170322-011224.png",
+    "updated_at": "2020-12-10T15:59:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberries And Cream",
+            "flavor_id": "270",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Squanderrr",
+    "views": "1621",
+    "created_at": "2017-03-21",
+    "slug": "strawberries_and_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/37748.png",
+    "total_flavoring": "11.5%",
+    "steep_days": "3",
+    "best_vg": "60%",
+    "temperature": "0"
 }

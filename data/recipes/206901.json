@@ -1,50 +1,49 @@
 {
-  "name": "Swedish Queen Jam Doughnut",
-  "description": "✋ !!!FIRST READ THIS!!! ✔\r\nI did not use \"(TJ) Ice Queen\"!\r\nI used https://alltheflavors.com/recipes/206727#swedish_queen_jam_stone_by_wallebiela\r\n\r\nI nicked the best donut just to make a example with Queen Jam.",
-  "id": 206901,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:22:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 4500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ice Queen",
-      "flavor_id": "4819",
-      "millipercent": 3000,
-      "vendor": "TJ"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "WalleBiela",
-  "views": "309",
-  "slug": "swedish_queen_jam_doughnut",
-  "total_flavoring": "12.3%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Swedish Queen Jam Doughnut",
+    "description": "\u270b !!!FIRST READ THIS!!! \u2714\r\nI did not use \"(TJ) Ice Queen\"!\r\nI used https:\/\/alltheflavors.com\/recipes\/206727#swedish_queen_jam_stone_by_wallebiela\r\n\r\nI nicked the best donut just to make a example with Queen Jam.",
+    "id": 206901,
+    "image_url": null,
+    "updated_at": "2020-12-12T05:56:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 4500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ice Queen",
+            "flavor_id": "4819",
+            "millipercent": 3000,
+            "vendor": "TJ"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "WalleBiela",
+    "views": "316",
+    "created_at": "2020-10-10",
+    "slug": "swedish_queen_jam_doughnut",
+    "total_flavoring": "12.3%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

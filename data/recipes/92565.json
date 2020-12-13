@@ -1,38 +1,37 @@
 {
-  "name": "Lemon Meringue Pie",
-  "description": "This tasted really good made a few batches and finally made enough that it lasted long enough to steep more than a day. Have tasters around here kept vaping this one all up. Suggestions are always appreciated",
-  "id": 92565,
-  "image_url": null,
-  "updated_at": "2020-11-30T02:42:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "84",
-      "millipercent": 14000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 7000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "397",
-  "slug": "lemon_meringue_pie",
-  "total_flavoring": "25.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Meringue Pie",
+    "description": "This tasted really good made a few batches and finally made enough that it lasted long enough to steep more than a day. Have tasters around here kept vaping this one all up. Suggestions are always appreciated",
+    "id": 92565,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "84",
+            "millipercent": 14000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 7000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "401",
+    "created_at": "2018-03-16",
+    "slug": "lemon_meringue_pie",
+    "total_flavoring": "25.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

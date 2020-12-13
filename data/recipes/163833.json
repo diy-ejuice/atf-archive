@@ -1,74 +1,76 @@
 {
-  "name": "Almond Joy / Mounds?",
-  "description": "MIX: 60VG//40PG\r\nSTEEP: 3 - 7 Days\r\n\r\nAn impression of an Almond Joy. Trying to figure out how to effectively clone it, and this is the first step / iteration. \r\n\r\nhttps://youtu.be/qJqdaJmn-Co\r\n",
-  "id": 163833,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163833/mounds-1.png",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "3281",
-  "slug": "almond_joy_mounds",
-  "total_flavoring": "7.0%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "YippYo",
-      "score": "4",
-      "text": "Now here's a pretty good representation of the profile. The coconuts are definitely the right choice here but I think coconut candy can be brought up a bit. The almond is spot on. My only real issue here is the chocolate. Australian chocolate is a good choice as far as chocolate flavors go but it suffers from bad off-notes. Perhaps bringing it down to 1% and adding something else to fill out the rest of the chocolate could work. If the chocolate is tuned in a bit more this would be absolutely perfect!"
-    },
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "amazing so far"
-    }
-  ]
+    "name": "Almond Joy \/ Mounds?",
+    "description": "MIX: 60VG\/\/40PG\r\nSTEEP: 3 - 7 Days\r\n\r\nAn impression of an Almond Joy. Trying to figure out how to effectively clone it, and this is the first step \/ iteration. \r\n\r\nhttps:\/\/youtu.be\/qJqdaJmn-Co\r\n",
+    "id": 163833,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163833\/mounds-1.png",
+    "updated_at": "2020-12-12T10:34:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "3296",
+    "created_at": "2019-08-20",
+    "slug": "almond_joy_mounds",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163833.png",
+    "total_flavoring": "7.0%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "YippYo",
+            "score": 4,
+            "text": "Now here's a pretty good representation of the profile. The coconuts are definitely the right choice here but I think coconut candy can be brought up a bit. The almond is spot on. My only real issue here is the chocolate. Australian chocolate is a good choice as far as chocolate flavors go but it suffers from bad off-notes. Perhaps bringing it down to 1% and adding something else to fill out the rest of the chocolate could work. If the chocolate is tuned in a bit more this would be absolutely perfect!"
+        },
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "amazing so far"
+        }
+    ]
 }

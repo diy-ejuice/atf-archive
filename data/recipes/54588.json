@@ -1,51 +1,53 @@
 {
-  "name": "Smokin' Apple Bee",
-  "description": "This one is geared more towards a fine rolling tobacco. A+ Blend comes with a nice throat hit that almost brings me back to the days of smoking. The recipe overall relies on that awesome NET by Stixx Mixx and is supported by hints of apple, honey, and citrus from the FA custard. The Custard also helps give the recipe some fuller mouth feel. \r\nThis was another recipe that I wanted to focus on the NET and support it with side notes based on the flavor of the tobacco.",
-  "id": 54588,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54588/smokin_apple_bee.png",
-  "updated_at": "2020-12-08T00:49:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "A+ Blend",
-      "flavor_id": "7274",
-      "millipercent": 5000,
-      "vendor": "SM"
-    }
-  ],
-  "author": "MopHead",
-  "views": "1480",
-  "slug": "smokin_apple_bee",
-  "total_flavoring": "8.25%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TamVapes",
-      "score": "5",
-      "text": "Excellent blend of honey,apple, and tobacco. This has been the in my steep box for like longer than suggested, and all I can say is WOW. Love it. Love that the Apple is not over powering, just a really nice tobacco blend using Stixx Mixx. Thanks for sharing. "
-    }
-  ]
+    "name": "Smokin' Apple Bee",
+    "description": "This one is geared more towards a fine rolling tobacco. A+ Blend comes with a nice throat hit that almost brings me back to the days of smoking. The recipe overall relies on that awesome NET by Stixx Mixx and is supported by hints of apple, honey, and citrus from the FA custard. The Custard also helps give the recipe some fuller mouth feel. \r\nThis was another recipe that I wanted to focus on the NET and support it with side notes based on the flavor of the tobacco.",
+    "id": 54588,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54588\/smokin_apple_bee.png",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "A+ Blend",
+            "flavor_id": "7274",
+            "millipercent": 5000,
+            "vendor": "SM"
+        }
+    ],
+    "author": "MopHead",
+    "views": "1485",
+    "created_at": "2017-07-08",
+    "slug": "smokin_apple_bee",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54588.png",
+    "total_flavoring": "8.25%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TamVapes",
+            "score": 5,
+            "text": "Excellent blend of honey,apple, and tobacco. This has been the in my steep box for like longer than suggested, and all I can say is WOW. Love it. Love that the Apple is not over powering, just a really nice tobacco blend using Stixx Mixx. Thanks for sharing. "
+        }
+    ]
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Double Strawberry Ice Cream Sandwich",
-  "description": "Double Strawberry Ice Cream Sandwich,Double Strawberry Ice Cream Sandwich\r\nSO IT IS.",
-  "id": 101993,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101993/big-double-strawberry-sandwich.v1.jpg",
-  "updated_at": "2020-12-07T17:34:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "8737",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 800,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "326",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Mr-G",
-  "views": "2498",
-  "slug": "double_strawberry_ice_cream_sandwich",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Double Strawberry Ice Cream Sandwich",
+    "description": "Double Strawberry Ice Cream Sandwich,Double Strawberry Ice Cream Sandwich\r\nSO IT IS.",
+    "id": 101993,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101993\/big-double-strawberry-sandwich.v1.jpg",
+    "updated_at": "2020-12-11T22:44:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "8737",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 800,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "326",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Mr-G",
+    "views": "2512",
+    "created_at": "2018-05-21",
+    "slug": "double_strawberry_ice_cream_sandwich",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101993.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

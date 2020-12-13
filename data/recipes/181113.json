@@ -1,50 +1,50 @@
 {
-  "name": "the ROOT",
-  "description": "This is a simple, refreshing, flavorful Root Beer that just gets better with age. I have changed the recipe numerous times adding this and that but at the end of the day these five flavors create a vape that I absolutely love. Add some menthol for a cool finish and if you like a creamier root beer then just bump the creaming soda to 1.75% and the vanilla bean to 1% (adding marshmallow works as well)",
-  "id": 181113,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181113/digital_roots_by_the_chez_dh6v94-pre-02-03.jpeg",
-  "updated_at": "2020-12-06T20:45:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creaming Soda",
-      "flavor_id": "8862",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "8567",
-      "millipercent": 1400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Root Beer",
-      "flavor_id": "1401",
-      "millipercent": 2100,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Gabe8986",
-  "views": "633",
-  "slug": "the_root",
-  "total_flavoring": "5.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "the ROOT",
+    "description": "This is a simple, refreshing, flavorful Root Beer that just gets better with age. I have changed the recipe numerous times adding this and that but at the end of the day these five flavors create a vape that I absolutely love. Add some menthol for a cool finish and if you like a creamier root beer then just bump the creaming soda to 1.75% and the vanilla bean to 1% (adding marshmallow works as well)",
+    "id": 181113,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/181113\/digital_roots_by_the_chez_dh6v94-pre-02-03.jpeg",
+    "updated_at": "2020-12-10T14:53:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creaming Soda",
+            "flavor_id": "8862",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "8567",
+            "millipercent": 1400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Root Beer",
+            "flavor_id": "1401",
+            "millipercent": 2100,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Gabe8986",
+    "views": "640",
+    "created_at": "2020-01-14",
+    "slug": "the_root",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/181113.jpeg",
+    "total_flavoring": "5.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

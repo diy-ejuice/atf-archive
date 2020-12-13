@@ -1,62 +1,62 @@
 {
-  "name": "Python",
-  "description": "**Strawberries and cream with cake**\r\n\r\nRiffing on a juice I had when I first started vaping, Cobra by Om Vapors. To me it was a decent juice but I wanted to take a crack at re interpreting it all these years later. Described by the manufacturer as a strawberry ice cream with cake crumbs, my version is more strawberries and cream on cake.\r\n\r\nINW Shisha Strawberry/FA Red Touch/JF Strawberry Sweet: The main note in here is strawberry, and there is no better place to use ID10-T's trinity. As an accent you could go use any of these 3 solo but to have it stand up in a mix the trinity is the way to go. As an added bonus, people that are strawberry blind (I am to some extent) seem to get some flavor out of this berry combo.\r\n\r\nTFA Vanilla Swirl/Whipped Cream: In my version I wanted to utilize a lighter cream component. Originally I was using FA Meringue and a custard for the dairy/vanilla notes but it was too heavy. Whipped cream gets you a nice fluffy cream and swirl brings some body while not weighing down the mix. In addition you get the binding quality of swirl to bring everything together. \r\n\r\nJF Yellow Cake: From what I remember, Cobra had a bit more of a white cake vibe for which I was going to use WF Fluffy White Cake but switched to yellow cake as I enjoy the flavor a bit more. I also needed to have something with a bit more weight to counter the airy cream. \r\n\r\nFinal product will yield a really nice smooth vape, sitting somewhere between a classic strawberry cream and cake. Nothing ground breaking here but all in all this turned out pretty damn good. Can be SnV but after a short steep is even better. If mixed please review/comment, all feedback welcome.",
-  "id": 202255,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202255/Screenshot_2020-08-04-02-28-15_2.png",
-  "updated_at": "2020-12-06T12:56:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 2500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 200,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "kontravention",
-  "views": "557",
-  "slug": "python",
-  "total_flavoring": "12.45%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Python",
+    "description": "**Strawberries and cream with cake**\r\n\r\nRiffing on a juice I had when I first started vaping, Cobra by Om Vapors. To me it was a decent juice but I wanted to take a crack at re interpreting it all these years later. Described by the manufacturer as a strawberry ice cream with cake crumbs, my version is more strawberries and cream on cake.\r\n\r\nINW Shisha Strawberry\/FA Red Touch\/JF Strawberry Sweet: The main note in here is strawberry, and there is no better place to use ID10-T's trinity. As an accent you could go use any of these 3 solo but to have it stand up in a mix the trinity is the way to go. As an added bonus, people that are strawberry blind (I am to some extent) seem to get some flavor out of this berry combo.\r\n\r\nTFA Vanilla Swirl\/Whipped Cream: In my version I wanted to utilize a lighter cream component. Originally I was using FA Meringue and a custard for the dairy\/vanilla notes but it was too heavy. Whipped cream gets you a nice fluffy cream and swirl brings some body while not weighing down the mix. In addition you get the binding quality of swirl to bring everything together. \r\n\r\nJF Yellow Cake: From what I remember, Cobra had a bit more of a white cake vibe for which I was going to use WF Fluffy White Cake but switched to yellow cake as I enjoy the flavor a bit more. I also needed to have something with a bit more weight to counter the airy cream. \r\n\r\nFinal product will yield a really nice smooth vape, sitting somewhere between a classic strawberry cream and cake. Nothing ground breaking here but all in all this turned out pretty damn good. Can be SnV but after a short steep is even better. If mixed please review\/comment, all feedback welcome.",
+    "id": 202255,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202255\/Screenshot_2020-08-04-02-28-15_2.png",
+    "updated_at": "2020-12-12T05:56:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 2500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 200,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "kontravention",
+    "views": "569",
+    "created_at": "2020-08-04",
+    "slug": "python",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202255.png",
+    "total_flavoring": "12.45%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

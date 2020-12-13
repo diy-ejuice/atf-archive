@@ -1,50 +1,49 @@
 {
-  "name": "Beetle Juice's Currant Fruit Snacks",
-  "description": "This basically taste like black currant fruit snacks. It's pretty good. ",
-  "id": 176428,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:33:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugarloaf Pineapple",
-      "flavor_id": "8978",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Beetle Juice",
-      "flavor_id": "1188",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetness",
-      "flavor_id": "4413",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "GuitarOfDestiny",
-  "views": "803",
-  "slug": "beetle_juices_currant_fruit_snacks",
-  "total_flavoring": "10.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Beetle Juice's Currant Fruit Snacks",
+    "description": "This basically taste like black currant fruit snacks. It's pretty good. ",
+    "id": 176428,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:53:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugarloaf Pineapple",
+            "flavor_id": "8978",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Beetle Juice",
+            "flavor_id": "1188",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetness",
+            "flavor_id": "4413",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "GuitarOfDestiny",
+    "views": "810",
+    "created_at": "2019-12-02",
+    "slug": "beetle_juices_currant_fruit_snacks",
+    "total_flavoring": "10.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

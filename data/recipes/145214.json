@@ -1,56 +1,56 @@
 {
-  "name": "Mississippi",
-  "description": "This is based on Kopel's Southerner :  https://alltheflavors.com/recipes/58127#southerner_by_kopel\r\n\r\nI used the \"this could work\" approach in adding INW Black for Pipe and reducing percents of the Southerner flavors except for Lovage Root, which was doubled.  The Kentucky Bourbon still stands out clearly, and in combination with Lovage and the other flavors, giving this a bit of chewing tobacco flavor.\r\n\r\nNot sure how long this takes to steep since I didn't try it until 7 weeks after mixing, so I'll go with the usual 30 days for INW tobaccos.",
-  "id": 145214,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/145214/SSMorrison.jpg",
-  "updated_at": "2020-12-07T17:35:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lovage Root",
-      "flavor_id": "2152",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "MaxUT",
-  "views": "1411",
-  "slug": "mississippi",
-  "total_flavoring": "5.7%",
-  "steep_days": "30",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mississippi",
+    "description": "This is based on Kopel's Southerner :  https:\/\/alltheflavors.com\/recipes\/58127#southerner_by_kopel\r\n\r\nI used the \"this could work\" approach in adding INW Black for Pipe and reducing percents of the Southerner flavors except for Lovage Root, which was doubled.  The Kentucky Bourbon still stands out clearly, and in combination with Lovage and the other flavors, giving this a bit of chewing tobacco flavor.\r\n\r\nNot sure how long this takes to steep since I didn't try it until 7 weeks after mixing, so I'll go with the usual 30 days for INW tobaccos.",
+    "id": 145214,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/145214\/SSMorrison.jpg",
+    "updated_at": "2020-12-10T16:04:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lovage Root",
+            "flavor_id": "2152",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "MaxUT",
+    "views": "1416",
+    "created_at": "2019-03-31",
+    "slug": "mississippi",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/145214.jpg",
+    "total_flavoring": "5.7%",
+    "steep_days": "30",
+    "best_vg": "0%",
+    "temperature": "0"
 }

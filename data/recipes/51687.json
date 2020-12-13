@@ -1,56 +1,56 @@
 {
-  "name": "Refreshing Summer Breeze",
-  "description": "A nice refreshing Stawberry, watermelon, lemonade. Just perfect for the hot summer. Enjoy this with your favorite beverage. Great as a Shake n vape. ",
-  "id": 51687,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/51687/IMG_0334.PNG",
-  "updated_at": "2020-12-07T14:12:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "7797",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Cool Mint",
-      "flavor_id": "40",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1566",
-  "slug": "refreshing_summer_breeze",
-  "total_flavoring": "8.0%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Refreshing Summer Breeze",
+    "description": "A nice refreshing Stawberry, watermelon, lemonade. Just perfect for the hot summer. Enjoy this with your favorite beverage. Great as a Shake n vape. ",
+    "id": 51687,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/51687\/IMG_0334.PNG",
+    "updated_at": "2020-12-11T05:41:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "7797",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Cool Mint",
+            "flavor_id": "40",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1572",
+    "created_at": "2017-06-20",
+    "slug": "refreshing_summer_breeze",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/51687.PNG",
+    "total_flavoring": "8.0%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Coco puffs remix",
-  "description": "This is one of my childhood cereals that I used too eat all the time before elementary school mix up and enjoy ",
-  "id": 53878,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:15:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cocoa Rounds",
-      "flavor_id": "138",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1117",
-  "slug": "coco_puffs_remix",
-  "total_flavoring": "11.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coco puffs remix",
+    "description": "This is one of my childhood cereals that I used too eat all the time before elementary school mix up and enjoy ",
+    "id": 53878,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cocoa Rounds",
+            "flavor_id": "138",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1122",
+    "created_at": "2017-07-04",
+    "slug": "coco_puffs_remix",
+    "total_flavoring": "11.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95"
 }

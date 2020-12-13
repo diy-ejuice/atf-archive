@@ -1,68 +1,70 @@
 {
-  "name": "HAZMAT CUSTARD ",
-  "description": "This is a really simple strait forward recipe very delicious and decadent  hazelnut cinnamon custard goes good with a cup of your favorite coffee...",
-  "id": 143321,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143321/FB_IMG_1553040810783.jpg",
-  "updated_at": "2020-12-08T00:50:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Ethyl Maltol 10%",
-      "flavor_id": "2311",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "Slushy",
-  "views": "1656",
-  "slug": "hazmat_custard",
-  "total_flavoring": "16.5%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Badass recipe. I just love CAP's Vanilla Custard and Cinnamon Danish Swirl so this hit my sweet spot. Ethyl Maltol does wonders! Thank you!"
-    },
-    {
-      "user": "elsignor",
-      "score": "5",
-      "text": "very simple and amazing recipe. I used to mix a lot of custard with bavarian cream and CDS back in time. This one hits a nostalgic spot. It is really good."
-    }
-  ]
+    "name": "HAZMAT CUSTARD ",
+    "description": "This is a really simple strait forward recipe very delicious and decadent  hazelnut cinnamon custard goes good with a cup of your favorite coffee...",
+    "id": 143321,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/143321\/FB_IMG_1553040810783.jpg",
+    "updated_at": "2020-12-12T11:52:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Ethyl Maltol 10%",
+            "flavor_id": "2311",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1662",
+    "created_at": "2019-03-19",
+    "slug": "hazmat_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/143321.jpg",
+    "total_flavoring": "16.5%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Badass recipe. I just love CAP's Vanilla Custard and Cinnamon Danish Swirl so this hit my sweet spot. Ethyl Maltol does wonders! Thank you!"
+        },
+        {
+            "user": "elsignor",
+            "score": 5,
+            "text": "very simple and amazing recipe. I used to mix a lot of custard with bavarian cream and CDS back in time. This one hits a nostalgic spot. It is really good."
+        }
+    ]
 }

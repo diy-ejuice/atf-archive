@@ -1,57 +1,59 @@
 {
-  "name": "Berry Buttery Toast",
-  "description": "Ive been wanting to make use of RF strawberry jam w/ toast since you can get it from Canada now. Also just got VT butter base and I am amazed at the accuracy of this flavor. It is truly the best just butter flavor that has ever been made. This really is a berry delicious buttery piece of toast.",
-  "id": 188105,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/188105/images.jpeg-10.jpg",
-  "updated_at": "2020-12-08T00:51:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Jam with Toast",
-      "flavor_id": "9143",
-      "millipercent": 3000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Butter Base",
-      "flavor_id": "8843",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry Jam",
-      "flavor_id": "10274",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jammy Berry",
-      "flavor_id": "10150",
-      "millipercent": 800,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Denske",
-  "views": "826",
-  "slug": "berry_buttery_toast",
-  "total_flavoring": "7.3%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Bigs",
-      "score": "5",
-      "text": "An absolutely wonderful mix. With a nice Berry Punch at the front and a smooth buttery finish. It is now my go to ADV. Keep up the great work thank you :&gt;)"
-    }
-  ]
+    "name": "Berry Buttery Toast",
+    "description": "Ive been wanting to make use of RF strawberry jam w\/ toast since you can get it from Canada now. Also just got VT butter base and I am amazed at the accuracy of this flavor. It is truly the best just butter flavor that has ever been made. This really is a berry delicious buttery piece of toast.",
+    "id": 188105,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/188105\/images.jpeg-10.jpg",
+    "updated_at": "2020-12-12T10:35:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Jam with Toast",
+            "flavor_id": "9143",
+            "millipercent": 3000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Butter Base",
+            "flavor_id": "8843",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry Jam",
+            "flavor_id": "10274",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jammy Berry",
+            "flavor_id": "10150",
+            "millipercent": 800,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Denske",
+    "views": "835",
+    "created_at": "2020-03-13",
+    "slug": "berry_buttery_toast",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/188105.jpg",
+    "total_flavoring": "7.3%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Bigs",
+            "score": 5,
+            "text": "An absolutely wonderful mix. With a nice Berry Punch at the front and a smooth buttery finish. It is now my go to ADV. Keep up the great work thank you :&gt;)"
+        }
+    ]
 }

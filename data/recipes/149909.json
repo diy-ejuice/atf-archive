@@ -1,78 +1,80 @@
 {
-  "name": "Honey Slice",
-  "description": "A thick, layered custard slice adorned with honeycomb. \r\n\r\nFILLING\r\nThe filling is comprised of my unfailing 1-2-3 brulee stone with the brûlée knocked down ever so slightly. I have been using this base for a while now & it keeps on delivering.  To me, the is a pre-eminent custard which just works magically here...Thick an d creamy oral pleasure...\r\n\r\nPastry Layer\r\nI recently discovered WF Croissant and very impressed with it's brilliant performance. It manages to encapsulate the delicate croissant pasty notes perfectly and with relative ease. A touch of FA cookie provides a bit of texture to round of the pastry layer.\r\n\r\nVT honeycomb is a remarkable revelation and allows us to mix honey based recipes with confidence. This provides a subtle honey note with a touch of texture to bring this recipe alive! \r\n\r\nGive this baby 5 days to settle...",
-  "id": 149909,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/149909/IMG_3057.JPG",
-  "updated_at": "2020-12-08T00:50:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Croissant SC",
-      "flavor_id": "9022",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 3000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "RudeRudi",
-  "views": "3029",
-  "slug": "honey_slice",
-  "total_flavoring": "12.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "FuriousMixer",
-      "score": "5",
-      "text": "This is a beautiful little recipe that’s layered to perfection and has great mouthfeel. You even get the buttery pastry notes thanks to WF croissant and FA cookie working in harmony together. INW Creme brulee and VT Honeycomb are a delicious combo and add a rich,bright caramel/toffee top note and finishes this recipe off in a satisfying way. Do yourself a favour and mix this up but rather than cracking into it at 5days leave it for 2-3 weeks and be transported to vape bliss. Well done Rudi 5 star recipe buddy,thank you for sharing! 👍🏻"
-    },
-    {
-      "user": "Stephan",
-      "score": "5",
-      "text": "Nice one, dude!  When I saw this recipe, I knew it deemed a 30ml tester.   I see this joining my ADV rotation.  UPDATE:  I made a 120ml and after testing after 5 days,  thought, I remember this being so much better, put it back into the steep closet and forgot about it for a couple of weeks.  At day 21, I  tested again and I said, oh there it is.  It went from good to great.  For me, a 5 day steep is almost a sin, but hey, it's DIY and that's only my opinion.    Thanks for kindly sharing your work, sir."
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Very good recipe rich and flavorful. Buttery/creamy with some crunchy like texture "
-    },
-    {
-      "user": "Daytimefrank1",
-      "score": "5",
-      "text": "Excellent mix! Full of mouthfeel, density, and natural sweetness! I've never had the actual pastry but this is a damn good recipe! Steeped 6 days before testing on BTFC dual coil with a build too low to list on a mech so the watts are up there. Mixed a 60ml and will likely mix another 60ml. Thanks for sharing this mix!&#xD;\n"
-    }
-  ]
+    "name": "Honey Slice",
+    "description": "A thick, layered custard slice adorned with honeycomb. \r\n\r\nFILLING\r\nThe filling is comprised of my unfailing 1-2-3 brulee stone with the br\u00fbl\u00e9e knocked down ever so slightly. I have been using this base for a while now & it keeps on delivering.  To me, the is a pre-eminent custard which just works magically here...Thick an d creamy oral pleasure...\r\n\r\nPastry Layer\r\nI recently discovered WF Croissant and very impressed with it's brilliant performance. It manages to encapsulate the delicate croissant pasty notes perfectly and with relative ease. A touch of FA cookie provides a bit of texture to round of the pastry layer.\r\n\r\nVT honeycomb is a remarkable revelation and allows us to mix honey based recipes with confidence. This provides a subtle honey note with a touch of texture to bring this recipe alive! \r\n\r\nGive this baby 5 days to settle...",
+    "id": 149909,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/149909\/IMG_3057.JPG",
+    "updated_at": "2020-12-12T15:40:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Croissant SC",
+            "flavor_id": "9022",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 3000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "RudeRudi",
+    "views": "3036",
+    "created_at": "2019-05-04",
+    "slug": "honey_slice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/149909.JPG",
+    "total_flavoring": "12.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "FuriousMixer",
+            "score": 5,
+            "text": "This is a beautiful little recipe that\u2019s layered to perfection and has great mouthfeel. You even get the buttery pastry notes thanks to WF croissant and FA cookie working in harmony together. INW Creme brulee and VT Honeycomb are a delicious combo and add a rich,bright caramel\/toffee top note and finishes this recipe off in a satisfying way. Do yourself a favour and mix this up but rather than cracking into it at 5days leave it for 2-3 weeks and be transported to vape bliss. Well done Rudi 5 star recipe buddy,thank you for sharing! \ud83d\udc4d\ud83c\udffb"
+        },
+        {
+            "user": "Stephan",
+            "score": 5,
+            "text": "Nice one, dude!  When I saw this recipe, I knew it deemed a 30ml tester.   I see this joining my ADV rotation.  UPDATE:  I made a 120ml and after testing after 5 days,  thought, I remember this being so much better, put it back into the steep closet and forgot about it for a couple of weeks.  At day 21, I  tested again and I said, oh there it is.  It went from good to great.  For me, a 5 day steep is almost a sin, but hey, it's DIY and that's only my opinion.    Thanks for kindly sharing your work, sir."
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Very good recipe rich and flavorful. Buttery\/creamy with some crunchy like texture "
+        },
+        {
+            "user": "Daytimefrank1",
+            "score": 5,
+            "text": "Excellent mix! Full of mouthfeel, density, and natural sweetness! I've never had the actual pastry but this is a damn good recipe! Steeped 6 days before testing on BTFC dual coil with a build too low to list on a mech so the watts are up there. Mixed a 60ml and will likely mix another 60ml. Thanks for sharing this mix!&#xD;\n"
+        }
+    ]
 }

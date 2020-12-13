@@ -1,57 +1,58 @@
 {
-  "name": "Beast Mode",
-  "description": "My inspiration here is Beast Mode by Mum's Elixers. One of my favorite commercial juices\r\n\r\n\r\n-TPA Papaya - I wanted Papaya to be the top note here, and being such a strong flavor, 2% fits the bill. It's a nice almost candy like Papaya flavor\r\n\r\n-TPA Cantaloupe - Helps brighten up and add more tropical notes to the Papaya\r\n\r\n-TPA Pomegrante - Adds a little bit of tartness to the overall flavor\r\n\r\n-TPA Dragonfruit - Used as an emulsifier to blend everything together\r\n\r\n-CAP Super Sweet - Use at your preferred level. \r\n\r\nTested on Citadel with 3.5mm, 0.22Ω, 28ga Badazd Super Flat Quad coil at 55w",
-  "id": 199039,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "220",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "morencyam",
-  "views": "958",
-  "slug": "beast_mode",
-  "total_flavoring": "8.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "5",
-      "text": "Very nice and balanced blend. Bright and juicy! Well done and thanks much. "
-    }
-  ]
+    "name": "Beast Mode",
+    "description": "My inspiration here is Beast Mode by Mum's Elixers. One of my favorite commercial juices\r\n\r\n\r\n-TPA Papaya - I wanted Papaya to be the top note here, and being such a strong flavor, 2% fits the bill. It's a nice almost candy like Papaya flavor\r\n\r\n-TPA Cantaloupe - Helps brighten up and add more tropical notes to the Papaya\r\n\r\n-TPA Pomegrante - Adds a little bit of tartness to the overall flavor\r\n\r\n-TPA Dragonfruit - Used as an emulsifier to blend everything together\r\n\r\n-CAP Super Sweet - Use at your preferred level. \r\n\r\nTested on Citadel with 3.5mm, 0.22\u03a9, 28ga Badazd Super Flat Quad coil at 55w",
+    "id": 199039,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:41:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "220",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "morencyam",
+    "views": "965",
+    "created_at": "2020-06-28",
+    "slug": "beast_mode",
+    "total_flavoring": "8.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 5,
+            "text": "Very nice and balanced blend. Bright and juicy! Well done and thanks much. "
+        }
+    ]
 }

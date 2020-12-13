@@ -1,62 +1,62 @@
 {
-  "name": "LBC Ice Cream Trinity",
-  "description": "Used Nick's Ice Cream Trinity here as the base and added some fruits ontop.\r\n\r\nhttps://alltheflavors.com/recipes/188611#nick_s_ice_cream_trinity_by_nickevz\r\n\r\nSicillian Lemon & Blackcurrant Ice Cream \r\nQuite balanced mb blackcurrant isnt too strong at 5% and allows the lemon to stand out abit aswel as the ice cream",
-  "id": 198689,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/198689/20200625_194006.jpg",
-  "updated_at": "2020-12-07T02:17:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sharp Blackcurrant",
-      "flavor_id": "1520",
-      "millipercent": 5000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Zest",
-      "flavor_id": "4854",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 4500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Milk",
-      "flavor_id": "523",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 750,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BRDZ",
-  "views": "1076",
-  "slug": "lbc_ice_cream_trinity",
-  "total_flavoring": "14.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "LBC Ice Cream Trinity",
+    "description": "Used Nick's Ice Cream Trinity here as the base and added some fruits ontop.\r\n\r\nhttps:\/\/alltheflavors.com\/recipes\/188611#nick_s_ice_cream_trinity_by_nickevz\r\n\r\nSicillian Lemon & Blackcurrant Ice Cream \r\nQuite balanced mb blackcurrant isnt too strong at 5% and allows the lemon to stand out abit aswel as the ice cream",
+    "id": 198689,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/198689\/20200625_194006.jpg",
+    "updated_at": "2020-12-12T14:08:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sharp Blackcurrant",
+            "flavor_id": "1520",
+            "millipercent": 5000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Zest",
+            "flavor_id": "4854",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 4500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Milk",
+            "flavor_id": "523",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 750,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BRDZ",
+    "views": "1088",
+    "created_at": "2020-06-25",
+    "slug": "lbc_ice_cream_trinity",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/198689.jpg",
+    "total_flavoring": "14.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

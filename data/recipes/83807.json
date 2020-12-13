@@ -1,68 +1,68 @@
 {
-  "name": "Apple Milkshake",
-  "description": "First run at an apple milkshake.   Most ingredients are pretty self explanatory. The FE Lemon is used to push the apple up through all of the creams.",
-  "id": 83807,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/83807/apple_milkshake_f.jpg",
-  "updated_at": "2020-12-07T22:32:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fuji Apple",
-      "flavor_id": "8456",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 250,
-      "vendor": "FE"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Almond Cookie SC",
-      "flavor_id": "9013",
-      "millipercent": 1250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "1932",
-  "slug": "apple_milkshake",
-  "total_flavoring": "15.25%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Apple Milkshake",
+    "description": "First run at an apple milkshake.   Most ingredients are pretty self explanatory. The FE Lemon is used to push the apple up through all of the creams.",
+    "id": 83807,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/83807\/apple_milkshake_f.jpg",
+    "updated_at": "2020-12-10T16:00:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fuji Apple",
+            "flavor_id": "8456",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 250,
+            "vendor": "FE"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Almond Cookie SC",
+            "flavor_id": "9013",
+            "millipercent": 1250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "1940",
+    "created_at": "2018-01-15",
+    "slug": "apple_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/83807.jpg",
+    "total_flavoring": "15.25%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

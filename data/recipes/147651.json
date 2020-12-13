@@ -1,51 +1,53 @@
 {
-  "name": "Thanks, Obama v2.0 (VapeWild Murica clone)",
-  "description": "IMPORTANT: CAP Lemon Lime's gravity (g per ml) by default is way above what it should be. If you mix by weight, mix CAP Lemon Lime as 1g = 1ml.\r\n\r\nCAP Super Sweet is optional. \r\n\r\nVapeWild doesn't add cooling, but 2 drops per 30ml of WS-23 works well if you're into that.\r\n\r\nNo steep required, shake and vape!",
-  "id": 147651,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147651/image.jpg",
-  "updated_at": "2020-12-08T00:50:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1200",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cherry Extract",
-      "flavor_id": "222",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "JosefBud",
-  "views": "2341",
-  "slug": "thanks_obama_v20_vapewild_murica_clone",
-  "total_flavoring": "9.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Brewdog_Kilo",
-      "score": "4",
-      "text": "I made this for a friend and he liked it a lot. It took a bit of steeping to get the lime to calm down. I used a little cooling and I think it helped authenticate it for me."
-    }
-  ]
+    "name": "Thanks, Obama v2.0 (VapeWild Murica clone)",
+    "description": "IMPORTANT: CAP Lemon Lime's gravity (g per ml) by default is way above what it should be. If you mix by weight, mix CAP Lemon Lime as 1g = 1ml.\r\n\r\nCAP Super Sweet is optional. \r\n\r\nVapeWild doesn't add cooling, but 2 drops per 30ml of WS-23 works well if you're into that.\r\n\r\nNo steep required, shake and vape!",
+    "id": 147651,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/147651\/image.jpg",
+    "updated_at": "2020-12-12T14:07:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1200",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cherry Extract",
+            "flavor_id": "222",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "JosefBud",
+    "views": "2353",
+    "created_at": "2019-04-18",
+    "slug": "thanks_obama_v20_vapewild_murica_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/147651.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Brewdog_Kilo",
+            "score": 4,
+            "text": "I made this for a friend and he liked it a lot. It took a bit of steeping to get the lime to calm down. I used a little cooling and I think it helped authenticate it for me."
+        }
+    ]
 }

@@ -1,69 +1,70 @@
 {
-  "name": "Sweet Leaf",
-  "description": "Sweetly vanilla and a strong true cigar flavor.",
-  "id": 4672,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Vurve",
-  "views": "5019",
-  "slug": "sweet_leaf",
-  "total_flavoring": "5.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 7,
-  "recipe_score": 4.7,
-  "reviews": [
-    {
-      "user": "Roedin",
-      "score": "5",
-      "text": "My first introduction to diy bacco ejuice. It has completely changed my perspective on tobaccos and how simple and so delicious it can be. I’ve looked forward to mornings vaping this while drinking my morning coffee and is something I keep regularly in my mtl rtas. "
-    },
-    {
-      "user": "hamglaze",
-      "score": "4",
-      "text": "This is very solid, nothing complex from the profile but it absolutely delivers on being a pleasant vape."
-    },
-    {
-      "user": "nowar",
-      "score": "4",
-      "text": "A simple tobacco recipe that is really quite good. I've mixed a few 30's of this. If you want an easily palatable snv tobacco this is a good one."
-    },
-    {
-      "user": "Deschain",
-      "score": "5",
-      "text": "Simple but very good recipe. As DataNotAnecdotes himeself has pointed out, it's a good base to build upon and experiment, even though I haven't done so myself yet, I'm thinking cherry. Either way, the recipe stands very well on its own. &#xD;\n&#xD;\nFor the record, I would recommend at least a week of steeping myself, preferably 2. "
-    },
-    {
-      "user": "KillaCoDe",
-      "score": "5",
-      "text": "Freaking amazing tobacco! Especially for someone new to tobacco's, its a great way to get to know one of the best tobacco flavors on the market!"
-    },
-    {
-      "user": "crisk",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "DataNotAnecdotes",
-      "score": "5",
-      "text": "I'm not a tobacco vapor, but I absolutely adore this recipe. It's not only an amazing on its' own, but it's a fantastic base for other tobacco recipes. I've added fruits, nuts, all sorts of flavors to it, and it's just absolutely fabulous. It's good enough that I posted a copy of it, until Vurve uploaded it himself."
-    }
-  ]
+    "name": "Sweet Leaf",
+    "description": "Sweetly vanilla and a strong true cigar flavor.",
+    "id": 4672,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Vurve",
+    "views": "5036",
+    "created_at": "2016-06-05",
+    "slug": "sweet_leaf",
+    "total_flavoring": "5.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 7,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Roedin",
+            "score": 5,
+            "text": "My first introduction to diy bacco ejuice. It has completely changed my perspective on tobaccos and how simple and so delicious it can be. I\u2019ve looked forward to mornings vaping this while drinking my morning coffee and is something I keep regularly in my mtl rtas. "
+        },
+        {
+            "user": "hamglaze",
+            "score": 4,
+            "text": "This is very solid, nothing complex from the profile but it absolutely delivers on being a pleasant vape."
+        },
+        {
+            "user": "nowar",
+            "score": 4,
+            "text": "A simple tobacco recipe that is really quite good. I've mixed a few 30's of this. If you want an easily palatable snv tobacco this is a good one."
+        },
+        {
+            "user": "Deschain",
+            "score": 5,
+            "text": "Simple but very good recipe. As DataNotAnecdotes himeself has pointed out, it's a good base to build upon and experiment, even though I haven't done so myself yet, I'm thinking cherry. Either way, the recipe stands very well on its own. &#xD;\n&#xD;\nFor the record, I would recommend at least a week of steeping myself, preferably 2. "
+        },
+        {
+            "user": "KillaCoDe",
+            "score": 5,
+            "text": "Freaking amazing tobacco! Especially for someone new to tobacco's, its a great way to get to know one of the best tobacco flavors on the market!"
+        },
+        {
+            "user": "crisk",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "DataNotAnecdotes",
+            "score": 5,
+            "text": "I'm not a tobacco vapor, but I absolutely adore this recipe. It's not only an amazing on its' own, but it's a fantastic base for other tobacco recipes. I've added fruits, nuts, all sorts of flavors to it, and it's just absolutely fabulous. It's good enough that I posted a copy of it, until Vurve uploaded it himself."
+        }
+    ]
 }

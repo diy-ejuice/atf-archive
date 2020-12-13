@@ -1,62 +1,62 @@
 {
-  "name": "The Red Green",
-  "description": "A sweet and tart mix of ripe Strawberries, Kiwi, juicy Watermelon. Feel free to comment about any suggestions and criticism.",
-  "id": 67377,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/67377/-395911_ORIGINAL.jpg",
-  "updated_at": "2020-12-08T00:49:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tart and Sour",
-      "flavor_id": "2520",
-      "millipercent": 300,
-      "vendor": "LA"
-    }
-  ],
-  "author": "Krimble",
-  "views": "1100",
-  "slug": "the_red_green",
-  "total_flavoring": "11.35%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Red Green",
+    "description": "A sweet and tart mix of ripe Strawberries, Kiwi, juicy Watermelon. Feel free to comment about any suggestions and criticism.",
+    "id": 67377,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/67377\/-395911_ORIGINAL.jpg",
+    "updated_at": "2020-12-10T14:52:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tart and Sour",
+            "flavor_id": "2520",
+            "millipercent": 300,
+            "vendor": "LA"
+        }
+    ],
+    "author": "Krimble",
+    "views": "1104",
+    "created_at": "2017-10-08",
+    "slug": "the_red_green",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/67377.jpg",
+    "total_flavoring": "11.35%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

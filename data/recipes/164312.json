@@ -1,50 +1,49 @@
 {
-  "name": "Berry Crunch",
-  "description": "My attempt at a captain crunch flavor. it is close but not quite there",
-  "id": 164312,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:45:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream ",
-      "flavor_id": "9951",
-      "millipercent": 4500,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1600,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 3700,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1700,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 5900,
-      "vendor": "FW"
-    }
-  ],
-  "author": "kenny61",
-  "views": "682",
-  "slug": "berry_crunch",
-  "total_flavoring": "17.4%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Crunch",
+    "description": "My attempt at a captain crunch flavor. it is close but not quite there",
+    "id": 164312,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream ",
+            "flavor_id": "9951",
+            "millipercent": 4500,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1600,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 3700,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1700,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 5900,
+            "vendor": "FW"
+        }
+    ],
+    "author": "kenny61",
+    "views": "690",
+    "created_at": "2019-08-24",
+    "slug": "berry_crunch",
+    "total_flavoring": "17.4%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

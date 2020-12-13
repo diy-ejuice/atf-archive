@@ -1,44 +1,44 @@
 {
-  "name": "Leecheeri fluff",
-  "description": "A nice tropical fruit blend in light whipped cream. This is a very unique blend that will keep your taste buds intrigued.",
-  "id": 50853,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/50853/leecheeri_fluff.png",
-  "updated_at": "2020-12-06T10:37:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cherimoya",
-      "flavor_id": "4434",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lychee",
-      "flavor_id": "628",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "1615",
-  "slug": "leecheeri_fluff",
-  "total_flavoring": "5.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Leecheeri fluff",
+    "description": "A nice tropical fruit blend in light whipped cream. This is a very unique blend that will keep your taste buds intrigued.",
+    "id": 50853,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/50853\/leecheeri_fluff.png",
+    "updated_at": "2020-12-10T17:56:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cherimoya",
+            "flavor_id": "4434",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lychee",
+            "flavor_id": "628",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "1620",
+    "created_at": "2017-06-15",
+    "slug": "leecheeri_fluff",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/50853.png",
+    "total_flavoring": "5.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

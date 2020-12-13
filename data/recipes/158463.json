@@ -1,50 +1,50 @@
 {
-  "name": "mlNikon's Pink Cake",
-  "description": "I chose WF Princess Cake as the main note here because it has a delightful fruity cake note and used a touch of FA Forest Fruit to deepen the berry note. Norwegian Ring Cake is used to supplement the cake note and give it a darker richer crust. Cap Vanilla Cupcake and Cap Vanilla Whipped Cream is used for the frosting of the cake.",
-  "id": 158463,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158463/pinkcake2.png",
-  "updated_at": "2020-12-07T02:17:14.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Norwegian Ring Cake",
-      "flavor_id": "1866",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Princess Cake SC",
-      "flavor_id": "9038",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "959",
-  "slug": "mlnikons_pink_cake",
-  "total_flavoring": "7.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Pink Cake",
+    "description": "I chose WF Princess Cake as the main note here because it has a delightful fruity cake note and used a touch of FA Forest Fruit to deepen the berry note. Norwegian Ring Cake is used to supplement the cake note and give it a darker richer crust. Cap Vanilla Cupcake and Cap Vanilla Whipped Cream is used for the frosting of the cake.",
+    "id": 158463,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/158463\/pinkcake2.png",
+    "updated_at": "2020-12-10T13:46:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Norwegian Ring Cake",
+            "flavor_id": "1866",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Princess Cake SC",
+            "flavor_id": "9038",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "963",
+    "created_at": "2019-07-07",
+    "slug": "mlnikons_pink_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/158463.png",
+    "total_flavoring": "7.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

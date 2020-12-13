@@ -1,38 +1,38 @@
 {
-  "name": "Grahamercy",
-  "description": "This is my first shared recipe. Simple, delicious Graham paired with creamy butterscotch. I've tried it DL and MTL and enjoyed it both ways.Image changed, still created by me",
-  "id": 147967,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/147967/PSX_20191207_153336.jpg",
-  "updated_at": "2020-12-07T17:35:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "CatoSpeakeasy",
-  "views": "1086",
-  "slug": "grahamercy",
-  "total_flavoring": "6.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "75%",
-  "temperature": "410",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grahamercy",
+    "description": "This is my first shared recipe. Simple, delicious Graham paired with creamy butterscotch. I've tried it DL and MTL and enjoyed it both ways.Image changed, still created by me",
+    "id": 147967,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/147967\/PSX_20191207_153336.jpg",
+    "updated_at": "2020-12-11T22:45:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "CatoSpeakeasy",
+    "views": "1092",
+    "created_at": "2019-04-20",
+    "slug": "grahamercy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/147967.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "75%",
+    "temperature": "410"
 }

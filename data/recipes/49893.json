@@ -1,56 +1,55 @@
 {
-  "name": "Grape Little Leaguers Gum",
-  "description": "this is a simple and easy remix of the grape big league chew we all group up loving as a little kid",
-  "id": 49893,
-  "image_url": null,
-  "updated_at": "2020-12-07T09:26:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "21",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "64",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Powdered Sugar",
-      "flavor_id": "6522",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1653",
-  "slug": "grape_little_leaguers_gum",
-  "total_flavoring": "14.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grape Little Leaguers Gum",
+    "description": "this is a simple and easy remix of the grape big league chew we all group up loving as a little kid",
+    "id": 49893,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "21",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "64",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Powdered Sugar",
+            "flavor_id": "6522",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1657",
+    "created_at": "2017-06-09",
+    "slug": "grape_little_leaguers_gum",
+    "total_flavoring": "14.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95"
 }

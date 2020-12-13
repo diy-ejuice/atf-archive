@@ -1,38 +1,38 @@
 {
-  "name": "Philippine Mango Cream",
-  "description": "Tasty Philippine Mango and sweet creamy goodness...",
-  "id": 12445,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12445/small-20161121-13160-1b0kgqt.jpg",
-  "updated_at": "2020-12-05T09:50:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "KylezKloudz",
-  "views": "2923",
-  "slug": "philippine_mango_cream",
-  "total_flavoring": "15.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Philippine Mango Cream",
+    "description": "Tasty Philippine Mango and sweet creamy goodness...",
+    "id": 12445,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12445\/small-20161121-13160-1b0kgqt.jpg",
+    "updated_at": "2020-12-11T16:19:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "KylezKloudz",
+    "views": "2938",
+    "created_at": "2016-09-03",
+    "slug": "philippine_mango_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12445.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

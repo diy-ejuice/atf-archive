@@ -1,50 +1,50 @@
 {
-  "name": "Very Berry Cream",
-  "description": "It's heavy. It's creamy. The berry is on point.",
-  "id": 196694,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196694/StrawberryCorg__2_.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "2662",
-      "millipercent": 250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Vurve",
-  "views": "880",
-  "slug": "very_berry_cream",
-  "total_flavoring": "7.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Very Berry Cream",
+    "description": "It's heavy. It's creamy. The berry is on point.",
+    "id": 196694,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196694\/StrawberryCorg__2_.jpg",
+    "updated_at": "2020-12-12T10:16:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "2662",
+            "millipercent": 250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Vurve",
+    "views": "888",
+    "created_at": "2020-06-05",
+    "slug": "very_berry_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196694.jpg",
+    "total_flavoring": "7.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

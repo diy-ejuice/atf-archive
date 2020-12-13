@@ -1,62 +1,62 @@
 {
-  "name": "Danish apple pie ",
-  "description": "The dragon fruit helps out the fuji apple to become a apple filling.\r\nThe cinnamon danish swirl becomes part of the base and adds a cinnamon tast to the mix complimenting the apple and bakerie notes. \r\nThe biscuit and Graham cracker turn the danish swirl into a crust.\r\nAfter mixing ID10-t apple danish swirl that was pritty good i decided to turn it into a apple pie.",
-  "id": 101041,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101041/0714GT-masterclass-apple-pie-sweet-pastry.jpg",
-  "updated_at": "2020-12-05T23:52:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker V2",
-      "flavor_id": "63",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Benoz",
-  "views": "1717",
-  "slug": "danish_apple_pie",
-  "total_flavoring": "15.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Danish apple pie ",
+    "description": "The dragon fruit helps out the fuji apple to become a apple filling.\r\nThe cinnamon danish swirl becomes part of the base and adds a cinnamon tast to the mix complimenting the apple and bakerie notes. \r\nThe biscuit and Graham cracker turn the danish swirl into a crust.\r\nAfter mixing ID10-t apple danish swirl that was pritty good i decided to turn it into a apple pie.",
+    "id": 101041,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101041\/0714GT-masterclass-apple-pie-sweet-pastry.jpg",
+    "updated_at": "2020-12-11T01:35:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker V2",
+            "flavor_id": "63",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Benoz",
+    "views": "1725",
+    "created_at": "2018-05-14",
+    "slug": "danish_apple_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101041.jpg",
+    "total_flavoring": "15.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

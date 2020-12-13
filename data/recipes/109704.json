@@ -1,63 +1,65 @@
 {
-  "name": "Smooth Energy ",
-  "description": "This Blueberry/Strawberry Smoothie vape,will help  power you through your day. On 1st taste you get the fruits and a sweet creaminess and alil tart pop at the end.",
-  "id": 109704,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/109704/SmartSelect_20180710-194808_Chrome.jpg",
-  "updated_at": "2020-12-07T20:32:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 2250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1830",
-  "slug": "smooth_energy",
-  "total_flavoring": "10.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "Benoz",
-      "score": "3",
-      "text": "thanks for sharing dank1 i know you worked hard on this one and yogurt isn't your forte but i think the yogurt is pretty good in this all tho in my opinion the fruits arn't quite right i am getting a duller fruit than what i might like in this mix but think some bilberry would have been great in this and maybe some other cream but i know you had to stick to the rules of 6 flavours and i am sure if you had more room to move this would have been awesome. thanks again and keep up the good work. "
-    }
-  ]
+    "name": "Smooth Energy ",
+    "description": "This Blueberry\/Strawberry Smoothie vape,will help  power you through your day. On 1st taste you get the fruits and a sweet creaminess and alil tart pop at the end.",
+    "id": 109704,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/109704\/SmartSelect_20180710-194808_Chrome.jpg",
+    "updated_at": "2020-12-10T19:00:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 2250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1836",
+    "created_at": "2018-07-10",
+    "slug": "smooth_energy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/109704.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "Benoz",
+            "score": 3,
+            "text": "thanks for sharing dank1 i know you worked hard on this one and yogurt isn't your forte but i think the yogurt is pretty good in this all tho in my opinion the fruits arn't quite right i am getting a duller fruit than what i might like in this mix but think some bilberry would have been great in this and maybe some other cream but i know you had to stick to the rules of 6 flavours and i am sure if you had more room to move this would have been awesome. thanks again and keep up the good work. "
+        }
+    ]
 }

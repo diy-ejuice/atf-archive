@@ -1,62 +1,64 @@
 {
-  "name": "Koy Hole (Kinako Soy Donut)",
-  "description": "A cinnamon sugar donut with a dusting of Kinako Soy Powder.\r\n\r\nYou get a lovely dried peanut powder flavor from the kinako soy, the avacado adds a lovely creamy/fatty mouth feel that actually goes quite nicely with the grittiness from the kinako soy.\r\n\r\nDonut base is a donut base.",
-  "id": 92795,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92795/4184937860_fa79002ca0.jpg",
-  "updated_at": "2020-12-08T00:50:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kinako soy",
-      "flavor_id": "9379",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pound Cake",
-      "flavor_id": "4306",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Avocado",
-      "flavor_id": "9380",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cinnamon Crunch",
-      "flavor_id": "611",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "3033",
-  "slug": "koy_hole_kinako_soy_donut",
-  "total_flavoring": "7.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Seef",
-      "score": "5",
-      "text": "We need more of these asian flavours. This one is very tasty. Not is doughy as I expected, but a very fulfilling vape. "
-    },
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "Fresh, this is such a unique and tasty recipe! I was a little concerned with the avocado in there but this turned out superb. It hasn't even steeped yet so I bet it will be even better once it has. Good Job!"
-    }
-  ]
+    "name": "Koy Hole (Kinako Soy Donut)",
+    "description": "A cinnamon sugar donut with a dusting of Kinako Soy Powder.\r\n\r\nYou get a lovely dried peanut powder flavor from the kinako soy, the avacado adds a lovely creamy\/fatty mouth feel that actually goes quite nicely with the grittiness from the kinako soy.\r\n\r\nDonut base is a donut base.",
+    "id": 92795,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92795\/4184937860_fa79002ca0.jpg",
+    "updated_at": "2020-12-12T11:51:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kinako soy",
+            "flavor_id": "9379",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pound Cake",
+            "flavor_id": "4306",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Avocado",
+            "flavor_id": "9380",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cinnamon Crunch",
+            "flavor_id": "611",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "3040",
+    "created_at": "2018-03-17",
+    "slug": "koy_hole_kinako_soy_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92795.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Seef",
+            "score": 5,
+            "text": "We need more of these asian flavours. This one is very tasty. Not is doughy as I expected, but a very fulfilling vape. "
+        },
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "Fresh, this is such a unique and tasty recipe! I was a little concerned with the avocado in there but this turned out superb. It hasn't even steeped yet so I bet it will be even better once it has. Good Job!"
+        }
+    ]
 }

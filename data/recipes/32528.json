@@ -1,69 +1,71 @@
 {
-  "name": "Buttercream \"Maybe\"",
-  "description": "Creamy deliciousness. I made this one on a whim, For my wife. She loves it.",
-  "id": 32528,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/32528/small-20170414-11497-4ujskf.jpg",
-  "updated_at": "2020-12-08T00:49:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Moggle33",
-  "views": "1614",
-  "slug": "buttercream_maybe",
-  "total_flavoring": "10.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Mindbugs",
-      "score": "4",
-      "text": "Tastes good off the shake. Just the kind of light and bright vanilla I've been craving. Thanks for sharing!"
-    }
-  ]
+    "name": "Buttercream \"Maybe\"",
+    "description": "Creamy deliciousness. I made this one on a whim, For my wife. She loves it.",
+    "id": 32528,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/32528\/small-20170414-11497-4ujskf.jpg",
+    "updated_at": "2020-12-12T20:28:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Moggle33",
+    "views": "1622",
+    "created_at": "2017-02-17",
+    "slug": "buttercream_maybe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/32528.jpg",
+    "total_flavoring": "10.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Mindbugs",
+            "score": 4,
+            "text": "Tastes good off the shake. Just the kind of light and bright vanilla I've been craving. Thanks for sharing!"
+        }
+    ]
 }

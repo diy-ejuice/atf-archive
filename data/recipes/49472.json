@@ -1,67 +1,69 @@
 {
-  "name": "TFA Grape Juice (FlavorBook Entry Recipe)",
-  "description": "A vivid and pleasant Grape Juice recipe\r\nRecipe made for TFA Grape Juice FlavorBook entry \r\n-> http://diyordievaping.com/2017/06/06/tfa-grape-juice/",
-  "id": 49472,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/49472/flavorbook-ATF.jpg",
-  "updated_at": "2020-12-08T00:49:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Juice",
-      "flavor_id": "231",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "947",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "7536",
-  "slug": "tfa_grape_juice_flavorbook_entry_recipe",
-  "total_flavoring": "11.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "dwinans",
-      "score": "5",
-      "text": "If you are looking for a grape juice type vape, look no further.  I just vaped 60ml of this in a week and made up another 60.  This is going into my rotation for sure. "
-    },
-    {
-      "user": "sampleit",
-      "score": "none",
-      "text": "Samurichickon Does the LA grape have colouring in it? "
-    },
-    {
-      "user": "samuraichick0n",
-      "score": "none",
-      "text": "I just mixed this up, is it supposed to be a really dark purple? "
-    }
-  ]
+    "name": "TFA Grape Juice (FlavorBook Entry Recipe)",
+    "description": "A vivid and pleasant Grape Juice recipe\r\nRecipe made for TFA Grape Juice FlavorBook entry \r\n-> http:\/\/diyordievaping.com\/2017\/06\/06\/tfa-grape-juice\/",
+    "id": 49472,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/49472\/flavorbook-ATF.jpg",
+    "updated_at": "2020-12-12T15:39:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Juice",
+            "flavor_id": "231",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "947",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "7542",
+    "created_at": "2017-06-06",
+    "slug": "tfa_grape_juice_flavorbook_entry_recipe",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/49472.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "dwinans",
+            "score": 5,
+            "text": "If you are looking for a grape juice type vape, look no further.  I just vaped 60ml of this in a week and made up another 60.  This is going into my rotation for sure. "
+        },
+        {
+            "user": "sampleit",
+            "score": 0,
+            "text": "Samurichickon Does the LA grape have colouring in it? "
+        },
+        {
+            "user": "samuraichick0n",
+            "score": 0,
+            "text": "I just mixed this up, is it supposed to be a really dark purple? "
+        }
+    ]
 }

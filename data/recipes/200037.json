@@ -1,63 +1,65 @@
 {
-  "name": "Hippo Sauce",
-  "description": "Alright Alright Alright... where’ve I been? Well... creating this of course :) \r\n\r\nStrawberry Custard Cream - The Best Yet 😏\r\n\r\nThis is a strawberry cream swirled in vanilla custard.\r\n\r\nThe strawberry element comes from VT strawberry milk and WF juicy, the strawberry milk runs through the back while the juicy just pops the strawberry helping out the non strawberry tasters, I don’t usually have a problem tasting strawberries but when you have like 40+ mixes all strawberry and cream you can’t help but get muted, anyway, legendary custard is a bit of both as far as the cream and Custard aspect goes, it’s rich but at the same time so creamy that you can’t really decipher where it sits so I had to use it here, it also sits separate from the FA premium which I’ve used here as the custard element... the sugar cookie blends into the custard also helping decipher between the custard and the cream element, it doesn’t really matter what job it does though because let’s be fair, it’s me and I love sugar cookie 😏 I have 3 strawberry and cream/milk/custard recipes pretty much ready to be released but this ones really ticking the boxes for me today so it gets released first, Is it the best? You decide! I’ve got balls but I haven’t got the balls to claim this is the be all and end all of all strawberry cream profiles... is it good though? Hell yeah.\r\n\r\nIf you like this recipe and what I do then please rate and review accordingly.\r\n\r\n*disclaimer - I am not responsible for any flavours being out of stock if you choose to try and go shopping for these concentrates 😆*",
-  "id": 200037,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/200037/0FEDEC06-A3BA-420C-B13E-16DBB5C521F7.png",
-  "updated_at": "2020-12-08T00:51:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Legendary Custard",
-      "flavor_id": "10388",
-      "millipercent": 5000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 3750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (Juicy) SC",
-      "flavor_id": "10412",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Milk",
-      "flavor_id": "8977",
-      "millipercent": 3000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "2768",
-  "slug": "hippo_sauce",
-  "total_flavoring": "15.0%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BRDZ",
-      "score": "5",
-      "text": "So finally cracked this open. Been wanting to try this since its release and well yeah... &#xD;\nA fantastic mix by nick. I ended up subbing for MB's strawberry milk but this is a great strawberry with a thick dairy milky mid note that rides throughout with lovely lashings of vanilla. &#xD;\nCheers nick, this ones staying in rotation buddy. Might be worth making this a oneshot 👊👊👊👊"
-    }
-  ]
+    "name": "Hippo Sauce",
+    "description": "Alright Alright Alright... where\u2019ve I been? Well... creating this of course :) \r\n\r\nStrawberry Custard Cream - The Best Yet \ud83d\ude0f\r\n\r\nThis is a strawberry cream swirled in vanilla custard.\r\n\r\nThe strawberry element comes from VT strawberry milk and WF juicy, the strawberry milk runs through the back while the juicy just pops the strawberry helping out the non strawberry tasters, I don\u2019t usually have a problem tasting strawberries but when you have like 40+ mixes all strawberry and cream you can\u2019t help but get muted, anyway, legendary custard is a bit of both as far as the cream and Custard aspect goes, it\u2019s rich but at the same time so creamy that you can\u2019t really decipher where it sits so I had to use it here, it also sits separate from the FA premium which I\u2019ve used here as the custard element... the sugar cookie blends into the custard also helping decipher between the custard and the cream element, it doesn\u2019t really matter what job it does though because let\u2019s be fair, it\u2019s me and I love sugar cookie \ud83d\ude0f I have 3 strawberry and cream\/milk\/custard recipes pretty much ready to be released but this ones really ticking the boxes for me today so it gets released first, Is it the best? You decide! I\u2019ve got balls but I haven\u2019t got the balls to claim this is the be all and end all of all strawberry cream profiles... is it good though? Hell yeah.\r\n\r\nIf you like this recipe and what I do then please rate and review accordingly.\r\n\r\n*disclaimer - I am not responsible for any flavours being out of stock if you choose to try and go shopping for these concentrates \ud83d\ude06*",
+    "id": 200037,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/200037\/0FEDEC06-A3BA-420C-B13E-16DBB5C521F7.png",
+    "updated_at": "2020-12-12T17:13:24.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Legendary Custard",
+            "flavor_id": "10388",
+            "millipercent": 5000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 3750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (Juicy) SC",
+            "flavor_id": "10412",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Milk",
+            "flavor_id": "8977",
+            "millipercent": 3000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "2777",
+    "created_at": "2020-07-09",
+    "slug": "hippo_sauce",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/200037.png",
+    "total_flavoring": "15.0%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BRDZ",
+            "score": 5,
+            "text": "So finally cracked this open. Been wanting to try this since its release and well yeah... &#xD;\nA fantastic mix by nick. I ended up subbing for MB's strawberry milk but this is a great strawberry with a thick dairy milky mid note that rides throughout with lovely lashings of vanilla. &#xD;\nCheers nick, this ones staying in rotation buddy. Might be worth making this a oneshot \ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a"
+        }
+    ]
 }

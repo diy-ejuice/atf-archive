@@ -1,68 +1,68 @@
 {
-  "name": "Alfajores",
-  "description": "Spanish traditional cookie filled with peach marmalade. Super Sweet is optional. I will post more versions of Alfajores with Dulce de leche and with chocolate. ",
-  "id": 93711,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/93711/alfajores.jpg",
-  "updated_at": "2020-12-07T02:16:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "English Marmalade",
-      "flavor_id": "8872",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Blueberry Jam",
-      "flavor_id": "18",
-      "millipercent": 100,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yellow Peach",
-      "flavor_id": "135",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Alx86",
-  "views": "1084",
-  "slug": "alfajores",
-  "total_flavoring": "6.9%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Alfajores",
+    "description": "Spanish traditional cookie filled with peach marmalade. Super Sweet is optional. I will post more versions of Alfajores with Dulce de leche and with chocolate. ",
+    "id": 93711,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/93711\/alfajores.jpg",
+    "updated_at": "2020-12-10T17:57:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "English Marmalade",
+            "flavor_id": "8872",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Blueberry Jam",
+            "flavor_id": "18",
+            "millipercent": 100,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yellow Peach",
+            "flavor_id": "135",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Alx86",
+    "views": "1091",
+    "created_at": "2018-03-23",
+    "slug": "alfajores",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/93711.jpg",
+    "total_flavoring": "6.9%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

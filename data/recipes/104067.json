@@ -1,56 +1,56 @@
 {
-  "name": "Cereally Delicious",
-  "description": "Inspired by Folkarts boss reserve clone, I really enjoyed that recipe and thought it would be nice with berries instead of bananas. I'm really new to mixing so I would love some feedback.\r\n",
-  "id": 104067,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104067/38e724e9c6e75fc8_cereal.jpg",
-  "updated_at": "2020-12-07T00:07:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "CkoAU",
-  "views": "1472",
-  "slug": "cereally_delicious",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cereally Delicious",
+    "description": "Inspired by Folkarts boss reserve clone, I really enjoyed that recipe and thought it would be nice with berries instead of bananas. I'm really new to mixing so I would love some feedback.\r\n",
+    "id": 104067,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104067\/38e724e9c6e75fc8_cereal.jpg",
+    "updated_at": "2020-12-10T13:45:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "CkoAU",
+    "views": "1481",
+    "created_at": "2018-06-03",
+    "slug": "cereally_delicious",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104067.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

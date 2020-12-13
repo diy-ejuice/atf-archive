@@ -1,38 +1,38 @@
 {
-  "name": "Yogurt Base",
-  "description": "I finally got the yogurt base I had been looking for since I started mixing! This can be used to add anything you want with it.",
-  "id": 190289,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190289/yogurt.jfif",
-  "updated_at": "2020-12-08T00:51:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Frozen Yogurt SC",
-      "flavor_id": "8369",
-      "millipercent": 4000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "173",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "LeDiyBR",
-  "views": "605",
-  "slug": "yogurt_base",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Yogurt Base",
+    "description": "I finally got the yogurt base I had been looking for since I started mixing! This can be used to add anything you want with it.",
+    "id": 190289,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190289\/yogurt.jfif",
+    "updated_at": "2020-12-12T01:42:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Frozen Yogurt SC",
+            "flavor_id": "8369",
+            "millipercent": 4000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "173",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "LeDiyBR",
+    "views": "611",
+    "created_at": "2020-04-05",
+    "slug": "yogurt_base",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190289.jfif",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

@@ -1,75 +1,76 @@
 {
-  "name": "coffee clouds",
-  "description": "coffe clouds recipe for wolfgang, learning the ways of the vape",
-  "id": 203065,
-  "image_url": null,
-  "updated_at": "2020-12-07T19:16:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Brazilian Coffee SC",
-      "flavor_id": "9016",
-      "millipercent": 750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Caramel Coffee with Sweet Milk",
-      "flavor_id": "7748",
-      "millipercent": 4000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Double Chocolate V2",
-      "flavor_id": "47",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nilla Wafer with Milk",
-      "flavor_id": "7773",
-      "millipercent": 2000,
-      "vendor": "PUR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Aech0ne",
-  "views": "372",
-  "slug": "coffee_clouds",
-  "total_flavoring": "9.2%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "none",
-      "text": "I mixed this up a couple of weeks ago after seeing the original recipe pack on flavour world. How long's the steep on this one? I'm yet to try it but it sounds good"
-    }
-  ]
+    "name": "coffee clouds",
+    "description": "coffe clouds recipe for wolfgang, learning the ways of the vape",
+    "id": 203065,
+    "image_url": null,
+    "updated_at": "2020-12-12T15:41:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Brazilian Coffee SC",
+            "flavor_id": "9016",
+            "millipercent": 750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Caramel Coffee with Sweet Milk",
+            "flavor_id": "7748",
+            "millipercent": 4000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Double Chocolate V2",
+            "flavor_id": "47",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nilla Wafer with Milk",
+            "flavor_id": "7773",
+            "millipercent": 2000,
+            "vendor": "PUR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Aech0ne",
+    "views": "380",
+    "created_at": "2020-08-12",
+    "slug": "coffee_clouds",
+    "total_flavoring": "9.2%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 0,
+            "text": "I mixed this up a couple of weeks ago after seeing the original recipe pack on flavour world. How long's the steep on this one? I'm yet to try it but it sounds good"
+        }
+    ]
 }

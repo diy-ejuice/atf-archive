@@ -1,50 +1,49 @@
 {
-  "name": "Rin's Strawberry Sandwhich Puff",
-  "description": "I used cream puff as part of the outer cake portion of the \"sandwhich\" and to add to the cream note. Norwegian cake adds an almond cake type note and adds density. Custard premium is the inner rich rich center. Red Touch boosts the strawberry of the Sweet strawberry without adding a ton of sweetness (aka muting). ",
-  "id": 157634,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:51:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Norwegian Ring Cake",
-      "flavor_id": "1866",
-      "millipercent": 1000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cream Puff SC",
-      "flavor_id": "10109",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "10286",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "803",
-  "slug": "rins_strawberry_sandwhich_puff",
-  "total_flavoring": "4.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Strawberry Sandwhich Puff",
+    "description": "I used cream puff as part of the outer cake portion of the \"sandwhich\" and to add to the cream note. Norwegian cake adds an almond cake type note and adds density. Custard premium is the inner rich rich center. Red Touch boosts the strawberry of the Sweet strawberry without adding a ton of sweetness (aka muting). ",
+    "id": 157634,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:05:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Norwegian Ring Cake",
+            "flavor_id": "1866",
+            "millipercent": 1000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cream Puff SC",
+            "flavor_id": "10109",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "10286",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "808",
+    "created_at": "2019-06-30",
+    "slug": "rins_strawberry_sandwhich_puff",
+    "total_flavoring": "4.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

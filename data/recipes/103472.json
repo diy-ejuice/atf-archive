@@ -1,68 +1,68 @@
 {
-  "name": "CapitanBerry",
-  "description": "Crunch BERRY  desert with strawberry syrup drizzled on top.\r\nDelicious and creamy dessert/cereal cape.",
-  "id": 103472,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103472/Capn-Crunch-Berry-featured-1-1.jpeg",
-  "updated_at": "2020-12-07T15:21:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry Jam with Toast",
-      "flavor_id": "9143",
-      "millipercent": 1000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2500,
-      "vendor": "FW"
-    }
-  ],
-  "author": "BebopGear",
-  "views": "1420",
-  "slug": "capitanberry",
-  "total_flavoring": "13.25%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "CapitanBerry",
+    "description": "Crunch BERRY  desert with strawberry syrup drizzled on top.\r\nDelicious and creamy dessert\/cereal cape.",
+    "id": 103472,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/103472\/Capn-Crunch-Berry-featured-1-1.jpeg",
+    "updated_at": "2020-12-10T13:45:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry Jam with Toast",
+            "flavor_id": "9143",
+            "millipercent": 1000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2500,
+            "vendor": "FW"
+        }
+    ],
+    "author": "BebopGear",
+    "views": "1430",
+    "created_at": "2018-05-31",
+    "slug": "capitanberry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/103472.jpeg",
+    "total_flavoring": "13.25%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0"
 }

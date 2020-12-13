@@ -1,56 +1,56 @@
 {
-  "name": "The Darkness",
-  "description": "Dark berries & cream is the flavor profile. 0.25-0.50% of your favorite sweetener of choice is optional. I personally like it better without the sweetener. \r\n\r\nTested on Skyfall rda with 0.2 ohm Alien. Recommend minimum 3-5 day steep. ",
-  "id": 202575,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202575/5930C29C-3CC9-43B2-A471-9DF26D4EB49F.jpeg",
-  "updated_at": "2020-12-08T00:51:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Boysenberry Raspberry SC",
-      "flavor_id": "10255",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Creamy Yogurt",
-      "flavor_id": "5",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Jammy Berry",
-      "flavor_id": "10150",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Ebc88",
-  "views": "528",
-  "slug": "the_darkness",
-  "total_flavoring": "7.75%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "399",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "The Darkness",
+    "description": "Dark berries & cream is the flavor profile. 0.25-0.50% of your favorite sweetener of choice is optional. I personally like it better without the sweetener. \r\n\r\nTested on Skyfall rda with 0.2 ohm Alien. Recommend minimum 3-5 day steep. ",
+    "id": 202575,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202575\/5930C29C-3CC9-43B2-A471-9DF26D4EB49F.jpeg",
+    "updated_at": "2020-12-12T08:15:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Boysenberry Raspberry SC",
+            "flavor_id": "10255",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Creamy Yogurt",
+            "flavor_id": "5",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Jammy Berry",
+            "flavor_id": "10150",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Ebc88",
+    "views": "544",
+    "created_at": "2020-08-06",
+    "slug": "the_darkness",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202575.jpeg",
+    "total_flavoring": "7.75%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "399"
 }

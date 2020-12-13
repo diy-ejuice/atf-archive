@@ -1,80 +1,82 @@
 {
-  "name": "Raspberry Cheesecake",
-  "description": "This is one recipe that I always keep a 120 in stock. A creamy, thick raspberry cheesecake! My favorite cheesecake recipe to date! I love the way LA cream cheese icing blends into the Cap NY cheesecake and it's something I've been adding to a lot of my cheesecake recipes. It really makes the ny cheesecake stand out against the raspberry combo. I use INW Raspberry and TFA Raspberry sweet together in a lot of my raspberry recipes, and the apple pie to make the raspberrys pop and add some depth to the overall cheesecake crust. FLV cream is now my favorite cream to use, so I went with this instead of Cap VC. You can add the sweetener of your choice, but I think it's sweet enough as it is. ",
-  "id": 37951,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/37951/IMG_3734.JPG",
-  "updated_at": "2020-12-08T00:49:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 5500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "MrColdOne",
-  "views": "4668",
-  "slug": "raspberry_cheesecake",
-  "total_flavoring": "14.0%",
-  "steep_days": "5",
-  "best_vg": "65%",
-  "temperature": "400",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "lococarnage",
-      "score": "5",
-      "text": "Another great recipe from you MrColdOne!  This is the first and only recipe that I have found so far that I have felt the need to make repeatedly and in larger batches.  I found the flavor to be lacking for the first couple weeks after mixing but now after a 30 day steep it has come together nicely. I have read and have come to find out for myself that NY Cheesecake and Cream Cheese Icing take an extended steep to reach their full potential. Top notch! "
-    },
-    {
-      "user": "6retro6",
-      "score": "5",
-      "text": "Very nice recipe, true to the profile and a delicious all day vape, what more could you ask for?"
-    }
-  ]
+    "name": "Raspberry Cheesecake",
+    "description": "This is one recipe that I always keep a 120 in stock. A creamy, thick raspberry cheesecake! My favorite cheesecake recipe to date! I love the way LA cream cheese icing blends into the Cap NY cheesecake and it's something I've been adding to a lot of my cheesecake recipes. It really makes the ny cheesecake stand out against the raspberry combo. I use INW Raspberry and TFA Raspberry sweet together in a lot of my raspberry recipes, and the apple pie to make the raspberrys pop and add some depth to the overall cheesecake crust. FLV cream is now my favorite cream to use, so I went with this instead of Cap VC. You can add the sweetener of your choice, but I think it's sweet enough as it is. ",
+    "id": 37951,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/37951\/IMG_3734.JPG",
+    "updated_at": "2020-12-12T11:50:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 5500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "MrColdOne",
+    "views": "4676",
+    "created_at": "2017-03-22",
+    "slug": "raspberry_cheesecake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/37951.JPG",
+    "total_flavoring": "14.0%",
+    "steep_days": "5",
+    "best_vg": "65%",
+    "temperature": "400",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "lococarnage",
+            "score": 5,
+            "text": "Another great recipe from you MrColdOne!  This is the first and only recipe that I have found so far that I have felt the need to make repeatedly and in larger batches.  I found the flavor to be lacking for the first couple weeks after mixing but now after a 30 day steep it has come together nicely. I have read and have come to find out for myself that NY Cheesecake and Cream Cheese Icing take an extended steep to reach their full potential. Top notch! "
+        },
+        {
+            "user": "6retro6",
+            "score": 5,
+            "text": "Very nice recipe, true to the profile and a delicious all day vape, what more could you ask for?"
+        }
+    ]
 }

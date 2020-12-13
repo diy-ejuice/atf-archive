@@ -1,80 +1,82 @@
 {
-  "name": "Melonade Boys",
-  "description": "Ok here we go.  This one is a nice refreshing summer drink vape.\r\n\r\nLemonade Base - VT Lemonade Clear is an interesting lemonade with a bit of Fiz, FLV lemonade help to enhance the longevity of the lemonade.  SC Lemon gives you some of that authentic lemon while VT Sour Lemon gives you that nice lemon zest.  This is a really solid base for the lemonade.\r\n\r\nFA Pear is used really for sweetness to go along with the FLV Wild Melon/JF Honeydew combo to give us a honeydew forward melon mix.\r\n\r\nFinally the FLV Boysenberry helps to syrup up the fruits and add a touch of berry to the mix.  Enjoy!",
-  "id": 159729,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/159729/melonade.png",
-  "updated_at": "2020-12-08T00:51:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade Clear",
-      "flavor_id": "8916",
-      "millipercent": 4000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "636",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "8426",
-      "millipercent": 1000,
-      "vendor": "SC"
-    },
-    {
-      "name": "Sour Lemon",
-      "flavor_id": "8971",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "humanpuck",
-  "views": "1781",
-  "slug": "melonade_boys",
-  "total_flavoring": "12.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "gunsforhands",
-      "score": "5",
-      "text": "I don't know what more to say about this than that it is amazing. The melons blend perfectly with the lemonade base and it almost reminds me of a melon-lemonade in a can with the \"fizz\" I get from the Lemonade Clear. Once again @humanpuck has knocked it out of the park for me!"
-    },
-    {
-      "user": "PhyllisRae",
-      "score": "5",
-      "text": "Where do I find Sour lemon? can't seem to find it anywhere. I'd like to try this recipe. "
-    }
-  ]
+    "name": "Melonade Boys",
+    "description": "Ok here we go.  This one is a nice refreshing summer drink vape.\r\n\r\nLemonade Base - VT Lemonade Clear is an interesting lemonade with a bit of Fiz, FLV lemonade help to enhance the longevity of the lemonade.  SC Lemon gives you some of that authentic lemon while VT Sour Lemon gives you that nice lemon zest.  This is a really solid base for the lemonade.\r\n\r\nFA Pear is used really for sweetness to go along with the FLV Wild Melon\/JF Honeydew combo to give us a honeydew forward melon mix.\r\n\r\nFinally the FLV Boysenberry helps to syrup up the fruits and add a touch of berry to the mix.  Enjoy!",
+    "id": 159729,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/159729\/melonade.png",
+    "updated_at": "2020-12-12T20:31:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade Clear",
+            "flavor_id": "8916",
+            "millipercent": 4000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "636",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "8426",
+            "millipercent": 1000,
+            "vendor": "SC"
+        },
+        {
+            "name": "Sour Lemon",
+            "flavor_id": "8971",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "humanpuck",
+    "views": "1788",
+    "created_at": "2019-07-18",
+    "slug": "melonade_boys",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/159729.png",
+    "total_flavoring": "12.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "gunsforhands",
+            "score": 5,
+            "text": "I don't know what more to say about this than that it is amazing. The melons blend perfectly with the lemonade base and it almost reminds me of a melon-lemonade in a can with the \"fizz\" I get from the Lemonade Clear. Once again @humanpuck has knocked it out of the park for me!"
+        },
+        {
+            "user": "PhyllisRae",
+            "score": 5,
+            "text": "Where do I find Sour lemon? can't seem to find it anywhere. I'd like to try this recipe. "
+        }
+    ]
 }

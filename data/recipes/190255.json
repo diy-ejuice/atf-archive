@@ -1,74 +1,74 @@
 {
-  "name": "Key Lime Custard",
-  "description": "Delicious fresh key lime custard with hints of cream and Graham cracker",
-  "id": 190255,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/190255/healthy-key-lime-custard-bites-24-500x439.jpg",
-  "updated_at": "2020-12-08T00:51:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Distilled",
-      "flavor_id": "415",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "536",
-  "slug": "key_lime_custard",
-  "total_flavoring": "14.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Key Lime Custard",
+    "description": "Delicious fresh key lime custard with hints of cream and Graham cracker",
+    "id": 190255,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/190255\/healthy-key-lime-custard-bites-24-500x439.jpg",
+    "updated_at": "2020-12-11T06:45:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Distilled",
+            "flavor_id": "415",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "541",
+    "created_at": "2020-04-05",
+    "slug": "key_lime_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/190255.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

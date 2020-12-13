@@ -1,32 +1,31 @@
 {
-  "name": "Berry Splash",
-  "description": "This turned out really good. This is my sons favorite right now. very berry",
-  "id": 92566,
-  "image_url": null,
-  "updated_at": "2020-11-25T19:31:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Unicorn Vomit",
-      "flavor_id": "1450",
-      "millipercent": 14000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "llisahere",
-  "views": "727",
-  "slug": "berry_splash",
-  "total_flavoring": "15.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Berry Splash",
+    "description": "This turned out really good. This is my sons favorite right now. very berry",
+    "id": 92566,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Unicorn Vomit",
+            "flavor_id": "1450",
+            "millipercent": 14000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "llisahere",
+    "views": "731",
+    "created_at": "2018-03-16",
+    "slug": "berry_splash",
+    "total_flavoring": "15.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

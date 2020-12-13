@@ -1,56 +1,55 @@
 {
-  "name": "Nutty Creamy Ry4",
-  "description": "As the name describes it,  it's my take on a Creamy RY4 with some nuts.  I might play with a bit more to warrant a name change.  How do you feel about Jizz Nutz?",
-  "id": 18803,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:35:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nutty Princess",
-      "flavor_id": "4508",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Ephelus",
-  "views": "1869",
-  "slug": "nutty_creamy_ry4",
-  "total_flavoring": "11.25%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nutty Creamy Ry4",
+    "description": "As the name describes it,  it's my take on a Creamy RY4 with some nuts.  I might play with a bit more to warrant a name change.  How do you feel about Jizz Nutz?",
+    "id": 18803,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:40.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nutty Princess",
+            "flavor_id": "4508",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Ephelus",
+    "views": "1877",
+    "created_at": "2016-11-03",
+    "slug": "nutty_creamy_ry4",
+    "total_flavoring": "11.25%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

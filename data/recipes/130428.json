@@ -1,56 +1,55 @@
 {
-  "name": "Strawberry Short Cake",
-  "description": "I have no idea how this is going to turn out. After a steep I will update my results.",
-  "id": 130428,
-  "image_url": null,
-  "updated_at": "2020-12-05T23:55:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Tres Leches",
-      "flavor_id": "1446",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "1211",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "chris_walker_ffl",
-  "views": "935",
-  "slug": "strawberry_short_cake",
-  "total_flavoring": "15.0%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Short Cake",
+    "description": "I have no idea how this is going to turn out. After a steep I will update my results.",
+    "id": 130428,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:56:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Tres Leches",
+            "flavor_id": "1446",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "1211",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "chris_walker_ffl",
+    "views": "942",
+    "created_at": "2018-12-06",
+    "slug": "strawberry_short_cake",
+    "total_flavoring": "15.0%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0"
 }

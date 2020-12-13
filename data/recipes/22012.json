@@ -1,63 +1,64 @@
 {
-  "name": "Cereal Milk (by Kilo clone)",
-  "description": "Going for a Kilo juice that I tried a while back and have been chasing for a while. Tastes like the milk at the bottom of a cereal bowl... I think I am close to the juice that I tried with them but I feel like I am missing something just not quite sure what. Any help would be great!",
-  "id": 22012,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Circles",
-      "flavor_id": "139",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Boomdog07",
-  "views": "5754",
-  "slug": "cereal_milk_by_kilo_clone",
-  "total_flavoring": "18.0%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "Lulzor",
-      "score": "3",
-      "text": "http://www.lediypourlesnuls.com/kilo-cereal-milk/ - knew i recognized this...&#xD;\ni've mixed this recipe a few times as a starting point. side by side it's missing an orange-ish flavor. lemon is too strong. 3% cream fresh is a bit weird. the milk isn't close. &#xD;\nrated a 3 because as far as a clone goes it's wildly different but it still comes out as a good cereal."
-    }
-  ]
+    "name": "Cereal Milk (by Kilo clone)",
+    "description": "Going for a Kilo juice that I tried a while back and have been chasing for a while. Tastes like the milk at the bottom of a cereal bowl... I think I am close to the juice that I tried with them but I feel like I am missing something just not quite sure what. Any help would be great!",
+    "id": 22012,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:51:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Circles",
+            "flavor_id": "139",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Boomdog07",
+    "views": "5765",
+    "created_at": "2016-12-04",
+    "slug": "cereal_milk_by_kilo_clone",
+    "total_flavoring": "18.0%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "Lulzor",
+            "score": 3,
+            "text": "http:\/\/www.lediypourlesnuls.com\/kilo-cereal-milk\/ - knew i recognized this...&#xD;\ni've mixed this recipe a few times as a starting point. side by side it's missing an orange-ish flavor. lemon is too strong. 3% cream fresh is a bit weird. the milk isn't close. &#xD;\nrated a 3 because as far as a clone goes it's wildly different but it still comes out as a good cereal."
+        }
+    ]
 }

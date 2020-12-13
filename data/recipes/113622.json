@@ -1,44 +1,43 @@
 {
-  "name": "Cigarillo mild",
-  "description": "A creamier,smoother version of my cigarillo doce recipe https://alltheflavors.com/recipes/74961#cigarillo_doce_by_nks. This mild version is still pretty tobaccoish but less \"in your face\" than the original",
-  "id": 113622,
-  "image_url": null,
-  "updated_at": "2020-12-02T08:00:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creamy Hazelnut",
-      "flavor_id": "1265",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Madagascar Bourbon Vanilla Flavor",
-      "flavor_id": "4193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "nks",
-  "views": "1175",
-  "slug": "cigarillo_mild",
-  "total_flavoring": "9.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cigarillo mild",
+    "description": "A creamier,smoother version of my cigarillo doce recipe https:\/\/alltheflavors.com\/recipes\/74961#cigarillo_doce_by_nks. This mild version is still pretty tobaccoish but less \"in your face\" than the original",
+    "id": 113622,
+    "image_url": null,
+    "updated_at": "2020-12-10T23:33:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creamy Hazelnut",
+            "flavor_id": "1265",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Madagascar Bourbon Vanilla Flavor",
+            "flavor_id": "4193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "nks",
+    "views": "1183",
+    "created_at": "2018-08-05",
+    "slug": "cigarillo_mild",
+    "total_flavoring": "9.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

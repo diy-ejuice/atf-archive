@@ -1,91 +1,93 @@
 {
-  "name": "Unlucky (Marshmallow, Cerealish, Milk)",
-  "description": "Unlucky; Marshmallow front, Sweetened Oat Cereal, Milk exhale.\r\nInspired by: Lucky Bird\r\nSo this was primarily supposed to be a marshmallow cereal but it's not that. However there is something unique that some have enjoyed. Personally I get a creamy greasy dough flavor which is oddly enjoyable. I did a bunch of new versions that ended up being a bit further than what I was going for so I've decided to leave this as it's original and post a new one as it's completed.\r\nEnjoy\r\n",
-  "id": 62730,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/62730/Lucky-Charms-our-version-of-Fragrance-Oil__11788.1439328685.350.350.jpg",
-  "updated_at": "2020-12-08T00:49:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Crunch Cereal",
-      "flavor_id": "602",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Marshmallow",
-      "flavor_id": "340",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Whipped",
-      "flavor_id": "541",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "oddDrop",
-  "views": "7382",
-  "slug": "unlucky_marshmallow_cerealish_milk",
-  "total_flavoring": "14.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "none",
-      "text": "For me, to much Flavours and to much creams, to be a SNV."
-    },
-    {
-      "user": "ENYAWREKLAW",
-      "score": "4",
-      "text": "This is an awesomely unique cereal. I review it on my video \"This Week with Wayne: 09-07-2017\". I can easily see how it was inspired by Lucky Bird, but it's not the same flavor at all. There's more a focus on the sweet marshmallows and milk, with a touch of this unique cereal note that follows the vape. Upon looking at the recipe, I didn't expect it to come out this good and this focused. All these creams and dairy accents seemed like it would be muddled, but it comes out with an awesome flavor that's so much smoother than Lucky Bird, and much more flavorful. I do think there is room for consolidation or subtraction, to help focus the recipe even more. I'm happy with the result, though, and will def finish this bottle soon. &#xD;\n&#xD;\nEDIT: The version I mixed did not have FW Hazelnut. "
-    },
-    {
-      "user": "Irrelevant_Being",
-      "score": "5",
-      "text": "I did not expect this to be good at all but I too needed to find a use for FLV Crunch Cereal. Right off the bat this stuff is delicious. It has its own unique taste that I can not put down. Anxious to see what the aging process will do to it. "
-    }
-  ]
+    "name": "Unlucky (Marshmallow, Cerealish, Milk)",
+    "description": "Unlucky; Marshmallow front, Sweetened Oat Cereal, Milk exhale.\r\nInspired by: Lucky Bird\r\nSo this was primarily supposed to be a marshmallow cereal but it's not that. However there is something unique that some have enjoyed. Personally I get a creamy greasy dough flavor which is oddly enjoyable. I did a bunch of new versions that ended up being a bit further than what I was going for so I've decided to leave this as it's original and post a new one as it's completed.\r\nEnjoy\r\n",
+    "id": 62730,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/62730\/Lucky-Charms-our-version-of-Fragrance-Oil__11788.1439328685.350.350.jpg",
+    "updated_at": "2020-12-12T10:33:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Crunch Cereal",
+            "flavor_id": "602",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Marshmallow",
+            "flavor_id": "340",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Whipped",
+            "flavor_id": "541",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "oddDrop",
+    "views": "7387",
+    "created_at": "2017-09-06",
+    "slug": "unlucky_marshmallow_cerealish_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/62730.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 0,
+            "text": "For me, to much Flavours and to much creams, to be a SNV."
+        },
+        {
+            "user": "ENYAWREKLAW",
+            "score": 4,
+            "text": "This is an awesomely unique cereal. I review it on my video \"This Week with Wayne: 09-07-2017\". I can easily see how it was inspired by Lucky Bird, but it's not the same flavor at all. There's more a focus on the sweet marshmallows and milk, with a touch of this unique cereal note that follows the vape. Upon looking at the recipe, I didn't expect it to come out this good and this focused. All these creams and dairy accents seemed like it would be muddled, but it comes out with an awesome flavor that's so much smoother than Lucky Bird, and much more flavorful. I do think there is room for consolidation or subtraction, to help focus the recipe even more. I'm happy with the result, though, and will def finish this bottle soon. &#xD;\n&#xD;\nEDIT: The version I mixed did not have FW Hazelnut. "
+        },
+        {
+            "user": "Irrelevant_Being",
+            "score": 5,
+            "text": "I did not expect this to be good at all but I too needed to find a use for FLV Crunch Cereal. Right off the bat this stuff is delicious. It has its own unique taste that I can not put down. Anxious to see what the aging process will do to it. "
+        }
+    ]
 }

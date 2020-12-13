@@ -1,44 +1,44 @@
 {
-  "name": "Old School",
-  "description": "So, an old school meets new school (new school in next recipe) Custard. Simple, old %'s, and very sweet",
-  "id": 162615,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/162615/OldSchool.jpg",
-  "updated_at": "2020-12-06T22:03:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 4000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1478",
-  "slug": "old_school",
-  "total_flavoring": "22.0%",
-  "steep_days": "30",
-  "best_vg": "70%",
-  "temperature": "425",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Old School",
+    "description": "So, an old school meets new school (new school in next recipe) Custard. Simple, old %'s, and very sweet",
+    "id": 162615,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/162615\/OldSchool.jpg",
+    "updated_at": "2020-12-10T13:46:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 4000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1486",
+    "created_at": "2019-08-10",
+    "slug": "old_school",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/162615.jpg",
+    "total_flavoring": "22.0%",
+    "steep_days": "30",
+    "best_vg": "70%",
+    "temperature": "425"
 }

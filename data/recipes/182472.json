@@ -1,51 +1,52 @@
 {
-  "name": "Clonewars: Kanzi",
-  "description": "Mein Versuch an \"Twelve Monkeys: Kanzi\" \r\nKiwi, Erdbeer & Wassermelone in harmonie, ein leckerer, fruchtiger Sommermix\r\n\r\n- engl-\r\nMy Take on \"Twelve Monkeys: Kanzi\" \r\nKiwi, Strawberry & Watermelone in a harmonical, fruity summermix",
-  "id": 182472,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3600,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Summer (watermelon)",
-      "flavor_id": "471",
-      "millipercent": 4000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Professor_Eliquid",
-  "views": "900",
-  "slug": "clonewars_kanzi",
-  "total_flavoring": "13.6%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Mindbugs",
-      "score": "4",
-      "text": "Never had the original so can't comment on how well it is cloned. I can, however, say that it tastes great. I left out the sweetener, because I don't like it, and added ws-23. Very nice and smooth."
-    }
-  ]
+    "name": "Clonewars: Kanzi",
+    "description": "Mein Versuch an \"Twelve Monkeys: Kanzi\" \r\nKiwi, Erdbeer & Wassermelone in harmonie, ein leckerer, fruchtiger Sommermix\r\n\r\n- engl-\r\nMy Take on \"Twelve Monkeys: Kanzi\" \r\nKiwi, Strawberry & Watermelone in a harmonical, fruity summermix",
+    "id": 182472,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:31:31.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3600,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Summer (watermelon)",
+            "flavor_id": "471",
+            "millipercent": 4000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Professor_Eliquid",
+    "views": "907",
+    "created_at": "2020-01-26",
+    "slug": "clonewars_kanzi",
+    "total_flavoring": "13.6%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Mindbugs",
+            "score": 4,
+            "text": "Never had the original so can't comment on how well it is cloned. I can, however, say that it tastes great. I left out the sweetener, because I don't like it, and added ws-23. Very nice and smooth."
+        }
+    ]
 }

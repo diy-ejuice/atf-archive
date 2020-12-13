@@ -1,95 +1,97 @@
 {
-  "name": "Shameless(Another Fruit Cereal)",
-  "description": "Fruit Loops. Enjoy! https://www.reddit.com/r/DIY_eJuice/comments/532evh/shamelessanother_fruit_cereal/\r\nSteep Time: 1 week",
-  "id": 12733,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12733/2a1eaab06ae943e433e8f02e9bd0d8b5.jpg",
-  "updated_at": "2020-12-08T00:48:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Rings",
-      "flavor_id": "1285",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine ",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "jbird",
-  "views": "9951",
-  "slug": "shamelessanother_fruit_cereal",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Thadentman",
-      "score": "5",
-      "text": "At first i figured the bergamot would be weird especially with the guanabana but it really turns up the citrus in the cereal base. Cream is on point and is easily an all day vape, for any cereal... Extremely tough to pull off. Great job Jbird!"
-    },
-    {
-      "user": "ConcreteRiver",
-      "score": "5",
-      "text": "Really solid stuff. I had to sub out the FW Rings for FW Flakes, but I'm digging this. Balance is on point. Definitely sweet but not cloying. Good grainy note and excellent cereal volume. Cream tastes like legit cereal milk.  Guanabana is a left field choice, but it just works and blends in seamlessly. If this is shameless pandering, then sign me up."
-    },
-    {
-      "user": "RuntDastardly",
-      "score": "5",
-      "text": "Thanks for this delicious recipe! The addition of FLV Guanabana is inspired, and really makes this a unique spin on the Loops recipe. Kudos!"
-    },
-    {
-      "user": "MixinDAD",
-      "score": "5",
-      "text": "Ive made well over 150 mls of this but have yet to use the guanabana i sub out with flv tropical citrus 1% and tfa orange cream .5 and i dropped the ap to .4 BUT IT THE BEST PEBBLES IVE HAD YET"
-    },
-    {
-      "user": "Gachatay",
-      "score": "5",
-      "text": "This is one that I just can't stay away from. You knocked this one out of the park. Anyone that has taken an interest in viewing it should do themselves a favor and mix a 60 up. It's earned a spot in my rotation. The Guanabana is perfect in this, very well done JBird...take pride in this one!"
-    }
-  ]
+    "name": "Shameless(Another Fruit Cereal)",
+    "description": "Fruit Loops. Enjoy! https:\/\/www.reddit.com\/r\/DIY_eJuice\/comments\/532evh\/shamelessanother_fruit_cereal\/\r\nSteep Time: 1 week",
+    "id": 12733,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12733\/2a1eaab06ae943e433e8f02e9bd0d8b5.jpg",
+    "updated_at": "2020-12-12T11:50:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Rings",
+            "flavor_id": "1285",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine ",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "jbird",
+    "views": "9971",
+    "created_at": "2016-09-06",
+    "slug": "shamelessanother_fruit_cereal",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12733.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Thadentman",
+            "score": 5,
+            "text": "At first i figured the bergamot would be weird especially with the guanabana but it really turns up the citrus in the cereal base. Cream is on point and is easily an all day vape, for any cereal... Extremely tough to pull off. Great job Jbird!"
+        },
+        {
+            "user": "ConcreteRiver",
+            "score": 5,
+            "text": "Really solid stuff. I had to sub out the FW Rings for FW Flakes, but I'm digging this. Balance is on point. Definitely sweet but not cloying. Good grainy note and excellent cereal volume. Cream tastes like legit cereal milk.  Guanabana is a left field choice, but it just works and blends in seamlessly. If this is shameless pandering, then sign me up."
+        },
+        {
+            "user": "RuntDastardly",
+            "score": 5,
+            "text": "Thanks for this delicious recipe! The addition of FLV Guanabana is inspired, and really makes this a unique spin on the Loops recipe. Kudos!"
+        },
+        {
+            "user": "MixinDAD",
+            "score": 5,
+            "text": "Ive made well over 150 mls of this but have yet to use the guanabana i sub out with flv tropical citrus 1% and tfa orange cream .5 and i dropped the ap to .4 BUT IT THE BEST PEBBLES IVE HAD YET"
+        },
+        {
+            "user": "Gachatay",
+            "score": 5,
+            "text": "This is one that I just can't stay away from. You knocked this one out of the park. Anyone that has taken an interest in viewing it should do themselves a favor and mix a 60 up. It's earned a spot in my rotation. The Guanabana is perfect in this, very well done JBird...take pride in this one!"
+        }
+    ]
 }

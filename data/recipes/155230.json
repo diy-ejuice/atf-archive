@@ -1,62 +1,61 @@
 {
-  "name": "Dave - iced mango/d.fruit/lemonade/strawb",
-  "description": "These are the required words so ATF will let me share this. :)",
-  "id": 155230,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:37:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackberry",
-      "flavor_id": "534",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragon Fruit - Pitaya",
-      "flavor_id": "652",
-      "millipercent": 1350,
-      "vendor": "INW"
-    },
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 900,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 1350,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 700,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 150,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "lnterlinked",
-  "views": "1033",
-  "slug": "dave_iced_mangodfruitlemonadestrawb",
-  "total_flavoring": "7.6%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dave - iced mango\/d.fruit\/lemonade\/strawb",
+    "description": "These are the required words so ATF will let me share this. :)",
+    "id": 155230,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:07:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackberry",
+            "flavor_id": "534",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragon Fruit - Pitaya",
+            "flavor_id": "652",
+            "millipercent": 1350,
+            "vendor": "INW"
+        },
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 900,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 1350,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 700,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 150,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "lnterlinked",
+    "views": "1042",
+    "created_at": "2019-06-11",
+    "slug": "dave_iced_mangodfruitlemonadestrawb",
+    "total_flavoring": "7.6%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

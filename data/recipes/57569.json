@@ -1,56 +1,56 @@
 {
-  "name": "White Chocolate Mocha",
-  "description": "A simple straight forward White Chocolate Mocha.\r\n\r\nVanilla Pudding does a great job holding up the white chocolate flavors to make a thick, frothy base for the FLV Mocha and FA Tiramisu to follow up with a bright Mocha/coffee flavor.",
-  "id": 57569,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/57569/wang1.png",
-  "updated_at": "2020-12-07T20:32:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Chocolate",
-      "flavor_id": "1462",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "4444",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 150,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mocha",
-      "flavor_id": "617",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Booster (tiramisu)",
-      "flavor_id": "515",
-      "millipercent": 150,
-      "vendor": "FA"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "2285",
-  "slug": "white_chocolate_mocha",
-  "total_flavoring": "8.55%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "White Chocolate Mocha",
+    "description": "A simple straight forward White Chocolate Mocha.\r\n\r\nVanilla Pudding does a great job holding up the white chocolate flavors to make a thick, frothy base for the FLV Mocha and FA Tiramisu to follow up with a bright Mocha\/coffee flavor.",
+    "id": 57569,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/57569\/wang1.png",
+    "updated_at": "2020-12-11T14:16:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Chocolate",
+            "flavor_id": "1462",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "4444",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 150,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mocha",
+            "flavor_id": "617",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Booster (tiramisu)",
+            "flavor_id": "515",
+            "millipercent": 150,
+            "vendor": "FA"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "2297",
+    "created_at": "2017-07-29",
+    "slug": "white_chocolate_mocha",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/57569.png",
+    "total_flavoring": "8.55%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

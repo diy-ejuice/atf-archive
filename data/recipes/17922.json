@@ -1,68 +1,70 @@
 {
-  "name": "My Fair Lady",
-  "description": "###A delicious fried oreo purchased from a shady trailer covered in lights, manned by a guy in a dirty apron with no more than 3 teeth. The sounds of shoddily-erected death traps and children screaming in the background come separately.\r\n\r\nIncrease sweetener to your liking.\r\n",
-  "id": 17922,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/17922/hangoutsinvert.PNG",
-  "updated_at": "2020-12-08T00:48:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Funnel Cake",
-      "flavor_id": "4166",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk Chocolate Toffee",
-      "flavor_id": "89",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cocoa Rounds",
-      "flavor_id": "138",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "SkiddlzNinja",
-  "views": "5821",
-  "slug": "my_fair_lady",
-  "total_flavoring": "11.25%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "LLcoolwhip",
-      "score": "5",
-      "text": "Most amazing recipe tried this year should be recipe of year! Something happens in this recipe that's supernatural!"
-    },
-    {
-      "user": "Chrisdvr1",
-      "score": "5",
-      "text": "You hit this profile perfectly I like the way the Marine plays with the funnel cake giving it a sweetness to the fried flavor. Interesting how the chocolate coffee and cocoa rounds taste like an Oreo."
-    }
-  ]
+    "name": "My Fair Lady",
+    "description": "###A delicious fried oreo purchased from a shady trailer covered in lights, manned by a guy in a dirty apron with no more than 3 teeth. The sounds of shoddily-erected death traps and children screaming in the background come separately.\r\n\r\nIncrease sweetener to your liking.\r\n",
+    "id": 17922,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/17922\/hangoutsinvert.PNG",
+    "updated_at": "2020-12-12T15:38:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Funnel Cake",
+            "flavor_id": "4166",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk Chocolate Toffee",
+            "flavor_id": "89",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cocoa Rounds",
+            "flavor_id": "138",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "SkiddlzNinja",
+    "views": "5835",
+    "created_at": "2016-10-28",
+    "slug": "my_fair_lady",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/17922.PNG",
+    "total_flavoring": "11.25%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "LLcoolwhip",
+            "score": 5,
+            "text": "Most amazing recipe tried this year should be recipe of year! Something happens in this recipe that's supernatural!"
+        },
+        {
+            "user": "Chrisdvr1",
+            "score": 5,
+            "text": "You hit this profile perfectly I like the way the Marine plays with the funnel cake giving it a sweetness to the fried flavor. Interesting how the chocolate coffee and cocoa rounds taste like an Oreo."
+        }
+    ]
 }

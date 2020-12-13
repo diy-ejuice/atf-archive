@@ -1,68 +1,68 @@
 {
-  "name": "Raspberry Jam Donut",
-  "description": "A Diketone and sweetener free doughnut recipe. Currently still tweaking but this current version is pretty good so far.\r\n\r\nEdit: I might sub out FA Raspberry for INW Shisha Raspberry and INW Raspberry (Koncentrate) in my next rendition.",
-  "id": 71216,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/71216/1323.JPG",
-  "updated_at": "2020-12-02T15:40:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "ishkabibble",
-  "views": "2200",
-  "slug": "raspberry_jam_donut",
-  "total_flavoring": "9.5%",
-  "steep_days": "21",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry Jam Donut",
+    "description": "A Diketone and sweetener free doughnut recipe. Currently still tweaking but this current version is pretty good so far.\r\n\r\nEdit: I might sub out FA Raspberry for INW Shisha Raspberry and INW Raspberry (Koncentrate) in my next rendition.",
+    "id": 71216,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/71216\/1323.JPG",
+    "updated_at": "2020-12-11T06:43:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "ishkabibble",
+    "views": "2205",
+    "created_at": "2017-10-29",
+    "slug": "raspberry_jam_donut",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/71216.JPG",
+    "total_flavoring": "9.5%",
+    "steep_days": "21",
+    "best_vg": "70%",
+    "temperature": "0"
 }

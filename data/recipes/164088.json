@@ -1,62 +1,64 @@
 {
-  "name": "Papaya Banana Punch",
-  "description": "This recipe packs a bright papaya punch, with a sweet banana chasing after and a light creamy coconut accent. \r\ndiyordievaping.com",
-  "id": 164088,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/164088/fa-papaya-3.jpg",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Papaya",
-      "flavor_id": "584",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Coco' (coconut)",
-      "flavor_id": "416",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "3110",
-  "slug": "papaya_banana_punch",
-  "total_flavoring": "8.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "DumHed",
-      "score": "5",
-      "text": "Fucking delicious, and full of flavor. "
-    },
-    {
-      "user": "Screwdriver",
-      "score": "5",
-      "text": "This is an ALL DAY VAPE recipe for sure. It's loaded with flavour and a really delightful combination of these fruits. You've got yourself another winner Wayne. I do recommend this one with an overnight steep. Many thx."
-    }
-  ]
+    "name": "Papaya Banana Punch",
+    "description": "This recipe packs a bright papaya punch, with a sweet banana chasing after and a light creamy coconut accent. \r\ndiyordievaping.com",
+    "id": 164088,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/164088\/fa-papaya-3.jpg",
+    "updated_at": "2020-12-12T10:34:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Papaya",
+            "flavor_id": "584",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Coco' (coconut)",
+            "flavor_id": "416",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "3121",
+    "created_at": "2019-08-22",
+    "slug": "papaya_banana_punch",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/164088.jpg",
+    "total_flavoring": "8.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "DumHed",
+            "score": 5,
+            "text": "Fucking delicious, and full of flavor. "
+        },
+        {
+            "user": "Screwdriver",
+            "score": 5,
+            "text": "This is an ALL DAY VAPE recipe for sure. It's loaded with flavour and a really delightful combination of these fruits. You've got yourself another winner Wayne. I do recommend this one with an overnight steep. Many thx."
+        }
+    ]
 }

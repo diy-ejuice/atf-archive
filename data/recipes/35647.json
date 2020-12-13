@@ -1,81 +1,83 @@
 {
-  "name": "Momma Slap Cheesecake V2",
-  "description": "This is a remix of my Momma Slap Cheesecake. I took advice from other mixers to pair down my ingredients and also added a few new flavors.\r\nLA caramel - This is used to give a slight dark buttery taste to the crust\r\nTPA VBIC - This is used to balance out the sometimes \"dirty socks\" aroma that cheesecake can sometimes have and it helps round out the ruff edges of the cheesecake\r\nCAP Vanilla Custard - This is used to add that eggy mouth fill that cheesecakes tend to have\r\nCAP NY Cheesecake - well....base\r\nTPA Graham Cracker - pretty self explanatory\r\nINW Biscuit - This helps to bolster the Graham Cracker by adding texture and cookie-like flavor\r\nTPA Greek Yogurt - I add this in small amounts to give the cheesecake a slight sourness. It seems to balance well with the JF Strawberry Sweet\r\nTPA Lemon/Lime - You may ask yourself why? Well this adds a uniqueness that makes my cheesecake stand out among the rest by adding a slight freshness and \"mouth watering\" feel to it.\r\nJF Strawberry Sweet - I like this strawberry because it gives a strawberry like syrup instead of just fresh strawberries  \r\nMaxVG\r\nBest steeped for a week\r\nPlease comment or review, That's what makes all mixers better :)\r\nEnjoy! ",
-  "id": 35647,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/35647/IMG_8650_edits_10x8crop.JPG",
-  "updated_at": "2020-12-08T00:49:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel",
-      "flavor_id": "929",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "326",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "173",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "244",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 1500,
-      "vendor": "JF"
-    }
-  ],
-  "author": "folkart",
-  "views": "2718",
-  "slug": "momma_slap_cheesecake_v2",
-  "total_flavoring": "12.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "VaperKitten",
-      "score": "5",
-      "text": "Really Delicious, I had to substitute a few things because I wanted to mix it right now.  I only had sweet yogurt, and I had no lime only Lemon and I love it.  Its going in a tank and this is the first day can't wait till it steeps a bit."
-    }
-  ]
+    "name": "Momma Slap Cheesecake V2",
+    "description": "This is a remix of my Momma Slap Cheesecake. I took advice from other mixers to pair down my ingredients and also added a few new flavors.\r\nLA caramel - This is used to give a slight dark buttery taste to the crust\r\nTPA VBIC - This is used to balance out the sometimes \"dirty socks\" aroma that cheesecake can sometimes have and it helps round out the ruff edges of the cheesecake\r\nCAP Vanilla Custard - This is used to add that eggy mouth fill that cheesecakes tend to have\r\nCAP NY Cheesecake - well....base\r\nTPA Graham Cracker - pretty self explanatory\r\nINW Biscuit - This helps to bolster the Graham Cracker by adding texture and cookie-like flavor\r\nTPA Greek Yogurt - I add this in small amounts to give the cheesecake a slight sourness. It seems to balance well with the JF Strawberry Sweet\r\nTPA Lemon\/Lime - You may ask yourself why? Well this adds a uniqueness that makes my cheesecake stand out among the rest by adding a slight freshness and \"mouth watering\" feel to it.\r\nJF Strawberry Sweet - I like this strawberry because it gives a strawberry like syrup instead of just fresh strawberries  \r\nMaxVG\r\nBest steeped for a week\r\nPlease comment or review, That's what makes all mixers better :)\r\nEnjoy! ",
+    "id": 35647,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/35647\/IMG_8650_edits_10x8crop.JPG",
+    "updated_at": "2020-12-12T10:33:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel",
+            "flavor_id": "929",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "326",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "173",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "244",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 1500,
+            "vendor": "JF"
+        }
+    ],
+    "author": "folkart",
+    "views": "2727",
+    "created_at": "2017-03-08",
+    "slug": "momma_slap_cheesecake_v2",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/35647.JPG",
+    "total_flavoring": "12.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "VaperKitten",
+            "score": 5,
+            "text": "Really Delicious, I had to substitute a few things because I wanted to mix it right now.  I only had sweet yogurt, and I had no lime only Lemon and I love it.  Its going in a tank and this is the first day can't wait till it steeps a bit."
+        }
+    ]
 }

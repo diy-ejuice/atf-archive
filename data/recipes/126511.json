@@ -1,32 +1,31 @@
 {
-  "name": "Willow diadem (POD/MTL) ",
-  "description": "Simple 555 and caramel mixture. Poor man's ry4 I suppose. For pod devices only. ",
-  "id": 126511,
-  "image_url": null,
-  "updated_at": "2020-12-02T07:32:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "555 Gold",
-      "flavor_id": "685",
-      "millipercent": 6000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Caramel",
-      "flavor_id": "755",
-      "millipercent": 2000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "cexshun",
-  "views": "1249",
-  "slug": "willow_diadem_podmtl",
-  "total_flavoring": "8.0%",
-  "steep_days": "28",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Willow diadem (POD\/MTL) ",
+    "description": "Simple 555 and caramel mixture. Poor man's ry4 I suppose. For pod devices only. ",
+    "id": 126511,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "555 Gold",
+            "flavor_id": "685",
+            "millipercent": 6000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Caramel",
+            "flavor_id": "755",
+            "millipercent": 2000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "cexshun",
+    "views": "1259",
+    "created_at": "2018-11-08",
+    "slug": "willow_diadem_podmtl",
+    "total_flavoring": "8.0%",
+    "steep_days": "28",
+    "best_vg": "0%",
+    "temperature": "0"
 }

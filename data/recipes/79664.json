@@ -1,62 +1,61 @@
 {
-  "name": "Passion Grape Bubble Gum",
-  "description": "I wanted something else besides another candy for some sweetness. ",
-  "id": 79664,
-  "image_url": null,
-  "updated_at": "2020-12-05T13:09:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "DX Marshmallow",
-      "flavor_id": "4180",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "21",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Watermelon Candy",
-      "flavor_id": "275",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Passion (passionfruit)",
-      "flavor_id": "585",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "pickle_nik",
-  "views": "1695",
-  "slug": "passion_grape_bubble_gum",
-  "total_flavoring": "18.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Passion Grape Bubble Gum",
+    "description": "I wanted something else besides another candy for some sweetness. ",
+    "id": 79664,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "DX Marshmallow",
+            "flavor_id": "4180",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "21",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Watermelon Candy",
+            "flavor_id": "275",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Passion (passionfruit)",
+            "flavor_id": "585",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "pickle_nik",
+    "views": "1702",
+    "created_at": "2017-12-18",
+    "slug": "passion_grape_bubble_gum",
+    "total_flavoring": "18.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

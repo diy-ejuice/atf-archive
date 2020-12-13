@@ -1,56 +1,58 @@
 {
-  "name": "Elderflower Ice Cream",
-  "description": "This is a relatively popular ice cream combo in Northern Europe, elderflower has been used here for decades (centuries maybe?), mainly as a spice to cover up the offnotes in moonshine, but it has also made its way in to ice creams, cordials and candy.\r\n\r\nYou might call this a lazy mix, and indeed it is. But as the vanilla is a main component here, there is no better vanilla ice cream base than the one by @eyemakepizza. It's elegant and tasty, and by adding the elderflower it gives a new interesting dimension to that rich vanilla yummyness.\r\n\r\n**FLV Elderflower** is an amazing flavor that works well with both creams and fruits.",
-  "id": 158553,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/158553/elderice.png",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 750,
-      "vendor": "HS"
-    },
-    {
-      "name": "Elderflower",
-      "flavor_id": "3518",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "staybert",
-  "views": "2124",
-  "slug": "elderflower_ice_cream",
-  "total_flavoring": "8.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "You might call this a lazy review, and it is, but mixing a flavor with the Trinity is a great way to either show it off or take it for a spin. The FLV Elderflower here definitely tastes like it’s very much in the showing off category. I’ve never had Elderflower ice cream, but if I did, I would hope it would taste something like this. "
-    },
-    {
-      "user": "UnappreciatedRobot",
-      "score": "5",
-      "text": "This may just be 1% FLV Elderflower added to @eyemakepizza's ice cream base, but it completely transforms the base. The elderflower pairs so well with the vanilla ice cream that I was shocked when I first vaped this. It may be my new favorite ice cream vape. Great job on this one!"
-    }
-  ]
+    "name": "Elderflower Ice Cream",
+    "description": "This is a relatively popular ice cream combo in Northern Europe, elderflower has been used here for decades (centuries maybe?), mainly as a spice to cover up the offnotes in moonshine, but it has also made its way in to ice creams, cordials and candy.\r\n\r\nYou might call this a lazy mix, and indeed it is. But as the vanilla is a main component here, there is no better vanilla ice cream base than the one by @eyemakepizza. It's elegant and tasty, and by adding the elderflower it gives a new interesting dimension to that rich vanilla yummyness.\r\n\r\n**FLV Elderflower** is an amazing flavor that works well with both creams and fruits.",
+    "id": 158553,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/158553\/elderice.png",
+    "updated_at": "2020-12-12T20:31:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 750,
+            "vendor": "HS"
+        },
+        {
+            "name": "Elderflower",
+            "flavor_id": "3518",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "staybert",
+    "views": "2132",
+    "created_at": "2019-07-08",
+    "slug": "elderflower_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/158553.png",
+    "total_flavoring": "8.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "You might call this a lazy review, and it is, but mixing a flavor with the Trinity is a great way to either show it off or take it for a spin. The FLV Elderflower here definitely tastes like it\u2019s very much in the showing off category. I\u2019ve never had Elderflower ice cream, but if I did, I would hope it would taste something like this. "
+        },
+        {
+            "user": "UnappreciatedRobot",
+            "score": 5,
+            "text": "This may just be 1% FLV Elderflower added to @eyemakepizza's ice cream base, but it completely transforms the base. The elderflower pairs so well with the vanilla ice cream that I was shocked when I first vaped this. It may be my new favorite ice cream vape. Great job on this one!"
+        }
+    ]
 }

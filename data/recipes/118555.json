@@ -1,56 +1,55 @@
 {
-  "name": "Jolly Green Rancher",
-  "description": "here I am totally going for a green jolly rancher here and inw apple and cap double apple blended very well together too bring that candy note to this and cap green apple hard candy is totally the hard candy in this which makes it perfect for a fall candy flavor seeing as how Halloween is coming up quick so mix this up and you wont be disappointed guys",
-  "id": 118555,
-  "image_url": null,
-  "updated_at": "2020-12-07T02:16:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Green Apple Hard Candy",
-      "flavor_id": "10001",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Green Apple",
-      "flavor_id": "1491",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1944",
-  "slug": "jolly_green_rancher",
-  "total_flavoring": "11.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Jolly Green Rancher",
+    "description": "here I am totally going for a green jolly rancher here and inw apple and cap double apple blended very well together too bring that candy note to this and cap green apple hard candy is totally the hard candy in this which makes it perfect for a fall candy flavor seeing as how Halloween is coming up quick so mix this up and you wont be disappointed guys",
+    "id": 118555,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Green Apple Hard Candy",
+            "flavor_id": "10001",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Green Apple",
+            "flavor_id": "1491",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1953",
+    "created_at": "2018-09-11",
+    "slug": "jolly_green_rancher",
+    "total_flavoring": "11.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "110"
 }

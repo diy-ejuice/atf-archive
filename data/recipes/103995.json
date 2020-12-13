@@ -1,56 +1,56 @@
 {
-  "name": "Cereal Bar #MixinVixens",
-  "description": "This is a healthy cereal bar with cheerios, peanuts and dried cranberries with a bit of honey to sweeten. The liquid amber does a pretty good job of turning flv cranberry into dried cranberries and the cereal 27 backs up the breakfast cereal a bit while adding some honey sweetness.",
-  "id": 103995,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/103995/image__4_.jpg",
-  "updated_at": "2020-12-07T17:34:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Honey Roasted Peanuts SC",
-      "flavor_id": "8371",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Breakfast Cereals",
-      "flavor_id": "8810",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "1413",
-  "slug": "cereal_bar_mixinvixens",
-  "total_flavoring": "7.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cereal Bar #MixinVixens",
+    "description": "This is a healthy cereal bar with cheerios, peanuts and dried cranberries with a bit of honey to sweeten. The liquid amber does a pretty good job of turning flv cranberry into dried cranberries and the cereal 27 backs up the breakfast cereal a bit while adding some honey sweetness.",
+    "id": 103995,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/103995\/image__4_.jpg",
+    "updated_at": "2020-12-11T19:41:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Honey Roasted Peanuts SC",
+            "flavor_id": "8371",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Breakfast Cereals",
+            "flavor_id": "8810",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "1427",
+    "created_at": "2018-06-03",
+    "slug": "cereal_bar_mixinvixens",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/103995.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

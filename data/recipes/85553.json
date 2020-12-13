@@ -1,63 +1,65 @@
 {
-  "name": "Live Mixing: Fizzy Sherb Soda",
-  "description": "This is a Fizzy Sherbet Soda flavor \r\nMade on LIve Mixing: The Vape Train Haul\r\n",
-  "id": 85553,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/85553/flavorbook-ATF.jpg",
-  "updated_at": "2020-12-08T00:49:53.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fizzy Sherbet",
-      "flavor_id": "8878",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Rainbow Sherbet",
-      "flavor_id": "1390",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Juicy Orange",
-      "flavor_id": "80",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Lemonade",
-      "flavor_id": "3535",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "4572",
-  "slug": "live_mixing_fizzy_sherb_soda",
-  "total_flavoring": "11.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MrJwp08",
-      "score": "5",
-      "text": "Ordered the flavours, very excited to try the Vape Train concentrates! I'll update when mixed!! "
-    }
-  ]
+    "name": "Live Mixing: Fizzy Sherb Soda",
+    "description": "This is a Fizzy Sherbet Soda flavor \r\nMade on LIve Mixing: The Vape Train Haul\r\n",
+    "id": 85553,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/85553\/flavorbook-ATF.jpg",
+    "updated_at": "2020-12-12T20:29:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fizzy Sherbet",
+            "flavor_id": "8878",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Rainbow Sherbet",
+            "flavor_id": "1390",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Juicy Orange",
+            "flavor_id": "80",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Lemonade",
+            "flavor_id": "3535",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "4584",
+    "created_at": "2018-01-26",
+    "slug": "live_mixing_fizzy_sherb_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/85553.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MrJwp08",
+            "score": 5,
+            "text": "Ordered the flavours, very excited to try the Vape Train concentrates! I'll update when mixed!! "
+        }
+    ]
 }

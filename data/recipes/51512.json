@@ -1,84 +1,86 @@
 {
-  "name": "Lime Slush",
-  "description": "Everything about this vape screams slushy. Flv lime is the perfect candied lime for this mix. Oba Oba adds a nice candied sweetness to help sell the slushy feel as does cap hibiscus. Fa mandarin just ads an extra dimension of citrus. Fa sour wizard adds a bit of tang and helps make the lime pop.",
-  "id": 51512,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/51512/Lime_slush.png",
-  "updated_at": "2020-12-08T00:49:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lime",
-      "flavor_id": "634",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Oba Oba",
-      "flavor_id": "480",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour Wizard",
-      "flavor_id": "4354",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "5654",
-  "slug": "lime_slush",
-  "total_flavoring": "7.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.8,
-  "reviews": [
-    {
-      "user": "Jthectic",
-      "score": "5",
-      "text": "Perfect recipe to highlight flv lime. I did use ws23 instead of koolada, just to go with the times. Tasty mix."
-    },
-    {
-      "user": "Billywilly",
-      "score": "5",
-      "text": "This is perfect to me. I did used tpa sour in place of fa sour wizard but don't think it matters much."
-    },
-    {
-      "user": "Deweysuds",
-      "score": "4",
-      "text": "One week steep.  Heavy lime slushy syrup.  Very authentic just maybe a bit strong.  Spot on flavor though and quite pleasant.  The mouth feel is great.  The only thing I would change is just drop down the volume from a 10 to an 8.  "
-    },
-    {
-      "user": "NonStopMix",
-      "score": "5",
-      "text": "Nice job on this! Very refreshing vape. "
-    }
-  ]
+    "name": "Lime Slush",
+    "description": "Everything about this vape screams slushy. Flv lime is the perfect candied lime for this mix. Oba Oba adds a nice candied sweetness to help sell the slushy feel as does cap hibiscus. Fa mandarin just ads an extra dimension of citrus. Fa sour wizard adds a bit of tang and helps make the lime pop.",
+    "id": 51512,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/51512\/Lime_slush.png",
+    "updated_at": "2020-12-12T17:10:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lime",
+            "flavor_id": "634",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Oba Oba",
+            "flavor_id": "480",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour Wizard",
+            "flavor_id": "4354",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "5664",
+    "created_at": "2017-06-19",
+    "slug": "lime_slush",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/51512.png",
+    "total_flavoring": "7.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Jthectic",
+            "score": 5,
+            "text": "Perfect recipe to highlight flv lime. I did use ws23 instead of koolada, just to go with the times. Tasty mix."
+        },
+        {
+            "user": "Billywilly",
+            "score": 5,
+            "text": "This is perfect to me. I did used tpa sour in place of fa sour wizard but don't think it matters much."
+        },
+        {
+            "user": "Deweysuds",
+            "score": 4,
+            "text": "One week steep.  Heavy lime slushy syrup.  Very authentic just maybe a bit strong.  Spot on flavor though and quite pleasant.  The mouth feel is great.  The only thing I would change is just drop down the volume from a 10 to an 8.  "
+        },
+        {
+            "user": "NonStopMix",
+            "score": 5,
+            "text": "Nice job on this! Very refreshing vape. "
+        }
+    ]
 }

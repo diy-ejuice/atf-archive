@@ -1,38 +1,37 @@
 {
-  "name": "Cinnamon Donut",
-  "description": "Fried doughy cinnamon donut. More similar to a bakery doughnut than a Hostess.",
-  "id": 70575,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:32:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Ceylon",
-      "flavor_id": "497",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "cexshun",
-  "views": "1160",
-  "slug": "cinnamon_donut",
-  "total_flavoring": "5.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnamon Donut",
+    "description": "Fried doughy cinnamon donut. More similar to a bakery doughnut than a Hostess.",
+    "id": 70575,
+    "image_url": null,
+    "updated_at": "2020-12-11T20:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Ceylon",
+            "flavor_id": "497",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "cexshun",
+    "views": "1165",
+    "created_at": "2017-10-25",
+    "slug": "cinnamon_donut",
+    "total_flavoring": "5.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

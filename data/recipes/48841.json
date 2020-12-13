@@ -1,63 +1,65 @@
 {
-  "name": "Splatter",
-  "description": "When I first got into the DIY scene, I remember trying to clone my favorite juice at the time \"Bad Blood\" from Bad Drip which is a Blueberry, Pomegranate, Vanilla. Of course being new it wasn't great but I liked it at the time. Well, Wayne's whole remix month got me thinking about revisiting the profile. I am not buying the juice to compare so I won't call it a clone or a remix but it is my take on the Blueberry, Pomegranate, Vanilla profile and I really dig what I'm tasting.\r\n\r\nFW Blueberry: This is the blueberry hands down. At first I thought maybe a realistic blueberry but that didn't work. It needed to be sweet and a bit on the sweeter candy side and this at 4% really works.\r\n\r\nFA Bilberry: I needed the blueberry to still have some connection to the real world so Bilberry here does the job of pulling down the FW Blueberry so it doesn't taste like straight blueberry syrup and helps FW Blueberry connect to the Pomegranates.\r\n\r\nTFA/FA Pomegranate: I can never choose between TFA or FA Pomegranate so they both get spotlighted here. TFA a little higher because it's not as strong as FA is to me but together they make a very nice Pomegranate.\r\n\r\nINW Shisha Vanilla: We are aiming for a vanilla profile and this is the cleanest vanilla without adding too much cream and gives the recipe a nice vanilla shine at the end of the vape. This honestly sits in my top 3 flavorings of all time and I just am in love with Shisha Vanilla. I might just marry this flavoring someday :>\r\n\r\nTFA Sweetener: Being inspired by \"Bad Blood\" by Bad Drip means I'm more than likely going to use sweetener to give it just a tad more sweetness and 1% is the perfect percentage to get that extra little bump I need.\r\n\r\nMix at 80vg/20pg like \"Bad Blood\" and if you guys try it out PLEASE leave me feedback. I can only get better if I get honest opinions and I will love you guys still no matter what you say, love it or hate it. SnV approved as well.",
-  "id": 48841,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/48841/08.jpg",
-  "updated_at": "2020-12-08T00:49:21.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "262",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DrDoobie",
-  "views": "2446",
-  "slug": "splatter",
-  "total_flavoring": "11.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "80%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is some tasty juice! I really enjoyed the way you get each of the three parts separately; the tangy Pom, the dark earthy sweet Blueberry, and especially the smooth, satisfying vanilla finish. I'm surprised and delighted that the two syrupy fruits had some nice separation. Can't find anything as far as room for improvement, this just tastes well-crafted to me. The only reservation I have about highly recommending it is that think you have to like blueberries in general and FW Blueberry in particular to appreciate it. It is probably not going to magically make you like blueberries. But if you're a blueberry fan, dig in! Thanks for the great vape Dr. Doob! "
-    }
-  ]
+    "name": "Splatter",
+    "description": "When I first got into the DIY scene, I remember trying to clone my favorite juice at the time \"Bad Blood\" from Bad Drip which is a Blueberry, Pomegranate, Vanilla. Of course being new it wasn't great but I liked it at the time. Well, Wayne's whole remix month got me thinking about revisiting the profile. I am not buying the juice to compare so I won't call it a clone or a remix but it is my take on the Blueberry, Pomegranate, Vanilla profile and I really dig what I'm tasting.\r\n\r\nFW Blueberry: This is the blueberry hands down. At first I thought maybe a realistic blueberry but that didn't work. It needed to be sweet and a bit on the sweeter candy side and this at 4% really works.\r\n\r\nFA Bilberry: I needed the blueberry to still have some connection to the real world so Bilberry here does the job of pulling down the FW Blueberry so it doesn't taste like straight blueberry syrup and helps FW Blueberry connect to the Pomegranates.\r\n\r\nTFA\/FA Pomegranate: I can never choose between TFA or FA Pomegranate so they both get spotlighted here. TFA a little higher because it's not as strong as FA is to me but together they make a very nice Pomegranate.\r\n\r\nINW Shisha Vanilla: We are aiming for a vanilla profile and this is the cleanest vanilla without adding too much cream and gives the recipe a nice vanilla shine at the end of the vape. This honestly sits in my top 3 flavorings of all time and I just am in love with Shisha Vanilla. I might just marry this flavoring someday :>\r\n\r\nTFA Sweetener: Being inspired by \"Bad Blood\" by Bad Drip means I'm more than likely going to use sweetener to give it just a tad more sweetness and 1% is the perfect percentage to get that extra little bump I need.\r\n\r\nMix at 80vg\/20pg like \"Bad Blood\" and if you guys try it out PLEASE leave me feedback. I can only get better if I get honest opinions and I will love you guys still no matter what you say, love it or hate it. SnV approved as well.",
+    "id": 48841,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/48841\/08.jpg",
+    "updated_at": "2020-12-12T15:39:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "262",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DrDoobie",
+    "views": "2450",
+    "created_at": "2017-06-02",
+    "slug": "splatter",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/48841.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "80%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is some tasty juice! I really enjoyed the way you get each of the three parts separately; the tangy Pom, the dark earthy sweet Blueberry, and especially the smooth, satisfying vanilla finish. I'm surprised and delighted that the two syrupy fruits had some nice separation. Can't find anything as far as room for improvement, this just tastes well-crafted to me. The only reservation I have about highly recommending it is that think you have to like blueberries in general and FW Blueberry in particular to appreciate it. It is probably not going to magically make you like blueberries. But if you're a blueberry fan, dig in! Thanks for the great vape Dr. Doob! "
+        }
+    ]
 }

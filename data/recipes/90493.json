@@ -1,50 +1,50 @@
 {
-  "name": "Nanaimo Bar",
-  "description": "The Nanaimo bar.  Chocolate, coconut and almond base, with a layer of custard and a chocolate ganache topping.  \r\n\r\nThis needs some aging to really blend into what I believe to be a good representation.  14 days? Maybe more, maybe less.  I forgot about the mix for a month, but was pleasantly surprised how itturned out.",
-  "id": 90493,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90493/Nanaimo-Bars-585x403.jpg",
-  "updated_at": "2020-12-05T08:05:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Chocolate Deutsch",
-      "flavor_id": "2151",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "NeuerTK",
-  "views": "1130",
-  "slug": "nanaimo_bar",
-  "total_flavoring": "5.0%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nanaimo Bar",
+    "description": "The Nanaimo bar.  Chocolate, coconut and almond base, with a layer of custard and a chocolate ganache topping.  \r\n\r\nThis needs some aging to really blend into what I believe to be a good representation.  14 days? Maybe more, maybe less.  I forgot about the mix for a month, but was pleasantly surprised how itturned out.",
+    "id": 90493,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90493\/Nanaimo-Bars-585x403.jpg",
+    "updated_at": "2020-12-11T20:41:27.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Chocolate Deutsch",
+            "flavor_id": "2151",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "NeuerTK",
+    "views": "1138",
+    "created_at": "2018-03-01",
+    "slug": "nanaimo_bar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90493.jpg",
+    "total_flavoring": "5.0%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0"
 }

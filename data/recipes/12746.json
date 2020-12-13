@@ -1,50 +1,50 @@
 {
-  "name": "Simple Tents",
-  "description": "My perfect summer Vape for 2016. Grapefruit kiwi and Melon with lime juice drizzled on top.",
-  "id": 12746,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12746/small-20161105-12653-1fy9stt.jpg",
-  "updated_at": "2020-12-05T09:50:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "White Grapefruit",
-      "flavor_id": "892",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lime",
-      "flavor_id": "662",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 2500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Candy Roll",
-      "flavor_id": "2153",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "jiffythekid",
-  "views": "1188",
-  "slug": "simple_tents",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Simple Tents",
+    "description": "My perfect summer Vape for 2016. Grapefruit kiwi and Melon with lime juice drizzled on top.",
+    "id": 12746,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12746\/small-20161105-12653-1fy9stt.jpg",
+    "updated_at": "2020-12-11T19:40:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "White Grapefruit",
+            "flavor_id": "892",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lime",
+            "flavor_id": "662",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 2500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Candy Roll",
+            "flavor_id": "2153",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "jiffythekid",
+    "views": "1206",
+    "created_at": "2016-09-07",
+    "slug": "simple_tents",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12746.jpg",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

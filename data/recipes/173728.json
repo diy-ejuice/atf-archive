@@ -1,68 +1,68 @@
 {
-  "name": "Banana's and Vanilla Ice Cream",
-  "description": "Was going for for something banana split like, but it turned into this delicious banana's and ice cream flavor. Steep time required. Tested again after 7 days and this is far better than after a s&v.\r\n\r\n---------\r\n\r\nBanana Profile\r\n\r\nBanana Split CAP\r\nBanana Cream TFA\r\n\r\nCreamy Vanilla Profile with a slight Dairy/Ice cream Note\r\n\r\nVanilla Swirl TFA\r\nWhipped Cream TFA\r\nMarshmallow TFA\r\nSweet Cream TFA\r\nVanilla Bean Ice Cream TFA",
-  "id": 173728,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/173728/banana-peanut-butter-ice-cream5.jpg",
-  "updated_at": "2020-12-08T00:51:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Split",
-      "flavor_id": "13",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 350,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Sublimeice",
-  "views": "1171",
-  "slug": "bananas_and_vanilla_ice_cream",
-  "total_flavoring": "14.6%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana's and Vanilla Ice Cream",
+    "description": "Was going for for something banana split like, but it turned into this delicious banana's and ice cream flavor. Steep time required. Tested again after 7 days and this is far better than after a s&v.\r\n\r\n---------\r\n\r\nBanana Profile\r\n\r\nBanana Split CAP\r\nBanana Cream TFA\r\n\r\nCreamy Vanilla Profile with a slight Dairy\/Ice cream Note\r\n\r\nVanilla Swirl TFA\r\nWhipped Cream TFA\r\nMarshmallow TFA\r\nSweet Cream TFA\r\nVanilla Bean Ice Cream TFA",
+    "id": 173728,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/173728\/banana-peanut-butter-ice-cream5.jpg",
+    "updated_at": "2020-12-12T06:59:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Split",
+            "flavor_id": "13",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 350,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Sublimeice",
+    "views": "1180",
+    "created_at": "2019-11-09",
+    "slug": "bananas_and_vanilla_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/173728.jpg",
+    "total_flavoring": "14.6%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

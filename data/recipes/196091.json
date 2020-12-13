@@ -1,38 +1,37 @@
 {
-  "name": "Dragon Scale Dust",
-  "description": "This is a \"happy accident\" flavor that was meant to simply be a raspberry yogurt with some added sourness, but it instead ended up with a taste reminiscent of Sweet Tarts or Pixie Sticks,  with a fruity tartness and a slightly chalky mouth feel.  It's quickly becoming one of my new favorites even despite not having the originally intended taste. \r\n\r\nThis recipe is best as a Shake and Vape flavor.  Letting it steep will increase the yogurt taste, but will also greatly reduce the chalky mouth feel.  For this reason, this is one of the few recipes that I would NOT recommend steeping.  Instead I recommend making it in small batches, and using all that you have before making more.  It's still enjoyable after a steep,  just a different (and slightly inferior in my opinion) experience.\r\n\r\nIf nicotine is desired, then VG based nicotine is recommended, as the flavorings will already add a lot of PG and limit how high the VG percentage can get.\r\n\r\nThe Blue Raspberry flavor is VG dominant while the other two are PG dominant.  So despite what this site's calculator says, mixing this flavor with no additional PG added should give you a solid 80% VG",
-  "id": 196091,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:38:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 8000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "1490",
-      "millipercent": 10000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sour Gummy",
-      "flavor_id": "8777",
-      "millipercent": 10000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "Vinderex",
-  "views": "475",
-  "slug": "dragon_scale_dust",
-  "total_flavoring": "28.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dragon Scale Dust",
+    "description": "This is a \"happy accident\" flavor that was meant to simply be a raspberry yogurt with some added sourness, but it instead ended up with a taste reminiscent of Sweet Tarts or Pixie Sticks,  with a fruity tartness and a slightly chalky mouth feel.  It's quickly becoming one of my new favorites even despite not having the originally intended taste. \r\n\r\nThis recipe is best as a Shake and Vape flavor.  Letting it steep will increase the yogurt taste, but will also greatly reduce the chalky mouth feel.  For this reason, this is one of the few recipes that I would NOT recommend steeping.  Instead I recommend making it in small batches, and using all that you have before making more.  It's still enjoyable after a steep,  just a different (and slightly inferior in my opinion) experience.\r\n\r\nIf nicotine is desired, then VG based nicotine is recommended, as the flavorings will already add a lot of PG and limit how high the VG percentage can get.\r\n\r\nThe Blue Raspberry flavor is VG dominant while the other two are PG dominant.  So despite what this site's calculator says, mixing this flavor with no additional PG added should give you a solid 80% VG",
+    "id": 196091,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:01:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 8000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "1490",
+            "millipercent": 10000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sour Gummy",
+            "flavor_id": "8777",
+            "millipercent": 10000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "Vinderex",
+    "views": "479",
+    "created_at": "2020-05-30",
+    "slug": "dragon_scale_dust",
+    "total_flavoring": "28.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

@@ -1,56 +1,57 @@
 {
-  "name": "Mango Yogurt",
-  "description": "A simple, sweet mango yogurt recipe\r\n\r\nThe sweet cream adds the mouthfeel and the FW yogurt is just simply the bee's knees amongst the yogurt flavors. I wouldn't recommend to use more than 2%.",
-  "id": 188764,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "insan0r",
-  "views": "1024",
-  "slug": "mango_yogurt",
-  "total_flavoring": "9.5%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "4",
-      "text": "It's mango and yogurt . Solid recipe. Nice job "
-    },
-    {
-      "user": "Echodub",
-      "score": "5",
-      "text": "you've earned your first 5 stars here!"
-    }
-  ]
+    "name": "Mango Yogurt",
+    "description": "A simple, sweet mango yogurt recipe\r\n\r\nThe sweet cream adds the mouthfeel and the FW yogurt is just simply the bee's knees amongst the yogurt flavors. I wouldn't recommend to use more than 2%.",
+    "id": 188764,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:35:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "insan0r",
+    "views": "1033",
+    "created_at": "2020-03-21",
+    "slug": "mango_yogurt",
+    "total_flavoring": "9.5%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 4,
+            "text": "It's mango and yogurt . Solid recipe. Nice job "
+        },
+        {
+            "user": "Echodub",
+            "score": 5,
+            "text": "you've earned your first 5 stars here!"
+        }
+    ]
 }

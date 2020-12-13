@@ -1,75 +1,77 @@
 {
-  "name": "Das Grüne - \"Der Grüne\" Clone (Green Iced Tea with Cactus and Lemon)",
-  "description": "People in D / A / CH most likely know and love \"Der Grüne\" by Pfanner, which is a Cactus-Lemon Green Ice Tea. \r\nAfter around 6 Iterations, this recipe comes close to 99% of the orginal. \r\n\r\nTFA Sweet Tea builds the tea base that is rounded up to a Green Tea base with FA Green Tea and FA Bergamot.\r\nINW Cactus and CAP Lemon Sicily are providing the Cactus-y, Lemon-y note that is slightly sour with some help of TFA Sour.\r\n\r\nSuperSweet and WS-23 are additives of course, but are a must for the original taste and coldness of an Ice Tea.\r\n\r\n\r\nSteep Time: Can be SNV'd but it is recommended to let it steep for at least 3 days for the Cactus to settle. The recipe reaches its full potential after 5+ days.\r\n\r\nEnjoy!",
-  "id": 159340,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/159340/pexels-photo-1484678.jpeg",
-  "updated_at": "2020-12-08T00:51:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Tea",
-      "flavor_id": "369",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Tea Green",
-      "flavor_id": "549",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 1100,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour",
-      "flavor_id": "336",
-      "millipercent": 200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 600,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "th1rst",
-  "views": "1143",
-  "slug": "das_grne_der_grne_clone_green_iced_tea_with_cactus_and_lemon",
-  "total_flavoring": "13.2%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Parad0x357",
-      "score": "5",
-      "text": "Very accurate to the profile and absolutely tasty. I increased the WS-23 and left the super sweet out. In my opinion it's sweet enough on it's own.&#xD;\nBy the way: While i was mixing a second batch of this I accidentally mixed it with 0.5% FA Aurora instead of 0.5% FA Bergamot (made aw juices at the same time and grabbed the wrong bottle). Also very good, gives the recipe even more of that citrus bite. But the bergamont is far more authentic to the profile, I have to admit."
-    }
-  ]
+    "name": "Das Gr\u00fcne - \"Der Gr\u00fcne\" Clone (Green Iced Tea with Cactus and Lemon)",
+    "description": "People in D \/ A \/ CH most likely know and love \"Der Gr\u00fcne\" by Pfanner, which is a Cactus-Lemon Green Ice Tea. \r\nAfter around 6 Iterations, this recipe comes close to 99% of the orginal. \r\n\r\nTFA Sweet Tea builds the tea base that is rounded up to a Green Tea base with FA Green Tea and FA Bergamot.\r\nINW Cactus and CAP Lemon Sicily are providing the Cactus-y, Lemon-y note that is slightly sour with some help of TFA Sour.\r\n\r\nSuperSweet and WS-23 are additives of course, but are a must for the original taste and coldness of an Ice Tea.\r\n\r\n\r\nSteep Time: Can be SNV'd but it is recommended to let it steep for at least 3 days for the Cactus to settle. The recipe reaches its full potential after 5+ days.\r\n\r\nEnjoy!",
+    "id": 159340,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/159340\/pexels-photo-1484678.jpeg",
+    "updated_at": "2020-12-12T20:31:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Tea",
+            "flavor_id": "369",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Tea Green",
+            "flavor_id": "549",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 1100,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour",
+            "flavor_id": "336",
+            "millipercent": 200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 600,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "th1rst",
+    "views": "1150",
+    "created_at": "2019-07-15",
+    "slug": "das_grne_der_grne_clone_green_iced_tea_with_cactus_and_lemon",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/159340.jpeg",
+    "total_flavoring": "13.2%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Parad0x357",
+            "score": 5,
+            "text": "Very accurate to the profile and absolutely tasty. I increased the WS-23 and left the super sweet out. In my opinion it's sweet enough on it's own.&#xD;\nBy the way: While i was mixing a second batch of this I accidentally mixed it with 0.5% FA Aurora instead of 0.5% FA Bergamot (made aw juices at the same time and grabbed the wrong bottle). Also very good, gives the recipe even more of that citrus bite. But the bergamont is far more authentic to the profile, I have to admit."
+        }
+    ]
 }

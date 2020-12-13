@@ -1,67 +1,69 @@
 {
-  "name": "Dogma",
-  "description": "It's a danish, with a marzipan filling, light icing, and slivered almonds.  My 100% S&V take on a bakery ADV.\r\n\r\nFA Catalan Cream- This concentrate really does pull the recipe together. It adds a bit of creaminess, to keep the pastry from reading as too dry. It also lends a subtle spice note to the entire vape, with a hint of bakery cinnamon and nutmeg.  The vanilla helps to build the base for the icing.\r\n\r\nFA Hazelnut- Not a creamy flavor, more like nearly raw unshelled hazelnuts. It's a strong concentrate, but at .25% it brings in just enough flavor and texture to simulate actual slivered almonds.\r\n\r\nINW Marzipan- The almond paste filling for the pastry. Sweet, heavy with that almond-extract bordering on cherry flavor.  The sweetness here, even at .5%, is enough to carry over and work with the catalan cream and zeppola to create a light icing for the danish.\r\n\r\nFW Whiskey- This adds some warmth to the vape, reinforcing the bakery aspect. The oak notes help to bolster the spices from the catalan cream.\r\n\r\nFA Zeppola- Fairly light  at .75%, but with enough powdered sugar on top to sweeten up that icing as well as provide a lighter pastry base.\r\n\r\nAnd that's it. I feel like this addresses some of the issues I've had with bakery vapes. It's balanced,  letting each component do it's work without turning muddled or cloying.\r\n\r\nI went with \"Dogma\" in reference to the Dogme 95 rules for filmmaking.  1. They're danish and I didn't have a better name, and 2. I think in developing this recipe I finally internalized the fact that I've become some kind of weird jerk when it comes to the way I think mixing should work.  I'm the Lars Von Trier of the mixing game.",
-  "id": 31789,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/31789/danish.jpg",
-  "updated_at": "2020-12-08T00:49:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marzipan",
-      "flavor_id": "1708",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Catalan Cream",
-      "flavor_id": "483",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazel Grove (hazelnut)",
-      "flavor_id": "417",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whiskey",
-      "flavor_id": "1461",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "ConcreteRiver",
-  "views": "6834",
-  "slug": "dogma",
-  "total_flavoring": "3.75%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This recipe is a technical marvel - totally S&amp;V-able warm, fresh bear claw with a startlingly accurate slivered almond topping.  Five stars for that. But despite showing off an incredible level of skill, I wish I'd made a smaller bottle. Once you get over what an achievement this is, vaping it starts to get old. That FW Whiskey starts to get a little weird and meaty-tasting. But I blame the contest restrictions more than anything else for that. What this is good for, more than anything else besides proving that the mixer is a genius, is getting someone very excited to try the two spinoffs, Loup Garou and Cherry Cheese Wolf.  "
-    },
-    {
-      "user": "Billywilly",
-      "score": "5",
-      "text": "This is a great recipe. Really enjoying it. Thanks for everything you do in the comminity."
-    },
-    {
-      "user": "Bogey_Again",
-      "score": "5",
-      "text": "This tastes just like a Bear claw! Had to substitute the FW whiskey so I chose TFA Brandy because it's warm &amp; sweet while being light on booze."
-    }
-  ]
+    "name": "Dogma",
+    "description": "It's a danish, with a marzipan filling, light icing, and slivered almonds.  My 100% S&V take on a bakery ADV.\r\n\r\nFA Catalan Cream- This concentrate really does pull the recipe together. It adds a bit of creaminess, to keep the pastry from reading as too dry. It also lends a subtle spice note to the entire vape, with a hint of bakery cinnamon and nutmeg.  The vanilla helps to build the base for the icing.\r\n\r\nFA Hazelnut- Not a creamy flavor, more like nearly raw unshelled hazelnuts. It's a strong concentrate, but at .25% it brings in just enough flavor and texture to simulate actual slivered almonds.\r\n\r\nINW Marzipan- The almond paste filling for the pastry. Sweet, heavy with that almond-extract bordering on cherry flavor.  The sweetness here, even at .5%, is enough to carry over and work with the catalan cream and zeppola to create a light icing for the danish.\r\n\r\nFW Whiskey- This adds some warmth to the vape, reinforcing the bakery aspect. The oak notes help to bolster the spices from the catalan cream.\r\n\r\nFA Zeppola- Fairly light  at .75%, but with enough powdered sugar on top to sweeten up that icing as well as provide a lighter pastry base.\r\n\r\nAnd that's it. I feel like this addresses some of the issues I've had with bakery vapes. It's balanced,  letting each component do it's work without turning muddled or cloying.\r\n\r\nI went with \"Dogma\" in reference to the Dogme 95 rules for filmmaking.  1. They're danish and I didn't have a better name, and 2. I think in developing this recipe I finally internalized the fact that I've become some kind of weird jerk when it comes to the way I think mixing should work.  I'm the Lars Von Trier of the mixing game.",
+    "id": 31789,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/31789\/danish.jpg",
+    "updated_at": "2020-12-12T20:28:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marzipan",
+            "flavor_id": "1708",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Catalan Cream",
+            "flavor_id": "483",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazel Grove (hazelnut)",
+            "flavor_id": "417",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whiskey",
+            "flavor_id": "1461",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "ConcreteRiver",
+    "views": "6846",
+    "created_at": "2017-02-12",
+    "slug": "dogma",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/31789.jpg",
+    "total_flavoring": "3.75%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This recipe is a technical marvel - totally S&amp;V-able warm, fresh bear claw with a startlingly accurate slivered almond topping.  Five stars for that. But despite showing off an incredible level of skill, I wish I'd made a smaller bottle. Once you get over what an achievement this is, vaping it starts to get old. That FW Whiskey starts to get a little weird and meaty-tasting. But I blame the contest restrictions more than anything else for that. What this is good for, more than anything else besides proving that the mixer is a genius, is getting someone very excited to try the two spinoffs, Loup Garou and Cherry Cheese Wolf.  "
+        },
+        {
+            "user": "Billywilly",
+            "score": 5,
+            "text": "This is a great recipe. Really enjoying it. Thanks for everything you do in the comminity."
+        },
+        {
+            "user": "Bogey_Again",
+            "score": 5,
+            "text": "This tastes just like a Bear claw! Had to substitute the FW whiskey so I chose TFA Brandy because it's warm &amp; sweet while being light on booze."
+        }
+    ]
 }

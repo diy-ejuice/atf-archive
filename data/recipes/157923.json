@@ -1,63 +1,65 @@
 {
-  "name": "Rainforest (Soda Remix)",
-  "description": "I love the fruit/floral combo that @RockyHarlow uses in his \"Rainforest\" recipe. It's hard to describe with words what it tastes like, since it's more of an abstract work of art, but I think his name \"Rainforest\" fits very well. The sweetness of the guava, sweet/floral honeysuckle and funky cactus makes for a very interesting combination.\r\n\r\nAs I keep throwing things at my soda base (FLV Citrus Soda, CAP Lemon Lime & WS-23), I think this combo turned out great. It preserves the unique taste of the original mix, but adds a slight fizzyness to it.",
-  "id": 157923,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157923/sodaremix.png",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "staybert",
-  "views": "2744",
-  "slug": "rainforest_soda_remix",
-  "total_flavoring": "9.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Rubicone",
-      "score": "5",
-      "text": "I like the original recipe and I like this variation too. It has been an ADV for me these days. Well done."
-    }
-  ]
+    "name": "Rainforest (Soda Remix)",
+    "description": "I love the fruit\/floral combo that @RockyHarlow uses in his \"Rainforest\" recipe. It's hard to describe with words what it tastes like, since it's more of an abstract work of art, but I think his name \"Rainforest\" fits very well. The sweetness of the guava, sweet\/floral honeysuckle and funky cactus makes for a very interesting combination.\r\n\r\nAs I keep throwing things at my soda base (FLV Citrus Soda, CAP Lemon Lime & WS-23), I think this combo turned out great. It preserves the unique taste of the original mix, but adds a slight fizzyness to it.",
+    "id": 157923,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/157923\/sodaremix.png",
+    "updated_at": "2020-12-12T20:31:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "staybert",
+    "views": "2756",
+    "created_at": "2019-07-03",
+    "slug": "rainforest_soda_remix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/157923.png",
+    "total_flavoring": "9.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Rubicone",
+            "score": 5,
+            "text": "I like the original recipe and I like this variation too. It has been an ADV for me these days. Well done."
+        }
+    ]
 }

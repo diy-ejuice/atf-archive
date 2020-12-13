@@ -1,62 +1,62 @@
 {
-  "name": "Humbug",
-  "description": "Eggnog, gingerbread, and tobacco. Nothing better to get you ready for the holiday season. \r\n\r\nINW Falcon Eye and HS Gingerbread together make a really nice gingerbread. The HS is a bit dry, but it works really well here. \r\n\r\nFLV Eggnog is a really tasty eggnog flavor, but needs a bit of help in the eggy department, so INW Custard helps with that. \r\n\r\nBlack for Pipe adds a really nice smokiness and HS Elder Captain has some nice holiday spice notes. \r\n\r\nLovage root in there to help with how dry it ends up being. The Elder Captain and Gingerbread are fairly dry, and the Lovage helps with that. \r\n",
-  "id": 56741,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/56741/IMG_6865.PNG",
-  "updated_at": "2020-12-06T12:54:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tobacco Falcon Eye",
-      "flavor_id": "854",
-      "millipercent": 1250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Classic For Pipe Black",
-      "flavor_id": "764",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "2130",
-      "millipercent": 250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Elder Captain",
-      "flavor_id": "2032",
-      "millipercent": 250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Lovage Root",
-      "flavor_id": "2152",
-      "millipercent": 250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "2418",
-  "slug": "humbug",
-  "total_flavoring": "6.25%",
-  "steep_days": "14",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Humbug",
+    "description": "Eggnog, gingerbread, and tobacco. Nothing better to get you ready for the holiday season. \r\n\r\nINW Falcon Eye and HS Gingerbread together make a really nice gingerbread. The HS is a bit dry, but it works really well here. \r\n\r\nFLV Eggnog is a really tasty eggnog flavor, but needs a bit of help in the eggy department, so INW Custard helps with that. \r\n\r\nBlack for Pipe adds a really nice smokiness and HS Elder Captain has some nice holiday spice notes. \r\n\r\nLovage root in there to help with how dry it ends up being. The Elder Captain and Gingerbread are fairly dry, and the Lovage helps with that. \r\n",
+    "id": 56741,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/56741\/IMG_6865.PNG",
+    "updated_at": "2020-12-12T00:40:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tobacco Falcon Eye",
+            "flavor_id": "854",
+            "millipercent": 1250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Classic For Pipe Black",
+            "flavor_id": "764",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "2130",
+            "millipercent": 250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Elder Captain",
+            "flavor_id": "2032",
+            "millipercent": 250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Lovage Root",
+            "flavor_id": "2152",
+            "millipercent": 250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "2427",
+    "created_at": "2017-07-23",
+    "slug": "humbug",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/56741.PNG",
+    "total_flavoring": "6.25%",
+    "steep_days": "14",
+    "best_vg": "60%",
+    "temperature": "0"
 }

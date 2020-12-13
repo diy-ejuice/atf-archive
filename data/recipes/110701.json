@@ -1,80 +1,82 @@
 {
-  "name": "Lemon & Persian Lime Iced Cupcakes AKA Green & Gold Cupcake",
-  "description": "FA Metaphor has a creamy vanilla angel food cake flavor, fluffy and light. I decided against Pandoro.\r\nFA Custard premium - some moisture for the cake and it steeps fast. You could use FA custard if you want but I don't have it and don't know what the lemon notes in it will do to everything else already in  here.\r\nFW Lemon Mernigue Pie - I originally had vanilla cupcake but it wasn't behaving too low and its all icing too high and its too much vanilla.\r\nVT Buttercream frosting - you need frosting and this boosts the cupcake icing element.\r\nCAP Butter cream - backs up the buttercream frosting preventing it from being powdery\r\nVT Persian lime - some added tartness\r\nFE Lemon - non-fading and decent in bakeries.  A low amount due to lighter lemon notes from Metaphor already present.\r\nVT Vanilla cream - This stuff is just great so it has to be there.\r\nSweeten to taste/ Vape Wizard etc you can suit yourself here but I use 0.5/0.25.\r\nReleasing this primarily for feedback which is rare. Hope it helps someone at least get an idea.",
-  "id": 110701,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/110701/custom-glitter-alice-in-wonderland-birthday.jpg",
-  "updated_at": "2020-12-08T00:50:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Metaphor",
-      "flavor_id": "4455",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 750,
-      "vendor": "FE"
-    },
-    {
-      "name": "Vanilla Cream",
-      "flavor_id": "8992",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Lemon Meringue Pie",
-      "flavor_id": "1335",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "wadeyloops",
-  "views": "2728",
-  "slug": "lemon_persian_lime_iced_cupcakes_aka_green_gold_cupcake",
-  "total_flavoring": "11.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "5",
-      "text": "Actually bought vanilla cream, lime and metaphor just to make this recipe and so glad I did.  Mixed up a 10 ml bottle of this and a few other recipes right before I went traveling.  This was the first one I tried (after 2 days even) and I was so disappointed when it was all gone!  Gonna have to make a bigger batch so I can see what it does after a steep.  Its VERY rich; the combo of the buttercreams makes you feel like you're gonna gain weight just from vaping it.  I think I might try bumping the lime up just a tad cuz Id like to see it come though a little bit more...  I know that CAP buttercream i one of those that really needs to have that steep time but I have to say it was pretty dam awesome even without it.  I carried in my pocket and shook it really good every time so that prob helped.  Mix up a big batch of this trust me on this!   Thanks for the great recipe wadeyloops!    update: after playing with it a bit, ive got this more where I like it, I upped the Persian lime to 1.5%, LMP to 2.5% &amp; lemon to 1%.  For me this gives a bit more oomph to break though that wall of heavy creams.  I also added .25% cookie to give the cake a more baked aspect."
-    },
-    {
-      "user": "TamVapes",
-      "score": "5",
-      "text": "This is excellent!  Absolutely, delicious. This is what I consider Premium Juice to taste like.  "
-    }
-  ]
+    "name": "Lemon & Persian Lime Iced Cupcakes AKA Green & Gold Cupcake",
+    "description": "FA Metaphor has a creamy vanilla angel food cake flavor, fluffy and light. I decided against Pandoro.\r\nFA Custard premium - some moisture for the cake and it steeps fast. You could use FA custard if you want but I don't have it and don't know what the lemon notes in it will do to everything else already in  here.\r\nFW Lemon Mernigue Pie - I originally had vanilla cupcake but it wasn't behaving too low and its all icing too high and its too much vanilla.\r\nVT Buttercream frosting - you need frosting and this boosts the cupcake icing element.\r\nCAP Butter cream - backs up the buttercream frosting preventing it from being powdery\r\nVT Persian lime - some added tartness\r\nFE Lemon - non-fading and decent in bakeries.  A low amount due to lighter lemon notes from Metaphor already present.\r\nVT Vanilla cream - This stuff is just great so it has to be there.\r\nSweeten to taste\/ Vape Wizard etc you can suit yourself here but I use 0.5\/0.25.\r\nReleasing this primarily for feedback which is rare. Hope it helps someone at least get an idea.",
+    "id": 110701,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/110701\/custom-glitter-alice-in-wonderland-birthday.jpg",
+    "updated_at": "2020-12-12T20:30:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Metaphor",
+            "flavor_id": "4455",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 750,
+            "vendor": "FE"
+        },
+        {
+            "name": "Vanilla Cream",
+            "flavor_id": "8992",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Lemon Meringue Pie",
+            "flavor_id": "1335",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "wadeyloops",
+    "views": "2735",
+    "created_at": "2018-07-17",
+    "slug": "lemon_persian_lime_iced_cupcakes_aka_green_gold_cupcake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/110701.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 5,
+            "text": "Actually bought vanilla cream, lime and metaphor just to make this recipe and so glad I did.  Mixed up a 10 ml bottle of this and a few other recipes right before I went traveling.  This was the first one I tried (after 2 days even) and I was so disappointed when it was all gone!  Gonna have to make a bigger batch so I can see what it does after a steep.  Its VERY rich; the combo of the buttercreams makes you feel like you're gonna gain weight just from vaping it.  I think I might try bumping the lime up just a tad cuz Id like to see it come though a little bit more...  I know that CAP buttercream i one of those that really needs to have that steep time but I have to say it was pretty dam awesome even without it.  I carried in my pocket and shook it really good every time so that prob helped.  Mix up a big batch of this trust me on this!   Thanks for the great recipe wadeyloops!    update: after playing with it a bit, ive got this more where I like it, I upped the Persian lime to 1.5%, LMP to 2.5% &amp; lemon to 1%.  For me this gives a bit more oomph to break though that wall of heavy creams.  I also added .25% cookie to give the cake a more baked aspect."
+        },
+        {
+            "user": "TamVapes",
+            "score": 5,
+            "text": "This is excellent!  Absolutely, delicious. This is what I consider Premium Juice to taste like.  "
+        }
+    ]
 }

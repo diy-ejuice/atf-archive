@@ -1,69 +1,71 @@
 {
-  "name": "VErTIgO",
-  "description": "Coconut custard and  Tobacco... I wanted a tobacco that would be prominent Kentucky blend does a good job at that and Red burley to back it up .The custard is pretty basic my go to Capella v1 and Cap NY cheesecake & Flavorah vanilla pudding purilum super sweet @ .25% just enough to blend everything together. I do have another version of this recipe with FA almond if that's your thing add 1%",
-  "id": 143399,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/143399/FB_IMG_1553098263658.jpg",
-  "updated_at": "2020-12-08T00:50:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kentucky Blend",
-      "flavor_id": "4362",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "7787",
-      "millipercent": 250,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "Slushy",
-  "views": "998",
-  "slug": "vertigo",
-  "total_flavoring": "8.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AAP-DAAP-DERP",
-      "score": "5",
-      "text": "Love these type of vapes... Nicely balanced!"
-    }
-  ]
+    "name": "VErTIgO",
+    "description": "Coconut custard and  Tobacco... I wanted a tobacco that would be prominent Kentucky blend does a good job at that and Red burley to back it up .The custard is pretty basic my go to Capella v1 and Cap NY cheesecake & Flavorah vanilla pudding purilum super sweet @ .25% just enough to blend everything together. I do have another version of this recipe with FA almond if that's your thing add 1%",
+    "id": 143399,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/143399\/FB_IMG_1553098263658.jpg",
+    "updated_at": "2020-12-12T11:52:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kentucky Blend",
+            "flavor_id": "4362",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "7787",
+            "millipercent": 250,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "Slushy",
+    "views": "1019",
+    "created_at": "2019-03-20",
+    "slug": "vertigo",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/143399.jpg",
+    "total_flavoring": "8.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AAP-DAAP-DERP",
+            "score": 5,
+            "text": "Love these type of vapes... Nicely balanced!"
+        }
+    ]
 }

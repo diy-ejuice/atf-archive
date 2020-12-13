@@ -1,50 +1,49 @@
 {
-  "name": "Creamy Cigarette",
-  "description": "This one came from me wanting a true tobacco feel with a kick and the Classic cigarette and Wood spice definitely brings this to the table. As it is a different type of aspect of tobacco vape. The Cream and Smooth vanilla gives me the slight creamy notes i wanted in this mix. Red burley was added for texture to the final mixture.",
-  "id": 86528,
-  "image_url": null,
-  "updated_at": "2020-12-07T10:43:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Classic Cigarette",
-      "flavor_id": "4358",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Smooth Vanilla",
-      "flavor_id": "8570",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wood Spice",
-      "flavor_id": "4447",
-      "millipercent": 200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "JJ1977",
-  "views": "1292",
-  "slug": "creamy_cigarette",
-  "total_flavoring": "3.25%",
-  "steep_days": "14",
-  "best_vg": "85%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creamy Cigarette",
+    "description": "This one came from me wanting a true tobacco feel with a kick and the Classic cigarette and Wood spice definitely brings this to the table. As it is a different type of aspect of tobacco vape. The Cream and Smooth vanilla gives me the slight creamy notes i wanted in this mix. Red burley was added for texture to the final mixture.",
+    "id": 86528,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Classic Cigarette",
+            "flavor_id": "4358",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Smooth Vanilla",
+            "flavor_id": "8570",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wood Spice",
+            "flavor_id": "4447",
+            "millipercent": 200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "JJ1977",
+    "views": "1299",
+    "created_at": "2018-02-02",
+    "slug": "creamy_cigarette",
+    "total_flavoring": "3.25%",
+    "steep_days": "14",
+    "best_vg": "85%",
+    "temperature": "0"
 }

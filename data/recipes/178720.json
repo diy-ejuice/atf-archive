@@ -1,56 +1,56 @@
 {
-  "name": "mlNikon's Sticky Buns",
-  "description": "Sticky sweet cinnamon bun with nuts on top. Deep fried pastry dough and the tfa frosted donut gives it more of a fried donut feel. Molasses sweetens it up with a sticky feel and the OOO Vanilla Custard Cheesecake is the cream cheese icing on top.",
-  "id": 178720,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178720/cinnamonbun.png",
-  "updated_at": "2020-12-06T07:16:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Pastry",
-      "flavor_id": "6049",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Deep Fried Pastry Dough SC",
-      "flavor_id": "8367",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Frosted Donut",
-      "flavor_id": "171",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Molasses SC",
-      "flavor_id": "8374",
-      "millipercent": 300,
-      "vendor": "WF"
-    },
-    {
-      "name": "Nut Mix",
-      "flavor_id": "537",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard Cheesecake",
-      "flavor_id": "6532",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "767",
-  "slug": "mlnikons_sticky_buns",
-  "total_flavoring": "8.55%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "mlNikon's Sticky Buns",
+    "description": "Sticky sweet cinnamon bun with nuts on top. Deep fried pastry dough and the tfa frosted donut gives it more of a fried donut feel. Molasses sweetens it up with a sticky feel and the OOO Vanilla Custard Cheesecake is the cream cheese icing on top.",
+    "id": 178720,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178720\/cinnamonbun.png",
+    "updated_at": "2020-12-12T14:07:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Pastry",
+            "flavor_id": "6049",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Deep Fried Pastry Dough SC",
+            "flavor_id": "8367",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Frosted Donut",
+            "flavor_id": "171",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Molasses SC",
+            "flavor_id": "8374",
+            "millipercent": 300,
+            "vendor": "WF"
+        },
+        {
+            "name": "Nut Mix",
+            "flavor_id": "537",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard Cheesecake",
+            "flavor_id": "6532",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "777",
+    "created_at": "2019-12-22",
+    "slug": "mlnikons_sticky_buns",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178720.png",
+    "total_flavoring": "8.55%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

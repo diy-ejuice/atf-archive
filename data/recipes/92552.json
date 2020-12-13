@@ -1,38 +1,37 @@
 {
-  "name": "Fruity Cereal",
-  "description": "Fruit circles cereal. I enjoy this one. I am new to vaping so getting flavors and trying them. Suggestions always appreciated ",
-  "id": 92552,
-  "image_url": null,
-  "updated_at": "2020-11-30T02:42:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Circles With Milk",
-      "flavor_id": "140",
-      "millipercent": 10000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 3330,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3330,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "llisahere",
-  "views": "287",
-  "slug": "fruity_cereal",
-  "total_flavoring": "16.66%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fruity Cereal",
+    "description": "Fruit circles cereal. I enjoy this one. I am new to vaping so getting flavors and trying them. Suggestions always appreciated ",
+    "id": 92552,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:57:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Circles With Milk",
+            "flavor_id": "140",
+            "millipercent": 10000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 3330,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3330,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "llisahere",
+    "views": "291",
+    "created_at": "2018-03-16",
+    "slug": "fruity_cereal",
+    "total_flavoring": "16.66%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

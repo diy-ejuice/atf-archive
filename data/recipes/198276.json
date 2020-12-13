@@ -1,44 +1,43 @@
 {
-  "name": "Mixed Berry (mo) ",
-  "description": "Mixed Berry modified for flavours that Mo has, because he is the man! 😁 ",
-  "id": 198276,
-  "image_url": null,
-  "updated_at": "2020-12-05T13:10:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 150,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "jigsaw314",
-  "views": "486",
-  "slug": "mixed_berry_mo",
-  "total_flavoring": "10.15%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mixed Berry (mo) ",
+    "description": "Mixed Berry modified for flavours that Mo has, because he is the man! \ud83d\ude01 ",
+    "id": 198276,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:16:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 150,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "jigsaw314",
+    "views": "494",
+    "created_at": "2020-06-20",
+    "slug": "mixed_berry_mo",
+    "total_flavoring": "10.15%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

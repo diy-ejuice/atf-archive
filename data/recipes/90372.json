@@ -1,81 +1,83 @@
 {
-  "name": "Frilly Fruit parfait",
-  "description": "is silverline PUR?  that's what I put - wasn't sure.  Okay so I wanted a floral and fruity yogurt with some crunch - I think I probably got that here or close - suggestions are welcome",
-  "id": 90372,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90372/muesli-breakfast-food-cornflakes-40725.jpeg",
-  "updated_at": "2020-12-06T20:43:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Currant",
-      "flavor_id": "213",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 1300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "8740",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Organic Strawberry",
-      "flavor_id": "2669",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "294",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "615",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 1800,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherry Blossom (pg)",
-      "flavor_id": "221",
-      "millipercent": 650,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "spicygal",
-  "views": "1012",
-  "slug": "frilly_fruit_parfait",
-  "total_flavoring": "10.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "none",
-      "text": "no, silver line is CAP (capella's newer affordable line, i guess?) PUR is purillum, Nic river carries it.  so this recipe should be corrected to CAP butter pecan if thats infact what you used :)"
-    }
-  ]
+    "name": "Frilly Fruit parfait",
+    "description": "is silverline PUR?  that's what I put - wasn't sure.  Okay so I wanted a floral and fruity yogurt with some crunch - I think I probably got that here or close - suggestions are welcome",
+    "id": 90372,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90372\/muesli-breakfast-food-cornflakes-40725.jpeg",
+    "updated_at": "2020-12-10T23:32:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Currant",
+            "flavor_id": "213",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 1300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "8740",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Organic Strawberry",
+            "flavor_id": "2669",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "294",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "615",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 1800,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherry Blossom (pg)",
+            "flavor_id": "221",
+            "millipercent": 650,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "spicygal",
+    "views": "1020",
+    "created_at": "2018-02-28",
+    "slug": "frilly_fruit_parfait",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90372.jpeg",
+    "total_flavoring": "10.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 0,
+            "text": "no, silver line is CAP (capella's newer affordable line, i guess?) PUR is purillum, Nic river carries it.  so this recipe should be corrected to CAP butter pecan if thats infact what you used :)"
+        }
+    ]
 }

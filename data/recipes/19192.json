@@ -1,44 +1,44 @@
 {
-  "name": "Winter MochaMint",
-  "description": "**Modeled after one of my favorite cigarettes when I first started smoking. A nice cigarette tobacco with a medium chocolate, light mint, and hint of coffee.**",
-  "id": 19192,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/19192/Capture.JPG",
-  "updated_at": "2020-12-07T14:11:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Arabian Tobacco",
-      "flavor_id": "4383",
-      "millipercent": 660,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "4389",
-      "millipercent": 2250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "631",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Booster (tiramisu)",
-      "flavor_id": "515",
-      "millipercent": 330,
-      "vendor": "FA"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "2057",
-  "slug": "winter_mochamint",
-  "total_flavoring": "4.49%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Winter MochaMint",
+    "description": "**Modeled after one of my favorite cigarettes when I first started smoking. A nice cigarette tobacco with a medium chocolate, light mint, and hint of coffee.**",
+    "id": 19192,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/19192\/Capture.JPG",
+    "updated_at": "2020-12-12T15:38:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Arabian Tobacco",
+            "flavor_id": "4383",
+            "millipercent": 660,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "4389",
+            "millipercent": 2250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "631",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Booster (tiramisu)",
+            "flavor_id": "515",
+            "millipercent": 330,
+            "vendor": "FA"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "2072",
+    "created_at": "2016-11-06",
+    "slug": "winter_mochamint",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/19192.JPG",
+    "total_flavoring": "4.49%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

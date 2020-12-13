@@ -1,75 +1,77 @@
 {
-  "name": "Good ol' Blueberry Custard",
-  "description": "A good, solid old fashioned blueberry custard. \r\nSweet custard, with bright blueberries, using common ingredients that most people have in their inventory. \r\n\r\nCan 100% be used as a shake and vape, but best after a week.",
-  "id": 196722,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196722/image.jpeg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 4000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bilberry",
-      "flavor_id": "533",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "MCrane81",
-  "views": "1124",
-  "slug": "good_ol_blueberry_custard",
-  "total_flavoring": "12.25%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "diesel223",
-      "score": "5",
-      "text": "Will update review later as I have just mixed. Such a thick, rich, buttery custard. Absolutely delicious custard. Right now not getting much blueberry at all. I'm sure once it steeps and the custard pulls back a little it will come through. But just on the custard flavor alone I will vape this all day."
-    }
-  ]
+    "name": "Good ol' Blueberry Custard",
+    "description": "A good, solid old fashioned blueberry custard. \r\nSweet custard, with bright blueberries, using common ingredients that most people have in their inventory. \r\n\r\nCan 100% be used as a shake and vape, but best after a week.",
+    "id": 196722,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196722\/image.jpeg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 4000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bilberry",
+            "flavor_id": "533",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "MCrane81",
+    "views": "1135",
+    "created_at": "2020-06-05",
+    "slug": "good_ol_blueberry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196722.jpeg",
+    "total_flavoring": "12.25%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "diesel223",
+            "score": 5,
+            "text": "Will update review later as I have just mixed. Such a thick, rich, buttery custard. Absolutely delicious custard. Right now not getting much blueberry at all. I'm sure once it steeps and the custard pulls back a little it will come through. But just on the custard flavor alone I will vape this all day."
+        }
+    ]
 }

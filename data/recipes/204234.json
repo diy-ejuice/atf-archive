@@ -1,63 +1,65 @@
 {
-  "name": "The Italian Stallion",
-  "description": "This is an authentic tasting Italian Cream Cake. For the base I used WF Angel Cake SC. It reminds me of a nice and buttery moist yellow cake. I wanted to give the cake a little more substance and grit so I went with JF Biscuit. Of course you can't have an Italian Cream Cake without HS Italian Cream. This cream is off the charts good! All you need is 1% of this butter cream icing. FLV Sweet Coconut pairs well with Italian Cream. It's a very subtle coconut but it's the most authentic IMO. I topped the recipe off with FA Almond. \r\n\r\nPlease enjoy and share your feedback!",
-  "id": 204234,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/204234/italian-cream-sheet-cake-a1-scaled.jpg",
-  "updated_at": "2020-12-08T00:51:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Italian Cream",
-      "flavor_id": "2132",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Ledpedal",
-  "views": "872",
-  "slug": "the_italian_stallion",
-  "total_flavoring": "7.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ronc",
-      "score": "5",
-      "text": "This is pretty damn tasty! Very well balanced ingredients. Just the right amount of sweetness, richness and mouthfeel. Finally found some use for my sweet coconut and it blends in nice and subtle. I did sub the HS Italian cream with WF butter cream frosting and it's still good. If I ever get HSIC I'll go with it but for now I'll be putting this in my rotation. Nice job! "
-    }
-  ]
+    "name": "The Italian Stallion",
+    "description": "This is an authentic tasting Italian Cream Cake. For the base I used WF Angel Cake SC. It reminds me of a nice and buttery moist yellow cake. I wanted to give the cake a little more substance and grit so I went with JF Biscuit. Of course you can't have an Italian Cream Cake without HS Italian Cream. This cream is off the charts good! All you need is 1% of this butter cream icing. FLV Sweet Coconut pairs well with Italian Cream. It's a very subtle coconut but it's the most authentic IMO. I topped the recipe off with FA Almond. \r\n\r\nPlease enjoy and share your feedback!",
+    "id": 204234,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/204234\/italian-cream-sheet-cake-a1-scaled.jpg",
+    "updated_at": "2020-12-12T18:31:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Italian Cream",
+            "flavor_id": "2132",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Ledpedal",
+    "views": "883",
+    "created_at": "2020-08-27",
+    "slug": "the_italian_stallion",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/204234.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ronc",
+            "score": 5,
+            "text": "This is pretty damn tasty! Very well balanced ingredients. Just the right amount of sweetness, richness and mouthfeel. Finally found some use for my sweet coconut and it blends in nice and subtle. I did sub the HS Italian cream with WF butter cream frosting and it's still good. If I ever get HSIC I'll go with it but for now I'll be putting this in my rotation. Nice job! "
+        }
+    ]
 }

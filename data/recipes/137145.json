@@ -1,86 +1,86 @@
 {
-  "name": "Strawberry Milkshake",
-  "description": "A really milky and creamy milkshake with strawberry. Steep it for 4-5 days and its ready for vape. Enjoy!!",
-  "id": 137145,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/137145/59627a882b13a71cc603f1b059459719d0e0e9fd.jpg",
-  "updated_at": "2020-12-06T20:44:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 700,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fairy Floss",
-      "flavor_id": "8876",
-      "millipercent": 300,
-      "vendor": "VT"
-    },
-    {
-      "name": "French Vanilla Ice Cream",
-      "flavor_id": "8880",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry Custard",
-      "flavor_id": "8975",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry Milk",
-      "flavor_id": "8977",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "2100",
-  "slug": "strawberry_milkshake",
-  "total_flavoring": "15.8%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Milkshake",
+    "description": "A really milky and creamy milkshake with strawberry. Steep it for 4-5 days and its ready for vape. Enjoy!!",
+    "id": 137145,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/137145\/59627a882b13a71cc603f1b059459719d0e0e9fd.jpg",
+    "updated_at": "2020-12-10T17:58:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 700,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fairy Floss",
+            "flavor_id": "8876",
+            "millipercent": 300,
+            "vendor": "VT"
+        },
+        {
+            "name": "French Vanilla Ice Cream",
+            "flavor_id": "8880",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry Custard",
+            "flavor_id": "8975",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry Milk",
+            "flavor_id": "8977",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "2109",
+    "created_at": "2019-01-30",
+    "slug": "strawberry_milkshake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/137145.jpg",
+    "total_flavoring": "15.8%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

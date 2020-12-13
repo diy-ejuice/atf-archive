@@ -1,69 +1,71 @@
 {
-  "name": "Raz Ripplez (Thanks Charlie!)",
-  "description": "Been working on this one a little bit. I like it enough to be my first public recipe. After trying Charlie Noble's Raspberry Ripple, I knew I needed to try my hand at it. This a pretty close to what I remember about it. \r\nThe raspberry sweet is obviously a great choice for a sweet, almost jammy raspberry, but lacked a little body. That's why I threw in the FA Berryl.\r\nThe rest is easy, just get a rich, deep, creamy vanilla ice cream. Feel free to sub out your favorite VBIC if you can't do the TPA. \r\nI feel like the white chocolate and the vanilla shisha provide a really delicious touch to the ice cream, with the shisha providing a very nice spice vanilla note on the finish.  It really does remind me of a vanilla bean ice cream with a generous swirl of raspberry puree in it.\r\nGive this one a good 5 days to come together, but as always, the longer the better. \r\nI mixed this at 70/30 vg/pg and vape exclusively out of a Hurricane 1.3 RTA and it's very flavorful.\r\nI really hope you guys dig this one. Please let me know what you all think, good or bad!",
-  "id": 101950,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101950/razripz.jpg",
-  "updated_at": "2020-12-08T00:50:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "194",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Woody0707",
-  "views": "2442",
-  "slug": "raz_ripplez_thanks_charlie",
-  "total_flavoring": "17.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "Nice recipe. Unfortunately I'm one of those damned black pepper tasters when it comes to TPA VBIC and WC so I had to sub those with LB VIC and FW WC instead. Let this one steep for a week and everything blends nicely. Raspberry is fairly subtle but a nice flavor, like a raspberry jam or syrup, with a nice rich ice cream base. The white chocolate goes nicely with the raspberry as I've found out in a white chocolate and raspberry kit-kat recipe I've been tinkering with. A nice little recipe to break my steady stream of chilled fruit vapes for the summer heat. Keep up the good work, look forward to more recipes."
-    }
-  ]
+    "name": "Raz Ripplez (Thanks Charlie!)",
+    "description": "Been working on this one a little bit. I like it enough to be my first public recipe. After trying Charlie Noble's Raspberry Ripple, I knew I needed to try my hand at it. This a pretty close to what I remember about it. \r\nThe raspberry sweet is obviously a great choice for a sweet, almost jammy raspberry, but lacked a little body. That's why I threw in the FA Berryl.\r\nThe rest is easy, just get a rich, deep, creamy vanilla ice cream. Feel free to sub out your favorite VBIC if you can't do the TPA. \r\nI feel like the white chocolate and the vanilla shisha provide a really delicious touch to the ice cream, with the shisha providing a very nice spice vanilla note on the finish.  It really does remind me of a vanilla bean ice cream with a generous swirl of raspberry puree in it.\r\nGive this one a good 5 days to come together, but as always, the longer the better. \r\nI mixed this at 70\/30 vg\/pg and vape exclusively out of a Hurricane 1.3 RTA and it's very flavorful.\r\nI really hope you guys dig this one. Please let me know what you all think, good or bad!",
+    "id": 101950,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101950\/razripz.jpg",
+    "updated_at": "2020-12-12T17:11:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "194",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Woody0707",
+    "views": "2455",
+    "created_at": "2018-05-20",
+    "slug": "raz_ripplez_thanks_charlie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101950.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "Nice recipe. Unfortunately I'm one of those damned black pepper tasters when it comes to TPA VBIC and WC so I had to sub those with LB VIC and FW WC instead. Let this one steep for a week and everything blends nicely. Raspberry is fairly subtle but a nice flavor, like a raspberry jam or syrup, with a nice rich ice cream base. The white chocolate goes nicely with the raspberry as I've found out in a white chocolate and raspberry kit-kat recipe I've been tinkering with. A nice little recipe to break my steady stream of chilled fruit vapes for the summer heat. Keep up the good work, look forward to more recipes."
+        }
+    ]
 }

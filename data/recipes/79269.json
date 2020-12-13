@@ -1,68 +1,67 @@
 {
-  "name": "Vanilla Cupcake Hazelnut",
-  "description": "Vanilla Cupcake Hazelnut. I made this on a whim not using percentages, more like 1ml of this, 1/2ml of that... and it tasted so good like an amazing candy rainbow that I need to nail down. So I'm working on it.... It's something like this.",
-  "id": 79269,
-  "image_url": null,
-  "updated_at": "2020-12-07T04:39:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Cup Cake",
-      "flavor_id": "1453",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "70",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "warmexxus",
-  "views": "1127",
-  "slug": "vanilla_cupcake_hazelnut",
-  "total_flavoring": "18.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vanilla Cupcake Hazelnut",
+    "description": "Vanilla Cupcake Hazelnut. I made this on a whim not using percentages, more like 1ml of this, 1\/2ml of that... and it tasted so good like an amazing candy rainbow that I need to nail down. So I'm working on it.... It's something like this.",
+    "id": 79269,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Cup Cake",
+            "flavor_id": "1453",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "70",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "warmexxus",
+    "views": "1134",
+    "created_at": "2017-12-16",
+    "slug": "vanilla_cupcake_hazelnut",
+    "total_flavoring": "18.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

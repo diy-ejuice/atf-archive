@@ -1,69 +1,71 @@
 {
-  "name": "Vishnu",
-  "description": "The  second of my three Indian flavor profile inspired Ice Creams. A nice, creamy peanut butter ice cream, topped with marshmallow with hints of lavender. The anise is very subtle after a good steep, it plays well and accents the lavender quite well. The lemon I put in there to help the lavender drop the \"green\" note I was getting from it. The anise and lemon together seemed to just left a nice lavender aroma without the vegetation taste. The marshmallow comes out nice and thick on the exhale mixing with the lavender a little. Very pleasing flavor.\r\n\r\nPlease let this sit at least 5 days. This is NOT a shake and vape. The anise is WAY to overpowering until it mellows out, it will be all you taste. After a week you can see where the flavors are going and it is a nice vape experience, which is why I put the 7 day steep time. Personally, I'm a long steep time person and very much enjoyed it at about 1 month. It didn't seem to change much after that. ",
-  "id": 47748,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/47748/Vishnu.jpg",
-  "updated_at": "2020-12-08T00:49:20.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lavender",
-      "flavor_id": "510",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Anise",
-      "flavor_id": "499",
-      "millipercent": 100,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "2453",
-  "slug": "vishnu",
-  "total_flavoring": "13.85%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Pleasant AF! I had no idea TFA Peanut Butter could be made to taste so smooth and creamy after a steep. It loves to just dry out and turn to mud. Not so here; where it's peanut butter ice cream all day. Topping this delightfulness with lavender-infused marshmallow seems like a strange choice, but it works, very well. I was scared of the anise too - I hate the actual taste of it - but here it just seems to modify the lavender, which is comes across as just a floral hint, not as laundry soap or even full-on flowers but more of an exotic spice, and helps to make 2% TFA Marshmallow actually taste and feel like a marshmallow topping, which is an accomplishment.. It's a shame that all these \"scary\" ingredients will probably prevent all but a few brave souls from trying it. Those who pass it by are missing out on something amazing. "
-    }
-  ]
+    "name": "Vishnu",
+    "description": "The  second of my three Indian flavor profile inspired Ice Creams. A nice, creamy peanut butter ice cream, topped with marshmallow with hints of lavender. The anise is very subtle after a good steep, it plays well and accents the lavender quite well. The lemon I put in there to help the lavender drop the \"green\" note I was getting from it. The anise and lemon together seemed to just left a nice lavender aroma without the vegetation taste. The marshmallow comes out nice and thick on the exhale mixing with the lavender a little. Very pleasing flavor.\r\n\r\nPlease let this sit at least 5 days. This is NOT a shake and vape. The anise is WAY to overpowering until it mellows out, it will be all you taste. After a week you can see where the flavors are going and it is a nice vape experience, which is why I put the 7 day steep time. Personally, I'm a long steep time person and very much enjoyed it at about 1 month. It didn't seem to change much after that. ",
+    "id": 47748,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/47748\/Vishnu.jpg",
+    "updated_at": "2020-12-12T15:39:15.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lavender",
+            "flavor_id": "510",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Anise",
+            "flavor_id": "499",
+            "millipercent": 100,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "2458",
+    "created_at": "2017-05-25",
+    "slug": "vishnu",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/47748.jpg",
+    "total_flavoring": "13.85%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Pleasant AF! I had no idea TFA Peanut Butter could be made to taste so smooth and creamy after a steep. It loves to just dry out and turn to mud. Not so here; where it's peanut butter ice cream all day. Topping this delightfulness with lavender-infused marshmallow seems like a strange choice, but it works, very well. I was scared of the anise too - I hate the actual taste of it - but here it just seems to modify the lavender, which is comes across as just a floral hint, not as laundry soap or even full-on flowers but more of an exotic spice, and helps to make 2% TFA Marshmallow actually taste and feel like a marshmallow topping, which is an accomplishment.. It's a shame that all these \"scary\" ingredients will probably prevent all but a few brave souls from trying it. Those who pass it by are missing out on something amazing. "
+        }
+    ]
 }

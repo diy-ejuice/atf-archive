@@ -1,50 +1,52 @@
 {
-  "name": "Strawberry Cake 3-2-1",
-  "description": "This is just a simple 3 flavor banger strawberry cake. Don't think too hard, just mix it up and enjoy.",
-  "id": 118461,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/118461/full_6134_60819_StrawberryPrincessCake_4.jpg",
-  "updated_at": "2020-12-08T00:50:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Princess Cake SC",
-      "flavor_id": "9038",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "4586",
-  "slug": "strawberry_cake_321",
-  "total_flavoring": "6.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "BigFoot1",
-      "score": "4",
-      "text": "Dont try this on round wire. A thing I just learned. On claptons much better cake flavor with a small of strawberry. They compliment each other well. Will mixing more in future. Reconmended."
-    },
-    {
-      "user": "AlfredPudding",
-      "score": "5",
-      "text": "If you’ve ever had the pleasure of indulging in an actual Swedish princess cake, you should be mixing this recipe instead of reading my review. There is something really special about a decadent layering of sponge cake, strawberry jam, and freshly made pastry cream, and this recipe captures it marvelously. WF Princess Cake is an excellent jumping off point, with an authentic sponge cake base and a hint of strawberry jam. Shisha Strawberry gives that jam a sugary syrup glaze and brings the strawberry note forward. Finally, VT Vanilla Buttercream Frosting adds just enough rich vanilla cream to be present without making this recipe overbearing. If you don’t have a severe strawberry allergy or a hatred for all things delicious, treat yourself to this beautiful creation."
-    }
-  ]
+    "name": "Strawberry Cake 3-2-1",
+    "description": "This is just a simple 3 flavor banger strawberry cake. Don't think too hard, just mix it up and enjoy.",
+    "id": 118461,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/118461\/full_6134_60819_StrawberryPrincessCake_4.jpg",
+    "updated_at": "2020-12-12T11:52:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Princess Cake SC",
+            "flavor_id": "9038",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "4603",
+    "created_at": "2018-09-10",
+    "slug": "strawberry_cake_321",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/118461.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "BigFoot1",
+            "score": 4,
+            "text": "Dont try this on round wire. A thing I just learned. On claptons much better cake flavor with a small of strawberry. They compliment each other well. Will mixing more in future. Reconmended."
+        },
+        {
+            "user": "AlfredPudding",
+            "score": 5,
+            "text": "If you\u2019ve ever had the pleasure of indulging in an actual Swedish princess cake, you should be mixing this recipe instead of reading my review. There is something really special about a decadent layering of sponge cake, strawberry jam, and freshly made pastry cream, and this recipe captures it marvelously. WF Princess Cake is an excellent jumping off point, with an authentic sponge cake base and a hint of strawberry jam. Shisha Strawberry gives that jam a sugary syrup glaze and brings the strawberry note forward. Finally, VT Vanilla Buttercream Frosting adds just enough rich vanilla cream to be present without making this recipe overbearing. If you don\u2019t have a severe strawberry allergy or a hatred for all things delicious, treat yourself to this beautiful creation."
+        }
+    ]
 }

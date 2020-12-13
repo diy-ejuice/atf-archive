@@ -1,69 +1,71 @@
 {
-  "name": "Honeydew Milk Tea w/ Boba",
-  "description": "This is a Honeydew infused green tea milk, with boba (tapioca pearls).",
-  "id": 177313,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177313/HOneyDewMilkwith-Melon_website.jpg",
-  "updated_at": "2020-12-08T00:51:15.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Honeydew Melon",
-      "flavor_id": "4577",
-      "millipercent": 1750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 1750,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Rice",
-      "flavor_id": "7727",
-      "millipercent": 2500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "610",
-      "millipercent": 750,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Silky",
-  "views": "2780",
-  "slug": "honeydew_milk_tea_w_boba",
-  "total_flavoring": "12.0%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "SeLeV",
-      "score": "5",
-      "text": "God, yes. This needs more recognition. Definitely needed a better use for FE Sweet Rice than Mango Sticky Rice, as it didn't fit my palate very well. This, though...100% worth the wait. So indulgent. Thick, creamy, sweet, weird, and repeatedly satisfying. This is good stuff."
-    }
-  ]
+    "name": "Honeydew Milk Tea w\/ Boba",
+    "description": "This is a Honeydew infused green tea milk, with boba (tapioca pearls).",
+    "id": 177313,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/177313\/HOneyDewMilkwith-Melon_website.jpg",
+    "updated_at": "2020-12-12T17:12:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Honeydew Melon",
+            "flavor_id": "4577",
+            "millipercent": 1750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 1750,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Rice",
+            "flavor_id": "7727",
+            "millipercent": 2500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "610",
+            "millipercent": 750,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Silky",
+    "views": "2793",
+    "created_at": "2019-12-10",
+    "slug": "honeydew_milk_tea_w_boba",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/177313.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "SeLeV",
+            "score": 5,
+            "text": "God, yes. This needs more recognition. Definitely needed a better use for FE Sweet Rice than Mango Sticky Rice, as it didn't fit my palate very well. This, though...100% worth the wait. So indulgent. Thick, creamy, sweet, weird, and repeatedly satisfying. This is good stuff."
+        }
+    ]
 }

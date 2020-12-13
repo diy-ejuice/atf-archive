@@ -1,44 +1,44 @@
 {
-  "name": "Orange Splash",
-  "description": "This e liquid is a big swig of fizzy orange crush in vape form.  Sweet and delicious!\r\n\r\n***Use FA Orange NOT Blood Orange.  ATF wont give me an option of choosing FA Orange***",
-  "id": 182899,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182899/20200129_203450.jpg",
-  "updated_at": "2020-12-02T17:06:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fizz Pop",
-      "flavor_id": "10291",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NOVITEC",
-  "views": "925",
-  "slug": "orange_splash",
-  "total_flavoring": "9.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Splash",
+    "description": "This e liquid is a big swig of fizzy orange crush in vape form.  Sweet and delicious!\r\n\r\n***Use FA Orange NOT Blood Orange.  ATF wont give me an option of choosing FA Orange***",
+    "id": 182899,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/182899\/20200129_203450.jpg",
+    "updated_at": "2020-12-12T05:50:47.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fizz Pop",
+            "flavor_id": "10291",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NOVITEC",
+    "views": "936",
+    "created_at": "2020-01-29",
+    "slug": "orange_splash",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/182899.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

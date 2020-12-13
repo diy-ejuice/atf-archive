@@ -1,38 +1,38 @@
 {
-  "name": "Key Lime Pie",
-  "description": "Homework from the live show.  This recipe is based on a recipe by Jeanie K.  Thanks to her this Yummy Key lime is here.  Her version is lucky shot FA Lime And meringue.....two weeks steep for this one.",
-  "id": 193819,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/193819/key-2763884_1920.jpg",
-  "updated_at": "2020-12-07T07:01:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lucky Shot",
-      "flavor_id": "4349",
-      "millipercent": 8000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Florida Key Lime",
-      "flavor_id": "7699",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "VapinTrucker",
-  "views": "623",
-  "slug": "key_lime_pie",
-  "total_flavoring": "12.0%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Key Lime Pie",
+    "description": "Homework from the live show.  This recipe is based on a recipe by Jeanie K.  Thanks to her this Yummy Key lime is here.  Her version is lucky shot FA Lime And meringue.....two weeks steep for this one.",
+    "id": 193819,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/193819\/key-2763884_1920.jpg",
+    "updated_at": "2020-12-10T19:01:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lucky Shot",
+            "flavor_id": "4349",
+            "millipercent": 8000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Florida Key Lime",
+            "flavor_id": "7699",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "VapinTrucker",
+    "views": "628",
+    "created_at": "2020-05-07",
+    "slug": "key_lime_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/193819.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0"
 }

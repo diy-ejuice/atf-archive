@@ -1,68 +1,70 @@
 {
-  "name": "Prickly Soda  ",
-  "description": "Fuck a Flavor Ban\r\nSweetener = Cap Super Sweet 1 drop per 30 ml (Only Thing i measure in drops)\r\nCoolness to liking \r\nWas inspired by u/Stayberts soda recipes so i made one with the flavor that im a shill for Inw Prickly Pear \r\nFLV- Citrus Soda - Just try one of Stayberts recipes with this one and youll know why i used it =]\r\nFA- Fuji - I used the fuji as the body for this one to help the Prickly Pear and also goes nicely with the FLV Citrus Soda\r\nCap- Double Apple - i wanted to boost the peel notes in the mix this also helped provide some body \r\nInw-Prickly Pear-  when i got this one i knew i was gunna have alot of fun with it that hybrid (melon/apple) with the same juiciness as INW cactus give that pop\r\nFLV- Wild Melon- this boosts the prickly pear and provides some sweetness\r\nCap-Hibiscus- Thanks to u/EdibleMalfunction I know how to use this one properly without it this mix just tastes like a flat soda this provide some syruppy goodness that this mix needs\r\nI really hope you enjoy if you have any suggestions or make a remix let me know =]\r\n\r\n",
-  "id": 166079,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/166079/Prickly_soda.png",
-  "updated_at": "2020-12-08T00:51:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Fuji",
-      "flavor_id": "4886",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 850,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Prickly Pear",
-      "flavor_id": "10277",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Hibiscus",
-      "flavor_id": "72",
-      "millipercent": 2750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Vishousvapez",
-  "views": "1863",
-  "slug": "prickly_soda",
-  "total_flavoring": "9.35%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "DumHed",
-      "score": "5",
-      "text": "Super brisk and refreshing, im really enjoying this off of the shake. I was thinking of adding a tad more of citrus soda, but it is perfect at .85%. Great job!"
-    },
-    {
-      "user": "beeker",
-      "score": "5",
-      "text": "A deliciously crisp and unique blend of melon, apple and pear flavors that compliment one another perfectly. Remniscent of some of the more exotic Jones gourmet sodas-- which I adore. You won't regret mixing this one up! (Note: I didn't have any prickly pear on hand, but vish suggested I substitute 0.75% cactus and 0.75% WF Ripe Pear SC instead)."
-    }
-  ]
+    "name": "Prickly Soda  ",
+    "description": "Fuck a Flavor Ban\r\nSweetener = Cap Super Sweet 1 drop per 30 ml (Only Thing i measure in drops)\r\nCoolness to liking \r\nWas inspired by u\/Stayberts soda recipes so i made one with the flavor that im a shill for Inw Prickly Pear \r\nFLV- Citrus Soda - Just try one of Stayberts recipes with this one and youll know why i used it =]\r\nFA- Fuji - I used the fuji as the body for this one to help the Prickly Pear and also goes nicely with the FLV Citrus Soda\r\nCap- Double Apple - i wanted to boost the peel notes in the mix this also helped provide some body \r\nInw-Prickly Pear-  when i got this one i knew i was gunna have alot of fun with it that hybrid (melon\/apple) with the same juiciness as INW cactus give that pop\r\nFLV- Wild Melon- this boosts the prickly pear and provides some sweetness\r\nCap-Hibiscus- Thanks to u\/EdibleMalfunction I know how to use this one properly without it this mix just tastes like a flat soda this provide some syruppy goodness that this mix needs\r\nI really hope you enjoy if you have any suggestions or make a remix let me know =]\r\n\r\n",
+    "id": 166079,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/166079\/Prickly_soda.png",
+    "updated_at": "2020-12-12T11:53:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Fuji",
+            "flavor_id": "4886",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 850,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Prickly Pear",
+            "flavor_id": "10277",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Hibiscus",
+            "flavor_id": "72",
+            "millipercent": 2750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Vishousvapez",
+    "views": "1876",
+    "created_at": "2019-09-08",
+    "slug": "prickly_soda",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/166079.png",
+    "total_flavoring": "9.35%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "DumHed",
+            "score": 5,
+            "text": "Super brisk and refreshing, im really enjoying this off of the shake. I was thinking of adding a tad more of citrus soda, but it is perfect at .85%. Great job!"
+        },
+        {
+            "user": "beeker",
+            "score": 5,
+            "text": "A deliciously crisp and unique blend of melon, apple and pear flavors that compliment one another perfectly. Remniscent of some of the more exotic Jones gourmet sodas-- which I adore. You won't regret mixing this one up! (Note: I didn't have any prickly pear on hand, but vish suggested I substitute 0.75% cactus and 0.75% WF Ripe Pear SC instead)."
+        }
+    ]
 }

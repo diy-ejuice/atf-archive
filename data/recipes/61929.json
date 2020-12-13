@@ -1,56 +1,55 @@
 {
-  "name": "Dank Base",
-  "description": "The base for my original Grape Ice Cream Cone recipe.  Use what you will, this is a solid ice cream cone base! Sub your own fruits for more fun.  Recommended use at 11.8% for intended use, but use less if you have weak fruits!",
-  "id": 61929,
-  "image_url": null,
-  "updated_at": "2020-12-05T13:08:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Joy",
-      "flavor_id": "401",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 800,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "wh1skeyk1ng",
-  "views": "1386",
-  "slug": "dank_base",
-  "total_flavoring": "11.8%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "470",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dank Base",
+    "description": "The base for my original Grape Ice Cream Cone recipe.  Use what you will, this is a solid ice cream cone base! Sub your own fruits for more fun.  Recommended use at 11.8% for intended use, but use less if you have weak fruits!",
+    "id": 61929,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:14:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Joy",
+            "flavor_id": "401",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 800,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "wh1skeyk1ng",
+    "views": "1399",
+    "created_at": "2017-08-30",
+    "slug": "dank_base",
+    "total_flavoring": "11.8%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "470"
 }

@@ -1,68 +1,68 @@
 {
-  "name": "Vanilla Bomb Milkshake V1.0",
-  "description": "I've been working on this recipe along with a V2.0 for a few months. This V1.0 is the french vanilla version that I finally have right where I like it. Delicious french vanilla milkshake. I put in the Biscuit and Bavarian Cream to add a little texture and mouthfeel. The LB VIC is my go to and fave ice cream flavoring. the custard and swirl give some extra body and vanilla goodness to this recipe....and its topped off with Vanilla Whipped Cream which is always delicious. The 2 percent of French Vanilla Deluxe adds just the right amount to push this in the direction of a french vanilla milkshake. I like sweet vapes so 1 percent sweetener I have in it but you can leave out if its not your thing or you can add a little WS-23 or Koolada if you want a cold milkshake vape. I've found this needs at least a 2 week steep. Hope you enjoy.",
-  "id": 101742,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/101742/vanillabombmilkshake.jpg",
-  "updated_at": "2020-12-07T19:15:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "French Vanilla Deluxe",
-      "flavor_id": "169",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Mindcrime",
-  "views": "1903",
-  "slug": "vanilla_bomb_milkshake_v10",
-  "total_flavoring": "13.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Vanilla Bomb Milkshake V1.0",
+    "description": "I've been working on this recipe along with a V2.0 for a few months. This V1.0 is the french vanilla version that I finally have right where I like it. Delicious french vanilla milkshake. I put in the Biscuit and Bavarian Cream to add a little texture and mouthfeel. The LB VIC is my go to and fave ice cream flavoring. the custard and swirl give some extra body and vanilla goodness to this recipe....and its topped off with Vanilla Whipped Cream which is always delicious. The 2 percent of French Vanilla Deluxe adds just the right amount to push this in the direction of a french vanilla milkshake. I like sweet vapes so 1 percent sweetener I have in it but you can leave out if its not your thing or you can add a little WS-23 or Koolada if you want a cold milkshake vape. I've found this needs at least a 2 week steep. Hope you enjoy.",
+    "id": 101742,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/101742\/vanillabombmilkshake.jpg",
+    "updated_at": "2020-12-10T21:32:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "French Vanilla Deluxe",
+            "flavor_id": "169",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Mindcrime",
+    "views": "1912",
+    "created_at": "2018-05-19",
+    "slug": "vanilla_bomb_milkshake_v10",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/101742.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0"
 }

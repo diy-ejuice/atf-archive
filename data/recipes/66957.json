@@ -1,81 +1,82 @@
 {
-  "name": "Mama's apple pie",
-  "description": "Warm baked apple pie straight out of the oven from yo mama on thanksgiving and Christmas ",
-  "id": 66957,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker V2",
-      "flavor_id": "63",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 2500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Pie V2",
-      "flavor_id": "9",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl V2",
-      "flavor_id": "36",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Country Apple",
-      "flavor_id": "7754",
-      "millipercent": 2500,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1506",
-  "slug": "mamas_apple_pie",
-  "total_flavoring": "17.75%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Mama's apple pie",
+    "description": "Warm baked apple pie straight out of the oven from yo mama on thanksgiving and Christmas ",
+    "id": 66957,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:51:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker V2",
+            "flavor_id": "63",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 2500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Pie V2",
+            "flavor_id": "9",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl V2",
+            "flavor_id": "36",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Country Apple",
+            "flavor_id": "7754",
+            "millipercent": 2500,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1511",
+    "created_at": "2017-10-06",
+    "slug": "mamas_apple_pie",
+    "total_flavoring": "17.75%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,51 +1,53 @@
 {
-  "name": "Toucans Last Call",
-  "description": "After trying many different cereal flavorings CAP fruit circles is my favorite because I don’t get the pledge taste from it. However it is very delicate and gets lost very easily especially with a steep. So I set out to make a recipe with as few flavors as possible to keep it the main note. \r\n\r\nNot a lot of explanation needed for the choices. Milky undertone does exactly that. Keeps itself underneath the cereal but providing a nice cream. Cereal 27 adds some lacking texture and grain taste and the meringue sweetens and enhances the cream. Give it a go, after all it’s toucans last call!",
-  "id": 88688,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/88688/B044F342-714D-4C5E-B764-4857963A8B73.jpeg",
-  "updated_at": "2020-12-05T12:08:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fruit Circles",
-      "flavor_id": "8742",
-      "millipercent": 8000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "RdaJunkie",
-  "views": "1862",
-  "slug": "toucans_last_call",
-  "total_flavoring": "11.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "can't wait to try it"
-    }
-  ]
+    "name": "Toucans Last Call",
+    "description": "After trying many different cereal flavorings CAP fruit circles is my favorite because I don\u2019t get the pledge taste from it. However it is very delicate and gets lost very easily especially with a steep. So I set out to make a recipe with as few flavors as possible to keep it the main note. \r\n\r\nNot a lot of explanation needed for the choices. Milky undertone does exactly that. Keeps itself underneath the cereal but providing a nice cream. Cereal 27 adds some lacking texture and grain taste and the meringue sweetens and enhances the cream. Give it a go, after all it\u2019s toucans last call!",
+    "id": 88688,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/88688\/B044F342-714D-4C5E-B764-4857963A8B73.jpeg",
+    "updated_at": "2020-12-12T08:13:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fruit Circles",
+            "flavor_id": "8742",
+            "millipercent": 8000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "RdaJunkie",
+    "views": "1870",
+    "created_at": "2018-02-16",
+    "slug": "toucans_last_call",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/88688.jpeg",
+    "total_flavoring": "11.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "can't wait to try it"
+        }
+    ]
 }

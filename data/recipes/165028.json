@@ -1,32 +1,32 @@
 {
-  "name": "F'n Ice",
-  "description": "Flavorah / FLV only recipe.\r\nI was asked to clone \"Fire and Ice\" but I've never had it before. This tastes like Big Red Gum to me.\r\nI added 1% sucralose (cap super sweet).\r\n\r\nThe only descriptions I could find were cinnamon and cooling with menthol. Enjoy.",
-  "id": 165028,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/165028/Screenshot_20190831-005257_Google.jpg",
-  "updated_at": "2020-12-06T05:12:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cool Menthol",
-      "flavor_id": "632",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Cinnamon",
-      "flavor_id": "4363",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "773",
-  "slug": "fn_ice",
-  "total_flavoring": "2.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "F'n Ice",
+    "description": "Flavorah \/ FLV only recipe.\r\nI was asked to clone \"Fire and Ice\" but I've never had it before. This tastes like Big Red Gum to me.\r\nI added 1% sucralose (cap super sweet).\r\n\r\nThe only descriptions I could find were cinnamon and cooling with menthol. Enjoy.",
+    "id": 165028,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/165028\/Screenshot_20190831-005257_Google.jpg",
+    "updated_at": "2020-12-10T13:46:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cool Menthol",
+            "flavor_id": "632",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Cinnamon",
+            "flavor_id": "4363",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "780",
+    "created_at": "2019-08-31",
+    "slug": "fn_ice",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/165028.jpg",
+    "total_flavoring": "2.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

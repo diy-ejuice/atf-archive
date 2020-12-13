@@ -1,56 +1,55 @@
 {
-  "name": "D.I.V.",
-  "description": "Rhubarb and tangy apple gin with authentic juniper berry flavour. Imagine a mixed long gin drink with fresh and tangy apple juice and a rhubarb syrup - that's my perception of this recipe.\r\n\r\nProfile:\r\n\r\nGin itself - During my research of FA Gin I found it to mostly carry a juniper berry flavour than an actual gin flavour, so taking it from 2 to 3% at 2,8% max in a mix and adding a bit of INW Cactus, I made FA Gin feel more \"drinkable\" and juicy. To sweeten the whole thing up I've decided to use a bit of Strawberry ripe - just to get the sweetness without getting an actual strawberry flavour.\r\n\r\nApple & Rhubarb - To provide an authentic \"boozy\" feel of this mixed drink I've used FA Fuji as a fresh, tangy apple with a bite that will compliment the gin part. As for rhubarb - here goes a nice one - INW Rhubarb, IMO pretty much universal flavouring that carry an authentic rhubarb flavour with a rhubarb sour peel, it can make a drink more juicy and sour and add that specific rhubarb note, it can be also used in cakes and stuff - but that's the whole other story. Be mindful, though, don't use it over 0,5%, this flavouring can overpower every other with ease. In the end we've got a fresh and a bit sour apple and rhubarb mix that will be good in a drink and will be very light, but not creamy smooth, to provide our mixed drink a kick it needs.\r\n\r\nSyrup - While I added TFA Strawberry ripe to the mix already to make it sweet, let's add a syrupy texture by adding INW Raspberry Shisha, it will add a smooth texture and will make our fruity mix more syrupy, so it can be mixed into our drink and blend with it well. ",
-  "id": 22242,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:41:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Rhubarb (yc)",
-      "flavor_id": "711",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Raspberry",
-      "flavor_id": "836",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Gin",
-      "flavor_id": "519",
-      "millipercent": 2800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "domyam",
-  "views": "882",
-  "slug": "div",
-  "total_flavoring": "9.8%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "D.I.V.",
+    "description": "Rhubarb and tangy apple gin with authentic juniper berry flavour. Imagine a mixed long gin drink with fresh and tangy apple juice and a rhubarb syrup - that's my perception of this recipe.\r\n\r\nProfile:\r\n\r\nGin itself - During my research of FA Gin I found it to mostly carry a juniper berry flavour than an actual gin flavour, so taking it from 2 to 3% at 2,8% max in a mix and adding a bit of INW Cactus, I made FA Gin feel more \"drinkable\" and juicy. To sweeten the whole thing up I've decided to use a bit of Strawberry ripe - just to get the sweetness without getting an actual strawberry flavour.\r\n\r\nApple & Rhubarb - To provide an authentic \"boozy\" feel of this mixed drink I've used FA Fuji as a fresh, tangy apple with a bite that will compliment the gin part. As for rhubarb - here goes a nice one - INW Rhubarb, IMO pretty much universal flavouring that carry an authentic rhubarb flavour with a rhubarb sour peel, it can make a drink more juicy and sour and add that specific rhubarb note, it can be also used in cakes and stuff - but that's the whole other story. Be mindful, though, don't use it over 0,5%, this flavouring can overpower every other with ease. In the end we've got a fresh and a bit sour apple and rhubarb mix that will be good in a drink and will be very light, but not creamy smooth, to provide our mixed drink a kick it needs.\r\n\r\nSyrup - While I added TFA Strawberry ripe to the mix already to make it sweet, let's add a syrupy texture by adding INW Raspberry Shisha, it will add a smooth texture and will make our fruity mix more syrupy, so it can be mixed into our drink and blend with it well. ",
+    "id": 22242,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:14:10.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Rhubarb (yc)",
+            "flavor_id": "711",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Raspberry",
+            "flavor_id": "836",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Gin",
+            "flavor_id": "519",
+            "millipercent": 2800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "domyam",
+    "views": "894",
+    "created_at": "2016-12-07",
+    "slug": "div",
+    "total_flavoring": "9.8%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

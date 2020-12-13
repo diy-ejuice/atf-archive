@@ -1,50 +1,49 @@
 {
-  "name": "Oops All Berries ",
-  "description": "Oops All Berries Cereal with Milk \r\n\r\nWatch the Video Here: \r\nhttps://youtu.be/XxG8zJJoEiM",
-  "id": 205464,
-  "image_url": null,
-  "updated_at": "2020-12-07T21:33:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry Cotton Candy",
-      "flavor_id": "15",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "1474",
-      "millipercent": 1000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blue Raspberry Slush",
-      "flavor_id": "2970",
-      "millipercent": 2000,
-      "vendor": "OSD"
-    }
-  ],
-  "author": "RUG_ly",
-  "views": "579",
-  "slug": "oops_all_berries",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Oops All Berries ",
+    "description": "Oops All Berries Cereal with Milk \r\n\r\nWatch the Video Here: \r\nhttps:\/\/youtu.be\/XxG8zJJoEiM",
+    "id": 205464,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:08:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry Cotton Candy",
+            "flavor_id": "15",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "1474",
+            "millipercent": 1000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blue Raspberry Slush",
+            "flavor_id": "2970",
+            "millipercent": 2000,
+            "vendor": "OSD"
+        }
+    ],
+    "author": "RUG_ly",
+    "views": "585",
+    "created_at": "2020-09-14",
+    "slug": "oops_all_berries",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "80%",
+    "temperature": "0"
 }

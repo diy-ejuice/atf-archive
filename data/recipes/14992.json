@@ -1,66 +1,68 @@
 {
-  "name": "Juicy J's Sizzurp",
-  "description": "Okay so you mixed Watermelon Crack. You may (possibly) have even mixed Grack Juice. INW Grapes and FW Jungle juice can be difficult to use up. But you know what is easy to use? CAP Sweet Guava. Here we have a cool, candy-ish grape with guava coming through underneath. Definitely better than a codeine lean.",
-  "id": 14992,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/14992/sizzurp.png",
-  "updated_at": "2020-12-08T00:48:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Jungle Juice",
-      "flavor_id": "1325",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 2750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Grape",
-      "flavor_id": "784",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 750,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Philosaphucker",
-  "views": "6527",
-  "slug": "juicy_js_sizzurp",
-  "total_flavoring": "9.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "morencyam",
-      "score": "5",
-      "text": "Mixed this up last night for a friend of mine that was wanting a sweet grape. Changed it up just a touch though. Bumped the Grape up to 4%, and added some Sour at .25% and CAP Jelly Candy at 1%. It was very tasty just SnV. We'll see how it comes out after letting it sit for a few days. Might try mixing a batch for myself using FLV Pink Guava as suggested in the other review. "
-    },
-    {
-      "user": "horizonism",
-      "score": "5",
-      "text": "Yup. One of my new favourites. Took a while to adapt to it. Never had a sizzurp. Had to google it to establish what the hell it was supposed to be. First time I mixed it, i wasn't sure what was going on, but now I get it. Mixed the most recent batch with FLV Pink Guava @1% and it's magic stuff. Pairs well with Southern Comfort. Thanks for sharing! 🌴"
-    },
-    {
-      "user": "crisk",
-      "score": "5",
-      "text": "Yes! That's what I was looking for. Just mixed it and to me it tastes great right after a good shake.&#xD;\nThanks for sharing :)"
-    },
-    {
-      "user": "Synergy",
-      "score": "none",
-      "text": "Is guava bringing this citrus notes into play here? "
-    }
-  ]
+    "name": "Juicy J's Sizzurp",
+    "description": "Okay so you mixed Watermelon Crack. You may (possibly) have even mixed Grack Juice. INW Grapes and FW Jungle juice can be difficult to use up. But you know what is easy to use? CAP Sweet Guava. Here we have a cool, candy-ish grape with guava coming through underneath. Definitely better than a codeine lean.",
+    "id": 14992,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/14992\/sizzurp.png",
+    "updated_at": "2020-12-12T14:04:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Jungle Juice",
+            "flavor_id": "1325",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 2750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Grape",
+            "flavor_id": "784",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 750,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Philosaphucker",
+    "views": "6548",
+    "created_at": "2016-10-02",
+    "slug": "juicy_js_sizzurp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/14992.png",
+    "total_flavoring": "9.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "morencyam",
+            "score": 5,
+            "text": "Mixed this up last night for a friend of mine that was wanting a sweet grape. Changed it up just a touch though. Bumped the Grape up to 4%, and added some Sour at .25% and CAP Jelly Candy at 1%. It was very tasty just SnV. We'll see how it comes out after letting it sit for a few days. Might try mixing a batch for myself using FLV Pink Guava as suggested in the other review. "
+        },
+        {
+            "user": "horizonism",
+            "score": 5,
+            "text": "Yup. One of my new favourites. Took a while to adapt to it. Never had a sizzurp. Had to google it to establish what the hell it was supposed to be. First time I mixed it, i wasn't sure what was going on, but now I get it. Mixed the most recent batch with FLV Pink Guava @1% and it's magic stuff. Pairs well with Southern Comfort. Thanks for sharing! \ud83c\udf34"
+        },
+        {
+            "user": "crisk",
+            "score": 5,
+            "text": "Yes! That's what I was looking for. Just mixed it and to me it tastes great right after a good shake.&#xD;\nThanks for sharing :)"
+        },
+        {
+            "user": "Synergy",
+            "score": 0,
+            "text": "Is guava bringing this citrus notes into play here? "
+        }
+    ]
 }

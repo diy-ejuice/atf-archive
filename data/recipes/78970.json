@@ -1,62 +1,62 @@
 {
-  "name": "Nut Rider #remixmonth",
-  "description": "Based on \"The New Pistachio RY4U\", this version boosts the butterscotch & switches out the pistachio in favour of a hazel/walnut mix from FA nut mix.\r\nAdditionally, TFA black honey adds a touch of honey/syrup & coumarin to the profile.\r\nReally benefits from a long steep.",
-  "id": 78970,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/78970/nut.png",
-  "updated_at": "2020-12-07T22:32:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Black Honey",
-      "flavor_id": "370",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nut Mix",
-      "flavor_id": "537",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "method1",
-  "views": "1811",
-  "slug": "nut_rider_remixmonth",
-  "total_flavoring": "16.0%",
-  "steep_days": "14",
-  "best_vg": "65%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Nut Rider #remixmonth",
+    "description": "Based on \"The New Pistachio RY4U\", this version boosts the butterscotch & switches out the pistachio in favour of a hazel\/walnut mix from FA nut mix.\r\nAdditionally, TFA black honey adds a touch of honey\/syrup & coumarin to the profile.\r\nReally benefits from a long steep.",
+    "id": 78970,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/78970\/nut.png",
+    "updated_at": "2020-12-11T07:43:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Black Honey",
+            "flavor_id": "370",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nut Mix",
+            "flavor_id": "537",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "method1",
+    "views": "1819",
+    "created_at": "2017-12-14",
+    "slug": "nut_rider_remixmonth",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/78970.png",
+    "total_flavoring": "16.0%",
+    "steep_days": "14",
+    "best_vg": "65%",
+    "temperature": "0"
 }

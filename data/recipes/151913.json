@@ -1,73 +1,75 @@
 {
-  "name": "007 Bubblegum",
-  "description": "This recipe was a bit of a personal challenge for me. The goal was to convert my cola into a bubblegum with the fewest amount of changes possible. It started out with some research on what goes into making a bubblegum. It turns out that the flavoring components used in gum are already fairly in line with many other recipes from the 20th century, using things like cinnamon, vanilla, and citrus oils. The significant differences were the inclusion of mint, which makes sense for a chewing gum, and the inclusion of flavors such as banana and strawberry in more modern versions.\r\n</lb>\r\nI started out by removing VT Fizzy Sherbet because bubblegum isn't fizzy, and it doesn't have a dominant lemon/lime flavor. TPA Wintergreen took its place, and then I started trying various fruits out to see the effect they would have. Strawberry was my initial assumption, so I tried out WF Strawberry Gummy Candy, INW Shisha Strawberry, TPA Ripe Strawberry, and several others. None of them were headed in the right direction so I broke out my banana flavors and started smelling them. My first idea was to use WF Banana Candy, but it didn't fit the bill so I moved onto WF Banana Puree. As soon as I smelled it I knew that was the right choice, so the rest was a percentage game. 1% was the perfect amount to not stand out from the rest of the mix as an obviously banana flavored gum. The real issue was finding the correct percentage for TPA Wintergreen. I tried out everything from .5% to 2% and found myself lingering at 1% originally. Unfortunately the brighter parts of the orange and banana were still a bit too apparent after a steep, so I moved the wintergreen up to 1.25% and then 1.5%. \r\n</lb>\r\nNow that the development notes are out of the way I need to thank some awesome people. Graham was the person that really planted the idea in my head. I was originally against it for the most part because there are already some awesome bubblegum flavors available like MB American Bubblegum. It wasn't until Dave commented on a Reddit post that I should make 007 Bubblegum that I actually committed to the idea. Then once I was fairly happy with the mix I asked a few people to try it out for me. Eyemakepizza and Shyndo were kind enough to give it a shot and they both seemed to really enjoy it. Shyndo made an excellent point about the validity of this creation. He noticed that bubblegum flavors were difficult to work into a mix because they were mostly top-notes that would clash with other fruits. So after testing this out with some additional fruits I felt better about this silly project. Feel free to make your own version of this recipe using your favorite fruit flavoring and let me know what you think. ",
-  "id": 151913,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151913/007_Bubblegum2.jpg",
-  "updated_at": "2020-12-08T00:50:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Bourbon (vanilla Bourbon)",
-      "flavor_id": "420",
-      "millipercent": 400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 400,
-      "vendor": "FW"
-    },
-    {
-      "name": "Rich Cinnamon",
-      "flavor_id": "638",
-      "millipercent": 70,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Wintergreen",
-      "flavor_id": "285",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "AlfredPudding",
-  "views": "4478",
-  "slug": "007_bubblegum",
-  "total_flavoring": "3.87%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "450",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "NickG",
-      "score": "5",
-      "text": "I really have no idea why I enjoy vaping this as much as I do. Not really a bubble gum fan and if I were to chew gum, I'd stay away from anything wintergreen. That said, this is an immensely enjoyable experience. The wintergreen is super refreshing and probably the only application of it I've ever seen where it doesn't dominate the mix. It's totally there, but it melds so seemlessly with everything else, it's just damn good. The thing I do like most about this is the texture though. I love a nice texture in my vape and this is just a solid ass home run of both flavor and texture. I'd seen this recipe for awhile now and didn't mix it just because it didn't seem like a profile I'd enjoy, but it is an immaculate treat that I will no doubt be enjoying for a long long time. Thank you !"
-    },
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "I have a serious aversion towards WF banana puree simply for the reason it tastes super gummy to me. Not gummy like a candy but gummy like you overmashed a bunch of red bliss potatoes. Luckily, I think Alfred might have found the one application I actually like it in. It's perfect for a nice chewy bright cola wintergreen gum. This recipe is lovely, bright, and in my opinion better than 007 cola. Why? Because while I feel 007 cola is a bit lacking in the darker caramel color department flavor-wise, this is the perfect place to put that almost ramune like soda. Absolutely lovely recipe."
-    },
-    {
-      "user": "eyemakepizza",
-      "score": "5",
-      "text": "I had the pleasure of tasting this recipe pre-release. When Alfred sent me the link I saw 007 Bubblegum but I also saw Banana and Wintergreen....I had no friggen clue what to expect. As always, I trusted him and mixed it up. First pull Banana. That's to be expected because you put it in there so you want to taste it. Everything after that first pull bubble gum. Spot on bubble gum. This man is a wizard and I love every second of it."
-    }
-  ]
+    "name": "007 Bubblegum",
+    "description": "This recipe was a bit of a personal challenge for me. The goal was to convert my cola into a bubblegum with the fewest amount of changes possible. It started out with some research on what goes into making a bubblegum. It turns out that the flavoring components used in gum are already fairly in line with many other recipes from the 20th century, using things like cinnamon, vanilla, and citrus oils. The significant differences were the inclusion of mint, which makes sense for a chewing gum, and the inclusion of flavors such as banana and strawberry in more modern versions.\r\n<\/lb>\r\nI started out by removing VT Fizzy Sherbet because bubblegum isn't fizzy, and it doesn't have a dominant lemon\/lime flavor. TPA Wintergreen took its place, and then I started trying various fruits out to see the effect they would have. Strawberry was my initial assumption, so I tried out WF Strawberry Gummy Candy, INW Shisha Strawberry, TPA Ripe Strawberry, and several others. None of them were headed in the right direction so I broke out my banana flavors and started smelling them. My first idea was to use WF Banana Candy, but it didn't fit the bill so I moved onto WF Banana Puree. As soon as I smelled it I knew that was the right choice, so the rest was a percentage game. 1% was the perfect amount to not stand out from the rest of the mix as an obviously banana flavored gum. The real issue was finding the correct percentage for TPA Wintergreen. I tried out everything from .5% to 2% and found myself lingering at 1% originally. Unfortunately the brighter parts of the orange and banana were still a bit too apparent after a steep, so I moved the wintergreen up to 1.25% and then 1.5%. \r\n<\/lb>\r\nNow that the development notes are out of the way I need to thank some awesome people. Graham was the person that really planted the idea in my head. I was originally against it for the most part because there are already some awesome bubblegum flavors available like MB American Bubblegum. It wasn't until Dave commented on a Reddit post that I should make 007 Bubblegum that I actually committed to the idea. Then once I was fairly happy with the mix I asked a few people to try it out for me. Eyemakepizza and Shyndo were kind enough to give it a shot and they both seemed to really enjoy it. Shyndo made an excellent point about the validity of this creation. He noticed that bubblegum flavors were difficult to work into a mix because they were mostly top-notes that would clash with other fruits. So after testing this out with some additional fruits I felt better about this silly project. Feel free to make your own version of this recipe using your favorite fruit flavoring and let me know what you think. ",
+    "id": 151913,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151913\/007_Bubblegum2.jpg",
+    "updated_at": "2020-12-12T17:12:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Bourbon (vanilla Bourbon)",
+            "flavor_id": "420",
+            "millipercent": 400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 400,
+            "vendor": "FW"
+        },
+        {
+            "name": "Rich Cinnamon",
+            "flavor_id": "638",
+            "millipercent": 70,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Wintergreen",
+            "flavor_id": "285",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "AlfredPudding",
+    "views": "4497",
+    "created_at": "2019-05-18",
+    "slug": "007_bubblegum",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151913.jpg",
+    "total_flavoring": "3.87%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "450",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "NickG",
+            "score": 5,
+            "text": "I really have no idea why I enjoy vaping this as much as I do. Not really a bubble gum fan and if I were to chew gum, I'd stay away from anything wintergreen. That said, this is an immensely enjoyable experience. The wintergreen is super refreshing and probably the only application of it I've ever seen where it doesn't dominate the mix. It's totally there, but it melds so seemlessly with everything else, it's just damn good. The thing I do like most about this is the texture though. I love a nice texture in my vape and this is just a solid ass home run of both flavor and texture. I'd seen this recipe for awhile now and didn't mix it just because it didn't seem like a profile I'd enjoy, but it is an immaculate treat that I will no doubt be enjoying for a long long time. Thank you !"
+        },
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "I have a serious aversion towards WF banana puree simply for the reason it tastes super gummy to me. Not gummy like a candy but gummy like you overmashed a bunch of red bliss potatoes. Luckily, I think Alfred might have found the one application I actually like it in. It's perfect for a nice chewy bright cola wintergreen gum. This recipe is lovely, bright, and in my opinion better than 007 cola. Why? Because while I feel 007 cola is a bit lacking in the darker caramel color department flavor-wise, this is the perfect place to put that almost ramune like soda. Absolutely lovely recipe."
+        },
+        {
+            "user": "eyemakepizza",
+            "score": 5,
+            "text": "I had the pleasure of tasting this recipe pre-release. When Alfred sent me the link I saw 007 Bubblegum but I also saw Banana and Wintergreen....I had no friggen clue what to expect. As always, I trusted him and mixed it up. First pull Banana. That's to be expected because you put it in there so you want to taste it. Everything after that first pull bubble gum. Spot on bubble gum. This man is a wizard and I love every second of it."
+        }
+    ]
 }

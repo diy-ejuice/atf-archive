@@ -1,61 +1,63 @@
 {
-  "name": "OG Strawberry Cake",
-  "description": "This is a very simple recipe thats great for beginner mixers looking for an ADV. I recommend this be mixed at 70/30 and steeped for 1 week. This was one of my first recipes I had ever created. I know that strawberry recipes have been done over and over again but this one has a spot on classic flavor without the icing. The .10% of MTS Vape wizard is essentially 1drop per 15ml. This is a simple recipe great for beginners. I know you will enjoy it. Please rate and comment, thanks.",
-  "id": 13707,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13707/20160917_030748.png",
-  "updated_at": "2020-12-05T11:04:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Mts Vape Wizard",
-      "flavor_id": "482",
-      "millipercent": 100,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 5000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "KRUCIAL",
-  "views": "2959",
-  "slug": "og_strawberry_cake",
-  "total_flavoring": "15.1%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    },
-    {
-      "user": "SamKayla",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "Rageisalotofwork",
-      "score": "none",
-      "text": "I'm skeptical of strawberry, but I'll give this a shot."
-    }
-  ]
+    "name": "OG Strawberry Cake",
+    "description": "This is a very simple recipe thats great for beginner mixers looking for an ADV. I recommend this be mixed at 70\/30 and steeped for 1 week. This was one of my first recipes I had ever created. I know that strawberry recipes have been done over and over again but this one has a spot on classic flavor without the icing. The .10% of MTS Vape wizard is essentially 1drop per 15ml. This is a simple recipe great for beginners. I know you will enjoy it. Please rate and comment, thanks.",
+    "id": 13707,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13707\/20160917_030748.png",
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Mts Vape Wizard",
+            "flavor_id": "482",
+            "millipercent": 100,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 5000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "KRUCIAL",
+    "views": "2968",
+    "created_at": "2016-09-17",
+    "slug": "og_strawberry_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13707.png",
+    "total_flavoring": "15.1%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        },
+        {
+            "user": "SamKayla",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "Rageisalotofwork",
+            "score": 0,
+            "text": "I'm skeptical of strawberry, but I'll give this a shot."
+        }
+    ]
 }

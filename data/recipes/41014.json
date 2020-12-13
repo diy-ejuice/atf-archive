@@ -1,38 +1,38 @@
 {
-  "name": "{{{Bread Pudding Custard}}}",
-  "description": "This is a very simple 3 flavor recipe but it needs a 1 week steep. Real Flavors Bread Pudding is an awesome concentrate and perfectly replicates the dessert. At 2.25% with 3% Capella Vanilla Custard make a really thick mouth feel and the .5% of Hangsen Caramel Toffee sweetens the mix beautifully. I know the custard lovers will be loving this. Mix it, enjoy it, rate it, and mash that star to follow ya boy. \r\n                                         ,Thanks KRUCIAL ",
-  "id": 41014,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/41014/20170425_041904.png",
-  "updated_at": "2020-12-07T23:35:33.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bread Pudding 2 – SC",
-      "flavor_id": "7462",
-      "millipercent": 2250,
-      "vendor": "RF"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Caramel Toffee",
-      "flavor_id": "2121",
-      "millipercent": 500,
-      "vendor": "HS"
-    }
-  ],
-  "author": "KRUCIAL",
-  "views": "2778",
-  "slug": "bread_pudding_custard",
-  "total_flavoring": "5.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "{{{Bread Pudding Custard}}}",
+    "description": "This is a very simple 3 flavor recipe but it needs a 1 week steep. Real Flavors Bread Pudding is an awesome concentrate and perfectly replicates the dessert. At 2.25% with 3% Capella Vanilla Custard make a really thick mouth feel and the .5% of Hangsen Caramel Toffee sweetens the mix beautifully. I know the custard lovers will be loving this. Mix it, enjoy it, rate it, and mash that star to follow ya boy. \r\n                                         ,Thanks KRUCIAL ",
+    "id": 41014,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/41014\/20170425_041904.png",
+    "updated_at": "2020-12-10T17:56:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bread Pudding 2 \u2013 SC",
+            "flavor_id": "7462",
+            "millipercent": 2250,
+            "vendor": "RF"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Caramel Toffee",
+            "flavor_id": "2121",
+            "millipercent": 500,
+            "vendor": "HS"
+        }
+    ],
+    "author": "KRUCIAL",
+    "views": "2783",
+    "created_at": "2017-04-13",
+    "slug": "bread_pudding_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/41014.png",
+    "total_flavoring": "5.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

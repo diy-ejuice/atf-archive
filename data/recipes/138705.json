@@ -1,62 +1,62 @@
 {
-  "name": "Cubed³",
-  "description": "Here is my take on “kola cubes” \r\n\r\nA Red Cola flavoured hard boiled sweet covered in sugar.\r\n\r\nI suggest diluting the FLV red cinnamon down to a 10% dilution in PG make it more workable. ATF does not have red cinnamon 10% dilution in the database.\r\n\r\nFA blackcurrant adds another side to the fruityness needed to differentiate between a drink and a candy and also adds a bit of that jammy/jelly mouthfeel\r\n\r\nMolinberry pink raspberry adds that tart red fruit with a non-realistic candy like taste.\r\n\r\nThe tart and sour Just pushes everything over to a candy profile and tarts it all up very nicely.",
-  "id": 138705,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/138705/9B07B703-0E5B-460C-B1D6-3499088235D3.png",
-  "updated_at": "2020-12-07T19:15:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Usa Pleasure (cola)",
-      "flavor_id": "552",
-      "millipercent": 5000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Cinnamon",
-      "flavor_id": "4363",
-      "millipercent": 85,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pink Raspberry",
-      "flavor_id": "1512",
-      "millipercent": 1000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Tart and Sour",
-      "flavor_id": "2520",
-      "millipercent": 250,
-      "vendor": "LA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Nickevz",
-  "views": "1480",
-  "slug": "cubed",
-  "total_flavoring": "11.335%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cubed\u00b3",
+    "description": "Here is my take on \u201ckola cubes\u201d \r\n\r\nA Red Cola flavoured hard boiled sweet covered in sugar.\r\n\r\nI suggest diluting the FLV red cinnamon down to a 10% dilution in PG make it more workable. ATF does not have red cinnamon 10% dilution in the database.\r\n\r\nFA blackcurrant adds another side to the fruityness needed to differentiate between a drink and a candy and also adds a bit of that jammy\/jelly mouthfeel\r\n\r\nMolinberry pink raspberry adds that tart red fruit with a non-realistic candy like taste.\r\n\r\nThe tart and sour Just pushes everything over to a candy profile and tarts it all up very nicely.",
+    "id": 138705,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/138705\/9B07B703-0E5B-460C-B1D6-3499088235D3.png",
+    "updated_at": "2020-12-10T16:01:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Usa Pleasure (cola)",
+            "flavor_id": "552",
+            "millipercent": 5000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Cinnamon",
+            "flavor_id": "4363",
+            "millipercent": 85,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pink Raspberry",
+            "flavor_id": "1512",
+            "millipercent": 1000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Tart and Sour",
+            "flavor_id": "2520",
+            "millipercent": 250,
+            "vendor": "LA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Nickevz",
+    "views": "1489",
+    "created_at": "2019-02-11",
+    "slug": "cubed",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/138705.png",
+    "total_flavoring": "11.335%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

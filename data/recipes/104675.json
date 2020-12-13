@@ -1,50 +1,50 @@
 {
-  "name": "Orange Ice-Cream v2.1",
-  "description": "Clementine Orange SCE \r\nIS ACTUALLY \r\nClementine (NicVape) @ 3.0%\r\n\"NOT the SCE Brand !!!\"",
-  "id": 104675,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104675/20171116_062817.png",
-  "updated_at": "2020-12-07T03:31:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Clementine Orange",
-      "flavor_id": "1029",
-      "millipercent": 3000,
-      "vendor": "SCE"
-    }
-  ],
-  "author": "Grugs80",
-  "views": "986",
-  "slug": "orange_icecream_v21",
-  "total_flavoring": "10.75%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Orange Ice-Cream v2.1",
+    "description": "Clementine Orange SCE \r\nIS ACTUALLY \r\nClementine (NicVape) @ 3.0%\r\n\"NOT the SCE Brand !!!\"",
+    "id": 104675,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104675\/20171116_062817.png",
+    "updated_at": "2020-12-10T23:32:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Clementine Orange",
+            "flavor_id": "1029",
+            "millipercent": 3000,
+            "vendor": "SCE"
+        }
+    ],
+    "author": "Grugs80",
+    "views": "994",
+    "created_at": "2018-06-07",
+    "slug": "orange_icecream_v21",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104675.png",
+    "total_flavoring": "10.75%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

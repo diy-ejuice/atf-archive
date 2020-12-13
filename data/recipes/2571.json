@@ -1,69 +1,70 @@
 {
-  "name": "Strawberry Coconut Custard",
-  "description": "Strawberry coconut custard based off of Coop34's Raspberry Custard.  Give it a week steep. Link to Coop34's Recipe:  https://alltheflavors.com/recipes/1841",
-  "id": 2571,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "yott",
-  "views": "1622",
-  "slug": "strawberry_coconut_custard",
-  "total_flavoring": "15.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Bjorncoetsee",
-      "score": "4",
-      "text": "Looks nice "
-    }
-  ]
+    "name": "Strawberry Coconut Custard",
+    "description": "Strawberry coconut custard based off of Coop34's Raspberry Custard.  Give it a week steep. Link to Coop34's Recipe:  https:\/\/alltheflavors.com\/recipes\/1841",
+    "id": 2571,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "yott",
+    "views": "1629",
+    "created_at": "2016-04-25",
+    "slug": "strawberry_coconut_custard",
+    "total_flavoring": "15.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Bjorncoetsee",
+            "score": 4,
+            "text": "Looks nice "
+        }
+    ]
 }

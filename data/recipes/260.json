@@ -1,50 +1,51 @@
 {
-  "name": "RumY4",
-  "description": "A butter rum RY4 blend",
-  "id": 260,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 8000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Rum",
-      "flavor_id": "925",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "170",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "sodakdave",
-  "views": "1586",
-  "slug": "rumy4",
-  "total_flavoring": "17.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "oo"
-    }
-  ]
+    "name": "RumY4",
+    "description": "A butter rum RY4 blend",
+    "id": 260,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 8000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Rum",
+            "flavor_id": "925",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "170",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "sodakdave",
+    "views": "1594",
+    "created_at": "2016-03-06",
+    "slug": "rumy4",
+    "total_flavoring": "17.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "oo"
+        }
+    ]
 }

@@ -1,79 +1,81 @@
 {
-  "name": "Shamrock Cookie (clone)",
-  "description": "Allright boys, this is my legacy recipe. The previous version of this has been improved a lot so I appreciate people giving this one a shot. Since I started mixing I came in wishing there was more clones of popular juices. There were 4 specifically I wanted to see: pink punch lemonade by twist, shamrock cookie by sadboy, beard #32 by beard vape co, and the one strawberry by beard vape co. None of these existed before I started mixing almost a year ago. I took it as my personal mission to get good enough where I could clone these juices and I set out on a journey. This is the profile that I worked the hardest to achieve, so much time and effort. It was by far the hardest clone I worked on and took about 4 months of trial and error to get to this version. It is good after 7 days, great after 2 weeks and continues to get better afterwards. This is gonna be the last recipe I publish for a while, possibly ever unless I try to go after the one strawberry. If anyone has tried the original, I would love to hear your thoughts on how I did.",
-  "id": 202382,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/202382/download.jpeg-20.jpg",
-  "updated_at": "2020-12-08T00:51:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "4572",
-      "millipercent": 1600,
-      "vendor": "JF"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "631",
-      "millipercent": 1800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "1432",
-      "millipercent": 800,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Denske",
-  "views": "2047",
-  "slug": "shamrock_cookie_clone",
-  "total_flavoring": "12.5%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cxxxxp",
-      "score": "5",
-      "text": "In Australia we call these cookies \"Mint Slice\" biscuits. They are crunchy chocolate biscuits layered with a creamy mint filling and covered in dark chocolate (I'm sure they exist worldwide under various names...) Anyway, this is exactly what this mix tastes like. I haven't tried the original shamrock so I can't compare, however, I will point out that this recipe tops Sydney Vape Co's (AU) \"Mint Sliced\" juice of the same profile. &#xD;\nThe JF Cookie is working wonders in here with FLV VC laying down the perfect foundation for the rest of the flavours to meld together just beautifully and FLV's Creme de Menthe... WOW... what a flavour... and so perfectly backed up by the Devon cream. &#xD;\n&#xD;\nOn a side note, I seem to be one of the unlucky few blessed with a natural aversion to CAP Sugar Cookie. I can use it up to 1.5% (but any higher and a sour bitterness jumps out like TPA to a pepper-taster) in respect of all the hard work behind this recipe I wanted to stay true to it's format and capping CAP at 1.5% then substituting the remaining 1.5% with WF Sugar Cookie SC seemed to allow me to get the same effect but without any off-notes or imbalance.&#xD;\nFantastic recipe and a \"Hall of Fame\" type juice. WELL DONE. What a way to sign off! Wishing you happy travels but I also selfishly hope you return to mixing some day.."
-    },
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": "beautiful recipe flv creme de menthe is my favorite flavor and you killed it with this recipe. not really thin mints but definitely a good sub for it."
-    },
-    {
-      "user": "CupcakeFetish",
-      "score": "5",
-      "text": "You guys like Shamrock Cookie by Sad Boy? Well brush the thin-mint-crushed-and-melted-in-wet-carpet off your tongue and mix this up, because this comes without the carpet taste and without the guilt of eating Thin Mints.&#xD;\nThe original recipe was missing what this has, which was some razzle dazzle that comes in when Denske puts it into 6th gear. Of course, this is coming from someone who doesn't like minty juice. &#xD;\nA week was bangin, but I managed to have some left after 2 months and it's so damn good that I cried when I had to wipe some up with a paper towel.&#xD;\n10/10 will be mixing more up tonight. Also, Denske, please make more recipes, my life depends on it. "
-    }
-  ]
+    "name": "Shamrock Cookie (clone)",
+    "description": "Allright boys, this is my legacy recipe. The previous version of this has been improved a lot so I appreciate people giving this one a shot. Since I started mixing I came in wishing there was more clones of popular juices. There were 4 specifically I wanted to see: pink punch lemonade by twist, shamrock cookie by sadboy, beard #32 by beard vape co, and the one strawberry by beard vape co. None of these existed before I started mixing almost a year ago. I took it as my personal mission to get good enough where I could clone these juices and I set out on a journey. This is the profile that I worked the hardest to achieve, so much time and effort. It was by far the hardest clone I worked on and took about 4 months of trial and error to get to this version. It is good after 7 days, great after 2 weeks and continues to get better afterwards. This is gonna be the last recipe I publish for a while, possibly ever unless I try to go after the one strawberry. If anyone has tried the original, I would love to hear your thoughts on how I did.",
+    "id": 202382,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/202382\/download.jpeg-20.jpg",
+    "updated_at": "2020-12-12T18:30:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "4572",
+            "millipercent": 1600,
+            "vendor": "JF"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "631",
+            "millipercent": 1800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "1432",
+            "millipercent": 800,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Denske",
+    "views": "2078",
+    "created_at": "2020-08-04",
+    "slug": "shamrock_cookie_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/202382.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cxxxxp",
+            "score": 5,
+            "text": "In Australia we call these cookies \"Mint Slice\" biscuits. They are crunchy chocolate biscuits layered with a creamy mint filling and covered in dark chocolate (I'm sure they exist worldwide under various names...) Anyway, this is exactly what this mix tastes like. I haven't tried the original shamrock so I can't compare, however, I will point out that this recipe tops Sydney Vape Co's (AU) \"Mint Sliced\" juice of the same profile. &#xD;\nThe JF Cookie is working wonders in here with FLV VC laying down the perfect foundation for the rest of the flavours to meld together just beautifully and FLV's Creme de Menthe... WOW... what a flavour... and so perfectly backed up by the Devon cream. &#xD;\n&#xD;\nOn a side note, I seem to be one of the unlucky few blessed with a natural aversion to CAP Sugar Cookie. I can use it up to 1.5% (but any higher and a sour bitterness jumps out like TPA to a pepper-taster) in respect of all the hard work behind this recipe I wanted to stay true to it's format and capping CAP at 1.5% then substituting the remaining 1.5% with WF Sugar Cookie SC seemed to allow me to get the same effect but without any off-notes or imbalance.&#xD;\nFantastic recipe and a \"Hall of Fame\" type juice. WELL DONE. What a way to sign off! Wishing you happy travels but I also selfishly hope you return to mixing some day.."
+        },
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": "beautiful recipe flv creme de menthe is my favorite flavor and you killed it with this recipe. not really thin mints but definitely a good sub for it."
+        },
+        {
+            "user": "CupcakeFetish",
+            "score": 5,
+            "text": "You guys like Shamrock Cookie by Sad Boy? Well brush the thin-mint-crushed-and-melted-in-wet-carpet off your tongue and mix this up, because this comes without the carpet taste and without the guilt of eating Thin Mints.&#xD;\nThe original recipe was missing what this has, which was some razzle dazzle that comes in when Denske puts it into 6th gear. Of course, this is coming from someone who doesn't like minty juice. &#xD;\nA week was bangin, but I managed to have some left after 2 months and it's so damn good that I cried when I had to wipe some up with a paper towel.&#xD;\n10\/10 will be mixing more up tonight. Also, Denske, please make more recipes, my life depends on it. "
+        }
+    ]
 }

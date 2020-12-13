@@ -1,50 +1,49 @@
 {
-  "name": "Baja Blast",
-  "description": "One of my favorite soda's. If you don't have LB blue rasberry you can sub 4% TPA. Age time 1 to 3 days. Mixed at 80/20.",
-  "id": 8926,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Citrus Punch",
-      "flavor_id": "348",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "2664",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 2000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Champagne Type (pg)",
-      "flavor_id": "347",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "BMW",
-  "views": "2269",
-  "slug": "baja_blast",
-  "total_flavoring": "9.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Baja Blast",
+    "description": "One of my favorite soda's. If you don't have LB blue rasberry you can sub 4% TPA. Age time 1 to 3 days. Mixed at 80\/20.",
+    "id": 8926,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Citrus Punch",
+            "flavor_id": "348",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "2664",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 2000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Champagne Type (pg)",
+            "flavor_id": "347",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "BMW",
+    "views": "2276",
+    "created_at": "2016-07-29",
+    "slug": "baja_blast",
+    "total_flavoring": "9.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

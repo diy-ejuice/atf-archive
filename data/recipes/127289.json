@@ -1,68 +1,68 @@
 {
-  "name": "Ultimate MBS Cookies",
-  "description": "This was created mostly to combine some of my favorite flavors. When I was working on Cap'n Burgundy's First Mate, I discovered the beautiful pairing of FW Graham Cracker and brown sugar. I opted to go to the source, and use WF Molasses in place of TPA Brown Sugar. Then I added some texture to the back of FW Graham Cracker with FA Cookie to prevent the graham cracker taste from becoming overpowering. It was a lot of dry ingredients, so I finally found a place to use CC Devon Cream. Along with that I used FLV Cream and FLV Milk & Honey to achieve a nice textural balance. FA Maple Syrup is used for the maple and to sweeten the recipe overall. FLV Popcorn has a unique textural component that I wanted to use, and it provides a slight hint of caramel and butter in the background. ",
-  "id": 127289,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127289/MBSCookies2.jpg",
-  "updated_at": "2020-12-07T20:32:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Molasses SC",
-      "flavor_id": "8374",
-      "millipercent": 750,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Popcorn",
-      "flavor_id": "8564",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "4223",
-      "millipercent": 1000,
-      "vendor": "CC"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "AlfredPudding",
-  "views": "2305",
-  "slug": "ultimate_mbs_cookies",
-  "total_flavoring": "9.25%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "450",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Ultimate MBS Cookies",
+    "description": "This was created mostly to combine some of my favorite flavors. When I was working on Cap'n Burgundy's First Mate, I discovered the beautiful pairing of FW Graham Cracker and brown sugar. I opted to go to the source, and use WF Molasses in place of TPA Brown Sugar. Then I added some texture to the back of FW Graham Cracker with FA Cookie to prevent the graham cracker taste from becoming overpowering. It was a lot of dry ingredients, so I finally found a place to use CC Devon Cream. Along with that I used FLV Cream and FLV Milk & Honey to achieve a nice textural balance. FA Maple Syrup is used for the maple and to sweeten the recipe overall. FLV Popcorn has a unique textural component that I wanted to use, and it provides a slight hint of caramel and butter in the background. ",
+    "id": 127289,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127289\/MBSCookies2.jpg",
+    "updated_at": "2020-12-11T14:08:42.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Molasses SC",
+            "flavor_id": "8374",
+            "millipercent": 750,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Popcorn",
+            "flavor_id": "8564",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "4223",
+            "millipercent": 1000,
+            "vendor": "CC"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "AlfredPudding",
+    "views": "2315",
+    "created_at": "2018-11-14",
+    "slug": "ultimate_mbs_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127289.jpg",
+    "total_flavoring": "9.25%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "450"
 }

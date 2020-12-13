@@ -1,69 +1,70 @@
 {
-  "name": "orange push up",
-  "description": "this is one of my favorite treats around this time of year even tho its turning into autumn soon",
-  "id": 66011,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "7698",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 5000,
-      "vendor": "LB"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1353",
-  "slug": "orange_push_up",
-  "total_flavoring": "18.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "When I saw the ingredient list, I had to make sure this was you.  It's refreshingly simple.  I mixed it without the mts or koolada and it's a perfectly good orange sherbet flavor.  You did good with this one."
-    }
-  ]
+    "name": "orange push up",
+    "description": "this is one of my favorite treats around this time of year even tho its turning into autumn soon",
+    "id": 66011,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:51:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "7698",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 5000,
+            "vendor": "LB"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1359",
+    "created_at": "2017-09-30",
+    "slug": "orange_push_up",
+    "total_flavoring": "18.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "When I saw the ingredient list, I had to make sure this was you.  It's refreshingly simple.  I mixed it without the mts or koolada and it's a perfectly good orange sherbet flavor.  You did good with this one."
+        }
+    ]
 }

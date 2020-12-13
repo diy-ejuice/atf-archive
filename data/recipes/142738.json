@@ -1,75 +1,76 @@
 {
-  "name": "Orange treats",
-  "description": "just getting for spring time and what a great way to start with a nice orange dreamsicle bar mix up and enjoy",
-  "id": 142738,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Orange Cream",
-      "flavor_id": "250",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "1451",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-3",
-      "flavor_id": "10342",
-      "millipercent": 300,
-      "vendor": "PUR"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1362",
-  "slug": "orange_treats",
-  "total_flavoring": "14.05%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "60%",
-  "temperature": "80",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JustMixIt",
-      "score": "5",
-      "text": "Really enjoying this mix! It's a very pleasant and smooth orange and cream mix, just like the ice cream. It's full of flavor and has a real nice medium body to it. Thanks for sharing!"
-    }
-  ]
+    "name": "Orange treats",
+    "description": "just getting for spring time and what a great way to start with a nice orange dreamsicle bar mix up and enjoy",
+    "id": 142738,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:52:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Orange Cream",
+            "flavor_id": "250",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "1451",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-3",
+            "flavor_id": "10342",
+            "millipercent": 300,
+            "vendor": "PUR"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1369",
+    "created_at": "2019-03-15",
+    "slug": "orange_treats",
+    "total_flavoring": "14.05%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "60%",
+    "temperature": "80",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JustMixIt",
+            "score": 5,
+            "text": "Really enjoying this mix! It's a very pleasant and smooth orange and cream mix, just like the ice cream. It's full of flavor and has a real nice medium body to it. Thanks for sharing!"
+        }
+    ]
 }

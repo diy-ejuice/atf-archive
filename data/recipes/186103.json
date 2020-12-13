@@ -1,68 +1,68 @@
 {
-  "name": "Zingers",
-  "description": "Went after the lunch-cake/sweet cake known as Zinger. It is a sponge cake covered in raspberry gel and rolled in coconut. There is a small amount of cream inside.  You should try this, I think you will love it. Comments ratings welcome.\r\nSubstitutions:  JF Yellow Cake for FW  @ same %.  Sweetener is Cap SS, but at your discretion. I suggest you use at least .25%.   Enjoy, this is good.",
-  "id": 186103,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/186103/zing.jpeg",
-  "updated_at": "2020-12-07T17:36:13.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Angel Cake SC",
-      "flavor_id": "9014",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Coconut Candy",
-      "flavor_id": "223",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 350,
-      "vendor": "INW"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Gordo",
-  "views": "684",
-  "slug": "zingers",
-  "total_flavoring": "12.35%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Zingers",
+    "description": "Went after the lunch-cake\/sweet cake known as Zinger. It is a sponge cake covered in raspberry gel and rolled in coconut. There is a small amount of cream inside.  You should try this, I think you will love it. Comments ratings welcome.\r\nSubstitutions:  JF Yellow Cake for FW  @ same %.  Sweetener is Cap SS, but at your discretion. I suggest you use at least .25%.   Enjoy, this is good.",
+    "id": 186103,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/186103\/zing.jpeg",
+    "updated_at": "2020-12-10T16:01:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Angel Cake SC",
+            "flavor_id": "9014",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Coconut Candy",
+            "flavor_id": "223",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 350,
+            "vendor": "INW"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Gordo",
+    "views": "691",
+    "created_at": "2020-02-27",
+    "slug": "zingers",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/186103.jpeg",
+    "total_flavoring": "12.35%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

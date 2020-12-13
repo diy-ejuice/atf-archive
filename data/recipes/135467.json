@@ -1,57 +1,59 @@
 {
-  "name": "Bubble Malone",
-  "description": "A candy watermelon, honeydew, bubblegum. \r\n\r\nMade on Live Mixing:\r\n- https://www.youtube.com/edit?o=U&video_id=pxG7QhNQErA\r\n\r\nDIYORDIEVAPING.COM\r\n- ",
-  "id": 135467,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135467/livemixing.jpg",
-  "updated_at": "2020-12-08T00:50:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sour Watermelon Candy",
-      "flavor_id": "6062",
-      "millipercent": 6000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Honeydew II",
-      "flavor_id": "9930",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "923",
-      "millipercent": 4500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "5725",
-  "slug": "bubble_malone",
-  "total_flavoring": "15.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "5",
-      "text": "best juice on the planet "
-    }
-  ]
+    "name": "Bubble Malone",
+    "description": "A candy watermelon, honeydew, bubblegum. \r\n\r\nMade on Live Mixing:\r\n- https:\/\/www.youtube.com\/edit?o=U&video_id=pxG7QhNQErA\r\n\r\nDIYORDIEVAPING.COM\r\n- ",
+    "id": 135467,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135467\/livemixing.jpg",
+    "updated_at": "2020-12-12T20:30:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sour Watermelon Candy",
+            "flavor_id": "6062",
+            "millipercent": 6000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Honeydew II",
+            "flavor_id": "9930",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "923",
+            "millipercent": 4500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "5745",
+    "created_at": "2019-01-18",
+    "slug": "bubble_malone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135467.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 5,
+            "text": "best juice on the planet "
+        }
+    ]
 }

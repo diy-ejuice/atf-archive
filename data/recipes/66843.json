@@ -1,74 +1,73 @@
 {
-  "name": "Clemens",
-  "description": "Melon Cream. It's good off the shake too!\r\nBavarian Cream/Vienna Cream\r\nVienna Cream gives that light cream with a subtle vanilla, Bavarian Cream thickens it up and provides that thick dairy mouth-feel\r\n\r\nCustard Pi 3.14\r\nThis is used to thicken everything up nicely, it also adds to the vanilla slightly, and eats any of the harshness that the Lemon provides.\r\n\r\nLemon Sicily\r\nTartness. It prevents the combination of creams from getting too heavy and thick through tartness\r\n\r\nWild Melon/Watermelon\r\nThis provides the main flavour note, underpinned by Double Apple.",
-  "id": 66843,
-  "image_url": null,
-  "updated_at": "2020-12-04T23:27:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Apple",
-      "flavor_id": "45",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "1187",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Custard Pi 3.14",
-      "flavor_id": "4839",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "616",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 750,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Wrldleigh",
-  "views": "951",
-  "slug": "clemens",
-  "total_flavoring": "10.25%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Clemens",
+    "description": "Melon Cream. It's good off the shake too!\r\nBavarian Cream\/Vienna Cream\r\nVienna Cream gives that light cream with a subtle vanilla, Bavarian Cream thickens it up and provides that thick dairy mouth-feel\r\n\r\nCustard Pi 3.14\r\nThis is used to thicken everything up nicely, it also adds to the vanilla slightly, and eats any of the harshness that the Lemon provides.\r\n\r\nLemon Sicily\r\nTartness. It prevents the combination of creams from getting too heavy and thick through tartness\r\n\r\nWild Melon\/Watermelon\r\nThis provides the main flavour note, underpinned by Double Apple.",
+    "id": 66843,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Apple",
+            "flavor_id": "45",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "1187",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Custard Pi 3.14",
+            "flavor_id": "4839",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "616",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 750,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Wrldleigh",
+    "views": "955",
+    "created_at": "2017-10-05",
+    "slug": "clemens",
+    "total_flavoring": "10.25%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,83 +1,84 @@
 {
-  "name": "Creamy Lemon Cheesecake",
-  "description": "The reason Manson started overusing Cap Lemon-Lime.",
-  "id": 1846,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "170",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "coop34",
-  "views": "5938",
-  "slug": "creamy_lemon_cheesecake",
-  "total_flavoring": "14.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 5,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "5",
-      "text": "My start, to using Lime too! :-)  My favorite cheesecake recipe. I love it from day 7. All is coming together at that point. No harsness from the Lime.&#xD;\nThe Lime and the Vanilla blend so well to such a good taste. Creamy, rich, yummy. Thanks for publishing the recipe."
-    },
-    {
-      "user": "RockyHarlow",
-      "score": "5",
-      "text": "Absolutely fantastic. After a week or two, this is sunshine in a plastic bottle. Deep, rich cheesecake. Crispy graham crust. Balanced lemon cream. Perfect. I did omit TPA French Vanilla, but even without it this is easily one of my most returned to mixes. I know this recipe is over two years old but it's still damn solid."
-    },
-    {
-      "user": "Smoky",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "tsmebro",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "CriticalVape",
-      "score": "5",
-      "text": "Awesome recipe. Smooth and balanced. I've been blowing through this like crazy. Thanks for sharing!"
-    }
-  ]
+    "name": "Creamy Lemon Cheesecake",
+    "description": "The reason Manson started overusing Cap Lemon-Lime.",
+    "id": 1846,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "170",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "coop34",
+    "views": "5952",
+    "created_at": "2016-04-08",
+    "slug": "creamy_lemon_cheesecake",
+    "total_flavoring": "14.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 5,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 5,
+            "text": "My start, to using Lime too! :-)  My favorite cheesecake recipe. I love it from day 7. All is coming together at that point. No harsness from the Lime.&#xD;\nThe Lime and the Vanilla blend so well to such a good taste. Creamy, rich, yummy. Thanks for publishing the recipe."
+        },
+        {
+            "user": "RockyHarlow",
+            "score": 5,
+            "text": "Absolutely fantastic. After a week or two, this is sunshine in a plastic bottle. Deep, rich cheesecake. Crispy graham crust. Balanced lemon cream. Perfect. I did omit TPA French Vanilla, but even without it this is easily one of my most returned to mixes. I know this recipe is over two years old but it's still damn solid."
+        },
+        {
+            "user": "Smoky",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "tsmebro",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "CriticalVape",
+            "score": 5,
+            "text": "Awesome recipe. Smooth and balanced. I've been blowing through this like crazy. Thanks for sharing!"
+        }
+    ]
 }

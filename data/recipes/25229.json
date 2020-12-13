@@ -1,91 +1,93 @@
 {
-  "name": "Pink Regalia",
-  "description": "To me this is a pink strawberry cream, not a strawberry and cream, as there is little separation. The strawberry is bright enough to jump off the creams a bit yet still be creamy in their own right. \r\n The strawberry taffy is a new one for me and I played with a bunch of different ones with it to make a unique blend for this recipe. The shisha strawberry goes into that candy base of the creamier taffy well sweetening it up and adding brightness. The JF strawberry sweet boosts the volume on the overall strawberry blend so it doesn't get bullied by the creams.\r\n The cream fresh acts as the white canvas to layer everything else on. It's subtle and kind of thin but thats what i like. I can thin out heavier creams like the vbic and vcv1 but still impart their qualities and some flavor. The meringue and sweet cream sweetens up the creams to tie a bow on them.\r\n Sweetener to to taste but I found .5-.75 the sweet spot. Give it a mix and let me know what you think!!!! oh, and this was inspired by VURVE'S Anubis Nectar but everyone has a stawberry cream....this ones mines!!!! ",
-  "id": 25229,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/25229/lips_painting.jpg",
-  "updated_at": "2020-12-08T00:48:58.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Taffy",
-      "flavor_id": "4164",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "That_Hohmie",
-  "views": "2465",
-  "slug": "pink_regalia",
-  "total_flavoring": "15.0%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RobS",
-      "score": "5",
-      "text": "Thanks for this, been a while since i enjoyed a strawberry.  should continue to improve with more steep but i can already tell i'm going to love this."
-    },
-    {
-      "user": "CausticCloudCreator",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "MixinDAD",
-      "score": "5",
-      "text": "Good Job Bro Really diggin your take on this profile inspired me to come up with my own reminds me alot of a juice that i got from my local shop called Pig Milk. Verry good will definitely mix this again........... and again"
-    }
-  ]
+    "name": "Pink Regalia",
+    "description": "To me this is a pink strawberry cream, not a strawberry and cream, as there is little separation. The strawberry is bright enough to jump off the creams a bit yet still be creamy in their own right. \r\n The strawberry taffy is a new one for me and I played with a bunch of different ones with it to make a unique blend for this recipe. The shisha strawberry goes into that candy base of the creamier taffy well sweetening it up and adding brightness. The JF strawberry sweet boosts the volume on the overall strawberry blend so it doesn't get bullied by the creams.\r\n The cream fresh acts as the white canvas to layer everything else on. It's subtle and kind of thin but thats what i like. I can thin out heavier creams like the vbic and vcv1 but still impart their qualities and some flavor. The meringue and sweet cream sweetens up the creams to tie a bow on them.\r\n Sweetener to to taste but I found .5-.75 the sweet spot. Give it a mix and let me know what you think!!!! oh, and this was inspired by VURVE'S Anubis Nectar but everyone has a stawberry cream....this ones mines!!!! ",
+    "id": 25229,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/25229\/lips_painting.jpg",
+    "updated_at": "2020-12-12T18:29:00.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Taffy",
+            "flavor_id": "4164",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "That_Hohmie",
+    "views": "2476",
+    "created_at": "2017-01-04",
+    "slug": "pink_regalia",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/25229.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RobS",
+            "score": 5,
+            "text": "Thanks for this, been a while since i enjoyed a strawberry.  should continue to improve with more steep but i can already tell i'm going to love this."
+        },
+        {
+            "user": "CausticCloudCreator",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "MixinDAD",
+            "score": 5,
+            "text": "Good Job Bro Really diggin your take on this profile inspired me to come up with my own reminds me alot of a juice that i got from my local shop called Pig Milk. Verry good will definitely mix this again........... and again"
+        }
+    ]
 }

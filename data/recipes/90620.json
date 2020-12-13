@@ -1,87 +1,89 @@
 {
-  "name": "Kiwi Tart",
-  "description": "I have not much to say, you have to taste it.\r\nButtery Tart, with smooth cream and a yummy Kiwi toping.\r\nYou can vape it from the 2nd day but the steep completes ~10 days.",
-  "id": 90620,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90620/sweet-ideas---kiwifruit-custard-tart.jpg",
-  "updated_at": "2020-12-07T23:36:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 800,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "French Vanilla Creme",
-      "flavor_id": "168",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 800,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Kiwi (double)",
-      "flavor_id": "242",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "daffynash",
-  "views": "1739",
-  "slug": "kiwi_tart",
-  "total_flavoring": "16.8%",
-  "steep_days": "10",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 3,
-  "reviews": [
-    {
-      "user": "ancient7",
-      "score": "3",
-      "text": ""
-    }
-  ]
+    "name": "Kiwi Tart",
+    "description": "I have not much to say, you have to taste it.\r\nButtery Tart, with smooth cream and a yummy Kiwi toping.\r\nYou can vape it from the 2nd day but the steep completes ~10 days.",
+    "id": 90620,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90620\/sweet-ideas---kiwifruit-custard-tart.jpg",
+    "updated_at": "2020-12-10T17:57:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 800,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "French Vanilla Creme",
+            "flavor_id": "168",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 800,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Kiwi (double)",
+            "flavor_id": "242",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "daffynash",
+    "views": "1746",
+    "created_at": "2018-03-02",
+    "slug": "kiwi_tart",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90620.jpg",
+    "total_flavoring": "16.8%",
+    "steep_days": "10",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 3,
+    "reviews": [
+        {
+            "user": "ancient7",
+            "score": 3,
+            "text": ""
+        }
+    ]
 }

@@ -1,51 +1,52 @@
 {
-  "name": "perapple",
-  "description": "",
-  "id": 5331,
-  "image_url": null,
-  "updated_at": "2020-11-20T00:10:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pear",
-      "flavor_id": "257",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Lardan",
-  "views": "1094",
-  "slug": "perapple",
-  "total_flavoring": "5.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "ha"
-    }
-  ]
+    "name": "perapple",
+    "description": "",
+    "id": 5331,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:01.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pear",
+            "flavor_id": "257",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Lardan",
+    "views": "1098",
+    "created_at": "2016-06-15",
+    "slug": "perapple",
+    "total_flavoring": "5.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "ha"
+        }
+    ]
 }

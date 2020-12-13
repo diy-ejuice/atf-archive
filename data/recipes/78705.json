@@ -1,56 +1,56 @@
 {
-  "name": "Adventure",
-  "description": "A tribute to Lazarus Vintage Journey. “Rolled in cognac and glazed with but­ter­milk, this warm and sweet fla­vor is reserved for only the most exclu­sive cig­ars of the world. Mas­ter Chef Bruce has embold­ened the essence of this fla­vor into a stately and smooth aro­matic fla­vor that amazes and inspires all who taste the wealth of the Jour­ney experience.” There’s no mention of banana there, but from reviews I gather that there is a bit of banana in there. \r\n\r\nI have not tried the original, but created this based off of the description and reviews, and it ended up being pretty delicious. Not so much a tobacco flavor, but it’s good. \r\n\r\nA note on FE Cigar and TFA RY4 Double: this is a really good combo. A few commercial juices I have tried taste like they are using this combo. The Cigar seems to fix up the RY4 Double and make it really pop. There’s a few RY4 recipes I’ve been playing with lately that I’m using this combo in, and it’s really good. The ratio used here is around where I like to keep them. \r\n\r\nINW Brandy has been discontinued, but FA Brandy works just the same. ",
-  "id": 78705,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/78705/A87027A8-483B-45CC-95C3-8EC947BC7B21.jpeg",
-  "updated_at": "2020-12-07T22:32:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cigar Flavor",
-      "flavor_id": "1619",
-      "millipercent": 1500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Oak Milk",
-      "flavor_id": "1668",
-      "millipercent": 1300,
-      "vendor": "FE"
-    },
-    {
-      "name": "Banana Nut Bread",
-      "flavor_id": "144",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Brandy",
-      "flavor_id": "493",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ChemicalBurnVictim",
-  "views": "1948",
-  "slug": "adventure",
-  "total_flavoring": "9.8%",
-  "steep_days": "7",
-  "best_vg": "60%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Adventure",
+    "description": "A tribute to Lazarus Vintage Journey. \u201cRolled in cognac and glazed with but\u00adter\u00admilk, this warm and sweet fla\u00advor is reserved for only the most exclu\u00adsive cig\u00adars of the world. Mas\u00adter Chef Bruce has embold\u00adened the essence of this fla\u00advor into a stately and smooth aro\u00admatic fla\u00advor that amazes and inspires all who taste the wealth of the Jour\u00adney experience.\u201d There\u2019s no mention of banana there, but from reviews I gather that there is a bit of banana in there. \r\n\r\nI have not tried the original, but created this based off of the description and reviews, and it ended up being pretty delicious. Not so much a tobacco flavor, but it\u2019s good. \r\n\r\nA note on FE Cigar and TFA RY4 Double: this is a really good combo. A few commercial juices I have tried taste like they are using this combo. The Cigar seems to fix up the RY4 Double and make it really pop. There\u2019s a few RY4 recipes I\u2019ve been playing with lately that I\u2019m using this combo in, and it\u2019s really good. The ratio used here is around where I like to keep them. \r\n\r\nINW Brandy has been discontinued, but FA Brandy works just the same. ",
+    "id": 78705,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/78705\/A87027A8-483B-45CC-95C3-8EC947BC7B21.jpeg",
+    "updated_at": "2020-12-12T01:41:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cigar Flavor",
+            "flavor_id": "1619",
+            "millipercent": 1500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Oak Milk",
+            "flavor_id": "1668",
+            "millipercent": 1300,
+            "vendor": "FE"
+        },
+        {
+            "name": "Banana Nut Bread",
+            "flavor_id": "144",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Brandy",
+            "flavor_id": "493",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ChemicalBurnVictim",
+    "views": "1959",
+    "created_at": "2017-12-12",
+    "slug": "adventure",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/78705.jpeg",
+    "total_flavoring": "9.8%",
+    "steep_days": "7",
+    "best_vg": "60%",
+    "temperature": "0"
 }

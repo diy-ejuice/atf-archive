@@ -1,68 +1,67 @@
 {
-  "name": "Infused Gummy Worms",
-  "description": "Alright ppl since its almost time for Halloween I figured that I would go with a gummy that everybody loves this time of yr and what better way of getting gummy worms injected with a variety of fruits in the middle gushing out at ya and blue raz and tangerine will gush when you bite into the gummy worms so Happy Halloween everyone mix this up and enjoy",
-  "id": 122407,
-  "image_url": null,
-  "updated_at": "2020-12-06T22:03:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Gummy Worm Candy SC",
-      "flavor_id": "9026",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sour Gummy",
-      "flavor_id": "8777",
-      "millipercent": 1500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 4000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 750,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1538",
-  "slug": "infused_gummy_worms",
-  "total_flavoring": "11.75%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "110",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Infused Gummy Worms",
+    "description": "Alright ppl since its almost time for Halloween I figured that I would go with a gummy that everybody loves this time of yr and what better way of getting gummy worms injected with a variety of fruits in the middle gushing out at ya and blue raz and tangerine will gush when you bite into the gummy worms so Happy Halloween everyone mix this up and enjoy",
+    "id": 122407,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:08:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Gummy Worm Candy SC",
+            "flavor_id": "9026",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sour Gummy",
+            "flavor_id": "8777",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 4000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 750,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1547",
+    "created_at": "2018-10-09",
+    "slug": "infused_gummy_worms",
+    "total_flavoring": "11.75%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "110"
 }

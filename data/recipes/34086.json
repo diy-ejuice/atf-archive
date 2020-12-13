@@ -1,63 +1,65 @@
 {
-  "name": "!Blue-Razz Candy!",
-  "description": "I've been chasing this flavor profile for a while and haven't hit anything i felt was 'it' until now. This is meant to be reminiscent of those blue-razz candies from days of yore, the kinds that tasted of blue razz-berry from my childhood. Anyways, enjoy, create, let me know what you think!",
-  "id": 34086,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34086/blue-raspberry-rock-candy-c.jpg",
-  "updated_at": "2020-12-08T00:49:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Candy (pg)",
-      "flavor_id": "216",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1200",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 2250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Candy",
-      "flavor_id": "206",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Friction2600",
-  "views": "5531",
-  "slug": "bluerazz_candy",
-  "total_flavoring": "15.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Kemmo",
-      "score": "4",
-      "text": "Decent recipe here, good work. i feel the combination and percentages of FW Blue Raspberry, TFA Apple Candy and CAP's jelly candy is giving it a intense throat hit that's too much for me. but the flavor was damn nice! I mixed this at 2mg nicotine btw."
-    }
-  ]
+    "name": "!Blue-Razz Candy!",
+    "description": "I've been chasing this flavor profile for a while and haven't hit anything i felt was 'it' until now. This is meant to be reminiscent of those blue-razz candies from days of yore, the kinds that tasted of blue razz-berry from my childhood. Anyways, enjoy, create, let me know what you think!",
+    "id": 34086,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/34086\/blue-raspberry-rock-candy-c.jpg",
+    "updated_at": "2020-12-12T09:12:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Candy (pg)",
+            "flavor_id": "216",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1200",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 2250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Candy",
+            "flavor_id": "206",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Friction2600",
+    "views": "5541",
+    "created_at": "2017-02-27",
+    "slug": "bluerazz_candy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/34086.jpg",
+    "total_flavoring": "15.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Kemmo",
+            "score": 4,
+            "text": "Decent recipe here, good work. i feel the combination and percentages of FW Blue Raspberry, TFA Apple Candy and CAP's jelly candy is giving it a intense throat hit that's too much for me. but the flavor was damn nice! I mixed this at 2mg nicotine btw."
+        }
+    ]
 }

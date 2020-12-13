@@ -1,75 +1,77 @@
 {
-  "name": "Chocolate Shake",
-  "description": "The original description of this disappeared! This is a rich, full bodied take on Wayne's (DIYorDIE) Chocolate Shake that adds some extra richness, and a silky mouth feel.\r\n\r\n75/25 .....7 day steep",
-  "id": 11763,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/11763/images.jpg",
-  "updated_at": "2020-12-08T00:48:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Double Chocolate (clear)",
-      "flavor_id": "158",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cotton Candy",
-      "flavor_id": "319",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "sweetener (sucralose)",
-      "flavor_id": "2313",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Goede_Leven",
-  "views": "3189",
-  "slug": "chocolate_shake",
-  "total_flavoring": "14.0%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "JuiceHunter",
-      "score": "5",
-      "text": "Good job! This is better than Wayne's golden ticket clone. IMO. "
-    }
-  ]
+    "name": "Chocolate Shake",
+    "description": "The original description of this disappeared! This is a rich, full bodied take on Wayne's (DIYorDIE) Chocolate Shake that adds some extra richness, and a silky mouth feel.\r\n\r\n75\/25 .....7 day steep",
+    "id": 11763,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/11763\/images.jpg",
+    "updated_at": "2020-12-12T11:50:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Double Chocolate (clear)",
+            "flavor_id": "158",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cotton Candy",
+            "flavor_id": "319",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "sweetener (sucralose)",
+            "flavor_id": "2313",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Goede_Leven",
+    "views": "3198",
+    "created_at": "2016-08-27",
+    "slug": "chocolate_shake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/11763.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "JuiceHunter",
+            "score": 5,
+            "text": "Good job! This is better than Wayne's golden ticket clone. IMO. "
+        }
+    ]
 }

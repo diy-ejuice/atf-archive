@@ -1,50 +1,50 @@
 {
-  "name": "Banana Cream Wafer",
-  "description": "Really good Banana cookie with some cream in the middle.\r\n\r\n",
-  "id": 51535,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/51535/banana-pudding-cookies-045_680.jpg",
-  "updated_at": "2020-12-06T10:37:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "1477",
-      "millipercent": 6500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "180db",
-  "views": "1563",
-  "slug": "banana_cream_wafer",
-  "total_flavoring": "20.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Banana Cream Wafer",
+    "description": "Really good Banana cookie with some cream in the middle.\r\n\r\n",
+    "id": 51535,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/51535\/banana-pudding-cookies-045_680.jpg",
+    "updated_at": "2020-12-10T17:56:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "1477",
+            "millipercent": 6500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "180db",
+    "views": "1567",
+    "created_at": "2017-06-19",
+    "slug": "banana_cream_wafer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/51535.jpg",
+    "total_flavoring": "20.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

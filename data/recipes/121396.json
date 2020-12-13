@@ -1,88 +1,90 @@
 {
-  "name": "Summer Drink",
-  "description": "A wonderful blend of Honeydew, Lime, and Peach with a chill. A perfect refresher for those hot Summer days.",
-  "id": 121396,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/121396/summer_drink.jpg",
-  "updated_at": "2020-12-08T00:50:28.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeydew",
-      "flavor_id": "238",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 3000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1000,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "eyemakepizza",
-  "views": "12797",
-  "slug": "summer_drink",
-  "total_flavoring": "11.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rockwise",
-      "score": "none",
-      "text": "Made it, making it again. And will make it again &amp; again. Thx for sharing."
-    },
-    {
-      "user": "YippYo",
-      "score": "5",
-      "text": "Yup. That's definitely what summer tastes like. Seriously good recipe. Very honeydew heavy, not that that's a bad thing. And the peach(s) compliments the honeydew perfectly. Thanks for sharing!"
-    },
-    {
-      "user": "UnappreciatedRobot",
-      "score": "5",
-      "text": "I don't what to say about \"Summer Drink\" that is not self-explained by its name. It is a super refreshing vape that is perfect for these hot Arizona days. The honeydew and lime combination works so well, and the peach fits perfectly into the mix. Definitely going to be a new ADV."
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Forgot about this in my steep cabinet it had a good 2+ month steep, and it was very delicious. Honeydew and peach blend together excellently. I did only use 0.5% ws-23 but it worked perfectly for my likings. Excellent job. "
-    },
-    {
-      "user": "nowar",
-      "score": "5",
-      "text": "I just realized I never left a review for this. I’m a big peach fan. This is a great mix that showcases peach without any throat itch, over flavoring, or overblending. I also mixed this with jf honeydew and it was lovely. This is coming back in a few weeks when it’s really warm. "
-    },
-    {
-      "user": "beeker",
-      "score": "5",
-      "text": "Don't let the simplicity of the recipe fool you, this is a perfectly balanced blend of three fruits that not only blend incredibly well but that each stand out individually with a taste (rather than becoming an unidentifiable hybrid). This tastes like good times in warm places.&#xD;\nI should note that I halved the WS-23 because I'm a coolant lightweight and it's January. "
-    }
-  ]
+    "name": "Summer Drink",
+    "description": "A wonderful blend of Honeydew, Lime, and Peach with a chill. A perfect refresher for those hot Summer days.",
+    "id": 121396,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/121396\/summer_drink.jpg",
+    "updated_at": "2020-12-12T14:06:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeydew",
+            "flavor_id": "238",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 3000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1000,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "eyemakepizza",
+    "views": "12827",
+    "created_at": "2018-10-01",
+    "slug": "summer_drink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/121396.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rockwise",
+            "score": 0,
+            "text": "Made it, making it again. And will make it again &amp; again. Thx for sharing."
+        },
+        {
+            "user": "YippYo",
+            "score": 5,
+            "text": "Yup. That's definitely what summer tastes like. Seriously good recipe. Very honeydew heavy, not that that's a bad thing. And the peach(s) compliments the honeydew perfectly. Thanks for sharing!"
+        },
+        {
+            "user": "UnappreciatedRobot",
+            "score": 5,
+            "text": "I don't what to say about \"Summer Drink\" that is not self-explained by its name. It is a super refreshing vape that is perfect for these hot Arizona days. The honeydew and lime combination works so well, and the peach fits perfectly into the mix. Definitely going to be a new ADV."
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Forgot about this in my steep cabinet it had a good 2+ month steep, and it was very delicious. Honeydew and peach blend together excellently. I did only use 0.5% ws-23 but it worked perfectly for my likings. Excellent job. "
+        },
+        {
+            "user": "nowar",
+            "score": 5,
+            "text": "I just realized I never left a review for this. I\u2019m a big peach fan. This is a great mix that showcases peach without any throat itch, over flavoring, or overblending. I also mixed this with jf honeydew and it was lovely. This is coming back in a few weeks when it\u2019s really warm. "
+        },
+        {
+            "user": "beeker",
+            "score": 5,
+            "text": "Don't let the simplicity of the recipe fool you, this is a perfectly balanced blend of three fruits that not only blend incredibly well but that each stand out individually with a taste (rather than becoming an unidentifiable hybrid). This tastes like good times in warm places.&#xD;\nI should note that I halved the WS-23 because I'm a coolant lightweight and it's January. "
+        }
+    ]
 }

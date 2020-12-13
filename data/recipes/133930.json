@@ -1,62 +1,62 @@
 {
-  "name": "Mr. Black and Blue",
-  "description": "This is a nice Buttery delectable Blueberry Muffin. The Raspberry and black currant add nice bit of tart to recipe. The butter adds what I like when I make a muffin that moist buttery taste. The cream cheese is a nice topping of glaze. Reminds me of a muffin I’d get from a Budnt cake bakery. Steep 3 days for the flavors to all come together. Mixed at 70/30. If you like it sweet like I do add .25 of supersweet. Or .5. Of Flv sweetness. Reviews are always welcomed. Thanks Enjoy.",
-  "id": 133930,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/133930/69991225-9BBC-421C-A3A3-A53E545526D1.jpeg",
-  "updated_at": "2020-12-07T15:21:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blueberry Muffin",
-      "flavor_id": "608",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Shisha Raspberry",
-      "flavor_id": "836",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Blackberry",
-      "flavor_id": "2220",
-      "millipercent": 2000,
-      "vendor": "RF"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1198",
-  "slug": "mr_black_and_blue",
-  "total_flavoring": "12.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mr. Black and Blue",
+    "description": "This is a nice Buttery delectable Blueberry Muffin. The Raspberry and black currant add nice bit of tart to recipe. The butter adds what I like when I make a muffin that moist buttery taste. The cream cheese is a nice topping of glaze. Reminds me of a muffin I\u2019d get from a Budnt cake bakery. Steep 3 days for the flavors to all come together. Mixed at 70\/30. If you like it sweet like I do add .25 of supersweet. Or .5. Of Flv sweetness. Reviews are always welcomed. Thanks Enjoy.",
+    "id": 133930,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/133930\/69991225-9BBC-421C-A3A3-A53E545526D1.jpeg",
+    "updated_at": "2020-12-10T16:01:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blueberry Muffin",
+            "flavor_id": "608",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Shisha Raspberry",
+            "flavor_id": "836",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Blackberry",
+            "flavor_id": "2220",
+            "millipercent": 2000,
+            "vendor": "RF"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1204",
+    "created_at": "2019-01-07",
+    "slug": "mr_black_and_blue",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/133930.jpeg",
+    "total_flavoring": "12.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

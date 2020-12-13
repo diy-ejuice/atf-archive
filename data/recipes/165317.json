@@ -1,50 +1,49 @@
 {
-  "name": "1-2-3-4-5-cherry",
-  "description": "I just wanted to make a good cherry candy. I did. Probably could do better with a few changes, but that's for another mix.",
-  "id": 165317,
-  "image_url": null,
-  "updated_at": "2020-12-07T22:33:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marzipan",
-      "flavor_id": "1708",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherries",
-      "flavor_id": "757",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cherry Extract",
-      "flavor_id": "222",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cherry Taffy - Super Concentrate",
-      "flavor_id": "9191",
-      "millipercent": 4000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Cherry",
-      "flavor_id": "9420",
-      "millipercent": 5000,
-      "vendor": "GL"
-    }
-  ],
-  "author": "COB",
-  "views": "1578",
-  "slug": "12345cherry",
-  "total_flavoring": "15.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "1-2-3-4-5-cherry",
+    "description": "I just wanted to make a good cherry candy. I did. Probably could do better with a few changes, but that's for another mix.",
+    "id": 165317,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:58:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marzipan",
+            "flavor_id": "1708",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherries",
+            "flavor_id": "757",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cherry Extract",
+            "flavor_id": "222",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cherry Taffy - Super Concentrate",
+            "flavor_id": "9191",
+            "millipercent": 4000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Cherry",
+            "flavor_id": "9420",
+            "millipercent": 5000,
+            "vendor": "GL"
+        }
+    ],
+    "author": "COB",
+    "views": "1589",
+    "created_at": "2019-09-01",
+    "slug": "12345cherry",
+    "total_flavoring": "15.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

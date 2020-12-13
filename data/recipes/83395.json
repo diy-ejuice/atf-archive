@@ -1,50 +1,49 @@
 {
-  "name": "Freedom (mild tobacco)",
-  "description": "A mild tobacco recipe with notes of saffron and Virginia main taste. ",
-  "id": 83395,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:50:31.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Burley",
-      "flavor_id": "435",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Saffron",
-      "flavor_id": "577",
-      "millipercent": 300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Toasted Almond",
-      "flavor_id": "128",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Virginia",
-      "flavor_id": "427",
-      "millipercent": 1700,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Lucky13",
-  "views": "1554",
-  "slug": "freedom_mild_tobacco",
-  "total_flavoring": "3.5%",
-  "steep_days": "20",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Freedom (mild tobacco)",
+    "description": "A mild tobacco recipe with notes of saffron and Virginia main taste. ",
+    "id": 83395,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:29:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Burley",
+            "flavor_id": "435",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Saffron",
+            "flavor_id": "577",
+            "millipercent": 300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Toasted Almond",
+            "flavor_id": "128",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Virginia",
+            "flavor_id": "427",
+            "millipercent": 1700,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Lucky13",
+    "views": "1563",
+    "created_at": "2018-01-13",
+    "slug": "freedom_mild_tobacco",
+    "total_flavoring": "3.5%",
+    "steep_days": "20",
+    "best_vg": "0%",
+    "temperature": "0"
 }

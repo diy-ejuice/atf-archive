@@ -1,62 +1,62 @@
 {
-  "name": "Mangolorian",
-  "description": "A simple mango, peach and cream flavor\r\n\r\nCream Base\r\n\r\nWhipped Cream TFA - Adds a nice creamy texture and some slight slight dairy notes\r\nSweet Cream TFA - This really adds the dairy notes to the liquid. Probably one of my favorite cream flavors\r\nMarshmallow TFA - Gives it that nice thick mouthfeel\r\n\r\nFruit Notes\r\n\r\nJuicy Peach CAP & White Peach FA - Gives it that nice peachy flavor while remaining nice and juicy/wet feeling\r\n\r\nMango TFA - Gives it that nice deep natural mango. Almost adds a nectar-ness to the e-liquid",
-  "id": 178239,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/178239/086d37dea331b7720d75ddccea9555c6.jpg",
-  "updated_at": "2020-12-06T08:38:06.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mango",
-      "flavor_id": "247",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Sublimeice",
-  "views": "962",
-  "slug": "mangolorian",
-  "total_flavoring": "10.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mangolorian",
+    "description": "A simple mango, peach and cream flavor\r\n\r\nCream Base\r\n\r\nWhipped Cream TFA - Adds a nice creamy texture and some slight slight dairy notes\r\nSweet Cream TFA - This really adds the dairy notes to the liquid. Probably one of my favorite cream flavors\r\nMarshmallow TFA - Gives it that nice thick mouthfeel\r\n\r\nFruit Notes\r\n\r\nJuicy Peach CAP & White Peach FA - Gives it that nice peachy flavor while remaining nice and juicy\/wet feeling\r\n\r\nMango TFA - Gives it that nice deep natural mango. Almost adds a nectar-ness to the e-liquid",
+    "id": 178239,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/178239\/086d37dea331b7720d75ddccea9555c6.jpg",
+    "updated_at": "2020-12-11T22:45:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mango",
+            "flavor_id": "247",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Sublimeice",
+    "views": "974",
+    "created_at": "2019-12-19",
+    "slug": "mangolorian",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/178239.jpg",
+    "total_flavoring": "10.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

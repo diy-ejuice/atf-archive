@@ -1,62 +1,62 @@
 {
-  "name": "Jack Flapp",
-  "description": "This is my take on pancakes, with banana and butter pecans.Butter pecan is from Cap silver line ",
-  "id": 123893,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123893/SmartSelect_20181020-153542_Chrome.jpg",
-  "updated_at": "2020-11-30T21:03:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pancake",
-      "flavor_id": "4190",
-      "millipercent": 4250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple (pancake) Syrup",
-      "flavor_id": "86",
-      "millipercent": 330,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "8740",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1327",
-  "slug": "jack_flapp",
-  "total_flavoring": "10.83%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Jack Flapp",
+    "description": "This is my take on pancakes, with banana and butter pecans.Butter pecan is from Cap silver line ",
+    "id": 123893,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123893\/SmartSelect_20181020-153542_Chrome.jpg",
+    "updated_at": "2020-12-12T11:52:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pancake",
+            "flavor_id": "4190",
+            "millipercent": 4250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple (pancake) Syrup",
+            "flavor_id": "86",
+            "millipercent": 330,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "8740",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1336",
+    "created_at": "2018-10-20",
+    "slug": "jack_flapp",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123893.jpg",
+    "total_flavoring": "10.83%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

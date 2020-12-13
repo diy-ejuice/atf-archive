@@ -1,56 +1,55 @@
 {
-  "name": "Rin's Tropical Cream",
-  "description": "Blend of banana, mango and pineapple with a vanilla cream. The yogurt doesn't come through much but adds to the tangy essence of the pineapple.  ",
-  "id": 184147,
-  "image_url": null,
-  "updated_at": "2020-12-07T17:36:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Mango Indian Special",
-      "flavor_id": "10439",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Funky Pineapple",
-      "flavor_id": "1515",
-      "millipercent": 1000,
-      "vendor": "MB"
-    },
-    {
-      "name": "Vanilla Custard SC",
-      "flavor_id": "10414",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Creamy Greek Yogurt",
-      "flavor_id": "10449",
-      "millipercent": 2000,
-      "vendor": "MB"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "811",
-  "slug": "rins_tropical_cream",
-  "total_flavoring": "7.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Tropical Cream",
+    "description": "Blend of banana, mango and pineapple with a vanilla cream. The yogurt doesn't come through much but adds to the tangy essence of the pineapple.  ",
+    "id": 184147,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:17:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Mango Indian Special",
+            "flavor_id": "10439",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Funky Pineapple",
+            "flavor_id": "1515",
+            "millipercent": 1000,
+            "vendor": "MB"
+        },
+        {
+            "name": "Vanilla Custard SC",
+            "flavor_id": "10414",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Creamy Greek Yogurt",
+            "flavor_id": "10449",
+            "millipercent": 2000,
+            "vendor": "MB"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "819",
+    "created_at": "2020-02-09",
+    "slug": "rins_tropical_cream",
+    "total_flavoring": "7.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

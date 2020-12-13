@@ -1,69 +1,71 @@
 {
-  "name": "Circus Freak Bear [Clone]",
-  "description": "I made this a long time ago, but I thought I'd share this on here. This is a clone for Vape Wild's \"Circus Freak\" which is now called, \"Circus Bear\". What makes this recipe different is the banana in this. It is very sweet. It didnt take long to find that it was TPA's Banana. That's also why I added Cap bubble gum. Cap Bubble gum tastes just like the sweetness inside of TPA Banana, so it big time helps pop it out! I have no clue if they even use cap bubble gum in the real recipe but im telling you, it works great! Everything else I added through trial and error trying to clone the recipe. I added some Banana Cream to blend the sweet banana bubble gum profile as well as adds to creaminess with the Bavarian cream. I added strawberry ripe for the strawberry profile and a little sb sweet to make it sweeter. Cap or tfa van custard both work for this. Its been a long time since ive tried the two back to back since i dont buy Ejuice hardly at all anymore. So if any of you have some Circus Bear or Circus Freak (though that bottle may be expired by now lol) at home, let me know what you think.\r\n\r\nSteep for at least a week.",
-  "id": 174239,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/174239/e91ca05d86c42066b6a65263e5dac3d8.jpg",
-  "updated_at": "2020-12-06T09:38:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "312",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "21",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "6r1pdro9",
-  "views": "1247",
-  "slug": "circus_freak_bear_clone",
-  "total_flavoring": "17.0%",
-  "steep_days": "14",
-  "best_vg": "69%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "BigRed",
-      "score": "none",
-      "text": "hey man vape wild sells their own concentrates i bet you could get a lot closer to the flavor using there concentrates "
-    }
-  ]
+    "name": "Circus Freak Bear [Clone]",
+    "description": "I made this a long time ago, but I thought I'd share this on here. This is a clone for Vape Wild's \"Circus Freak\" which is now called, \"Circus Bear\". What makes this recipe different is the banana in this. It is very sweet. It didnt take long to find that it was TPA's Banana. That's also why I added Cap bubble gum. Cap Bubble gum tastes just like the sweetness inside of TPA Banana, so it big time helps pop it out! I have no clue if they even use cap bubble gum in the real recipe but im telling you, it works great! Everything else I added through trial and error trying to clone the recipe. I added some Banana Cream to blend the sweet banana bubble gum profile as well as adds to creaminess with the Bavarian cream. I added strawberry ripe for the strawberry profile and a little sb sweet to make it sweeter. Cap or tfa van custard both work for this. Its been a long time since ive tried the two back to back since i dont buy Ejuice hardly at all anymore. So if any of you have some Circus Bear or Circus Freak (though that bottle may be expired by now lol) at home, let me know what you think.\r\n\r\nSteep for at least a week.",
+    "id": 174239,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/174239\/e91ca05d86c42066b6a65263e5dac3d8.jpg",
+    "updated_at": "2020-12-11T14:09:33.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "312",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "21",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "6r1pdro9",
+    "views": "1256",
+    "created_at": "2019-11-13",
+    "slug": "circus_freak_bear_clone",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/174239.jpg",
+    "total_flavoring": "17.0%",
+    "steep_days": "14",
+    "best_vg": "69%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "BigRed",
+            "score": 0,
+            "text": "hey man vape wild sells their own concentrates i bet you could get a lot closer to the flavor using there concentrates "
+        }
+    ]
 }

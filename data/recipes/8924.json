@@ -1,32 +1,31 @@
 {
-  "name": "Hypno",
-  "description": "*MONEYSAVER*  We got into DIY to save money. This recipe is a cheap, good strawberry drink. Age time 1 day. Add 1% CAP super sweet if preferred. Mixed at 80/20.",
-  "id": 8924,
-  "image_url": null,
-  "updated_at": "2020-11-29T03:52:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hpno Type (no Pg)",
-      "flavor_id": "395",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 3500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "BMW",
-  "views": "1270",
-  "slug": "hypno",
-  "total_flavoring": "7.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Hypno",
+    "description": "*MONEYSAVER*  We got into DIY to save money. This recipe is a cheap, good strawberry drink. Age time 1 day. Add 1% CAP super sweet if preferred. Mixed at 80\/20.",
+    "id": 8924,
+    "image_url": null,
+    "updated_at": "2020-12-11T17:19:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hpno Type (no Pg)",
+            "flavor_id": "395",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 3500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "BMW",
+    "views": "1280",
+    "created_at": "2016-07-29",
+    "slug": "hypno",
+    "total_flavoring": "7.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

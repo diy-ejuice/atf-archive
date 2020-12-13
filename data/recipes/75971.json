@@ -1,50 +1,50 @@
 {
-  "name": "Mr. Stachio RY4",
-  "description": "Pistachio RY4 using a modified Mr. Stachio recipe.  I lowered the percentages of the original and added RY4 double.  It is good as a S&V, but gets better with time.",
-  "id": 75971,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75971/stachiobrown.png",
-  "updated_at": "2020-12-08T00:49:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pistachio",
-      "flavor_id": "293",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Elvieann",
-  "views": "1784",
-  "slug": "mr_stachio_ry4",
-  "total_flavoring": "6.2%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Mr. Stachio RY4",
+    "description": "Pistachio RY4 using a modified Mr. Stachio recipe.  I lowered the percentages of the original and added RY4 double.  It is good as a S&V, but gets better with time.",
+    "id": 75971,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75971\/stachiobrown.png",
+    "updated_at": "2020-12-10T16:00:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pistachio",
+            "flavor_id": "293",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Elvieann",
+    "views": "1791",
+    "created_at": "2017-11-26",
+    "slug": "mr_stachio_ry4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75971.png",
+    "total_flavoring": "6.2%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "420"
 }

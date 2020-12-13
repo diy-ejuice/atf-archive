@@ -1,63 +1,65 @@
 {
-  "name": "Jokes on You",
-  "description": "A cannoli recipe I made for \"Mixing in the Kitchen\" on Daytime Frank's show.  Come watch us every Sunday at 2pm EST on Daytime Franks YouTube channel.\r\nhttps://www.youtube.com/watch?v=Es07SSpD-Ow&feature=share",
-  "id": 97866,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/97866/joker_by_nyctris-d4beyf9.jpg",
-  "updated_at": "2020-12-08T00:50:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pazzo Burlone (Joker)",
-      "flavor_id": "9911",
-      "millipercent": 5000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1500,
-      "vendor": "LA"
-    },
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "66",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "MopHead",
-  "views": "2083",
-  "slug": "jokes_on_you",
-  "total_flavoring": "13.25%",
-  "steep_days": "14",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "MotherPunker",
-      "score": "5",
-      "text": "nicely rounded recipe.  i subbed greek yogurt for FA yogurt cuz its what I had and added a splash of lemon to tart it up to resemble more of a greek yogurt..... anyways, i imagine my result ended up in the same ballpark.  I am not much of a cannoli person but the friend that i handed it over to loved it.  Definitely needs steeping tho, i tried it after mixing and it went to the back of the test tube rack.  over a month later tried it again and it was saved from going in the trash tube pile lol.  thanks for the recipe!"
-    }
-  ]
+    "name": "Jokes on You",
+    "description": "A cannoli recipe I made for \"Mixing in the Kitchen\" on Daytime Frank's show.  Come watch us every Sunday at 2pm EST on Daytime Franks YouTube channel.\r\nhttps:\/\/www.youtube.com\/watch?v=Es07SSpD-Ow&feature=share",
+    "id": 97866,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/97866\/joker_by_nyctris-d4beyf9.jpg",
+    "updated_at": "2020-12-12T14:06:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pazzo Burlone (Joker)",
+            "flavor_id": "9911",
+            "millipercent": 5000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1500,
+            "vendor": "LA"
+        },
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "66",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "MopHead",
+    "views": "2090",
+    "created_at": "2018-04-22",
+    "slug": "jokes_on_you",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/97866.jpg",
+    "total_flavoring": "13.25%",
+    "steep_days": "14",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "MotherPunker",
+            "score": 5,
+            "text": "nicely rounded recipe.  i subbed greek yogurt for FA yogurt cuz its what I had and added a splash of lemon to tart it up to resemble more of a greek yogurt..... anyways, i imagine my result ended up in the same ballpark.  I am not much of a cannoli person but the friend that i handed it over to loved it.  Definitely needs steeping tho, i tried it after mixing and it went to the back of the test tube rack.  over a month later tried it again and it was saved from going in the trash tube pile lol.  thanks for the recipe!"
+        }
+    ]
 }

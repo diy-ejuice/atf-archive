@@ -1,74 +1,76 @@
 {
-  "name": "Spunkuloos",
-  "description": "Smooth. Heavenly. Rich. Creamy. Spreadable Speculoos bliss. It's so good once it hits the lips. This is my take on those jars of ridiculous cookie butter. It's not spot on, but it is damn delicious. ",
-  "id": 22399,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/22399/IMG_0821.JPG",
-  "updated_at": "2020-12-08T00:48:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Butter Cream",
-      "flavor_id": "3",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "EdibleMalfunction",
-  "views": "2624",
-  "slug": "spunkuloos",
-  "total_flavoring": "14.5%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "ChefJohn",
-      "score": "5",
-      "text": "An absolute fantastic recipe to vape. &#xD;\n&#xD;\n"
-    },
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "At 6 days in, not quite nailing the profile, but closer than my failed attempts, pretty darn tasty, and definitely worth a mix for anyone interested in the elusive Cookie Butter and wanting a very solid starting place. I think I'll try bringing the Gingerbread, CDS, and Custard all down a hair, increasing the CAP Sugar Cookie a bit, and adding some FA Caramel and FA Meringue. "
-    }
-  ]
+    "name": "Spunkuloos",
+    "description": "Smooth. Heavenly. Rich. Creamy. Spreadable Speculoos bliss. It's so good once it hits the lips. This is my take on those jars of ridiculous cookie butter. It's not spot on, but it is damn delicious. ",
+    "id": 22399,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/22399\/IMG_0821.JPG",
+    "updated_at": "2020-12-12T17:10:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Butter Cream",
+            "flavor_id": "3",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "EdibleMalfunction",
+    "views": "2641",
+    "created_at": "2016-12-09",
+    "slug": "spunkuloos",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/22399.JPG",
+    "total_flavoring": "14.5%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ChefJohn",
+            "score": 5,
+            "text": "An absolute fantastic recipe to vape. &#xD;\n&#xD;\n"
+        },
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "At 6 days in, not quite nailing the profile, but closer than my failed attempts, pretty darn tasty, and definitely worth a mix for anyone interested in the elusive Cookie Butter and wanting a very solid starting place. I think I'll try bringing the Gingerbread, CDS, and Custard all down a hair, increasing the CAP Sugar Cookie a bit, and adding some FA Caramel and FA Meringue. "
+        }
+    ]
 }

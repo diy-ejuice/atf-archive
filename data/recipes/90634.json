@@ -1,44 +1,46 @@
 {
-  "name": "2 Flavor Banger",
-  "description": "This was made as an easy 2 flavor hitter quitter. Super easy at 1% FA Walnut and 1% FLV Classic Cigarette. First 5-6 days the walnut is the major player here but its a moist mouthful feel. after a week the ash from the classic cigarette peeks through and start to mingle with the walnut. The walnut eases n smooths the transition between the 2 flavors.\r\n\r\nCan be a SnV if you want that walnut dominance but if you wait a week or 2 then it gets alot better overall",
-  "id": 90634,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/90634/p244-601-1.JPG",
-  "updated_at": "2020-12-08T00:49:59.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Classic Cigarette",
-      "flavor_id": "4358",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Walnut",
-      "flavor_id": "536",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "JJ1977",
-  "views": "2012",
-  "slug": "2_flavor_banger",
-  "total_flavoring": "2.0%",
-  "steep_days": "10",
-  "best_vg": "85%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is aptly named! I don’t even like Classic Cigarette - which tastes like chewing on a partially smoked cigarette - but this mixer has found the perfect complement to it, like these flavors were made for each other. Nutty and sharp, subtly sweet yet dirty and a little smoky, very moist but not soggy, thick and flavorful with just 2% flavor. It’s not one of those “tobacco recipes for people who don’t like tobacco,” but for people who do really like tobacco, I think it’s a must-try. This might be my new favorite vape for pairing with extra nicotine, hard drinking, and mornings after.  "
-    },
-    {
-      "user": "mgrimes",
-      "score": "5",
-      "text": "The walnut pairs perfect with this particular tobacco and I always seem to have a mix of this on-hand since JJ created it!"
-    }
-  ]
+    "name": "2 Flavor Banger",
+    "description": "This was made as an easy 2 flavor hitter quitter. Super easy at 1% FA Walnut and 1% FLV Classic Cigarette. First 5-6 days the walnut is the major player here but its a moist mouthful feel. after a week the ash from the classic cigarette peeks through and start to mingle with the walnut. The walnut eases n smooths the transition between the 2 flavors.\r\n\r\nCan be a SnV if you want that walnut dominance but if you wait a week or 2 then it gets alot better overall",
+    "id": 90634,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/90634\/p244-601-1.JPG",
+    "updated_at": "2020-12-12T11:51:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Classic Cigarette",
+            "flavor_id": "4358",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Walnut",
+            "flavor_id": "536",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "JJ1977",
+    "views": "2030",
+    "created_at": "2018-03-02",
+    "slug": "2_flavor_banger",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/90634.JPG",
+    "total_flavoring": "2.0%",
+    "steep_days": "10",
+    "best_vg": "85%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is aptly named! I don\u2019t even like Classic Cigarette - which tastes like chewing on a partially smoked cigarette - but this mixer has found the perfect complement to it, like these flavors were made for each other. Nutty and sharp, subtly sweet yet dirty and a little smoky, very moist but not soggy, thick and flavorful with just 2% flavor. It\u2019s not one of those \u201ctobacco recipes for people who don\u2019t like tobacco,\u201d but for people who do really like tobacco, I think it\u2019s a must-try. This might be my new favorite vape for pairing with extra nicotine, hard drinking, and mornings after.  "
+        },
+        {
+            "user": "mgrimes",
+            "score": 5,
+            "text": "The walnut pairs perfect with this particular tobacco and I always seem to have a mix of this on-hand since JJ created it!"
+        }
+    ]
 }

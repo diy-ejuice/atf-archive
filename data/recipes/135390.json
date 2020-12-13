@@ -1,57 +1,59 @@
 {
-  "name": "CUUC (Pod Mix)",
-  "description": "Hola..\r\nThis is a simple, stupid cucumber mix intended to meet or beat the cucumber mix used by the epidemiological pod device that shall not be named.\r\n\r\nIt's pretty good.\r\n\r\nCap cucumber gives it the mushy middle, FA adds in a bit more peel (Which of these are more attractive to the yoots of 'Merka is unknown at the time of this writing.)\r\n\r\nOddly, Since you'll see cucumber used in some cases to boost the rind note of many melons, I played around with adding some wild melon to boost the cucumber wet notes. I haven't played all that much with up and down percentages for this, but I'm pretty happy with it just where it is. :)\r\n\r\nWS-23 gives it a bit of coolness to boost that fresh sense you get from biting into a good 'ole back yard cucumber.\r\n\r\nAnyways.. Pretty fun little mix for pod devices if that's your thing..",
-  "id": 135390,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135390/cucumber-whale.jpg",
-  "updated_at": "2020-12-08T00:50:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 200,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cucumber",
-      "flavor_id": "558",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SheckJuarez",
-  "views": "1327",
-  "slug": "cuuc_pod_mix",
-  "total_flavoring": "10.45%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Clearkill",
-      "score": "4",
-      "text": "This recipe is tasty, it's a nice mellow juicy cucumber. The unnamed pods flavor though has a lot more top notes to it, almost like it delves into the realm of sour and bite. This is all earthy relaxed cucumber flesh."
-    }
-  ]
+    "name": "CUUC (Pod Mix)",
+    "description": "Hola..\r\nThis is a simple, stupid cucumber mix intended to meet or beat the cucumber mix used by the epidemiological pod device that shall not be named.\r\n\r\nIt's pretty good.\r\n\r\nCap cucumber gives it the mushy middle, FA adds in a bit more peel (Which of these are more attractive to the yoots of 'Merka is unknown at the time of this writing.)\r\n\r\nOddly, Since you'll see cucumber used in some cases to boost the rind note of many melons, I played around with adding some wild melon to boost the cucumber wet notes. I haven't played all that much with up and down percentages for this, but I'm pretty happy with it just where it is. :)\r\n\r\nWS-23 gives it a bit of coolness to boost that fresh sense you get from biting into a good 'ole back yard cucumber.\r\n\r\nAnyways.. Pretty fun little mix for pod devices if that's your thing..",
+    "id": 135390,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135390\/cucumber-whale.jpg",
+    "updated_at": "2020-12-12T20:30:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 200,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cucumber",
+            "flavor_id": "558",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SheckJuarez",
+    "views": "1336",
+    "created_at": "2019-01-17",
+    "slug": "cuuc_pod_mix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135390.jpg",
+    "total_flavoring": "10.45%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Clearkill",
+            "score": 4,
+            "text": "This recipe is tasty, it's a nice mellow juicy cucumber. The unnamed pods flavor though has a lot more top notes to it, almost like it delves into the realm of sour and bite. This is all earthy relaxed cucumber flesh."
+        }
+    ]
 }

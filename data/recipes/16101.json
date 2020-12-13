@@ -1,62 +1,64 @@
 {
-  "name": "Razzy Rancher",
-  "description": "This is a blue raspberry jolly rancher\r\n\r\nRaspberry/Razzleberry - this is where the main \"blue\" raspberry flavor comes from, that razzleberry is very candyish which lends perfectly in this mix. \r\n\r\nCotton Candy (Circus) - this flavor helps sweeten up the mix and give it more of a candy taste while helping out the blue raspberry taste\r\n\r\nSour Wizard - this is what gives this recipe that extra tart and in your face flavor. It really makes the raspberry flavors pop.\r\n\r\nSweetener - I really wanted to drive home the whole candy idea and needed more sweetener to do this. Jolly Ranchers are a very sugary candy.",
-  "id": 16101,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/16101/razzy_rancher.jpg",
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cotton Candy (circus)",
-      "flavor_id": "318",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "268",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 4000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sour Wizard",
-      "flavor_id": "4354",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "mlNikon",
-  "views": "5791",
-  "slug": "razzy_rancher",
-  "total_flavoring": "11.0%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TamVapes",
-      "score": "5",
-      "text": "Love this!  I realized, I had already mixed this from your recipe posted on ELR.  Made more last night, still love it."
-    },
-    {
-      "user": "Philosaphucker",
-      "score": "5",
-      "text": "I avoid sweetener like the plague. And upon initial mixing, I wasn't fond of the cotton candy. But then I tried this again after sitting for 10 days and I must say, this recipe pulls off a sour blue raspberry jolly rancher very well. The raspberry doesn't get lost or muted in the sour wizard and the sweeteners perform their functions beautifully to turn this into a sugary candy. Good stuff. Well done!"
-    }
-  ]
+    "name": "Razzy Rancher",
+    "description": "This is a blue raspberry jolly rancher\r\n\r\nRaspberry\/Razzleberry - this is where the main \"blue\" raspberry flavor comes from, that razzleberry is very candyish which lends perfectly in this mix. \r\n\r\nCotton Candy (Circus) - this flavor helps sweeten up the mix and give it more of a candy taste while helping out the blue raspberry taste\r\n\r\nSour Wizard - this is what gives this recipe that extra tart and in your face flavor. It really makes the raspberry flavors pop.\r\n\r\nSweetener - I really wanted to drive home the whole candy idea and needed more sweetener to do this. Jolly Ranchers are a very sugary candy.",
+    "id": 16101,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/16101\/razzy_rancher.jpg",
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cotton Candy (circus)",
+            "flavor_id": "318",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "268",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 4000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sour Wizard",
+            "flavor_id": "4354",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "mlNikon",
+    "views": "5814",
+    "created_at": "2016-10-13",
+    "slug": "razzy_rancher",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/16101.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TamVapes",
+            "score": 5,
+            "text": "Love this!  I realized, I had already mixed this from your recipe posted on ELR.  Made more last night, still love it."
+        },
+        {
+            "user": "Philosaphucker",
+            "score": 5,
+            "text": "I avoid sweetener like the plague. And upon initial mixing, I wasn't fond of the cotton candy. But then I tried this again after sitting for 10 days and I must say, this recipe pulls off a sour blue raspberry jolly rancher very well. The raspberry doesn't get lost or muted in the sour wizard and the sweeteners perform their functions beautifully to turn this into a sugary candy. Good stuff. Well done!"
+        }
+    ]
 }

@@ -1,62 +1,61 @@
 {
-  "name": "Bourbon Balls",
-  "description": "#EJUICEMAKERS\r\n\r\nLive mixed on Mixlife 10/24 developed on stream!\r\n\r\nOur bakery base starts with FW Butter Rum and FA Apple Pie, adding a bit of grain from FW Hazelnut TPA Graham Cracker Clear.\r\n\r\nA solid punch of bourbon with TPA Kentucky Bourbon at 2.5% ensures it will stand out after a steep.\r\n\r\nA bit of extra sweetness from FW Butter Pecan.\r\n\r\nA splash of VT Vanilla Buttercream Frosting to finish it off!\r\n\r\n",
-  "id": 124513,
-  "image_url": null,
-  "updated_at": "2020-12-07T23:37:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter Rum",
-      "flavor_id": "1213",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1500,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kopel",
-  "views": "1275",
-  "slug": "bourbon_balls",
-  "total_flavoring": "10.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bourbon Balls",
+    "description": "#EJUICEMAKERS\r\n\r\nLive mixed on Mixlife 10\/24 developed on stream!\r\n\r\nOur bakery base starts with FW Butter Rum and FA Apple Pie, adding a bit of grain from FW Hazelnut TPA Graham Cracker Clear.\r\n\r\nA solid punch of bourbon with TPA Kentucky Bourbon at 2.5% ensures it will stand out after a steep.\r\n\r\nA bit of extra sweetness from FW Butter Pecan.\r\n\r\nA splash of VT Vanilla Buttercream Frosting to finish it off!\r\n\r\n",
+    "id": 124513,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter Rum",
+            "flavor_id": "1213",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1500,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kopel",
+    "views": "1285",
+    "created_at": "2018-10-24",
+    "slug": "bourbon_balls",
+    "total_flavoring": "10.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

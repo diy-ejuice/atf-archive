@@ -1,50 +1,50 @@
 {
-  "name": "Raspberry Ice Cream Pie",
-  "description": "Graham crust bottom layer, topped with raspberry ice cream, thick bavarian cream, and fresh picked raspberries! Still messing with this one. Might try adding FW Raspberry instead of raspberry sweet.",
-  "id": 104292,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/104292/CAF87196-428F-4793-AD0C-F9F31A37F6CB.jpeg",
-  "updated_at": "2020-12-07T20:32:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 350,
-      "vendor": "INW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "2072",
-  "slug": "raspberry_ice_cream_pie",
-  "total_flavoring": "11.85%",
-  "steep_days": "10",
-  "best_vg": "83%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry Ice Cream Pie",
+    "description": "Graham crust bottom layer, topped with raspberry ice cream, thick bavarian cream, and fresh picked raspberries! Still messing with this one. Might try adding FW Raspberry instead of raspberry sweet.",
+    "id": 104292,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/104292\/CAF87196-428F-4793-AD0C-F9F31A37F6CB.jpeg",
+    "updated_at": "2020-12-11T15:02:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 350,
+            "vendor": "INW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "2081",
+    "created_at": "2018-06-04",
+    "slug": "raspberry_ice_cream_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/104292.jpeg",
+    "total_flavoring": "11.85%",
+    "steep_days": "10",
+    "best_vg": "83%",
+    "temperature": "0"
 }

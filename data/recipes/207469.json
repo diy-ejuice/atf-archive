@@ -1,50 +1,50 @@
 {
-  "name": "Yammy Spiced Cream",
-  "description": "Rich, spiced cream with yam and some bready, bakery from the Pumpkin Bread. A very autumnal recipe. Nice and warming on a cold day. \r\n\r\nI originally made this as a possible submission for the #Developed FLV assignment. But I didn't have time to finish it then. I really liked it, it's kind of addicting, so wanted some time to tweak it. It took a few versions to balance the spice notes. \r\n\r\nTested on Citadel RDA, 0.6 ohms, around 35w. ",
-  "id": 207469,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/207469/4D144245-1A02-4271-BDD8-88CDDA1D35EB.jpeg",
-  "updated_at": "2020-12-07T17:36:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yam",
-      "flavor_id": "8575",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pumpkin Bread",
-      "flavor_id": "4432",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pumpkin Spice",
-      "flavor_id": "4436",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 1250,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DixxleRoo",
-  "views": "285",
-  "slug": "yammy_spiced_cream",
-  "total_flavoring": "4.8%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Yammy Spiced Cream",
+    "description": "Rich, spiced cream with yam and some bready, bakery from the Pumpkin Bread. A very autumnal recipe. Nice and warming on a cold day. \r\n\r\nI originally made this as a possible submission for the #Developed FLV assignment. But I didn't have time to finish it then. I really liked it, it's kind of addicting, so wanted some time to tweak it. It took a few versions to balance the spice notes. \r\n\r\nTested on Citadel RDA, 0.6 ohms, around 35w. ",
+    "id": 207469,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/207469\/4D144245-1A02-4271-BDD8-88CDDA1D35EB.jpeg",
+    "updated_at": "2020-12-12T11:53:49.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yam",
+            "flavor_id": "8575",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pumpkin Bread",
+            "flavor_id": "4432",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pumpkin Spice",
+            "flavor_id": "4436",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 1250,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DixxleRoo",
+    "views": "293",
+    "created_at": "2020-10-25",
+    "slug": "yammy_spiced_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/207469.jpeg",
+    "total_flavoring": "4.8%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

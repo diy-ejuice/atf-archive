@@ -1,98 +1,98 @@
 {
-  "name": "Crepescule",
-  "description": "Banana, Chocolate and Biscuit Crepe! \r\nThis recipe is a little bit complicated, making it harder for me to add a comprehensive explanation about why I picked each ingredient and how they interact with eachother. I ll try to do it at a later time! I just really liked this mix, and wanted to share it :) This one is a steeper, for the first couple of days all you are gonna taste is the bananas and the WF Crepe SC, this is because the Crepe concentrate really likes to overpower everything else. After 5-6 days everything settles.",
-  "id": 181076,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/181076/Capture.PNG",
-  "updated_at": "2020-12-06T20:45:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 300,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Banoffee Pie SC",
-      "flavor_id": "9015",
-      "millipercent": 1500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Chocolate Custard",
-      "flavor_id": "9360",
-      "millipercent": 1300,
-      "vendor": "VT"
-    },
-    {
-      "name": "Chocolate Mousse",
-      "flavor_id": "9371",
-      "millipercent": 1300,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cookies and Cream",
-      "flavor_id": "10008",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creamy Hazelnut",
-      "flavor_id": "1265",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Crepe SC",
-      "flavor_id": "8365",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Devon Cream",
-      "flavor_id": "8869",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 400,
-      "vendor": "VT"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Collectron",
-  "views": "838",
-  "slug": "crepescule",
-  "total_flavoring": "16.0%",
-  "steep_days": "6",
-  "best_vg": "%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Crepescule",
+    "description": "Banana, Chocolate and Biscuit Crepe! \r\nThis recipe is a little bit complicated, making it harder for me to add a comprehensive explanation about why I picked each ingredient and how they interact with eachother. I ll try to do it at a later time! I just really liked this mix, and wanted to share it :) This one is a steeper, for the first couple of days all you are gonna taste is the bananas and the WF Crepe SC, this is because the Crepe concentrate really likes to overpower everything else. After 5-6 days everything settles.",
+    "id": 181076,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/181076\/Capture.PNG",
+    "updated_at": "2020-12-10T14:53:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 300,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Banoffee Pie SC",
+            "flavor_id": "9015",
+            "millipercent": 1500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Chocolate Custard",
+            "flavor_id": "9360",
+            "millipercent": 1300,
+            "vendor": "VT"
+        },
+        {
+            "name": "Chocolate Mousse",
+            "flavor_id": "9371",
+            "millipercent": 1300,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cookies and Cream",
+            "flavor_id": "10008",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creamy Hazelnut",
+            "flavor_id": "1265",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Crepe SC",
+            "flavor_id": "8365",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Devon Cream",
+            "flavor_id": "8869",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 400,
+            "vendor": "VT"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Collectron",
+    "views": "846",
+    "created_at": "2020-01-14",
+    "slug": "crepescule",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/181076.PNG",
+    "total_flavoring": "16.0%",
+    "steep_days": "6",
+    "best_vg": "%",
+    "temperature": "0"
 }

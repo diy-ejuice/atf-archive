@@ -1,69 +1,71 @@
 {
-  "name": "Frosted Lemon Cookie ",
-  "description": "A soft baked Frosted Lemon Cookie, with a crispy outer layer. Yum!!\r\nHAPPY MIXING, & HAPPY VAPING!!! :)",
-  "id": 171923,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/171923/20191024_145348.jpg",
-  "updated_at": "2020-12-08T00:51:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 2000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Pastry Zest",
-      "flavor_id": "8562",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "soulchkn",
-  "views": "1570",
-  "slug": "frosted_lemon_cookie",
-  "total_flavoring": "10.75%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TrogDor",
-      "score": "5",
-      "text": " Just mixed this up and there's no way I'm going to have enough left to steep.  Reminds me of one of the SadBoy cookie liquids. Will definitely make a bigger batch. "
-    }
-  ]
+    "name": "Frosted Lemon Cookie ",
+    "description": "A soft baked Frosted Lemon Cookie, with a crispy outer layer. Yum!!\r\nHAPPY MIXING, & HAPPY VAPING!!! :)",
+    "id": 171923,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/171923\/20191024_145348.jpg",
+    "updated_at": "2020-12-12T14:07:38.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 2000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Pastry Zest",
+            "flavor_id": "8562",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "soulchkn",
+    "views": "1578",
+    "created_at": "2019-10-24",
+    "slug": "frosted_lemon_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/171923.jpg",
+    "total_flavoring": "10.75%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TrogDor",
+            "score": 5,
+            "text": " Just mixed this up and there's no way I'm going to have enough left to steep.  Reminds me of one of the SadBoy cookie liquids. Will definitely make a bigger batch. "
+        }
+    ]
 }

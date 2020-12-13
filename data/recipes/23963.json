@@ -1,103 +1,105 @@
 {
-  "name": "Tootall's Blueberry custard and cream",
-  "description": "This is my blueberry custard and cream recipe it is a favorite in my household so I thought I would share it with you all.  Try it and enjoy!! I suggest at liest a 4 day steep time.",
-  "id": 23963,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/23963/IMG_20161224_122718.jpg",
-  "updated_at": "2020-12-08T00:48:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Tootall",
-  "views": "11780",
-  "slug": "tootalls_blueberry_custard_and_cream",
-  "total_flavoring": "13.0%",
-  "steep_days": "7",
-  "best_vg": "75%",
-  "temperature": "0",
-  "total_reviews": 9,
-  "recipe_score": 4.9,
-  "reviews": [
-    {
-      "user": "YippYo",
-      "score": "5",
-      "text": "Really great custard recipe. The blueberry is very syrupy and sweet but not artificial. The custard is thick and delicious! Highly recommend mixing this up."
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "This is really good. At first glance i thought 6% FW Blueberry would be really candied, but it works well to make a syrupy blueberry. Your creams blend together and make a nice thick cream. Thanks for sharing "
-    },
-    {
-      "user": "CkoAU",
-      "score": "5",
-      "text": "Love it, was decent off the shake, amazing after a week. Thanks for sharing."
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Another reviewer mentioned the interaction between the blueberry and vienna cream, and I do think those are the two ingredients that are working together to bend the blueberry...but I vaped my entire sample of this thinking there was bilberry in it because of how dark the blueberry was.  I found it delicious."
-    },
-    {
-      "user": "Melatem",
-      "score": "5",
-      "text": "Very nice balance of flavour, thanks for sharing"
-    },
-    {
-      "user": "heatbbx",
-      "score": "4",
-      "text": "I mixed this myself and couldn't bring myself to like it. I think some interaction between the FW blueberry and the vienna cream may be giving an offputting flavor for me. That said my friends love it so I must just be the crazy one. I may try mixing this with a bit less blueberry next time.&#xD;\nThanks Tootall!"
-    },
-    {
-      "user": "Kothral",
-      "score": "5",
-      "text": "Absolutely delicious after a 5 day steep (tried to hold off 2 more days but caved in). Thank you! Great recipe!"
-    },
-    {
-      "user": "Drumbtr",
-      "score": "5",
-      "text": "Everybody that tries this falls in love with it, and I had to put my bottle away and forget about it so I could try it after a few weeks. I'm typing this as I'm mixing more up, definitely deserves 5 stars. Simple, tasty and full of flavor."
-    },
-    {
-      "user": "Uncletattoowhat",
-      "score": "5",
-      "text": "This is my first review, because this is the first juice that I've mixed up and felt like I had to vote on. On shake &amp; vape, this was amazing. I vaped through 10ml. Day 2 was even better, vaped through another 10ml. Today is day 3, and it's again even better and it is doubtful this will make it to day 7 like the recommended steep time states. This may actually be come the first ADV I've ever wanted to actually vape all day, as well as the first blueberry flavor that hasn't turned me off completely. I'll be making a big steep batch tonight to let it sit until day 7 and see what magic appears. Great job!"
-    }
-  ]
+    "name": "Tootall's Blueberry custard and cream",
+    "description": "This is my blueberry custard and cream recipe it is a favorite in my household so I thought I would share it with you all.  Try it and enjoy!! I suggest at liest a 4 day steep time.",
+    "id": 23963,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/23963\/IMG_20161224_122718.jpg",
+    "updated_at": "2020-12-12T17:10:22.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Tootall",
+    "views": "11812",
+    "created_at": "2016-12-24",
+    "slug": "tootalls_blueberry_custard_and_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/23963.jpg",
+    "total_flavoring": "13.0%",
+    "steep_days": "7",
+    "best_vg": "75%",
+    "temperature": "0",
+    "total_reviews": 9,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "YippYo",
+            "score": 5,
+            "text": "Really great custard recipe. The blueberry is very syrupy and sweet but not artificial. The custard is thick and delicious! Highly recommend mixing this up."
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "This is really good. At first glance i thought 6% FW Blueberry would be really candied, but it works well to make a syrupy blueberry. Your creams blend together and make a nice thick cream. Thanks for sharing "
+        },
+        {
+            "user": "CkoAU",
+            "score": 5,
+            "text": "Love it, was decent off the shake, amazing after a week. Thanks for sharing."
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Another reviewer mentioned the interaction between the blueberry and vienna cream, and I do think those are the two ingredients that are working together to bend the blueberry...but I vaped my entire sample of this thinking there was bilberry in it because of how dark the blueberry was.  I found it delicious."
+        },
+        {
+            "user": "Melatem",
+            "score": 5,
+            "text": "Very nice balance of flavour, thanks for sharing"
+        },
+        {
+            "user": "heatbbx",
+            "score": 4,
+            "text": "I mixed this myself and couldn't bring myself to like it. I think some interaction between the FW blueberry and the vienna cream may be giving an offputting flavor for me. That said my friends love it so I must just be the crazy one. I may try mixing this with a bit less blueberry next time.&#xD;\nThanks Tootall!"
+        },
+        {
+            "user": "Kothral",
+            "score": 5,
+            "text": "Absolutely delicious after a 5 day steep (tried to hold off 2 more days but caved in). Thank you! Great recipe!"
+        },
+        {
+            "user": "Drumbtr",
+            "score": 5,
+            "text": "Everybody that tries this falls in love with it, and I had to put my bottle away and forget about it so I could try it after a few weeks. I'm typing this as I'm mixing more up, definitely deserves 5 stars. Simple, tasty and full of flavor."
+        },
+        {
+            "user": "Uncletattoowhat",
+            "score": 5,
+            "text": "This is my first review, because this is the first juice that I've mixed up and felt like I had to vote on. On shake &amp; vape, this was amazing. I vaped through 10ml. Day 2 was even better, vaped through another 10ml. Today is day 3, and it's again even better and it is doubtful this will make it to day 7 like the recommended steep time states. This may actually be come the first ADV I've ever wanted to actually vape all day, as well as the first blueberry flavor that hasn't turned me off completely. I'll be making a big steep batch tonight to let it sit until day 7 and see what magic appears. Great job!"
+        }
+    ]
 }

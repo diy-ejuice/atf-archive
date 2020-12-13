@@ -1,62 +1,61 @@
 {
-  "name": "Grape Hubba Bubba Bubble Gum",
-  "description": "I wanted something else besides another candy for some sweetness. This is no doubt the stringy bubble gum we used to chew playing baseball as a kid!",
-  "id": 170862,
-  "image_url": null,
-  "updated_at": "2020-12-07T15:21:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marshmallow",
-      "flavor_id": "1351",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "1430",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bubble Gum",
-      "flavor_id": "1210",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Candy Watermelon",
-      "flavor_id": "1226",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Grape Candy",
-      "flavor_id": "327",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "libertyvape",
-  "views": "885",
-  "slug": "grape_hubba_bubba_bubble_gum",
-  "total_flavoring": "18.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Grape Hubba Bubba Bubble Gum",
+    "description": "I wanted something else besides another candy for some sweetness. This is no doubt the stringy bubble gum we used to chew playing baseball as a kid!",
+    "id": 170862,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:16:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marshmallow",
+            "flavor_id": "1351",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "1430",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bubble Gum",
+            "flavor_id": "1210",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Candy Watermelon",
+            "flavor_id": "1226",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Grape Candy",
+            "flavor_id": "327",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "libertyvape",
+    "views": "894",
+    "created_at": "2019-10-17",
+    "slug": "grape_hubba_bubba_bubble_gum",
+    "total_flavoring": "18.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

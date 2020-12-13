@@ -1,68 +1,68 @@
 {
-  "name": "Strawberry Nog Milk",
-  "description": "This recipe was inspired by mlNikon's Nog Milk https://alltheflavors.com/recipes/79010#nog_milk_thechristmasmix_by_mlnikon\r\n\r\nI made the Nog Milk base and gave some of it to a friend and she asked me to add Strawberry. I was unsure at first, but came across a lot of real world recipes for Strawberry Eggnog smoothie / milkshake. I pulled the CAP/TFA combo from another recipe layer and put this little combo together. While you can shake and vape this, it came together much better after about 10 days. The creams came alive with a little rest.",
-  "id": 177714,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/177714/StrawberryNogMilk.png",
-  "updated_at": "2020-12-07T00:08:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Grfxman",
-  "views": "919",
-  "slug": "strawberry_nog_milk",
-  "total_flavoring": "14.0%",
-  "steep_days": "10 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Nog Milk",
+    "description": "This recipe was inspired by mlNikon's Nog Milk https:\/\/alltheflavors.com\/recipes\/79010#nog_milk_thechristmasmix_by_mlnikon\r\n\r\nI made the Nog Milk base and gave some of it to a friend and she asked me to add Strawberry. I was unsure at first, but came across a lot of real world recipes for Strawberry Eggnog smoothie \/ milkshake. I pulled the CAP\/TFA combo from another recipe layer and put this little combo together. While you can shake and vape this, it came together much better after about 10 days. The creams came alive with a little rest.",
+    "id": 177714,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/177714\/StrawberryNogMilk.png",
+    "updated_at": "2020-12-12T14:07:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Grfxman",
+    "views": "936",
+    "created_at": "2019-12-14",
+    "slug": "strawberry_nog_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/177714.png",
+    "total_flavoring": "14.0%",
+    "steep_days": "10 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

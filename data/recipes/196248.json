@@ -1,69 +1,71 @@
 {
-  "name": "TOC'S Eton Mess",
-  "description": "The INW Raspberry is Malina and it wasn't showing up in the database.  Breaking it down. Eton Mess is a delicious mix of strawberries, raspberries, mascarpone, meringue and heavy cream. The Strawberries and raspberry in this recipe are self-explanatory. We use the Vanilla custard cheesecake and mascarpone to give us that vibe of delicious cream cheese. The Whipped cream is an emulsifier. The sweetness there to add the sweetness needed to make this taste like the glorious dessert it is.",
-  "id": 196248,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196248/TOC_S_Eton_Mess.PNG",
-  "updated_at": "2020-12-08T00:51:35.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Mascarpone Cream Cheese",
-      "flavor_id": "10055",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard Cheesecake",
-      "flavor_id": "6532",
-      "millipercent": 2000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "TOCMichelleHughes",
-  "views": "504",
-  "slug": "tocs_eton_mess",
-  "total_flavoring": "11.25%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Zugmaschine",
-      "score": "4",
-      "text": "Its very promising. Only for the idea i give 4 stars. I made a 30ml Tester, and will give the mix a week to steep, and will come back to rate."
-    }
-  ]
+    "name": "TOC'S Eton Mess",
+    "description": "The INW Raspberry is Malina and it wasn't showing up in the database.  Breaking it down. Eton Mess is a delicious mix of strawberries, raspberries, mascarpone, meringue and heavy cream. The Strawberries and raspberry in this recipe are self-explanatory. We use the Vanilla custard cheesecake and mascarpone to give us that vibe of delicious cream cheese. The Whipped cream is an emulsifier. The sweetness there to add the sweetness needed to make this taste like the glorious dessert it is.",
+    "id": 196248,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196248\/TOC_S_Eton_Mess.PNG",
+    "updated_at": "2020-12-12T14:08:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Mascarpone Cream Cheese",
+            "flavor_id": "10055",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard Cheesecake",
+            "flavor_id": "6532",
+            "millipercent": 2000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "TOCMichelleHughes",
+    "views": "509",
+    "created_at": "2020-05-31",
+    "slug": "tocs_eton_mess",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196248.PNG",
+    "total_flavoring": "11.25%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Zugmaschine",
+            "score": 4,
+            "text": "Its very promising. Only for the idea i give 4 stars. I made a 30ml Tester, and will give the mix a week to steep, and will come back to rate."
+        }
+    ]
 }

@@ -1,67 +1,69 @@
 {
-  "name": "Honey Kiwi",
-  "description": "Full Notes here:\r\nhttps://diyordievaping.com/2020/06/03/honey-kiwi-diy-e-liquid-recipe/\r\n\r\nThis mashes up the tropical flavors of cantaloupe & kiwi, and pours sweet honey on top. The result is absolute deliciousness. Made on Live Mixing.\r\n\r\n",
-  "id": 196565,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196565/honey-kiwi-atf.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kiwi",
-      "flavor_id": "522",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 5000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Honeycomb",
-      "flavor_id": "8901",
-      "millipercent": 5000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ENYAWREKLAW",
-  "views": "2118",
-  "slug": "honey_kiwi",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ike_Malkov",
-      "score": "5",
-      "text": "So glad I got the flavors for this and mixed it up. Such an interesting profile. My new ADV!"
-    },
-    {
-      "user": "rougeislander401",
-      "score": "5",
-      "text": "As stated in previous review this is an excellent sweet, smooth, tropical vape that I am yet to tire of. I dont know how much I get straight honey from vt honeycomb but it is delicious nonetheless, excellent work will be mixing again!"
-    },
-    {
-      "user": "Gordo",
-      "score": "5",
-      "text": "Tropical, Smooth, sweet, a bangin ADV for sure. Thanks for this. "
-    }
-  ]
+    "name": "Honey Kiwi",
+    "description": "Full Notes here:\r\nhttps:\/\/diyordievaping.com\/2020\/06\/03\/honey-kiwi-diy-e-liquid-recipe\/\r\n\r\nThis mashes up the tropical flavors of cantaloupe & kiwi, and pours sweet honey on top. The result is absolute deliciousness. Made on Live Mixing.\r\n\r\n",
+    "id": 196565,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196565\/honey-kiwi-atf.jpg",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kiwi",
+            "flavor_id": "522",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 5000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Honeycomb",
+            "flavor_id": "8901",
+            "millipercent": 5000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ENYAWREKLAW",
+    "views": "2133",
+    "created_at": "2020-06-03",
+    "slug": "honey_kiwi",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196565.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ike_Malkov",
+            "score": 5,
+            "text": "So glad I got the flavors for this and mixed it up. Such an interesting profile. My new ADV!"
+        },
+        {
+            "user": "rougeislander401",
+            "score": 5,
+            "text": "As stated in previous review this is an excellent sweet, smooth, tropical vape that I am yet to tire of. I dont know how much I get straight honey from vt honeycomb but it is delicious nonetheless, excellent work will be mixing again!"
+        },
+        {
+            "user": "Gordo",
+            "score": 5,
+            "text": "Tropical, Smooth, sweet, a bangin ADV for sure. Thanks for this. "
+        }
+    ]
 }

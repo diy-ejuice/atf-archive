@@ -1,62 +1,62 @@
 {
-  "name": "Red Mango cream",
-  "description": "Just a nice bright flavorful Juicy mango ice cream . The strawberries boost the flavors and the Tangerine takes some of the harshness from the mango away, making it very delectable. The lemon Sicily adds a nice sweet citrus note to the recipe. This recipe can be shared and vaped. Best after 2 day to really meld together. Mixed at 70/30.",
-  "id": 127493,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/127493/9652831B-5AD5-41BB-9126-69DA4BC3C643.jpeg",
-  "updated_at": "2020-12-05T23:52:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean",
-      "flavor_id": "8573",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1515",
-  "slug": "red_mango_cream",
-  "total_flavoring": "14.5%",
-  "steep_days": "2",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Red Mango cream",
+    "description": "Just a nice bright flavorful Juicy mango ice cream . The strawberries boost the flavors and the Tangerine takes some of the harshness from the mango away, making it very delectable. The lemon Sicily adds a nice sweet citrus note to the recipe. This recipe can be shared and vaped. Best after 2 day to really meld together. Mixed at 70\/30.",
+    "id": 127493,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/127493\/9652831B-5AD5-41BB-9126-69DA4BC3C643.jpeg",
+    "updated_at": "2020-12-12T15:40:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean",
+            "flavor_id": "8573",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1523",
+    "created_at": "2018-11-16",
+    "slug": "red_mango_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/127493.jpeg",
+    "total_flavoring": "14.5%",
+    "steep_days": "2",
+    "best_vg": "70%",
+    "temperature": "0"
 }

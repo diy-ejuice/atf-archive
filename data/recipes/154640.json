@@ -1,50 +1,50 @@
 {
-  "name": "Dream Cream ",
-  "description": "Just a nice simple strawberries and cream cheesecake recipe. Needs about 3 day steep as the hangsens vanilla ice cream to meld in as it is a very pungent flavor. ",
-  "id": 154640,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/154640/downloadfile-2.jpg",
-  "updated_at": "2020-12-07T09:45:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberries And Cream",
-      "flavor_id": "114",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla Icecream",
-      "flavor_id": "2129",
-      "millipercent": 1000,
-      "vendor": "HS"
-    },
-    {
-      "name": "New York Cheesecake",
-      "flavor_id": "90",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1504",
-  "slug": "dream_cream",
-  "total_flavoring": "15.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dream Cream ",
+    "description": "Just a nice simple strawberries and cream cheesecake recipe. Needs about 3 day steep as the hangsens vanilla ice cream to meld in as it is a very pungent flavor. ",
+    "id": 154640,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/154640\/downloadfile-2.jpg",
+    "updated_at": "2020-12-10T17:58:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberries And Cream",
+            "flavor_id": "114",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla Icecream",
+            "flavor_id": "2129",
+            "millipercent": 1000,
+            "vendor": "HS"
+        },
+        {
+            "name": "New York Cheesecake",
+            "flavor_id": "90",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1507",
+    "created_at": "2019-06-07",
+    "slug": "dream_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/154640.jpg",
+    "total_flavoring": "15.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0"
 }

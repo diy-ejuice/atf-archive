@@ -1,44 +1,44 @@
 {
-  "name": "strawberry toffee ice cream",
-  "description": "This very simple toffee recipe that is my ADV. im sure strawberry can be substituted for other fruits but i havent tried yet.",
-  "id": 196915,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/196915/Super-Fruit-Crumble-SG_strawberry_toffee_ice_cream.jpg",
-  "updated_at": "2020-12-08T00:51:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 10000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 5000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Caramel Toffee",
-      "flavor_id": "2121",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "bigstormy",
-  "views": "483",
-  "slug": "strawberry_toffee_ice_cream",
-  "total_flavoring": "18.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "strawberry toffee ice cream",
+    "description": "This very simple toffee recipe that is my ADV. im sure strawberry can be substituted for other fruits but i havent tried yet.",
+    "id": 196915,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/196915\/Super-Fruit-Crumble-SG_strawberry_toffee_ice_cream.jpg",
+    "updated_at": "2020-12-12T14:08:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 10000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 5000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Caramel Toffee",
+            "flavor_id": "2121",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "bigstormy",
+    "views": "490",
+    "created_at": "2020-06-07",
+    "slug": "strawberry_toffee_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/196915.jpg",
+    "total_flavoring": "18.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

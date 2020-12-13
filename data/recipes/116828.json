@@ -1,57 +1,59 @@
 {
-  "name": "Buckeye Shake",
-  "description": "This is a Tribute to Ohio. A chocolate and peanut butter milk shake. Goooooo!!! Buckeyes!!!!!",
-  "id": 116828,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/116828/SmartSelect_20180828-190612_Chrome.jpg",
-  "updated_at": "2020-12-08T00:50:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 3000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Vanilla Bean Gelato",
-      "flavor_id": "185",
-      "millipercent": 3250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Peanut Butter",
-      "flavor_id": "291",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Dank1",
-  "views": "1628",
-  "slug": "buckeye_shake",
-  "total_flavoring": "11.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "4",
-      "text": "I didn't have the gelato concentrate, so I just did 6% vbic.  Still, this turned out pretty good.  I may circle back around to this later and add maybe half a percent of cap peanut butter to add a little more peanut to the mix.  Not that I find your recipe lacking, rather, better recipes always make me want to play around and see what else can be done."
-    }
-  ]
+    "name": "Buckeye Shake",
+    "description": "This is a Tribute to Ohio. A chocolate and peanut butter milk shake. Goooooo!!! Buckeyes!!!!!",
+    "id": 116828,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/116828\/SmartSelect_20180828-190612_Chrome.jpg",
+    "updated_at": "2020-12-12T11:52:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 3000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Vanilla Bean Gelato",
+            "flavor_id": "185",
+            "millipercent": 3250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Peanut Butter",
+            "flavor_id": "291",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Dank1",
+    "views": "1638",
+    "created_at": "2018-08-28",
+    "slug": "buckeye_shake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/116828.jpg",
+    "total_flavoring": "11.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 4,
+            "text": "I didn't have the gelato concentrate, so I just did 6% vbic.  Still, this turned out pretty good.  I may circle back around to this later and add maybe half a percent of cap peanut butter to add a little more peanut to the mix.  Not that I find your recipe lacking, rather, better recipes always make me want to play around and see what else can be done."
+        }
+    ]
 }

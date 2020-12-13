@@ -1,72 +1,74 @@
 {
-  "name": "Wanderlust",
-  "description": "Mixed for a user in the Weekly \"Suggest a Recipe for my flavors\" thread. This is an odd profile, a Creamy guava vape. It's pretty calming and smooth and a great vape if you enjoy the taste of guava. There are a few changes I would make looking back but this is the original recipe. Some changes you could implement : dropping FA Meringue (this milks the recipe up so drop it if thats not what you want), adding TFA Dragonfruit 1% (would help to bridge the fruits and make them just all around brighter), and maybe adding 0.75% of EM for those who need sweeteners. ",
-  "id": 13795,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/13795/R-1115458-1463205287-5156.jpeg.jpg",
-  "updated_at": "2020-12-08T00:48:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "LocoMojo",
-  "views": "4904",
-  "slug": "wanderlust",
-  "total_flavoring": "8.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 4.5,
-  "reviews": [
-    {
-      "user": "alexis666",
-      "score": "3",
-      "text": "I love the flavour of this but for some reason it rips my throat apart. "
-    },
-    {
-      "user": "bhamcatmaybe",
-      "score": "5",
-      "text": "i really love this recipe. sweet guava is such a great flavor and this recipe really highlights it's beautifully. the creamyness takes the slightly sour edge off the fruits, and it vapes like a dream. really love that for once guava isn't paired with strawberry, which i feel just produces a muddled fruity thing. this has lovely structure. A++, already mixing more."
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "This is an odd profile that might not be for everyone, but I loved it and found it to taste very much like the filling in those delicious Goya Guava Wafers. I might try adding a very small (1.5% or so) amount of CAP Sugar Cookie and maybe some TFA Vanilla Swirl (1.5% or so) to see if I can get the wafer part and really emulate those things.  "
-    },
-    {
-      "user": "Philosaphucker",
-      "score": "5",
-      "text": "What the fuck determines stars anyway? I rated this 5 stars because I found this to be quite tasty, especially after a week. Additionally, I thought the guava + cream combo was a pretty cool idea. I like this best after a week. It isn't overly sweet and I enjoyed it with my morning coffee."
-    }
-  ]
+    "name": "Wanderlust",
+    "description": "Mixed for a user in the Weekly \"Suggest a Recipe for my flavors\" thread. This is an odd profile, a Creamy guava vape. It's pretty calming and smooth and a great vape if you enjoy the taste of guava. There are a few changes I would make looking back but this is the original recipe. Some changes you could implement : dropping FA Meringue (this milks the recipe up so drop it if thats not what you want), adding TFA Dragonfruit 1% (would help to bridge the fruits and make them just all around brighter), and maybe adding 0.75% of EM for those who need sweeteners. ",
+    "id": 13795,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/13795\/R-1115458-1463205287-5156.jpeg.jpg",
+    "updated_at": "2020-12-12T14:04:48.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "LocoMojo",
+    "views": "4925",
+    "created_at": "2016-09-18",
+    "slug": "wanderlust",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/13795.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "alexis666",
+            "score": 3,
+            "text": "I love the flavour of this but for some reason it rips my throat apart. "
+        },
+        {
+            "user": "bhamcatmaybe",
+            "score": 5,
+            "text": "i really love this recipe. sweet guava is such a great flavor and this recipe really highlights it's beautifully. the creamyness takes the slightly sour edge off the fruits, and it vapes like a dream. really love that for once guava isn't paired with strawberry, which i feel just produces a muddled fruity thing. this has lovely structure. A++, already mixing more."
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "This is an odd profile that might not be for everyone, but I loved it and found it to taste very much like the filling in those delicious Goya Guava Wafers. I might try adding a very small (1.5% or so) amount of CAP Sugar Cookie and maybe some TFA Vanilla Swirl (1.5% or so) to see if I can get the wafer part and really emulate those things.  "
+        },
+        {
+            "user": "Philosaphucker",
+            "score": 5,
+            "text": "What the fuck determines stars anyway? I rated this 5 stars because I found this to be quite tasty, especially after a week. Additionally, I thought the guava + cream combo was a pretty cool idea. I like this best after a week. It isn't overly sweet and I enjoyed it with my morning coffee."
+        }
+    ]
 }

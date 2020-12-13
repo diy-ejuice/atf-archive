@@ -1,80 +1,79 @@
 {
-  "name": "E'Sploded",
-  "description": "Mixin Vixens demo. This was thrown together as a trial version for the show to illustrate my approach when mixing. This is NOT a finished recipe!",
-  "id": 113664,
-  "image_url": null,
-  "updated_at": "2020-12-06T14:08:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Yellow Cake",
-      "flavor_id": "4560",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "22",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Brown Sugar",
-      "flavor_id": "313",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Maple Syrup",
-      "flavor_id": "509",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Maple Bar",
-      "flavor_id": "4378",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Butter Pecan",
-      "flavor_id": "1212",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Pralines & Cream",
-      "flavor_id": "1385",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Loonicorn",
-  "views": "1099",
-  "slug": "esploded",
-  "total_flavoring": "11.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "E'Sploded",
+    "description": "Mixin Vixens demo. This was thrown together as a trial version for the show to illustrate my approach when mixing. This is NOT a finished recipe!",
+    "id": 113664,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:45:39.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Yellow Cake",
+            "flavor_id": "4560",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "22",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Brown Sugar",
+            "flavor_id": "313",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Maple Syrup",
+            "flavor_id": "509",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Maple Bar",
+            "flavor_id": "4378",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Butter Pecan",
+            "flavor_id": "1212",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Pralines & Cream",
+            "flavor_id": "1385",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Loonicorn",
+    "views": "1106",
+    "created_at": "2018-08-05",
+    "slug": "esploded",
+    "total_flavoring": "11.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

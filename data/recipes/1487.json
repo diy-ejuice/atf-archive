@@ -1,62 +1,62 @@
 {
-  "name": "Cherimoya Rabri",
-  "description": "Cherimoya blended with a light sweet cream, topped with slivers of almonds and finished with a floral touch.",
-  "id": 1487,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/1487/Capture.JPG",
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cherimoya (yc)",
-      "flavor_id": "738",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cardamom",
-      "flavor_id": "498",
-      "millipercent": 125,
-      "vendor": "FA"
-    },
-    {
-      "name": "Lychee",
-      "flavor_id": "582",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "1722",
-  "slug": "cherimoya_rabri",
-  "total_flavoring": "8.875%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cherimoya Rabri",
+    "description": "Cherimoya blended with a light sweet cream, topped with slivers of almonds and finished with a floral touch.",
+    "id": 1487,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/1487\/Capture.JPG",
+    "updated_at": "2020-12-11T19:40:07.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cherimoya (yc)",
+            "flavor_id": "738",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cardamom",
+            "flavor_id": "498",
+            "millipercent": 125,
+            "vendor": "FA"
+        },
+        {
+            "name": "Lychee",
+            "flavor_id": "582",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "1734",
+    "created_at": "2016-04-02",
+    "slug": "cherimoya_rabri",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/1487.JPG",
+    "total_flavoring": "8.875%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

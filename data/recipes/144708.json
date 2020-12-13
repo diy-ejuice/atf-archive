@@ -1,62 +1,62 @@
 {
-  "name": "P-M-L (Pod/MTL)",
-  "description": "Peach-Mango-Lime\r\n\r\nSpring is here so why not make another light, fruity mix with a hint of bright lime. Made for a pod. Tasty mango and peach with just a hint of bright lime and a touch of cool(1.5% ws-23 would usually be more than \"a touch\" but in a pod system, it's just right.\r\n\r\nThis is pretty straight forward and could've just been the 2 capella flavors + the lime. The reason for the Flv Mango & Inw Peach are to add a little more authenticity to each fruit. ",
-  "id": 144708,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/144708/57008511-mango-cut-peach-pieces-slices-set-isolated-on-white-background-as-package-design-element-01-01.jpeg",
-  "updated_at": "2020-12-07T10:44:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Juicy Peach",
-      "flavor_id": "81",
-      "millipercent": 4500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Mango",
-      "flavor_id": "3516",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 1500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "justjasontm",
-  "views": "1974",
-  "slug": "pml_podmtl",
-  "total_flavoring": "16.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "50%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "P-M-L (Pod\/MTL)",
+    "description": "Peach-Mango-Lime\r\n\r\nSpring is here so why not make another light, fruity mix with a hint of bright lime. Made for a pod. Tasty mango and peach with just a hint of bright lime and a touch of cool(1.5% ws-23 would usually be more than \"a touch\" but in a pod system, it's just right.\r\n\r\nThis is pretty straight forward and could've just been the 2 capella flavors + the lime. The reason for the Flv Mango & Inw Peach are to add a little more authenticity to each fruit. ",
+    "id": 144708,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/144708\/57008511-mango-cut-peach-pieces-slices-set-isolated-on-white-background-as-package-design-element-01-01.jpeg",
+    "updated_at": "2020-12-11T14:17:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Juicy Peach",
+            "flavor_id": "81",
+            "millipercent": 4500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Mango",
+            "flavor_id": "3516",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 1500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "justjasontm",
+    "views": "1980",
+    "created_at": "2019-03-28",
+    "slug": "pml_podmtl",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/144708.jpeg",
+    "total_flavoring": "16.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "50%",
+    "temperature": "0"
 }

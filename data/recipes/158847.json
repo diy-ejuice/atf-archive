@@ -1,51 +1,52 @@
 {
-  "name": "Rice crispy ",
-  "description": "Just threw this together it’s not to bad just a test",
-  "id": 158847,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:51:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Rice Crunchies",
-      "flavor_id": "142",
-      "millipercent": 5500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 250,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Ch3f_Rams3y",
-  "views": "807",
-  "slug": "rice_crispy",
-  "total_flavoring": "7.75%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "rockwise",
-      "score": "5",
-      "text": "Really like this one ,thanks for sharing"
-    }
-  ]
+    "name": "Rice crispy ",
+    "description": "Just threw this together it\u2019s not to bad just a test",
+    "id": 158847,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:31:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Rice Crunchies",
+            "flavor_id": "142",
+            "millipercent": 5500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 250,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Ch3f_Rams3y",
+    "views": "813",
+    "created_at": "2019-07-10",
+    "slug": "rice_crispy",
+    "total_flavoring": "7.75%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "rockwise",
+            "score": 5,
+            "text": "Really like this one ,thanks for sharing"
+        }
+    ]
 }

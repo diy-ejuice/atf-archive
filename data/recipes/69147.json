@@ -1,69 +1,71 @@
 {
-  "name": "Screwed Super Strudel",
-  "description": "You know which Strawberry Strudel I'm talking about.\r\nCheesecake (LA) can be substituted by (FW) and lower the Super Sweet if it's not your thing.\r\nEnjoy & comment,\r\nScrewdriver",
-  "id": 69147,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/69147/Screwed_Super_Strudel.png",
-  "updated_at": "2020-12-08T00:49:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cheesecake",
-      "flavor_id": "930",
-      "millipercent": 1660,
-      "vendor": "LA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1660,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 3330,
-      "vendor": "LA"
-    },
-    {
-      "name": "Pie Crust",
-      "flavor_id": "1375",
-      "millipercent": 1660,
-      "vendor": "FW"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 1660,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Screwdriver",
-  "views": "1278",
-  "slug": "screwed_super_strudel",
-  "total_flavoring": "13.97%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "notsonattynate",
-      "score": "5",
-      "text": "Dude, I've probably mixed 3000ml of this stuff for my wife since I let her try it a few months back. This is something special here and I apologize for not rating this sooner. I'll probably will end up mixing up a 55 gallon drum of this and just be done with it. If I can make a mix that she will put this Strudel down for, then I will then be a true mixer, but so far she's vaping nothing but this... great job. "
-    }
-  ]
+    "name": "Screwed Super Strudel",
+    "description": "You know which Strawberry Strudel I'm talking about.\r\nCheesecake (LA) can be substituted by (FW) and lower the Super Sweet if it's not your thing.\r\nEnjoy & comment,\r\nScrewdriver",
+    "id": 69147,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/69147\/Screwed_Super_Strudel.png",
+    "updated_at": "2020-12-12T11:51:18.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cheesecake",
+            "flavor_id": "930",
+            "millipercent": 1660,
+            "vendor": "LA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1660,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 3330,
+            "vendor": "LA"
+        },
+        {
+            "name": "Pie Crust",
+            "flavor_id": "1375",
+            "millipercent": 1660,
+            "vendor": "FW"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 1660,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Screwdriver",
+    "views": "1283",
+    "created_at": "2017-10-18",
+    "slug": "screwed_super_strudel",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/69147.png",
+    "total_flavoring": "13.97%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "notsonattynate",
+            "score": 5,
+            "text": "Dude, I've probably mixed 3000ml of this stuff for my wife since I let her try it a few months back. This is something special here and I apologize for not rating this sooner. I'll probably will end up mixing up a 55 gallon drum of this and just be done with it. If I can make a mix that she will put this Strudel down for, then I will then be a true mixer, but so far she's vaping nothing but this... great job. "
+        }
+    ]
 }

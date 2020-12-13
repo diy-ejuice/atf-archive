@@ -1,56 +1,58 @@
 {
-  "name": "EJM First 25: Brainy",
-  "description": "A full RY4 and cinnamon roll mix, with a delicate blueberry accent.  A simple mix, but the complexity here punches above it's weight. \r\n\r\nTPA RY4 Double- Used here for it's strong caramel and subtle smokiness.  It's a tobacco for people that don't think they like tobaccos.  That's part of the inspiration for this juice. I wanted to demonstrate the versatility of RY4 as a mixer and how it can add interest to fairly basic bakery mixes.   It's not a bulldozer of a flavor, so 4% puts it front and center, but still allows for the rest of the ingredients to shine. \r\n\r\nFW Cinnamon Roll- The body of the mix. Deeper, full bready notes and rich bakery cinnamon. The bread helps to add body and fullness to the mix, while the cinnamon works well with the spice notes from the tobacco in the RY4.  3% is enough to support the RY4 without overwhelming it.\r\n\r\nFW Blueberry-  A subtle fruit accent to the deeper, darker flavors in the juice. 3.5% adds some delicate blueberry accents and sweetness, without overwhelming any other component or turning into a candy blueberry flavor. \r\n\r\nFA Vienna Cream- Just a little help to smooth out the entire mix. I needed a cream that wasn't too moist, fluffy, or rich.  Vienna Cream at 1.5%  fits the bill well here, softening up the juice without adding too much of it's own character.\r\n\r\nThis really needs at least a 3 day steep to let the acetone character of Vienna Cream mellow out. It's best after a week steep, as everything starts to really blend and come together.  You're left with a balanced juice, with a strong, driving, flavor but enough interest in the tobacco and blueberry accents to keep you coming back for more.\r\n\r\nYou may need this more than you think you do.\r\n\r\nDeveloped for www.ejuicemakers.com using the \"First 25\" basket of concentrates.",
-  "id": 33933,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/33933/aa-blue.jpg",
-  "updated_at": "2020-12-08T00:49:09.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cinnamon Roll",
-      "flavor_id": "1249",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ConcreteRiver",
-  "views": "2640",
-  "slug": "ejm_first_25_brainy",
-  "total_flavoring": "12.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "450",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Don’t know how to describe this flavor to someone but it is an excellent mix of flavors. Well balanced vape"
-    },
-    {
-      "user": "Noodles1972",
-      "score": "none",
-      "text": "A very nice balanced mix, excellent use of cinnamon without it becoming overwhelming. Light blueberry background with the caramel from the ry4 coming through nicely. Will definitely mix again."
-    }
-  ]
+    "name": "EJM First 25: Brainy",
+    "description": "A full RY4 and cinnamon roll mix, with a delicate blueberry accent.  A simple mix, but the complexity here punches above it's weight. \r\n\r\nTPA RY4 Double- Used here for it's strong caramel and subtle smokiness.  It's a tobacco for people that don't think they like tobaccos.  That's part of the inspiration for this juice. I wanted to demonstrate the versatility of RY4 as a mixer and how it can add interest to fairly basic bakery mixes.   It's not a bulldozer of a flavor, so 4% puts it front and center, but still allows for the rest of the ingredients to shine. \r\n\r\nFW Cinnamon Roll- The body of the mix. Deeper, full bready notes and rich bakery cinnamon. The bread helps to add body and fullness to the mix, while the cinnamon works well with the spice notes from the tobacco in the RY4.  3% is enough to support the RY4 without overwhelming it.\r\n\r\nFW Blueberry-  A subtle fruit accent to the deeper, darker flavors in the juice. 3.5% adds some delicate blueberry accents and sweetness, without overwhelming any other component or turning into a candy blueberry flavor. \r\n\r\nFA Vienna Cream- Just a little help to smooth out the entire mix. I needed a cream that wasn't too moist, fluffy, or rich.  Vienna Cream at 1.5%  fits the bill well here, softening up the juice without adding too much of it's own character.\r\n\r\nThis really needs at least a 3 day steep to let the acetone character of Vienna Cream mellow out. It's best after a week steep, as everything starts to really blend and come together.  You're left with a balanced juice, with a strong, driving, flavor but enough interest in the tobacco and blueberry accents to keep you coming back for more.\r\n\r\nYou may need this more than you think you do.\r\n\r\nDeveloped for www.ejuicemakers.com using the \"First 25\" basket of concentrates.",
+    "id": 33933,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/33933\/aa-blue.jpg",
+    "updated_at": "2020-12-12T09:12:32.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cinnamon Roll",
+            "flavor_id": "1249",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ConcreteRiver",
+    "views": "2647",
+    "created_at": "2017-02-26",
+    "slug": "ejm_first_25_brainy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/33933.jpg",
+    "total_flavoring": "12.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "450",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Don\u2019t know how to describe this flavor to someone but it is an excellent mix of flavors. Well balanced vape"
+        },
+        {
+            "user": "Noodles1972",
+            "score": 0,
+            "text": "A very nice balanced mix, excellent use of cinnamon without it becoming overwhelming. Light blueberry background with the caramel from the ry4 coming through nicely. Will definitely mix again."
+        }
+    ]
 }

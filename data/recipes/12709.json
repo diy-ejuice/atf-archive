@@ -1,56 +1,56 @@
 {
-  "name": "Cinnaberry Crunch",
-  "description": "Candy cinnamon and blueberry cookie sprinkled with fruity cereal.\r\n\r\nLeave to steep for around 24-48 hrs",
-  "id": 12709,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/12709/small-20161018-7104-1cuitfk.jpg",
-  "updated_at": "2020-12-06T20:48:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry (extra)",
-      "flavor_id": "218",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Berry Crunch",
-      "flavor_id": "136",
-      "millipercent": 1200,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sugar Cookie V2",
-      "flavor_id": "116",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Hot Cinnamon Candy",
-      "flavor_id": "75",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blueberry (wild)",
-      "flavor_id": "215",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "KepinskiUK",
-  "views": "1281",
-  "slug": "cinnaberry_crunch",
-  "total_flavoring": "9.95%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cinnaberry Crunch",
+    "description": "Candy cinnamon and blueberry cookie sprinkled with fruity cereal.\r\n\r\nLeave to steep for around 24-48 hrs",
+    "id": 12709,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/12709\/small-20161018-7104-1cuitfk.jpg",
+    "updated_at": "2020-12-10T13:44:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry (extra)",
+            "flavor_id": "218",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Berry Crunch",
+            "flavor_id": "136",
+            "millipercent": 1200,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sugar Cookie V2",
+            "flavor_id": "116",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Hot Cinnamon Candy",
+            "flavor_id": "75",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blueberry (wild)",
+            "flavor_id": "215",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "KepinskiUK",
+    "views": "1288",
+    "created_at": "2016-09-06",
+    "slug": "cinnaberry_crunch",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/12709.jpg",
+    "total_flavoring": "9.95%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

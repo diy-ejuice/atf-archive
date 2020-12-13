@@ -1,68 +1,68 @@
 {
-  "name": "A.J.S.M. (Apple Jack's in Strawberry Milk)",
-  "description": "I tried Wafflepriest1's A.J.S.M. (Apple Jacks in Strawberry Milk) recipe and found it great, but it didn't quite match the title. While this was explained in the description – it's more of a mixture of Cinnamon Toast Crunch and Apple Jacks – I decided to try and make it closer to just Apple Jacks cereal.\r\n\r\nApple Jacks does of course have cinnamon flavor, just not as much as in the original recipe, so CAP Cinnamon Danish Swirl is reduced significantly. FW makes an Apple Jacks flavor, but unfortunately all I get from it is a spiced apple cider, with no cereal or bakery notes of any kind. But I've found it to work well in relatively small amounts as part of an Apple Jacks recipe. So it is added in at 2%, and FA Fuji is cut in half to 1.5% to compensate for the extra apple flavor.\r\n\r\nI also increased FA Meringue to 1.75%. I use it at 1.5–2% in pretty much any cereal recipe I make, since it mimics the sugary coating of \"kids cereals\" so damn perfectly. It also helps tie the cereal and milk flavors together.\r\n\r\nAnd since the milk in the original recipe was too low for my taste, I added 1% of FW Hazelnut to thicken it up. This is another flavor that winds up in almost all of my cereal recipes since it works so well in the milk.\r\n\r\nThis is quite vapeable as a shake and vape, but definitely improves after a few days.\r\n\r\nI still think it needs more milk, so that is something I will work on. Perhaps a bit of TFA Bavarian Cream and/or a touch of FA Vienna Cream, but I haven't tested anything yet.",
-  "id": 76327,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/76327/strawberry_milk___Apple_Jacks.jpg",
-  "updated_at": "2020-12-07T05:57:39.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Apple Jacks Type",
-      "flavor_id": "1179",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "JustinLFranks",
-  "views": "1354",
-  "slug": "ajsm_apple_jacks_in_strawberry_milk",
-  "total_flavoring": "11.75%",
-  "steep_days": "7 (SNV)",
-  "best_vg": "%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "A.J.S.M. (Apple Jack's in Strawberry Milk)",
+    "description": "I tried Wafflepriest1's A.J.S.M. (Apple Jacks in Strawberry Milk) recipe and found it great, but it didn't quite match the title. While this was explained in the description \u2013 it's more of a mixture of Cinnamon Toast Crunch and Apple Jacks \u2013 I decided to try and make it closer to just Apple Jacks cereal.\r\n\r\nApple Jacks does of course have cinnamon flavor, just not as much as in the original recipe, so CAP Cinnamon Danish Swirl is reduced significantly. FW makes an Apple Jacks flavor, but unfortunately all I get from it is a spiced apple cider, with no cereal or bakery notes of any kind. But I've found it to work well in relatively small amounts as part of an Apple Jacks recipe. So it is added in at 2%, and FA Fuji is cut in half to 1.5% to compensate for the extra apple flavor.\r\n\r\nI also increased FA Meringue to 1.75%. I use it at 1.5\u20132% in pretty much any cereal recipe I make, since it mimics the sugary coating of \"kids cereals\" so damn perfectly. It also helps tie the cereal and milk flavors together.\r\n\r\nAnd since the milk in the original recipe was too low for my taste, I added 1% of FW Hazelnut to thicken it up. This is another flavor that winds up in almost all of my cereal recipes since it works so well in the milk.\r\n\r\nThis is quite vapeable as a shake and vape, but definitely improves after a few days.\r\n\r\nI still think it needs more milk, so that is something I will work on. Perhaps a bit of TFA Bavarian Cream and\/or a touch of FA Vienna Cream, but I haven't tested anything yet.",
+    "id": 76327,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/76327\/strawberry_milk___Apple_Jacks.jpg",
+    "updated_at": "2020-12-10T23:32:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Apple Jacks Type",
+            "flavor_id": "1179",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "JustinLFranks",
+    "views": "1365",
+    "created_at": "2017-11-28",
+    "slug": "ajsm_apple_jacks_in_strawberry_milk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/76327.jpg",
+    "total_flavoring": "11.75%",
+    "steep_days": "7 (SNV)",
+    "best_vg": "%",
+    "temperature": "0"
 }

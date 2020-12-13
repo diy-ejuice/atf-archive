@@ -1,94 +1,96 @@
 {
-  "name": "Joker Reloaded",
-  "description": "// Key Lime Pie //\r\n\r\nThis is an update on one of my favorite old recipes using the base of Tart76 created by Developed\r\nI hope you enjoy it and feel free to play with it and give your most honest opinion and suggestions!!\r\n\r\nSalud!",
-  "id": 156147,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/156147/Joker.jpg",
-  "updated_at": "2020-12-08T00:51:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Meringue Tart",
-      "flavor_id": "10071",
-      "millipercent": 2500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 3500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 3000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "4572",
-      "millipercent": 1250,
-      "vendor": "JF"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NaCHeF",
-  "views": "3497",
-  "slug": "joker_reloaded",
-  "total_flavoring": "15.25%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Slushy",
-      "score": "5",
-      "text": "I have been waiting to review this recipe since Key lime is one of the first recipes I ever published on ATF ( lime disease) key lime yogurt and also I learned from this recipe I have been using VT lemon tart at way to high of a percentage .The recipe is authentic to taste of key lime pie with capella sugar cookie and Fa premium custard adding the perfect buttery texture and flavor the combination of lemon tart and key lime along with Fa meringue is perfect and one final addition yes we cheesecake pulls everything together with Jf cookie adding the crispy baked edges of the pie super delicious well done 😎👍"
-    },
-    {
-      "user": "SeanVapes",
-      "score": "5",
-      "text": "I only heard about this recipe from watching the Developed shows and Graham saying that in his opinion it was one of the best recipes of the year . This is a really good Key Lime Pie and has been a regular vape for me over the last couple of weeks . Great mixing , well done."
-    },
-    {
-      "user": "lionhrt9",
-      "score": "5",
-      "text": "Mr. Nachef!!!!!  Gotta agree with Graham. This is one of the top recipes for me this year and I had to sub the JF cookie for FA so waiting on an order so I can give this it's proper respect that it's due. I also need a longer steep but I can tell off the shake that it's bad ass.  Thanks for sharing. Layers create a DEEP key lime pie from inhale on the lighter notes to the darker exhale 100 percent kick ass recipe you created here.  Well done!!!!"
-    },
-    {
-      "user": "DixxleRoo",
-      "score": "5",
-      "text": "This is the best key lime pie recipe I’ve found- its got the tangy key lime spot on. There’s a really great buttery crust which comes through  really well but is perfectly balanced with the other elements. Someone else said they got more of the lemon meringue tart than lime after 3 days steep. I totally agree and I’m glad I read their review before making this and tried it again after a week. Otherwise I might have dismissed it as an average tasting KLP. For me it seems to need that time for the lime to come through and everything to come together. I love this recipe if you couldn’t tell! I’ve made almost 100mls so far. Thanks so much for sharing it. "
-    },
-    {
-      "user": "Millions81",
-      "score": "5",
-      "text": "Really digging this recipe. Very well done &amp; thank you 😀&#xD;\nTried this after 3 days &amp; really could pick out the lemon meringue tart (fantastic flavor btw for those of you on the fence about it) more strongly than the key lime. Still quite tasty.&#xD;\nFast forward to a week: 5\\5 from both of us. The citruses come together for a nice tart key lime. The custard &amp; cheesecake has really come together and the jf cookie + cap sugar cookie + crust from the lemon meringue tart have formed an almost graham-cracker-flavored(with no coconut hooray!) flaky crust. &#xD;\nAdded a little tpa whipped cream to a small sample as well &amp; was a nice compliment to it.&#xD;\nHighly recommend &amp; I'll have to try the og now as well."
-    },
-    {
-      "user": "Brandon451",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Joker Reloaded",
+    "description": "\/\/ Key Lime Pie \/\/\r\n\r\nThis is an update on one of my favorite old recipes using the base of Tart76 created by Developed\r\nI hope you enjoy it and feel free to play with it and give your most honest opinion and suggestions!!\r\n\r\nSalud!",
+    "id": 156147,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/156147\/Joker.jpg",
+    "updated_at": "2020-12-12T18:30:29.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Meringue Tart",
+            "flavor_id": "10071",
+            "millipercent": 2500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 3500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 3000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "4572",
+            "millipercent": 1250,
+            "vendor": "JF"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NaCHeF",
+    "views": "3516",
+    "created_at": "2019-06-17",
+    "slug": "joker_reloaded",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/156147.jpg",
+    "total_flavoring": "15.25%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Slushy",
+            "score": 5,
+            "text": "I have been waiting to review this recipe since Key lime is one of the first recipes I ever published on ATF ( lime disease) key lime yogurt and also I learned from this recipe I have been using VT lemon tart at way to high of a percentage .The recipe is authentic to taste of key lime pie with capella sugar cookie and Fa premium custard adding the perfect buttery texture and flavor the combination of lemon tart and key lime along with Fa meringue is perfect and one final addition yes we cheesecake pulls everything together with Jf cookie adding the crispy baked edges of the pie super delicious well done \ud83d\ude0e\ud83d\udc4d"
+        },
+        {
+            "user": "SeanVapes",
+            "score": 5,
+            "text": "I only heard about this recipe from watching the Developed shows and Graham saying that in his opinion it was one of the best recipes of the year . This is a really good Key Lime Pie and has been a regular vape for me over the last couple of weeks . Great mixing , well done."
+        },
+        {
+            "user": "lionhrt9",
+            "score": 5,
+            "text": "Mr. Nachef!!!!!  Gotta agree with Graham. This is one of the top recipes for me this year and I had to sub the JF cookie for FA so waiting on an order so I can give this it's proper respect that it's due. I also need a longer steep but I can tell off the shake that it's bad ass.  Thanks for sharing. Layers create a DEEP key lime pie from inhale on the lighter notes to the darker exhale 100 percent kick ass recipe you created here.  Well done!!!!"
+        },
+        {
+            "user": "DixxleRoo",
+            "score": 5,
+            "text": "This is the best key lime pie recipe I\u2019ve found- its got the tangy key lime spot on. There\u2019s a really great buttery crust which comes through  really well but is perfectly balanced with the other elements. Someone else said they got more of the lemon meringue tart than lime after 3 days steep. I totally agree and I\u2019m glad I read their review before making this and tried it again after a week. Otherwise I might have dismissed it as an average tasting KLP. For me it seems to need that time for the lime to come through and everything to come together. I love this recipe if you couldn\u2019t tell! I\u2019ve made almost 100mls so far. Thanks so much for sharing it. "
+        },
+        {
+            "user": "Millions81",
+            "score": 5,
+            "text": "Really digging this recipe. Very well done &amp; thank you \ud83d\ude00&#xD;\nTried this after 3 days &amp; really could pick out the lemon meringue tart (fantastic flavor btw for those of you on the fence about it) more strongly than the key lime. Still quite tasty.&#xD;\nFast forward to a week: 5\\5 from both of us. The citruses come together for a nice tart key lime. The custard &amp; cheesecake has really come together and the jf cookie + cap sugar cookie + crust from the lemon meringue tart have formed an almost graham-cracker-flavored(with no coconut hooray!) flaky crust. &#xD;\nAdded a little tpa whipped cream to a small sample as well &amp; was a nice compliment to it.&#xD;\nHighly recommend &amp; I'll have to try the og now as well."
+        },
+        {
+            "user": "Brandon451",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

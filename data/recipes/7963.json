@@ -1,45 +1,47 @@
 {
-  "name": "Creamy Greek Yogurt Base",
-  "description": "Simple, thick and creamy Greek yogurt base to add fruits to, or vape alone. I made this base to be accepting to any fruit and still hold up in the recipe, with no needed tweaks. I've added strawberry, lime, banana, blueberry, and even honey with great results. \r\n\r\n(Recipe developed with a little help from SkiddlzNinja a while back.)",
-  "id": 7963,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/7963/greek-yogurt-329_1.jpg",
-  "updated_at": "2020-12-08T00:48:44.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Greek Yogurt",
-      "flavor_id": "615",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yogurt",
-      "flavor_id": "408",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "NotCharlesManson",
-  "views": "8690",
-  "slug": "creamy_greek_yogurt_base",
-  "total_flavoring": "7.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Coildad",
-      "score": "5",
-      "text": "Thanks Manson, this is exactly the yogurt i was hoping for. Reminds me of \"The Shwartz\" , Not too tart , kind of lingers in the background , perfect.&#xD;\n&#xD;\nI mixed this base with-&#xD;\n.5         FA  Bilberry&#xD;\n5.5     TPA Blueberry (extra)&#xD;\nDelicious."
-    }
-  ]
+    "name": "Creamy Greek Yogurt Base",
+    "description": "Simple, thick and creamy Greek yogurt base to add fruits to, or vape alone. I made this base to be accepting to any fruit and still hold up in the recipe, with no needed tweaks. I've added strawberry, lime, banana, blueberry, and even honey with great results. \r\n\r\n(Recipe developed with a little help from SkiddlzNinja a while back.)",
+    "id": 7963,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/7963\/greek-yogurt-329_1.jpg",
+    "updated_at": "2020-12-12T11:50:14.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Greek Yogurt",
+            "flavor_id": "615",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yogurt",
+            "flavor_id": "408",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "NotCharlesManson",
+    "views": "8703",
+    "created_at": "2016-07-17",
+    "slug": "creamy_greek_yogurt_base",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/7963.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Coildad",
+            "score": 5,
+            "text": "Thanks Manson, this is exactly the yogurt i was hoping for. Reminds me of \"The Shwartz\" , Not too tart , kind of lingers in the background , perfect.&#xD;\n&#xD;\nI mixed this base with-&#xD;\n.5         FA  Bilberry&#xD;\n5.5     TPA Blueberry (extra)&#xD;\nDelicious."
+        }
+    ]
 }

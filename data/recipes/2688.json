@@ -1,68 +1,69 @@
 {
-  "name": "Lemon Lime Strawberry",
-  "description": "",
-  "id": 2688,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "241",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Goldfish18",
-  "views": "5280",
-  "slug": "lemon_lime_strawberry",
-  "total_flavoring": "14.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "TogiraIkonoka0618",
-      "score": "5",
-      "text": "Excellent vape here. Great right out the gate but even better after a few days. Tastes like a really good strawberry limeade. Nice and refreshing!"
-    },
-    {
-      "user": "CriticalVape",
-      "score": "5",
-      "text": "Awesome recipe, the strawberry is predominant for the first week, then it settles back, and the balance is awesome. Great recipe. Fruity and clean. Thanks for sharing!"
-    }
-  ]
+    "name": "Lemon Lime Strawberry",
+    "description": "",
+    "id": 2688,
+    "image_url": null,
+    "updated_at": "2020-12-12T09:12:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "241",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Goldfish18",
+    "views": "5295",
+    "created_at": "2016-04-27",
+    "slug": "lemon_lime_strawberry",
+    "total_flavoring": "14.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "TogiraIkonoka0618",
+            "score": 5,
+            "text": "Excellent vape here. Great right out the gate but even better after a few days. Tastes like a really good strawberry limeade. Nice and refreshing!"
+        },
+        {
+            "user": "CriticalVape",
+            "score": 5,
+            "text": "Awesome recipe, the strawberry is predominant for the first week, then it settles back, and the balance is awesome. Great recipe. Fruity and clean. Thanks for sharing!"
+        }
+    ]
 }

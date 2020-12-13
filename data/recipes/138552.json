@@ -1,63 +1,65 @@
 {
-  "name": "Butterscotch Custard",
-  "description": "steep this for about 5-7 days.  it's rich and yummy and creamy custard with a butterscotch exhale.  and oh so addicting!",
-  "id": 138552,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/138552/editedhorizontalwithspoonreg.jpg",
-  "updated_at": "2020-12-02T07:32:11.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch",
-      "flavor_id": "1216",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pistachio",
-      "flavor_id": "3520",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Smoked Butterscotch",
-      "flavor_id": "8569",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Pudding",
-      "flavor_id": "4433",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "Jazzy_girl",
-  "views": "1871",
-  "slug": "butterscotch_custard",
-  "total_flavoring": "6.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "soulchkn",
-      "score": "none",
-      "text": "This looks fantastic! Short a couple flavors, but with definitely mix it up soon."
-    }
-  ]
+    "name": "Butterscotch Custard",
+    "description": "steep this for about 5-7 days.  it's rich and yummy and creamy custard with a butterscotch exhale.  and oh so addicting!",
+    "id": 138552,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/138552\/editedhorizontalwithspoonreg.jpg",
+    "updated_at": "2020-12-10T16:01:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch",
+            "flavor_id": "1216",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pistachio",
+            "flavor_id": "3520",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Smoked Butterscotch",
+            "flavor_id": "8569",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Pudding",
+            "flavor_id": "4433",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "Jazzy_girl",
+    "views": "1879",
+    "created_at": "2019-02-10",
+    "slug": "butterscotch_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/138552.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "soulchkn",
+            "score": 0,
+            "text": "This looks fantastic! Short a couple flavors, but with definitely mix it up soon."
+        }
+    ]
 }

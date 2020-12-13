@@ -1,68 +1,67 @@
 {
-  "name": "Raspberry Nog Milk",
-  "description": "I've never really been able to taste strawberry and I was already playing around with Wild Raspberry and I was wanting to try FLV Egg Nog. So I decided to try it with Strawberry Nog Milk by Grfyman, I think I finally found something that will help bring out strawberry for me. ",
-  "id": 189862,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:52:30.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Raspberry",
-      "flavor_id": "4312",
-      "millipercent": 1500,
-      "vendor": "MF"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Eggnog",
-      "flavor_id": "4396",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Milky Undertone PG",
-      "flavor_id": "6539",
-      "millipercent": 2500,
-      "vendor": "OOO"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Seakow",
-  "views": "417",
-  "slug": "raspberry_nog_milk",
-  "total_flavoring": "11.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry Nog Milk",
+    "description": "I've never really been able to taste strawberry and I was already playing around with Wild Raspberry and I was wanting to try FLV Egg Nog. So I decided to try it with Strawberry Nog Milk by Grfyman, I think I finally found something that will help bring out strawberry for me. ",
+    "id": 189862,
+    "image_url": null,
+    "updated_at": "2020-12-11T00:33:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Raspberry",
+            "flavor_id": "4312",
+            "millipercent": 1500,
+            "vendor": "MF"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Eggnog",
+            "flavor_id": "4396",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Milky Undertone PG",
+            "flavor_id": "6539",
+            "millipercent": 2500,
+            "vendor": "OOO"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Seakow",
+    "views": "423",
+    "created_at": "2020-03-31",
+    "slug": "raspberry_nog_milk",
+    "total_flavoring": "11.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

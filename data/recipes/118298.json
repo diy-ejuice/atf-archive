@@ -1,44 +1,43 @@
 {
-  "name": "Rin's Banana Smoothie with Gingerbread coaster",
-  "description": "Mixin Vixen entry 9/9. Banana smoothie with whipped cream and gingerbread. ",
-  "id": 118298,
-  "image_url": null,
-  "updated_at": "2020-12-05T05:17:00.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Whipped Cream",
-      "flavor_id": "1",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "8554",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "845",
-  "slug": "rins_banana_smoothie_with_gingerbread_coaster",
-  "total_flavoring": "4.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Banana Smoothie with Gingerbread coaster",
+    "description": "Mixin Vixen entry 9\/9. Banana smoothie with whipped cream and gingerbread. ",
+    "id": 118298,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Whipped Cream",
+            "flavor_id": "1",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "8554",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "854",
+    "created_at": "2018-09-09",
+    "slug": "rins_banana_smoothie_with_gingerbread_coaster",
+    "total_flavoring": "4.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0"
 }

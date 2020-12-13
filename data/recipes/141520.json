@@ -1,45 +1,47 @@
 {
-  "name": "Sidecar",
-  "description": "An explosion of exotic spices & and citrus served shaken, not stirred.\r\n\r\nDeveloped as part of the TFV Layerz series, full video here: https://youtu.be/ggxsvyBEPLM\r\n\r\nBased on the early 1900s classic cocktail, the Sidecar is a classic cocktail enjoyed the world over. The original recipe calls for equal proportions of lemon juice, Cointreau (orange-flavored liqueur) and Cognac.  Modern interpretations include a version with Bourbon instead of rum with a dash of bitters called The Bourbon Sidecar. This version is based on the latter with the exclusion of bourbon.\r\n\r\nFLV Back Bar Bitters is a revelation & I can see many recipes spawning from this unique flavour. This a a fantastical, deep bouquet of florals & spices which will add a magical touch to any mix. With hints of cinnamon, orange peel, ginger & cloves, it creates a complex and balanced aromatic & spicy additive.\r\nA touch will make a wonderful spiced cookie, mulled wine and add allure to a boring fruit punch!\r\nI use it sparingly here as I want the orange to shine. 0,5 is plenty but can work at higher %'s if you prefer a more pronounced aromatic kick. The inherent citrus notes compliments the Blood Orange perfectly to create a deep and true orange base.\r\n\r\nFLV Blood orange announces itself loud and proud here. Not as bitter as it rivals, this beauty brings a freshness and vibrancy without being sweet nor tangy. A realistic & bold blood orange flavour with just enough zest without being overbearing.\r\n\r\nFLV Lemon at 1% brings a refreshing bright & tart lemon to enhance the deep blood orange. Any higher and it will dominate...\r\n\r\nAn overnight sleep, well shaken, and she is good to go! \r\n",
-  "id": 141520,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/141520/IMG_4E82365C158D-1.jpeg",
-  "updated_at": "2020-12-08T00:50:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blood Orange",
-      "flavor_id": "4407",
-      "millipercent": 3000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Back Bar Bitters",
-      "flavor_id": "10082",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "4370",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "RudeRudi",
-  "views": "1177",
-  "slug": "sidecar",
-  "total_flavoring": "4.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "thefogvlog",
-      "score": "5",
-      "text": "This mix is true to the profile, perfectly described - and the whole mix hangs together really well. Cant really fault this. Thanks Rudi"
-    }
-  ]
+    "name": "Sidecar",
+    "description": "An explosion of exotic spices & and citrus served shaken, not stirred.\r\n\r\nDeveloped as part of the TFV Layerz series, full video here: https:\/\/youtu.be\/ggxsvyBEPLM\r\n\r\nBased on the early 1900s classic cocktail, the Sidecar is a classic cocktail enjoyed the world over. The original recipe calls for equal proportions of lemon juice, Cointreau (orange-flavored liqueur) and Cognac.  Modern interpretations include a version with Bourbon instead of rum with a dash of bitters called The Bourbon Sidecar. This version is based on the latter with the exclusion of bourbon.\r\n\r\nFLV Back Bar Bitters is a revelation & I can see many recipes spawning from this unique flavour. This a a fantastical, deep bouquet of florals & spices which will add a magical touch to any mix. With hints of cinnamon, orange peel, ginger & cloves, it creates a complex and balanced aromatic & spicy additive.\r\nA touch will make a wonderful spiced cookie, mulled wine and add allure to a boring fruit punch!\r\nI use it sparingly here as I want the orange to shine. 0,5 is plenty but can work at higher %'s if you prefer a more pronounced aromatic kick. The inherent citrus notes compliments the Blood Orange perfectly to create a deep and true orange base.\r\n\r\nFLV Blood orange announces itself loud and proud here. Not as bitter as it rivals, this beauty brings a freshness and vibrancy without being sweet nor tangy. A realistic & bold blood orange flavour with just enough zest without being overbearing.\r\n\r\nFLV Lemon at 1% brings a refreshing bright & tart lemon to enhance the deep blood orange. Any higher and it will dominate...\r\n\r\nAn overnight sleep, well shaken, and she is good to go! \r\n",
+    "id": 141520,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/141520\/IMG_4E82365C158D-1.jpeg",
+    "updated_at": "2020-12-12T11:52:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blood Orange",
+            "flavor_id": "4407",
+            "millipercent": 3000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Back Bar Bitters",
+            "flavor_id": "10082",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "4370",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "RudeRudi",
+    "views": "1183",
+    "created_at": "2019-03-05",
+    "slug": "sidecar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/141520.jpeg",
+    "total_flavoring": "4.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "thefogvlog",
+            "score": 5,
+            "text": "This mix is true to the profile, perfectly described - and the whole mix hangs together really well. Cant really fault this. Thanks Rudi"
+        }
+    ]
 }

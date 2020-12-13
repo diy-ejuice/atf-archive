@@ -1,51 +1,53 @@
 {
-  "name": "Dunked Apples",
-  "description": "**FA Fuji** is the King of Apples as far as I'm concerned. At 2% it's a solid, bright, crisp and sweet apple. It's fairly realistic, but works very well in this candy-esque profile.\r\n\r\n**INW Two Apples** is tart and sweet. It's heavier on the green apple flavor and pairs exceptionally well with the Fuji to help flesh out our apple in this mix.\r\n\r\n**DIYFS Holy Holy Grail RY4** is absolutely fantastic. It's a thick and creamy caramel. I don't get much tobacco from this, just heavenly, velvety, creamy caramel with notes of brown sugar and vanilla. Super sticky, too.\r\n\r\n**INW Milk & Honey** is the perfect accent to our caramel. It's dark and creamy. You get touches of honey and brown sugar that play wonderfully with the apples and already very present and pleasant caramel.\r\n\r\nSimple Mix, and it's simply delicious.",
-  "id": 141214,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/141214/caramel_apple_0.png",
-  "updated_at": "2020-12-08T00:50:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "HOLY HOLY GRAIL RY4",
-      "flavor_id": "5037",
-      "millipercent": 8000,
-      "vendor": "DFS"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Two Apples",
-      "flavor_id": "671",
-      "millipercent": 1500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Silky",
-  "views": "2636",
-  "slug": "dunked_apples",
-  "total_flavoring": "12.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "coop34",
-      "score": "5",
-      "text": "I have mixed apple 'bacco before, it's always been ok. But the addition of M&amp;H here is a stroke of genius! Adds that x factor that I didn't know was missing. FWIW, I mixed without the INW because I dont have it. It is just outstanding anyway! Nice work, and thank you!"
-    }
-  ]
+    "name": "Dunked Apples",
+    "description": "**FA Fuji** is the King of Apples as far as I'm concerned. At 2% it's a solid, bright, crisp and sweet apple. It's fairly realistic, but works very well in this candy-esque profile.\r\n\r\n**INW Two Apples** is tart and sweet. It's heavier on the green apple flavor and pairs exceptionally well with the Fuji to help flesh out our apple in this mix.\r\n\r\n**DIYFS Holy Holy Grail RY4** is absolutely fantastic. It's a thick and creamy caramel. I don't get much tobacco from this, just heavenly, velvety, creamy caramel with notes of brown sugar and vanilla. Super sticky, too.\r\n\r\n**INW Milk & Honey** is the perfect accent to our caramel. It's dark and creamy. You get touches of honey and brown sugar that play wonderfully with the apples and already very present and pleasant caramel.\r\n\r\nSimple Mix, and it's simply delicious.",
+    "id": 141214,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/141214\/caramel_apple_0.png",
+    "updated_at": "2020-12-12T11:52:37.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "HOLY HOLY GRAIL RY4",
+            "flavor_id": "5037",
+            "millipercent": 8000,
+            "vendor": "DFS"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Two Apples",
+            "flavor_id": "671",
+            "millipercent": 1500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Silky",
+    "views": "2646",
+    "created_at": "2019-03-03",
+    "slug": "dunked_apples",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/141214.png",
+    "total_flavoring": "12.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "coop34",
+            "score": 5,
+            "text": "I have mixed apple 'bacco before, it's always been ok. But the addition of M&amp;H here is a stroke of genius! Adds that x factor that I didn't know was missing. FWIW, I mixed without the INW because I dont have it. It is just outstanding anyway! Nice work, and thank you!"
+        }
+    ]
 }

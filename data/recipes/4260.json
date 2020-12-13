@@ -1,72 +1,73 @@
 {
-  "name": "Thugger Juice",
-  "description": "Thug Juice made better. It's a pretty self-explanatory recipe. Can sub Menthol with .25% INW Eucalyptus with Mint",
-  "id": 4260,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape",
-      "flavor_id": "784",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 2000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Menthol Liquid (pg)",
-      "flavor_id": "281",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "tranceinate",
-  "views": "11933",
-  "slug": "thugger_juice",
-  "total_flavoring": "8.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 4,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "RainSong",
-      "score": "5",
-      "text": "Really enjoying this. Initial testers were one with eucalyptus mint and one without. I prefer without the mint, but I could see myself vaping it if I had a sore throat. "
-    },
-    {
-      "user": "kindground",
-      "score": "5",
-      "text": "Love this so much. It scratches my summertime itch. Better than Grack Juice IMO. "
-    },
-    {
-      "user": "Audiology",
-      "score": "5",
-      "text": "This is delicious. I altered it a little by upping the watermelon to 5% and adding 0.25% Super Sweet to my tastes, but all in all this is wayyyyy better than Thug Juice. "
-    },
-    {
-      "user": "Jthectic",
-      "score": "5",
-      "text": "This is really good alternative to jungle juice by FW (AKA thug juice). It has a stronger grape flavour, and unlike jungle juice isn't drowned out by the menthol. Delicious."
-    }
-  ]
+    "name": "Thugger Juice",
+    "description": "Thug Juice made better. It's a pretty self-explanatory recipe. Can sub Menthol with .25% INW Eucalyptus with Mint",
+    "id": 4260,
+    "image_url": null,
+    "updated_at": "2020-12-12T10:32:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape",
+            "flavor_id": "784",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 2000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Menthol Liquid (pg)",
+            "flavor_id": "281",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "tranceinate",
+    "views": "11957",
+    "created_at": "2016-05-31",
+    "slug": "thugger_juice",
+    "total_flavoring": "8.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 4,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "RainSong",
+            "score": 5,
+            "text": "Really enjoying this. Initial testers were one with eucalyptus mint and one without. I prefer without the mint, but I could see myself vaping it if I had a sore throat. "
+        },
+        {
+            "user": "kindground",
+            "score": 5,
+            "text": "Love this so much. It scratches my summertime itch. Better than Grack Juice IMO. "
+        },
+        {
+            "user": "Audiology",
+            "score": 5,
+            "text": "This is delicious. I altered it a little by upping the watermelon to 5% and adding 0.25% Super Sweet to my tastes, but all in all this is wayyyyy better than Thug Juice. "
+        },
+        {
+            "user": "Jthectic",
+            "score": 5,
+            "text": "This is really good alternative to jungle juice by FW (AKA thug juice). It has a stronger grape flavour, and unlike jungle juice isn't drowned out by the menthol. Delicious."
+        }
+    ]
 }

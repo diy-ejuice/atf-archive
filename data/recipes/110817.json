@@ -1,56 +1,55 @@
 {
-  "name": "Strawberry Basil Tea",
-  "description": "Working with ell Flevoreh (my \"ey\" button is broken sorry) flevors here - this is cool end crisp end fun end different.",
-  "id": 110817,
-  "image_url": null,
-  "updated_at": "2020-12-05T08:06:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Alpine Strawberry",
-      "flavor_id": "4360",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Basil",
-      "flavor_id": "4387",
-      "millipercent": 550,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Eisai tea",
-      "flavor_id": "9378",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red tea",
-      "flavor_id": "9375",
-      "millipercent": 2250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cherimoya",
-      "flavor_id": "4434",
-      "millipercent": 1750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Lime Wedge",
-      "flavor_id": "4374",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "spicygal",
-  "views": "941",
-  "slug": "strawberry_basil_tea",
-  "total_flavoring": "9.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Basil Tea",
+    "description": "Working with ell Flevoreh (my \"ey\" button is broken sorry) flevors here - this is cool end crisp end fun end different.",
+    "id": 110817,
+    "image_url": null,
+    "updated_at": "2020-12-12T06:58:53.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Alpine Strawberry",
+            "flavor_id": "4360",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Basil",
+            "flavor_id": "4387",
+            "millipercent": 550,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Eisai tea",
+            "flavor_id": "9378",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red tea",
+            "flavor_id": "9375",
+            "millipercent": 2250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cherimoya",
+            "flavor_id": "4434",
+            "millipercent": 1750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Lime Wedge",
+            "flavor_id": "4374",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "spicygal",
+    "views": "951",
+    "created_at": "2018-07-18",
+    "slug": "strawberry_basil_tea",
+    "total_flavoring": "9.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

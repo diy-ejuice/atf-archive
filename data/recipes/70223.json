@@ -1,51 +1,53 @@
 {
-  "name": "Ckemist Original: Mango Bear",
-  "description": "The Hype Juice you crave. Adjust Sweetener to tastes. \r\nSubs: PM can be subbed for FLV Mango or INW Mango .5%\r\n",
-  "id": 70223,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/70223/IMG_1268.JPG",
-  "updated_at": "2020-12-08T00:49:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "27 Fish",
-      "flavor_id": "8736",
-      "millipercent": 7000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Philippine Mango",
-      "flavor_id": "258",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "EJuiceMakers",
-  "views": "3085",
-  "slug": "ckemist_original_mango_bear",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "80%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "FizzChaser",
-      "score": "5",
-      "text": "I was so excited that I grabbed 27 Bears and mixed up first. Once I noticed that and tasted I went back to mix the 27 Fish instantly. Tasty as fudge! With both 27 Fish &amp; 27 Bears."
-    }
-  ]
+    "name": "Ckemist Original: Mango Bear",
+    "description": "The Hype Juice you crave. Adjust Sweetener to tastes. \r\nSubs: PM can be subbed for FLV Mango or INW Mango .5%\r\n",
+    "id": 70223,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/70223\/IMG_1268.JPG",
+    "updated_at": "2020-12-12T14:05:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "27 Fish",
+            "flavor_id": "8736",
+            "millipercent": 7000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Philippine Mango",
+            "flavor_id": "258",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "EJuiceMakers",
+    "views": "3093",
+    "created_at": "2017-10-24",
+    "slug": "ckemist_original_mango_bear",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/70223.JPG",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "80%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "FizzChaser",
+            "score": 5,
+            "text": "I was so excited that I grabbed 27 Bears and mixed up first. Once I noticed that and tasted I went back to mix the 27 Fish instantly. Tasty as fudge! With both 27 Fish &amp; 27 Bears."
+        }
+    ]
 }

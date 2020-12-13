@@ -1,79 +1,80 @@
 {
-  "name": "Monkey Nuts",
-  "description": "Hell with it. I can probably make it better, but it's pretty good. So if that beta snowflake matthewkokanda can release recipes early, so can I.\r\n\r\nNote for such low VG i strongly suggest the use of PDO or PEG400.",
-  "id": 135501,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:50:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Torrone",
-      "flavor_id": "550",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Nougat",
-      "flavor_id": "3510",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Connecticut Shade",
-      "flavor_id": "4365",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Red Burley",
-      "flavor_id": "4355",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Australian Chocolate",
-      "flavor_id": "2657",
-      "millipercent": 2000,
-      "vendor": "HS"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 3000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "COB",
-  "views": "2614",
-  "slug": "monkey_nuts",
-  "total_flavoring": "11.0%",
-  "steep_days": "4",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "horizonism",
-      "score": "5",
-      "text": "Nice work. I enjoyed it as is, but found the Connecticut Shade stomped over everything else until about two weeks in. Second time round I halved it and enjoyed it even more. "
-    },
-    {
-      "user": "fadedjay1",
-      "score": "5",
-      "text": "Enjoyed this quiet a bit. Been in rotation for 2 weeks now. Vaping it mtl. Great tobacco mix. Almost does have a nutty taste. Feel like this something I would of made but better. Great job!"
-    },
-    {
-      "user": "matthewkocanda",
-      "score": "none",
-      "text": "What up, YouTube, it's ya boy, Beta Snowflake Kocanda."
-    }
-  ]
+    "name": "Monkey Nuts",
+    "description": "Hell with it. I can probably make it better, but it's pretty good. So if that beta snowflake matthewkokanda can release recipes early, so can I.\r\n\r\nNote for such low VG i strongly suggest the use of PDO or PEG400.",
+    "id": 135501,
+    "image_url": null,
+    "updated_at": "2020-12-12T20:30:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Torrone",
+            "flavor_id": "550",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Nougat",
+            "flavor_id": "3510",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Connecticut Shade",
+            "flavor_id": "4365",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Red Burley",
+            "flavor_id": "4355",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Australian Chocolate",
+            "flavor_id": "2657",
+            "millipercent": 2000,
+            "vendor": "HS"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 3000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "COB",
+    "views": "2624",
+    "created_at": "2019-01-18",
+    "slug": "monkey_nuts",
+    "total_flavoring": "11.0%",
+    "steep_days": "4",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "horizonism",
+            "score": 5,
+            "text": "Nice work. I enjoyed it as is, but found the Connecticut Shade stomped over everything else until about two weeks in. Second time round I halved it and enjoyed it even more. "
+        },
+        {
+            "user": "fadedjay1",
+            "score": 5,
+            "text": "Enjoyed this quiet a bit. Been in rotation for 2 weeks now. Vaping it mtl. Great tobacco mix. Almost does have a nutty taste. Feel like this something I would of made but better. Great job!"
+        },
+        {
+            "user": "matthewkocanda",
+            "score": 0,
+            "text": "What up, YouTube, it's ya boy, Beta Snowflake Kocanda."
+        }
+    ]
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Tomatoes",
-  "description": "Down here on our central Florida cattle ranch our two days of winter have long since come and gone and it's HOT!! So we need some refreshments. However it wouldn't be fair if we had all the fun and tasty treats so we gotta go drop off some tomatoes to the cows first before we get started, everybody gets something refreshing today.. So leave the heavy cream, eggs and butter in the fridge because today were doing it sweet and fruity!! \r\n\r\nWe have some gorgeous fresh Fuji apples, plump and ripe strawberries and (right around the corner is the Florida strawberry festival) we also have some sweet canned pears from last year that are super sweet and some cantaloupe my wife got from the market today to give it all that luscious depth of melon that holds it all together.. OK, let's do this!! \r\n\r\n*Note - If you need it sweeter just add 2% (CAP) - super sweet__ not 1%",
-  "id": 34493,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/34493/0220_BRLO_gallery_cow.jpg",
-  "updated_at": "2020-12-06T07:21:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 6000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Pear",
-      "flavor_id": "411",
-      "millipercent": 1400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "KarlitoJackson",
-  "views": "1209",
-  "slug": "tomatoes",
-  "total_flavoring": "11.4%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tomatoes",
+    "description": "Down here on our central Florida cattle ranch our two days of winter have long since come and gone and it's HOT!! So we need some refreshments. However it wouldn't be fair if we had all the fun and tasty treats so we gotta go drop off some tomatoes to the cows first before we get started, everybody gets something refreshing today.. So leave the heavy cream, eggs and butter in the fridge because today were doing it sweet and fruity!! \r\n\r\nWe have some gorgeous fresh Fuji apples, plump and ripe strawberries and (right around the corner is the Florida strawberry festival) we also have some sweet canned pears from last year that are super sweet and some cantaloupe my wife got from the market today to give it all that luscious depth of melon that holds it all together.. OK, let's do this!! \r\n\r\n*Note - If you need it sweeter just add 2% (CAP) - super sweet__ not 1%",
+    "id": 34493,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/34493\/0220_BRLO_gallery_cow.jpg",
+    "updated_at": "2020-12-10T15:59:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 6000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Pear",
+            "flavor_id": "411",
+            "millipercent": 1400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "KarlitoJackson",
+    "views": "1216",
+    "created_at": "2017-03-01",
+    "slug": "tomatoes",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/34493.jpg",
+    "total_flavoring": "11.4%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0"
 }

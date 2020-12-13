@@ -1,80 +1,82 @@
 {
-  "name": "Kawayan",
-  "description": "These three flavors play beautifully together to create a delicately complex, incredibly refreshing shake & vape.\r\n\r\nInhale is juicy, full and sweet, exhale is like spinning a color wheel until it all blurs into some pleasing, blue-green, undiscovered hue.\r\n\r\nA little grapefruit zing, some voluptuous lychee sweetness, something vaguely papaya-'nana, whipped up in a blender with a light touch of coconut milk and garnished with an island flower. \r\n\r\nFeel free to add a bit of WS-23 to taste for a frosty summer refresher. Enjoy!\r\n\r\nMixed this up last August and realized I forgot to post it here when I went to re-mix it.",
-  "id": 53071,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/53071/kawayan.jpg",
-  "updated_at": "2020-12-08T00:49:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "RuntDastardly",
-  "views": "6774",
-  "slug": "kawayan",
-  "total_flavoring": "6.0%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 8,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Denske",
-      "score": "5",
-      "text": "This is a phenomenal fruit mix...great use of some very complex flavors"
-    },
-    {
-      "user": "staybert",
-      "score": "5",
-      "text": "Wow, I have a hard time describing this. It's fantastic. Usually INW Cactus will be a bully, esp at 1%, but here it just blends in perfectly with the sweetness of the guanabana and zesty citrusy notes from pink guava to end up in a very fresh summertime vape. I tried it without any coolant, but I'll definitley be mixing more of this, feels like a given in this kind of mix. Well done!"
-    },
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "It took me way too long to get around to mixing this up. I love the way these ingredients work together, the mouthwatering citrusy pink guava and cactus with that weird but wonderful sort of tart strawberry-pineapple from the Guanabana on top and then the rich, creamy, funky banana-coconut base of the Guanabana with added depth and juiciness from the cactus. Just three ingredients, but so complex and full of flavor.  "
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "This is absolutely delicious had to mix another batch. Perfect vape for summer "
-    },
-    {
-      "user": "gianmarcopc",
-      "score": "none",
-      "text": ""
-    },
-    {
-      "user": "corvape",
-      "score": "5",
-      "text": "Excellent simple summertime recipe. I was looking for a recipe to try Guanabana for the first time cause I did not feel like single flavor testing it.&#xD;\nThis was a perfect fit.&#xD;\nWith guanabana being the star of the show, the supporting flavors of pink guava and Inw cactus to make it interesting.&#xD;\nThis mix went excellent with a Corona in the sun.&#xD;\nThank you for sharing, its coming to Florida with me next week. Cant wait to see what else I can do with Guanabana.. So tasty"
-    },
-    {
-      "user": "wadeyloops",
-      "score": "5",
-      "text": "Stunning, complex and dreamy. This takes me away to a tropical paradise. I know you said \"If you don't see any new recipes from me for a long time, you can rest assured I ran out of INW Waffle and died of sorrow\" but please come back to the mixing world. We miss you Runt."
-    },
-    {
-      "user": "CheebaSteeba",
-      "score": "5",
-      "text": "Such a lovely combination of flavors. I am a big fan of all of these individually but this mix is greater than the sum of its parts. A delectable and refreshing summertime mix. I love it! Tried both with and without the ice; both are great but ice wears on my lungs a bit so I've got it mixed up again without and am thoroughly enjoying it. Thanks Runt! An easy new ADV for me. Glad you posted it up!"
-    }
-  ]
+    "name": "Kawayan",
+    "description": "These three flavors play beautifully together to create a delicately complex, incredibly refreshing shake & vape.\r\n\r\nInhale is juicy, full and sweet, exhale is like spinning a color wheel until it all blurs into some pleasing, blue-green, undiscovered hue.\r\n\r\nA little grapefruit zing, some voluptuous lychee sweetness, something vaguely papaya-'nana, whipped up in a blender with a light touch of coconut milk and garnished with an island flower. \r\n\r\nFeel free to add a bit of WS-23 to taste for a frosty summer refresher. Enjoy!\r\n\r\nMixed this up last August and realized I forgot to post it here when I went to re-mix it.",
+    "id": 53071,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/53071\/kawayan.jpg",
+    "updated_at": "2020-12-12T18:29:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "RuntDastardly",
+    "views": "6797",
+    "created_at": "2017-06-29",
+    "slug": "kawayan",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/53071.jpg",
+    "total_flavoring": "6.0%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 8,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Denske",
+            "score": 5,
+            "text": "This is a phenomenal fruit mix...great use of some very complex flavors"
+        },
+        {
+            "user": "staybert",
+            "score": 5,
+            "text": "Wow, I have a hard time describing this. It's fantastic. Usually INW Cactus will be a bully, esp at 1%, but here it just blends in perfectly with the sweetness of the guanabana and zesty citrusy notes from pink guava to end up in a very fresh summertime vape. I tried it without any coolant, but I'll definitley be mixing more of this, feels like a given in this kind of mix. Well done!"
+        },
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "It took me way too long to get around to mixing this up. I love the way these ingredients work together, the mouthwatering citrusy pink guava and cactus with that weird but wonderful sort of tart strawberry-pineapple from the Guanabana on top and then the rich, creamy, funky banana-coconut base of the Guanabana with added depth and juiciness from the cactus. Just three ingredients, but so complex and full of flavor.  "
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "This is absolutely delicious had to mix another batch. Perfect vape for summer "
+        },
+        {
+            "user": "gianmarcopc",
+            "score": 0,
+            "text": ""
+        },
+        {
+            "user": "corvape",
+            "score": 5,
+            "text": "Excellent simple summertime recipe. I was looking for a recipe to try Guanabana for the first time cause I did not feel like single flavor testing it.&#xD;\nThis was a perfect fit.&#xD;\nWith guanabana being the star of the show, the supporting flavors of pink guava and Inw cactus to make it interesting.&#xD;\nThis mix went excellent with a Corona in the sun.&#xD;\nThank you for sharing, its coming to Florida with me next week. Cant wait to see what else I can do with Guanabana.. So tasty"
+        },
+        {
+            "user": "wadeyloops",
+            "score": 5,
+            "text": "Stunning, complex and dreamy. This takes me away to a tropical paradise. I know you said \"If you don't see any new recipes from me for a long time, you can rest assured I ran out of INW Waffle and died of sorrow\" but please come back to the mixing world. We miss you Runt."
+        },
+        {
+            "user": "CheebaSteeba",
+            "score": 5,
+            "text": "Such a lovely combination of flavors. I am a big fan of all of these individually but this mix is greater than the sum of its parts. A delectable and refreshing summertime mix. I love it! Tried both with and without the ice; both are great but ice wears on my lungs a bit so I've got it mixed up again without and am thoroughly enjoying it. Thanks Runt! An easy new ADV for me. Glad you posted it up!"
+        }
+    ]
 }

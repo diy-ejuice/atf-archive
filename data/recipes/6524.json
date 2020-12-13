@@ -1,45 +1,46 @@
 {
-  "name": "Mango Snaps",
-  "description": "",
-  "id": 6524,
-  "image_url": null,
-  "updated_at": "2020-12-06T23:06:51.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sweet Mango",
-      "flavor_id": "120",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Dan7712",
-  "views": "1720",
-  "slug": "mango_snaps",
-  "total_flavoring": "7.2%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "maybe"
-    }
-  ]
+    "name": "Mango Snaps",
+    "description": "",
+    "id": 6524,
+    "image_url": null,
+    "updated_at": "2020-12-10T17:56:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sweet Mango",
+            "flavor_id": "120",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Dan7712",
+    "views": "1724",
+    "created_at": "2016-07-03",
+    "slug": "mango_snaps",
+    "total_flavoring": "7.2%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "maybe"
+        }
+    ]
 }

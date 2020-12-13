@@ -1,44 +1,44 @@
 {
-  "name": "Coconut Cookies",
-  "description": "First thoughts, will revisit once made and steeped for min 7 days",
-  "id": 91849,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/91849/Coconut.jpg",
-  "updated_at": "2020-11-30T02:42:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Coconut Custard SC",
-      "flavor_id": "8363",
-      "millipercent": 3500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "484",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Coconut Cookies (yc)",
-      "flavor_id": "739",
-      "millipercent": 1000,
-      "vendor": "INW"
-    }
-  ],
-  "author": "JJ1977",
-  "views": "1302",
-  "slug": "coconut_cookies",
-  "total_flavoring": "7.0%",
-  "steep_days": "7",
-  "best_vg": "85%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Coconut Cookies",
+    "description": "First thoughts, will revisit once made and steeped for min 7 days",
+    "id": 91849,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/91849\/Coconut.jpg",
+    "updated_at": "2020-12-10T17:57:21.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Coconut Custard SC",
+            "flavor_id": "8363",
+            "millipercent": 3500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "484",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Coconut Cookies (yc)",
+            "flavor_id": "739",
+            "millipercent": 1000,
+            "vendor": "INW"
+        }
+    ],
+    "author": "JJ1977",
+    "views": "1309",
+    "created_at": "2018-03-10",
+    "slug": "coconut_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/91849.jpg",
+    "total_flavoring": "7.0%",
+    "steep_days": "7",
+    "best_vg": "85%",
+    "temperature": "0"
 }

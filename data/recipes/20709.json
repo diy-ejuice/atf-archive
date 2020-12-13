@@ -1,45 +1,47 @@
 {
-  "name": "Aloe Vera Drink",
-  "description": "I drink these normally from a store called Aldi. Three day steep for it to blend together nicely ",
-  "id": 20709,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20709/aloe.jpg",
-  "updated_at": "2020-12-08T00:48:54.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grape Concord",
-      "flavor_id": "554",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 2250,
-      "vendor": "INW"
-    },
-    {
-      "name": "Forest Mix",
-      "flavor_id": "4576",
-      "millipercent": 600,
-      "vendor": "JF"
-    }
-  ],
-  "author": "Thadentman",
-  "views": "1981",
-  "slug": "aloe_vera_drink",
-  "total_flavoring": "4.35%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "shyndo",
-      "score": "5",
-      "text": "Big surprise of the summer for me, I found this extremely delicious. Cactus can be a polarizing flavor when used high and I can honestly see some people having issues with it. Personally, for me this was the epitome of summer in a bottle. A wonderful bright delicious and refreshing vape. Juicy to the core with no bitterness or off notes."
-    }
-  ]
+    "name": "Aloe Vera Drink",
+    "description": "I drink these normally from a store called Aldi. Three day steep for it to blend together nicely ",
+    "id": 20709,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20709\/aloe.jpg",
+    "updated_at": "2020-12-12T15:38:55.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grape Concord",
+            "flavor_id": "554",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 2250,
+            "vendor": "INW"
+        },
+        {
+            "name": "Forest Mix",
+            "flavor_id": "4576",
+            "millipercent": 600,
+            "vendor": "JF"
+        }
+    ],
+    "author": "Thadentman",
+    "views": "1988",
+    "created_at": "2016-11-21",
+    "slug": "aloe_vera_drink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20709.jpg",
+    "total_flavoring": "4.35%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "shyndo",
+            "score": 5,
+            "text": "Big surprise of the summer for me, I found this extremely delicious. Cactus can be a polarizing flavor when used high and I can honestly see some people having issues with it. Personally, for me this was the epitome of summer in a bottle. A wonderful bright delicious and refreshing vape. Juicy to the core with no bitterness or off notes."
+        }
+    ]
 }

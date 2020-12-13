@@ -1,75 +1,77 @@
 {
-  "name": "Merryfield Apple Cake",
-  "description": "This is the submission for the DIY Traders: Coils & E-Juice Facebook Group Mix-Off",
-  "id": 54256,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/54256/AppleCake.jpg",
-  "updated_at": "2020-12-08T00:49:27.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cake (yellow)",
-      "flavor_id": "1222",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "208",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1534",
-  "slug": "merryfield_apple_cake",
-  "total_flavoring": "8.0%",
-  "steep_days": "7",
-  "best_vg": "65%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I subbed vanilla swirl in for shisha vanilla.  Immediately made 160ml of this as soon as my tester ran dry, now waiting for the steep so I can dig into this in earnest."
-    }
-  ]
+    "name": "Merryfield Apple Cake",
+    "description": "This is the submission for the DIY Traders: Coils & E-Juice Facebook Group Mix-Off",
+    "id": 54256,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/54256\/AppleCake.jpg",
+    "updated_at": "2020-12-12T18:29:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cake (yellow)",
+            "flavor_id": "1222",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "208",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1540",
+    "created_at": "2017-07-06",
+    "slug": "merryfield_apple_cake",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/54256.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "7",
+    "best_vg": "65%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I subbed vanilla swirl in for shisha vanilla.  Immediately made 160ml of this as soon as my tester ran dry, now waiting for the steep so I can dig into this in earnest."
+        }
+    ]
 }

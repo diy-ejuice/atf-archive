@@ -1,62 +1,64 @@
 {
-  "name": "The Swede Rides Again",
-  "description": "I've never been able to eat just one Swedish Fish at a time. This was modeled after \"red\" Swedish Fish.\r\n\r\nTPA Swedish Gummy: This flavor can be an outright pain in the ass. It's very accurate to it's name, but it carries a vicious throat hit if you use it much higher than 1.5-2% At 2% in this mix it started imparting some unwanted harshness, so I dialed it back to 1.5% in the final recipe to help keep things smooth, while still imparting some sweet gummy flavor.\r\n\r\nCAP Jelly Candy: A bit of a sleeper flavor, you don't taste this very much in the mix. It's intended purpose is to lend some body to the Swedish Gummy, which I think it does well. Standalone this flavor is very similar to the inside part of a jelly bean.\r\n\r\nTPA Watermelon Candy: A bit of a weaker watermelon flavor, this helps keep the strawberry balanced from it's usual syrupy self, while still contributing to the overall sweet \"red\" flavor of the swedish fish. \r\n\r\nTFA Sweetener: What's a little candy with some sugar, eh? Earlier versions included more, or less sweetener. At 1% it started  overpowering the flavor a bit, but at .5% it just wasn't quite there so I landed at .75% to try to catch the best balance between sweet candy and gross syrup.",
-  "id": 29440,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/29440/08c2998ed2e44c8da83d363b2369a28b.jpg",
-  "updated_at": "2020-12-08T00:49:03.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Swedish Gummy",
-      "flavor_id": "337",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Watermelon Candy",
-      "flavor_id": "275",
-      "millipercent": 6500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 4500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 750,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Kopel",
-  "views": "2241",
-  "slug": "the_swede_rides_again",
-  "total_flavoring": "16.75%",
-  "steep_days": "0",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Rdubu",
-      "score": "5",
-      "text": "This is a great mix.  I've been mixing this for a while.  I find that a 3 to 4 day steep does well.  Thank you Kopel for a great recipe."
-    },
-    {
-      "user": "FizzChaser",
-      "score": "5",
-      "text": "This is a great candy recipe Kopel! I had to replace TPA Swedish Gummy with FW Swedish Fish but it was still delicious."
-    }
-  ]
+    "name": "The Swede Rides Again",
+    "description": "I've never been able to eat just one Swedish Fish at a time. This was modeled after \"red\" Swedish Fish.\r\n\r\nTPA Swedish Gummy: This flavor can be an outright pain in the ass. It's very accurate to it's name, but it carries a vicious throat hit if you use it much higher than 1.5-2% At 2% in this mix it started imparting some unwanted harshness, so I dialed it back to 1.5% in the final recipe to help keep things smooth, while still imparting some sweet gummy flavor.\r\n\r\nCAP Jelly Candy: A bit of a sleeper flavor, you don't taste this very much in the mix. It's intended purpose is to lend some body to the Swedish Gummy, which I think it does well. Standalone this flavor is very similar to the inside part of a jelly bean.\r\n\r\nTPA Watermelon Candy: A bit of a weaker watermelon flavor, this helps keep the strawberry balanced from it's usual syrupy self, while still contributing to the overall sweet \"red\" flavor of the swedish fish. \r\n\r\nTFA Sweetener: What's a little candy with some sugar, eh? Earlier versions included more, or less sweetener. At 1% it started  overpowering the flavor a bit, but at .5% it just wasn't quite there so I landed at .75% to try to catch the best balance between sweet candy and gross syrup.",
+    "id": 29440,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/29440\/08c2998ed2e44c8da83d363b2369a28b.jpg",
+    "updated_at": "2020-12-12T20:28:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Swedish Gummy",
+            "flavor_id": "337",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Watermelon Candy",
+            "flavor_id": "275",
+            "millipercent": 6500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 4500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 750,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Kopel",
+    "views": "2248",
+    "created_at": "2017-01-29",
+    "slug": "the_swede_rides_again",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/29440.jpg",
+    "total_flavoring": "16.75%",
+    "steep_days": "0",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Rdubu",
+            "score": 5,
+            "text": "This is a great mix.  I've been mixing this for a while.  I find that a 3 to 4 day steep does well.  Thank you Kopel for a great recipe."
+        },
+        {
+            "user": "FizzChaser",
+            "score": 5,
+            "text": "This is a great candy recipe Kopel! I had to replace TPA Swedish Gummy with FW Swedish Fish but it was still delicious."
+        }
+    ]
 }

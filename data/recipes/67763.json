@@ -1,75 +1,76 @@
 {
-  "name": "Shamrock shake revisited",
-  "description": "This would be a nice cold drink with sitting around the Christmas tree on Christmas morning with your loved ones ",
-  "id": 67763,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:38.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Mint",
-      "flavor_id": "8778",
-      "millipercent": 5000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "1486",
-      "millipercent": 2500,
-      "vendor": "LB"
-    },
-    {
-      "name": "White Chocolate",
-      "flavor_id": "194",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "176",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "4",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "1779",
-  "slug": "shamrock_shake_revisited",
-  "total_flavoring": "16.0%",
-  "steep_days": "5",
-  "best_vg": "60%",
-  "temperature": "95",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Germ",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Shamrock shake revisited",
+    "description": "This would be a nice cold drink with sitting around the Christmas tree on Christmas morning with your loved ones ",
+    "id": 67763,
+    "image_url": null,
+    "updated_at": "2020-12-12T11:51:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Mint",
+            "flavor_id": "8778",
+            "millipercent": 5000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "1486",
+            "millipercent": 2500,
+            "vendor": "LB"
+        },
+        {
+            "name": "White Chocolate",
+            "flavor_id": "194",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "176",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "4",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "1783",
+    "created_at": "2017-10-11",
+    "slug": "shamrock_shake_revisited",
+    "total_flavoring": "16.0%",
+    "steep_days": "5",
+    "best_vg": "60%",
+    "temperature": "95",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Germ",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

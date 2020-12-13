@@ -1,44 +1,44 @@
 {
-  "name": "Frozen Limeade",
-  "description": "Just a nice frozen cool limeade. Simple and easy taste great on shake. Add .5% Supersweet to make it more vibrant and sweet, ",
-  "id": 75408,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/75408/6E6E28BC-8C11-496D-BC42-07AD0C3D0C07.jpeg",
-  "updated_at": "2020-12-05T14:26:19.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Key Lime",
-      "flavor_id": "1329",
-      "millipercent": 6000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Cold Pressed",
-      "flavor_id": "4891",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Menthol (liquid)",
-      "flavor_id": "1353",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "1329",
-  "slug": "frozen_limeade",
-  "total_flavoring": "11.0%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Frozen Limeade",
+    "description": "Just a nice frozen cool limeade. Simple and easy taste great on shake. Add .5% Supersweet to make it more vibrant and sweet, ",
+    "id": 75408,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/75408\/6E6E28BC-8C11-496D-BC42-07AD0C3D0C07.jpeg",
+    "updated_at": "2020-12-11T14:16:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Key Lime",
+            "flavor_id": "1329",
+            "millipercent": 6000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Cold Pressed",
+            "flavor_id": "4891",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Menthol (liquid)",
+            "flavor_id": "1353",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "1338",
+    "created_at": "2017-11-22",
+    "slug": "frozen_limeade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/75408.jpeg",
+    "total_flavoring": "11.0%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "0"
 }

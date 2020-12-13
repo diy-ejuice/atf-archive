@@ -1,56 +1,56 @@
 {
-  "name": "Dat' Cookie",
-  "description": "A legendary Sugar Cookie with sweet vanilla frosting that everyone knows and loves! Enjoy!",
-  "id": 194716,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/194716/sugar-cookies-vanilla-buttercream-03.jpg",
-  "updated_at": "2020-12-07T14:14:36.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Buttercream Frosting",
-      "flavor_id": "8990",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cookie Butter SC",
-      "flavor_id": "10406",
-      "millipercent": 1250,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 1000,
-      "vendor": "JF"
-    }
-  ],
-  "author": "Silky",
-  "views": "3181",
-  "slug": "dat_cookie",
-  "total_flavoring": "10.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Dat' Cookie",
+    "description": "A legendary Sugar Cookie with sweet vanilla frosting that everyone knows and loves! Enjoy!",
+    "id": 194716,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/194716\/sugar-cookies-vanilla-buttercream-03.jpg",
+    "updated_at": "2020-12-12T14:08:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Buttercream Frosting",
+            "flavor_id": "8990",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cookie Butter SC",
+            "flavor_id": "10406",
+            "millipercent": 1250,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 1000,
+            "vendor": "JF"
+        }
+    ],
+    "author": "Silky",
+    "views": "3186",
+    "created_at": "2020-05-17",
+    "slug": "dat_cookie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/194716.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

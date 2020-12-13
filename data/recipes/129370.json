@@ -1,56 +1,56 @@
 {
-  "name": "Holiday Cocktail",
-  "description": " \r\nThis is inspired from an online recipe Christmas Punch recipe that I saw, here is the link to actual recipe:  https://www.sugarandsoul.co/christmas-punch-recipe/\r\n\r\nA combination of of Cranberry, Pomegranate, and and Orange Juice mixed with Sprite, and (or not) Rum.  To add the extra little touch, a nice touch of Rosemary adds a special touch.  \r\n",
-  "id": 129370,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/129370/050F81DA-786B-4377-BCA5-EDA893291B9A.jpeg",
-  "updated_at": "2020-12-06T20:44:26.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime Soda SC",
-      "flavor_id": "8372",
-      "millipercent": 2000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Orange Juice",
-      "flavor_id": "8929",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Light Rum",
-      "flavor_id": "8918",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Shisha Rosemary",
-      "flavor_id": "837",
-      "millipercent": 500,
-      "vendor": "INW"
-    }
-  ],
-  "author": "TamVapes",
-  "views": "1041",
-  "slug": "holiday_cocktail",
-  "total_flavoring": "7.0%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Holiday Cocktail",
+    "description": " \r\nThis is inspired from an online recipe Christmas Punch recipe that I saw, here is the link to actual recipe:  https:\/\/www.sugarandsoul.co\/christmas-punch-recipe\/\r\n\r\nA combination of of Cranberry, Pomegranate, and and Orange Juice mixed with Sprite, and (or not) Rum.  To add the extra little touch, a nice touch of Rosemary adds a special touch.  \r\n",
+    "id": 129370,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/129370\/050F81DA-786B-4377-BCA5-EDA893291B9A.jpeg",
+    "updated_at": "2020-12-10T14:52:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime Soda SC",
+            "flavor_id": "8372",
+            "millipercent": 2000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Orange Juice",
+            "flavor_id": "8929",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Light Rum",
+            "flavor_id": "8918",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Shisha Rosemary",
+            "flavor_id": "837",
+            "millipercent": 500,
+            "vendor": "INW"
+        }
+    ],
+    "author": "TamVapes",
+    "views": "1046",
+    "created_at": "2018-11-29",
+    "slug": "holiday_cocktail",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/129370.jpeg",
+    "total_flavoring": "7.0%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

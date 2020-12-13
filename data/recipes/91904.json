@@ -1,63 +1,65 @@
 {
-  "name": "MBs Avocado Gelato ",
-  "description": "I really wanted to try to make something with Avocado cream (VT) it is a pretty solid buttery creamy profile - it does have a slight banana note that was present in all the percentages I tested at ( 1, 2 and 3) . That banana back note works in this recipe but may not work in a more savory type vape.. Adding citrus to it seems to even bring that note out more and acts as the top note . The honeysuckle and meringue add the sweetness that is needed in a gelato . and bring the vanilla galeto and avocado together in this mix .   The Key lime is the top note and well who does not like lime and avocado!   This is a a creamy light bright gelato that could easily be an ADV . The percentages are made for a RDA and profile may not be strong enough in a subohm",
-  "id": 91904,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/91904/avacadoG.JPG",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Avocado Cream",
-      "flavor_id": "8823",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Honeysuckle (pg)",
-      "flavor_id": "306",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Key Lime",
-      "flavor_id": "1329",
-      "millipercent": 750,
-      "vendor": "FW"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pistacchio (Pistachio)",
-      "flavor_id": "439",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Bean Gelato",
-      "flavor_id": "185",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "MECH_MOD_RN",
-  "views": "1410",
-  "slug": "mbs_avocado_gelato",
-  "total_flavoring": "7.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "CygnusY1",
-      "score": "5",
-      "text": "This looks interesting and delicious. Love the flavour combination. Will have to use FLV Avocado in place of FA."
-    }
-  ]
+    "name": "MBs Avocado Gelato ",
+    "description": "I really wanted to try to make something with Avocado cream (VT) it is a pretty solid buttery creamy profile - it does have a slight banana note that was present in all the percentages I tested at ( 1, 2 and 3) . That banana back note works in this recipe but may not work in a more savory type vape.. Adding citrus to it seems to even bring that note out more and acts as the top note . The honeysuckle and meringue add the sweetness that is needed in a gelato . and bring the vanilla galeto and avocado together in this mix .   The Key lime is the top note and well who does not like lime and avocado!   This is a a creamy light bright gelato that could easily be an ADV . The percentages are made for a RDA and profile may not be strong enough in a subohm",
+    "id": 91904,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/91904\/avacadoG.JPG",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Avocado Cream",
+            "flavor_id": "8823",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Honeysuckle (pg)",
+            "flavor_id": "306",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Key Lime",
+            "flavor_id": "1329",
+            "millipercent": 750,
+            "vendor": "FW"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pistacchio (Pistachio)",
+            "flavor_id": "439",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Bean Gelato",
+            "flavor_id": "185",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "MECH_MOD_RN",
+    "views": "1418",
+    "created_at": "2018-03-10",
+    "slug": "mbs_avocado_gelato",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/91904.JPG",
+    "total_flavoring": "7.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "CygnusY1",
+            "score": 5,
+            "text": "This looks interesting and delicious. Love the flavour combination. Will have to use FLV Avocado in place of FA."
+        }
+    ]
 }

@@ -1,91 +1,92 @@
 {
-  "name": "Kopps Salted Caramel Custard",
-  "description": "I like salted caramel custard its thick and creamy with alil saltiness in it so I thought that I would try and make it into a custard and the vc v1 is gonna have too steep atleast a week or 2 so the custard can bloom nicely",
-  "id": 81069,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:49:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel Candy",
-      "flavor_id": "1233",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 1500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "188",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Conradvape",
-  "views": "2131",
-  "slug": "kopps_salted_caramel_custard",
-  "total_flavoring": "16.5%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "95",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "jasone414",
-      "score": "none",
-      "text": "Kopp's Custard? Conrad, are you from Milwaukee? If you are, have you had the Butter Pecan from Leon's? That stuff is like crack to me!"
-    },
-    {
-      "user": "Billywilly",
-      "score": "none",
-      "text": "This person rating all these recipes without even mixing them is making me cringe so hard I need to wear a mouth guard. "
-    },
-    {
-      "user": "Bjorncoetsee",
-      "score": "5",
-      "text": "Looks good. Will have to try this"
-    }
-  ]
+    "name": "Kopps Salted Caramel Custard",
+    "description": "I like salted caramel custard its thick and creamy with alil saltiness in it so I thought that I would try and make it into a custard and the vc v1 is gonna have too steep atleast a week or 2 so the custard can bloom nicely",
+    "id": 81069,
+    "image_url": null,
+    "updated_at": "2020-12-12T18:29:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel Candy",
+            "flavor_id": "1233",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 1500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "188",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Conradvape",
+    "views": "2141",
+    "created_at": "2017-12-28",
+    "slug": "kopps_salted_caramel_custard",
+    "total_flavoring": "16.5%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "95",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "jasone414",
+            "score": 0,
+            "text": "Kopp's Custard? Conrad, are you from Milwaukee? If you are, have you had the Butter Pecan from Leon's? That stuff is like crack to me!"
+        },
+        {
+            "user": "Billywilly",
+            "score": 0,
+            "text": "This person rating all these recipes without even mixing them is making me cringe so hard I need to wear a mouth guard. "
+        },
+        {
+            "user": "Bjorncoetsee",
+            "score": 5,
+            "text": "Looks good. Will have to try this"
+        }
+    ]
 }

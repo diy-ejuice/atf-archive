@@ -1,51 +1,53 @@
 {
-  "name": "Kix Cerealmilk",
-  "description": "Kid tested, mother approved.\r\n\r\nKix is a lightly sweet corn cereal with just a little bit of milk.\r\n\r\nThis is not a KIX Ejuice clone which is apparently a brand.\r\n\r\nEdit: This can end up a little throaty after two to three weeks, I suggest adding .5-1% of your favorite marshmallow or 2-3 drops of TFA smooth to fluff it up a bit. Whipped cream may also help.",
-  "id": 20399,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/20399/kix.jpg",
-  "updated_at": "2020-12-07T22:31:48.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Lulzor",
-  "views": "2256",
-  "slug": "kix_cerealmilk",
-  "total_flavoring": "6.5%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "CloudChef",
-      "score": "none",
-      "text": "just let that cap cereal 27 shine huh?  Great idea i might have to try this out."
-    }
-  ]
+    "name": "Kix Cerealmilk",
+    "description": "Kid tested, mother approved.\r\n\r\nKix is a lightly sweet corn cereal with just a little bit of milk.\r\n\r\nThis is not a KIX Ejuice clone which is apparently a brand.\r\n\r\nEdit: This can end up a little throaty after two to three weeks, I suggest adding .5-1% of your favorite marshmallow or 2-3 drops of TFA smooth to fluff it up a bit. Whipped cream may also help.",
+    "id": 20399,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/20399\/kix.jpg",
+    "updated_at": "2020-12-12T09:12:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Lulzor",
+    "views": "2269",
+    "created_at": "2016-11-18",
+    "slug": "kix_cerealmilk",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/20399.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "CloudChef",
+            "score": 0,
+            "text": "just let that cap cereal 27 shine huh?  Great idea i might have to try this out."
+        }
+    ]
 }

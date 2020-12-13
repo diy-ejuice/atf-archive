@@ -1,75 +1,77 @@
 {
-  "name": "Upside!",
-  "description": "A simple but a lovely pineapple upside down cake.\r\nEnjoy,\r\n-Zesty",
-  "id": 92335,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/92335/IMG_2633.JPG",
-  "updated_at": "2020-12-08T00:50:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bakers Touch",
-      "flavor_id": "1476",
-      "millipercent": 1750,
-      "vendor": "LB"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "8554",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Liquid Amber",
-      "flavor_id": "476",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "4428",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pineapple",
-      "flavor_id": "809",
-      "millipercent": 2500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Pound Cake",
-      "flavor_id": "4306",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "ZestyVapes",
-  "views": "1941",
-  "slug": "upside",
-  "total_flavoring": "9.5%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "tw2k",
-      "score": "5",
-      "text": "Quite the delicious pineapple mix--finally a use for my LB Baker's touch. Thank you."
-    }
-  ]
+    "name": "Upside!",
+    "description": "A simple but a lovely pineapple upside down cake.\r\nEnjoy,\r\n-Zesty",
+    "id": 92335,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/92335\/IMG_2633.JPG",
+    "updated_at": "2020-12-12T11:51:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bakers Touch",
+            "flavor_id": "1476",
+            "millipercent": 1750,
+            "vendor": "LB"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "8554",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Liquid Amber",
+            "flavor_id": "476",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "4428",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pineapple",
+            "flavor_id": "809",
+            "millipercent": 2500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Pound Cake",
+            "flavor_id": "4306",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "ZestyVapes",
+    "views": "1949",
+    "created_at": "2018-03-13",
+    "slug": "upside",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/92335.JPG",
+    "total_flavoring": "9.5%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "tw2k",
+            "score": 5,
+            "text": "Quite the delicious pineapple mix--finally a use for my LB Baker's touch. Thank you."
+        }
+    ]
 }

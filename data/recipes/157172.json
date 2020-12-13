@@ -1,57 +1,59 @@
 {
-  "name": "Cucumber Melon",
-  "description": "Trying to make a good Cucumber ejuice. All comments + and - welcome!! Thanks",
-  "id": 157172,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157172/cucumber.jpeg",
-  "updated_at": "2020-12-08T00:51:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cucumber",
-      "flavor_id": "43",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cucumber",
-      "flavor_id": "558",
-      "millipercent": 3500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Kiwi",
-      "flavor_id": "1330",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "jamiez9806",
-  "views": "1207",
-  "slug": "cucumber_melon",
-  "total_flavoring": "8.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "It’s pretty good. It’s sweet and super juicy and tastes like mixed melon and cucumber, as it should. But that’s just a bit too much FA Cucumber. It gets too peel-forward and almost astringent that high as a single flavor and in this mix. I’m certain that switching those CAP and FA cucumber percentages would be a big improvement here. "
-    }
-  ]
+    "name": "Cucumber Melon",
+    "description": "Trying to make a good Cucumber ejuice. All comments + and - welcome!! Thanks",
+    "id": 157172,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/157172\/cucumber.jpeg",
+    "updated_at": "2020-12-12T18:30:30.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cucumber",
+            "flavor_id": "43",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cucumber",
+            "flavor_id": "558",
+            "millipercent": 3500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Kiwi",
+            "flavor_id": "1330",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "jamiez9806",
+    "views": "1213",
+    "created_at": "2019-06-26",
+    "slug": "cucumber_melon",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/157172.jpeg",
+    "total_flavoring": "8.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "It\u2019s pretty good. It\u2019s sweet and super juicy and tastes like mixed melon and cucumber, as it should. But that\u2019s just a bit too much FA Cucumber. It gets too peel-forward and almost astringent that high as a single flavor and in this mix. I\u2019m certain that switching those CAP and FA cucumber percentages would be a big improvement here. "
+        }
+    ]
 }

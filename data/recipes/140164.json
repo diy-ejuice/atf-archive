@@ -1,74 +1,74 @@
 {
-  "name": "Factory Fiend - RY4",
-  "description": "Really love a good RY4. This a super creamy, silky, caramel Ry4. Its good right off the shake. Picking up notes of caramel and creams, almost coffee. This dessert tobacco is so smooth.",
-  "id": 140164,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140164/RY4.jpg",
-  "updated_at": "2020-12-07T15:21:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Marzipan",
-      "flavor_id": "467",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Tatanka Tobacco",
-      "flavor_id": "4417",
-      "millipercent": 1200,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Desert Ship",
-      "flavor_id": "4877",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cured Tobacco",
-      "flavor_id": "630",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ry4 Double",
-      "flavor_id": "379",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2200,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 1500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 100,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "fadedjay1",
-  "views": "2027",
-  "slug": "factory_fiend_ry4",
-  "total_flavoring": "13.5%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "50%",
-  "temperature": "430",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Factory Fiend - RY4",
+    "description": "Really love a good RY4. This a super creamy, silky, caramel Ry4. Its good right off the shake. Picking up notes of caramel and creams, almost coffee. This dessert tobacco is so smooth.",
+    "id": 140164,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/140164\/RY4.jpg",
+    "updated_at": "2020-12-11T14:08:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Marzipan",
+            "flavor_id": "467",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Tatanka Tobacco",
+            "flavor_id": "4417",
+            "millipercent": 1200,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Desert Ship",
+            "flavor_id": "4877",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cured Tobacco",
+            "flavor_id": "630",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ry4 Double",
+            "flavor_id": "379",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2200,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 1500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 100,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "fadedjay1",
+    "views": "2037",
+    "created_at": "2019-02-22",
+    "slug": "factory_fiend_ry4",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/140164.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "50%",
+    "temperature": "430"
 }

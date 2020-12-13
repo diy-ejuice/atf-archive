@@ -1,56 +1,55 @@
 {
-  "name": "Bourbon butterscotch custard",
-  "description": "I was going for the soul custardy profile  i've never tried it but this turned out nice",
-  "id": 59678,
-  "image_url": null,
-  "updated_at": "2020-12-04T21:23:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Kentucky Bourbon",
-      "flavor_id": "361",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "1297",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Butterscotch (natural)",
-      "flavor_id": "1219",
-      "millipercent": 3500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Vanilla Ice Cream",
-      "flavor_id": "1511",
-      "millipercent": 3000,
-      "vendor": "LB"
-    },
-    {
-      "name": "Red Oak",
-      "flavor_id": "375",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Granger",
-  "views": "1207",
-  "slug": "bourbon_butterscotch_custard",
-  "total_flavoring": "12.75%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Bourbon butterscotch custard",
+    "description": "I was going for the soul custardy profile  i've never tried it but this turned out nice",
+    "id": 59678,
+    "image_url": null,
+    "updated_at": "2020-12-10T14:52:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Kentucky Bourbon",
+            "flavor_id": "361",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "1297",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Butterscotch (natural)",
+            "flavor_id": "1219",
+            "millipercent": 3500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "flavor_id": "1511",
+            "millipercent": 3000,
+            "vendor": "LB"
+        },
+        {
+            "name": "Red Oak",
+            "flavor_id": "375",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Granger",
+    "views": "1211",
+    "created_at": "2017-08-12",
+    "slug": "bourbon_butterscotch_custard",
+    "total_flavoring": "12.75%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

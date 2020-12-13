@@ -1,63 +1,65 @@
 {
-  "name": "Sweetos Caramel",
-  "description": "The caramel version of the sweet Cheetos 'Sweetos'. I love these things. Butter heavy cinnamon and caramel flavor with a kind of corn cereal back note. Adjust Super Sweet to taste but I like it pretty sweet. ",
-  "id": 96014,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/96014/e61bc0d0-cd42-4cf2-9f4c-c0c59e955c8d_1.fc58bf57f347a29ebd14b9b6ff3e0f2a.jpeg",
-  "updated_at": "2020-12-08T00:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter",
-      "flavor_id": "147",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Acetyl Pyrazine 5%",
-      "flavor_id": "1709",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cereal 27",
-      "flavor_id": "4163",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "JAXXAN",
-  "views": "1623",
-  "slug": "sweetos_caramel",
-  "total_flavoring": "7.75%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "100%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "KylezKloudz",
-      "score": "5",
-      "text": "Mixed this up for my wife and she absolutely LOVES it! So therefore I have to give it a 5... She says it's one of her new favorites an ADV for sure! Nice job! 👍👍"
-    }
-  ]
+    "name": "Sweetos Caramel",
+    "description": "The caramel version of the sweet Cheetos 'Sweetos'. I love these things. Butter heavy cinnamon and caramel flavor with a kind of corn cereal back note. Adjust Super Sweet to taste but I like it pretty sweet. ",
+    "id": 96014,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/96014\/e61bc0d0-cd42-4cf2-9f4c-c0c59e955c8d_1.fc58bf57f347a29ebd14b9b6ff3e0f2a.jpeg",
+    "updated_at": "2020-12-12T14:06:20.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter",
+            "flavor_id": "147",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Acetyl Pyrazine 5%",
+            "flavor_id": "1709",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cereal 27",
+            "flavor_id": "4163",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "JAXXAN",
+    "views": "1629",
+    "created_at": "2018-04-08",
+    "slug": "sweetos_caramel",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/96014.jpeg",
+    "total_flavoring": "7.75%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "100%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "KylezKloudz",
+            "score": 5,
+            "text": "Mixed this up for my wife and she absolutely LOVES it! So therefore I have to give it a 5... She says it's one of her new favorites an ADV for sure! Nice job! \ud83d\udc4d\ud83d\udc4d"
+        }
+    ]
 }

@@ -1,62 +1,62 @@
 {
-  "name": "Creamy Pineapple",
-  "description": "I've tried a few pineapple mixes, but was never really satisfied. This recipe smooths out the \"loud\" notes I usually get with pineapple, and adds a nice creamy groove. ",
-  "id": 123232,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/123232/Bonez_pineapple.jpg",
-  "updated_at": "2020-12-07T17:35:16.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 5000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Pineapple Juicy",
-      "flavor_id": "2166",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Bonezmcnasty",
-  "views": "2018",
-  "slug": "creamy_pineapple",
-  "total_flavoring": "11.5%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Creamy Pineapple",
+    "description": "I've tried a few pineapple mixes, but was never really satisfied. This recipe smooths out the \"loud\" notes I usually get with pineapple, and adds a nice creamy groove. ",
+    "id": 123232,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/123232\/Bonez_pineapple.jpg",
+    "updated_at": "2020-12-10T21:32:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 5000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Pineapple Juicy",
+            "flavor_id": "2166",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Bonezmcnasty",
+    "views": "2027",
+    "created_at": "2018-10-15",
+    "slug": "creamy_pineapple",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/123232.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0"
 }

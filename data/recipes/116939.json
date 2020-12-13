@@ -1,57 +1,59 @@
 {
-  "name": "My Crack",
-  "description": "This is a ADV for me it’s my crack to vaping. I go thru a bottle 60 ml in three days. Shake and vape certified.  Mixed at 70/30",
-  "id": 116939,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/116939/B445070D-EB9F-4094-A40F-890E93665DBD.jpeg",
-  "updated_at": "2020-12-08T00:50:25.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemon Lime",
-      "flavor_id": "83",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Sour Apple",
-      "flavor_id": "4379",
-      "millipercent": 4000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 500,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "DodgerFog33",
-  "views": "3277",
-  "slug": "my_crack",
-  "total_flavoring": "11.0%",
-  "steep_days": "1",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "sampleit",
-      "score": "5",
-      "text": "Just mixed this up... taste great and I’m picky!! Almost get a creamy mouthfeel bizarrely, thought it was too much apple when mixing but works great. &#xD;\nRe named daily crack on my bottle!! &#xD;\nWell done "
-    }
-  ]
+    "name": "My Crack",
+    "description": "This is a ADV for me it\u2019s my crack to vaping. I go thru a bottle 60 ml in three days. Shake and vape certified.  Mixed at 70\/30",
+    "id": 116939,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/116939\/B445070D-EB9F-4094-A40F-890E93665DBD.jpeg",
+    "updated_at": "2020-12-12T11:52:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemon Lime",
+            "flavor_id": "83",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Sour Apple",
+            "flavor_id": "4379",
+            "millipercent": 4000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 500,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "DodgerFog33",
+    "views": "3286",
+    "created_at": "2018-08-29",
+    "slug": "my_crack",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/116939.jpeg",
+    "total_flavoring": "11.0%",
+    "steep_days": "1",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "sampleit",
+            "score": 5,
+            "text": "Just mixed this up... taste great and I\u2019m picky!! Almost get a creamy mouthfeel bizarrely, thought it was too much apple when mixing but works great. &#xD;\nRe named daily crack on my bottle!! &#xD;\nWell done "
+        }
+    ]
 }

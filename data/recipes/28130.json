@@ -1,50 +1,50 @@
 {
-  "name": "Crazy Borders",
-  "description": "A fairly straight ahead, rich and tasty vanilla custard leveraging the awesomeness that is CAP VC (and JF Dulce de Leche).  Needs at least a two week steep before the magic happens.",
-  "id": 28130,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/28130/VanillaCustardPudding_600.jpg",
-  "updated_at": "2020-12-07T21:31:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 8500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dulce De Leche",
-      "flavor_id": "4575",
-      "millipercent": 2000,
-      "vendor": "JF"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Tupelo215",
-  "views": "1136",
-  "slug": "crazy_borders",
-  "total_flavoring": "14.0%",
-  "steep_days": "14",
-  "best_vg": "75%",
-  "temperature": "",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Crazy Borders",
+    "description": "A fairly straight ahead, rich and tasty vanilla custard leveraging the awesomeness that is CAP VC (and JF Dulce de Leche).  Needs at least a two week steep before the magic happens.",
+    "id": 28130,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/28130\/VanillaCustardPudding_600.jpg",
+    "updated_at": "2020-12-11T05:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 8500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dulce De Leche",
+            "flavor_id": "4575",
+            "millipercent": 2000,
+            "vendor": "JF"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Tupelo215",
+    "views": "1146",
+    "created_at": "2017-01-21",
+    "slug": "crazy_borders",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/28130.jpg",
+    "total_flavoring": "14.0%",
+    "steep_days": "14",
+    "best_vg": "75%",
+    "temperature": ""
 }

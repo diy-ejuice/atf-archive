@@ -1,50 +1,49 @@
 {
-  "name": "Peachaloupe Green Tea",
-  "description": "Quick recipe for the Mixathon.\r\n\r\nFull bodied cantaloupe green tea\r\n\r\nI really wanted to make this a milk tea, but kept it simpler.",
-  "id": 57540,
-  "image_url": null,
-  "updated_at": "2020-12-07T07:00:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "23",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 1500,
-      "vendor": "JF"
-    },
-    {
-      "name": "Peach",
-      "flavor_id": "804",
-      "millipercent": 1200,
-      "vendor": "INW"
-    },
-    {
-      "name": "Green Tea",
-      "flavor_id": "1640",
-      "millipercent": 500,
-      "vendor": "FE"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 600,
-      "vendor": "INW"
-    }
-  ],
-  "author": "DIYorDIEMixathon",
-  "views": "959",
-  "slug": "peachaloupe_green_tea",
-  "total_flavoring": "6.3%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peachaloupe Green Tea",
+    "description": "Quick recipe for the Mixathon.\r\n\r\nFull bodied cantaloupe green tea\r\n\r\nI really wanted to make this a milk tea, but kept it simpler.",
+    "id": 57540,
+    "image_url": null,
+    "updated_at": "2020-12-11T14:07:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "23",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 1500,
+            "vendor": "JF"
+        },
+        {
+            "name": "Peach",
+            "flavor_id": "804",
+            "millipercent": 1200,
+            "vendor": "INW"
+        },
+        {
+            "name": "Green Tea",
+            "flavor_id": "1640",
+            "millipercent": 500,
+            "vendor": "FE"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 600,
+            "vendor": "INW"
+        }
+    ],
+    "author": "DIYorDIEMixathon",
+    "views": "964",
+    "created_at": "2017-07-29",
+    "slug": "peachaloupe_green_tea",
+    "total_flavoring": "6.3%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

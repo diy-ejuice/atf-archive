@@ -1,50 +1,50 @@
 {
-  "name": "Gs thin Mint",
-  "description": "I know there are 100 different recipes out there for this particular Girl Scout cookie. But none of them have the king of chocolate Baker's flavors chocolate truffle.\r\n\r\nThe chocolate truffle is the perfect chocolate for this recipe it blends perfectly with FLV creme de menthe.\r\n\r\nThe rest is self-explanatory fa cookie gives you a nice buttery cookie with a Crips snap add in a touch of JF biscuit and a splash of vanilla and you have the perfect thin mint cookie.",
-  "id": 24377,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/24377/20161228_155901.jpg",
-  "updated_at": "2020-12-07T05:56:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "631",
-      "millipercent": 2000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Chocolate Truffle",
-      "flavor_id": "3977",
-      "millipercent": 750,
-      "vendor": "BF"
-    },
-    {
-      "name": "Madagascar (Vanilla Classic)",
-      "flavor_id": "526",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "4487",
-      "millipercent": 500,
-      "vendor": "JF"
-    }
-  ],
-  "author": "Chrisdvr1",
-  "views": "3001",
-  "slug": "gs_thin_mint",
-  "total_flavoring": "6.25%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Gs thin Mint",
+    "description": "I know there are 100 different recipes out there for this particular Girl Scout cookie. But none of them have the king of chocolate Baker's flavors chocolate truffle.\r\n\r\nThe chocolate truffle is the perfect chocolate for this recipe it blends perfectly with FLV creme de menthe.\r\n\r\nThe rest is self-explanatory fa cookie gives you a nice buttery cookie with a Crips snap add in a touch of JF biscuit and a splash of vanilla and you have the perfect thin mint cookie.",
+    "id": 24377,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/24377\/20161228_155901.jpg",
+    "updated_at": "2020-12-12T10:14:11.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "631",
+            "millipercent": 2000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Chocolate Truffle",
+            "flavor_id": "3977",
+            "millipercent": 750,
+            "vendor": "BF"
+        },
+        {
+            "name": "Madagascar (Vanilla Classic)",
+            "flavor_id": "526",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "4487",
+            "millipercent": 500,
+            "vendor": "JF"
+        }
+    ],
+    "author": "Chrisdvr1",
+    "views": "3011",
+    "created_at": "2016-12-28",
+    "slug": "gs_thin_mint",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/24377.jpg",
+    "total_flavoring": "6.25%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

@@ -1,63 +1,65 @@
 {
-  "name": "Hurricane | Developed",
-  "description": "This is a collaborative creation by DEVELOPED: Skiddlz, AlfredPudding, Max Savage, Graham, and folkart. \r\nThis is based off of the cocktail the hurricane, a fresh tropical concoction that is just as delightful as the real deal. Full Development Notes on DEVELOPED Ep. 4 https://youtu.be/qeWQsaLEaVE\r\n\r\nOur weekly episodes will be released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST https://www.youtube.com/c/developedDIY\r\n\r\n",
-  "id": 136614,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/136614/HURRICANE_ATF2.png",
-  "updated_at": "2020-12-08T00:50:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Pomegranate",
-      "flavor_id": "418",
-      "millipercent": 250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Passionfruit SC",
-      "flavor_id": "10100",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Persian Lime",
-      "flavor_id": "8942",
-      "millipercent": 750,
-      "vendor": "VT"
-    },
-    {
-      "name": "Royal Orange Juice",
-      "flavor_id": "7700",
-      "millipercent": 2750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Light Rum",
-      "flavor_id": "8918",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Jamaica Special (jamaica Rhum)",
-      "flavor_id": "521",
-      "millipercent": 1500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Developed",
-  "views": "2282",
-  "slug": "hurricane_developed",
-  "total_flavoring": "9.25%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "kroganeater",
-      "score": "5",
-      "text": "Just mixed this up and this tastes and smells incredible. It is amazing how that little amount  of pomegranate turns into grenadine on this mix.  This is very very very good."
-    }
-  ]
+    "name": "Hurricane | Developed",
+    "description": "This is a collaborative creation by DEVELOPED: Skiddlz, AlfredPudding, Max Savage, Graham, and folkart. \r\nThis is based off of the cocktail the hurricane, a fresh tropical concoction that is just as delightful as the real deal. Full Development Notes on DEVELOPED Ep. 4 https:\/\/youtu.be\/qeWQsaLEaVE\r\n\r\nOur weekly episodes will be released at 6:00pm EST every Tuesday, and catch our live shows every Thursday at 6pm EST https:\/\/www.youtube.com\/c\/developedDIY\r\n\r\n",
+    "id": 136614,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/136614\/HURRICANE_ATF2.png",
+    "updated_at": "2020-12-12T08:13:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Pomegranate",
+            "flavor_id": "418",
+            "millipercent": 250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Passionfruit SC",
+            "flavor_id": "10100",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Persian Lime",
+            "flavor_id": "8942",
+            "millipercent": 750,
+            "vendor": "VT"
+        },
+        {
+            "name": "Royal Orange Juice",
+            "flavor_id": "7700",
+            "millipercent": 2750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Light Rum",
+            "flavor_id": "8918",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Jamaica Special (jamaica Rhum)",
+            "flavor_id": "521",
+            "millipercent": 1500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Developed",
+    "views": "2296",
+    "created_at": "2019-01-26",
+    "slug": "hurricane_developed",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/136614.png",
+    "total_flavoring": "9.25%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "kroganeater",
+            "score": 5,
+            "text": "Just mixed this up and this tastes and smells incredible. It is amazing how that little amount  of pomegranate turns into grenadine on this mix.  This is very very very good."
+        }
+    ]
 }

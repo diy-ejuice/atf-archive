@@ -1,56 +1,56 @@
 {
-  "name": "Peach Lemonade",
-  "description": "Chilly Peachy Lemonade, plain and simple. \r\n\r\nI know, I know, LA Lemonade and FA Lemon Sicily is the top dog for lemonade juices. But, trying out new things is too fun! ",
-  "id": 122361,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/122361/clean-eating-georgia-peach-lemonade-fb.jpg",
-  "updated_at": "2020-12-07T20:32:46.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Lemonade",
-      "flavor_id": "951",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Lemon",
-      "flavor_id": "1655",
-      "millipercent": 750,
-      "vendor": "FE"
-    },
-    {
-      "name": "Honey Peach",
-      "flavor_id": "4561",
-      "millipercent": 750,
-      "vendor": "JF"
-    },
-    {
-      "name": "Peach White",
-      "flavor_id": "543",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peach (juicy)",
-      "flavor_id": "254",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 750,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "eyemakepizza",
-  "views": "1980",
-  "slug": "peach_lemonade",
-  "total_flavoring": "9.25%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Peach Lemonade",
+    "description": "Chilly Peachy Lemonade, plain and simple. \r\n\r\nI know, I know, LA Lemonade and FA Lemon Sicily is the top dog for lemonade juices. But, trying out new things is too fun! ",
+    "id": 122361,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/122361\/clean-eating-georgia-peach-lemonade-fb.jpg",
+    "updated_at": "2020-12-12T11:52:17.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Lemonade",
+            "flavor_id": "951",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Lemon",
+            "flavor_id": "1655",
+            "millipercent": 750,
+            "vendor": "FE"
+        },
+        {
+            "name": "Honey Peach",
+            "flavor_id": "4561",
+            "millipercent": 750,
+            "vendor": "JF"
+        },
+        {
+            "name": "Peach White",
+            "flavor_id": "543",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peach (juicy)",
+            "flavor_id": "254",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 750,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "eyemakepizza",
+    "views": "1993",
+    "created_at": "2018-10-08",
+    "slug": "peach_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/122361.jpg",
+    "total_flavoring": "9.25%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

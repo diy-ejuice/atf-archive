@@ -1,44 +1,44 @@
 {
-  "name": "Strawberry Lemonade",
-  "description": "                   SHAKE AND VAPE!! \r\n  This is a simple, delicious strawberry lemonade. Harnessing the power of Real Flavor's super concentrated strawberry lemonade with a touch of Flavor Art's lemon sicily for added authenticity. Topped off with a bit of sweetener for that delicious homemade  lemonade taste. \r\n     You can add 1 drop per 5ml of Koolada for the cooling effect of a chilled drink. ",
-  "id": 46852,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/46852/20170724_115618.png",
-  "updated_at": "2020-12-07T17:34:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Strawberry Lemonade - SC",
-      "flavor_id": "7729",
-      "millipercent": 2000,
-      "vendor": "RF"
-    },
-    {
-      "name": "Lemon Sicily",
-      "flavor_id": "524",
-      "millipercent": 700,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry Lemonade",
-      "flavor_id": "1423",
-      "millipercent": 3000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Blackblade",
-  "views": "2425",
-  "slug": "strawberry_lemonade",
-  "total_flavoring": "7.7%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Lemonade",
+    "description": "                   SHAKE AND VAPE!! \r\n  This is a simple, delicious strawberry lemonade. Harnessing the power of Real Flavor's super concentrated strawberry lemonade with a touch of Flavor Art's lemon sicily for added authenticity. Topped off with a bit of sweetener for that delicious homemade  lemonade taste. \r\n     You can add 1 drop per 5ml of Koolada for the cooling effect of a chilled drink. ",
+    "id": 46852,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/46852\/20170724_115618.png",
+    "updated_at": "2020-12-11T06:43:13.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Strawberry Lemonade - SC",
+            "flavor_id": "7729",
+            "millipercent": 2000,
+            "vendor": "RF"
+        },
+        {
+            "name": "Lemon Sicily",
+            "flavor_id": "524",
+            "millipercent": 700,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry Lemonade",
+            "flavor_id": "1423",
+            "millipercent": 3000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Blackblade",
+    "views": "2430",
+    "created_at": "2017-05-19",
+    "slug": "strawberry_lemonade",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/46852.png",
+    "total_flavoring": "7.7%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

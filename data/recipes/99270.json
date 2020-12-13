@@ -1,75 +1,77 @@
 {
-  "name": "Banana Milk and Honey",
-  "description": "Very nice smooth and creamy banana milk with honey , after 5 days steep it's very delicious.",
-  "id": 99270,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/99270/Banana-Honey-1.jpg",
-  "updated_at": "2020-12-08T00:50:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "210",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Milk Chocolate",
-      "flavor_id": "796",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Graham Cracker Clear",
-      "flavor_id": "325",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 150,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "TastyVapez",
-  "views": "2900",
-  "slug": "banana_milk_and_honey",
-  "total_flavoring": "14.15%",
-  "steep_days": "5",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "5",
-      "text": "love this, after 2 weeks it's really really delicious"
-    }
-  ]
+    "name": "Banana Milk and Honey",
+    "description": "Very nice smooth and creamy banana milk with honey , after 5 days steep it's very delicious.",
+    "id": 99270,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/99270\/Banana-Honey-1.jpg",
+    "updated_at": "2020-12-12T15:39:56.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "210",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Milk Chocolate",
+            "flavor_id": "796",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Graham Cracker Clear",
+            "flavor_id": "325",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 150,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "TastyVapez",
+    "views": "2909",
+    "created_at": "2018-05-02",
+    "slug": "banana_milk_and_honey",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/99270.jpg",
+    "total_flavoring": "14.15%",
+    "steep_days": "5",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 5,
+            "text": "love this, after 2 weeks it's really really delicious"
+        }
+    ]
 }

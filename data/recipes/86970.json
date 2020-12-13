@@ -1,69 +1,71 @@
 {
-  "name": "Bad Monkey",
-  "description": "A rich banana pudding lightly drizzled with butterscotch and salted caramel. ",
-  "id": 86970,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/86970/41pYBgXNlBL._SX355_.jpg",
-  "updated_at": "2020-12-08T00:49:55.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 5000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Creme Brulee (yc)",
-      "flavor_id": "894",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Caramel (salted)",
-      "flavor_id": "1232",
-      "millipercent": 2000,
-      "vendor": "FW"
-    }
-  ],
-  "author": "Apexified",
-  "views": "2190",
-  "slug": "bad_monkey",
-  "total_flavoring": "16.0%",
-  "steep_days": "3",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "AlfredPudding",
-      "score": "5",
-      "text": "I ordered all of the flavors to make this, but unfortunately I couldn't use my bottle of Creme Brulee. Outside of that omission I mixed it exactly as the recipe required. The first thing I noticed about this is the delicious combination of caramel and butterscotch ripple that blends perfectly into the banana custard. I was a bit worried about the banana being too candy-like, but it was nailed extremely well. Finally, the duo of Bavarian Cream and Vanilla Custard is wonderful and I enjoyed it immensely in this application."
-    }
-  ]
+    "name": "Bad Monkey",
+    "description": "A rich banana pudding lightly drizzled with butterscotch and salted caramel. ",
+    "id": 86970,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/86970\/41pYBgXNlBL._SX355_.jpg",
+    "updated_at": "2020-12-12T08:13:16.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 5000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Creme Brulee (yc)",
+            "flavor_id": "894",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Caramel (salted)",
+            "flavor_id": "1232",
+            "millipercent": 2000,
+            "vendor": "FW"
+        }
+    ],
+    "author": "Apexified",
+    "views": "2210",
+    "created_at": "2018-02-04",
+    "slug": "bad_monkey",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/86970.jpg",
+    "total_flavoring": "16.0%",
+    "steep_days": "3",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "AlfredPudding",
+            "score": 5,
+            "text": "I ordered all of the flavors to make this, but unfortunately I couldn't use my bottle of Creme Brulee. Outside of that omission I mixed it exactly as the recipe required. The first thing I noticed about this is the delicious combination of caramel and butterscotch ripple that blends perfectly into the banana custard. I was a bit worried about the banana being too candy-like, but it was nailed extremely well. Finally, the duo of Bavarian Cream and Vanilla Custard is wonderful and I enjoyed it immensely in this application."
+        }
+    ]
 }

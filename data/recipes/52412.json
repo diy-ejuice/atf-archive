@@ -1,68 +1,68 @@
 {
-  "name": "Cool Blue Mornings",
-  "description": "Weekend Assignment - *Blue*\r\nShake & Vape certified, best after 24hrs to round out\r\n\r\nWhen I think of the color blue, I think of a light, bright blue. So what would blue taste like to me? To put it simple... refreshing! Like a crisp winter sky. Now to emulate that into a flavor...\r\nI used FW Blueberry, but at 3.25% it's not what you are tasting here. It's a thick syrup style blueberry that is giving the HS something to sit on top of and give it some body. HS is a bright, very candied Blueberry and these two combined is very good if candy is what you're after. The jelly candy/marshmallow/Swedish gummy is to give this a chewy candy base, like a soft cloud and the whipped cream helps round the sharpness out. Sweeten it up, drop in some extreme ice, and you have my idea of blue. A cool, sky blue gummy candy that's as refreshing as it is good. \r\n**If you don't want a slight menthol note, sub the extreme ice with 1 drop koolada per 10ml or any other cooling agent...but the Menthol/mint in extreme ice adds an interesting touch.",
-  "id": 52412,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/52412/tumblr_nly72aeKdX1u4asiqo1_1280.jpg",
-  "updated_at": "2020-12-06T12:54:43.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry",
-      "flavor_id": "2076",
-      "millipercent": 1250,
-      "vendor": "HS"
-    },
-    {
-      "name": "Blueberry",
-      "flavor_id": "1201",
-      "millipercent": 3250,
-      "vendor": "FW"
-    },
-    {
-      "name": "Extreme Ice",
-      "flavor_id": "1280",
-      "millipercent": 500,
-      "vendor": "FW"
-    },
-    {
-      "name": "Jelly Candy",
-      "flavor_id": "2170",
-      "millipercent": 1250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Swedish Gummy",
-      "flavor_id": "337",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Gachatay",
-  "views": "1868",
-  "slug": "cool_blue_mornings",
-  "total_flavoring": "9.0%",
-  "steep_days": "2 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Cool Blue Mornings",
+    "description": "Weekend Assignment - *Blue*\r\nShake & Vape certified, best after 24hrs to round out\r\n\r\nWhen I think of the color blue, I think of a light, bright blue. So what would blue taste like to me? To put it simple... refreshing! Like a crisp winter sky. Now to emulate that into a flavor...\r\nI used FW Blueberry, but at 3.25% it's not what you are tasting here. It's a thick syrup style blueberry that is giving the HS something to sit on top of and give it some body. HS is a bright, very candied Blueberry and these two combined is very good if candy is what you're after. The jelly candy\/marshmallow\/Swedish gummy is to give this a chewy candy base, like a soft cloud and the whipped cream helps round the sharpness out. Sweeten it up, drop in some extreme ice, and you have my idea of blue. A cool, sky blue gummy candy that's as refreshing as it is good. \r\n**If you don't want a slight menthol note, sub the extreme ice with 1 drop koolada per 10ml or any other cooling agent...but the Menthol\/mint in extreme ice adds an interesting touch.",
+    "id": 52412,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/52412\/tumblr_nly72aeKdX1u4asiqo1_1280.jpg",
+    "updated_at": "2020-12-10T17:56:45.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry",
+            "flavor_id": "2076",
+            "millipercent": 1250,
+            "vendor": "HS"
+        },
+        {
+            "name": "Blueberry",
+            "flavor_id": "1201",
+            "millipercent": 3250,
+            "vendor": "FW"
+        },
+        {
+            "name": "Extreme Ice",
+            "flavor_id": "1280",
+            "millipercent": 500,
+            "vendor": "FW"
+        },
+        {
+            "name": "Jelly Candy",
+            "flavor_id": "2170",
+            "millipercent": 1250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Swedish Gummy",
+            "flavor_id": "337",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Gachatay",
+    "views": "1872",
+    "created_at": "2017-06-24",
+    "slug": "cool_blue_mornings",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/52412.jpg",
+    "total_flavoring": "9.0%",
+    "steep_days": "2 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

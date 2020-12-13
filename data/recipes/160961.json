@@ -1,56 +1,55 @@
 {
-  "name": "Spry Party",
-  "description": "Tart Cherry, Strawberry, Dragon Fruit , Sweetener, Powerful Sour \r\nTest suprise",
-  "id": 160961,
-  "image_url": null,
-  "updated_at": "2020-12-01T02:15:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Tart Cherry",
-      "flavor_id": "10052",
-      "millipercent": 6000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dragon Fruit",
-      "flavor_id": "9953",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweetener",
-      "flavor_id": "339",
-      "millipercent": 250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Powerful Sour",
-      "flavor_id": "10054",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Koolada 10 Pg",
-      "flavor_id": "280",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Volfgam",
-  "views": "589",
-  "slug": "spry_party",
-  "total_flavoring": "11.25%",
-  "steep_days": "3",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Spry Party",
+    "description": "Tart Cherry, Strawberry, Dragon Fruit , Sweetener, Powerful Sour \r\nTest suprise",
+    "id": 160961,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:46:12.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Tart Cherry",
+            "flavor_id": "10052",
+            "millipercent": 6000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dragon Fruit",
+            "flavor_id": "9953",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweetener",
+            "flavor_id": "339",
+            "millipercent": 250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Powerful Sour",
+            "flavor_id": "10054",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Koolada 10 Pg",
+            "flavor_id": "280",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Volfgam",
+    "views": "593",
+    "created_at": "2019-07-27",
+    "slug": "spry_party",
+    "total_flavoring": "11.25%",
+    "steep_days": "3",
+    "best_vg": "0%",
+    "temperature": "0"
 }

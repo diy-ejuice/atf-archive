@@ -1,44 +1,44 @@
 {
-  "name": "WCSB",
-  "description": "Wet, cold, spicy, bitter.\r\nJust like your ex-girlfriend.\r\n\r\nIts actually not bitter at all. Just juicy, spiced grapefruit without the grapefruit bite.\r\n\r\nI was trying to make something terrible but failed. Enjoy.",
-  "id": 182918,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/182918/20200130_013006.jpg",
-  "updated_at": "2020-12-07T17:36:10.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    },
-    {
-      "name": "Cactus",
-      "flavor_id": "647",
-      "millipercent": 750,
-      "vendor": "INW"
-    },
-    {
-      "name": "Apple Filling",
-      "flavor_id": "4376",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "RainbowDragon",
-  "views": "677",
-  "slug": "wcsb",
-  "total_flavoring": "6.25%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "WCSB",
+    "description": "Wet, cold, spicy, bitter.\r\nJust like your ex-girlfriend.\r\n\r\nIts actually not bitter at all. Just juicy, spiced grapefruit without the grapefruit bite.\r\n\r\nI was trying to make something terrible but failed. Enjoy.",
+    "id": 182918,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/182918\/20200130_013006.jpg",
+    "updated_at": "2020-12-10T16:01:41.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        },
+        {
+            "name": "Cactus",
+            "flavor_id": "647",
+            "millipercent": 750,
+            "vendor": "INW"
+        },
+        {
+            "name": "Apple Filling",
+            "flavor_id": "4376",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "RainbowDragon",
+    "views": "685",
+    "created_at": "2020-01-30",
+    "slug": "wcsb",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/182918.jpg",
+    "total_flavoring": "6.25%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

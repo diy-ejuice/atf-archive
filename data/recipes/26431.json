@@ -1,50 +1,50 @@
 {
-  "name": "Strawberry Milkshake By: Boogenshizzle",
-  "description": "\r\nOk so let's talk Milkshake. When in doubt, look at a food recipe and keep it simple. \r\n4% Strawberry ripe for the texture and body of the strawberry\r\n2% Strawberry Shisha to help the Strawberry Ripe pop\r\n2% Vanilla bean ice cream for the nice start of the ice cream\r\n.5% Dairy/Milk to give the dairy factor and help the ice cream.\r\n.8% Vienna Cream to richen up the vbic and give it extra texture. \r\nSteep 2 weeks. This will hold it's flavor over a long period of time. ",
-  "id": 26431,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/26431/Strawberry_Milkshake.jpg",
-  "updated_at": "2020-12-06T02:07:22.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Shisha Strawberry",
-      "flavor_id": "1711",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Dairy/Milk",
-      "flavor_id": "2164",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vienna Cream",
-      "flavor_id": "516",
-      "millipercent": 800,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Boogenshizzle",
-  "views": "2945",
-  "slug": "strawberry_milkshake_by_boogenshizzle",
-  "total_flavoring": "9.3%",
-  "steep_days": "14",
-  "best_vg": "80%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Strawberry Milkshake By: Boogenshizzle",
+    "description": "\r\nOk so let's talk Milkshake. When in doubt, look at a food recipe and keep it simple. \r\n4% Strawberry ripe for the texture and body of the strawberry\r\n2% Strawberry Shisha to help the Strawberry Ripe pop\r\n2% Vanilla bean ice cream for the nice start of the ice cream\r\n.5% Dairy\/Milk to give the dairy factor and help the ice cream.\r\n.8% Vienna Cream to richen up the vbic and give it extra texture. \r\nSteep 2 weeks. This will hold it's flavor over a long period of time. ",
+    "id": 26431,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/26431\/Strawberry_Milkshake.jpg",
+    "updated_at": "2020-12-11T15:01:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Shisha Strawberry",
+            "flavor_id": "1711",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Dairy\/Milk",
+            "flavor_id": "2164",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vienna Cream",
+            "flavor_id": "516",
+            "millipercent": 800,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Boogenshizzle",
+    "views": "2960",
+    "created_at": "2017-01-13",
+    "slug": "strawberry_milkshake_by_boogenshizzle",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/26431.jpg",
+    "total_flavoring": "9.3%",
+    "steep_days": "14",
+    "best_vg": "80%",
+    "temperature": "0"
 }

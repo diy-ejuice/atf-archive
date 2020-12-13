@@ -1,63 +1,65 @@
 {
-  "name": "All Day 2.0",
-  "description": "A Juicy Hazy IPA.\r\nRevised version of All Day with newer flavors.",
-  "id": 185555,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/185555/hazy_IPA_Hero.jpg",
-  "updated_at": "2020-12-08T00:51:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Citrus Soda",
-      "flavor_id": "10083",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Guanabana",
-      "flavor_id": "4427",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Ruby Red Grapefruit",
-      "flavor_id": "1404",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Ripe Pear SC",
-      "flavor_id": "9040",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Yakima Hops",
-      "flavor_id": "3478",
-      "millipercent": 2500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 500,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "MaxSavage",
-  "views": "1243",
-  "slug": "all_day_20",
-  "total_flavoring": "8.0%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Deftohms",
-      "score": "5",
-      "text": "I mean yeh this tastes exactly like an ipa right off the shake, pairs really well with ipa's too. That flv yakima hops is so spot on its freaky. Thanks for this one mang"
-    }
-  ]
+    "name": "All Day 2.0",
+    "description": "A Juicy Hazy IPA.\r\nRevised version of All Day with newer flavors.",
+    "id": 185555,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/185555\/hazy_IPA_Hero.jpg",
+    "updated_at": "2020-12-12T08:14:44.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Citrus Soda",
+            "flavor_id": "10083",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Guanabana",
+            "flavor_id": "4427",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Ruby Red Grapefruit",
+            "flavor_id": "1404",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Ripe Pear SC",
+            "flavor_id": "9040",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Yakima Hops",
+            "flavor_id": "3478",
+            "millipercent": 2500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 500,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "MaxSavage",
+    "views": "1261",
+    "created_at": "2020-02-22",
+    "slug": "all_day_20",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/185555.jpg",
+    "total_flavoring": "8.0%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Deftohms",
+            "score": 5,
+            "text": "I mean yeh this tastes exactly like an ipa right off the shake, pairs really well with ipa's too. That flv yakima hops is so spot on its freaky. Thanks for this one mang"
+        }
+    ]
 }

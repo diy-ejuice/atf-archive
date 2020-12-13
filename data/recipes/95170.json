@@ -1,67 +1,69 @@
 {
-  "name": "Zeppole ala Creme",
-  "description": "Nice and simple cream filled doughnut. I did not use sweetener since zeppola is pretty sweet on its own but please sweeten to taste. It is a doughnut after all.😂\r\n7 day steep.\r\nEnjoy",
-  "id": 95170,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95170/image.jpeg",
-  "updated_at": "2020-12-08T00:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "473",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 3000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "heatho72",
-  "views": "3298",
-  "slug": "zeppole_ala_creme",
-  "total_flavoring": "6.25%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 3,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "cincinnatiking",
-      "score": "5",
-      "text": "Very good recipe. It's exactly what it says it is. A nice creamy doughnut! Great recipe as always heatho! I would have rated it when I first mixed it, but I just got a subscription."
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "Definitely one of the better vanilla cream donut recipes out there, and definitely worth a second mix."
-    },
-    {
-      "user": "6retro6",
-      "score": "5",
-      "text": "Wonderful recipe, so tasty. Thanks for sharing! Already made 240ml and it's definitely in my rotation now."
-    }
-  ]
+    "name": "Zeppole ala Creme",
+    "description": "Nice and simple cream filled doughnut. I did not use sweetener since zeppola is pretty sweet on its own but please sweeten to taste. It is a doughnut after all.\ud83d\ude02\r\n7 day steep.\r\nEnjoy",
+    "id": 95170,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/95170\/image.jpeg",
+    "updated_at": "2020-12-12T11:51:46.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "473",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 3000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "heatho72",
+    "views": "3309",
+    "created_at": "2018-04-02",
+    "slug": "zeppole_ala_creme",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/95170.jpeg",
+    "total_flavoring": "6.25%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 3,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "cincinnatiking",
+            "score": 5,
+            "text": "Very good recipe. It's exactly what it says it is. A nice creamy doughnut! Great recipe as always heatho! I would have rated it when I first mixed it, but I just got a subscription."
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "Definitely one of the better vanilla cream donut recipes out there, and definitely worth a second mix."
+        },
+        {
+            "user": "6retro6",
+            "score": 5,
+            "text": "Wonderful recipe, so tasty. Thanks for sharing! Already made 240ml and it's definitely in my rotation now."
+        }
+    ]
 }

@@ -1,128 +1,130 @@
 {
-  "name": "Caramel Swirl Ice Cream",
-  "description": "Simple Vanilla Swirl Ice cream with a Caramel topping, nothing fancy but very yummy.\r\nI was aiming for the Caramel Ice Cream from KFC it has fudge bits at the bottom and when you bite into them you get this yummy Butterscotch Caramel and Toffee taste mixed with the Vanilla Ice Cream, mixing TFA Vanilla Swirl, FA Caramel and TFA VBIC gave me the Butterscotch note i was after, i used FA Caramel for the soft cracked sauce and it worked great.\r\n\r\n",
-  "id": 72323,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/72323/7942aab9496326154af6c64cc46b0447--food-hacks-apple-pies.jpg",
-  "updated_at": "2020-12-08T00:49:41.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Carmel (caramel)",
-      "flavor_id": "503",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "183",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "WOODSY",
-  "views": "12437",
-  "slug": "caramel_swirl_ice_cream",
-  "total_flavoring": "11.0%",
-  "steep_days": "7",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 14,
-  "recipe_score": 4.4,
-  "reviews": [
-    {
-      "user": "alexmori",
-      "score": "5",
-      "text": "Very nice flavor. I didn't add sweetener but it didn't need it. It's very sweet on it's own. "
-    },
-    {
-      "user": "goosegirl",
-      "score": "4",
-      "text": "I enjoyed the overall flavor, but it was just too sweet for me.  I will make it again, but will leave out the Super Sweet."
-    },
-    {
-      "user": "ianerb",
-      "score": "4",
-      "text": "Into another 100ml of this. Very sweet, let it steep"
-    },
-    {
-      "user": "BigFoot1",
-      "score": "5",
-      "text": "I didnt get taste this at the 7 day mark. So its been 16 days steeping. So if anyone wants to know if it can hang in there for longer steep times. It most certainly can. Although i enjoy it. I get more vanilla than caramel just as picture would be. I read down the reviews and some say to add sweetner. It may make things pop more but I think its already sticky sweet. I give it 5 stars"
-    },
-    {
-      "user": "ancient7",
-      "score": "1",
-      "text": ""
-    },
-    {
-      "user": "bjorama",
-      "score": "5",
-      "text": "I can't stop vaping this.  Excellent vanilla with caramel hanging on after the exhale.  Definitely a shake and vape.  Im not disciplined enough to let this steep! "
-    },
-    {
-      "user": "HerrHut",
-      "score": "4",
-      "text": ""
-    },
-    {
-      "user": "yeahIvape",
-      "score": "5",
-      "text": "Freaking amazing, at only a 3 day steep, had to make another bottle to let it steep longer because I am going to blow through this. Tastes dead on thanks !"
-    },
-    {
-      "user": "nks",
-      "score": "5",
-      "text": "fantastic taste but for my personal taste it needs 20 days steeping.good job!"
-    },
-    {
-      "user": "KylezKloudz",
-      "score": "5",
-      "text": "Great recipe! 👍👍 Nice, sweet and simply to the point... Mixed this up for the wife and I and we both love it! Great job!"
-    },
-    {
-      "user": "cdaniell30",
-      "score": "5",
-      "text": "I love how dark the caramel and vanilla in this end up tasting.  I love this exactly as it is, but if you want it to taste more like what's shown in the pic then CAP VBIC is probably the ticket."
-    },
-    {
-      "user": "mlNikon",
-      "score": "5",
-      "text": "Very tasty! For some reason, I thought I reviewed this already but I didn't. This is a very delicious mix! "
-    },
-    {
-      "user": "ooooNaSuGamisoooo",
-      "score": "5",
-      "text": "Awesome.... caramel goodness!&#xD;\nI'll drop the super sweet next time at 0.20% &#xD;\n&#xD;\nfive stars!!!&#xD;\nwell done!!!"
-    },
-    {
-      "user": "Jerikorayne",
-      "score": "4",
-      "text": "This is a very good recipe I would drop the tfa. Sweeter for maybe cap.super sweet 0.25% and drop the marshmallow &#xD;\nI didn't even let this steep it was good off the shake so it came to work with me! "
-    }
-  ]
+    "name": "Caramel Swirl Ice Cream",
+    "description": "Simple Vanilla Swirl Ice cream with a Caramel topping, nothing fancy but very yummy.\r\nI was aiming for the Caramel Ice Cream from KFC it has fudge bits at the bottom and when you bite into them you get this yummy Butterscotch Caramel and Toffee taste mixed with the Vanilla Ice Cream, mixing TFA Vanilla Swirl, FA Caramel and TFA VBIC gave me the Butterscotch note i was after, i used FA Caramel for the soft cracked sauce and it worked great.\r\n\r\n",
+    "id": 72323,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/72323\/7942aab9496326154af6c64cc46b0447--food-hacks-apple-pies.jpg",
+    "updated_at": "2020-12-12T14:05:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Carmel (caramel)",
+            "flavor_id": "503",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "183",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "WOODSY",
+    "views": "12459",
+    "created_at": "2017-11-04",
+    "slug": "caramel_swirl_ice_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/72323.jpg",
+    "total_flavoring": "11.0%",
+    "steep_days": "7",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 14,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "alexmori",
+            "score": 5,
+            "text": "Very nice flavor. I didn't add sweetener but it didn't need it. It's very sweet on it's own. "
+        },
+        {
+            "user": "goosegirl",
+            "score": 4,
+            "text": "I enjoyed the overall flavor, but it was just too sweet for me.  I will make it again, but will leave out the Super Sweet."
+        },
+        {
+            "user": "ianerb",
+            "score": 4,
+            "text": "Into another 100ml of this. Very sweet, let it steep"
+        },
+        {
+            "user": "BigFoot1",
+            "score": 5,
+            "text": "I didnt get taste this at the 7 day mark. So its been 16 days steeping. So if anyone wants to know if it can hang in there for longer steep times. It most certainly can. Although i enjoy it. I get more vanilla than caramel just as picture would be. I read down the reviews and some say to add sweetner. It may make things pop more but I think its already sticky sweet. I give it 5 stars"
+        },
+        {
+            "user": "ancient7",
+            "score": 1,
+            "text": ""
+        },
+        {
+            "user": "bjorama",
+            "score": 5,
+            "text": "I can't stop vaping this.  Excellent vanilla with caramel hanging on after the exhale.  Definitely a shake and vape.  Im not disciplined enough to let this steep! "
+        },
+        {
+            "user": "HerrHut",
+            "score": 4,
+            "text": ""
+        },
+        {
+            "user": "yeahIvape",
+            "score": 5,
+            "text": "Freaking amazing, at only a 3 day steep, had to make another bottle to let it steep longer because I am going to blow through this. Tastes dead on thanks !"
+        },
+        {
+            "user": "nks",
+            "score": 5,
+            "text": "fantastic taste but for my personal taste it needs 20 days steeping.good job!"
+        },
+        {
+            "user": "KylezKloudz",
+            "score": 5,
+            "text": "Great recipe! \ud83d\udc4d\ud83d\udc4d Nice, sweet and simply to the point... Mixed this up for the wife and I and we both love it! Great job!"
+        },
+        {
+            "user": "cdaniell30",
+            "score": 5,
+            "text": "I love how dark the caramel and vanilla in this end up tasting.  I love this exactly as it is, but if you want it to taste more like what's shown in the pic then CAP VBIC is probably the ticket."
+        },
+        {
+            "user": "mlNikon",
+            "score": 5,
+            "text": "Very tasty! For some reason, I thought I reviewed this already but I didn't. This is a very delicious mix! "
+        },
+        {
+            "user": "ooooNaSuGamisoooo",
+            "score": 5,
+            "text": "Awesome.... caramel goodness!&#xD;\nI'll drop the super sweet next time at 0.20% &#xD;\n&#xD;\nfive stars!!!&#xD;\nwell done!!!"
+        },
+        {
+            "user": "Jerikorayne",
+            "score": 4,
+            "text": "This is a very good recipe I would drop the tfa. Sweeter for maybe cap.super sweet 0.25% and drop the marshmallow &#xD;\nI didn't even let this steep it was good off the shake so it came to work with me! "
+        }
+    ]
 }

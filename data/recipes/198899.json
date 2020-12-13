@@ -1,50 +1,50 @@
 {
-  "name": "Persimmon Yogurt Drink",
-  "description": "created during Fresh03's saturday show with recommendations from the master himself\r\n\r\n",
-  "id": 198899,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/198899/6a00d83452929269e200e54fbb2a318834-800wi.jpg",
-  "updated_at": "2020-12-07T15:22:12.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Persimmon",
-      "flavor_id": "4420",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Strawberry",
-      "flavor_id": "121",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Yoghurt Drink",
-      "flavor_id": "9901",
-      "millipercent": 4500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 100,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Echodub",
-  "views": "360",
-  "slug": "persimmon_yogurt_drink",
-  "total_flavoring": "8.9%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Persimmon Yogurt Drink",
+    "description": "created during Fresh03's saturday show with recommendations from the master himself\r\n\r\n",
+    "id": 198899,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/198899\/6a00d83452929269e200e54fbb2a318834-800wi.jpg",
+    "updated_at": "2020-12-12T03:47:26.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Persimmon",
+            "flavor_id": "4420",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Strawberry",
+            "flavor_id": "121",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Yoghurt Drink",
+            "flavor_id": "9901",
+            "millipercent": 4500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 100,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Echodub",
+    "views": "365",
+    "created_at": "2020-06-27",
+    "slug": "persimmon_yogurt_drink",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/198899.jpg",
+    "total_flavoring": "8.9%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

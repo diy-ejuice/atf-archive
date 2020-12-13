@@ -1,68 +1,70 @@
 {
-  "name": "Strawberry Honey Greek Yogurt",
-  "description": "FLV Milk and Honey, FW Yogurt, and Yes we Cheesecake add up to a near perfect take on Zoi Honey Greek.\r\n\r\nThe fruits add a lovely sweet yet tart strawberry with hints of seeds.\r\n\r\nSweeten to taste.",
-  "id": 165507,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/165507/maxresdefault.jpg",
-  "updated_at": "2020-12-08T00:51:08.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Yogurt",
-      "flavor_id": "1471",
-      "millipercent": 4370,
-      "vendor": "FW"
-    },
-    {
-      "name": "Milk & Honey",
-      "flavor_id": "609",
-      "millipercent": 500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 1620,
-      "vendor": "INW"
-    },
-    {
-      "name": "Strawberry Sweet",
-      "flavor_id": "4745",
-      "millipercent": 1460,
-      "vendor": "JF"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2470,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 200,
-      "vendor": "INW"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "2076",
-  "slug": "strawberry_honey_greek_yogurt",
-  "total_flavoring": "10.62%",
-  "steep_days": "3 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "xlbevfestlx",
-      "score": "5",
-      "text": "3 day steep Very tasty recipe. INW raspberry is very potent of might change it to one drop per 30ml, but for now it lends a nice tartness to the vape. Cant decide if i'm going to add it to the rotation, but for now it itches that yogurt spot. thanks for the recipe"
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "brought this to work with me this week and it didn't disappoint. Although when i went to mix it the strange percentages threw me off a bit, but nonetheless it still tasted great. Thanks for sharing "
-    }
-  ]
+    "name": "Strawberry Honey Greek Yogurt",
+    "description": "FLV Milk and Honey, FW Yogurt, and Yes we Cheesecake add up to a near perfect take on Zoi Honey Greek.\r\n\r\nThe fruits add a lovely sweet yet tart strawberry with hints of seeds.\r\n\r\nSweeten to taste.",
+    "id": 165507,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/165507\/maxresdefault.jpg",
+    "updated_at": "2020-12-12T11:53:02.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Yogurt",
+            "flavor_id": "1471",
+            "millipercent": 4370,
+            "vendor": "FW"
+        },
+        {
+            "name": "Milk & Honey",
+            "flavor_id": "609",
+            "millipercent": 500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 1620,
+            "vendor": "INW"
+        },
+        {
+            "name": "Strawberry Sweet",
+            "flavor_id": "4745",
+            "millipercent": 1460,
+            "vendor": "JF"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2470,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 200,
+            "vendor": "INW"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "2088",
+    "created_at": "2019-09-03",
+    "slug": "strawberry_honey_greek_yogurt",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/165507.jpg",
+    "total_flavoring": "10.62%",
+    "steep_days": "3 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "xlbevfestlx",
+            "score": 5,
+            "text": "3 day steep Very tasty recipe. INW raspberry is very potent of might change it to one drop per 30ml, but for now it lends a nice tartness to the vape. Cant decide if i'm going to add it to the rotation, but for now it itches that yogurt spot. thanks for the recipe"
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "brought this to work with me this week and it didn't disappoint. Although when i went to mix it the strange percentages threw me off a bit, but nonetheless it still tasted great. Thanks for sharing "
+        }
+    ]
 }

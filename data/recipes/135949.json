@@ -1,44 +1,44 @@
 {
-  "name": "Rin's Blueberry Custard",
-  "description": "Blueberry custard, pretty simple. I used the Delosi flavors because I wanted to see how they were and I heard DF cake batter is fantastic. I also used the WF blueberry Jam because it's new. ",
-  "id": 135949,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135949/Starry_Night_Over_the_Rhone.jpg",
-  "updated_at": "2020-12-07T07:01:04.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blueberry Jam SC",
-      "flavor_id": "10115",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cake Batter",
-      "flavor_id": "6173",
-      "millipercent": 500,
-      "vendor": "DF"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "633",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "6263",
-      "millipercent": 1000,
-      "vendor": "DF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1509",
-  "slug": "rins_blueberry_custard",
-  "total_flavoring": "3.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Blueberry Custard",
+    "description": "Blueberry custard, pretty simple. I used the Delosi flavors because I wanted to see how they were and I heard DF cake batter is fantastic. I also used the WF blueberry Jam because it's new. ",
+    "id": 135949,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135949\/Starry_Night_Over_the_Rhone.jpg",
+    "updated_at": "2020-12-10T16:01:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blueberry Jam SC",
+            "flavor_id": "10115",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cake Batter",
+            "flavor_id": "6173",
+            "millipercent": 500,
+            "vendor": "DF"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "633",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "6263",
+            "millipercent": 1000,
+            "vendor": "DF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1518",
+    "created_at": "2019-01-21",
+    "slug": "rins_blueberry_custard",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135949.jpg",
+    "total_flavoring": "3.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

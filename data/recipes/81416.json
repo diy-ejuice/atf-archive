@@ -1,50 +1,49 @@
 {
-  "name": "It's Over 4000!! ",
-  "description": "all of the flavors i have that are in over 4000 recipes on here, using their at the time (12/30/17) average amounts. as a shake and vape it tastes like strawberries and cream. after a 2 week steep it tastes more like a strawberry milk. to me its quite similar to Vapor in a Bottle's Strawberry Milk. after a month's steep its still very good. ",
-  "id": 81416,
-  "image_url": null,
-  "updated_at": "2020-12-06T20:43:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 920,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cream Fresh",
-      "flavor_id": "540",
-      "millipercent": 1200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 2080,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3570,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 590,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Darthy",
-  "views": "2363",
-  "slug": "its_over_4000",
-  "total_flavoring": "8.36%",
-  "steep_days": "14 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "It's Over 4000!! ",
+    "description": "all of the flavors i have that are in over 4000 recipes on here, using their at the time (12\/30\/17) average amounts. as a shake and vape it tastes like strawberries and cream. after a 2 week steep it tastes more like a strawberry milk. to me its quite similar to Vapor in a Bottle's Strawberry Milk. after a month's steep its still very good. ",
+    "id": 81416,
+    "image_url": null,
+    "updated_at": "2020-12-10T16:00:28.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 920,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cream Fresh",
+            "flavor_id": "540",
+            "millipercent": 1200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 2080,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3570,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 590,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Darthy",
+    "views": "2370",
+    "created_at": "2017-12-30",
+    "slug": "its_over_4000",
+    "total_flavoring": "8.36%",
+    "steep_days": "14 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

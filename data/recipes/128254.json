@@ -1,63 +1,65 @@
 {
-  "name": "Atlas",
-  "description": "This is a Blue Raspberry and Strawberry Slush recipe that is named after my wife because it’s her favorite. I’ve gone through many versions before finally settling on this one. The percentages are high and the flavor is strong but that’s exactly what she wanted so feel free to dial down anything that you feel is too much. If you mix this up, I hope you enjoy it as much as she has. Let me know what you think!",
-  "id": 128254,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/128254/E761FC6F-A8EE-4D2F-AE4B-8554BE2BC350.jpeg",
-  "updated_at": "2020-12-08T00:50:34.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Blue Raspberry Slush",
-      "flavor_id": "2970",
-      "millipercent": 8000,
-      "vendor": "OSD"
-    },
-    {
-      "name": "Sour Blue Raspberry Candy",
-      "flavor_id": "6061",
-      "millipercent": 3000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 5000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 2500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Juicy Lemon",
-      "flavor_id": "79",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "iRaft",
-  "views": "2575",
-  "slug": "atlas",
-  "total_flavoring": "20.0%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "Chefswannie",
-      "score": "4",
-      "text": "Really good shake and vape!  Enjoying it fresh with a cup of tea.  Wondering how it would taste with a touch of koolada."
-    }
-  ]
+    "name": "Atlas",
+    "description": "This is a Blue Raspberry and Strawberry Slush recipe that is named after my wife because it\u2019s her favorite. I\u2019ve gone through many versions before finally settling on this one. The percentages are high and the flavor is strong but that\u2019s exactly what she wanted so feel free to dial down anything that you feel is too much. If you mix this up, I hope you enjoy it as much as she has. Let me know what you think!",
+    "id": 128254,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/128254\/E761FC6F-A8EE-4D2F-AE4B-8554BE2BC350.jpeg",
+    "updated_at": "2020-12-12T17:12:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Blue Raspberry Slush",
+            "flavor_id": "2970",
+            "millipercent": 8000,
+            "vendor": "OSD"
+        },
+        {
+            "name": "Sour Blue Raspberry Candy",
+            "flavor_id": "6061",
+            "millipercent": 3000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 5000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 2500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Juicy Lemon",
+            "flavor_id": "79",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "iRaft",
+    "views": "2587",
+    "created_at": "2018-11-20",
+    "slug": "atlas",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/128254.jpeg",
+    "total_flavoring": "20.0%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "Chefswannie",
+            "score": 4,
+            "text": "Really good shake and vape!  Enjoying it fresh with a cup of tea.  Wondering how it would taste with a touch of koolada."
+        }
+    ]
 }

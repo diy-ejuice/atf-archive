@@ -1,81 +1,83 @@
 {
-  "name": "Apple Cream Bar",
-  "description": "Apple cream dessert bar,  A 3 week steep is necessary to put this mix on point.  Shake and vape is not what this is.  Drastically different after steeping, and delicious.  \r\n\r\nMax VG mix made for drippers.",
-  "id": 8658,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/8658/Apple_Pie_bar_picture.jpg",
-  "updated_at": "2020-12-06T23:06:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": null,
-      "flavor_id": "null",
-      "millipercent": 0,
-      "vendor": null
-    },
-    {
-      "name": "Cream Cheese Icing",
-      "flavor_id": "2380",
-      "millipercent": 1000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Shisha Vanilla",
-      "flavor_id": "841",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cheesecake (graham Crust)",
-      "flavor_id": "152",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Apple Mix",
-      "flavor_id": "3511",
-      "millipercent": 2500,
-      "vendor": "HS"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Vanilla Swirl",
-      "flavor_id": "189",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Barracuda",
-  "views": "1559",
-  "slug": "apple_cream_bar",
-  "total_flavoring": "13.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "Mr-G",
-      "score": "none",
-      "text": "its ok"
-    }
-  ]
+    "name": "Apple Cream Bar",
+    "description": "Apple cream dessert bar,  A 3 week steep is necessary to put this mix on point.  Shake and vape is not what this is.  Drastically different after steeping, and delicious.  \r\n\r\nMax VG mix made for drippers.",
+    "id": 8658,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/8658\/Apple_Pie_bar_picture.jpg",
+    "updated_at": "2020-12-10T17:56:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": null,
+            "flavor_id": "",
+            "millipercent": 0,
+            "vendor": null
+        },
+        {
+            "name": "Cream Cheese Icing",
+            "flavor_id": "2380",
+            "millipercent": 1000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Shisha Vanilla",
+            "flavor_id": "841",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cheesecake (graham Crust)",
+            "flavor_id": "152",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Apple Mix",
+            "flavor_id": "3511",
+            "millipercent": 2500,
+            "vendor": "HS"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Vanilla Swirl",
+            "flavor_id": "189",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Barracuda",
+    "views": "1568",
+    "created_at": "2016-07-25",
+    "slug": "apple_cream_bar",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/8658.jpg",
+    "total_flavoring": "13.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "Mr-G",
+            "score": 0,
+            "text": "its ok"
+        }
+    ]
 }

@@ -1,56 +1,56 @@
 {
-  "name": "R.C.T",
-  "description": "Raspberry base:\r\nFW razzleberry gives us the candy note. \r\nFa raspberry gives us the bottom note to the raspberry. \r\nInw raspberry gives the raspberry a touch more brightness. \r\nFlv boysenberry just ties them all together. \r\n\r\nTea:\r\nFa bergamot gives a light tea note without it over powering the raspberries.\r\n\r\nSupersweet is optional.\r\n\r\nYou can also add ws23/koolada to turn this into an iced tea. \r\n\r\nAllow to steep for a week for the tea to shine better. ",
-  "id": 185080,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/185080/images__12_.jpeg",
-  "updated_at": "2020-12-07T21:33:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "667",
-      "millipercent": 300,
-      "vendor": "INW"
-    },
-    {
-      "name": "Bergamot",
-      "flavor_id": "469",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Boysenberry",
-      "flavor_id": "614",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Tvsty1",
-  "views": "713",
-  "slug": "rct",
-  "total_flavoring": "7.05%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "R.C.T",
+    "description": "Raspberry base:\r\nFW razzleberry gives us the candy note. \r\nFa raspberry gives us the bottom note to the raspberry. \r\nInw raspberry gives the raspberry a touch more brightness. \r\nFlv boysenberry just ties them all together. \r\n\r\nTea:\r\nFa bergamot gives a light tea note without it over powering the raspberries.\r\n\r\nSupersweet is optional.\r\n\r\nYou can also add ws23\/koolada to turn this into an iced tea. \r\n\r\nAllow to steep for a week for the tea to shine better. ",
+    "id": 185080,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/185080\/images__12_.jpeg",
+    "updated_at": "2020-12-10T21:33:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "667",
+            "millipercent": 300,
+            "vendor": "INW"
+        },
+        {
+            "name": "Bergamot",
+            "flavor_id": "469",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Boysenberry",
+            "flavor_id": "614",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Tvsty1",
+    "views": "722",
+    "created_at": "2020-02-17",
+    "slug": "rct",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/185080.jpeg",
+    "total_flavoring": "7.05%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

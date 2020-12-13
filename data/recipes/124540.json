@@ -1,98 +1,98 @@
 {
-  "name": "Astroberry",
-  "description": "This recipe is for The Year of Mixing week -42 inspiration.  \r\n\r\nThis is a blend of berry notes with a touch of citrus intertwined, softened by a gentle cream and sweet coconut flavors. The Candy Wizard is used to sweeten and add a jammy richness, while balanced with the sour notes of Sour Wizard, and everything is softly smoothed with a bit of TFA Smooth.  \r\n\r\nThis works well as a shake and vape recipe, but if you find it a touch harsh shake and vape, add up to 1% TFA Smooth to calm down the harsh notes as long as you don't plan to steep it. If you are going to steep for the 2 weeks it needs to be fully steeped leave the smooth levels as is in the recipe. I do also suggest adding (if you enjoy it) 0.75% FA Arctic Winter (Menthol) and 0.2% WS-23 to this mix. It adds a lovely element to it that I quite enjoy. If you do not like menthol or Cooling you can leave one or both out if you dislike them. ",
-  "id": 124540,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/124540/astroberry.jpg",
-  "updated_at": "2020-12-07T17:35:17.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Forest Fruits",
-      "flavor_id": "4890",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Red Touch (strawberry)",
-      "flavor_id": "421",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Blackcurrant",
-      "flavor_id": "545",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Blue Raspberry",
-      "flavor_id": "1479",
-      "millipercent": 500,
-      "vendor": "LB"
-    },
-    {
-      "name": "Tanger (mandarin)",
-      "flavor_id": "547",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "4402",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sweet Coconut",
-      "flavor_id": "605",
-      "millipercent": 400,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Jammy/Candy Wizard",
-      "flavor_id": "9955",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Sour Wizard",
-      "flavor_id": "4354",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Smooth",
-      "flavor_id": "381",
-      "millipercent": 400,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Aroma Arctic Winter (menthol Artic)",
-      "flavor_id": "514",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 200,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "JenniferJarvis",
-  "views": "3291",
-  "slug": "astroberry",
-  "total_flavoring": "11.8%",
-  "steep_days": "5 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Astroberry",
+    "description": "This recipe is for The Year of Mixing week -42 inspiration.  \r\n\r\nThis is a blend of berry notes with a touch of citrus intertwined, softened by a gentle cream and sweet coconut flavors. The Candy Wizard is used to sweeten and add a jammy richness, while balanced with the sour notes of Sour Wizard, and everything is softly smoothed with a bit of TFA Smooth.  \r\n\r\nThis works well as a shake and vape recipe, but if you find it a touch harsh shake and vape, add up to 1% TFA Smooth to calm down the harsh notes as long as you don't plan to steep it. If you are going to steep for the 2 weeks it needs to be fully steeped leave the smooth levels as is in the recipe. I do also suggest adding (if you enjoy it) 0.75% FA Arctic Winter (Menthol) and 0.2% WS-23 to this mix. It adds a lovely element to it that I quite enjoy. If you do not like menthol or Cooling you can leave one or both out if you dislike them. ",
+    "id": 124540,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/124540\/astroberry.jpg",
+    "updated_at": "2020-12-10T20:00:54.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Forest Fruits",
+            "flavor_id": "4890",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Red Touch (strawberry)",
+            "flavor_id": "421",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Blackcurrant",
+            "flavor_id": "545",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Blue Raspberry",
+            "flavor_id": "1479",
+            "millipercent": 500,
+            "vendor": "LB"
+        },
+        {
+            "name": "Tanger (mandarin)",
+            "flavor_id": "547",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "4402",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sweet Coconut",
+            "flavor_id": "605",
+            "millipercent": 400,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Jammy\/Candy Wizard",
+            "flavor_id": "9955",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Sour Wizard",
+            "flavor_id": "4354",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Smooth",
+            "flavor_id": "381",
+            "millipercent": 400,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Aroma Arctic Winter (menthol Artic)",
+            "flavor_id": "514",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 200,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "JenniferJarvis",
+    "views": "3299",
+    "created_at": "2018-10-25",
+    "slug": "astroberry",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/124540.jpg",
+    "total_flavoring": "11.8%",
+    "steep_days": "5 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

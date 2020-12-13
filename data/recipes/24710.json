@@ -1,44 +1,44 @@
 {
-  "name": "Raspberry Green Tea",
-  "description": "Inspired by those knock-off Vitamin Water's that Costco sells 'VitaRain Raspberry Green Tea' I was drinking one and also trying to think of something to use my bottle of FE Green Tea for other than the recipe everyone bought it for.",
-  "id": 24710,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/24710/tea_woman.jpg",
-  "updated_at": "2020-12-01T05:17:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Raspberry (sweet)",
-      "flavor_id": "267",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Green Tea",
-      "flavor_id": "1640",
-      "millipercent": 1000,
-      "vendor": "FE"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Apexified",
-  "views": "2034",
-  "slug": "raspberry_green_tea",
-  "total_flavoring": "6.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "75%",
-  "temperature": "420",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Raspberry Green Tea",
+    "description": "Inspired by those knock-off Vitamin Water's that Costco sells 'VitaRain Raspberry Green Tea' I was drinking one and also trying to think of something to use my bottle of FE Green Tea for other than the recipe everyone bought it for.",
+    "id": 24710,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/24710\/tea_woman.jpg",
+    "updated_at": "2020-12-12T14:04:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Raspberry (sweet)",
+            "flavor_id": "267",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Green Tea",
+            "flavor_id": "1640",
+            "millipercent": 1000,
+            "vendor": "FE"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Apexified",
+    "views": "2054",
+    "created_at": "2017-01-01",
+    "slug": "raspberry_green_tea",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/24710.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "75%",
+    "temperature": "420"
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Rin's Pancake Sundae",
-  "description": "Muddled mess at first. Not sure how it steeps just yet. I would definitely sub for a different pancake or pancake type flavor as the TFA has a maple note that I forgot about and it clashes with the chocolate notes. ",
-  "id": 135948,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/135948/F8476251-8442-462A-9D3C-BE9450C80C7F.jpeg",
-  "updated_at": "2020-11-30T20:59:49.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Purée",
-      "flavor_id": "6042",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Chocolate Cookie Crust SC",
-      "flavor_id": "10110",
-      "millipercent": 500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Glazed Strawberries",
-      "flavor_id": "8885",
-      "millipercent": 1000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Pancake",
-      "flavor_id": "4190",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Cupcake",
-      "flavor_id": "129",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1184",
-  "slug": "rins_pancake_sundae",
-  "total_flavoring": "5.5%",
-  "steep_days": "7",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Rin's Pancake Sundae",
+    "description": "Muddled mess at first. Not sure how it steeps just yet. I would definitely sub for a different pancake or pancake type flavor as the TFA has a maple note that I forgot about and it clashes with the chocolate notes. ",
+    "id": 135948,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/135948\/F8476251-8442-462A-9D3C-BE9450C80C7F.jpeg",
+    "updated_at": "2020-12-10T20:01:03.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Pur\u00e9e",
+            "flavor_id": "6042",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Chocolate Cookie Crust SC",
+            "flavor_id": "10110",
+            "millipercent": 500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Glazed Strawberries",
+            "flavor_id": "8885",
+            "millipercent": 1000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Pancake",
+            "flavor_id": "4190",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Cupcake",
+            "flavor_id": "129",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1192",
+    "created_at": "2019-01-21",
+    "slug": "rins_pancake_sundae",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/135948.jpeg",
+    "total_flavoring": "5.5%",
+    "steep_days": "7",
+    "best_vg": "0%",
+    "temperature": "0"
 }

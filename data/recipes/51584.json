@@ -1,51 +1,53 @@
 {
-  "name": "Raspberry Candy",
-  "description": "This juice will kill your coils quickly. But it's still a brilliant all day vape. It tastes just like raspberry statburst. lt Vapes like nail polish remover in a dripper, but goes great in a sub ohm tank. It takes higher levels of nicotine very well without losing flavour. Mix and vape at your own risk. ",
-  "id": 51584,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/51584/small-20180917-24849-1x208ce.jpg",
-  "updated_at": "2020-12-08T00:49:24.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Whipped Cream",
-      "flavor_id": "193",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Raspberry",
-      "flavor_id": "268",
-      "millipercent": 7000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Kemmo",
-  "views": "1661",
-  "slug": "raspberry_candy",
-  "total_flavoring": "12.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "photohap",
-      "score": "4",
-      "text": "Basic, but really good when you want that sweet fix.  Vaping in a zeus RTA and not getting any off notes.  Steeped for one week so far."
-    }
-  ]
+    "name": "Raspberry Candy",
+    "description": "This juice will kill your coils quickly. But it's still a brilliant all day vape. It tastes just like raspberry statburst. lt Vapes like nail polish remover in a dripper, but goes great in a sub ohm tank. It takes higher levels of nicotine very well without losing flavour. Mix and vape at your own risk. ",
+    "id": 51584,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/51584\/small-20180917-24849-1x208ce.jpg",
+    "updated_at": "2020-12-12T17:10:50.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Whipped Cream",
+            "flavor_id": "193",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Raspberry",
+            "flavor_id": "268",
+            "millipercent": 7000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Kemmo",
+    "views": "1666",
+    "created_at": "2017-06-19",
+    "slug": "raspberry_candy",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/51584.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "photohap",
+            "score": 4,
+            "text": "Basic, but really good when you want that sweet fix.  Vaping in a zeus RTA and not getting any off notes.  Steeped for one week so far."
+        }
+    ]
 }

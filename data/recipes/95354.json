@@ -1,69 +1,71 @@
 {
-  "name": "Big Papa's Macaron",
-  "description": "*A Notoriously delicious papaya macaron with honey cream filling*\r\n\r\nThe theme for [Mixers' Club](https://www.reddit.com/r/mixersclub/) was \"duets\" - taking two existing recipes and making them sing together. I wanted to try using the macaron base from my [Mango Blossom Macaron](https://alltheflavors.com/recipes/46330#mango_blossom_macaron_by_id10_t) with a different tropical fruit, and the first thing that came to mind was swiping the top off of the last public recipe by the late, great @NotCharlesManson (May Peace Be Upon Him). That funky papaya, backed up by apricot and presented with a bit of honey, was just so yummy situated in a rich cream. Would it work here too? Yes, I think it does, deliciously, but only after being dialed way, way back to fit subtly into a delicate pastry. \r\n\r\nMix some up, and [don't forget to pour a little out for the dearly departed](https://www.youtube.com/watch?v=7XxyMbsMhFI). ",
-  "id": 95354,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/95354/Papaya_Macaron.jpg",
-  "updated_at": "2020-12-08T00:50:05.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Papaya",
-      "flavor_id": "252",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Honey",
-      "flavor_id": "531",
-      "millipercent": 150,
-      "vendor": "FA"
-    },
-    {
-      "name": "Armenia (apricot)",
-      "flavor_id": "507",
-      "millipercent": 750,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Almond",
-      "flavor_id": "528",
-      "millipercent": 2000,
-      "vendor": "FA"
-    }
-  ],
-  "author": "ID10-T",
-  "views": "3142",
-  "slug": "big_papas_macaron",
-  "total_flavoring": "8.65%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "420",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ObiWanCannoli",
-      "score": "5",
-      "text": "I tried this recipe a while back and for some reason, forgot to leave a review. This may be the very first bakery recipe that I've come across which features papaya Although Mango Blossom Macaron is my personal preference, this recipe is every bit as tasty! The papaya and apricot are perfectly infused into that killer macaron base. The honey is not overpowering and the cream blends everything together beautifully. Another great recipe and a must mix if you love papaya."
-    }
-  ]
+    "name": "Big Papa's Macaron",
+    "description": "*A Notoriously delicious papaya macaron with honey cream filling*\r\n\r\nThe theme for [Mixers' Club](https:\/\/www.reddit.com\/r\/mixersclub\/) was \"duets\" - taking two existing recipes and making them sing together. I wanted to try using the macaron base from my [Mango Blossom Macaron](https:\/\/alltheflavors.com\/recipes\/46330#mango_blossom_macaron_by_id10_t) with a different tropical fruit, and the first thing that came to mind was swiping the top off of the last public recipe by the late, great @NotCharlesManson (May Peace Be Upon Him). That funky papaya, backed up by apricot and presented with a bit of honey, was just so yummy situated in a rich cream. Would it work here too? Yes, I think it does, deliciously, but only after being dialed way, way back to fit subtly into a delicate pastry. \r\n\r\nMix some up, and [don't forget to pour a little out for the dearly departed](https:\/\/www.youtube.com\/watch?v=7XxyMbsMhFI). ",
+    "id": 95354,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/95354\/Papaya_Macaron.jpg",
+    "updated_at": "2020-12-12T14:06:19.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Papaya",
+            "flavor_id": "252",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Honey",
+            "flavor_id": "531",
+            "millipercent": 150,
+            "vendor": "FA"
+        },
+        {
+            "name": "Armenia (apricot)",
+            "flavor_id": "507",
+            "millipercent": 750,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Almond",
+            "flavor_id": "528",
+            "millipercent": 2000,
+            "vendor": "FA"
+        }
+    ],
+    "author": "ID10-T",
+    "views": "3155",
+    "created_at": "2018-04-04",
+    "slug": "big_papas_macaron",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/95354.jpg",
+    "total_flavoring": "8.65%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "420",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ObiWanCannoli",
+            "score": 5,
+            "text": "I tried this recipe a while back and for some reason, forgot to leave a review. This may be the very first bakery recipe that I've come across which features papaya Although Mango Blossom Macaron is my personal preference, this recipe is every bit as tasty! The papaya and apricot are perfectly infused into that killer macaron base. The honey is not overpowering and the cream blends everything together beautifully. Another great recipe and a must mix if you love papaya."
+        }
+    ]
 }

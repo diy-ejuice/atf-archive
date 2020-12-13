@@ -1,105 +1,107 @@
 {
-  "name": "Show me The Money",
-  "description": "Cookies with hazelnut and cream and a note of caramel.  Steep time 5 days. Enjoy!",
-  "id": 179094,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/179094/istockphoto-1014253854-612x612.jpg",
-  "updated_at": "2020-12-08T00:51:18.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 600,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit Base",
-      "flavor_id": "8828",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Caramel Butter",
-      "flavor_id": "6046",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cookies & Cream",
-      "flavor_id": "8861",
-      "millipercent": 1200,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creamy Hazelnut",
-      "flavor_id": "1265",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Custard",
-      "flavor_id": "4210",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Hazelnuts & Cream",
-      "flavor_id": "6056",
-      "millipercent": 2500,
-      "vendor": "WF"
-    },
-    {
-      "name": "Pudding Base",
-      "flavor_id": "8948",
-      "millipercent": 500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "8979",
-      "millipercent": 1000,
-      "vendor": "VT"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "1784",
-  "slug": "show_me_the_money",
-  "total_flavoring": "15.3%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Eirini",
-      "score": "5",
-      "text": "Really good recipe and the concentrate of WF Hazelnuts and cream is fantastic. Ty for this"
-    }
-  ]
+    "name": "Show me The Money",
+    "description": "Cookies with hazelnut and cream and a note of caramel.  Steep time 5 days. Enjoy!",
+    "id": 179094,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/179094\/istockphoto-1014253854-612x612.jpg",
+    "updated_at": "2020-12-12T18:30:43.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 600,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit Base",
+            "flavor_id": "8828",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Caramel Butter",
+            "flavor_id": "6046",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cookies & Cream",
+            "flavor_id": "8861",
+            "millipercent": 1200,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creamy Hazelnut",
+            "flavor_id": "1265",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Custard",
+            "flavor_id": "4210",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Hazelnuts & Cream",
+            "flavor_id": "6056",
+            "millipercent": 2500,
+            "vendor": "WF"
+        },
+        {
+            "name": "Pudding Base",
+            "flavor_id": "8948",
+            "millipercent": 500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "8979",
+            "millipercent": 1000,
+            "vendor": "VT"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "1799",
+    "created_at": "2019-12-26",
+    "slug": "show_me_the_money",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/179094.jpg",
+    "total_flavoring": "15.3%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Eirini",
+            "score": 5,
+            "text": "Really good recipe and the concentrate of WF Hazelnuts and cream is fantastic. Ty for this"
+        }
+    ]
 }

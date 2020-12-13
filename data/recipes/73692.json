@@ -1,57 +1,59 @@
 {
-  "name": "Give Thanks for Cookies!",
-  "description": "A Thanksgiving Cran-Raspberry Cookie! Sit back and enjoy the holidays!",
-  "id": 73692,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/73692/CranRasp.jpg",
-  "updated_at": "2020-12-08T00:49:42.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cranberry",
-      "flavor_id": "2493",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Berryl (raspberry)",
-      "flavor_id": "412",
-      "millipercent": 1250,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 1500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Gingerbread",
-      "flavor_id": "58",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Cookie",
-      "flavor_id": "490",
-      "millipercent": 1250,
-      "vendor": "FA"
-    }
-  ],
-  "author": "SlashaLO",
-  "views": "1567",
-  "slug": "give_thanks_for_cookies",
-  "total_flavoring": "6.5%",
-  "steep_days": "5",
-  "best_vg": "65%",
-  "temperature": "400",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "QueerYourVape",
-      "score": "5",
-      "text": "I've mixed 60ml of this before a week before Christmas and I've been enjoying it ever since. The biscuit and the redness comes through brilliantly but what I like best is the touch of ginger on the exhale that pickles my tongue and it's delicious. I will mix this again because I love it! Another brilliant SlashaLo recipe and I hope you'll be awarded on the DIY or Die best everything in 2018, you already deserve it."
-    }
-  ]
+    "name": "Give Thanks for Cookies!",
+    "description": "A Thanksgiving Cran-Raspberry Cookie! Sit back and enjoy the holidays!",
+    "id": 73692,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/73692\/CranRasp.jpg",
+    "updated_at": "2020-12-12T15:39:34.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cranberry",
+            "flavor_id": "2493",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Berryl (raspberry)",
+            "flavor_id": "412",
+            "millipercent": 1250,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 1500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Gingerbread",
+            "flavor_id": "58",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Cookie",
+            "flavor_id": "490",
+            "millipercent": 1250,
+            "vendor": "FA"
+        }
+    ],
+    "author": "SlashaLO",
+    "views": "1579",
+    "created_at": "2017-11-11",
+    "slug": "give_thanks_for_cookies",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/73692.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "5",
+    "best_vg": "65%",
+    "temperature": "400",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "QueerYourVape",
+            "score": 5,
+            "text": "I've mixed 60ml of this before a week before Christmas and I've been enjoying it ever since. The biscuit and the redness comes through brilliantly but what I like best is the touch of ginger on the exhale that pickles my tongue and it's delicious. I will mix this again because I love it! Another brilliant SlashaLo recipe and I hope you'll be awarded on the DIY or Die best everything in 2018, you already deserve it."
+        }
+    ]
 }

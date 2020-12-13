@@ -1,62 +1,62 @@
 {
-  "name": "Lemon Buttermilk Pie",
-  "description": "cream of butter with milk and sweet lemon\r\nis enough for a great enjoyment",
-  "id": 77806,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/77806/337ff841ac19d00d3a8c5bb309551adc.jpg",
-  "updated_at": "2020-12-06T14:07:29.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butter",
-      "flavor_id": "494",
-      "millipercent": 1300,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk Condensed",
-      "flavor_id": "404",
-      "millipercent": 100,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 800,
-      "vendor": "FA"
-    },
-    {
-      "name": "Zeppola",
-      "flavor_id": "6312",
-      "millipercent": 200,
-      "vendor": "FA"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 2000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Italian Lemon Sicily",
-      "flavor_id": "78",
-      "millipercent": 1600,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Apple Pie",
-      "flavor_id": "551",
-      "millipercent": 500,
-      "vendor": "FA"
-    }
-  ],
-  "author": "Pmnb",
-  "views": "1561",
-  "slug": "lemon_buttermilk_pie",
-  "total_flavoring": "6.5%",
-  "steep_days": "15",
-  "best_vg": "55%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Lemon Buttermilk Pie",
+    "description": "cream of butter with milk and sweet lemon\r\nis enough for a great enjoyment",
+    "id": 77806,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/77806\/337ff841ac19d00d3a8c5bb309551adc.jpg",
+    "updated_at": "2020-12-10T16:00:25.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butter",
+            "flavor_id": "494",
+            "millipercent": 1300,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk Condensed",
+            "flavor_id": "404",
+            "millipercent": 100,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 800,
+            "vendor": "FA"
+        },
+        {
+            "name": "Zeppola",
+            "flavor_id": "6312",
+            "millipercent": 200,
+            "vendor": "FA"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 2000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Italian Lemon Sicily",
+            "flavor_id": "78",
+            "millipercent": 1600,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Apple Pie",
+            "flavor_id": "551",
+            "millipercent": 500,
+            "vendor": "FA"
+        }
+    ],
+    "author": "Pmnb",
+    "views": "1568",
+    "created_at": "2017-12-06",
+    "slug": "lemon_buttermilk_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/77806.jpg",
+    "total_flavoring": "6.5%",
+    "steep_days": "15",
+    "best_vg": "55%",
+    "temperature": "0"
 }

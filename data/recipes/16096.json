@@ -1,81 +1,82 @@
 {
-  "name": "Sugar Daddy",
-  "description": "Credit to Fake_Lawnjesus over on e-liquid-recipes.com\r\nA clone attempt of one of my favorite ADV's",
-  "id": 16096,
-  "image_url": null,
-  "updated_at": "2020-12-08T00:48:50.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1200,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Graham Cracker",
-      "flavor_id": "62",
-      "millipercent": 4000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Vanilla Custard",
-      "flavor_id": "131",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "French Vanilla",
-      "flavor_id": "56",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Cream",
-      "flavor_id": "117",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "87",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Golden Butter",
-      "flavor_id": "60",
-      "millipercent": 300,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Maple (pancake) Syrup",
-      "flavor_id": "86",
-      "millipercent": 250,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Element6",
-  "views": "1482",
-  "slug": "sugar_daddy",
-  "total_flavoring": "11.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 4,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "4",
-      "text": "Pretty tasty vape, if you like these CAP ingredients, as I do, but a bit muddled. Also, not quite an accurate clone. The Maple Syrup is out of place and it's not a very good flavor anyway; I would not recommend buying it if you haven't already. Just mix this up without it. Would probably be just as good if not better without the Marshmallow as well. "
-    }
-  ]
+    "name": "Sugar Daddy",
+    "description": "Credit to Fake_Lawnjesus over on e-liquid-recipes.com\r\nA clone attempt of one of my favorite ADV's",
+    "id": 16096,
+    "image_url": null,
+    "updated_at": "2020-12-12T14:04:51.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1200,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Graham Cracker",
+            "flavor_id": "62",
+            "millipercent": 4000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Vanilla Custard",
+            "flavor_id": "131",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "French Vanilla",
+            "flavor_id": "56",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Cream",
+            "flavor_id": "117",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "87",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Golden Butter",
+            "flavor_id": "60",
+            "millipercent": 300,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Maple (pancake) Syrup",
+            "flavor_id": "86",
+            "millipercent": 250,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Element6",
+    "views": "1491",
+    "created_at": "2016-10-12",
+    "slug": "sugar_daddy",
+    "total_flavoring": "11.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 4,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 4,
+            "text": "Pretty tasty vape, if you like these CAP ingredients, as I do, but a bit muddled. Also, not quite an accurate clone. The Maple Syrup is out of place and it's not a very good flavor anyway; I would not recommend buying it if you haven't already. Just mix this up without it. Would probably be just as good if not better without the Marshmallow as well. "
+        }
+    ]
 }

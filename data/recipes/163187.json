@@ -1,51 +1,53 @@
 {
-  "name": "Andes' Mints!",
-  "description": "Super simple recipe, the creme de menthe gives it that nice minty inside and the chocolate on the exhale is excellente!",
-  "id": 163187,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/163187/b41e85772e30998d-xNOudUPZ-zoom.jpg",
-  "updated_at": "2020-12-08T00:51:07.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Creme De Menthe",
-      "flavor_id": "278",
-      "millipercent": 1250,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Chocolate",
-      "flavor_id": "155",
-      "millipercent": 750,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "Sublimeice",
-  "views": "1133",
-  "slug": "andes_mints",
-  "total_flavoring": "3.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Spacolie16",
-      "score": "5",
-      "text": "Well this gets an automatic 5 stars because my girlfriend loves Andes Mints, and this vape :D"
-    }
-  ]
+    "name": "Andes' Mints!",
+    "description": "Super simple recipe, the creme de menthe gives it that nice minty inside and the chocolate on the exhale is excellente!",
+    "id": 163187,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/163187\/b41e85772e30998d-xNOudUPZ-zoom.jpg",
+    "updated_at": "2020-12-12T10:34:59.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Creme De Menthe",
+            "flavor_id": "278",
+            "millipercent": 1250,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Chocolate",
+            "flavor_id": "155",
+            "millipercent": 750,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "Sublimeice",
+    "views": "1148",
+    "created_at": "2019-08-15",
+    "slug": "andes_mints",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/163187.jpg",
+    "total_flavoring": "3.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Spacolie16",
+            "score": 5,
+            "text": "Well this gets an automatic 5 stars because my girlfriend loves Andes Mints, and this vape :D"
+        }
+    ]
 }

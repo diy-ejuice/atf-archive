@@ -1,76 +1,78 @@
 {
-  "name": "Melon Mix",
-  "description": "A nice blend of melons, with some cream to help bind them together and smooth it out plus a touch of sweetness to satisfy the tastebuds. ",
-  "id": 1791,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/1791/Capture.JPG",
-  "updated_at": "2020-12-08T00:48:40.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Wild Melon",
-      "flavor_id": "619",
-      "millipercent": 1500,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Cantaloupe",
-      "flavor_id": "610",
-      "millipercent": 750,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Marshmallow",
-      "flavor_id": "332",
-      "millipercent": 1000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    }
-  ],
-  "author": "CheebaSteeba",
-  "views": "7299",
-  "slug": "melon_mix",
-  "total_flavoring": "4.25%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 6,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "s2k",
-      "score": "5",
-      "text": ""
-    },
-    {
-      "user": "Rubicone",
-      "score": "5",
-      "text": "For me this is a great great mix after 3 weeks sleeping."
-    },
-    {
-      "user": "Ebc88",
-      "score": "5",
-      "text": "Really great recipe i am usually not one to use sweetener but i added a couple drops of FLV sweetness and it really made the melons pop for me. The cream base is simple and delicious. Excellent job and thanks for sharing "
-    },
-    {
-      "user": "Philosaphucker",
-      "score": "5",
-      "text": "I love this after a month. So smooth and the melons just meld right into the cream. This goes great with a dark, malty beverage."
-    },
-    {
-      "user": "Apexified",
-      "score": "5",
-      "text": "This is one of the few recipes that I've made multiple times without tweaking anything. It's damn near perfect and really highlights how well FLV flavors play off of one another. If you don't have the flavors, get them. They're worth it for this mix alone but very versatile, as well.  "
-    },
-    {
-      "user": "RuntDastardly",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Melon Mix",
+    "description": "A nice blend of melons, with some cream to help bind them together and smooth it out plus a touch of sweetness to satisfy the tastebuds. ",
+    "id": 1791,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/1791\/Capture.JPG",
+    "updated_at": "2020-12-12T09:12:04.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Wild Melon",
+            "flavor_id": "619",
+            "millipercent": 1500,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Cantaloupe",
+            "flavor_id": "610",
+            "millipercent": 750,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Marshmallow",
+            "flavor_id": "332",
+            "millipercent": 1000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        }
+    ],
+    "author": "CheebaSteeba",
+    "views": "7318",
+    "created_at": "2016-04-08",
+    "slug": "melon_mix",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/1791.JPG",
+    "total_flavoring": "4.25%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 6,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "s2k",
+            "score": 5,
+            "text": ""
+        },
+        {
+            "user": "Rubicone",
+            "score": 5,
+            "text": "For me this is a great great mix after 3 weeks sleeping."
+        },
+        {
+            "user": "Ebc88",
+            "score": 5,
+            "text": "Really great recipe i am usually not one to use sweetener but i added a couple drops of FLV sweetness and it really made the melons pop for me. The cream base is simple and delicious. Excellent job and thanks for sharing "
+        },
+        {
+            "user": "Philosaphucker",
+            "score": 5,
+            "text": "I love this after a month. So smooth and the melons just meld right into the cream. This goes great with a dark, malty beverage."
+        },
+        {
+            "user": "Apexified",
+            "score": 5,
+            "text": "This is one of the few recipes that I've made multiple times without tweaking anything. It's damn near perfect and really highlights how well FLV flavors play off of one another. If you don't have the flavors, get them. They're worth it for this mix alone but very versatile, as well.  "
+        },
+        {
+            "user": "RuntDastardly",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

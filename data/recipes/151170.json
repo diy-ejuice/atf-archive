@@ -1,56 +1,58 @@
 {
-  "name": "mlNikons Drumstick",
-  "description": "This is a drumstick with butterscotch sauce. I tried to get the cone but there really isn't that good of a waffle cone flavor and I don't have the one Dave suggested. Was it Chef's Choice waffle? Anyway, I used OOO Sugar Cone and while this is a really delicious flavor it is quite delicate so the cone isn't in your face but you definitely do get an impression of cone. Lets face it, the ice cream and toppings is the best part anyway amiright?! I used VT Toffee Ice Cream and WF Vanilla Cream Extra for the ice cream and the Butterscotch Ripple paired with the Toffee Ice Cream gave the mix that sticky sweet flavor I was looking for to make this drumstick. ",
-  "id": 151170,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151170/drumstick.jpg",
-  "updated_at": "2020-12-08T00:50:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Butterscotch Ripple",
-      "flavor_id": "1217",
-      "millipercent": 3000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sugar Cone",
-      "flavor_id": "1780",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Toffee Ice Cream",
-      "flavor_id": "8987",
-      "millipercent": 3000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Vanilla Cream Extra SC",
-      "flavor_id": "8382",
-      "millipercent": 1000,
-      "vendor": "WF"
-    }
-  ],
-  "author": "mixinvixens",
-  "views": "1284",
-  "slug": "mlnikons_drumstick",
-  "total_flavoring": "10.0%",
-  "steep_days": "5",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "ID10-T",
-      "score": "5",
-      "text": "Nails the ice cream with butterscotch sauce, very buttery, almost like overchurned ice cream buttery, but delicious, and so sticky sweet. I love it. There's just the barest the impression of a cone, but yum. I think if you did want more cone you could add a little WF Crispy Wafer to it, but it's so good just the way it is.  "
-    },
-    {
-      "user": "Grfxman",
-      "score": "5",
-      "text": "Watched this weeks noted and then mixed this up. Emily, I am on the maple butter cream train hardcore! This recipe rocks. Cannot wait to see how it steeps in - only regret was not making more."
-    }
-  ]
+    "name": "mlNikons Drumstick",
+    "description": "This is a drumstick with butterscotch sauce. I tried to get the cone but there really isn't that good of a waffle cone flavor and I don't have the one Dave suggested. Was it Chef's Choice waffle? Anyway, I used OOO Sugar Cone and while this is a really delicious flavor it is quite delicate so the cone isn't in your face but you definitely do get an impression of cone. Lets face it, the ice cream and toppings is the best part anyway amiright?! I used VT Toffee Ice Cream and WF Vanilla Cream Extra for the ice cream and the Butterscotch Ripple paired with the Toffee Ice Cream gave the mix that sticky sweet flavor I was looking for to make this drumstick. ",
+    "id": 151170,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151170\/drumstick.jpg",
+    "updated_at": "2020-12-12T15:40:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Butterscotch Ripple",
+            "flavor_id": "1217",
+            "millipercent": 3000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sugar Cone",
+            "flavor_id": "1780",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Toffee Ice Cream",
+            "flavor_id": "8987",
+            "millipercent": 3000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Vanilla Cream Extra SC",
+            "flavor_id": "8382",
+            "millipercent": 1000,
+            "vendor": "WF"
+        }
+    ],
+    "author": "mixinvixens",
+    "views": "1293",
+    "created_at": "2019-05-12",
+    "slug": "mlnikons_drumstick",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151170.jpg",
+    "total_flavoring": "10.0%",
+    "steep_days": "5",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "ID10-T",
+            "score": 5,
+            "text": "Nails the ice cream with butterscotch sauce, very buttery, almost like overchurned ice cream buttery, but delicious, and so sticky sweet. I love it. There's just the barest the impression of a cone, but yum. I think if you did want more cone you could add a little WF Crispy Wafer to it, but it's so good just the way it is.  "
+        },
+        {
+            "user": "Grfxman",
+            "score": 5,
+            "text": "Watched this weeks noted and then mixed this up. Emily, I am on the maple butter cream train hardcore! This recipe rocks. Cannot wait to see how it steeps in - only regret was not making more."
+        }
+    ]
 }

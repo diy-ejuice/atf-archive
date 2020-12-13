@@ -1,38 +1,38 @@
 {
-  "name": "MangNo Custard (Wonder Shot)",
-  "description": "I don't do Mangos...  So enjoy the rare recipe!  Strawberry will creep in over the first three days and the custard will really start popping around 4 days.",
-  "id": 189881,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/189881/images.jpg",
-  "updated_at": "2020-12-06T20:45:52.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Island Mango",
-      "flavor_id": "9947",
-      "millipercent": 1400,
-      "vendor": "WF"
-    },
-    {
-      "name": "Strawberry Cheesecake SC",
-      "flavor_id": "10413",
-      "millipercent": 1000,
-      "vendor": "WF"
-    },
-    {
-      "name": "Vanilla Custard SC",
-      "flavor_id": "10414",
-      "millipercent": 1600,
-      "vendor": "WF"
-    }
-  ],
-  "author": "Freshepies",
-  "views": "490",
-  "slug": "mangno_custard_wonder_shot",
-  "total_flavoring": "4.0%",
-  "steep_days": "4 (SNV)",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "MangNo Custard (Wonder Shot)",
+    "description": "I don't do Mangos...  So enjoy the rare recipe!  Strawberry will creep in over the first three days and the custard will really start popping around 4 days.",
+    "id": 189881,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/189881\/images.jpg",
+    "updated_at": "2020-12-11T03:38:58.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Island Mango",
+            "flavor_id": "9947",
+            "millipercent": 1400,
+            "vendor": "WF"
+        },
+        {
+            "name": "Strawberry Cheesecake SC",
+            "flavor_id": "10413",
+            "millipercent": 1000,
+            "vendor": "WF"
+        },
+        {
+            "name": "Vanilla Custard SC",
+            "flavor_id": "10414",
+            "millipercent": 1600,
+            "vendor": "WF"
+        }
+    ],
+    "author": "Freshepies",
+    "views": "496",
+    "created_at": "2020-03-31",
+    "slug": "mangno_custard_wonder_shot",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/189881.jpg",
+    "total_flavoring": "4.0%",
+    "steep_days": "4 (SNV)",
+    "best_vg": "0%",
+    "temperature": "0"
 }

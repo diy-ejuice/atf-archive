@@ -1,56 +1,55 @@
 {
-  "name": "Fruit pie",
-  "description": "Like being hit in the face with a pie by an angry clown. All the fruits on the inhale with soft fruits and cream on the exhale.",
-  "id": 17140,
-  "image_url": null,
-  "updated_at": "2020-12-01T11:48:01.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cinnamon Danish Swirl",
-      "flavor_id": "35",
-      "millipercent": 1000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Forrest Mix (forest Fruit Mix)",
-      "flavor_id": "453",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "2",
-      "millipercent": 2000,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Adam1664",
-  "views": "978",
-  "slug": "fruit_pie",
-  "total_flavoring": "10.5%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Fruit pie",
+    "description": "Like being hit in the face with a pie by an angry clown. All the fruits on the inhale with soft fruits and cream on the exhale.",
+    "id": 17140,
+    "image_url": null,
+    "updated_at": "2020-12-10T13:44:23.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cinnamon Danish Swirl",
+            "flavor_id": "35",
+            "millipercent": 1000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Forrest Mix (forest Fruit Mix)",
+            "flavor_id": "453",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "2",
+            "millipercent": 2000,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Adam1664",
+    "views": "988",
+    "created_at": "2016-10-22",
+    "slug": "fruit_pie",
+    "total_flavoring": "10.5%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0"
 }

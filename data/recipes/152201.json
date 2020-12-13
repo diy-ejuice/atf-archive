@@ -1,62 +1,62 @@
 {
-  "name": "Tropic Breezer",
-  "description": "Started out making a grapefruit / orange / guava that turned out more like a tropical slushie in the end. Refreshing vape on a hot day for me.",
-  "id": 152201,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/152201/images.jpg",
-  "updated_at": "2020-12-08T00:50:57.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Grapefruit",
-      "flavor_id": "65",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Blood Orange",
-      "flavor_id": "1197",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Sweet Guava",
-      "flavor_id": "118",
-      "millipercent": 3500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Sweet Tangerine",
-      "flavor_id": "123",
-      "millipercent": 3000,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Pink Guava",
-      "flavor_id": "637",
-      "millipercent": 250,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Golden Pineapple",
-      "flavor_id": "61",
-      "millipercent": 250,
-      "vendor": "CAP"
-    },
-    {
-      "name": "WS-23",
-      "flavor_id": "8085",
-      "millipercent": 500,
-      "vendor": "OTHR"
-    }
-  ],
-  "author": "DadaFry",
-  "views": "1344",
-  "slug": "tropic_breezer",
-  "total_flavoring": "11.5%",
-  "steep_days": "0 (SNV)",
-  "best_vg": "70%",
-  "temperature": "0",
-  "recipe_score": 0,
-  "reviews": []
+    "name": "Tropic Breezer",
+    "description": "Started out making a grapefruit \/ orange \/ guava that turned out more like a tropical slushie in the end. Refreshing vape on a hot day for me.",
+    "id": 152201,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/152201\/images.jpg",
+    "updated_at": "2020-12-10T22:33:05.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Grapefruit",
+            "flavor_id": "65",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Blood Orange",
+            "flavor_id": "1197",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Sweet Guava",
+            "flavor_id": "118",
+            "millipercent": 3500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Sweet Tangerine",
+            "flavor_id": "123",
+            "millipercent": 3000,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Pink Guava",
+            "flavor_id": "637",
+            "millipercent": 250,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Golden Pineapple",
+            "flavor_id": "61",
+            "millipercent": 250,
+            "vendor": "CAP"
+        },
+        {
+            "name": "WS-23",
+            "flavor_id": "8085",
+            "millipercent": 500,
+            "vendor": "OTHR"
+        }
+    ],
+    "author": "DadaFry",
+    "views": "1349",
+    "created_at": "2019-05-20",
+    "slug": "tropic_breezer",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/152201.jpg",
+    "total_flavoring": "11.5%",
+    "steep_days": "0 (SNV)",
+    "best_vg": "70%",
+    "temperature": "0"
 }

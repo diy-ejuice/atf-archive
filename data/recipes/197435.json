@@ -1,80 +1,82 @@
 {
-  "name": "Apple Sesame Pie",
-  "description": "This recipe is an homage to Inaweras Sesame, the flavor that kept me off cigarettes when I started vaping.\r\n\r\nA sweet and fluffy bakery profile with just the right amount of crusty spiciness and fresh apple slices inside.\r\n\r\nINW Biscuit, OoO Yellowcake, CAP Sugar Cookie and FA Custard Premium build the bakery base of this recipe. The yellowcake tastes amazing but lacks some creaminess which is why I added the one and only premium custard. Biscuit and sugar cookie take care of crust and delicious sweetnesses.\r\n\r\nFA Fuji Apple is amazing on its own but gets some help by FA Lime Tahity adding a little sour juiciness and TPA Dragonfruit which helps the apple flavor not to get lost between the bakery flavors.\r\n\r\nAnd then there is the star of this recipe. INW Sesame is a strong concentrate that gets far too little attention. It’s toasted, nutty notes are the key to make this recipe what it is.\r\nGet your hands on this flavor if you don’t own it yet! I know you will like it.\r\n\r\nGive this mix at least 10 days to steep because that’s when the sesame will start to kick in!\r\n\r\nI mixed this for my dvarw and vapefly holic mtl attys but please let me know how it performs on a DL device.\r\n\r\n(no you can’t sub or leave out the sesame, rather mix another apple pie instead)",
-  "id": 197435,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/197435/91209A6B-891C-45AB-A70D-18383CA6366B.png",
-  "updated_at": "2020-12-08T00:51:37.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Sesame",
-      "flavor_id": "2202",
-      "millipercent": 1000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Biscuit",
-      "flavor_id": "642",
-      "millipercent": 500,
-      "vendor": "INW"
-    },
-    {
-      "name": "Cake (Yellow)",
-      "flavor_id": "1761",
-      "millipercent": 3000,
-      "vendor": "OOO"
-    },
-    {
-      "name": "Sugar Cookie",
-      "flavor_id": "115",
-      "millipercent": 2500,
-      "vendor": "CAP"
-    },
-    {
-      "name": "Custard Premium",
-      "flavor_id": "9118",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Fuji",
-      "flavor_id": "506",
-      "millipercent": 2000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Dragonfruit",
-      "flavor_id": "226",
-      "millipercent": 300,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Lime Tahity Cold Pressed",
-      "flavor_id": "581",
-      "millipercent": 200,
-      "vendor": "FA"
-    }
-  ],
-  "author": "failyx",
-  "views": "737",
-  "slug": "apple_sesame_pie",
-  "total_flavoring": "11.5%",
-  "steep_days": "11",
-  "best_vg": "60%",
-  "temperature": "0",
-  "total_reviews": 2,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Pi2",
-      "score": "5",
-      "text": "I bought INW Sesame some time ago and had never actually used it, until this recipe caught my eye. It’s really tasty vaped in a MTL setup (SXK Kayfun 2019 Lite, SS 0.6 Ohm, 18 Watts). An apple with a bit of tartness on the inhale, a bit of creaminess on the exhale, both accompanied by a toasted nuttiness throughout the vape. A really good ADV, I‘ve been vaping it for the past week in my MTL setup. I didn’t get much bakery, could be more prominent for my taste. Very enjoyable, light flavor. Try this one!"
-    },
-    {
-      "user": "Zugmaschine",
-      "score": "none",
-      "text": "This recipe looks really interessting for me. Mixed a 30ml Tester today, because i like bakeries and i like the INW Sesam flavour. I did not use FA Apple Pie for now. I will report after 11 days of steeping like the creater recommends."
-    }
-  ]
+    "name": "Apple Sesame Pie",
+    "description": "This recipe is an homage to Inaweras Sesame, the flavor that kept me off cigarettes when I started vaping.\r\n\r\nA sweet and fluffy bakery profile with just the right amount of crusty spiciness and fresh apple slices inside.\r\n\r\nINW Biscuit, OoO Yellowcake, CAP Sugar Cookie and FA Custard Premium build the bakery base of this recipe. The yellowcake tastes amazing but lacks some creaminess which is why I added the one and only premium custard. Biscuit and sugar cookie take care of crust and delicious sweetnesses.\r\n\r\nFA Fuji Apple is amazing on its own but gets some help by FA Lime Tahity adding a little sour juiciness and TPA Dragonfruit which helps the apple flavor not to get lost between the bakery flavors.\r\n\r\nAnd then there is the star of this recipe. INW Sesame is a strong concentrate that gets far too little attention. It\u2019s toasted, nutty notes are the key to make this recipe what it is.\r\nGet your hands on this flavor if you don\u2019t own it yet! I know you will like it.\r\n\r\nGive this mix at least 10 days to steep because that\u2019s when the sesame will start to kick in!\r\n\r\nI mixed this for my dvarw and vapefly holic mtl attys but please let me know how it performs on a DL device.\r\n\r\n(no you can\u2019t sub or leave out the sesame, rather mix another apple pie instead)",
+    "id": 197435,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/197435\/91209A6B-891C-45AB-A70D-18383CA6366B.png",
+    "updated_at": "2020-12-12T15:41:09.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Sesame",
+            "flavor_id": "2202",
+            "millipercent": 1000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Biscuit",
+            "flavor_id": "642",
+            "millipercent": 500,
+            "vendor": "INW"
+        },
+        {
+            "name": "Cake (Yellow)",
+            "flavor_id": "1761",
+            "millipercent": 3000,
+            "vendor": "OOO"
+        },
+        {
+            "name": "Sugar Cookie",
+            "flavor_id": "115",
+            "millipercent": 2500,
+            "vendor": "CAP"
+        },
+        {
+            "name": "Custard Premium",
+            "flavor_id": "9118",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Fuji",
+            "flavor_id": "506",
+            "millipercent": 2000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Dragonfruit",
+            "flavor_id": "226",
+            "millipercent": 300,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Lime Tahity Cold Pressed",
+            "flavor_id": "581",
+            "millipercent": 200,
+            "vendor": "FA"
+        }
+    ],
+    "author": "failyx",
+    "views": "745",
+    "created_at": "2020-06-11",
+    "slug": "apple_sesame_pie",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/197435.png",
+    "total_flavoring": "11.5%",
+    "steep_days": "11",
+    "best_vg": "60%",
+    "temperature": "0",
+    "total_reviews": 2,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Pi2",
+            "score": 5,
+            "text": "I bought INW Sesame some time ago and had never actually used it, until this recipe caught my eye. It\u2019s really tasty vaped in a MTL setup (SXK Kayfun 2019 Lite, SS 0.6 Ohm, 18 Watts). An apple with a bit of tartness on the inhale, a bit of creaminess on the exhale, both accompanied by a toasted nuttiness throughout the vape. A really good ADV, I\u2018ve been vaping it for the past week in my MTL setup. I didn\u2019t get much bakery, could be more prominent for my taste. Very enjoyable, light flavor. Try this one!"
+        },
+        {
+            "user": "Zugmaschine",
+            "score": 0,
+            "text": "This recipe looks really interessting for me. Mixed a 30ml Tester today, because i like bakeries and i like the INW Sesam flavour. I did not use FA Apple Pie for now. I will report after 11 days of steeping like the creater recommends."
+        }
+    ]
 }

@@ -1,45 +1,46 @@
 {
-  "name": "Uslodon",
-  "description": "Watermelon strawberry.  Named by the app.  Too lazy to change it.  Sounds like swedish death metal, which is nice for such a fruity flavor.\r\n\r\nTo do:  Maybe try to add some white peach.  Also receive tons of criticism.",
-  "id": 10978,
-  "image_url": null,
-  "updated_at": "2020-12-07T14:11:47.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Watermelon",
-      "flavor_id": "984",
-      "millipercent": 5000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Strawberry (ripe)",
-      "flavor_id": "271",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    }
-  ],
-  "author": "benyar",
-  "views": "1106",
-  "slug": "uslodon",
-  "total_flavoring": "11.0%",
-  "steep_days": "0",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 0,
-  "reviews": [
-    {
-      "user": "bjorama",
-      "score": "none",
-      "text": "5 Stars for the joke.  Those crazy Swedes. The Danes are great too."
-    }
-  ]
+    "name": "Uslodon",
+    "description": "Watermelon strawberry.  Named by the app.  Too lazy to change it.  Sounds like swedish death metal, which is nice for such a fruity flavor.\r\n\r\nTo do:  Maybe try to add some white peach.  Also receive tons of criticism.",
+    "id": 10978,
+    "image_url": null,
+    "updated_at": "2020-12-12T05:48:57.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Watermelon",
+            "flavor_id": "984",
+            "millipercent": 5000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Strawberry (ripe)",
+            "flavor_id": "271",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        }
+    ],
+    "author": "benyar",
+    "views": "1115",
+    "created_at": "2016-08-18",
+    "slug": "uslodon",
+    "total_flavoring": "11.0%",
+    "steep_days": "0",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 0,
+    "reviews": [
+        {
+            "user": "bjorama",
+            "score": 0,
+            "text": "5 Stars for the joke.  Those crazy Swedes. The Danes are great too."
+        }
+    ]
 }

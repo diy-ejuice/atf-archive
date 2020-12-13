@@ -1,81 +1,83 @@
 {
-  "name": "Satisfaction",
-  "description": "A banana ice cream. Steep it for 2-3 days and its ready! Enjoy!",
-  "id": 151496,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/151496/24COOKING-BANANA-ICE-CREAM1-articleLarge-v2.jpg",
-  "updated_at": "2020-12-08T00:50:56.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Banana Cream",
-      "flavor_id": "916",
-      "millipercent": 3000,
-      "vendor": "LA"
-    },
-    {
-      "name": "Banana",
-      "flavor_id": "603",
-      "millipercent": 1000,
-      "vendor": "FLV"
-    },
-    {
-      "name": "Banana Custard",
-      "flavor_id": "8825",
-      "millipercent": 700,
-      "vendor": "VT"
-    },
-    {
-      "name": "Creamy Custard",
-      "flavor_id": "8863",
-      "millipercent": 2000,
-      "vendor": "VT"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 2000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Cream",
-      "flavor_id": "604",
-      "millipercent": 800,
-      "vendor": "FLV"
-    },
-    {
-      "name": "French Vanilla Ice Cream",
-      "flavor_id": "8880",
-      "millipercent": 1500,
-      "vendor": "VT"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Kelgar78",
-  "views": "1509",
-  "slug": "satisfaction",
-  "total_flavoring": "12.5%",
-  "steep_days": "2",
-  "best_vg": "0%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Eirini",
-      "score": "5",
-      "text": "So after 1 day of steep i have to say that is an accurate approach of banana ice cream. The stone of banana its very good and after 1 day( cause i couldnt w8 longer) you have the creams and milky tastes of the concentrates that gives you as a result the ice cream taste. Ofc creams dont cover the banana and i think i will give it a try again in a 100ml bottle this time so i can see if something changes. I think it is what the name says and i really loved it. If you try it you gonna like it too, i am sure!"
-    }
-  ]
+    "name": "Satisfaction",
+    "description": "A banana ice cream. Steep it for 2-3 days and its ready! Enjoy!",
+    "id": 151496,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/151496\/24COOKING-BANANA-ICE-CREAM1-articleLarge-v2.jpg",
+    "updated_at": "2020-12-12T17:12:35.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Banana Cream",
+            "flavor_id": "916",
+            "millipercent": 3000,
+            "vendor": "LA"
+        },
+        {
+            "name": "Banana",
+            "flavor_id": "603",
+            "millipercent": 1000,
+            "vendor": "FLV"
+        },
+        {
+            "name": "Banana Custard",
+            "flavor_id": "8825",
+            "millipercent": 700,
+            "vendor": "VT"
+        },
+        {
+            "name": "Creamy Custard",
+            "flavor_id": "8863",
+            "millipercent": 2000,
+            "vendor": "VT"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 2000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Cream",
+            "flavor_id": "604",
+            "millipercent": 800,
+            "vendor": "FLV"
+        },
+        {
+            "name": "French Vanilla Ice Cream",
+            "flavor_id": "8880",
+            "millipercent": 1500,
+            "vendor": "VT"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Kelgar78",
+    "views": "1513",
+    "created_at": "2019-05-15",
+    "slug": "satisfaction",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/151496.jpg",
+    "total_flavoring": "12.5%",
+    "steep_days": "2",
+    "best_vg": "0%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Eirini",
+            "score": 5,
+            "text": "So after 1 day of steep i have to say that is an accurate approach of banana ice cream. The stone of banana its very good and after 1 day( cause i couldnt w8 longer) you have the creams and milky tastes of the concentrates that gives you as a result the ice cream taste. Ofc creams dont cover the banana and i think i will give it a try again in a 100ml bottle this time so i can see if something changes. I think it is what the name says and i really loved it. If you try it you gonna like it too, i am sure!"
+        }
+    ]
 }

@@ -1,81 +1,83 @@
 {
-  "name": "Chocolate Clusters",
-  "description": "Chocolate Clusters where my favorite breakfast cereal, but since I am still going strong on my new year's resolution of no sugar in 2019 I tried my best to make a juice that tastes like them. \r\nNeeds some steep to get extra yummy, so please be patient. \r\n\r\nThe ingredients:\r\nBavarian Cream TPA + Milk FA + Meringue  FA + Irish Cream FA create thick creamy milk, with very slight cocoa/chocolate notes, just like the milk that cocoa cereal have just been dumped on.\r\nBreakfast Cereals FA + Cocoa Rounds TPA + Peanut Butter Cup FW gets you cereal that are coated on both cocoa and chocolate! \r\nHazelnut FW tastes exactly like the white nut clusters that this brand of cereal uses.\r\n\r\nDon't skip the Super Sweet, you can even get it higher if you have a sweet tooth!",
-  "id": 140555,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/140555/nestle-clusters-chocolate-375g-700x700.jpg",
-  "updated_at": "2020-12-08T00:50:45.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 1500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Breakfast Cereals",
-      "flavor_id": "8810",
-      "millipercent": 1500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Cocoa Rounds",
-      "flavor_id": "138",
-      "millipercent": 500,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Hazelnut",
-      "flavor_id": "1312",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Irish Cream",
-      "flavor_id": "520",
-      "millipercent": 1400,
-      "vendor": "FA"
-    },
-    {
-      "name": "Milk",
-      "flavor_id": "523",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Meringue",
-      "flavor_id": "530",
-      "millipercent": 500,
-      "vendor": "FA"
-    },
-    {
-      "name": "Peanut Butter Cup",
-      "flavor_id": "1371",
-      "millipercent": 1000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 300,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "Collectron",
-  "views": "1658",
-  "slug": "chocolate_clusters",
-  "total_flavoring": "8.7%",
-  "steep_days": "14",
-  "best_vg": "70%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "V1rus",
-      "score": "5",
-      "text": ""
-    }
-  ]
+    "name": "Chocolate Clusters",
+    "description": "Chocolate Clusters where my favorite breakfast cereal, but since I am still going strong on my new year's resolution of no sugar in 2019 I tried my best to make a juice that tastes like them. \r\nNeeds some steep to get extra yummy, so please be patient. \r\n\r\nThe ingredients:\r\nBavarian Cream TPA + Milk FA + Meringue  FA + Irish Cream FA create thick creamy milk, with very slight cocoa\/chocolate notes, just like the milk that cocoa cereal have just been dumped on.\r\nBreakfast Cereals FA + Cocoa Rounds TPA + Peanut Butter Cup FW gets you cereal that are coated on both cocoa and chocolate! \r\nHazelnut FW tastes exactly like the white nut clusters that this brand of cereal uses.\r\n\r\nDon't skip the Super Sweet, you can even get it higher if you have a sweet tooth!",
+    "id": 140555,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/140555\/nestle-clusters-chocolate-375g-700x700.jpg",
+    "updated_at": "2020-12-12T11:52:36.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 1500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Breakfast Cereals",
+            "flavor_id": "8810",
+            "millipercent": 1500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Cocoa Rounds",
+            "flavor_id": "138",
+            "millipercent": 500,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Hazelnut",
+            "flavor_id": "1312",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Irish Cream",
+            "flavor_id": "520",
+            "millipercent": 1400,
+            "vendor": "FA"
+        },
+        {
+            "name": "Milk",
+            "flavor_id": "523",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Meringue",
+            "flavor_id": "530",
+            "millipercent": 500,
+            "vendor": "FA"
+        },
+        {
+            "name": "Peanut Butter Cup",
+            "flavor_id": "1371",
+            "millipercent": 1000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 300,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "Collectron",
+    "views": "1665",
+    "created_at": "2019-02-25",
+    "slug": "chocolate_clusters",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/140555.jpg",
+    "total_flavoring": "8.7%",
+    "steep_days": "14",
+    "best_vg": "70%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "V1rus",
+            "score": 5,
+            "text": ""
+        }
+    ]
 }

@@ -1,69 +1,71 @@
 {
-  "name": "razzle berry cream",
-  "description": "Insanely creamy strawzzle berry cheesecake. I cranked TPA Bavarian Cream just to see what would happen. It turned out great.",
-  "id": 157909,
-  "image_url": "https://storage.googleapis.com/dev-images.alltheflavors.com/uploads/recipe/imageUrl/157909/DSC_0506-1024x646.jpg",
-  "updated_at": "2020-12-08T00:51:02.000-05:00",
-  "deleted_at": null,
-  "recipe_type": 1,
-  "recipe_flavors": [
-    {
-      "name": "Razzleberry",
-      "flavor_id": "1393",
-      "millipercent": 2000,
-      "vendor": "FW"
-    },
-    {
-      "name": "Bavarian Cream",
-      "flavor_id": "145",
-      "millipercent": 4000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Strawberry",
-      "flavor_id": "272",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Vanilla Bean Ice Cream",
-      "flavor_id": "186",
-      "millipercent": 3000,
-      "vendor": "TPA"
-    },
-    {
-      "name": "Yes, We Cheesecake",
-      "flavor_id": "9272",
-      "millipercent": 4000,
-      "vendor": "INW"
-    },
-    {
-      "name": "Juicy Strawberry",
-      "flavor_id": "8779",
-      "millipercent": 1000,
-      "vendor": "FA"
-    },
-    {
-      "name": "Super Sweet",
-      "flavor_id": "2384",
-      "millipercent": 500,
-      "vendor": "CAP"
-    }
-  ],
-  "author": "NastyNate",
-  "views": "1127",
-  "slug": "razzle_berry_cream",
-  "total_flavoring": "17.5%",
-  "steep_days": "1 (SNV)",
-  "best_vg": "80%",
-  "temperature": "0",
-  "total_reviews": 1,
-  "recipe_score": 5,
-  "reviews": [
-    {
-      "user": "Illegal_Immigrant",
-      "score": "5",
-      "text": "\"It turned out great\" is such an understatement. Insanely rich and thick creamy mouthfeel, and that razzleberry layer is amazing! Very well done, and highly recommended. Vaping it at a two week steep."
-    }
-  ]
+    "name": "razzle berry cream",
+    "description": "Insanely creamy strawzzle berry cheesecake. I cranked TPA Bavarian Cream just to see what would happen. It turned out great.",
+    "id": 157909,
+    "image_url": "https:\/\/storage.googleapis.com\/dev-images.alltheflavors.com\/uploads\/recipe\/imageUrl\/157909\/DSC_0506-1024x646.jpg",
+    "updated_at": "2020-12-12T20:31:08.000-05:00",
+    "deleted_at": null,
+    "recipe_type": 1,
+    "recipe_flavors": [
+        {
+            "name": "Razzleberry",
+            "flavor_id": "1393",
+            "millipercent": 2000,
+            "vendor": "FW"
+        },
+        {
+            "name": "Bavarian Cream",
+            "flavor_id": "145",
+            "millipercent": 4000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Strawberry",
+            "flavor_id": "272",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Vanilla Bean Ice Cream",
+            "flavor_id": "186",
+            "millipercent": 3000,
+            "vendor": "TPA"
+        },
+        {
+            "name": "Yes, We Cheesecake",
+            "flavor_id": "9272",
+            "millipercent": 4000,
+            "vendor": "INW"
+        },
+        {
+            "name": "Juicy Strawberry",
+            "flavor_id": "8779",
+            "millipercent": 1000,
+            "vendor": "FA"
+        },
+        {
+            "name": "Super Sweet",
+            "flavor_id": "2384",
+            "millipercent": 500,
+            "vendor": "CAP"
+        }
+    ],
+    "author": "NastyNate",
+    "views": "1132",
+    "created_at": "2019-07-02",
+    "slug": "razzle_berry_cream",
+    "archive_image_url": "https:\/\/allthearchives.com\/images\/157909.jpg",
+    "total_flavoring": "17.5%",
+    "steep_days": "1 (SNV)",
+    "best_vg": "80%",
+    "temperature": "0",
+    "total_reviews": 1,
+    "recipe_score": 5,
+    "reviews": [
+        {
+            "user": "Illegal_Immigrant",
+            "score": 5,
+            "text": "\"It turned out great\" is such an understatement. Insanely rich and thick creamy mouthfeel, and that razzleberry layer is amazing! Very well done, and highly recommended. Vaping it at a two week steep."
+        }
+    ]
 }
