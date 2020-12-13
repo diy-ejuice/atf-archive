@@ -83,7 +83,15 @@ export default function RecipePage({ data }) {
                 {formatRelative(parseISO(recipe.updated_at), Date.now())}
               </p>
             )}
-            <Flavors flavors={flavors} />
+            <Flavors
+              flavors={flavors.map((flavor) => ({
+                ...flavor,
+                id: parseInt(flavor.flavor_id, 10),
+                vendor: {
+                  abbreviation: flavor.vendor
+                }
+              }))}
+            />
             <dl>
               <dt>Steep Days</dt>
               <dd>{recipe.steep_days}</dd>
@@ -127,6 +135,7 @@ export const pageQuery = graphql`
       views
       recipe_flavors {
         name
+        flavor_id
         vendor
         millipercent
       }
