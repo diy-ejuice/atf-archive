@@ -12,7 +12,7 @@ import { getMixerSlug } from '~utils';
 
 export default function RecipePage({ data }) {
   const recipe = data.recipesJson;
-  const { recipe_flavors: flavors, reviews } = recipe.recipe_flavors;
+  const { recipe_flavors: flavors, reviews } = recipe;
 
   let progressClass;
 

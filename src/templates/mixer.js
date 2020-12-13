@@ -1,7 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Container, Table } from 'react-bootstrap';
+import { Card, Container, Table } from 'react-bootstrap';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
@@ -23,27 +23,35 @@ export default function MixerPage({ data }) {
     <Layout>
       <SEO title={title} description={description} />
       <Container>
-        <h1>{mixer.name}</h1>
-        <Table striped>
-          <thead>
-            <tr>
-              <th>Recipe</th>
-              <th>Created</th>
-              <th>Views</th>
-            </tr>
-          </thead>
-          <tbody>
-            {filteredRecipes.map((recipe) => (
-              <tr key={recipe.id}>
-                <td>
-                  <Link to={getRecipeSlug(recipe)}>{recipe.name}</Link>
-                </td>
-                <td></td>
-                <td>{recipe.views}</td>
-              </tr>
-            ))}
-          </tbody>
-        </Table>
+        <Card>
+          <Card.Header>
+            <Card.Title>
+              <h1>{mixer.name}</h1>
+            </Card.Title>
+          </Card.Header>
+          <Card.Body>
+            <Table striped>
+              <thead>
+                <tr>
+                  <th>Recipe</th>
+                  <th>Created</th>
+                  <th>Views</th>
+                </tr>
+              </thead>
+              <tbody>
+                {filteredRecipes.map((recipe) => (
+                  <tr key={recipe.id}>
+                    <td>
+                      <Link to={getRecipeSlug(recipe)}>{recipe.name}</Link>
+                    </td>
+                    <td></td>
+                    <td>{recipe.views}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </Table>
+          </Card.Body>
+        </Card>
       </Container>
     </Layout>
   );

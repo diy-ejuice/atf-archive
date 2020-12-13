@@ -2,7 +2,14 @@ import { graphql, Link } from 'gatsby';
 import { debounce } from 'lodash';
 import PropTypes from 'prop-types';
 import React, { useCallback, useState } from 'react';
-import { Container, Card, FormControl } from 'react-bootstrap';
+import {
+  Container,
+  FormControl,
+  ListGroup,
+  Row,
+  Col,
+  Card
+} from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 
 import Layout from '~components/Layout';
@@ -35,15 +42,16 @@ export default function FlavorsPage({ data }) {
     const flavor = filteredFlavors[index];
 
     return (
-      <Card key={flavor.id} style={style}>
-        <Card.Header>
-          <Card.Title>
-            <Link to={getFlavorSlug(flavor)}>
-              {flavor.name} by {flavor.vendor.name}
-            </Link>
-          </Card.Title>
-        </Card.Header>
-      </Card>
+      <Link key={flavor.id} to={getFlavorSlug(flavor)}>
+        <ListGroup.Item style={style}>
+          <Row>
+            <Col md={10}>
+              {flavor.vendor.name} {flavor.name}
+            </Col>
+            <Col md={2}>{flavor.recipe_count} recipes</Col>
+          </Row>
+        </ListGroup.Item>
+      </Link>
     );
   }
 
@@ -56,20 +64,28 @@ export default function FlavorsPage({ data }) {
     <Layout>
       <SEO title="Flavors" description={`Tracking ${flavors.length} flavors`} />
       <Container>
-        <h1>Flavors</h1>
-        <FormControl
-          type="text"
-          onChange={handleChangeTerm}
-          placeholder="search by name or vendor"
-        />
-        <List
-          height={800}
-          itemData={filteredFlavors}
-          itemCount={filteredFlavors.length}
-          itemSize={60}
-        >
-          {FlavorRow}
-        </List>
+        <Card>
+          <Card.Header>
+            <Card.Title>Flavors</Card.Title>
+          </Card.Header>
+          <Card.Body>
+            <FormControl
+              type="text"
+              onChange={handleChangeTerm}
+              placeholder="search by name or vendor"
+            />
+            <ListGroup variant="flush">
+              <List
+                height={800}
+                itemData={filteredFlavors}
+                itemCount={filteredFlavors.length}
+                itemSize={60}
+              >
+                {FlavorRow}
+              </List>
+            </ListGroup>
+          </Card.Body>
+        </Card>
       </Container>
     </Layout>
   );

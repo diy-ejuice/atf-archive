@@ -1,7 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
-import { Container, Card } from 'react-bootstrap';
+import { Container, Card, ListGroup } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import {
   Line,
@@ -49,15 +49,11 @@ export default function FlavorPage({ data }) {
     const recipe = recipes[index];
 
     return (
-      <Card key={recipe.id} style={style}>
-        <Card.Header>
-          <Card.Title>
-            <Link to={getRecipeSlug(recipe)}>
-              {recipe.name} by {recipe.author}
-            </Link>
-          </Card.Title>
-        </Card.Header>
-      </Card>
+      <Link key={recipe.id} to={getRecipeSlug(recipe)}>
+        <ListGroup.Item style={style}>
+          {recipe.name} by {recipe.author}
+        </ListGroup.Item>
+      </Link>
     );
   }
 
@@ -74,46 +70,54 @@ export default function FlavorPage({ data }) {
     <Layout>
       <SEO title={title} description={description} />
       <Container>
-        <h1>
-          {flavor.vendor.name} {flavor.name}
-        </h1>
-        <h2>Average percentage: {averagePercentage}%</h2>
-        {recipes.length > 0 && (
-          <Fragment>
-            <ResponsiveContainer width="100%" height={300}>
-              <LineChart data={chartData} className="mb-2">
-                <CartesianGrid strokeDashArray="3 3" />
-                <XAxis
-                  label={{
-                    value: 'Percentage',
-                    position: 'insideBottom',
-                    dy: 8
-                  }}
-                  dataKey="percentage"
-                  tickFormatter={(tick) => `${tick}%`}
-                />
-                <YAxis label={{ value: 'Recipes', angle: -90, dx: -10 }} />
-                <Tooltip />
-                <Line
-                  type="monotone"
-                  dataKey="count"
-                  stroke="#17a2b8"
-                  strokeWidth={2}
-                  activeDot={{ r: 8 }}
-                />
-              </LineChart>
-            </ResponsiveContainer>
-            <h2>Used in {recipes.length} recipes</h2>
-            <List
-              height={800}
-              itemData={recipes}
-              itemCount={recipes.length}
-              itemSize={60}
-            >
-              {RecipeRow}
-            </List>
-          </Fragment>
-        )}
+        <Card>
+          <Card.Header>
+            <Card.Title>
+              {flavor.vendor.name} {flavor.name}
+            </Card.Title>
+          </Card.Header>
+          <Card.Body>
+            <h2 className="mb-3">Average percentage: {averagePercentage}%</h2>
+            {recipes.length > 0 && (
+              <Fragment>
+                <ResponsiveContainer width="100%" height={300}>
+                  <LineChart data={chartData} className="mb-3">
+                    <CartesianGrid strokeDashArray="3 3" />
+                    <XAxis
+                      label={{
+                        value: 'Percentage',
+                        position: 'insideBottom',
+                        dy: 8
+                      }}
+                      dataKey="percentage"
+                      tickFormatter={(tick) => `${tick}%`}
+                    />
+                    <YAxis label={{ value: 'Recipes', angle: -90, dx: -10 }} />
+                    <Tooltip />
+                    <Line
+                      type="monotone"
+                      dataKey="count"
+                      stroke="#17a2b8"
+                      strokeWidth={2}
+                      activeDot={{ r: 8 }}
+                    />
+                  </LineChart>
+                </ResponsiveContainer>
+                <h2 className="mb-3">Used in {recipes.length} recipes</h2>
+                <ListGroup variant="flush">
+                  <List
+                    height={800}
+                    itemData={recipes}
+                    itemCount={recipes.length}
+                    itemSize={60}
+                  >
+                    {RecipeRow}
+                  </List>
+                </ListGroup>
+              </Fragment>
+            )}
+          </Card.Body>
+        </Card>
       </Container>
     </Layout>
   );
