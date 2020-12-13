@@ -10,14 +10,11 @@ import { getRecipeSlug } from '~utils';
 export default function MixerPage({ data }) {
   const mixer = data.mixersJson;
   const recipes = data.allRecipesJson.nodes;
-  const filteredRecipes = recipes.filter(
-    (recipe) => mixer.recipes.indexOf(parseInt(recipe.id, 10)) > -1
-  );
 
-  filteredRecipes.sort((a, b) => b.views - a.views);
+  recipes.sort((a, b) => b.views - a.views);
 
   const title = mixer.name;
-  const description = `${filteredRecipes.length} recipes`;
+  const description = `${recipes.length} recipes`;
 
   return (
     <Layout>
@@ -39,7 +36,7 @@ export default function MixerPage({ data }) {
                 </tr>
               </thead>
               <tbody>
-                {filteredRecipes.map((recipe) => (
+                {recipes.map((recipe) => (
                   <tr key={recipe.id}>
                     <td>
                       <Link to={getRecipeSlug(recipe)}>{recipe.name}</Link>
@@ -68,7 +65,7 @@ export const pageQuery = graphql`
       recipes
     }
 
-    allRecipesJson {
+    allRecipesJson(filter: { author: { eq: $name } }) {
       nodes {
         id
         name
