@@ -1,7 +1,7 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
-import { Container, Card, ListGroup } from 'react-bootstrap';
+import { Container, Card, ListGroup, Row, Col } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import {
   Line,
@@ -51,7 +51,12 @@ export default function FlavorPage({ data }) {
     return (
       <Link key={recipe.id} to={getRecipeSlug(recipe)}>
         <ListGroup.Item style={style}>
-          {recipe.name} by {recipe.author}
+          <Row>
+            <Col md={10}>
+              {recipe.name} by {recipe.author}
+            </Col>
+            <Col md={2}>{recipe.views} views</Col>
+          </Row>
         </ListGroup.Item>
       </Link>
     );
