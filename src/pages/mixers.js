@@ -59,7 +59,9 @@ export default function MixersPage({ data }) {
       <Container>
         <Card>
           <Card.Header>
-            <Card.Title>Mixers</Card.Title>
+            <Card.Title>
+              <h1>Mixers</h1>
+            </Card.Title>
           </Card.Header>
           <Card.Body>
             <FormControl

@@ -73,7 +73,9 @@ export default function FlavorPage({ data }) {
         <Card>
           <Card.Header>
             <Card.Title>
-              {flavor.vendor.name} {flavor.name}
+              <h1>
+                {flavor.vendor.name} {flavor.name}
+              </h1>
             </Card.Title>
           </Card.Header>
           <Card.Body>

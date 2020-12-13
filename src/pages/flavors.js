@@ -66,7 +66,9 @@ export default function FlavorsPage({ data }) {
       <Container>
         <Card>
           <Card.Header>
-            <Card.Title>Flavors</Card.Title>
+            <Card.Title>
+              <h1>Flavors</h1>
+            </Card.Title>
           </Card.Header>
           <Card.Body>
             <FormControl

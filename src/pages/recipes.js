@@ -65,7 +65,9 @@ export default function RecipesPage({ data }) {
       <Container>
         <Card>
           <Card.Header>
-            <Card.Title>Recipes</Card.Title>
+            <Card.Title>
+              <h1>Recipes</h1>
+            </Card.Title>
           </Card.Header>
           <Card.Body>
             <FormControl
