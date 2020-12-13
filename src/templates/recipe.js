@@ -2,26 +2,17 @@ import { formatRelative, parseISO } from 'date-fns';
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
-import {
-  Card,
-  Container,
-  Row,
-  Col,
-  Table,
-  Button,
-  Accordion,
-  ProgressBar,
-  Image
-} from 'react-bootstrap';
+import { Card, Container, Row, Col, ProgressBar, Image } from 'react-bootstrap';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import Reviews from '~components/Reviews';
+import Flavors from '~components/Flavors';
 import { getMixerSlug } from '~utils';
 
 export default function RecipePage({ data }) {
   const recipe = data.recipesJson;
-  const flavors = recipe.recipe_flavors;
+  const { recipe_flavors: flavors, reviews } = recipe.recipe_flavors;
 
   let progressClass;
 
@@ -76,36 +67,19 @@ export default function RecipePage({ data }) {
                       />
                     </Col>
                   </Row>
-                  {recipe.updated_at && (
-                    <h4>
-                      Last edited{' '}
-                      {formatRelative(parseISO(recipe.updated_at), Date.now())}
-                    </h4>
-                  )}
                 </Col>
               </Row>
             </Card.Title>
           </Card.Header>
           <Card.Body>
             <p>{recipe.description}</p>
-            <Table striped>
-              <thead>
-                <tr>
-                  <th className="text-right">%</th>
-                  <th className="text-right">Vendor</th>
-                  <th>Flavor</th>
-                </tr>
-              </thead>
-              <tbody>
-                {flavors.map((flavor) => (
-                  <tr key={`${flavor.vendor}-${flavor.name}`}>
-                    <td className="text-right">{flavor.millipercent / 1e3}</td>
-                    <td className="text-right">{flavor.vendor}</td>
-                    <td>{flavor.name}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </Table>
+            {recipe.updated_at && (
+              <p>
+                Last edited{' '}
+                {formatRelative(parseISO(recipe.updated_at), Date.now())}
+              </p>
+            )}
+            <Flavors flavors={flavors} />
             <dl>
               <dt>Steep Days</dt>
               <dd>{recipe.steep_days}</dd>
@@ -122,16 +96,7 @@ export default function RecipePage({ data }) {
                 </Fragment>
               )}
             </dl>
-            {recipe.reviews?.length > 0 && (
-              <Accordion defaultActiveKey={null}>
-                <Accordion.Toggle as={Button} variant="link">
-                  Toggle Reviews
-                </Accordion.Toggle>
-                <Accordion.Collapse>
-                  <Reviews reviews={recipe.reviews} />
-                </Accordion.Collapse>
-              </Accordion>
-            )}
+            <Reviews reviews={reviews} />
           </Card.Body>
         </Card>
       </Container>
