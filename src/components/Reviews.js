@@ -4,9 +4,9 @@ import { Card } from 'react-bootstrap';
 
 export default function Reviews({ reviews }) {
   return (
-    reviews &&
+    reviews.length > 0 &&
     reviews.map((review) => (
-      <Card key={review.user}>
+      <Card key={review.user} className="mb-3">
         <Card.Header>
           <Card.Title>{review.user}</Card.Title>
           <p>Score: {review.score}/5</p>
