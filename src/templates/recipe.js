@@ -26,6 +26,7 @@ export default function RecipePage({ data }) {
       progressClass = 'warning';
       break;
     case 1:
+    case 0:
       progressClass = 'danger';
       break;
     default:
