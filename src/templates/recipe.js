@@ -122,14 +122,16 @@ export default function RecipePage({ data }) {
                 </Fragment>
               )}
             </dl>
-            <Accordion defaultActiveKey={null}>
-              <Accordion.Toggle as={Button} variant="link">
-                Toggle Reviews
-              </Accordion.Toggle>
-              <Accordion.Collapse>
-                <Reviews reviews={recipe.reviews} />
-              </Accordion.Collapse>
-            </Accordion>
+            {recipe.reviews?.length > 0 && (
+              <Accordion defaultActiveKey={null}>
+                <Accordion.Toggle as={Button} variant="link">
+                  Toggle Reviews
+                </Accordion.Toggle>
+                <Accordion.Collapse>
+                  <Reviews reviews={recipe.reviews} />
+                </Accordion.Collapse>
+              </Accordion>
+            )}
           </Card.Body>
         </Card>
       </Container>
