@@ -1,17 +1,24 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import React, { useState } from 'react';
 import { FormControl, Row, Col, ListGroup, Card } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import useSearch from '~components/useSearch';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
+import SortButtons from '~components/SortButtons';
 import { getRecipeSlug } from '~utils';
+
+const sortKeys = {
+  name: 'name',
+  views: 'view count'
+};
 
 export default function Recipes({ data }) {
   const recipes = data.allRecipesJson.nodes;
   const { searchTerm, onChange } = useSearch();
+  const [sortKey, setSortKey] = useState(sortKeys.views);
 
   const filteredRecipes = recipes.filter((recipe) => {
     const searchExpr = new RegExp(searchTerm, 'i');
@@ -23,7 +30,15 @@ export default function Recipes({ data }) {
     );
   });
 
-  filteredRecipes.sort((a, b) => b.views - a.views);
+  switch (sortKey) {
+    case sortKeys.name:
+      filteredRecipes.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case sortKeys.views:
+    default:
+      filteredRecipes.sort((a, b) => b.views - a.views);
+      break;
+  }
 
   function RecipeRow({ index, style }) {
     const recipe = filteredRecipes[index];
@@ -57,6 +72,11 @@ export default function Recipes({ data }) {
           </Card.Title>
         </Card.Header>
         <Card.Body>
+          <SortButtons
+            sortKey={sortKey}
+            sortKeys={sortKeys}
+            setSortKey={setSortKey}
+          />
           <FormControl
             type="text"
             onChange={onChange}

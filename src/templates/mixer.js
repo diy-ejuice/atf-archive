@@ -1,18 +1,25 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import React, { useState } from 'react';
 import { Card, Col, FormControl, ListGroup, Row } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import useSearch from '~components/useSearch';
+import SortButtons from '~components/SortButtons';
 import { getRecipeSlug } from '~utils';
+
+const sortKeys = {
+  name: 'name',
+  views: 'view count'
+};
 
 export default function Mixer({ data }) {
   const mixer = data.mixersJson;
   const recipes = data.allRecipesJson.nodes;
   const { searchTerm, onChange } = useSearch();
+  const [sortKey, setSortKey] = useState(sortKeys.views);
 
   const filteredRecipes = recipes.filter((recipe) => {
     const searchExpr = new RegExp(searchTerm, 'i');
@@ -20,7 +27,15 @@ export default function Mixer({ data }) {
     return searchTerm === '' || searchExpr.test(recipe.name);
   });
 
-  filteredRecipes.sort((a, b) => b.views - a.views);
+  switch (sortKey) {
+    case sortKeys.name:
+      filteredRecipes.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case sortKeys.views:
+    default:
+      filteredRecipes.sort((a, b) => b.views - a.views);
+      break;
+  }
 
   function RecipeRow({ index, style }) {
     const recipe = filteredRecipes[index];
@@ -55,6 +70,11 @@ export default function Mixer({ data }) {
           </Card.Title>
         </Card.Header>
         <Card.Body>
+          <SortButtons
+            sortKey={sortKey}
+            sortKeys={sortKeys}
+            setSortKey={setSortKey}
+          />
           <FormControl
             type="text"
             onChange={onChange}

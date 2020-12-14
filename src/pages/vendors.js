@@ -1,17 +1,32 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import React, { useState } from 'react';
 import { Card, Col, ListGroup, Row } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
+import SortButtons from '~components/SortButtons';
 import { getVendorSlug } from '~utils';
+
+const sortKeys = {
+  name: 'name',
+  flavors: 'flavor count'
+};
 
 export default function Vendors({ data }) {
   const vendors = data.allVendorsJson.nodes;
+  const [sortKey, setSortKey] = useState(sortKeys.name);
 
-  vendors.sort((a, b) => a.name.localeCompare(b.name));
+  switch (sortKey) {
+    case sortKeys.name:
+    default:
+      vendors.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case sortKeys.flavors:
+      vendors.sort((a, b) => b.flavors.count - a.flavors.count);
+      break;
+  }
 
   function VendorRow({ index, style }) {
     const vendor = vendors[index];
@@ -43,6 +58,11 @@ export default function Vendors({ data }) {
           </Card.Title>
         </Card.Header>
         <Card.Body>
+          <SortButtons
+            sortKey={sortKey}
+            sortKeys={sortKeys}
+            setSortKey={setSortKey}
+          />
           <List
             height={800}
             itemData={vendors}

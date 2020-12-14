@@ -1,17 +1,24 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React from 'react';
+import React, { useState } from 'react';
 import { FormControl, ListGroup, Row, Col, Card } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import useSearch from '~components/useSearch';
 
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
+import SortButtons from '~components/SortButtons';
 import { getFlavorSlug } from '~utils';
+
+const sortKeys = {
+  name: 'name',
+  recipes: 'recipe count'
+};
 
 export default function Flavors({ data }) {
   const flavors = data.allFlavorsJson.nodes;
   const { searchTerm, onChange } = useSearch();
+  const [sortKey, setSortKey] = useState(sortKeys.recipes);
 
   const filteredFlavors = flavors.filter((flavor) => {
     const searchExpr = new RegExp(searchTerm, 'i');
@@ -24,7 +31,15 @@ export default function Flavors({ data }) {
     );
   });
 
-  filteredFlavors.sort((a, b) => b.recipe_count - a.recipe_count);
+  switch (sortKey) {
+    case sortKeys.name:
+      filteredFlavors.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case sortKeys.recipes:
+    default:
+      filteredFlavors.sort((a, b) => b.recipe_count - a.recipe_count);
+      break;
+  }
 
   function FlavorRow({ index, style }) {
     const flavor = filteredFlavors[index];
@@ -58,6 +73,11 @@ export default function Flavors({ data }) {
           </Card.Title>
         </Card.Header>
         <Card.Body>
+          <SortButtons
+            sortKey={sortKey}
+            sortKeys={sortKeys}
+            setSortKey={setSortKey}
+          />
           <FormControl
             type="text"
             onChange={onChange}

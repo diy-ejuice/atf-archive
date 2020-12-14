@@ -1,6 +1,6 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import React, { Fragment } from 'react';
+import React, { Fragment, useState } from 'react';
 import { Card, ListGroup, Row, Col, FormControl } from 'react-bootstrap';
 import { FixedSizeList as List } from 'react-window';
 import {
@@ -16,12 +16,19 @@ import {
 import Layout from '~components/Layout';
 import SEO from '~components/SEO';
 import useSearch from '~components/useSearch';
+import SortButtons from '~components/SortButtons';
 import { getRecipeSlug } from '~utils';
+
+const sortKeys = {
+  name: 'name',
+  views: 'view count'
+};
 
 export default function Flavor({ data }) {
   const flavor = data.flavorsJson;
   const recipes = data.allRecipesJson.nodes;
   const { searchTerm, onChange } = useSearch();
+  const [sortKey, setSortKey] = useState(sortKeys.views);
 
   const filteredRecipes = recipes.filter((recipe) => {
     const searchExpr = new RegExp(searchTerm, 'i');
@@ -33,7 +40,15 @@ export default function Flavor({ data }) {
     );
   });
 
-  recipes.sort((a, b) => b.views - a.views);
+  switch (sortKey) {
+    case sortKeys.name:
+      filteredRecipes.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case sortKeys.views:
+    default:
+      filteredRecipes.sort((a, b) => b.views - a.views);
+      break;
+  }
 
   const chartData = [];
 
@@ -122,6 +137,11 @@ export default function Flavor({ data }) {
                 </LineChart>
               </ResponsiveContainer>
               <h2 className="mb-3">Used in {recipes.length} recipes</h2>
+              <SortButtons
+                sortKey={sortKey}
+                sortKeys={sortKeys}
+                setSortKey={setSortKey}
+              />
               <FormControl
                 type="text"
                 onChange={onChange}
