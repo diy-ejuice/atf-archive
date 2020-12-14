@@ -18,6 +18,5 @@ export default function Reviews({ reviews }) {
 }
 
 Reviews.propTypes = {
-  recipe: PropTypes.object.isRequired,
-  show: PropTypes.bool.isRequired
+  reviews: PropTypes.arrayOf(PropTypes.object)
 };
